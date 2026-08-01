@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-21-023
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-023
+  type: authoritative
+status: valid
+id: d3b20ee0-08ec-592b-bc03-694fb93855c0
+---
+data:
+  definition:
+  - content: superposition of coherent waves, capable of locally producing a diminution
+      or reinforcement of the amplitudes of the resulting wave
+  notes:
+  - content: This entry was numbered 845-01-12 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-593 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-593
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interference
+  language_code: eng
+  annotations: []
+termid: 17-21-023
+id: 17c9666a-18a0-5509-ae8f-e4ad9d5645e5

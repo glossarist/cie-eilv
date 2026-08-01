@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-26-016
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-016
+  type: authoritative
+status: valid
+id: 2d9fa1c2-17e6-589b-98c2-d1662ded7668
+---
+data:
+  definition:
+  - content: study of the effects of {17-21-002, optical radiation} upon the immune
+      system
+    type: intensional
+  examples: []
+  notes:
+  - content: Effects can be localized or systemic and mediated through the skin.
+    type: intensional
+  - content: This entry was numbered 17-903 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-903
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoimmunology
+  language_code: eng
+  annotations: []
+termid: 17-26-016
+id: 946915ba-4a22-5044-a80c-7b6d4bda1195

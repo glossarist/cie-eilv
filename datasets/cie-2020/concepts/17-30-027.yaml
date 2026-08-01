@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-30-027
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-027
+  type: authoritative
+status: valid
+id: 7109062a-375e-5d00-8696-bdf643aaa5b1
+---
+data:
+  definition:
+  - content: "{17-30-011, portable luminaire} with a handle and a flexible cord for
+      its supply"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-516 and 17-1350 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-516 and 17-1350
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hand lamp
+  - type: symbol
+    normative_status: preferred
+    designation: trouble lamp, US
+  language_code: eng
+  annotations: []
+termid: 17-30-027
+id: 881e0800-2567-5730-abb5-2a13f3b28ba1

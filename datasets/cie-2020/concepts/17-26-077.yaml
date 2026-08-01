@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-26-077
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-077
+  type: authoritative
+status: valid
+id: 5d03b123-623e-5feb-9452-1d3516bc0add
+---
+data:
+  definition:
+  - content: "{17-21-032, source} for which the size of the source image on the {17-22-001,
+      retina} is so large that radial heat flow from the centre of the image to the
+      surrounding biological tissue is negligibly small compared to heat flow in the
+      axial direction"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-641 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-641
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: large source
+    usage_info: in photobiology
+  language_code: eng
+  annotations: []
+termid: 17-26-077
+id: '07948d59-7f87-5cfb-95ab-453b0b317660'

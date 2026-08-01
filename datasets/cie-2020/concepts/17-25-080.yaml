@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-25-080
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-080
+  type: authoritative
+status: valid
+id: 37c80c0a-d461-5234-b5cd-1c45a16f19e0
+---
+data:
+  definition:
+  - content: angle of {17-24-047, reflection} equal and opposite to the {17-25-078,
+      angle of incidence}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1241 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1241
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specular angle
+  language_code: eng
+  annotations: []
+termid: 17-25-080
+id: 14f69ede-7042-55cf-9180-fa7846765a6f

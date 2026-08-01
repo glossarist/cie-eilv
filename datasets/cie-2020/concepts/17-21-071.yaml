@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 17-21-071
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-071
+  type: authoritative
+status: valid
+id: ede6eb3b-ad36-5ee3-ba2d-14509f878fa2
+---
+data:
+  definition:
+  - content: |-
+      density of incident {17-21-041, radiant energy} with respect to area at a point on a real or imaginary surface
+
+      where <i>Q</i><sub>e</sub> is {17-21-041, radiant energy} and <i>A</i> is the area on which the {17-21-041, radiant energy} is incident
+    type: intensional
+  examples: []
+  notes:
+  - content: The quantity "radiant exposure" defined here must not be confused with
+      the quantity named "exposure" which is used in the field of X- and γ-rays, the
+      unit of which is coulomb per kilogram (C·kg<sup>−1</sup>).
+    type: intensional
+  - content: The corresponding photometric quantity is "{17-21-072, luminous exposure}".
+      The corresponding quantity for photons is "{17-21-073, photon exposure}".
+    type: intensional
+  - content: The radiant exposure is expressed in joule per square metre (J·m<sup>−2</sup>
+      = W·s·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-42 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1021 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-42
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1021
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant exposure
+  - type: symbol
+    normative_status: preferred
+    designation: He; H
+  language_code: eng
+  annotations: []
+termid: 17-21-071
+id: 19f9b866-8793-5e44-aa9a-8e58adb01081

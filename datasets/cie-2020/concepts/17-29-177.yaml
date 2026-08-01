@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-29-177
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-177
+  type: authoritative
+status: valid
+id: a52be52d-5bb6-5536-a3a6-8cccba9c8d95
+---
+data:
+  definition:
+  - content: sum total of all adverse effects of artificial light
+  notes:
+  - content: This entry was numbered 17-669 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-669
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light pollution
+  language_code: eng
+  annotations: []
+termid: 17-29-177
+id: ae575bae-8b6e-53b4-9026-f33fefd3cc85

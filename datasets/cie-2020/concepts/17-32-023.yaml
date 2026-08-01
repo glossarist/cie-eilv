@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-32-023
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-023
+  type: authoritative
+status: valid
+id: 220aa66d-2cfe-56a5-a27d-993f8e404004
+---
+data:
+  definition:
+  - content: part of a display (including any supplementary front screen materials)
+      containing elements that can be activated to present visual information
+  notes:
+  - content: This entry was numbered 17-336 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-336
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: display surface
+  language_code: eng
+  annotations: []
+termid: 17-32-023
+id: a994f57d-b6d4-51ff-9f40-25b46de94e16

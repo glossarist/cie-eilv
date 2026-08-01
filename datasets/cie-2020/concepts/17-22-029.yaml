@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-22-029
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-029
+  type: authoritative
+status: valid
+id: edce0059-97f3-5472-ab60-584c49500160
+---
+data:
+  definition:
+  - content: denoting {17-22-031, protanopia} or {17-22-030, protanomaly}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-992 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-992
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: protan
+  language_code: eng
+  annotations: []
+termid: 17-22-029
+id: 2ac66f71-7ed9-53c8-b9f7-253ca7c26b70

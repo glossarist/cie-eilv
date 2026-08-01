@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-24-045
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-045
+  type: authoritative
+status: valid
+id: bbc2c6fd-ea0d-5594-bc0e-54c2e034f96e
+---
+data:
+  definition:
+  - content: process of {17-24-001, emission} by quantum transition from an excited
+      {17-24-019, energy level} to a lower level, triggered by incident radiation
+      having the frequency of that transition
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1269 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1269
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stimulated emission
+  language_code: eng
+  annotations: []
+termid: 17-24-045
+id: 94f6c45a-9eb9-5a5c-acc3-971088fd0ef2

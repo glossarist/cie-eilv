@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-004
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-004
+  type: authoritative
+status: valid
+id: 61cbebca-c243-55a6-842a-9849e0542b1b
+---
+data:
+  definition:
+  - content: sum total of physical conditions of light in a scene that has the potential
+      to influence human vision
+  notes:
+  - content: This entry was numbered 845-09-03 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-734 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-734
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous environment
+  language_code: eng
+  annotations: []
+termid: 17-29-004
+id: 875e7008-597d-5a92-a603-07e56eb5f2c7

@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-31-120
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-120
+  type: authoritative
+status: valid
+id: 9b7a5d18-2603-54e3-96f9-715ca99479b1
+---
+data:
+  definition:
+  - content: "{17-31-037, float} that carries a {17-31-004, signal light}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-447 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-447
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: float light
+  language_code: eng
+  annotations: []
+termid: 17-31-120
+id: fd3ad0ee-1836-5b18-9a7b-6225de268680

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-28-006
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-006
+  type: authoritative
+status: valid
+id: ddcbd006-6400-54c4-a6dc-d73f4346cf95
+---
+data:
+  definition:
+  - content: transparent or translucent envelope enclosing the {17-28-001, luminous
+      element}(s)
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-112 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-06
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-112
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-006
+id: 51a3d949-2800-56ce-9f69-1846bf43c87d

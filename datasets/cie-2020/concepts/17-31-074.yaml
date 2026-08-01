@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-31-074
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-074
+  type: authoritative
+status: valid
+id: e2c3e646-d086-5605-932f-da2862c38df4
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} carried on a vehicle to indicate rearwards
+      that a brake is being applied to the vehicle"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-78 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1270 and 17-108 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-78
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1270 and 17-108
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stop light
+  - type: symbol
+    normative_status: preferred
+    designation: brake light
+  language_code: eng
+  annotations: []
+termid: 17-31-074
+id: 9a412119-78ac-595f-b407-012c1d981131

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-26-010
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-010
+  type: authoritative
+status: valid
+id: 82f802c8-baef-5f79-bfea-bd67d49dd3e4
+---
+data:
+  definition:
+  - content: retinal injury produced by staring at an extremely {17-22-061, bright}
+      {17-21-032, source} of {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-881 and 17-940 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-881 and 17-940
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photic maculopathy
+  - type: symbol
+    normative_status: preferred
+    designation: blue light photoretinitis
+  language_code: eng
+  annotations: []
+termid: 17-26-010
+id: 8d59872c-0b19-5f55-97ba-1693e9704d1f

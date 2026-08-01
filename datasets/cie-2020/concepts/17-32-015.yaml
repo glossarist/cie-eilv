@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-32-015
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-015
+  type: authoritative
+status: valid
+id: 48da8a69-b239-5f9c-8cc3-22617b1f1dbd
+---
+data:
+  definition:
+  - content: colour image from an output device or a reflective or transparent {17-32-045,
+      hardcopy} to be measured, in which the device control values are kept constant
+      within the image area
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-220 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-220
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour patch
+  - type: symbol
+    normative_status: preferred
+    designation: test area
+  language_code: eng
+  annotations: []
+termid: 17-32-015
+id: b5ea0977-5807-5fc1-88ba-ed4a4e6ad556

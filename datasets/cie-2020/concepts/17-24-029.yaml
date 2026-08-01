@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-24-029
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-029
+  type: authoritative
+status: valid
+id: 0442dfb0-666f-5254-9460-b40a1b1989a1
+---
+data:
+  definition:
+  - content: "{17-24-021, luminescence} caused by X-rays or radioactive radiation"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1030 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-26
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radioluminescence
+  language_code: eng
+  annotations: []
+termid: 17-24-029
+id: 438d2f1d-4d3a-513a-995b-e2c2af752f57

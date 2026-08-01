@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-116
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-116
+  type: authoritative
+status: valid
+id: 243c7eb1-a6a0-5da5-a205-ba2d43e33d90
+---
+data:
+  definition:
+  - content: change in the perceived {17-22-040, colour} of an object caused solely
+      by a change of {17-22-013, chromatic adaptation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-68 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-23 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-68
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-23
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adaptive colour shift
+  language_code: eng
+  annotations: []
+termid: 17-22-116
+id: e40a4141-4667-5ef2-8781-089499ba7853

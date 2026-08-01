@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-21-039
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-039
+  type: authoritative
+status: valid
+id: 76b4f567-ebe2-5054-a5d4-4c35c61d4fad
+---
+data:
+  definition:
+  - content: |-
+      change in {17-21-037, luminous energy} with time
+
+      where <i>Q</i><sub>v</sub> is the {17-21-037, luminous energy} emitted, transferred or received, and <i>t</i> is time
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Luminous flux is a quantity derived from the {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>, by evaluating the radiation according to its action upon the {17-21-036, CIE standard photometric observer}. Luminous flux can be derived from the spectral radiant flux distribution by
+
+      where <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is spectral radiant flux, <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency} and <i>λ</i> is {17-21-025, wavelength}.
+    type: intensional
+  - content: |-
+      The distribution of the luminous intensities as a function of the direction of {17-24-001, emission}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the luminous flux, <i>Φ</i><sub>v</sub>, within a certain {17-21-109, solid angle}, <i>Ω</i>, of a {17-21-032, source}:
+      .
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-038, radiant flux}".
+      The corresponding quantity for photons is "{17-21-040, photon flux}".
+    type: intensional
+  - content: The luminous flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-01-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-738 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-738
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous flux
+  - type: symbol
+    normative_status: preferred
+    designation: Φv; Φ
+  language_code: eng
+  annotations: []
+termid: 17-21-039
+id: 487a0db9-57d2-5d0c-8bfe-594bf46fcecc

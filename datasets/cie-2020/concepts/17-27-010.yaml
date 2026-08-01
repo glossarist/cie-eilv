@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-27-010
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-010
+  type: authoritative
+status: valid
+id: 427a6f5e-fcc6-524c-9370-cd20c5acfd44
+---
+data:
+  definition:
+  - content: <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=192-01-03">system</a>
+      designed to provide {17-29-001, lighting}
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      A lighting system can be dedicated to
+      a. the support of one or more specified {17-22-084, visual task}s under specified conditions considering other requirements such as human comfort, safety, the {17-22-019, appearance} of the surrounding environment and energy consumption;
+      b. the support of other than human tasks.
+    type: intensional
+  - content: A lighting system can include a set of {17-27-001, light source}s, other
+      physical components, communication protocols, user interfaces, software and
+      networks to provide control and monitoring functions.
+    type: intensional
+  - content: The {17-27-001, light source}(s) and the related equipment can be integrated
+      in a single item, e.g. an {17-27-058, LED module}, a lamp or a {17-30-001, luminaire}.
+    type: intensional
+  - content: A lighting system can be networked to provide central or remote control
+      and monitoring functions.
+    type: intensional
+  - content: A lighting system can be connected to or integrated with other systems
+      or devices.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting system
+  language_code: eng
+  annotations: []
+termid: 17-27-010
+id: 189a1560-57b1-5d5a-817b-bedaae136cdd

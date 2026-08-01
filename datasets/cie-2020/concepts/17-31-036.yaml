@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-036
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-036
+  type: authoritative
+status: valid
+id: 0172b2d5-e487-5459-8fa1-5197cbde0229
+---
+data:
+  definition:
+  - content: "{17-31-035, buoy} that carries a {17-31-004, signal light}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-672 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-672
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighted buoy
+  language_code: eng
+  annotations: []
+termid: 17-31-036
+id: f6f73331-f824-54d7-82d3-ed3cde2fd2c7

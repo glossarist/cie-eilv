@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-22-087
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-087
+  type: authoritative
+status: valid
+id: 1e291e74-30e3-53ff-81e9-341de241bf15
+---
+data:
+  definition:
+  - content: lowest {17-21-050, luminance} of a stimulus which enables it to be perceived
+    type: intensional
+  examples: []
+  notes:
+  - content: The value of the luminance threshold depends on field size, surround,
+      {17-22-015, state of adaptation}, methodology, and other viewing conditions.
+    type: intensional
+  - content: The luminance threshold is expressed in candela per square metre (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-02-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-720 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-720
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance threshold
+  language_code: eng
+  annotations: []
+termid: 17-22-087
+id: 63cdf89c-b328-5663-a76b-1052523b2759

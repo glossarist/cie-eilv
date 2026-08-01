@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-015
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-015
+  type: authoritative
+status: valid
+id: 0d108916-1882-5e67-83ae-941cb13a96a9
+---
+data:
+  definition:
+  - content: "{17-25-013, photometry} in which the eye is used to make quantitative
+      comparisons between {17-22-125, light stimulus}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1413 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1413
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual photometry
+  language_code: eng
+  annotations: []
+termid: 17-25-015
+id: 971b2d9d-a004-59c6-8343-bcbfc3d65310

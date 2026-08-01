@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-31-050
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-050
+  type: authoritative
+status: valid
+id: a5596f2e-8213-5b9a-a163-8924610ac205
+---
+data:
+  definition:
+  - content: "{17-31-045, aeronautical ground light} positioned on, or very close
+      to, a runway of an aerodrome to indicate the part of the runway intended for
+      the landing or take-off of aircraft"
+    type: intensional
+  examples: []
+  notes:
+  - content: Runway centreline lights and runway edge lights indicate the centreline
+      and the edges of a runway respectively. Runway threshold lights and runway end
+      lights indicate the beginning and the end of the part of the runway intended
+      for the landing of aircraft respectively. Runway touchdown zone lights are {17-31-049,
+      barrette}s arranged in pairs symmetrically about the centreline of a runway,
+      and between the two lines of runway edge lights, to indicate the portion of
+      the runway where aircraft should first make contact on landing.
+    type: intensional
+  - content: This entry was numbered 845-11-53 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1129 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-53
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1129
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: runway light
+  language_code: eng
+  annotations: []
+termid: 17-31-050
+id: ed047593-3396-5d0d-aed4-9c33a9587ee3

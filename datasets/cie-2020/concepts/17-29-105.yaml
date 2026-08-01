@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-105
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-105
+  type: authoritative
+status: valid
+id: 645b3da2-5a12-53a6-a5ae-15902451cfbd
+---
+data:
+  definition:
+  - content: part of {17-29-101, global solar radiation} capable of causing a {17-22-083,
+      visual sensation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-84 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-278 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-84
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-278
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight
+  language_code: eng
+  annotations: []
+termid: 17-29-105
+id: 32debc5d-9e05-56a3-b088-7138aa47fe52

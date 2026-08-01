@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-28-051
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-051
+  type: authoritative
+status: valid
+id: 42969c7f-a473-5641-b407-6b29d118f155
+---
+data:
+  definition:
+  - content: mains or battery-supplied AC/DC to AC {17-28-060, invertor} including
+      stabilizing elements for starting and operating at least one {17-27-034, fluorescent
+      lamp}, generally at high frequency for {17-29-010, emergency lighting}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: AC/DC supplied electronic control gear for maintained emergency lighting
+      for fluorescent lamps
+  language_code: eng
+  annotations: []
+termid: 17-28-051
+id: 75dde1b7-227c-5187-82d8-99c9e6c79f15

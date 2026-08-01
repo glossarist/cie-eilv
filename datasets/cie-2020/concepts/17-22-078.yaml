@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-22-078
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-078
+  type: authoritative
+status: valid
+id: 356ff887-1d09-5845-bae1-fd0ecb7bd005
+---
+data:
+  definition:
+  - content: measure of spatial discrimination such as the reciprocal of the value
+      of the angular separation in minutes of arc of two neighbouring objects (points
+      or lines or other specified stimuli) which the observer can just perceive to
+      be separate
+  notes:
+  - content: This entry was numbered 17-1403 (2.) and 17-1415 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1403 (2.) and 17-1415
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual acuity
+    usage_info: quantitatively
+  - type: symbol
+    normative_status: preferred
+    designation: visual resolution, <quantitatively>
+  language_code: eng
+  annotations: []
+termid: 17-22-078
+id: d43c1de9-ad2e-50dc-a1cc-5245929f85fe

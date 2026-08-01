@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-26-055
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-055
+  type: authoritative
+status: valid
+id: 5aecfeb3-e59d-52e7-85df-10cc7217369b
+---
+data:
+  definition:
+  - content: potential for a photochemically induced retinal injury ({17-26-010, photic
+      maculopathy}) resulting from {17-21-002, optical radiation} exposure at {17-21-025,
+      wavelength}s primarily between 400 nm and 500 nm
+    type: intensional
+  examples: []
+  notes:
+  - content: This damage mechanism dominates over the thermal damage mechanism for
+      {17-26-071, exposure duration}s exceeding 10 s.
+    type: intensional
+  - content: The {17-26-027, action spectrum} extends into the UV-A for persons without
+      a normal UV-A absorbing lens.
+    type: intensional
+  - content: This entry was numbered 17-97 and 17-96 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-97 and 17-96
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard
+  - type: symbol
+    normative_status: preferred
+    designation: BLH
+  language_code: eng
+  annotations: []
+termid: 17-26-055
+id: c78f9df6-c34d-5478-880e-206ca1f7bf35

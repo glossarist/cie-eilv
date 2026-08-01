@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-014
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-014
+  type: authoritative
+status: valid
+id: a2b49c20-02c5-5400-b44b-b7973cf955bb
+---
+data:
+  definition:
+  - content: "{17-27-011, incandescent lamp} whose {17-28-001, luminous element} is
+      a {17-28-002, filament} of tungsten"
+    type: intensional
+  examples: []
+  notes:
+  - content: For the shapes of {17-28-002, filament}, see "{17-28-003, straight filament}",
+      "{17-28-004, single-coil filament}" and "coip-coil filament".
+    type: intensional
+  - content: This entry was numbered 845-07-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1352 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1352
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tungsten filament lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-014
+id: cce6ded6-e6b6-5425-b2ac-775418746517

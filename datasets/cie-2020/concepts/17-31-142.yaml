@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-142
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-142
+  type: authoritative
+status: valid
+id: 04b0fb11-71d5-50de-a49c-ace95e6f6883
+---
+data:
+  definition:
+  - content: quotient of the minimum {17-21-050, luminance} at a point and the average
+      road surface {17-21-050, luminance} over an evaluation area
+    type: intensional
+  examples: []
+  notes:
+  - content: Where the {17-21-050, luminance} value refers only to the carriageway
+      part of the road it can be known as "carriageway luminance".
+    type: intensional
+  - content: The overall uniformity of road surface luminance has unit one.
+    type: intensional
+  - content: This entry was numbered 17-857 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-857
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overall uniformity of road surface luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Uo
+  language_code: eng
+  annotations: []
+termid: 17-31-142
+id: 431bc081-d63a-5ca8-8cae-6236a0103669

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-22-021
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-021
+  type: authoritative
+status: valid
+id: 636daa46-2aec-547f-9016-822a7324d965
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} seen through an aperture that prevents the said
+      {17-22-040, colour} from being associated with a specific object or {17-21-032,
+      source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-48 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-48
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aperture mode
+    usage_info: of colour appearance
+  language_code: eng
+  annotations: []
+termid: 17-22-021
+id: f93ea84d-d029-54d5-919d-014baac7ab01

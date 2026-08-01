@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-129
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-129
+  type: authoritative
+status: valid
+id: cfb63e9c-457d-5a27-98f8-0c706f26c6b3
+---
+data:
+  definition:
+  - content: height of the lower case letter "x" within a given character set
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-31-124, character height}".
+    type: intensional
+  - content: This entry was numbered 17-1445 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1445
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: '"x" height'
+  language_code: eng
+  annotations: []
+termid: 17-31-129
+id: a100d0a0-b185-57a8-97ac-5d15e4ede972

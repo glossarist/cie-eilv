@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-165
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-165
+  type: authoritative
+status: valid
+id: ed1d7dbe-ba22-5cea-a3d1-a4e5da6d1fec
+---
+data:
+  definition:
+  - content: "{17-29-161, hollow light guide} in which light is confined by multiple
+      partial {17-24-047, reflection}s by multi-layer dielectric structures at the
+      guide wall"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-794 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-794
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multi-layer light guide
+  language_code: eng
+  annotations: []
+termid: 17-29-165
+id: 8a91f287-4747-54f2-be6d-c7385c16d7e1

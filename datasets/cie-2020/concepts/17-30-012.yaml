@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-30-012
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-012
+  type: authoritative
+status: valid
+id: 80c7a994-0029-5a5a-a8a1-ae40c7503660
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} designed for cold cathode lamp(s) that can be
+      easily moved during normal operation and supplied with a non-detachable flexible
+      cable and incorporating a transformer, inverter or converter"
+    type: intensional
+  examples: []
+  notes:
+  - content: A portable cold cathode luminaire is designed to be installed and connected
+      to a mains socket by the user.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portable cold cathode luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-012
+id: af554f27-a880-5964-872a-920e3b4fb133

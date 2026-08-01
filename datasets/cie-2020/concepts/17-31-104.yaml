@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-104
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-104
+  type: authoritative
+status: valid
+id: 45f25dbc-e6e5-5f64-a0e0-19ae060c3026
+---
+data:
+  definition:
+  - content: measure of how readily an observer can understand the message intended
+      to be conveyed by a {17-31-002, sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-243 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-243
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: comprehensibility
+    usage_info: of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-104
+id: 66d3e67a-7c23-5d27-9f5a-bde56ff4889b

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-26-028
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-028
+  type: authoritative
+status: valid
+id: 90bd9382-1735-555b-97c7-e0c946960290
+---
+data:
+  definition:
+  - content: reddening of the skin caused by the {17-26-003, actinic} effect of {17-29-096,
+      solar radiation} or artificial {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: Non-actinic erythema can be caused by various chemical or physical agents.
+    type: intensional
+  - content: This entry was numbered 845-06-15 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-399 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-15
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-399
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinic erythema
+  - type: symbol
+    normative_status: preferred
+    designation: erythema
+  language_code: eng
+  annotations: []
+termid: 17-26-028
+id: 2f9c5248-74a8-5f18-954a-115323197e36

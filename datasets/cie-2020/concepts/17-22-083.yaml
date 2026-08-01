@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-22-083
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-083
+  type: authoritative
+status: valid
+id: 65957994-2a4c-5fe3-9789-950161d4120f
+---
+data:
+  definition:
+  - content: response of the visual system to stimulation
+  notes:
+  - content: This entry was numbered 17-1416 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1416
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual sensation
+  language_code: eng
+  annotations: []
+termid: 17-22-083
+id: cbd63e82-6349-5f33-b879-a35986920a08

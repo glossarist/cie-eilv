@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-29-063
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-063
+  type: authoritative
+status: valid
+id: 8a54c368-7ff1-5e00-b3de-460f66d207f7
+---
+data:
+  definition:
+  - content: calculation method to predict {17-21-060, illuminance} at each point
+      on a calculation plane, using measured data of {17-29-037, luminous intensity
+      distribution} of a {17-21-032, source} or a {17-30-001, luminaire}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-963 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-963
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point-by-point method
+    usage_info: lighting calculation
+  language_code: eng
+  annotations: []
+termid: 17-29-063
+id: 44b891bb-e832-5968-8aea-5fbc00b13937

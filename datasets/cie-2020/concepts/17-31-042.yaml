@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-042
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-042
+  type: authoritative
+status: valid
+id: c65445a8-9fc6-5c56-bb8b-cff215eba208
+---
+data:
+  definition:
+  - content: "{17-31-057, navigation light} positioned above the longitudinal axis
+      of a vessel, and designed to show a fixed white light forwards and to the sides
+      of the vessel"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-757 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-757
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mast-head light
+    usage_info: of a vessel
+  language_code: eng
+  annotations: []
+termid: 17-31-042
+id: 653b3ba0-4186-5c4d-a7f8-320e9133d1f1

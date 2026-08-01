@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-29-152
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-152
+  type: authoritative
+status: valid
+id: 901392fa-0ee0-5a5e-a2b2-28ee08644032
+---
+data:
+  definition:
+  - content: "{17-29-151, average luminance} of a specified surface when the {17-29-034,
+      lighting installation} is new"
+    type: intensional
+  examples: []
+  notes:
+  - content: The initial average luminance is expressed in candela per square metre
+      (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-583 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-583
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial average luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av,i; ; Lav,i;
+  language_code: eng
+  annotations: []
+termid: 17-29-152
+id: 75c59761-ff14-5cfa-b802-156a72f5d4f4

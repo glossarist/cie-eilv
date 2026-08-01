@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-27-018
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-018
+  type: authoritative
+status: valid
+id: deb25ec5-7851-5162-825c-9c5d859f1804
+---
+data:
+  definition:
+  - content: passage of an electric current through gases and vapours by the production
+      and movements of charge carriers under the influence of an electric field
+    type: intensional
+  examples: []
+  notes:
+  - content: The electric discharge results in the {17-24-001, emission} of {17-21-001,
+      electromagnetic radiation} which plays an essential part in all its applications
+      in {17-29-001, lighting}.
+    type: intensional
+  - content: This entry was numbered 845-07-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-331 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-331
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric discharge
+    usage_info: in a gas
+  language_code: eng
+  annotations: []
+termid: 17-27-018
+id: 2483679a-2221-5d36-9b2b-844df500dddd

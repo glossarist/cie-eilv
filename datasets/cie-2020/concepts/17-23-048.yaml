@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-23-048
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-048
+  type: authoritative
+status: valid
+id: 91d5c86b-3ca0-5618-baa3-c7a0a9f3e98a
+---
+data:
+  definition:
+  - content: standard colorimetric observer defined by the {17-23-047, CIE colour-matching
+      functions}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-165 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-165
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard colorimetric observer
+  language_code: eng
+  annotations: []
+termid: 17-23-048
+id: 9edb2c81-45d9-597a-904b-2614b48bcd84

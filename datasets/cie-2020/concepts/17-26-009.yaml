@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-009
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-009
+  type: authoritative
+status: valid
+id: f3616f45-b29c-576c-8b1c-fa755db0297e
+---
+data:
+  definition:
+  - content: branch of biology and medicine that deals with pathologic effects linked
+      to {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-935 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-935
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photopathology
+  language_code: eng
+  annotations: []
+termid: 17-26-009
+id: 43b0726a-2b7e-5baa-86f9-8bfc8f08f123

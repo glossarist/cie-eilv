@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-055
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-055
+  type: authoritative
+status: valid
+id: bef439f5-cbec-5193-a81c-87cf51a02340
+---
+data:
+  definition:
+  - content: "{17-24-049, scattering} by {17-24-048, transmission} in which, on the
+      macroscopic scale, there is no {17-24-053, regular transmission}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-48 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-307 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-48
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-307
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse transmission
+  language_code: eng
+  annotations: []
+termid: 17-24-055
+id: d11a712e-6d64-5984-83c0-ee1be01e6df8

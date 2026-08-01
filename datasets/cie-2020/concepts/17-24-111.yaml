@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-111
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-111
+  type: authoritative
+status: valid
+id: 64d92950-b169-5a51-bbb7-3f6af85ca3aa
+---
+data:
+  definition:
+  - content: |-
+      complex value where the real part is the {17-24-109, refractive index} and the imaginary part is related to the {17-24-110, spectral absorption index}
+
+      where <i>n</i>(<i>λ</i>) is the {17-24-109, refractive index} at {17-21-025, wavelength} <i>λ</i>, <i>κ</i>(<i>λ</i>) is the {17-24-110, spectral absorption index} and .
+    type: intensional
+  examples: []
+  notes:
+  - content: The complex refractive index has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-103 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-242 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-103
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-242
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex refractive index
+  language_code: eng
+  annotations: []
+termid: 17-24-111
+id: 5a745915-7c60-597d-9d7c-80fb55dc585f

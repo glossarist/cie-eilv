@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-26-025
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-025
+  type: authoritative
+status: valid
+id: eec41c4a-5694-52c0-878e-505d082dabf3
+---
+data:
+  definition:
+  - content: treatment of disease by the use of solar {17-21-099, irradiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-530 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-530
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: heliotherapy
+  language_code: eng
+  annotations: []
+termid: 17-26-025
+id: a778dcfb-1775-57b5-979e-50c491128f4a

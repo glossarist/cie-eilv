@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-22-005
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-005
+  type: authoritative
+status: valid
+id: 9cb8a2b1-2cac-51c0-b021-a5cecb2ceacb
+---
+data:
+  definition:
+  - content: location where the optic nerve joins to the {17-22-001, retina} and where
+      there are no photoreceptors
+    type: intensional
+  examples: []
+  notes:
+  - content: Because there are no photoreceptors at the blind spot, the {17-22-001,
+      retina} cannot respond to light at this location.
+    type: intensional
+  - content: The retinal location of the blind spot is about 15° nasal from the {17-22-006,
+      fovea} in the {17-22-079, visual angle} and subtends about 7° in height and
+      about 5° in width.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blind spot
+  language_code: eng
+  annotations: []
+termid: 17-22-005
+id: a4e313af-bb3c-5270-ad8f-73cd828e6476

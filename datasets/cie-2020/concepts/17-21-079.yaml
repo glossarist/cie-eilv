@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-079
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-079
+  type: authoritative
+status: valid
+id: 84ab85b3-b8f0-57ed-8722-c6c73b8b5d8f
+---
+data:
+  definition:
+  - content: time integral of the {17-21-069, photon cylindrical irradiance}, <i>E</i><sub>p,c</sub>,
+      at a given point for a given direction, over a given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The photon cylindrical exposure is expressed in metre to the power minus
+      two (m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-920 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-920
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon cylindrical exposure
+  - type: symbol
+    normative_status: preferred
+    designation: Hp,c; Hc
+  language_code: eng
+  annotations: []
+termid: 17-21-079
+id: d5154541-e9ca-52e2-a786-cd77bae5b9e5

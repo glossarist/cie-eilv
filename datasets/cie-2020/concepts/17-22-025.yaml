@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-22-025
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-025
+  type: authoritative
+status: valid
+id: a685100c-c848-5945-afa5-72eae047ca18
+---
+data:
+  definition:
+  - content: anomalous trichromatic {17-22-023, defective colour vision} in which
+      discrimination of the reddish and greenish contents of {17-22-040, colour}s
+      is reduced, without any {17-22-040, colour}s appearing abnormally {17-22-062,
+      dim}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-298 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-298
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deuteranomaly
+  language_code: eng
+  annotations: []
+termid: 17-22-025
+id: a40f8843-4cab-562e-bbf3-24142256a559

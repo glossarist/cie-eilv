@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-22-039
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-039
+  type: authoritative
+status: valid
+id: 29ba2d66-6691-5959-8f65-221d7f539e3c
+---
+data:
+  definition:
+  - content: characteristic of all sensations and perceptions that is specific to
+      the visual system
+    type: intensional
+  examples: []
+  notes:
+  - content: Light is normally, but not always, perceived as a result of the action
+      of a {17-22-125, light stimulus} on the visual system.
+    type: intensional
+  - content: This entry was numbered 845-02-17 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-659 (1.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-17
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-659 (1.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light
+    usage_info: perceptual
+    grammar_info:
+    - participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: true
+      preposition: false
+  - type: symbol
+    normative_status: preferred
+    designation: perceived light
+  language_code: eng
+  annotations: []
+termid: 17-22-039
+id: 314453d6-1c5d-5457-b745-95a781fb4f2c

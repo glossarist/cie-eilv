@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-23-013
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-013
+  type: authoritative
+status: valid
+id: 23e8d89b-f49c-5de2-8f11-2277e86d9209
+---
+data:
+  definition:
+  - content: two {17-23-002, colour stimulus} for which it is possible to reproduce
+      the {17-23-038, tristimulus values} of a specified {17-23-009, achromatic stimulus}
+      by a suitable {17-23-030, additive mixture} of these two stimuli
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-240 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-240
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complementary colour stimuli
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-013
+id: 2264eacb-363e-58d7-9a9c-5ff68e4d5df5

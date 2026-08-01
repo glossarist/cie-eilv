@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-26-021
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-021
+  type: authoritative
+status: valid
+id: 0b807dc3-958d-5383-8a90-22566f65118b
+---
+data:
+  definition:
+  - content: change in the direction of growth of plant parts (cells, tissues, and/or
+      organs) in response to a directional {17-21-032, source} of {17-21-002, optical
+      radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: Plant stems will typically bend towards a {17-21-032, source} of {17-21-002,
+      optical radiation} and leaves will change orientation such that their upper
+      surfaces tend to be perpendicular to a {17-21-032, source} of {17-21-002, optical
+      radiation}.
+    type: intensional
+  - content: This entry was numbered 17-947 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-947
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phototropism
+  language_code: eng
+  annotations: []
+termid: 17-26-021
+id: ec0226e5-a640-5cf9-8f81-65a6e5ed068d

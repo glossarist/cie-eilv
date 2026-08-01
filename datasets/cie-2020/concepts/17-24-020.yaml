@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-020
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-020
+  type: authoritative
+status: valid
+id: 5980dc6a-bafe-50da-8e28-8c979b46e629
+---
+data:
+  definition:
+  - content: elevation of the {17-24-019, energy level}s of atoms, molecules or ions
+      to higher {17-24-019, energy level}s
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-17 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-407 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-17
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-407
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: excitation
+  language_code: eng
+  annotations: []
+termid: 17-24-020
+id: 1dff46e8-1a17-59ff-a948-36900b3e7e2a

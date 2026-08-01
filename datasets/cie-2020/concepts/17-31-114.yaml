@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-31-114
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-114
+  type: authoritative
+status: valid
+id: 5062377d-7c03-5299-90ff-9407e2abbca2
+---
+data:
+  definition:
+  - content: authorized {17-31-002, sign} that conveys, to vehicular and pedestrian
+      traffic, a prohibition, restriction, requirement or warning, or information
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1184 and 17-1183 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1184 and 17-1183
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign plate
+  - type: symbol
+    normative_status: preferred
+    designation: sign panel
+  language_code: eng
+  annotations: []
+termid: 17-31-114
+id: 19beb665-8eb2-5d77-86e6-516c0d799f23

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-172
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-172
+  type: authoritative
+status: valid
+id: 354906d0-574a-54d9-a2c9-b675e94d8e27
+---
+data:
+  definition:
+  - content: strip surrounding the {17-29-171, task area} within the {17-22-081, field
+      of vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: In exterior applications this strip should have a width of at least 2
+      m.
+    type: intensional
+  - content: This entry was numbered 17-1287 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1287
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surrounding area
+  language_code: eng
+  annotations: []
+termid: 17-29-172
+id: e6fe9c6d-3550-585a-8c59-f244e5f66c12

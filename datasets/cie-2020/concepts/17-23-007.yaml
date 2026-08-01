@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-23-007
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-007
+  type: authoritative
+status: valid
+id: 7cea7e51-bfdd-51b9-b3b6-6b4b3e057176
+---
+data:
+  definition:
+  - content: degree of {17-23-001, colour} mismatch, calculated in the form of a {17-23-015,
+      colour difference}, caused by substituting a test {17-23-018, illuminant} (observer)
+      of different relative spectral composition (responsivity) for the {17-22-108,
+      reference illuminant} (observer)
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-23-015, colour difference} is evaluated using a CIE colour difference
+      formula and it shall be clearly stated which formula has been used.
+    type: intensional
+  - content: This entry was numbered 17-770 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-770
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metamerism index
+  language_code: eng
+  annotations: []
+termid: 17-23-007
+id: dd88bcb1-7239-5fbb-bde6-d90549135e0a

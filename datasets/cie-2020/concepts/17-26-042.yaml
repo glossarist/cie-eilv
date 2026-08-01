@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-26-042
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-042
+  type: authoritative
+status: valid
+id: f5532856-0029-50a1-b58b-a095ba0d6634
+---
+data:
+  definition:
+  - content: natural or artificial cycle of light and darkness to which living organisms
+      can be exposed
+  notes:
+  - content: This entry was numbered 845-06-27 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-936 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-936
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoperiod
+  language_code: eng
+  annotations: []
+termid: 17-26-042
+id: 7d684029-3946-5839-b8a9-1f0d649efd87

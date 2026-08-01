@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-27-118
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-118
+  type: authoritative
+status: valid
+id: d191d625-c4ee-557b-8bbc-a9bb437207ee
+---
+data:
+  definition:
+  - content: voltage at the {17-28-064, supply terminal}s
+    type: intensional
+  examples: []
+  notes:
+  - content: The supply voltage is expressed in volt (V).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: supply voltage
+  language_code: eng
+  annotations: []
+termid: 17-27-118
+id: 543326a7-69d4-5c4e-99d0-6a73bd616f8b

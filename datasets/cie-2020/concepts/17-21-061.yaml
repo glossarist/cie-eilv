@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-21-061
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-061
+  type: authoritative
+status: valid
+id: 6e65ee0e-bd45-5032-9851-38a372f13356
+---
+data:
+  definition:
+  - content: "{17-21-060, illuminance} on a horizontal plane"
+    type: intensional
+  examples: []
+  notes:
+  - content: The horizontal illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-539 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-539
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: horizontal illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,h; Eh
+  language_code: eng
+  annotations: []
+termid: 17-21-061
+id: baefd90b-43c0-5b91-bf62-86d3daeb5441

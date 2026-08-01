@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-27-052
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-052
+  type: authoritative
+status: valid
+id: 6df65313-a513-5a6d-8eb7-7f8d66e7a527
+---
+data:
+  definition:
+  - content: transition layer between semiconductor regions of different electrical
+      properties, or between a semiconductor and a layer of different type, of an
+      {17-27-050, LED}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LED junction
+  language_code: eng
+  annotations: []
+termid: 17-27-052
+id: e3aca5e5-fa30-577e-9f82-ab87d5b5e550

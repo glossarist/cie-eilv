@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-28-021
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-021
+  type: authoritative
+status: valid
+id: 3d75eeb9-5eb8-5165-a2cf-113baad63559
+---
+data:
+  definition:
+  - content: "{17-28-015, cap} intended for use with printed circuit boards"
+    type: intensional
+  examples: []
+  notes:
+  - content: CH14.65d, GUX2.7d and GZX7d.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: printed circuit board cap
+  - type: symbol
+    normative_status: preferred
+    designation: PCB cap
+  language_code: eng
+  annotations: []
+termid: 17-28-021
+id: fe4399de-8d08-58c7-b70d-a79b06723dbc

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-29-147
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-147
+  type: authoritative
+status: valid
+id: 3033c047-ff70-519a-970d-cb27090ccdaf
+---
+data:
+  definition:
+  - content: quotient of the {17-21-039, luminous flux} of a lamp at a given time
+      in its operational life and the initial {17-21-039, luminous flux}
+    type: intensional
+  examples: []
+  notes:
+  - content: The lamp luminous flux maintenance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-07-65 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-636, 17-635, and 17-686 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-65
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-636, 17-635, and 17-686
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lamp luminous flux maintenance factor
+  - type: symbol
+    normative_status: preferred
+    designation: LLMF
+  language_code: eng
+  annotations: []
+termid: 17-29-147
+id: c05992dd-6e51-5b9f-b7da-c582bc9793fb

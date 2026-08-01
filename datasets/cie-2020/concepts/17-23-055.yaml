@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-23-055
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-055
+  type: authoritative
+status: valid
+id: cf6d62b4-b54b-5d9b-976b-8c86787f1c3f
+---
+data:
+  definition:
+  - content: "{17-23-053, chromaticity coordinates} of monochromatic stimuli"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-36 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1211 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-36
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1211
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral chromaticity coordinates
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: symbol
+    normative_status: preferred
+    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+  language_code: eng
+  annotations: []
+termid: 17-23-055
+id: 5ee99dca-5864-50a7-a0df-87722c5b72eb

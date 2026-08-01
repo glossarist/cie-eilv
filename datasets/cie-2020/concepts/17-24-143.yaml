@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-24-143
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-143
+  type: authoritative
+status: valid
+id: 497bab23-c21f-53da-a4a9-ef8b0b807a0e
+---
+data:
+  definition:
+  - content: long {17-21-025, wavelength} variation in a surface away from its basic
+      form
+    type: intensional
+  examples: []
+  notes:
+  - content: The basic form is a smooth surface.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: waviness
+    usage_info: of a surface
+  language_code: eng
+  annotations: []
+termid: 17-24-143
+id: 0065ed9c-f61a-5503-b9ba-6d6a0a0ef453

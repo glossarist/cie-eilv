@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-071
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-071
+  type: authoritative
+status: valid
+id: c16426fe-c4e4-5700-9daa-1bd1f0d94527
+---
+data:
+  definition:
+  - content: "{17-27-070, reflector lamp}, the {17-28-006, bulb} of which consists
+      of two glass parts fused together, namely a metallized reflecting bowl and a
+      patterned cover forming an optical system"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-981 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-981
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pressed-glass lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-071
+id: 990829f7-339a-5619-a581-1a4e28cda814

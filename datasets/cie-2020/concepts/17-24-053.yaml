@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-24-053
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-053
+  type: authoritative
+status: valid
+id: 0350750c-38c6-57e7-a184-b836906ac39c
+---
+data:
+  definition:
+  - content: "{17-24-048, transmission} in accordance with the laws of geometrical
+      optics, without {17-24-049, scattering}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1078 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1078
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular transmission
+  - type: symbol
+    normative_status: preferred
+    designation: direct transmission
+  language_code: eng
+  annotations: []
+termid: 17-24-053
+id: 1e3d8c32-63cd-5738-ab26-f1d0829acc81

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-027
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-027
+  type: authoritative
+status: valid
+id: 76d79810-0261-5c21-9e3c-a3937af91471
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} designed to be mounted separately from a {17-30-001,
+      luminaire} and at the same time providing all the necessary protection according
+      to its classification and marking"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: independent lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-027
+id: 1fd1b08c-dadc-5e2a-a937-029f1dba639c

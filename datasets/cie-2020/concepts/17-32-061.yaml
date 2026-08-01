@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-32-061
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-061
+  type: authoritative
+status: valid
+id: 5b77023a-850b-5ccc-810c-079a7258081a
+---
+data:
+  definition:
+  - content: mathematical model that produces transformations which are applied to
+      scene- or original-referred image data to produce image data describing a pleasing
+      reproduction
+    type: intensional
+  examples: []
+  notes:
+  - content: Preferred reproduction models are different from other reproduction models
+      in that the pleasing reproduction need not be an attempt to reproduce the {17-22-019,
+      appearance} of the original. In fact, what is considered pleasing can depend
+      on viewer preferences. The transformations produced by a preferred reproduction
+      model are generally dependent on the characteristics of the scene or original
+      and the output medium.
+    type: intensional
+  - content: This entry was numbered 17-974 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-974
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preferred reproduction model
+  language_code: eng
+  annotations: []
+termid: 17-32-061
+id: 74c7740d-8e3d-59ba-843f-305b7c195f83

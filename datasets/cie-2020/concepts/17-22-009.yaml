@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-22-009
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-009
+  type: authoritative
+status: valid
+id: b665f330-b09a-598b-a977-d4d63dfbedda
+---
+data:
+  definition:
+  - content: vision triggered by stimulation of the area of the {17-22-001, retina}
+      beyond the macula
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peripheral vision
+  language_code: eng
+  annotations: []
+termid: 17-22-009
+id: 66190273-0425-5c60-8387-07cb7c86f102

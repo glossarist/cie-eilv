@@ -1,0 +1,78 @@
+---
+data:
+  identifier: 17-21-054
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-054
+  type: authoritative
+status: valid
+id: 3546c688-389c-5d8e-b5c0-60264bb3ccfe
+---
+data:
+  definition:
+  - content: mean value of {17-21-053, irradiance} on the outer curved surface of
+      a very small (real or imaginary) sphere at a point in space
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The spherical irradiance can be expressed by
+
+      where <i>Ω</i> is {17-21-109, solid angle} and <i>L</i><sub>e</sub> is {17-21-049, radiance}.
+    type: intensional
+  - content: The spherical irradiance is the quotient of the {17-21-038, radiant flux}
+      of all the radiation incident on the outer surface of an infinitely small sphere
+      centred at the specified point and the area of the diametrical cross-section
+      of that sphere.
+    type: intensional
+  - content: The analogous quantities "{17-21-066, spherical illuminance}", <i>E</i><sub>v,o</sub>,
+      and "{17-21-059, photon spherical irradiance}", <i>E</i><sub>p,o</sub>, are
+      defined in a similar way, replacing {17-21-049, radiance}, <i>L</i><sub>e</sub>,
+      by {17-21-050, luminance}, <i>L</i><sub>v</sub>, and {17-21-051, photon radiance},
+      <i>L</i><sub>p</sub>, respectively.
+    type: intensional
+  - content: The spherical irradiance is the appropriate radiometric quantity for
+      describing a {17-26-036, dose rate} for a photobiological or photochemical effect
+      in a {17-24-049, scattering} medium (e.g. light in skin). The spherical irradiance
+      is also the appropriate quantity for describing the {17-21-099, irradiation}
+      of microorganisms. The spherical irradiance is frequently used incorrectly as
+      a substitute for irradiance in some publications.
+    type: intensional
+  - content: The spherical irradiance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-40 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1245, 17-455 and 17-1024 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-40
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1245, 17-455 and 17-1024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: fluence rate
+  language_code: eng
+  annotations: []
+termid: 17-21-054
+id: 3a5e6b67-8e60-5472-9af5-88ebfbdb019a

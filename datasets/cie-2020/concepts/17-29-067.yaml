@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-067
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-067
+  type: authoritative
+status: valid
+id: 2c80d2ff-e97b-5602-96bc-03c66d06a84e
+---
+data:
+  definition:
+  - content: surface on which optical quantities are measured or specified
+  notes:
+  - content: This entry was numbered 845-09-49 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-1057 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1057
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference surface
+    usage_info: in photometric or radiometric measurements
+  language_code: eng
+  annotations: []
+termid: 17-29-067
+id: c3eda147-6a0e-59cf-b4e7-7f75c3c9a5c7

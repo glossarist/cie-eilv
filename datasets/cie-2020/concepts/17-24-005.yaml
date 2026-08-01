@@ -1,0 +1,71 @@
+---
+data:
+  identifier: 17-24-005
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-005
+  type: authoritative
+status: valid
+id: 7a1cee25-5d9d-5d6c-bc28-4b5a4306980c
+---
+data:
+  definition:
+  - content: |-
+      law giving the {17-21-029, spectral distribution} of {17-21-049, radiance} of a {17-24-004, Planckian radiator} as a function of {17-21-025, wavelength} and temperature
+
+      where <i>L</i><sub>e,</sub><i><sub>λ</sub></i> is the {17-21-052, spectral radiance}, <i>λ</i> is the {17-21-025, wavelength} in vacuum, <i>T</i> is the thermodynamic temperature, , <i>c</i><sub>2</sub> = <i>h</i> <i>c</i><sub>0</sub> / <i>k</i>, <i>h</i> is the {17-21-108, Planck constant}, <i>c</i><sub>0 </sub>is the speed of light in vacuum, and <i>k</i> is the Boltzmann constant
+    type: intensional
+  examples: []
+  notes:
+  - content: The formula is sometimes written with instead of , where <i>Ω</i><sub>0</sub>
+      is the {17-21-109, solid angle} of magnitude 1 sr.
+    type: intensional
+  - content: |-
+      For a {17-25-035, detector} in a medium of {17-24-109, refractive index} <i>n</i>, the measured {17-21-049, radiance} is:
+      <i>n</i><sup>2</sup><i>L</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>, <i>T</i>).
+    type: intensional
+  - content: Planck's law can also be expressed to give the {17-21-029, spectral distribution}
+      of {17-21-080, radiant exitance}, <i>M</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>,
+      <i>T</i>); the first factor in the formula is then <i>c</i><sub>1</sub> instead
+      of .
+    type: intensional
+  - content: Both quantities ({17-21-049, radiance} and {17-21-080, radiant exitance})
+      apply to the {17-21-021, unpolarized radiation} as emitted.
+    type: intensional
+  - content: For the up-to-date values of the {17-21-108, Planck constant}, <i>h</i>,
+      the speed of light in vacuum, <i>c</i><sub>0</sub>, and the Boltzmann constant,
+      <i>k</i>, see CODATA.
+    type: intensional
+  - content: This entry was numbered 845-04-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-958 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-958
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planck's law
+  language_code: eng
+  annotations: []
+termid: 17-24-005
+id: 0a74d1cb-b8ee-580b-a404-5bf514227006

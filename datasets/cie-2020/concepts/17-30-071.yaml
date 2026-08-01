@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-071
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-071
+  type: authoritative
+status: valid
+id: 44e7a000-7265-5501-b344-9a7d57692dc8
+---
+data:
+  definition:
+  - content: "{17-30-060, mine luminaire} designed and tested for use in areas where
+      explosive methane gas or coal dust can be present"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-60 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-876 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-60
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-876
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permissible luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-071
+id: 3d9236d9-7488-5368-a1c7-5e18e5b72ca9

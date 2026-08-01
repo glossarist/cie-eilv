@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-22-045
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-045
+  type: authoritative
+status: valid
+id: 1739020f-a186-55ed-acab-223c0bcc54a3
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived to belong to an area that appears to be
+      emitting light as a {17-27-002, primary light source}, or that appears to be
+      specularly reflecting such light"
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-27-002, primary light source}s seen in their natural surroundings
+      normally exhibit the {17-22-019, appearance} of luminous colours in this sense."
+    type: intensional
+  - content: This entry was numbered 845-02-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-727 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-727
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous colour
+  language_code: eng
+  annotations: []
+termid: 17-22-045
+id: 30df66ad-7d10-53fa-b841-b6f3ae1654d4

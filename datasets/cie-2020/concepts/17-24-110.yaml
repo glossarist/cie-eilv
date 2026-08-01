@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-24-110
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-110
+  type: authoritative
+status: valid
+id: 1c0ecb4b-e599-5142-afba-31a28c64ac06
+---
+data:
+  definition:
+  - content: where <i>a</i>(<i>λ</i>) is the {17-24-085, spectral linear absorption
+      coefficient}
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral absorption index has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-102 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1208 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-102
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1208
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral absorption index
+    usage_info: of a heavily absorbing material
+  - type: symbol
+    normative_status: preferred
+    designation: κ(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-110
+id: 07d91b6a-2e19-5b36-8ef8-3166bb816a2e

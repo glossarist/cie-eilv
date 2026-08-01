@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-112
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-112
+  type: authoritative
+status: valid
+id: c6b30ce2-c6ad-5203-8103-9195ca68d80b
+---
+data:
+  definition:
+  - content: temperature related to specified performance of the {17-27-058, LED module}
+    type: intensional
+  examples: []
+  notes:
+  - content: Performance temperature is expressed in degree Celsius (°C).
+    type: intensional
+  - content: Performance temperature is measured at a given location point.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: performance temperature
+    usage_info: of an LED module
+  language_code: eng
+  annotations: []
+termid: 17-27-112
+id: 571d4897-c4d1-5f44-a76c-ec3efa560f94

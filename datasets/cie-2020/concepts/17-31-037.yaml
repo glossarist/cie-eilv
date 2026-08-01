@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-037
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-037
+  type: authoritative
+status: valid
+id: 025c73c9-b60a-5f30-9867-1ca72568d78a
+---
+data:
+  definition:
+  - content: boat-shaped {17-31-035, buoy}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-39 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-446 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-39
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-446
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: float
+  language_code: eng
+  annotations: []
+termid: 17-31-037
+id: 5adab6f8-7c30-5c0a-98bf-58585be96012

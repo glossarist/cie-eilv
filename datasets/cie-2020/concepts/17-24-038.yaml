@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-038
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-038
+  type: authoritative
+status: valid
+id: 9747d2af-b987-58e5-a1ff-f327fcb947b9
+---
+data:
+  definition:
+  - content: "{17-21-016, spectral line} that is the result of direct transition from
+      an excited {17-24-019, energy level} to the ground level, or vice versa, without
+      going through intermediate levels"
+    type: intensional
+  examples: []
+  notes:
+  - content: For mercury, the resonance line is at<i> λ</i> = 253,7 nm and for sodium
+      it is at <i>λ</i> = 589,6 nm.
+    type: intensional
+  - content: This entry was numbered 845-04-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1092 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resonance line
+  language_code: eng
+  annotations: []
+termid: 17-24-038
+id: 95638787-a029-51fd-85a3-7ee9af22b808

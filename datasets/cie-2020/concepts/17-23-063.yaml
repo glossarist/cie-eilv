@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-23-063
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-063
+  type: authoritative
+status: valid
+id: fab5cd3b-12ac-5353-8c30-7060d582a0c4
+---
+data:
+  definition:
+  - content: "{17-21-025, wavelength} of the {17-23-011, monochromatic stimulus} that,
+      when additively mixed in suitable proportions with the {17-23-002, colour stimulus}
+      considered, matches the specified {17-23-009, achromatic stimulus}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The complementary wavelength is expressed in nanometre (nm).
+    type: intensional
+  - content: This entry was numbered 845-03-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-241 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-241
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complementary wavelength
+    usage_info: of a colour stimulus
+  - type: symbol
+    normative_status: preferred
+    designation: λc
+  language_code: eng
+  annotations: []
+termid: 17-23-063
+id: d152e62f-ba32-56a0-8a3c-abe00bbc491c

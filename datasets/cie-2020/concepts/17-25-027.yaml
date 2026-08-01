@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-027
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-027
+  type: authoritative
+status: valid
+id: 909462d0-ee20-53f2-a569-4bd6c0b02c9c
+---
+data:
+  definition:
+  - content: "{17-25-006, radiometer} for measuring the directional radiation distribution
+      characteristics of {17-21-032, source}s, {17-30-001, luminaire}s, media or surfaces"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-505 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-505
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gonioradiometer
+  language_code: eng
+  annotations: []
+termid: 17-25-027
+id: '02985fdc-be70-532b-b4a6-e05170a3568f'

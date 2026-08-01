@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-25-108
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-108
+  type: authoritative
+status: valid
+id: 6e57aa0f-8a77-596f-91d5-e7017dda53c1
+---
+data:
+  definition:
+  - content: vertical plane through the {17-30-001, luminaire} that contains the reference
+      direction
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-984 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-984
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principal plane
+    usage_info: of the luminaire light distribution
+  language_code: eng
+  annotations: []
+termid: 17-25-108
+id: d23203bd-cc89-556d-8d53-89ec8685f124

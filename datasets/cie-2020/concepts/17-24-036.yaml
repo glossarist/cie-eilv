@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-24-036
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-036
+  type: authoritative
+status: valid
+id: 7d3578c5-11d8-54f7-8bad-c41707bea7f6
+---
+data:
+  definition:
+  - content: "{17-21-029, spectral distribution} of incident {17-21-038, radiant flux}
+      or {17-21-040, photon flux} that produces {17-24-021, luminescence} at a specified
+      {17-24-001, emission} wavelength"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-33 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-409 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-33
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-409
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: excitation spectrum
+    usage_info: of a luminescent material
+  language_code: eng
+  annotations: []
+termid: 17-24-036
+id: 26cf0b84-773c-5019-be3b-a6d5ed243c05

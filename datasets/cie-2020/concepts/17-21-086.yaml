@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-21-086
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-086
+  type: authoritative
+status: valid
+id: 83a318cc-0f0e-5db6-a9c7-a0a16bc95c11
+---
+data:
+  definition:
+  - content: SI unit of {17-21-050, luminance}
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The unit nit (symbol: nt) is no longer in use.'
+    type: intensional
+  - content: |-
+      Other non-SI units of {17-21-050, luminance}:
+      metric: lambert (symbol: L), 1 L = cd⋅m<sup>−2</sup>;
+      non-metric: footlambert (symbol: fL), 1 fL = 3,426 cd⋅m<sup>−2</sup>.
+    type: intensional
+  - content: This entry was numbered 845-01-53 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-118 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-53
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-118
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: candela per square metre
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: nit'
+  language_code: eng
+  annotations: []
+termid: 17-21-086
+id: 880b10f8-330e-5e84-9e96-0699fd59bc1c

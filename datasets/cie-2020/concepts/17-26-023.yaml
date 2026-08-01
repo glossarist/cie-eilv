@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-26-023
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-023
+  type: authoritative
+status: valid
+id: 456d9946-e136-50f6-ab24-8bfb287dbc7e
+---
+data:
+  definition:
+  - content: retinal injury caused by brief, intense {17-21-071, radiant exposure}
+      of the {17-22-001, retina} from {17-21-025, wavelength}s in the {17-26-048,
+      retinal hazard spectral region} (380 nm to 1 400 nm) within which the normal
+      ocular media transmit {17-21-002, optical radiation} to the {17-22-001, retina}
+    type: intensional
+  examples: []
+  notes:
+  - content: In IEC 62471/CIE S 009<i> Photobiological safety of lamp and lamp systems</i>
+      the maximum assessment time is taken as 10 s.
+    type: intensional
+  - content: This entry was numbered 17-1101 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal thermal injury
+  language_code: eng
+  annotations: []
+termid: 17-26-023
+id: 28f53961-d0a8-5c71-88e0-77b79117761d

@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-25-061
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-061
+  type: authoritative
+status: valid
+id: d6973da4-fe33-5692-879d-61a5802a9e43
+---
+data:
+  definition:
+  - content: quotient of the {17-25-035, detector} {17-25-058, output}, <i>Y</i>,
+      and the {17-25-035, detector} {17-25-057, input}, <i>X</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: If the {17-25-035, detector} signal is <i>Y</i><sub>0</sub> in the absence
+      of {17-25-057, input}, and is <i>Y</i><sub>t</sub> when there is an {17-25-057,
+      input} <i>X</i>, the responsivity is .
+    type: intensional
+  - content: The term "sensitivity" is no longer used.
+    type: intensional
+  - content: This entry was numbered 845-05-54 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1094 and 17-1163 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-54
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1094 and 17-1163
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: responsivity
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: sensitivity'
+  language_code: eng
+  annotations: []
+termid: 17-25-061
+id: cfabcac5-2f91-5e85-b52b-ac982d2bdb91

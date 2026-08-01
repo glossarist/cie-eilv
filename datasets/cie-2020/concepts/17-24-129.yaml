@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-24-129
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-129
+  type: authoritative
+status: valid
+id: 494c1779-15b1-5749-b277-b909935adf69
+---
+data:
+  definition:
+  - content: non-uniformity of {17-22-058, colour appearance} of a surface on a scale
+      that is larger than the {17-22-076, colorant} particles
+    type: intensional
+  examples: []
+  notes:
+  - content: The scale is typically 1 mm to 10 mm.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mottle
+  language_code: eng
+  annotations: []
+termid: 17-24-129
+id: bf4d047d-83c1-5c14-afe2-f8a5bf15e07e

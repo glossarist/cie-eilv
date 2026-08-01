@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-29-170
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-170
+  type: authoritative
+status: valid
+id: 7025567c-aa47-5181-8dd1-168e62eea38c
+---
+data:
+  definition:
+  - content: effect of {17-29-019, directional lighting} to reveal the depth, shape
+      and texture of an object or person
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-786 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-786
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: modelling
+  language_code: eng
+  annotations: []
+termid: 17-29-170
+id: 616b9d83-ffa5-5558-8b9c-968b0ba8fe0c

@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-21-093
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-093
+  type: authoritative
+status: valid
+id: '0495be68-f40c-5da3-83f5-b9e41c2e43e9'
+---
+data:
+  definition:
+  - content: defining constant of {17-25-013, photometry} which is equal to 683 lm·W<sup>−</sup><sup>1</sup>
+    type: intensional
+  examples: []
+  notes:
+  - content: The numerical value of the defining constant has no uncertainty.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous efficacy for monochromatic radiation of frequency 540 ×
+      1012 Hz
+  - type: symbol
+    normative_status: preferred
+    designation: Kcd
+  language_code: eng
+  annotations: []
+termid: 17-21-093
+id: 43b022d8-5f6e-5760-ae92-a5ac513b51cb

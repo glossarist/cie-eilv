@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-24-069
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-069
+  type: authoritative
+status: valid
+id: c725d6da-a462-5c74-9913-77ad4d6762a6
+---
+data:
+  definition:
+  - content: quotient of the diffusely transmitted part of the (whole) transmitted
+      flux and the incident flux
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-24-065, transmittance}, <i>τ</i>, is the sum of {17-24-067, regular
+      transmittance}, <i>τ</i><sub>r</sub>, and diffuse transmittance, <i>τ</i><sub>d</sub>:<sub>
+      </sub><i>τ</i> = <i>τ</i><sub>r</sub> + <i>τ</i><sub>d</sub>."
+    type: intensional
+  - content: The diffuse transmittance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-63 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-308 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-63
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-308
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse transmittance
+  - type: symbol
+    normative_status: preferred
+    designation: τd
+  language_code: eng
+  annotations: []
+termid: 17-24-069
+id: ec472ae6-f4ef-588f-a896-83f922036a2c

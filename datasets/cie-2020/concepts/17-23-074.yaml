@@ -1,0 +1,78 @@
+---
+data:
+  identifier: 17-23-074
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-074
+  type: authoritative
+status: valid
+id: 6323dc37-d5a7-5e18-af07-16c129d26087
+---
+data:
+  definition:
+  - content: |-
+      three-dimensional, approximately {17-23-071, uniform colour space} produced by plotting in rectangular coordinates <i>L</i>*, <i>u</i>*, <i>v</i>*, quantities defined by the equations:
+      <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) – 16
+
+
+      where
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (<i>Y</i>/<i>Y</i><sub>n</sub>)<sup>1/3</sup> if (<i>Y</i>/<i>Y</i><sub>n</sub>) > (6/29)<sup>3 </sup>
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (841/108) (<i>Y</i>/<i>Y</i><sub>n</sub>) + 4/29 if (<i>Y</i>/<i>Y</i><sub>n</sub>) ≤ (6/29)<sup>3 </sup>
+      and <i>Y</i>, <i>u</i>′, <i>v</i>′ describe the {17-23-002, colour stimulus} considered and <i>Y</i><sub>n</sub>, , describe a specified white {17-23-009, achromatic stimulus}
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Approximate correlates of {17-22-063, lightness}, {17-22-073, saturation}, {17-22-074, chroma}, and {17-22-067, hue} can be calculated as follows:
+      CIE 1976 lightness
+      <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) – 16
+      where
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (<i>Y</i>/<i>Y</i><sub>n</sub>)<sup>1/3</sup> if (<i>Y</i>/<i>Y</i><sub>n</sub>) > (6/29)<sup>3 </sup>
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (841/108) (<i>Y</i>/<i>Y</i><sub>n</sub>) + 4/29 if (<i>Y</i>/<i>Y</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
+      CIE 1976 <i>u</i>, <i>v</i> saturation
+
+      CIE 1976 <i>u</i>, <i>v</i> chroma
+
+      CIE 1976 <i>u</i>, <i>v</i> hue angle
+    type: intensional
+  - content: See also CIE 15 <i>Colorimetry.</i>
+    type: intensional
+  - content: 'See also ISO/CIE 11664-5<i> Colorimetry – Part 5: CIE 1976 L*u*v* Colour
+      Space and u'', v'' Uniform Chromaticity Scale Diagram</i>.'
+    type: intensional
+  - content: This entry was numbered 845-03-54 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-159 and 17-175 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-54
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-159 and 17-175
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 L*u*v* colour space
+  - type: symbol
+    normative_status: preferred
+    designation: CIELUV colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-074
+id: 6e736b96-9da9-5949-b96f-85e84345a5ba

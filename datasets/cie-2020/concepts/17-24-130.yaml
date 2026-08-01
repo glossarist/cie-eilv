@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-24-130
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-130
+  type: authoritative
+status: valid
+id: dc4c6dea-943e-560f-962b-afb00f6da174
+---
+data:
+  definition:
+  - content: difference in {17-22-019, appearance} of a material viewed over two widely
+      different {17-25-081, aspecular angle}s
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flop
+  language_code: eng
+  annotations: []
+termid: 17-24-130
+id: 2f538514-8866-5889-bedf-28a22df7f17d

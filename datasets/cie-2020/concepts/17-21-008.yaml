@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-21-008
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-008
+  type: authoritative
+status: valid
+id: d7cdc2da-e069-5763-8ef0-42ad2aba5542
+---
+data:
+  definition:
+  - content: "{17-21-002, optical radiation} for which the {17-21-025, wavelength}s
+      are shorter than those for {17-21-003, visible radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The range between 100 nm and 400 nm is commonly subdivided into:
+      {17-21-009, UV-A}: 315 nm to 400 nm;
+      {17-21-010, UV-B}: 280 nm to 315 nm;
+      {17-21-011, UV-C}: 100 nm to 280 nm.
+    type: intensional
+  - content: A precise border between "ultraviolet radiation" and "{17-21-003, visible
+      radiation}" cannot be defined, because {17-22-083, visual sensation} at {17-21-025,
+      wavelength}s shorter than 400 nm is noted for very {17-22-061, bright} {17-21-032,
+      source}s.
+    type: intensional
+  - content: In some applications the ultraviolet spectrum has also been divided into
+      "far," "vacuum," and "near" ultraviolet; however, the borders necessarily vary
+      with the application (e.g. in meteorology, optical design, photochemistry, thermal
+      physics).
+    type: intensional
+  - content: This entry was numbered 845-01-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1367, 17-1389 and 17-1388 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1367, 17-1389 and 17-1388
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet radiation
+  - type: symbol
+    normative_status: preferred
+    designation: UV radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-008
+id: 90c04f2f-2298-558b-845b-53e718678c4b

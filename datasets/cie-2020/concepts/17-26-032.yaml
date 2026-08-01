@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-26-032
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-032
+  type: authoritative
+status: valid
+id: 1878111a-d948-5058-b2b3-d4d25df0e856
+---
+data:
+  definition:
+  - content: "{17-21-002, optical radiation} capable of inactivating or killing pathogenic
+      micro-organisms"
+    type: intensional
+  examples: []
+  notes:
+  - content: Bactericidal radiation is primarily UV-C radiation.
+    type: intensional
+  - content: This entry was numbered 845-06-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-72, 17-491, and 17-775 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-72, 17-491, and 17-775
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bactericidal radiation
+  - type: symbol
+    normative_status: preferred
+    designation: germicidal radiation
+  language_code: eng
+  annotations: []
+termid: 17-26-032
+id: e53bc02e-ac7c-5d59-9459-9997782d6917

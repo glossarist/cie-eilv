@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-32-050
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-050
+  type: authoritative
+status: valid
+id: d5dc1586-082d-5f46-8e72-d27d07610e85
+---
+data:
+  definition:
+  - content: attribute of a {17-32-013, colour image encoding} indicating the kind
+      of image condition inherent in {17-32-009, colour image data} values prepared
+      and represented in that encoding
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-32-009, colour image data} are referred to a particular image condition
+      through image capture, digitization, {17-22-107, colour rendering} and {17-32-017,
+      colour re-rendering} processes."
+    type: intensional
+  - content: Typical image states are scene-referred, original-referred, output-referred
+      and picture-referred.
+    type: intensional
+  - content: This entry was numbered 17-563 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-563
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image state
+  language_code: eng
+  annotations: []
+termid: 17-32-050
+id: 16803be6-c48e-5219-bb0e-f019e0cf148b

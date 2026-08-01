@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-078
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-078
+  type: authoritative
+status: valid
+id: bf36ac72-30a4-5b33-8867-408cb38c39ee
+---
+data:
+  definition:
+  - content: time integral of {17-21-063, cylindrical illuminance}, <i>E</i><sub>v,c</sub>,
+      at a given point for a given direction, over a given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminous cylindrical exposure is expressed in lux second (lx⋅s =
+      lm·s·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-728 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-728
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous cylindrical exposure
+  - type: symbol
+    normative_status: preferred
+    designation: Hv,c; Hc
+  language_code: eng
+  annotations: []
+termid: 17-21-078
+id: 4c8c6cc3-42db-5fd9-8d9b-fac490485f35

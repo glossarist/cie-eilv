@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-22-017
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-017
+  type: authoritative
+status: valid
+id: bdfc1923-7d49-59f3-8c1d-3e5c77c0503b
+---
+data:
+  definition:
+  - content: vision by the normal eye in which {17-22-003, rods} are the principal
+      active photoreceptors
+    type: intensional
+  examples: []
+  notes:
+  - content: Scotopic vision normally occurs when the eye is adapted to levels of
+      {17-21-050, luminance} of less than 0,005 cd·m<sup>−2</sup>.
+    type: intensional
+  - content: In comparison with {17-22-016, photopic vision}, scotopic vision is characterized
+      by the lack of colour perception and by a shift of the visual sensitivity function
+      towards shorter {17-21-025, wavelength}s.
+    type: intensional
+  - content: This entry was numbered 845-02-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1142 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1142
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scotopic vision
+  language_code: eng
+  annotations: []
+termid: 17-22-017
+id: 8c91dcf2-bb00-538d-89f5-50983ec11594

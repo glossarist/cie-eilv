@@ -1,0 +1,77 @@
+---
+data:
+  identifier: 17-22-094
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-094
+  type: authoritative
+status: valid
+id: 2ac78cbb-2848-52e2-ac8c-cf37796772cc
+---
+data:
+  definition:
+  - content: quotient of the above-average luminous energy to the total {17-21-037,
+      luminous energy} over a period of time
+    type: intensional
+  examples: []
+  notes:
+  - content: The above-average luminous energy is the {17-21-037, luminous energy}
+      calculated from the amount that the instantaneous {17-21-039, luminous flux}
+      exceeds the average {17-21-039, luminous flux}. When the instantaneous {17-21-039,
+      luminous flux} is less than the average {17-21-039, luminous flux}, the above-average
+      luminous energy is zero, i.e. it does not add negatively.
+    type: intensional
+  - content: 'For the region under the curve of a graph of the instantaneous {17-21-039,
+      luminous flux} versus time, the flicker index is equivalent to the ratio of
+      the area above the average {17-21-039, luminous flux} to the total area. This
+      is expressed mathematically as , where <i>A</i><sub>1</sub> is the area above
+      the average {17-21-039, luminous flux} and <i>A</i><sub>2</sub> is the area
+      below the average {17-21-039, luminous flux} as indicated in the following figure:'
+    type: intensional
+  - content: The flicker index has to be calculated over an integral number of periods
+      over which the signal is repetitive. For {17-21-032, source}s run at 50 Hz,
+      this is normally 20 ms or 40 ms or 60 ms, etc., while for {17-21-032, source}s
+      run at 60 Hz this is normally 16,67 ms or 33,33 ms or 50 ms etc.
+    type: intensional
+  - content: Although the flicker index is defined here in terms of the {17-21-037,
+      luminous energy} of the {17-21-032, source}, it can also be obtained through
+      measurements of other luminous quantities such as {17-21-045, luminous intensity},
+      {17-21-060, illuminance} and {17-21-050, luminance}.
+    type: intensional
+  - content: The flicker index does not take into account the effect of modulation
+      frequency and the effect of multiple frequencies in case of more complex light
+      waveform modulations. See also CIE TN 006:2016 <i>Visual Aspects of Time-Modulated
+      Lighting Systems – Definitions and Measurement Models</i>.
+    type: intensional
+  - content: The flicker index has unit one.
+    type: intensional
+  - content: This entry was numbered 17-444 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-444
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flicker index
+    usage_info: of a source run on alternating current
+  - type: symbol
+    normative_status: preferred
+    designation: IF
+  language_code: eng
+  annotations: []
+termid: 17-22-094
+id: 07021fc2-64f0-515a-8be3-f160323e6cca

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-018
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-018
+  type: authoritative
+status: valid
+id: d9bb9abe-524e-5124-b40b-e005116a0e03
+---
+data:
+  definition:
+  - content: "{17-25-014, colorimetry} in which physical {17-25-035, detector}s are
+      used to make measurements"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-14 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-950 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-14
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-950
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical colorimetry
+  language_code: eng
+  annotations: []
+termid: 17-25-018
+id: b2a238bb-c573-5601-9bd1-773217f8f0f1

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-25-051
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-051
+  type: authoritative
+status: valid
+id: f7b57043-d501-5199-8436-d4ea8f5e145b
+---
+data:
+  definition:
+  - content: physical arrangement of contiguous {17-25-035, detector} elements to
+      sense locally resolved signals
+    type: intensional
+  examples: []
+  notes:
+  - content: CCD array, photodiode array, CMOS array.
+    type: intensional
+  - content: A typical application of an array detector is to sense the local resolved
+      output of a {17-25-107, polychromator}.
+    type: intensional
+  - content: In some cases, optical components can form a part of the array as in,
+      for example, a fibre optics faceplate coupled array detector.
+    type: intensional
+  - content: This entry was numbered 17-57 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-57
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: array detector
+  language_code: eng
+  annotations: []
+termid: 17-25-051
+id: cab2b6dc-f159-5072-945c-b832106f34e2

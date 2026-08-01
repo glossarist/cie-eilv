@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-25-083
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-083
+  type: authoritative
+status: valid
+id: 220b924a-20fc-51cc-9fc9-b9313f252a6b
+---
+data:
+  definition:
+  - content: measured with reference to the specular direction
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aspecular
+    usage_info: with respect to angles
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-25-083
+id: a6a5da9e-6d48-5b31-99ec-3d790050451f

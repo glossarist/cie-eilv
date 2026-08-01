@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-059
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-059
+  type: authoritative
+status: valid
+id: d9a8b413-d940-511c-97c1-24b411c464b8
+---
+data:
+  definition:
+  - content: quotient of the direct {17-21-039, luminous flux} on the {17-29-068,
+      working plane} and the downward {17-21-039, luminous flux} of the installation
+    type: intensional
+  examples: []
+  notes:
+  - content: The direct ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-320 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-320
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct ratio
+    usage_info: of an interior lighting installation
+  language_code: eng
+  annotations: []
+termid: 17-29-059
+id: c41b4c4a-b5a9-57e2-bfb4-e1bc9dfa5e7e

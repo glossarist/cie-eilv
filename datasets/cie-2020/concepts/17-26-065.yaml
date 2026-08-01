@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-26-065
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-065
+  type: authoritative
+status: valid
+id: 35f02bbb-5a2a-52f6-86f8-1a91bcfd3f14
+---
+data:
+  definition:
+  - content: function representing the spectral dependence of the ability of {17-21-008,
+      ultraviolet radiation} to produce just perceptible {17-26-028, actinic erythema}
+      in human skin
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-401 and 17-400 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-401 and 17-400
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythema spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: erythema action spectrum
+  language_code: eng
+  annotations: []
+termid: 17-26-065
+id: 7c2ec9b3-cfde-5583-a72e-cdbed8ec125e

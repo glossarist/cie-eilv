@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-089
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-089
+  type: authoritative
+status: valid
+id: 48a181d6-958d-5e1e-af73-b1829bc93b95
+---
+data:
+  definition:
+  - content: average road surface {17-21-050, luminance} at a specific location in
+      the {17-31-083, threshold zone}
+    type: intensional
+  examples: []
+  notes:
+  - content: The threshold zone luminance is expressed in candela per square metre
+      (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1315 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1315
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold zone luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lth
+  language_code: eng
+  annotations: []
+termid: 17-31-089
+id: a4efc1c0-e8cd-5737-b1f0-7de3303fde07

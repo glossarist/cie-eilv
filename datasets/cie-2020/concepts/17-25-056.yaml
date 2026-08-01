@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-25-056
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-056
+  type: authoritative
+status: valid
+id: ff929f8a-ba70-5476-ba54-c4b98492b773
+---
+data:
+  definition:
+  - content: "{17-25-049, thermal detector} that utilizes the time rate of change
+      of the spontaneous electric polarization, or of induced long-lived polarization,
+      of certain dielectric materials, caused by a temperature change"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-49 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1006 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1006
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pyroelectric detector
+    usage_info: for optical radiation
+  language_code: eng
+  annotations: []
+termid: 17-25-056
+id: 57ade78b-f28c-5188-91e4-73214c8d9cb2

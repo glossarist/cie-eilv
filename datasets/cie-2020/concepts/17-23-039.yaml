@@ -1,0 +1,74 @@
+---
+data:
+  identifier: 17-23-039
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-039
+  type: authoritative
+status: valid
+id: 92eb8d61-97ed-54c3-95d9-0cb883a26d14
+---
+data:
+  definition:
+  - content: "{17-23-038, tristimulus values} of monochromatic stimuli of equal {17-21-038,
+      radiant flux}"
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-23-032, colour-matching coefficients}".
+    type: intensional
+  - content: The colour-matching functions can be used to calculate the {17-23-038,
+      tristimulus values} of a {17-23-002, colour stimulus} from its {17-23-003, colour
+      stimulus function}s <i>φ<sub>λ</sub></i>(<i>λ</i>).
+    type: intensional
+  - content: See also CIE 15<i> Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO/CIE 11664-1<i> Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers</i>.'
+    type: intensional
+  - content: In the CIE standard colorimetric systems, the colour-matching functions
+      are represented by the symbols and .
+    type: intensional
+  - content: This entry was numbered 845-03-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-236 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-236
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour-matching functions
+    usage_info: of a trichromatic system
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-039
+id: '0838265c-4055-56ae-b69d-4d5cc62cbb35'

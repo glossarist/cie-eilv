@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-31-106
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-106
+  type: authoritative
+status: valid
+id: 760149de-8c1f-5029-963c-13c676cf4936
+---
+data:
+  definition:
+  - content: collection of {17-31-116, traffic control device}s on or adjacent to
+      the road that provide guidance, regulatory, or warning information to a driver,
+      other than signs
+    type: intensional
+  examples: []
+  notes:
+  - content: The traffic control devices aid the driver in determining the expected
+      path of vehicular travel over a section of the road.
+    type: intensional
+  - content: This entry was numbered 17-288 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-288
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: delineation
+  language_code: eng
+  annotations: []
+termid: 17-31-106
+id: 3539e357-dba7-5cc1-8adf-6e140a60e183

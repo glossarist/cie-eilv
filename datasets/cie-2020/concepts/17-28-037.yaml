@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-28-037
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-037
+  type: authoritative
+status: valid
+id: d298d0f4-01e6-51df-97d3-95713bd2f28e
+---
+data:
+  definition:
+  - content: auxiliary electrode for starting the discharge in an {17-27-008, electric
+      lamp}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1261 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1261
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting electrode
+    usage_info: of a discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-28-037
+id: d274af1f-a05a-54b0-bbeb-41982a2bae22

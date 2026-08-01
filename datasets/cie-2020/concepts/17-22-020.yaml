@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 17-22-020
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-020
+  type: authoritative
+status: valid
+id: 292df23f-afe6-5db4-9064-fcde8f9ae1e3
+---
+data:
+  definition:
+  - content: visual aspects of objects and scenes
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total appearance
+  language_code: eng
+  annotations: []
+termid: 17-22-020
+id: de17228f-86d3-5b85-9d4a-9cd81432cec4

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-031
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-031
+  type: authoritative
+status: valid
+id: baeeffeb-5938-5983-9191-21f87939688c
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} for which {17-29-105, daylight} is the {17-27-001,
+      light source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "natural lighting" is obsolete.
+    type: intensional
+  - content: This entry was numbered 17-285 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-285
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylighting
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: natural lighting'
+  language_code: eng
+  annotations: []
+termid: 17-29-031
+id: 8866418a-6232-51d7-8a9c-ca23a12969f1

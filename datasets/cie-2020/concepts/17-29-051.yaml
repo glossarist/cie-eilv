@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-29-051
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-051
+  type: authoritative
+status: valid
+id: 902bf79f-c010-5ec7-99d6-bde7d9b93a80
+---
+data:
+  definition:
+  - content: quotient of the total {17-21-039, luminous flux} of the {17-30-001, luminaire},
+      measured under specified conditions, and the sum of the individual {17-21-039,
+      luminous flux}es of the lamps when they are inside the {17-30-001, luminaire}
+    type: intensional
+  examples: []
+  notes:
+  - content: For {17-30-001, luminaire}s using {17-27-011, incandescent lamp}s only,
+      the optical light output ratio and the {17-29-052, light output ratio} are the
+      same in practice.
+    type: intensional
+  - content: The optical light output ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-847 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-847
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical light output ratio
+    usage_info: of a luminaire
+  language_code: eng
+  annotations: []
+termid: 17-29-051
+id: 502299bb-818a-5e66-9198-0136fac7b31f

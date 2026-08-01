@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-133
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-133
+  type: authoritative
+status: valid
+id: d70c5c1a-7478-5e21-86b9-cab33c258b7f
+---
+data:
+  definition:
+  - content: "{17-21-053, irradiance} produced by {17-29-099, direct solar radiation}
+      on a horizontal surface on the Earth"
+    type: intensional
+  examples: []
+  notes:
+  - content: The direct solar irradiance is expressed in watt per square metre (W·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-322 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-322
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct solar irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,s
+  language_code: eng
+  annotations: []
+termid: 17-29-133
+id: b3561c12-c4c4-5205-840e-d8b1192fc4f4

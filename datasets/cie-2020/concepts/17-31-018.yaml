@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-31-018
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-018
+  type: authoritative
+status: valid
+id: ad1bf4cf-8e38-5e1d-af5c-62cc75ad5ac4
+---
+data:
+  definition:
+  - content: length of the path in the atmosphere that is required to attenuate by
+      95 % the {17-21-039, luminous flux} in a collimated beam from a {17-21-032,
+      source} at a {17-23-067, colour temperature} of 2 700 K
+    type: intensional
+  examples: []
+  notes:
+  - content: The value of the attenuation has been chosen so that the meteorological
+      optical range provides an approximate measure of the commonly used concept of
+      {17-31-147, meteorological visibility}.
+    type: intensional
+  - content: |-
+      The meteorological optical range, <i>v</i>, is related to the {17-31-017, atmospheric transmissivity}, <i>T</i>, assumed to be uniform, by the formula
+      or
+      where <i>d</i><sub>0</sub> is the length specified in the definition of {17-31-017, atmospheric transmissivity}.
+      These formulae are sometimes written
+      or
+      with <i>d</i><sub>0</sub> set to unity.
+    type: intensional
+  - content: This entry was numbered 845-11-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-772 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-772
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meteorological optical range
+  - type: symbol
+    normative_status: preferred
+    designation: v
+  language_code: eng
+  annotations: []
+termid: 17-31-018
+id: 0f48235a-9591-5c9b-ac42-bd62c01a984b

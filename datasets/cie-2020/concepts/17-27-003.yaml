@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-27-003
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-003
+  type: authoritative
+status: valid
+id: 2f819377-9760-579d-a5aa-ed577b09eed6
+---
+data:
+  definition:
+  - content: surface or object which is not self-emitting but receives light and re-directs
+      it, at least in part, by {17-24-047, reflection} or {17-24-048, transmission}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1147 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1147
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary light source
+  language_code: eng
+  annotations: []
+termid: 17-27-003
+id: ad7e65df-4094-525f-94ee-c7b21486d5bf

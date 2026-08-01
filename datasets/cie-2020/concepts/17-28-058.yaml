@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-28-058
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-058
+  type: authoritative
+status: valid
+id: b0d79c24-6969-53f0-afff-09c0e2a5142f
+---
+data:
+  definition:
+  - content: unit for the electronic conversion of AC supply at one frequency to an
+      AC supply at another frequency
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: convertor
+  language_code: eng
+  annotations: []
+termid: 17-28-058
+id: 795c0199-e62c-5715-8d82-7a92579ea8a8

@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-23-004
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-004
+  type: authoritative
+status: valid
+id: 69e6db08-403c-5714-8234-87d49aa79928
+---
+data:
+  definition:
+  - content: |-
+      quotient of the {17-23-003, colour stimulus function}, <i>φ<sub>λ</sub></i>(<i>λ</i>), and a fixed reference value, <i>R
+
+
+      </i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The fixed reference value, <i>R</i>, is usually the maximum value of
+      the {17-23-003, colour stimulus function}.
+    type: intensional
+  - content: This entry was numbered 845-03-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1081 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1081
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative colour stimulus function
+  - type: symbol
+    normative_status: preferred
+    designation: φ(λ)
+  language_code: eng
+  annotations: []
+termid: 17-23-004
+id: 453b402f-35d2-5825-8355-26bf77484756

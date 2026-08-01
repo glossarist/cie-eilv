@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-30-034
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-034
+  type: authoritative
+status: valid
+id: e2a226dd-6d84-5c25-9f8d-c695f4f45d9c
+---
+data:
+  definition:
+  - content: technique used for concealing {17-27-001, light source}(s) and surfaces
+      of high {17-21-050, luminance} from direct view in order to reduce {17-22-098,
+      glare}, or to reduce light {17-24-001, emission} above the horizontal
+    type: intensional
+  examples: []
+  notes:
+  - content: In {17-29-032, outdoor lighting}, cut-off classifications define the
+      {17-21-045, luminous intensity} limits in two illumination zones that occur
+      within the range of 80° to 180° above nadir. Light emitted in the 80° to 90°
+      zone is more likely to contribute to {17-22-098, glare}, and light emitted above
+      the horizontal is more likely to contribute to {17-29-178, sky glow}.
+    type: intensional
+  - content: In {17-29-024, public lighting}, distinction is made between full-cut-off
+      luminaires, semi-cut-off luminaires and non-cut-off luminaires.
+    type: intensional
+  - content: This entry was numbered 845-10-29 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-269 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-269
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cut-off
+  language_code: eng
+  annotations: []
+termid: 17-30-034
+id: 78358a31-1993-56a9-a84e-99c3c19881eb

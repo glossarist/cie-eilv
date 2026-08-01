@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-23-008
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-008
+  type: authoritative
+status: valid
+id: 2b8005f9-1277-5e4a-b12f-b67277e7bc67
+---
+data:
+  definition:
+  - content: spectrally different {17-23-002, colour stimulus} that have the same
+      {17-23-038, tristimulus values} in a specified colorimetric system
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding property is called "{17-23-006, metamerism}".
+    type: intensional
+  - content: This entry was numbered 845-03-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-768 and 17-771 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-768 and 17-771
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metameric colour stimuli
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: symbol
+    normative_status: preferred
+    designation: metamers, pl
+  language_code: eng
+  annotations: []
+termid: 17-23-008
+id: 10805e4c-6d5f-5fd8-8c8c-29d09e21217f

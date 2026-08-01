@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-031
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-031
+  type: authoritative
+status: valid
+id: b33af6b1-9d47-5133-ad0b-fd2dcfa0104c
+---
+data:
+  definition:
+  - content: high-intensity {17-30-030, projector} having an aperture usually greater
+      than 0,2 m and giving an approximately parallel beam of light
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1146 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-26
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1146
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: searchlight
+  language_code: eng
+  annotations: []
+termid: 17-30-031
+id: b57c777a-6055-5b09-864c-efc9d55bb949

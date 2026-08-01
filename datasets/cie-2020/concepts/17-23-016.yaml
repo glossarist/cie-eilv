@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-23-016
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-016
+  type: authoritative
+status: valid
+id: f0421604-0f4b-57dc-ae1a-6b0f980f1bc7
+---
+data:
+  definition:
+  - content: defined area within which the {17-22-058, colour appearance} is uniform
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-207 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-207
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour element
+  language_code: eng
+  annotations: []
+termid: 17-23-016
+id: 6a6d6d17-025d-5f29-a898-f3200263b6a1

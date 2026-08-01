@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-23-026
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-026
+  type: authoritative
+status: valid
+id: '090800ec-515b-5dc3-85c9-eefc606f994b'
+---
+data:
+  definition:
+  - content: specification of a visual stimulus in terms of its spectral characteristics
+      combined with its illuminating and viewing environment
+  notes:
+  - content: This entry was numbered 17-199 (2.) in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-199 (2.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour appearance
+    usage_info: psychophysical
+  language_code: eng
+  annotations: []
+termid: 17-23-026
+id: ce9d07b8-978a-51a5-a03c-9722defaf8d9

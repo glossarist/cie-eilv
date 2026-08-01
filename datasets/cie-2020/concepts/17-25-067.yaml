@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-25-067
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-067
+  type: authoritative
+status: valid
+id: 8e74c963-567b-5c57-b72b-ad8fb806757b
+---
+data:
+  definition:
+  - content: time required for a {17-25-035, detector} {17-25-058, output} to rise
+      from a stated low percentage to a stated high percentage of the maximum value
+      when a steady {17-25-057, input} is instantaneously applied
+    type: intensional
+  examples: []
+  notes:
+  - content: A value of 10 % is usually considered to be the low percentage value,
+      whereas a value of 90 % is usually considered to be the high percentage value.
+    type: intensional
+  - content: The rise time is expressed in seconds (s).
+    type: intensional
+  - content: This entry was numbered 845-05-60 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1112 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-60
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1112
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rise time
+    usage_info: of a detector
+  language_code: eng
+  annotations: []
+termid: 17-25-067
+id: 94ededdf-ad10-5f4d-95f2-6864d27494ca

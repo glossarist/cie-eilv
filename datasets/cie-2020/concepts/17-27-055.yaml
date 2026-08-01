@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-055
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-055
+  type: authoritative
+status: valid
+id: 425c7af2-9fc1-58ca-ab89-5d81ccce4b2b
+---
+data:
+  definition:
+  - content: "{17-27-054, LED lamp}, incorporating {17-28-048, control gear} and any
+      additional elements necessary for stable operation of the {17-27-001, light
+      source}, designed for direct connection to the {17-27-118, supply voltage}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: integrated LED lamp
+  - type: symbol
+    normative_status: preferred
+    designation: LEDi lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-055
+id: d82e3172-cbbb-59a7-bff9-c564643fe769

@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-029
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-029
+  type: authoritative
+status: valid
+id: 216e2605-08ce-5454-b484-f30d38c5586e
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} for building-in, specially designed for asymmetric
+      rated pulse voltages, where the rated ignition voltage (higher rated pulse voltage)
+      is designated to a fixed contact"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarized lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-029
+id: 20fa669c-9628-5ae8-bbc2-02a8f2c70233

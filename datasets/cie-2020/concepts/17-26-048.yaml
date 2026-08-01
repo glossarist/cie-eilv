@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-26-048
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-048
+  type: authoritative
+status: valid
+id: 7171a103-5fec-5669-a8a9-37d76825844c
+---
+data:
+  definition:
+  - content: spectral region from 380 nm to 1 400 nm within which the normal ocular
+      media transmit {17-21-002, optical radiation} to the {17-22-001, retina}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1099 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1099
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal hazard spectral region
+  language_code: eng
+  annotations: []
+termid: 17-26-048
+id: 56dc1f6c-9329-5415-b50d-cdc0043ea1dd

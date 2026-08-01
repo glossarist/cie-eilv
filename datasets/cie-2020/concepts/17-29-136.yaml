@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-29-136
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-136
+  type: authoritative
+status: valid
+id: ac3049a2-c9ec-5399-a511-539b27ee24da
+---
+data:
+  definition:
+  - content: "{17-21-053, irradiance} produced by the diffuse {17-29-096, solar radiation}
+      on a horizontal surface on the Earth"
+    type: intensional
+  examples: []
+  notes:
+  - content: The diffuse horizontal irradiance is expressed in watt per square metre
+      (W·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-303 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-303
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse horizontal irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,d
+  language_code: eng
+  annotations: []
+termid: 17-29-136
+id: 8a62617d-12ee-56d8-b52f-102f97ea2494

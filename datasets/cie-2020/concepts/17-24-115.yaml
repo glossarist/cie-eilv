@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24-115
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-115
+  type: authoritative
+status: valid
+id: a8e36996-607c-586c-ad82-a95e6beeb52f
+---
+data:
+  definition:
+  - content: "{17-24-113, filter} that does not alter the {17-21-030, relative spectral
+      distribution} of the radiation"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-821 and 17-809 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-821 and 17-809
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective filter
+  - type: symbol
+    normative_status: preferred
+    designation: neutral filter
+  language_code: eng
+  annotations: []
+termid: 17-24-115
+id: 83f8edb1-ab8f-57fd-b405-3a9d1cf59ea4

@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-21-043
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-043
+  type: authoritative
+status: valid
+id: 20639442-3ff1-59af-bea0-3a2febcef0d8
+---
+data:
+  definition:
+  - content: |-
+      quotient of {17-21-041, radiant energy} and {17-21-042, photon energy}
+
+      where <i>Q</i><sub>e</sub> is {17-21-041, radiant energy}, <i>h</i> is the {17-21-108, Planck constant}, and is the frequency of the corresponding electromagnetic wave
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Photon number can also be expressed by the time integral of the {17-21-040, photon flux}, <i>Φ</i><sub>p</sub>, over a given duration, Δ<i>t</i>:
+      <sub>.</sub>
+    type: intensional
+  - content: The photon number has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-29 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-930 and 17-829 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-930 and 17-829
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon number
+  - type: symbol
+    normative_status: preferred
+    designation: number of photons
+  language_code: eng
+  annotations: []
+termid: 17-21-043
+id: 580e4fd8-7281-550f-bd42-9dd08617db67

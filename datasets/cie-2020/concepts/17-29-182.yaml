@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-182
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-182
+  type: authoritative
+status: valid
+id: 2b7589e4-0c18-502f-bff6-bd1beaf03a52
+---
+data:
+  definition:
+  - content: direction of the maximum {17-21-045, luminous intensity} from a {17-30-033,
+      floodlight} or, where there is no unique maximum, the direction of the origin
+      to which the {17-29-037, luminous intensity distribution} of a {17-30-033, floodlight}
+      is referred
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1049 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference direction
+    usage_info: of a floodlight
+  language_code: eng
+  annotations: []
+termid: 17-29-182
+id: a4e92048-20be-580c-b323-548c7634e7bc

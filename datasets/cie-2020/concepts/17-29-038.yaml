@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-29-038
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-038
+  type: authoritative
+status: valid
+id: 3c338124-4ca3-5d4b-9ab5-1a626cfc9ee2
+---
+data:
+  definition:
+  - content: distribution of {17-21-045, luminous intensity} having at least one axis
+      of symmetry or at least one plane of symmetry
+    type: intensional
+  examples: []
+  notes:
+  - content: Sometimes the term "symmetrical luminous intensity distribution" is used
+      in the sense of the term "rotationally symmetrical luminous intensity distribution".
+      This usage is to be discouraged.
+    type: intensional
+  - content: This entry was numbered 845-09-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1295 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1295
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symmetrical luminous intensity distribution
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-29-038
+id: 0f6dc27c-62a3-5bfb-98fb-0d2a8ea53974

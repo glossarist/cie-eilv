@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-29-137
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-137
+  type: authoritative
+status: valid
+id: 5e998648-16a6-5ff3-b7eb-a201bb4f3356
+---
+data:
+  definition:
+  - content: "{17-21-053, irradiance} produced by {17-29-101, global solar radiation}
+      on a horizontal surface on the Earth"
+    type: intensional
+  examples: []
+  notes:
+  - content: The global horizontal irradiance is expressed in watt per square metre
+      (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-496 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-496
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global horizontal irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,g
+  language_code: eng
+  annotations: []
+termid: 17-29-137
+id: 93165857-17dd-516f-b00a-d1a97a82828e

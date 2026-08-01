@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-28-040
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-040
+  type: authoritative
+status: valid
+id: 673d1896-b070-50fa-9ab7-7a6aa0ddced4
+---
+data:
+  definition:
+  - content: narrow conducting strip placed longitudinally on the internal or external
+      wall of a tubular {17-27-024, discharge lamp} for assisting in starting
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-30 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1262 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-30
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1262
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting strip
+  - type: symbol
+    normative_status: preferred
+    designation: starting stripe, US
+  language_code: eng
+  annotations: []
+termid: 17-28-040
+id: '08f3c730-f16b-5740-ac75-98f937e080b4'

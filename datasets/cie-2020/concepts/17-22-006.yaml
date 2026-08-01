@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-22-006
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-006
+  type: authoritative
+status: valid
+id: ac80a25b-9afd-569d-a4a1-60a490bd7f7a
+---
+data:
+  definition:
+  - content: central part of the {17-22-001, retina}, thin and depressed, which contains
+      almost exclusively {17-22-002, cones} and forming the site of most distinct
+      vision
+    type: intensional
+  examples: []
+  notes:
+  - content: 'to entry: The fovea subtends an angle of about 0,087 rad (5°) in the
+      {17-22-081, field of vision}.'
+    type: intensional
+  - content: This entry was numbered 845-02-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-471 and 17-472 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-471 and 17-472
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fovea
+  - type: symbol
+    normative_status: preferred
+    designation: fovea centralis
+  language_code: eng
+  annotations: []
+termid: 17-22-006
+id: 1c8f21ba-4ad3-5c0e-a9a7-ed7844baa6e3

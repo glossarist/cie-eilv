@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-036
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-036
+  type: authoritative
+status: valid
+id: 9f3ba727-feec-5632-acbf-7d1137f4ce8c
+---
+data:
+  definition:
+  - content: "{17-27-024, discharge lamp} in which the light is produced by the positive
+      column of a {17-27-019, glow discharge}"
+    type: intensional
+  examples: []
+  notes:
+  - content: A cold-cathode lamp is generally fed from a device providing sufficient
+      voltage to initiate starting without special means.
+    type: intensional
+  - content: This entry was numbered 845-07-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-187 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-187
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cold-cathode lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-036
+id: fccdf1ea-05cb-5c81-8808-e378aebc6784

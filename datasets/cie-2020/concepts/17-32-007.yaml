@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-32-007
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-007
+  type: authoritative
+status: valid
+id: 921ecf81-e8cc-5f29-9a59-f3272c3c0c2a
+---
+data:
+  definition:
+  - content: |-
+      volume, area, or solid in a {17-23-041, colour space}, consisting of all those colours that are either
+      (a) present in a specific scene, artwork, photograph, photomechanical, or other reproduction;
+      or
+      (b) capable of being created using a particular output device and/or medium
+    type: intensional
+  examples: []
+  notes:
+  - content: In reproduction and media applications only the volume or solid in a
+      {17-23-041, colour space} is regarded as colour gamut. In applications such
+      as signal lighting the colour gamut is an area.
+    type: intensional
+  - content: This entry was numbered 17-211 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-211
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour gamut
+  language_code: eng
+  annotations: []
+termid: 17-32-007
+id: a23e256c-06af-55b9-8271-b8fe6b1326ed

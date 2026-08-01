@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-28-028
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-028
+  type: authoritative
+status: valid
+id: ba8ba163-4404-5f94-955d-55e9906f48c7
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} designed to be built into a {17-30-001, luminaire},
+      an additional enclosure or similar"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lampholder for building-in
+  language_code: eng
+  annotations: []
+termid: 17-28-028
+id: 388cf322-ee29-5b28-805b-abd5b5dba475

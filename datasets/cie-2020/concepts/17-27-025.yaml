@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-025
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-025
+  type: authoritative
+status: valid
+id: 6023fc92-5bdc-5efb-b02c-3e2e20c739b9
+---
+data:
+  definition:
+  - content: tube, or other vessel or device, which is constructed of translucent
+      material, hermetically sealed, and designed for the {17-24-001, emission} of
+      light arising from the passage of an electric current through a gas or vapour
+      contained within it
+    type: intensional
+  examples: []
+  notes:
+  - content: The tube can be with or without a fluorescent coating.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous-discharge tube
+  language_code: eng
+  annotations: []
+termid: 17-27-025
+id: 06ebcd8f-1b1d-5e26-b5d9-5f34ca2c3185

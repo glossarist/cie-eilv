@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-163
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-163
+  type: authoritative
+status: valid
+id: 2c56670c-55b5-580b-91f2-06e69f9eed12
+---
+data:
+  definition:
+  - content: "{17-29-161, hollow light guide} in which light is confined by total
+      internal {17-24-047, reflection} by prismatic surfaces in the transparent material
+      comprising the guide wall"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-985 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-985
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prism light guide
+  language_code: eng
+  annotations: []
+termid: 17-29-163
+id: b76a7fe9-c76f-5575-a4c5-53e7f587689a

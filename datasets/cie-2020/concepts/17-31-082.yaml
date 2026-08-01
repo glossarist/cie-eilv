@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-31-082
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-082
+  type: authoritative
+status: valid
+id: 6c281548-0f7a-5b28-b56b-5051c98c555c
+---
+data:
+  definition:
+  - content: part of the open road immediately outside (in front of) the {17-31-093,
+      entrance portal}, covering the distance over which an approaching driver must
+      be able to see into a {17-31-081, road tunnel}
+    type: intensional
+  examples: []
+  notes:
+  - content: The access zone begins at the stopping distance point ahead of the {17-31-093,
+      entrance portal} and it ends at the {17-31-093, entrance portal}.
+    type: intensional
+  - content: This entry was numbered 17-8 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: access zone
+    usage_info: of a road tunnel
+  language_code: eng
+  annotations: []
+termid: 17-31-082
+id: 30121446-458d-53af-bb02-efffa68de6a7

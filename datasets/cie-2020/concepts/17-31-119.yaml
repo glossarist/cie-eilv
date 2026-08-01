@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-119
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-119
+  type: authoritative
+status: valid
+id: 8dc24285-c080-5ed6-9755-28e316b24807
+---
+data:
+  definition:
+  - content: set of {17-31-127, legend}s to be displayed on a {17-31-002, sign} which
+      are implemented by the configuration of the {17-31-002, sign}'s hardware
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-437 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-437
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fixed message set
+    usage_info: of a variable message sign
+  language_code: eng
+  annotations: []
+termid: 17-31-119
+id: e0e9e118-7cf8-5b38-971c-d19d1a651341

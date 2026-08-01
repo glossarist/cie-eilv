@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-28-010
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-010
+  type: authoritative
+status: valid
+id: da558505-ef29-53a2-bbcb-b49f5841ee73
+---
+data:
+  definition:
+  - content: "{17-28-006, bulb} coated internally or externally with a thin material
+      layer"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-179 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-179
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coated bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-010
+id: 5961e3f3-138d-5d55-8a78-f76f0f20c3d1

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-32-014
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-014
+  type: authoritative
+status: valid
+id: fc8bab10-80f5-5fd5-88aa-203756fbdee9
+---
+data:
+  definition:
+  - content: communication of the associated data required for unambiguous interpretation
+      of {17-32-005, colour content data}, and application of {17-23-001, colour}
+      data conversions as required to produce the intended reproductions
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-32-005, colour content data} can be {17-23-001, colour} managed."
+    type: intensional
+  - content: Colour management takes into consideration the characteristics of input
+      and output devices in determining {17-23-001, colour} data conversions for these
+      devices.
+    type: intensional
+  - content: This entry was numbered 17-218 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-218
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour management
+  language_code: eng
+  annotations: []
+termid: 17-32-014
+id: ba8ddda5-dd7a-54cb-ab12-26a2ad4bf69f

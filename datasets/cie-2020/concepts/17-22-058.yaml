@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-22-058
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-058
+  type: authoritative
+status: valid
+id: 2405b71c-18ea-59fb-b8f8-4ae90697c305
+---
+data:
+  definition:
+  - content: aspect of {17-22-082, visual perception} through which an object is perceived
+      to have the attribute of {17-22-040, colour}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-199 (1.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-199 (1.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour appearance
+    usage_info: perceptual
+  language_code: eng
+  annotations: []
+termid: 17-22-058
+id: 48deb8cf-30be-5ada-9b91-5952ae5e5972

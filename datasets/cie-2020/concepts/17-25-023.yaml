@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-25-023
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-023
+  type: authoritative
+status: valid
+id: ff451236-44d2-5e09-81d3-24f4912ca49a
+---
+data:
+  definition:
+  - content: visual photometer in which the observer sees either an undivided field
+      illuminated successively, or two adjacent fields illuminated alternately, by
+      two {17-21-032, source}s to be compared, the frequency of alteration being conveniently
+      chosen so that it is above the critical {17-22-092, flicker} frequency for {17-22-040,
+      colour}s but below the fusion frequency for {17-22-059, brightness}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-445 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-445
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flicker photometer
+  language_code: eng
+  annotations: []
+termid: 17-25-023
+id: 72904f53-be25-548a-8844-defe4c87211d

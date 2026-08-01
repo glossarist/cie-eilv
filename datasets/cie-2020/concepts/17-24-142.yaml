@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-24-142
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-142
+  type: authoritative
+status: valid
+id: 1d3921b8-5722-5dd9-ae42-1f085711d71c
+---
+data:
+  definition:
+  - content: reduction of {17-24-141, transparency} of a specimen due to the presence
+      of particulate matter
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: turbidity
+  language_code: eng
+  annotations: []
+termid: 17-24-142
+id: 0c49a7a5-90fa-5eec-9189-d5fe5fdd0476

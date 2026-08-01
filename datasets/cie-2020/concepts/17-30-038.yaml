@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-30-038
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-038
+  type: authoritative
+status: valid
+id: 0f95987f-4b13-5313-afd8-f140f80e38e8
+---
+data:
+  definition:
+  - content: device predominantly using {17-24-047, reflection} to alter the spatial
+      distribution of radiation from a {17-21-032, source}
+    type: intensional
+  examples: []
+  notes:
+  - content: Besides {17-24-047, reflection}, a reflector can also have a slight diffusion
+      and {17-24-081, absorption} effect.
+    type: intensional
+  - content: This entry was numbered 845-10-33 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1069 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-33
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1069
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflector
+  language_code: eng
+  annotations: []
+termid: 17-30-038
+id: f0533206-40d0-54fc-8c6b-403a1b7bd9f7

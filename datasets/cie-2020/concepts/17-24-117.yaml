@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-117
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-117
+  type: authoritative
+status: valid
+id: fc1fe20b-bb7d-5a0c-819d-0abee9065154
+---
+data:
+  definition:
+  - content: "{17-24-115, non-selective filter} whose {17-24-065, transmittance} changes
+      continuously along a straight or curved path on its surface"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-106 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-811 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-106
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-811
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: neutral wedge
+  language_code: eng
+  annotations: []
+termid: 17-24-117
+id: 1b4c80d8-7f6c-50d2-b85b-d5f0102ca970

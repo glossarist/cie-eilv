@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-051
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-051
+  type: authoritative
+status: valid
+id: 92b6a7b7-1c8f-522a-af3b-7f33ebf2ae8a
+---
+data:
+  definition:
+  - content: separated part of a wafer intended to perform as an {17-27-050, LED}
+      in a device
+    type: intensional
+  examples: []
+  notes:
+  - content: A device can be an {17-27-065, LED package}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LED die
+  language_code: eng
+  annotations: []
+termid: 17-27-051
+id: 99320632-1d7e-5413-a770-76b8605f8045

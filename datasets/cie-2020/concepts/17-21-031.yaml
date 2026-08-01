@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-21-031
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-031
+  type: authoritative
+status: valid
+id: 1a30533a-2613-5002-a08c-ec46278d7767
+---
+data:
+  definition:
+  - content: quotient of the {17-21-029, spectral distribution} of {17-21-049, radiance}
+      due to {17-24-023, fluorescence} at {17-21-025, wavelength} <i>λ</i> and the
+      sum of the tabulated values of this distribution across the {17-24-023, fluorescence}
+      band
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-24-023, fluorescence} is understood to include both fluorescent
+      and phosphorescent phenomena with time constants short enough to be ignored
+      for the application."
+    type: intensional
+  - content: |-
+      The relative spectral fluorescence distribution, <i>F</i>(<i>λ</i>), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, <i>Q</i>, for {17-24-020, excitation} at {17-21-025, wavelength}, <i>μ</i>, gives the {17-21-101, bispectral luminescent radiance factor}, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>), of a {17-24-040, photoluminescent material} according to:
+      <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>) = <i>F</i>(<i>λ</i>)⋅<i>Q</i>(<i>μ</i>)
+    type: intensional
+  - content: The relative spectral fluorescence distribution has unit one.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative spectral fluorescence distribution
+  - type: symbol
+    normative_status: preferred
+    designation: relative fluorescence spectrum
+  language_code: eng
+  annotations: []
+termid: 17-21-031
+id: 2a750c9c-d7f4-54d6-9bbb-b321d55295af

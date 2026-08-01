@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-21-018
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-018
+  type: authoritative
+status: valid
+id: 5ebc2a2e-8cdb-5444-bb95-d1ab67484f57
+---
+data:
+  definition:
+  - content: radiation in which the electric field vector is of constant amplitude
+      and rotates about the direction of propagation at a rate equal to the radiation
+      frequency
+  notes:
+  - content: Circularly polarized radiation is described as right-handed (or left-handed)
+      if the rotation of the electric field vector is clockwise (or anticlockwise)
+      as viewed by an observer receiving the radiation.
+  - content: This entry was numbered 17-177 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-177
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circularly polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-018
+id: 6dca1c9b-815f-540d-a3d5-3498c0415236

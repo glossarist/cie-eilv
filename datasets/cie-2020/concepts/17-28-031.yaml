@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-031
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-031
+  type: authoritative
+status: valid
+id: c180748e-a6b7-5864-b146-e17d262374eb
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} for building-in so designed that it provides
+      protection against electric shock and, if appropriate, other degrees of protection
+      as designated by the IP code"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enclosed lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-031
+id: 2df4ee20-1bd8-533f-9327-83e3d878c53e

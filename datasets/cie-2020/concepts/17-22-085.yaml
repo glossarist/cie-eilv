@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-22-085
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-085
+  type: authoritative
+status: valid
+id: 89244797-a2f0-51d5-9862-bb3722e1d2f1
+---
+data:
+  definition:
+  - content: |-
+      quotient of the real difference in {17-21-050, luminance} between the target and its background, Δ<i>L</i>, and the {17-21-050, luminance} difference needed between a target of a certain angular size and its background for the target to be just visible, Δ<i>L</i><sub>th</sub>, that is at the threshold
+      <i>F</i><sub>VL</sub> = Δ<i>L</i> / Δ<i>L</i><sub>th</sub>
+    type: intensional
+  examples: []
+  notes:
+  - content: The visibility level indicates how much the {17-22-089, contrast} of
+      the target is above threshold contrast.
+    type: intensional
+  - content: The visibility level has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1401 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1401
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visibility level
+  - type: symbol
+    normative_status: preferred
+    designation: FVL
+  language_code: eng
+  annotations: []
+termid: 17-22-085
+id: ae43ab41-51e9-5c6f-81e3-1c41ce729d87

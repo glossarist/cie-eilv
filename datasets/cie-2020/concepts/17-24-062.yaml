@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-24-062
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-062
+  type: authoritative
+status: valid
+id: 04ca5cb6-e752-5bc1-8e24-2e16872c590f
+---
+data:
+  definition:
+  - content: Lambert's law for a surface element whose {17-21-049, radiance} or {17-21-050,
+      luminance} is the same in all directions of the hemisphere above the surface
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Lambert's cosine law can be expressed by
+      <i>I</i>(<i>θ</i>) = <i>I</i><sub>n </sub>cos<i>θ</i>
+      where <i>I</i>(<i>θ</i> ) and <i>I</i><sub>n</sub> are the radiant intensities or luminous intensities of the surface element in a direction at an angle, <i>θ</i>, from the normal to the surface and in the direction of that normal, respectively.
+    type: intensional
+  - content: This entry was numbered 845-04-56 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-632 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-56
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-632
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Lambert's cosine law
+  language_code: eng
+  annotations: []
+termid: 17-24-062
+id: c330888d-6495-5ef9-97d0-aa42e42ec96d

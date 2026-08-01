@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-27-078
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-078
+  type: authoritative
+status: valid
+id: 62c3589c-b7b9-5caf-ba3d-23c5fc14838e
+---
+data:
+  definition:
+  - content: value of the {17-21-045, luminous intensity} measured on the {17-27-076,
+      optical beam axis}
+    type: intensional
+  examples: []
+  notes:
+  - content: The centre beam intensity is expressed in candela (cd).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: centre beam intensity
+  - type: symbol
+    normative_status: preferred
+    designation: Ic
+  language_code: eng
+  annotations: []
+termid: 17-27-078
+id: 7628af0d-393e-5a41-865b-54c5f5aa4f01

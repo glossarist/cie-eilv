@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-23-022
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-022
+  type: authoritative
+status: valid
+id: 980592ca-081b-5695-a42b-a21b1b68346b
+---
+data:
+  definition:
+  - content: artificial {17-21-032, source} specified by the CIE whose radiation approximates
+      a {17-23-021, CIE standard illuminant}
+    type: intensional
+  examples: []
+  notes:
+  - content: Artificial sources representing {17-23-019, CIE illuminant}s are referred
+      to as "CIE sources".
+    type: intensional
+  - content: See also "{17-23-021, CIE standard illuminant}".
+    type: intensional
+  - content: See also CIE 15 <i>Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO 11664-2/CIE S 014-2<i> Colorimetry – Part 2: CIE Standard
+      llluminants for Colorimetry</i>.'
+    type: intensional
+  - content: This entry was numbered 845-03-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-171 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-171
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard source
+  language_code: eng
+  annotations: []
+termid: 17-23-022
+id: 834994d4-f62b-539c-b332-62c655048b34

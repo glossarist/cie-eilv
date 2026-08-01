@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-23-046
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-046
+  type: authoritative
+status: valid
+id: a5bb8bea-f3bc-5482-a03a-e048f99a18ff
+---
+data:
+  definition:
+  - content: system for determining the {17-23-038, tristimulus values} of any spectral
+      power distribution using the set of {17-23-037, reference colour stimuli} [X<sub>10</sub>],
+      [Y<sub>10</sub>], [Z<sub>10</sub>] and the three {17-23-047, CIE colour-matching
+      functions} adopted by the CIE in 1964
+    type: intensional
+  examples: []
+  notes:
+  - content: The CIE 1964 standard colorimetric system is applicable to centrally-viewed
+      fields of {17-25-085, angular subtense} greater than about 4° (0,07 rad).
+    type: intensional
+  - content: When the CIE 1964 standard colorimetric system is used, all symbols that
+      represent colorimetric measures are distinguished by use of the subscript 10.
+    type: intensional
+  - content: See also CIE 15<i> Colorimetry</i>.
+    type: intensional
+  - content: This entry was numbered 845-03-29 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-152 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-152
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1964 standard colorimetric system
+  - type: symbol
+    normative_status: preferred
+    designation: X10, Y10, Z10
+  language_code: eng
+  annotations: []
+termid: 17-23-046
+id: 9a4047bb-995a-54d1-a2c1-0ce5c28d35f5

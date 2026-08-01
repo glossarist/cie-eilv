@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-23-015
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-015
+  type: authoritative
+status: valid
+id: 106d583c-2e35-5bcd-b963-9aa2f02dffc5
+---
+data:
+  definition:
+  - content: difference between two {17-23-002, colour stimulus}, defined as the distance
+      between the points representing them in a specified {17-23-041, colour space}
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-23-077, CIE 1976 L*a*b* colour difference}", "{17-23-075,
+      CIE 1976 L*u*v* colour difference}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour difference
+    usage_info: psychophysical
+  language_code: eng
+  annotations: []
+termid: 17-23-015
+id: 8e482b14-7466-5229-bfaf-819b36148fc4

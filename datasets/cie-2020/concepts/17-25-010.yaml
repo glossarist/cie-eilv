@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-25-010
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-010
+  type: authoritative
+status: valid
+id: 17d68311-6eb5-580d-96b0-d0cea8959d3d
+---
+data:
+  definition:
+  - content: "{17-25-028, integrating sphere} in combination with a photometer, used
+      to measure the total {17-21-039, luminous flux} emitted by a {17-21-032, source}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sphere photometer
+  language_code: eng
+  annotations: []
+termid: 17-25-010
+id: a5ebcdd9-0e1d-5099-9c90-56507bb82bd1

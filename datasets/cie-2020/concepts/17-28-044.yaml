@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-28-044
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-044
+  type: authoritative
+status: valid
+id: 2fbd71ac-9bb2-5b91-a631-e064d941fdcc
+---
+data:
+  definition:
+  - content: unit inserted between the power supply and at least one {17-27-024, discharge
+      lamp} that by means of inductance, capacitance or resistance, single or in combination,
+      serves mainly to limit the current of the {17-27-024, discharge lamp}(s) to
+      the required value
+    type: intensional
+  examples: []
+  notes:
+  - content: A ballast can also include means for transforming from the power supply
+      voltage and arrangements which help to provide {17-27-116, starting voltage}
+      and preheating current, to prevent cold starting, to reduce stroboscopic effect,
+      to correct the power factor and to suppress radio interference.
+    type: intensional
+  - content: This entry was numbered 845-08-34 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-73 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-73
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ballast
+  language_code: eng
+  annotations: []
+termid: 17-28-044
+id: 636ae6e5-b410-5083-a62f-a7dde964df0f

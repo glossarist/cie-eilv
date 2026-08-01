@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-27-074
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-074
+  type: authoritative
+status: valid
+id: 162bc425-74b8-51ac-aebb-307eb796cd29
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} in which the {17-28-001, luminous element}
+      is of relatively concentrated form and is mounted in a way that the {17-27-008,
+      electric lamp} can be used with a system for the projection of either still
+      or motion pictures on a screen"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-989 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-989
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: projection lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-074
+id: 38dea25e-de41-5f3a-a697-0d777cf3cb27

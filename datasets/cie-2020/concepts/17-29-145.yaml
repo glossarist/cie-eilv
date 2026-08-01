@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-145
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-145
+  type: authoritative
+status: valid
+id: 93881fb5-958a-5c70-af82-88c29976b04e
+---
+data:
+  definition:
+  - content: value used in lighting calculations that consider (a) the lamp {17-21-039,
+      luminous flux} depreciation at the planned time of replacement, (b) the {17-30-001,
+      luminaire} dirt depreciation, and (c) the room surface dirt depreciation (in
+      interiors) or the surface dirt depreciation for other relevant surfaces (in
+      exteriors, where appropriate)
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-752 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-752
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintained lighting value
+  language_code: eng
+  annotations: []
+termid: 17-29-145
+id: 02f1cadb-ffde-5cb2-91d5-891ebb77c314

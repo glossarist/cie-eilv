@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-21-044
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-044
+  type: authoritative
+status: valid
+id: 64a9fb28-1ac7-5033-9c74-8b0d4f18d10b
+---
+data:
+  definition:
+  - content: |-
+      density of {17-21-038, radiant flux} with respect to {17-21-109, solid angle} in a specified direction
+
+      where <i>Φ</i><sub>e</sub> is the {17-21-038, radiant flux} emitted in a specified direction, and <i>Ω</i> is the {17-21-109, solid angle} containing that direction
+    type: intensional
+  examples: []
+  notes:
+  - content: The definition holds strictly only for a {17-21-033, point source}.
+    type: intensional
+  - content: |-
+      The distribution of the radiant intensities as a function of the direction of {17-24-001, emission}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>, within a certain {17-21-109, solid angle}, <i>Ω</i>, of a {17-21-032, source}:
+      .
+    type: intensional
+  - content: The corresponding photometric quantity is "{17-21-045, luminous intensity}".
+      The corresponding quantity for photons is "{17-21-046, photon intensity}".
+    type: intensional
+  - content: The radiant intensity is expressed in watt per steradian (W⋅sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-30 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1026 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-30
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant intensity
+  - type: symbol
+    normative_status: preferred
+    designation: Ie; I
+  language_code: eng
+  annotations: []
+termid: 17-21-044
+id: 371dd8e2-d04e-5e6d-b50c-33e8926c2fa5

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-26-080
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-080
+  type: authoritative
+status: valid
+id: 826ef073-231d-577d-807a-fea1fd504ede
+---
+data:
+  definition:
+  - content: process whereby 7-dehydrocholesterol, precursor of vitamin D3, produces
+      previtamin D3 by absorbing 240 nm to 315 nm {17-21-008, ultraviolet radiation}
+      and moreover changes it to vitamin D3 through a thermal isomerization process
+    type: intensional
+  examples: []
+  notes:
+  - content: Vitamin D is a generic term for vitamin D2 and/or vitamin D3. Vitamin
+      D synthesis in mammalian skin produces vitamin D3. Vitamin D2 is formed in plants
+      in an analogous process when {17-21-008, ultraviolet radiation} activates ergosterol.
+    type: intensional
+  - content: This entry was numbered 17-1420 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1420
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vitamin D synthesis
+  language_code: eng
+  annotations: []
+termid: 17-26-080
+id: 6e24d660-8d5d-51f4-84fc-120e1746a911

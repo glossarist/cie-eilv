@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-29-146
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-146
+  type: authoritative
+status: valid
+id: e378aa60-41c9-538b-bf96-59fe484cef18
+---
+data:
+  definition:
+  - content: quotient of {17-21-060, illuminance} produced by the {17-29-034, lighting
+      installation} after a certain <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> and the {17-21-060, illuminance} produced by the installation when
+      new
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "light loss factor" is no longer used.
+    type: intensional
+  - content: The term "depreciation factor" was formerly used to designate the reciprocal
+      of the above quotient.
+    type: intensional
+  - content: The maintenance factor takes into account light losses caused by dirt
+      accumulation on {17-30-001, luminaire}s and room surfaces (in interiors) or
+      other relevant surfaces (in exteriors, where appropriate), and the decrease
+      in the {17-21-039, luminous flux} of lamps.
+    type: intensional
+  - content: The maintenance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-753 and 17-774 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-753 and 17-774
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintenance factor
+    usage_info: of a lighting installation
+  - type: symbol
+    normative_status: preferred
+    designation: MF
+  language_code: eng
+  annotations: []
+termid: 17-29-146
+id: 54fbffe7-0c45-56cf-8772-bd20f9282a11

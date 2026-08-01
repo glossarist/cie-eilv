@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-101
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-101
+  type: authoritative
+status: valid
+id: 3ef66cc2-891f-5314-8e6a-e5008647b8c3
+---
+data:
+  definition:
+  - content: part of the {17-31-002, sign} face which outlines its shape
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-106 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: border
+    usage_info: of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-101
+id: 30d8c1cb-0db7-5f8c-993f-bd668e111693

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-29-081
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-081
+  type: authoritative
+status: valid
+id: 9375cc61-29e6-5df1-8127-c3e9de54a0f9
+---
+data:
+  definition:
+  - content: quotient of the {17-22-089, contrast} of a task under the {17-27-010,
+      lighting system} considered and the {17-22-089, contrast} of the same task under
+      reference {17-29-001, lighting}
+    type: intensional
+  examples: []
+  notes:
+  - content: The contrast rendering factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-62 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-253 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-62
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-253
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast rendering factor
+    usage_info: of a lighting system, for a task
+  language_code: eng
+  annotations: []
+termid: 17-29-081
+id: 2745eff9-1d0c-5661-b874-3feb07557c48

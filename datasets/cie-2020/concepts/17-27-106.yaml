@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-106
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-106
+  type: authoritative
+status: valid
+id: de032fdd-eb8e-5b25-a955-b46917a02bbd
+---
+data:
+  definition:
+  - content: fraction of the population that lost the ability to perform a required
+      function in a specified <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a>
+  notes:
+  - content: Failure fraction has unit one.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: failure fraction
+  - type: symbol
+    normative_status: preferred
+    designation: Fx
+  language_code: eng
+  annotations: []
+termid: 17-27-106
+id: a57a3b8e-4eff-5442-a497-2f5cfbbb8d22

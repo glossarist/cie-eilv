@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-32-010
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-010
+  type: authoritative
+status: valid
+id: 29f736a5-d231-5a33-8f06-8dc25d3cb278
+---
+data:
+  definition:
+  - content: defined and documented original-referred {17-32-009, colour image data}
+      representing the colorimetric coordinates of the {17-23-016, colour element}s
+      of a two-dimensional {17-32-045, hardcopy} produced by scanning artwork, photographic
+      transparencies or prints, or photomechanical or other reproductions
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-32-051, original-referred image state}".
+    type: intensional
+  - content: This entry was numbered 17-214 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-214
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard original-referred colour image data
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-32-010
+id: 94fe1786-f9da-5ca0-8dd2-551e754f581d

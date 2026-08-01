@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-26-057
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-057
+  type: authoritative
+status: valid
+id: 82dbcb68-ea8b-52f5-819d-586ab59e7eba
+---
+data:
+  definition:
+  - content: effective photobiological {17-21-049, radiance} with the {17-21-052,
+      spectral radiance}, <i>L<sub>λ</sub></i>, spectrally weighted with the {17-26-060,
+      blue light hazard spectral weighting function}, <i>B</i>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-21-025, wavelength} range for the blue light hazard radiance
+      is specified in ICNIRP-recommendations as <i>λ</i> = 300 nm to <i>λ</i> = 700
+      nm.
+    type: intensional
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
+      its maximum value is 1.
+    type: intensional
+  - content: It is essential to specify which actinic {17-26-027, action spectrum}
+      is used, as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: The blue light hazard radiance is expressed in watt per square metre
+      per steradian (W⋅m<sup>−2</sup>⋅sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-99 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-99
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard radiance
+  - type: symbol
+    normative_status: preferred
+    designation: LB
+  language_code: eng
+  annotations: []
+termid: 17-26-057
+id: d5a03d4e-bb09-5fd4-80fd-f46d20d58d80

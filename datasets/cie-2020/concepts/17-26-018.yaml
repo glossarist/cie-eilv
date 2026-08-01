@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-26-018
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-018
+  type: authoritative
+status: valid
+id: d1e412b3-afe9-5c8f-bee0-18246936c4c5
+---
+data:
+  definition:
+  - content: property of plants that enables them to utilize {17-21-041, radiant energy}
+      to control the growth and development of their cells, tissues and organs
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-915 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-915
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photomorphogenesis
+  language_code: eng
+  annotations: []
+termid: 17-26-018
+id: 7d4309fa-f9aa-51a0-b0bf-609d0fc1d64f

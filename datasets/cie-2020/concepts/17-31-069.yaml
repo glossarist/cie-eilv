@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-31-069
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-069
+  type: authoritative
+status: valid
+id: 8d43eacd-07f0-5a1c-881c-9242a320946d
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} carried on a vehicle to indicate its location
+      when it is viewed from the front"
+    type: intensional
+  examples: []
+  notes:
+  - content: A front position light can also, particularly if paired with an identical
+      light, provide an indication of the width of the vehicle
+    type: intensional
+  - content: The terms "{17-31-076, sidelight}" and "{17-31-076, sidelight}" are commonly
+      used for one of a pair of front position lights.
+    type: intensional
+  - content: This entry was numbered 845-11-73 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-478 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-73
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-478
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: front position light
+  language_code: eng
+  annotations: []
+termid: 17-31-069
+id: c57d76e5-6d92-5282-8846-0bb59f3a9304

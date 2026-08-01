@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-22-028
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-028
+  type: authoritative
+status: valid
+id: '0993e88d-daf5-5b55-ac34-1a34ea188232'
+---
+data:
+  definition:
+  - content: "{17-22-023, defective colour vision} in which all {17-22-040, colour}s
+      can be matched using only a single matching stimulus"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-790 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-790
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromatism
+  language_code: eng
+  annotations: []
+termid: 17-22-028
+id: 961963bd-c46c-5f8f-b789-11284812523e

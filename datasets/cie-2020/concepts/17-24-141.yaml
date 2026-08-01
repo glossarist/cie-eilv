@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-24-141
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-141
+  type: authoritative
+status: valid
+id: 740a3299-ff78-501b-b139-2e420468325e
+---
+data:
+  definition:
+  - content: property of a material or substance by which objects can be seen clearly
+      through that material or substance
+    type: intensional
+  examples: []
+  notes:
+  - content: Transparency is distinct from {17-24-131, clarity} in that transparency
+      is related to the amount of light transmitted through a medium whereas {17-24-131,
+      clarity} relates to the ability to resolve an object that is seen through the
+      medium. Tinted glass is an example of a material that has low transparency but
+      high {17-24-131, clarity}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transparency
+    usage_info: physical
+  language_code: eng
+  annotations: []
+termid: 17-24-141
+id: 93efca3a-c37c-5ce7-bbcc-a3ae4d1702ab

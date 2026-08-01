@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-29-066
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-066
+  type: authoritative
+status: valid
+id: ae13f3da-4451-5263-9db2-9c2903be1181
+---
+data:
+  definition:
+  - content: proportion of the flux of a {17-30-001, luminaire} or installation that
+      is emitted, at and above the horizontal, when the {17-30-001, luminaire}(s)
+      is (are) mounted in its (their) installed position
+    type: intensional
+  examples: []
+  notes:
+  - content: The upward light ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1381 and 17-1360 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1381 and 17-1360
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upward light ratio
+  - type: symbol
+    normative_status: preferred
+    designation: ULR
+  language_code: eng
+  annotations: []
+termid: 17-29-066
+id: 7d53484e-e223-5446-94d5-57c6adbb31f2

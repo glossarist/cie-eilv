@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-29-122
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-122
+  type: authoritative
+status: valid
+id: 344472a8-6912-55d3-bb5d-acef997b9d67
+---
+data:
+  definition:
+  - content: quotient of that part of the {17-21-060, illuminance} at a point on a
+      given plane which is received directly (or through clear glass) from a sky of
+      assumed or known {17-21-050, luminance} distribution and the {17-21-060, illuminance}
+      on a horizontal plane due to an unobstructed hemisphere of this sky, where the
+      contribution of direct {17-29-103, sunlight} to both {17-21-060, illuminance}s
+      is excluded
+    type: intensional
+  examples: []
+  notes:
+  - content: When calculating the {17-29-001, lighting} of interiors, the contribution
+      of direct {17-29-103, sunlight} has to be considered separately.
+    type: intensional
+  - content: The sky component of daylight factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-98 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1189 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-98
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1189
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sky component of daylight factor
+  - type: symbol
+    normative_status: preferred
+    designation: Ds
+  language_code: eng
+  annotations: []
+termid: 17-29-122
+id: 738f6ea4-5f95-58ae-92a8-d1cb66bac9eb

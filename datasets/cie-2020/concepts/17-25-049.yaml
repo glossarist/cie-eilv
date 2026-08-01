@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-25-049
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-049
+  type: authoritative
+status: valid
+id: 8838ae2f-47f1-5cc3-91f0-add58a19efbe
+---
+data:
+  definition:
+  - content: "{17-25-035, detector} of {17-21-002, optical radiation} in which a measurable
+      physical effect is produced by the heating of the part that absorbs radiation"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1303 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1303
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal detector
+    usage_info: of optical radiation
+  - type: symbol
+    normative_status: preferred
+    designation: thermal radiation detector
+  language_code: eng
+  annotations: []
+termid: 17-25-049
+id: a42e2522-8f94-5742-a9e5-177b1177af74

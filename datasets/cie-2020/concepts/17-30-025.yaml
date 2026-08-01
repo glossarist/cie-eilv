@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-30-025
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-025
+  type: authoritative
+status: valid
+id: 4129a91f-5b87-52c3-9373-465db905c100
+---
+data:
+  definition:
+  - content: "{17-27-010, lighting system} comprising {17-27-001, light source}s shielded
+      by a ledge or recess, and distributing light over the ceiling and wall above
+      it"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-262 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-262
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cove lighting
+  language_code: eng
+  annotations: []
+termid: 17-30-025
+id: 0333e628-3fc4-5f37-a70c-3806f1fe21a9

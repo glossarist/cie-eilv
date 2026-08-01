@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-25-055
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-055
+  type: authoritative
+status: valid
+id: '0097cd5a-1446-5dd2-9364-eb7e76ec604a'
+---
+data:
+  definition:
+  - content: "{17-25-049, thermal detector} in which the heating of the part that
+      absorbs the radiation causes a change in its electrical resistance which is
+      used to quantify an optical property"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-48 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-105 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-48
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-105
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bolometer
+    usage_info: for optical radiation
+  language_code: eng
+  annotations: []
+termid: 17-25-055
+id: fce6e332-badc-506a-b4cc-8da6133411cd

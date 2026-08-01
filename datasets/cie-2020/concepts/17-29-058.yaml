@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-058
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-058
+  type: authoritative
+status: valid
+id: 023d252c-65d5-5e62-8997-2ec03034830a
+---
+data:
+  definition:
+  - content: "{17-21-039, luminous flux} received by the surface from a {17-29-034,
+      lighting installation}, after {17-24-047, reflection} from other surfaces"
+    type: intensional
+  examples: []
+  notes:
+  - content: The indirect flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-573 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-573
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect flux
+    usage_info: on a surface
+  language_code: eng
+  annotations: []
+termid: 17-29-058
+id: f53ced6f-406c-5ae9-b109-1a3cc57a3b4d

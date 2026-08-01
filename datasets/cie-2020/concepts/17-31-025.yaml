@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-31-025
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-025
+  type: authoritative
+status: valid
+id: bd60d3c1-0a84-5652-a309-8e2be4c74179
+---
+data:
+  definition:
+  - content: |-
+      law relating the {17-21-060, illuminance}, <i>E</i><sub>v</sub>, produced on a surface (which is normal to the direction of the {17-27-001, light source} and sufficiently distant for the {17-27-001, light source} to be considered as a {17-21-033, point source}) by a {17-27-001, light source} to the {17-21-045, luminous intensity}, <i>I</i><sub>v</sub>, of the {17-27-001, light source} in the direction of the surface, to the distance, <i>d</i>, between the surface and the {17-27-001, light source}, and to the {17-31-017, atmospheric transmissivity}, <i>T</i>, which is assumed to be uniform
+
+      where <i>d</i><sub>0</sub> is the length specified in the definition of <i>T</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      to entry: The formula in the definition is sometimes written:
+
+      where the exponent, <i>δ</i>, in <i>T<sup>δ</sup></i> is the numerical value of the distance, <i>d</i>, measured with <i>d</i><sub>0</sub> as "unit".
+    type: intensional
+  - content: |-
+      Taking into account the relationship between {17-31-017, atmospheric transmissivity}, <i>T</i>, and {17-31-018, meteorological optical range}, <i>v</i>, given in Note 2 to entry of the definition of "{17-31-018, meteorological optical range}", Allard's law can also be written as:
+      .
+    type: intensional
+  - content: This entry was numbered 845-11-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-34 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-34
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Allard's law
+  language_code: eng
+  annotations: []
+termid: 17-31-025
+id: e3ca9c93-de78-554d-b363-4f83a29cb943

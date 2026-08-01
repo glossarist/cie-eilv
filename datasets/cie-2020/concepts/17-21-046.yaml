@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 17-21-046
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-046
+  type: authoritative
+status: valid
+id: 7770ab6e-a693-5336-857f-4ee87a770ba9
+---
+data:
+  definition:
+  - content: |-
+      density of {17-21-040, photon flux} with respect to {17-21-109, solid angle} in a specified direction
+      .
+      where <i>Φ</i><sub>p</sub> is the {17-21-040, photon flux} emitted in the given direction, and <i>Ω</i> is the {17-21-109, solid angle} containing that direction
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The distribution of the photon intensities as a function of the direction of {17-24-001, emission}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {17-21-040, photon flux}, <i>Φ</i><sub>p</sub>, within a certain {17-21-109, solid angle}, <i>Ω</i>, of a {17-21-032, source}:
+      .
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-044, radiant intensity}".
+      The corresponding photometric quantity is "{17-21-045, luminous intensity}".
+    type: intensional
+  - content: The photon intensity is expressed in second to the power minus one times
+      steradian to the power minus one (s<sup>−1</sup>·sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-32 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-928 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-32
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-928
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon intensity
+  - type: symbol
+    normative_status: preferred
+    designation: Ip; I
+  language_code: eng
+  annotations: []
+termid: 17-21-046
+id: eec2193c-fc5d-5d58-9631-d55d45000d7e

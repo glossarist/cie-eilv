@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-29-062
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-062
+  type: authoritative
+status: valid
+id: 79b2f57d-87d9-5160-b796-9a5d0b03c0bc
+---
+data:
+  definition:
+  - content: calculation method to predict the relationship between the number of
+      {17-27-001, light source}s or {17-30-001, luminaire}s, the characteristics of
+      the room and the {17-29-155, average illuminance} on the {17-29-068, working
+      plane}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-705 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-705
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lumen method
+  language_code: eng
+  annotations: []
+termid: 17-29-062
+id: 520d20c7-5acf-541e-90b9-04396b7bff68

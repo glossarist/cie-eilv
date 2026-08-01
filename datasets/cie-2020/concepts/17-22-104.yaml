@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-22-104
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-104
+  type: authoritative
+status: valid
+id: 64347ffd-bd32-52e6-87e0-0b65a3eb15f1
+---
+data:
+  definition:
+  - content: "{17-21-050, luminance} that, when added by superposition to the {17-21-050,
+      luminance} of both the adapting background and the object, makes the {17-22-087,
+      luminance threshold} or the {17-22-088, luminance difference threshold} the
+      same under the two following conditions: (1) {17-22-098, glare} present, but
+      no additional {17-21-050, luminance}; (2) additional {17-21-050, luminance}
+      present, but no {17-22-098, glare}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The equivalent veiling luminance is expressed in candela per square metre
+      (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-02-58 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-398 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-58
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-398
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalent veiling luminance
+    usage_info: for disability glare or veiling reflections
+  language_code: eng
+  annotations: []
+termid: 17-22-104
+id: 3a984e18-949c-5177-a296-87617bc710f2

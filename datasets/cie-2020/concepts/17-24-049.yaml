@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-24-049
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-049
+  type: authoritative
+status: valid
+id: 4bdb655d-aef2-5ea4-a9d9-1036bc17f8be
+---
+data:
+  definition:
+  - content: process by which the spatial distribution of a beam of radiation is changed
+      when it is deviated in many directions by a surface or by a medium, without
+      change in frequency of its monochromatic components
+    type: intensional
+  examples: []
+  notes:
+  - content: A distinction is made between selective scattering and non-selective
+      scattering according to whether or not the scattering properties vary with the
+      {17-21-025, wavelength} of the incident radiation.
+    type: intensional
+  - content: The frequency is unchanged only if there is no Doppler effect due to
+      the motion of the materials from which the radiation is returned.
+    type: intensional
+  - content: This entry was numbered 845-04-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1139 and 17-311 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1139 and 17-311
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scattering
+  - type: symbol
+    normative_status: preferred
+    designation: diffusion
+  language_code: eng
+  annotations: []
+termid: 17-24-049
+id: a490c048-ff50-586b-a8ee-d0a5412f1900

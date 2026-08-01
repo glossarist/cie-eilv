@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-133
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-133
+  type: authoritative
+status: valid
+id: 593a5315-2bae-5bab-b95e-986b51c34968
+---
+data:
+  definition:
+  - content: three digit number, the first digit representing the first digit of the
+      {17-22-111, CIE 1974 general colour rendering index}, and the second and third
+      digits representing the first two digits (thousands and hundreds) of the {17-23-068,
+      correlated colour temperature} of the {17-27-001, light source}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light colour designation
+  language_code: eng
+  annotations: []
+termid: 17-27-133
+id: 3a3475a0-bb1e-50ae-bf27-48a4da65e9de

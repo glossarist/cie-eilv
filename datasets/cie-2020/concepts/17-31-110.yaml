@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-110
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-110
+  type: authoritative
+status: valid
+id: 1eb929e8-0c56-55c6-9a76-67384c481416
+---
+data:
+  definition:
+  - content: appearance of a meaningful {17-31-002, sign} {17-31-127, legend} caused
+      by the internal {17-24-047, reflection} of light, originating from an external
+      {17-21-032, source}, from {17-31-102, element}s forming the {17-31-002, sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-878 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-878
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phantom sign
+  language_code: eng
+  annotations: []
+termid: 17-31-110
+id: 7596c8f2-4b9b-55d6-b54b-6678195f9db5

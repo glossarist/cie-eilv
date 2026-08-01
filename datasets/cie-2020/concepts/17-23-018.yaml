@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-23-018
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-018
+  type: authoritative
+status: valid
+id: d7d2014b-2c2f-5912-a4e2-ed9002c945af
+---
+data:
+  definition:
+  - content: radiation with a relative spectral power distribution defined over the
+      {17-21-025, wavelength} range that influences {17-22-042, object colour} perception
+    type: intensional
+  examples: []
+  notes:
+  - content: In everyday English, the meaning of the term "illuminant" is not restricted
+      to this sense, but is also used for any kind of light falling on a body or scene.
+    type: intensional
+  - content: This entry was numbered 845-03-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-554 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-554
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminant
+  language_code: eng
+  annotations: []
+termid: 17-23-018
+id: 3bd2a69e-3e50-5402-9ef0-a05cb014a7da

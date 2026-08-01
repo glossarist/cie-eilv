@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-24-101
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-101
+  type: authoritative
+status: valid
+id: 18fb1fc9-99a5-57f3-bd77-017ea2f0d1a6
+---
+data:
+  definition:
+  - content: angle between the illumination axis and the {17-24-100, retroreflector}
+      axis
+    type: intensional
+  examples: []
+  notes:
+  - content: The entrance angle is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 845-04-95 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-386 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-95
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-386
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entrance angle
+    usage_info: of a retroreflector
+  - type: symbol
+    normative_status: preferred
+    designation: β
+  language_code: eng
+  annotations: []
+termid: 17-24-101
+id: 908abaa9-5329-598e-ace6-b4bce44683d4

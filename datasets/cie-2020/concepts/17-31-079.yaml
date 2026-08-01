@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-079
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-079
+  type: authoritative
+status: valid
+id: 0365a528-ea33-50ad-b2b3-626fc476058e
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} positioned on a vehicle to provide an indication
+      of the exceptional length or bulk of the vehicle"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-82 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-855 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-82
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-855
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: outline marker light
+  language_code: eng
+  annotations: []
+termid: 17-31-079
+id: 586bd0ac-ed4d-5a21-a509-f837574943d5

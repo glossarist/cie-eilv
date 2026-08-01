@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-21-003
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-003
+  type: authoritative
+status: valid
+id: 392f0b61-f33d-51cf-a1dd-f8553c359abc
+---
+data:
+  definition:
+  - content: "{17-21-002, optical radiation} capable of causing a {17-22-083, visual
+      sensation} directly"
+    type: intensional
+  examples: []
+  notes:
+  - content: There are no precise limits for the spectral range of visible radiation
+      since they depend upon the amount of {17-21-038, radiant flux} reaching the
+      {17-22-001, retina} and the responsivity of the observer. The lower limit is
+      generally taken between 360 nm and 400 nm and the upper limit between 760 nm
+      and 830 nm.
+    type: intensional
+  - content: This entry was numbered 845-01-03 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1402 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1402
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visible radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-003
+id: a9d83153-3e63-5985-a911-62da66545ffd

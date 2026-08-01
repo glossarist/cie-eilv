@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-31-083
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-083
+  type: authoritative
+status: valid
+id: 5fc9d4b5-34ce-5b54-ba22-2d600770db90
+---
+data:
+  definition:
+  - content: first part of a {17-31-081, road tunnel}, directly after the {17-31-093,
+      entrance portal}
+    type: intensional
+  examples: []
+  notes:
+  - content: The threshold zone starts either at the beginning of the {17-31-081,
+      road tunnel} or at the beginning of the sun screen when a sun screen is installed.
+      The length of the threshold zone is at least equal to the stopping distance.
+    type: intensional
+  - content: This entry was numbered 17-1314 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1314
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold zone
+    usage_info: of a road tunnel
+  language_code: eng
+  annotations: []
+termid: 17-31-083
+id: 8091affa-d00f-5d61-a2c7-d58f79351ef8

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-25-105
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-105
+  type: authoritative
+status: valid
+id: 636ba5d0-0b9e-5025-83e1-ba263e041fad
+---
+data:
+  definition:
+  - content: special case of the {17-25-104, photometric distance law} where the surface
+      is perpendicular to the direction of illumination and the relationship becomes
+    type: intensional
+  examples: []
+  notes:
+  - content: For radiometric {17-21-032, source}s the equivalent term is "radiometric
+      inverse square law".
+    type: intensional
+  - content: This entry was numbered 17-913 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-913
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometric inverse square law
+  language_code: eng
+  annotations: []
+termid: 17-25-105
+id: 97a41a94-4a7a-5c5f-b293-0dc979ef1aa1

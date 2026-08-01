@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-26-043
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-043
+  type: authoritative
+status: valid
+id: 2b7d8b8d-0b11-502c-b424-379f26b336d9
+---
+data:
+  definition:
+  - content: response of organisms to the length of night and day periods, and the
+      change in these periods with the natural progression of the seasons or the manipulation
+      of day length with artificial light
+  notes:
+  - content: This entry was numbered 17-937 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-937
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoperiodism
+  language_code: eng
+  annotations: []
+termid: 17-26-043
+id: d62c6f4d-5f6f-555e-a1cc-211757bcdd50

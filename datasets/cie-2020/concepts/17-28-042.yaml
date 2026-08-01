@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-28-042
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-042
+  type: authoritative
+status: valid
+id: 3b2a87a8-b850-53ae-ba3d-42f5becbd1b5
+---
+data:
+  definition:
+  - content: device, usually for {17-27-034, fluorescent lamp}s, which is used for
+      the purpose of starting the {17-27-024, discharge lamp} by providing the necessary
+      preheating of the cathode and, in combination with the series inductance of
+      the {17-28-044, ballast}, causes a voltage surge applied to the {17-27-024,
+      discharge lamp}
+    type: intensional
+  examples: []
+  notes:
+  - content: The starter element that releases the {17-27-116, starting voltage} pulse
+      can be either triggered or non-triggered.
+    type: intensional
+  - content: This entry was numbered 845-08-32 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1258 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-32
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1258
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starter
+  language_code: eng
+  annotations: []
+termid: 17-28-042
+id: '01571947-0ead-51e2-92a7-2619439ad6dd'

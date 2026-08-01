@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-21-036
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-036
+  type: authoritative
+status: valid
+id: 4db71ac9-078c-5bdc-a473-2395f48c225c
+---
+data:
+  definition:
+  - content: ideal observer having a relative spectral responsivity curve that conforms
+      to the {17-21-035, spectral luminous efficiency} function for {17-22-016, photopic
+      vision}, <i>V</i>(<i>λ</i>), or to the function for {17-22-017, scotopic vision},
+      <i>V</i>′(<i>λ</i>), and that complies with the summation law implied in the
+      definition of {17-21-039, luminous flux}
+    type: intensional
+  examples: []
+  notes:
+  - content: See also ISO 23539:2005(E)/CIE S 010/E:2004<i> Photometry – The CIE System
+      of Physical Photometry</i>.
+    type: intensional
+  - content: This entry was numbered 845-01-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-170 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-170
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard photometric observer
+  language_code: eng
+  annotations: []
+termid: 17-21-036
+id: 25162d36-1a7f-5cf3-8e47-4764d0699b61

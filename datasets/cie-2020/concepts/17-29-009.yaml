@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-29-009
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-009
+  type: authoritative
+status: valid
+id: c1103393-1a43-5630-8044-aeef78e4cd68
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} designed to illuminate the functionally defined
+      area with higher {17-21-060, illuminance} at certain specified positions, for
+      instance those at which work is carried out"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-691 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-691
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: localized lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-009
+id: 6ccfa373-5f10-5802-a936-c6e34e16b3e8

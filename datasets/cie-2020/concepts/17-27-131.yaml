@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-27-131
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-131
+  type: authoritative
+status: valid
+id: e487ffaf-c6b8-5a7f-89f4-ef4b634f782c
+---
+data:
+  definition:
+  - content: type of heating of the electrodes of a {17-27-024, discharge lamp} in
+      which the electrodes are fed by separate circuits
+    type: intensional
+  examples: []
+  notes:
+  - content: Each electrode is usually connected across a low-voltage winding that
+      can be part of the {17-28-044, ballast} and provides the heating current. In
+      certain circuits, this low voltage is automatically decreased after the arc
+      has struck.
+    type: intensional
+  - content: This entry was numbered 845-07-72 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-860 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-72
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-860
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parallel cathode heating
+    usage_info: of a discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-131
+id: 3e842ae7-d1ad-5ebc-9e57-05ade8eb598b

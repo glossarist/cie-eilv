@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-22-122
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-122
+  type: authoritative
+status: valid
+id: 51b1fe14-04e5-578e-baca-f5b86b9ec4a6
+---
+data:
+  definition:
+  - content: perceived surface {17-22-059, brightness} associated with the luminous
+      specular (regular) reflection of a surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specular gloss
+    usage_info: perceived
+  language_code: eng
+  annotations: []
+termid: 17-22-122
+id: 9fdd45e2-80fe-56ea-a68c-909250aa54df

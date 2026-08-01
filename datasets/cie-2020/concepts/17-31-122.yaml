@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-31-122
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-122
+  type: authoritative
+status: valid
+id: 12d2c6b3-02a3-554d-be1c-898ea348f972
+---
+data:
+  definition:
+  - content: distance at which a {17-31-002, sign} can be read with unlimited time
+    type: intensional
+  examples: []
+  notes:
+  - content: The threshold legibility distance is the distance at which the {17-31-002,
+      sign} becomes legible.
+    type: intensional
+  - content: This entry was numbered 17-651 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-651
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legibility distance
+    usage_info: of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-122
+id: 2b6ea353-f2c8-5ea8-ac19-eca4ed099b4d

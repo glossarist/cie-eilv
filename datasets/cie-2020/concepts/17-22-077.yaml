@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-077
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-077
+  type: authoritative
+status: valid
+id: 4ed8ed40-80b0-5265-858e-924ee6e1c37d
+---
+data:
+  definition:
+  - content: capacity for seeing distinctly fine details that have very small angular
+      separation
+  notes:
+  - content: This entry was numbered 845-02-43 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-1403 (1.) and 17-1415 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1403 (1.) and 17-1415
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual acuity
+    usage_info: qualitatively
+  - type: symbol
+    normative_status: preferred
+    designation: visual resolution, <qualitatively>
+  language_code: eng
+  annotations: []
+termid: 17-22-077
+id: 40831020-fdf9-5a96-a911-3b28fb693b06

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24-050
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-050
+  type: authoritative
+status: valid
+id: aa358579-0cdb-5b47-acbf-e5ff0188be31
+---
+data:
+  definition:
+  - content: "{17-24-049, scattering} in which the properties of the {17-24-049, scattering}
+      vary with the {17-21-025, wavelength} of the incident radiation"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1153 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1153
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selective scattering
+  - type: symbol
+    normative_status: preferred
+    designation: selective diffusion
+  language_code: eng
+  annotations: []
+termid: 17-24-050
+id: 5984dd74-3823-5209-a8c2-62f0c9b177b6

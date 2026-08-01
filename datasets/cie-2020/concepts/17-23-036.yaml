@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-23-036
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-036
+  type: authoritative
+status: valid
+id: f9ea05b5-ad7f-5fd6-b7ab-4977eebb2830
+---
+data:
+  definition:
+  - content: system for specifying {17-23-002, colour stimulus} in terms of {17-23-038,
+      tristimulus values}, based on matching {17-23-001, colour}s by {17-23-030, additive
+      mixture} of three suitably chosen {17-23-037, reference colour stimuli}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1343 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1343
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trichromatic system
+  language_code: eng
+  annotations: []
+termid: 17-23-036
+id: 46c24c92-6840-5e1d-9ac1-522bc20e00f3

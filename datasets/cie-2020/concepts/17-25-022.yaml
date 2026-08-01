@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-022
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-022
+  type: authoritative
+status: valid
+id: d81b0296-ff1d-5b46-99cd-fc9e94d90ada
+---
+data:
+  definition:
+  - content: instrument for measuring colorimetric quantities, such as the {17-23-038,
+      tristimulus values} of a {17-23-002, colour stimulus}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-192 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-192
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimeter
+  language_code: eng
+  annotations: []
+termid: 17-25-022
+id: f38e1f63-7f8a-50d8-9038-4071baa7eb60

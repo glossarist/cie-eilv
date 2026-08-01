@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-098
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-098
+  type: authoritative
+status: valid
+id: 7d8b2d97-7664-5b6c-8cc1-e8d2b0199197
+---
+data:
+  definition:
+  - content: quotient of the {17-21-050, luminance}, <i>L</i><sub>v</sub>, of a road
+      surface and the {17-21-062, vertical illuminance}, <i>E</i><sub>v,v</sub>, at
+      a specific location in a tunnel
+    type: intensional
+  examples: []
+  notes:
+  - content: The contrast revealing coefficient is expressed in steradian to the power
+      minus one (sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-254 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-254
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast revealing coefficient
+    usage_info: of a tunnel lighting installation
+  - type: symbol
+    normative_status: preferred
+    designation: qc
+  language_code: eng
+  annotations: []
+termid: 17-31-098
+id: 7609aaed-a4aa-5dd0-b08a-c0b4fd2bae63

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-28-003
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-003
+  type: authoritative
+status: valid
+id: 4509b6e1-b3c5-536c-8f33-bda1ebccf13d
+---
+data:
+  definition:
+  - content: "{17-28-002, filament} that is uncoiled and straight or that consists
+      of uncoiled straight portions"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-03 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1272 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1272
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: straight filament
+  language_code: eng
+  annotations: []
+termid: 17-28-003
+id: 0e1c827e-e51e-5322-b2fc-8e7c5f7117cf

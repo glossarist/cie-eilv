@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-005
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-005
+  type: authoritative
+status: valid
+id: 9e021538-7c0f-51b8-ad30-0de4fecbd79a
+---
+data:
+  definition:
+  - content: natural or artificial object that provides navigational information by
+      virtue of both its situation and its distinctive {17-22-019, appearance}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-806 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-06
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-806
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation mark
+  language_code: eng
+  annotations: []
+termid: 17-31-005
+id: 8a4df86e-a62f-55e0-ae74-63ae6032cf5c

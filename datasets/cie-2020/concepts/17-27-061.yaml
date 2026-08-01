@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-27-061
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-061
+  type: authoritative
+status: valid
+id: 4939cb0d-4f87-5cf7-a508-42b7b0554576
+---
+data:
+  definition:
+  - content: "{17-27-058, LED module} which needs a separate control circuitry or
+      {17-28-048, control gear} to operate"
+    type: intensional
+  examples: []
+  notes:
+  - content: One or more {17-27-065, LED package}s on a printed circuit board or substrate
+      in a geometric structure are regarded as an LED array. No further components
+      are included like electrical, optical, mechanical, and thermal components.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-integrated LED module
+  - type: symbol
+    normative_status: preferred
+    designation: LEDni module
+  language_code: eng
+  annotations: []
+termid: 17-27-061
+id: 595e8b78-fba1-51d9-aaa1-9bdf34a2a864

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-29-056
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-056
+  type: authoritative
+status: valid
+id: 417f9537-8cd2-56d1-a8f7-e7e8fd887cdc
+---
+data:
+  definition:
+  - content: ratio of the maximum {17-21-045, luminous intensity} of the {17-30-001,
+      luminaire}, generally a {17-30-030, projector}, to the {17-29-040, mean spherical
+      luminous intensity} of its lamp
+    type: intensional
+  examples: []
+  notes:
+  - content: In certain countries, the definition of the magnification ratio varies
+      according to the types of {17-30-001, luminaire}s or lamps.
+    type: intensional
+  - content: The magnification ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-748 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-748
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnification ratio
+    usage_info: of a luminaire
+  language_code: eng
+  annotations: []
+termid: 17-29-056
+id: c5a1c270-9708-5718-9c04-4472652fa90c

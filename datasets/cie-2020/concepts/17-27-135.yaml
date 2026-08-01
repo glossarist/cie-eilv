@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-27-135
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-135
+  type: authoritative
+status: valid
+id: fd5d9084-a7de-57d5-86e7-76b42f730cfc
+---
+data:
+  definition:
+  - content: set of {17-27-001, light source}s characterized by common features
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: family
+    usage_info: of light sources
+  language_code: eng
+  annotations: []
+termid: 17-27-135
+id: ce277056-295e-53e2-9e50-669dd8868a6c

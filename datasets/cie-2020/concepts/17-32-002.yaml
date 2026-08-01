@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-32-002
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-002
+  type: authoritative
+status: valid
+id: add8e67c-0306-5daa-8866-49f3e24a9f6c
+---
+data:
+  definition:
+  - content: mathematical model which uses information about viewing conditions to
+      estimate the subjective {17-22-019, appearance} of a coloured patch from colorimetric
+      measurements of that patch and its surround
+    type: intensional
+  examples: []
+  notes:
+  - content: The information about viewing conditions includes the {17-32-033, adopted
+      white point}.
+    type: intensional
+  - content: This entry was numbered 17-52 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-52
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single-stimulus colour appearance model
+  language_code: eng
+  annotations: []
+termid: 17-32-002
+id: 153ec000-108b-5458-a31b-426863f77445

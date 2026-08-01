@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-185
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-185
+  type: authoritative
+status: valid
+id: 18a53518-452f-5558-a9af-c04d63a7af64
+---
+data:
+  definition:
+  - content: light emitted by a {17-29-034, lighting installation} that falls outside
+      the boundaries of the property for which the {17-29-034, lighting installation}
+      is designed
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1246 and 17-1273 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1246 and 17-1273
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spill light
+  - type: symbol
+    normative_status: preferred
+    designation: stray light, <in a lighting installation>
+  language_code: eng
+  annotations: []
+termid: 17-29-185
+id: 6a213dbc-acb2-5d9b-a644-0c3a5e6a4f64

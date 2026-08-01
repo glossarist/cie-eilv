@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-107
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-107
+  type: authoritative
+status: valid
+id: 06dcfbf8-3c1f-51bc-9afd-2c7c87de0152
+---
+data:
+  definition:
+  - content: "{17-31-002, sign} with {17-31-102, element}s constructed as flaps, plungers
+      or other similar devices to display either one of a number of dedicated messages
+      or a message formed on a free format {17-31-125, character matrix}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-371 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-371
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electromechanical matrix variable message sign
+  language_code: eng
+  annotations: []
+termid: 17-31-107
+id: ddc6c8cb-76cb-5dc9-bed6-95470e01f065

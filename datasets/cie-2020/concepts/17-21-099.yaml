@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-21-099
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-099
+  type: authoritative
+status: valid
+id: 2f6f0e81-0fff-5ece-a581-ae654549de18
+---
+data:
+  definition:
+  - content: application of {17-21-002, optical radiation} to a material or object
+      or the surrounding environment
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-609 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-609
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irradiation
+  language_code: eng
+  annotations: []
+termid: 17-21-099
+id: 5c24e978-3116-5d5c-a603-e2a8e9e45a01

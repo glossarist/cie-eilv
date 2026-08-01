@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-31-073
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-073
+  type: authoritative
+status: valid
+id: 7f581093-4003-57c1-9e4e-d906d9b14d4d
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} carried on a vehicle to illuminate the way
+      behind the vehicle and to indicate rearwards an intended, or actual, backward
+      movement by the vehicle"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-77 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1108 and 17-70 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-77
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1108 and 17-70
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reversing light
+  - type: symbol
+    normative_status: preferred
+    designation: backup light
+  language_code: eng
+  annotations: []
+termid: 17-31-073
+id: e321b6ef-f82d-56a9-b8ca-2d04c6c6e9bd

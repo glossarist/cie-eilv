@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-29-093
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-093
+  type: authoritative
+status: valid
+id: aa48b554-0a1a-5bb6-a494-2a7690e0df95
+---
+data:
+  definition:
+  - content: |-
+      quotient of the {17-21-053, irradiance} or {17-21-060, illuminance}, <i>E</i><sub>2</sub> (or <i>E</i><sub>1</sub>), at a point on surface S<sub>2</sub> (or S<sub>1</sub>) due to the flux received from surface S<sub>1</sub> (or S<sub>2</sub>) and the {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
+
+      or
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The relation between the configuration factor, <i>c</i>, and the (mutual) exchange coefficient, <i>g</i>, is:
+
+      where <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>) is the flux received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>) and <i>A</i><sub>2</sub> (or <i>A</i><sub>1</sub>) is the area of surface S<sub>2</sub> (or S<sub>1</sub>)
+    type: intensional
+  - content: The configuration factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-72 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-246 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-72
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-246
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: configuration factor
+    usage_info: between two surfaces
+  - type: symbol
+    normative_status: preferred
+    designation: c21; c12
+  language_code: eng
+  annotations: []
+termid: 17-29-093
+id: 25b6ea1d-8d84-51d5-bd16-a994ef36af72

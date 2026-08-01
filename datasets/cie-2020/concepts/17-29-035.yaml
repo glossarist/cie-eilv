@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-035
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-035
+  type: authoritative
+status: valid
+id: d296f632-e21d-5d95-bdc4-66fda94ccc71
+---
+data:
+  definition:
+  - content: "{17-29-034, lighting installation} using {17-30-033, floodlight}s to
+      light a scene or object"
+    type: intensional
+  examples: []
+  notes:
+  - content: Examples for objects to be lit are sports fields, exterior working areas,
+      monuments, statues and buildings.
+    type: intensional
+  - content: This entry was numbered 17-450 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-450
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: floodlighting installation
+  language_code: eng
+  annotations: []
+termid: 17-29-035
+id: 6ff5376e-0ebf-5501-8374-8db5f4e3f5fe

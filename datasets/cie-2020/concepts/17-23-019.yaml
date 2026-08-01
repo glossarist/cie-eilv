@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-23-019
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-019
+  type: authoritative
+status: valid
+id: 07d80215-3098-5855-95d2-467cc224b649
+---
+data:
+  definition:
+  - content: "{17-23-018, illuminant} as defined by the CIE"
+    type: intensional
+  examples: []
+  notes:
+  - content: CIE illuminant A and CIE illuminant D65 are also {17-23-021, CIE standard
+      illuminant}s.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE illuminant
+  language_code: eng
+  annotations: []
+termid: 17-23-019
+id: cbc517e9-fa5b-5000-9781-4d02dec595da

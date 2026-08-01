@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-124
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-124
+  type: authoritative
+status: valid
+id: 7535fad3-f2b7-5742-a0c2-3bf16d230cb1
+---
+data:
+  definition:
+  - content: height of an upper case character within a given character set
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-31-129, "x" height}".
+    type: intensional
+  - content: This entry was numbered 17-134 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-134
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character height
+  language_code: eng
+  annotations: []
+termid: 17-31-124
+id: 53e8fd48-b547-570a-b74d-453caa18b65c

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-29-160
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-160
+  type: authoritative
+status: valid
+id: b0bfffda-1565-58da-bcc2-eb0d76c6960f
+---
+data:
+  definition:
+  - content: quotient of minimum {17-21-060, illuminance} and {17-29-155, average
+      illuminance} on a surface
+    type: intensional
+  examples: []
+  notes:
+  - content: The illuminance uniformity has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-58 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-552 and 17-1372 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-58
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-552 and 17-1372
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance uniformity
+  - type: symbol
+    normative_status: preferred
+    designation: uniformity ratio of illuminance
+  language_code: eng
+  annotations: []
+termid: 17-29-160
+id: 4ae48d83-f275-5f72-9ee1-e64bd374ede4

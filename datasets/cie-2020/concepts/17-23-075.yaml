@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-23-075
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-075
+  type: authoritative
+status: valid
+id: d5be5e25-1ac7-5906-9e9a-b8fb4be06e1c
+---
+data:
+  definition:
+  - content: 'difference between two {17-23-002, colour stimulus}, defined as the
+      Euclidean distance between the points representing them in the {17-23-074, CIE
+      1976 L*u*v* colour space} and calculated as:'
+    type: intensional
+  examples: []
+  notes:
+  - content: See also CIE 15 <i>Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO/CIE 11664-5<i> Colorimetry – Part 5: CIE 1976 L*u*v* Colour
+      Space and u'', v'' Uniform Chromaticity Scale Diagram</i>.'
+    type: intensional
+  - content: This entry was numbered 845-03-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-158 and 17-174 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-158 and 17-174
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 L*u*v* colour difference
+  - type: symbol
+    normative_status: preferred
+    designation: CIELUV colour difference
+  language_code: eng
+  annotations: []
+termid: 17-23-075
+id: ddb99ea4-8395-57ce-a82f-b37447620d6d

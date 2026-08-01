@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-26-019
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-019
+  type: authoritative
+status: valid
+id: 367cc7be-54cb-536a-b45b-fa9fb8862ed4
+---
+data:
+  definition:
+  - content: production of mutations induced by exposure to {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-917 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-917
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photomutagenesis
+  language_code: eng
+  annotations: []
+termid: 17-26-019
+id: edfb6a5c-6a98-5075-833c-74a84d3d0726

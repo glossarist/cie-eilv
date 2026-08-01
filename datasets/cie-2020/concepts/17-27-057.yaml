@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-057
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-057
+  type: authoritative
+status: valid
+id: c7064021-9521-5dd8-8c9c-988617c93fce
+---
+data:
+  definition:
+  - content: "{17-27-054, LED lamp} that needs a separate {17-28-048, control gear}
+      to operate"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-integrated LED lamp
+  - type: symbol
+    normative_status: preferred
+    designation: LEDni lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-057
+id: efbef982-ed4e-5745-9fa5-e601a6689014

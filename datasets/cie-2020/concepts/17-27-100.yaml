@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-100
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-100
+  type: authoritative
+status: valid
+id: 488382d5-1424-5fee-8629-903ff7111a6e
+---
+data:
+  definition:
+  - content: value of a quantity, used for specification purposes, declared by the
+      manufacturer or responsible vendor and established under standard test conditions
+  notes:
+  - content: To express the "rated value" of a particular quantity, the term "value"
+      is replaced by the quantity name; for example, rated power, rated voltage, rated
+      current, and rated temperature.
+  - content: The standard test conditions are given in the relevant standard.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated value
+    usage_info: light sources and related equipment
+  language_code: eng
+  annotations: []
+termid: 17-27-100
+id: d9caa383-d99c-5af9-a173-90397751291d

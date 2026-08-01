@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-22-050
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-050
+  type: authoritative
+status: valid
+id: 74410032-6e1f-5365-bd4c-928111240ab3
+---
+data:
+  definition:
+  - content: perceived {17-22-040, colour} possessing {17-22-067, hue}
+    type: intensional
+  examples: []
+  notes:
+  - content: In everyday speech, the word "colour" is often used in this sense in
+      contradistinction to white, grey or black. The adjective "coloured" usually
+      refers to chromatic colour.
+    type: intensional
+  - content: This entry was numbered 845-02-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-141 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-141
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromatic colour
+    usage_info: in the perceptual sense
+  language_code: eng
+  annotations: []
+termid: 17-22-050
+id: 3eed887e-09c1-5063-a90b-90844173f03a

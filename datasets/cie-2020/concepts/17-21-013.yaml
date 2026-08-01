@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-21-013
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-013
+  type: authoritative
+status: valid
+id: dde12731-8f44-5fe9-8056-79242e66ff7b
+---
+data:
+  definition:
+  - content: radiation within the spectral range of {17-21-003, visible radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: Sometimes, the term "light" is also used in physics as a synonym of {17-21-002,
+      optical radiation}, covering the spectral range from 100 nm to 1 mm and sometimes
+      even covering the X‑ray spectral range. This misuse of the term "light" should
+      be avoided.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light
+    usage_info: photometric
+    grammar_info:
+    - participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: true
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-21-013
+id: c215efc9-f985-56b2-b02f-0a67d987334d

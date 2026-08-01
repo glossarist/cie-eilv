@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-31-007
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-007
+  type: authoritative
+status: valid
+id: 9d2147dd-cf37-54d2-ad94-68667e52e10f
+---
+data:
+  definition:
+  - content: distinctive rhythm and {17-22-040, colour}, or colours, of a {17-31-148,
+      light signal} that provide the identification or a message
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-133 and 17-137 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-133 and 17-137
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character
+    usage_info: of a light signal
+  - type: symbol
+    normative_status: preferred
+    designation: characteristic, <of a light signal>
+  language_code: eng
+  annotations: []
+termid: 17-31-007
+id: bb9815ef-17aa-5d2e-8cc4-2177761a1d74

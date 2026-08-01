@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-26-012
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-012
+  type: authoritative
+status: valid
+id: 01cda7d1-6b24-5a59-8e06-d754df607f11
+---
+data:
+  definition:
+  - content: carcinogenesis resulting from a reaction with a photoactivated drug or
+      chemical
+  notes:
+  - content: This entry was numbered 17-890 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-890
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photochemical carcinogenesis
+  language_code: eng
+  annotations: []
+termid: 17-26-012
+id: 4141fcae-04c8-5c5d-a709-92c1fe39b13b

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-32-005
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-005
+  type: authoritative
+status: valid
+id: 5b7fd01f-f852-51d2-803d-6881b16db931
+---
+data:
+  definition:
+  - content: data consisting of text, line art, graphics, and pictorial images, in
+      raster or vector form
+  notes:
+  - content: This entry was numbered 17-204 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-204
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour content data
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-32-005
+id: 1ad5b1fc-78dc-56f6-9df8-db8125d4b776

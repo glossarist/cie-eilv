@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-22-095
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-095
+  type: authoritative
+status: valid
+id: 39d16891-8425-55f8-bc05-5870a751ea8a
+---
+data:
+  definition:
+  - content: change in {17-22-067, hue} produced by changing the {17-22-092, flicker}
+      frequency of a {17-23-002, colour stimulus} while keeping its {17-23-052, chromaticity}
+      and {17-21-050, luminance} constant
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flicker hue shift
+  language_code: eng
+  annotations: []
+termid: 17-22-095
+id: b425898a-6369-5557-a6cf-56e40c53a8ac

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-24-126
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-126
+  type: authoritative
+status: valid
+id: dd94e383-9fee-5e3e-8543-1e50ab562aba
+---
+data:
+  definition:
+  - content: scatter of light in directions near the {17-25-080, specular angle} of
+      {17-24-047, reflection} caused by the structure on the surface of the specimen
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bloom
+  language_code: eng
+  annotations: []
+termid: 17-24-126
+id: a867453c-780d-5a45-9866-8a3c2df24be2

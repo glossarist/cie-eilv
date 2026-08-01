@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-28-039
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-039
+  type: authoritative
+status: valid
+id: b6e1ac48-66b6-53a7-a87a-d1b14d9b6c76
+---
+data:
+  definition:
+  - content: material deposited on a metal electrode to promote the emission of electrons
+  notes:
+  - content: This entry was numbered 845-08-29 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-381 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-381
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emissive material
+  language_code: eng
+  annotations: []
+termid: 17-28-039
+id: a9d56aaf-6d1b-5275-ad78-67e0a55c50f9

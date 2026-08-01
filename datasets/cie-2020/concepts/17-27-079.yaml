@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-079
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-079
+  type: authoritative
+status: valid
+id: 28547a01-eee9-5b91-b498-31829d3b3693
+---
+data:
+  definition:
+  - content: ratio of the {17-27-078, centre beam intensity} of a {17-27-070, reflector
+      lamp} at a given time in its life to its initial {17-27-078, centre beam intensity},
+      the {17-27-070, reflector lamp} being operated under specified conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: The centre beam intensity maintenance factor is generally expressed as
+      a percentage.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: centre beam intensity maintenance factor
+  language_code: eng
+  annotations: []
+termid: 17-27-079
+id: c02592b1-25a7-5e07-8554-e20427dad328

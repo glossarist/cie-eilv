@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-21-075
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-075
+  type: authoritative
+status: valid
+id: 1bedeb3c-a98b-5827-9ce6-900bc40256e9
+---
+data:
+  definition:
+  - content: time integral of {17-21-066, spherical illuminance}, <i>E</i><sub>v,o</sub>,
+      at a given point over a given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminous spherical exposure is expressed in lux second (lx⋅s = lm·s·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-742 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-742
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous spherical exposure
+  - type: symbol
+    normative_status: preferred
+    designation: Hv,o; Ho
+  language_code: eng
+  annotations: []
+termid: 17-21-075
+id: f354fb87-5f47-5e75-99f0-86a1ddc502aa

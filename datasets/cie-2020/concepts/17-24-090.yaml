@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-24-090
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-090
+  type: authoritative
+status: valid
+id: d693a77a-f4c5-57ee-bdb9-7a3d0b9ee232
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the {17-24-088, spectral internal transmittance}, <i>τ</i><sub>i </sub>(<i>λ</i>)
+      <i>A</i><sub>i</sub>(<i>λ</i>) = −log<sub>10</sub> <i>τ</i><sub>i </sub>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral absorbance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-83 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1207 and 17-1216 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-83
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1207 and 17-1216
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral absorbance
+    usage_info: of a homogeneous non-diffusing layer
+  - type: symbol
+    normative_status: preferred
+    designation: spectral internal transmittance density
+  language_code: eng
+  annotations: []
+termid: 17-24-090
+id: 93bda0ce-7da1-5b1c-b06a-0018635d23c6

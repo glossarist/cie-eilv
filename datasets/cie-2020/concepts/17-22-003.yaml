@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-22-003
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-003
+  type: authoritative
+status: valid
+id: d2071eec-ef8f-5d5e-8d2d-d0c031038343
+---
+data:
+  definition:
+  - content: photoreceptors in the {17-22-001, retina} containing a light-sensitive
+      pigment capable of initiating the process of {17-22-017, scotopic vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-03 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1117 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rods
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-22-003
+id: 816c8a8b-84e5-512e-aab5-9d0c48b95ff0

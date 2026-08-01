@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-29-169
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-169
+  type: authoritative
+status: valid
+id: a0a3c8e7-802d-563b-9abd-bb76012f4184
+---
+data:
+  definition:
+  - content: "{17-27-010, lighting system} comprising {17-27-001, light source}s arranged
+      above transparent prisms or diffuse transmitting materials covering the ceiling"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-726 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-726
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous ceiling
+  language_code: eng
+  annotations: []
+termid: 17-29-169
+id: ee8e38a4-76c9-5fa9-90f2-413f80b5ffb7

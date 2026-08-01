@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-27-023
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-023
+  type: authoritative
+status: valid
+id: c9100579-d6dd-57ce-8f4b-3d915ed8f112
+---
+data:
+  definition:
+  - content: "{17-27-018, electric discharge} characterized by a {17-27-020, cathode
+      fall} which is small compared to that in a {17-27-019, glow discharge}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The emission of the cathode results from various causes (thermionic emission,
+      field emission, etc.) acting simultaneously or separately; secondary emission
+      plays only a small part.
+    type: intensional
+  - content: This entry was numbered 845-07-16 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-54 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-54
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arc discharge
+    usage_info: in a gas or in a vapour
+  - type: symbol
+    normative_status: preferred
+    designation: electric arc, <in a gas or in a vapour>
+  language_code: eng
+  annotations: []
+termid: 17-27-023
+id: 2ef2c82d-cff6-59a7-91c4-ff10410631b9

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-005
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-005
+  type: authoritative
+status: valid
+id: 13c8bd5e-306e-5815-b40a-f1df4d8985f3
+---
+data:
+  definition:
+  - content: "{17-27-001, light source} designed to be replaced by an ordinary person
+      or a qualified person"
+    type: intensional
+  examples: []
+  notes:
+  - content: When incorporated into a {17-30-001, luminaire}, a replaceable light
+      source can be classified as replaceable, non-user replaceable or non-replaceable
+      depending on the {17-30-001, luminaire} design.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: replaceable light source
+  language_code: eng
+  annotations: []
+termid: 17-27-005
+id: 21e6e4d2-f74d-58b4-88f3-9dbb722f5684

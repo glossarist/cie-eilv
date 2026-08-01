@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-26-047
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-047
+  type: authoritative
+status: valid
+id: 0116ec2f-5fa0-5d57-8518-9d5ec55d75d4
+---
+data:
+  definition:
+  - content: distance from a {17-21-032, source} within which the {17-21-049, radiance}
+      or {17-21-053, irradiance} for a given {17-26-071, exposure duration} exceeds
+      the applicable {17-26-072, exposure limit}
+    type: intensional
+  examples: []
+  notes:
+  - content: The ocular hazard distance is expressed in metres (m).
+    type: intensional
+  - content: This entry was numbered 17-838 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-838
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ocular hazard distance
+  language_code: eng
+  annotations: []
+termid: 17-26-047
+id: 6f21a75e-b8fb-58f0-86b2-d47fe11d3026

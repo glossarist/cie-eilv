@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-28-046
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-046
+  type: authoritative
+status: valid
+id: a9b91a41-e297-5a22-b4e0-0ab74045f1b3
+---
+data:
+  definition:
+  - content: special {17-28-044, ballast} designed for the purpose of providing comparison
+      standards for use in testing ballasts, for the selection of {17-27-096, reference
+      lamp}s and for testing {17-27-008, electric lamp}s from regular production under
+      standardized conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: A reference ballast is typically inductive for {17-27-008, electric lamp}s
+      operating on AC mains frequencies or resistive for {17-27-008, electric lamp}s
+      operating on high frequency or low frequency square waves.
+    type: intensional
+  - content: A reference ballast operated at its rated frequency has a stable voltage/current
+      ratio that is relatively uninfluenced by variations in current, temperature
+      and magnetic surroundings.
+    type: intensional
+  - content: This entry was numbered 845-08-36 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1047 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-36
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference ballast
+  language_code: eng
+  annotations: []
+termid: 17-28-046
+id: 85fc16de-9d79-5ab3-9902-08d74a051d76

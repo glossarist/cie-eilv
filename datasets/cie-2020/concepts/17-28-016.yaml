@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-28-016
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-016
+  type: authoritative
+status: valid
+id: 3ec73b2b-95d1-5f06-ad8b-97e1f9e67fb5
+---
+data:
+  definition:
+  - content: "{17-28-015, cap} having its shell in the form of a screw thread which
+      engages the {17-28-025, lampholder}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-16 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1144 and 17-1143 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1144 and 17-1143
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: screw cap
+  - type: symbol
+    normative_status: preferred
+    designation: screw base
+  language_code: eng
+  annotations: []
+termid: 17-28-016
+id: 1313cb92-5ee0-5c80-8555-bb91768d64e6

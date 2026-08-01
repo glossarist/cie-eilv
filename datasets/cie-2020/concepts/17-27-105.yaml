@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-27-105
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-105
+  type: authoritative
+status: valid
+id: 73df8b47-d113-5e99-9c2e-1c1bf4677ade
+---
+data:
+  definition:
+  - content: termination of the ability of an item to perform a required function
+  notes:
+  - content: After the failure the item is in fault condition.
+  - content: A failure is an event, as distinguished from a fault, which is a state.
+  - content: This concept as defined does not apply to items consisting of software
+      only.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: failure
+  language_code: eng
+  annotations: []
+termid: 17-27-105
+id: 1b46d18b-4319-5a75-9fcc-6d6531c8eeb3

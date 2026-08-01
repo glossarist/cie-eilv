@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-22-052
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-052
+  type: authoritative
+status: valid
+id: 62c2ca4b-f112-5ded-a1b0-4d7e42cc074a
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived to belong to an object irrespective of
+      the illumination and viewing conditions"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-581 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-581
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inherent colour
+  language_code: eng
+  annotations: []
+termid: 17-22-052
+id: b58c7858-e9bb-5d2f-aa01-ad50e9d6dc8d

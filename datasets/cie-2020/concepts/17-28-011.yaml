@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-28-011
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-011
+  type: authoritative
+status: valid
+id: 23b8f14c-da62-5303-ba76-d00c0c00b53d
+---
+data:
+  definition:
+  - content: "{17-28-006, bulb} having part of its interior or exterior surface coated
+      to form a reflecting surface to enhance the light in particular directions"
+    type: intensional
+  examples: []
+  notes:
+  - content: Such surfaces can remain transparent to certain radiation, in particular
+      to {17-21-004, infrared radiation}.
+    type: intensional
+  - content: This entry was numbered 845-08-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1072 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectorized bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-011
+id: aad4c69e-2ea0-5178-841a-8088e4b6c575

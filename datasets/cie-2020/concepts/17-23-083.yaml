@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-23-083
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-083
+  type: authoritative
+status: valid
+id: 90c43439-2f36-541c-98f1-e08ec125438c
+---
+data:
+  definition:
+  - content: correlate of {17-22-067, hue} expressed in terms of the proportions of
+      the {17-22-068, unique hue}s perceived to be present
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-543 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-543
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hue quadrature
+  language_code: eng
+  annotations: []
+termid: 17-23-083
+id: 8ad7b754-b484-5e09-a7ac-95ecd328e74a

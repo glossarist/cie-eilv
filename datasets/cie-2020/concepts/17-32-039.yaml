@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-32-039
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-039
+  type: authoritative
+status: valid
+id: 6b31e13a-e7d4-5a29-8f63-784598632d13
+---
+data:
+  definition:
+  - content: type of {17-32-036, flat panel display} common to large television displays
+      (81 cm or larger) consisting of a matrix of {17-32-060, pixel}s between two
+      glass plates holding an inert mixture of noble gases that can be turned into
+      a plasma by applying a voltage across the cell such that the plasma starts emitting
+      electrons, which then excite phosphors to emit light and create a colour image
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-961 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-961
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plasma display panel
+  - type: symbol
+    normative_status: preferred
+    designation: PDP
+  language_code: eng
+  annotations: []
+termid: 17-32-039
+id: 76602b9f-7161-570c-9a7c-f3c5a7a7ff06

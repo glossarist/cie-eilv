@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-30-010
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-010
+  type: authoritative
+status: valid
+id: ff3fac83-9db2-50d7-ba01-2165da931a61
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} whose main part can be turned or moved by means
+      of joints, raising and lowering devices, telescopic tubes or similar devices"
+    type: intensional
+  examples: []
+  notes:
+  - content: An adjustable luminaire can be fixed or portable.
+    type: intensional
+  - content: This entry was numbered 845-10-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-26 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-26
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustable luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-010
+id: 40fb6a23-e181-5dc2-a647-5f8c85581f56

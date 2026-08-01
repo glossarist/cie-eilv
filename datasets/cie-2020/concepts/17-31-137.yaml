@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-137
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-137
+  type: authoritative
+status: valid
+id: c13d71bf-deac-5c53-998f-fefed1dfed2d
+---
+data:
+  definition:
+  - content: area bounded by the most distant signal or line on the roadside which
+      is illuminated by the {17-31-065, headlight}s
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1252 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1252
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spread
+    usage_info: in road lighting
+  language_code: eng
+  annotations: []
+termid: 17-31-137
+id: c6168336-4f28-55da-8526-d87ce1868bf7

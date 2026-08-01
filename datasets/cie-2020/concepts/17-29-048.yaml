@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-048
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-048
+  type: authoritative
+status: valid
+id: a76c793e-9f08-51f9-81ea-de2cf2d70ea4
+---
+data:
+  definition:
+  - content: "{17-29-044, cumulative flux} for the {17-21-109, solid angle} 2π sr,
+      above the horizontal plane passing through the {17-27-001, light source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The upward flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1378 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1378
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upward flux
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-29-048
+id: 29b1a95e-afd3-517b-a8c1-987583b6aa3e

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-26-085
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-085
+  type: authoritative
+status: valid
+id: 3b8841d8-18e7-5687-9d3f-806a5b9f1957
+---
+data:
+  definition:
+  - content: potential for a thermally induced retinal injury resulting from {17-21-002,
+      optical radiation} exposure at {17-21-025, wavelength}s primarily between 380
+      nm and 1 400 nm
+    type: intensional
+  examples: []
+  notes:
+  - content: The retinal thermal hazard is only likely to be of concern for {17-27-136,
+      laser}s or high-radiance {17-27-044, arc lamp}s.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal thermal hazard
+  language_code: eng
+  annotations: []
+termid: 17-26-085
+id: 434f9bb0-bb97-56f3-99b7-fb415e1d738a

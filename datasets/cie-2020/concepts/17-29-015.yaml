@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-015
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-015
+  type: authoritative
+status: valid
+id: caaac118-385e-5367-813e-b058eb64cf4c
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} by means of {17-30-001, luminaire}s having a distribution
+      of {17-21-045, luminous intensity} such that the fraction of the emitted {17-21-039,
+      luminous flux} directly reaching the {17-29-068, working plane}, assumed to
+      be of infinite extent, is 60 % to 90 %"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-15 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1161 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-15
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1161
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-direct lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-015
+id: dca64abf-7abd-5fe3-a34f-f0f6567e6755

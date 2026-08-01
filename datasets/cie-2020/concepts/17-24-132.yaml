@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-24-132
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-132
+  type: authoritative
+status: valid
+id: 6e529788-32db-5b8d-b4a9-c7c9ab31a653
+---
+data:
+  definition:
+  - content: aspect of {17-22-019, appearance} characterized by the sharpness of images
+      of objects produced by {17-24-047, reflection} at a surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distinctness-of-image
+    usage_info: of a surface
+  language_code: eng
+  annotations: []
+termid: 17-24-132
+id: 28e0bfbb-524d-5d6b-b8af-81c9cc625396

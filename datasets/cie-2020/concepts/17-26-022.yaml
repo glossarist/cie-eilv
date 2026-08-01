@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-022
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-022
+  type: authoritative
+status: valid
+id: 93840be3-1a6e-5a0e-bb98-929f394bf83b
+---
+data:
+  definition:
+  - content: retinal lesion produced by intense visible or {17-21-005, IR-A} radiation
+      exposure
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "retinal burn" is generally used to describe a thermal retinal
+      lesion (see "{17-26-023, retinal thermal injury}"); however, it is sometimes
+      applied to a photochemical retinal lesion. More specific terms are also used
+      for a photochemical "burn," i.e. a "{17-26-010, photic maculopathy}" or "blue
+      light photoretinitis" (from blue-light-induced injuries), or for a {17-26-023,
+      retinal thermal injury}, a "chorioretinal thermal injury".
+    type: intensional
+  - content: This entry was numbered 17-1098 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1098
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal burn
+  language_code: eng
+  annotations: []
+termid: 17-26-022
+id: ade931a6-1608-5409-b26e-107202fb1ee8

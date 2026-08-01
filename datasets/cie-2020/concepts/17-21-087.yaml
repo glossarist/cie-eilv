@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-21-087
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-087
+  type: authoritative
+status: valid
+id: c3e09aae-986b-5ec4-9478-0d1073fd1389
+---
+data:
+  definition:
+  - content: quotient of the {17-21-038, radiant flux} of the emitted radiation and
+      the power consumed by the {17-21-032, source}
+    type: intensional
+  examples: []
+  notes:
+  - content: It is necessary to specify whether the power dissipated by auxiliary
+      equipment (such as {17-28-044, ballast}s), if any, is included in the power
+      consumed by the {17-21-032, source}.
+    type: intensional
+  - content: The radiant efficiency has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-54 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1018 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-54
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant efficiency
+    usage_info: of a source of radiation
+  - type: symbol
+    normative_status: preferred
+    designation: ηe; η
+  language_code: eng
+  annotations: []
+termid: 17-21-087
+id: fc08b924-a550-509e-ab05-af57348ebfcc

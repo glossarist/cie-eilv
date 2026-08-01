@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-23-006
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-006
+  type: authoritative
+status: valid
+id: 5675ff2a-d732-5137-a6a7-c96d1167f9fa
+---
+data:
+  definition:
+  - content: property of spectrally different {17-23-002, colour stimulus} that have
+      the same {17-23-038, tristimulus values} in a specified colorimetric system
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-769 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-769
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metamerism
+  language_code: eng
+  annotations: []
+termid: 17-23-006
+id: e261cc96-a70e-5667-b5b0-68c2fbeeb61f

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-32-042
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-042
+  type: authoritative
+status: valid
+id: a240b23f-d2e7-5fc4-93e7-81faf9e5a263
+---
+data:
+  definition:
+  - content: "{17-32-007, colour gamut} extending outside that of the standard sRGB
+      cathode ray tube (CRT) display gamut"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-419 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-419
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extended gamut
+  language_code: eng
+  annotations: []
+termid: 17-32-042
+id: 02d8325b-5f06-5609-bb22-8cb1c6a302e4

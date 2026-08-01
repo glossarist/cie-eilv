@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-28-047
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-047
+  type: authoritative
+status: valid
+id: 98639b5e-3a69-5c5c-95ec-030ae61c9a84
+---
+data:
+  definition:
+  - content: value of the current on which the calibration and control of the {17-28-046,
+      reference ballast} are based
+    type: intensional
+  examples: []
+  notes:
+  - content: The calibration current should preferably be approximately equal to the
+      rated running current of the {17-27-008, electric lamp}s for which the {17-28-046,
+      reference ballast} is suitable.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibration current
+    usage_info: of reference ballast
+  language_code: eng
+  annotations: []
+termid: 17-28-047
+id: 3d17ee33-c827-51b3-9192-bdf1f59595cc

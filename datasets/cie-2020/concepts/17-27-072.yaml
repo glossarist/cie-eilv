@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-27-072
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-072
+  type: authoritative
+status: valid
+id: d8121c16-be9b-5e75-b3bb-7057e413c670
+---
+data:
+  definition:
+  - content: "{17-27-071, pressed-glass lamp} designed to give a closely patterned
+      beam of light"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-39 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1145 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-39
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1145
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sealed beam lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-072
+id: 4f58f007-c495-5196-9b4c-3148211a3745

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-24-136
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-136
+  type: authoritative
+status: valid
+id: 111eaf86-3e3b-5946-a36e-1d3ce8447657
+---
+data:
+  definition:
+  - content: "{17-24-138, specular gloss} at a large {17-25-078, angle of incidence}
+      for an otherwise matte surface"
+    type: intensional
+  examples: []
+  notes:
+  - content: The usual {17-25-078, angle of incidence} for measurement is 85°.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sheen
+  language_code: eng
+  annotations: []
+termid: 17-24-136
+id: bfd3375d-d37a-5212-8223-286735f15e90

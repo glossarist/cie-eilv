@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-25-041
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-041
+  type: authoritative
+status: valid
+id: 560a3a8b-da2e-595f-984f-f04890ce912f
+---
+data:
+  definition:
+  - content: "{17-25-038, photoelectric detector} comprising a {17-25-040, photocathode},
+      an anode and an electron multiplication device that uses the secondary emission
+      of dynodes or channels between {17-25-040, photocathode} and anode"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-36 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-916 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-36
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-916
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photomultiplier
+  language_code: eng
+  annotations: []
+termid: 17-25-041
+id: 9543f9ec-abbe-586a-879b-364719ee38d1

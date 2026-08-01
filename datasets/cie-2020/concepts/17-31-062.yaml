@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-31-062
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-062
+  type: authoritative
+status: valid
+id: e1743a5a-2f45-5cfd-86b7-229e58da5f2c
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} used for regulating traffic"
+    type: intensional
+  examples: []
+  notes:
+  - content: A three-colour set, with red, yellow/amber and green lights, is the common
+      arrangement for the regulation of vehicular traffic.
+    type: intensional
+  - content: This entry was numbered 845-11-63 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1330 and 17-1328 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-63
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1330 and 17-1328
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic signal
+  - type: symbol
+    normative_status: preferred
+    designation: traffic light
+  language_code: eng
+  annotations: []
+termid: 17-31-062
+id: 1d9770d8-085d-5a9a-a3db-64a07ddb0a1e

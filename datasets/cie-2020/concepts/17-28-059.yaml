@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-059
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-059
+  type: authoritative
+status: valid
+id: 3ac34623-268b-5f72-bd64-68a121bd6235
+---
+data:
+  definition:
+  - content: "{17-28-058, convertor} designed to supply unspecified appliances and
+      intended to be used without any additional enclosure that provides protection
+      against electric shock"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: independent convertor
+  language_code: eng
+  annotations: []
+termid: 17-28-059
+id: 896de929-b34d-5567-93b1-36be807118b8

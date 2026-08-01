@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-21-114
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-114
+  type: authoritative
+status: valid
+id: '084260a7-898b-50cf-a216-7ac6d7c48a9c'
+---
+data:
+  definition:
+  - content: "{17-21-060, illuminance} averaged over a circular aperture of 100 mm²
+      area normal to the {17-27-050, LED}'s mechanical axis at a distance of 100 mm
+      for CIE Standard Condition A or 316 mm for CIE Standard Condition B from the
+      tip of the {17-27-050, LED}, multiplied by the square of the distance and divided
+      by a unit {17-21-109, solid angle}"
+    type: intensional
+  examples: []
+  notes:
+  - content: A detailed method of measurement is given in CIE 127 <i>Measurement of
+      LEDs</i>.
+    type: intensional
+  - content: The geometric conditions CIE Standard Condition A and CIE Standard Condition
+      B, which correspond to symbols <i>I</i><sub>LED,A</sub> and <i>I</i><sub>LED,B</sub>
+      respectively, are defined in CIE127 <i>Measurement of LEDs</i>.
+    type: intensional
+  - content: The averaged LED intensity is expressed in candela (cd).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: averaged LED intensity
+  language_code: eng
+  annotations: []
+termid: 17-21-114
+id: c52db385-9047-5cfb-81cc-4142fe5f686c

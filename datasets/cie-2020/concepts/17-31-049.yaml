@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-049
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-049
+  type: authoritative
+status: valid
+id: 78de36c5-7656-5e10-a32c-be7da36d6953
+---
+data:
+  definition:
+  - content: line of closely spaced {17-31-045, aeronautical ground light}s which
+      is designed to appear from a distance as a short bar of light orthogonal to
+      the centreline of an aerodrome runway
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-52 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-75 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-52
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-75
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: barrette
+    usage_info: of aeronautical ground lights
+  language_code: eng
+  annotations: []
+termid: 17-31-049
+id: 810d8cda-3d73-5028-9d07-75656ec7c057

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-26-003
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-003
+  type: authoritative
+status: valid
+id: ddcebf2c-3960-5e92-80b3-8290f74097bb
+---
+data:
+  definition:
+  - content: capable of producing a photochemical effect (exhibiting {17-26-002, actinism})
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-03 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-13 (1.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-13 (1.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinic
+    usage_info: applied to radiation
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-26-003
+id: 2c0baecc-b088-5000-a971-ee301f12688a

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-27-114
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-114
+  type: authoritative
+status: valid
+id: e2ace782-3832-5d11-a3d1-c45ccc97151a
+---
+data:
+  definition:
+  - content: ratio of the {17-21-039, luminous flux} of an {17-27-004, electric light
+      source} at a given time in its operational life to its initial {17-21-039, luminous
+      flux}, the {17-27-004, electric light source} being operated under specified
+      conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: In IEC standards, “lumen maintenance” is also commonly used with the
+      same meaning.
+    type: intensional
+  - content: The luminous flux maintenance factor has unit one and is usually expressed
+      in per cent.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous flux maintenance factor
+    usage_info: of an electric light source
+  - type: symbol
+    normative_status: preferred
+    designation: lumen maintenance factor, <of an electric light source>
+  language_code: eng
+  annotations: []
+termid: 17-27-114
+id: 3e2ff458-bfb7-50c6-a214-10180eacec40

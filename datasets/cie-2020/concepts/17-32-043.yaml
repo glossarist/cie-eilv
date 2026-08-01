@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-32-043
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-043
+  type: authoritative
+status: valid
+id: 5bda2e04-adb8-5898-bcf4-7ec6b35b210a
+---
+data:
+  definition:
+  - content: mapping of image data representing measurements of a photographic negative
+      to output-referred image data representing the {17-23-041, colour space} coordinates
+      of the elements of a reproduction
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-432 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-432
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: film rendering transform
+  language_code: eng
+  annotations: []
+termid: 17-32-043
+id: 93a6c17a-0b0c-586f-89aa-0da28d882dc5

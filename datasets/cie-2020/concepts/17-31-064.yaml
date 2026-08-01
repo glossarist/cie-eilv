@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-31-064
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-064
+  type: authoritative
+status: valid
+id: 1e9e2e1e-8241-5627-ab3a-2f0741505c73
+---
+data:
+  definition:
+  - content: marker post used as one of a series to indicate the line of the edge
+      of a carriageway
+  notes:
+  - content: This entry was numbered 845-11-66 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-289 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-66
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-289
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: delineator
+  language_code: eng
+  annotations: []
+termid: 17-31-064
+id: 18f71599-0edf-5127-8076-7c2f79aa377b

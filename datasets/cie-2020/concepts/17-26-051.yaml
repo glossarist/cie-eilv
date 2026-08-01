@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-26-051
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-051
+  type: authoritative
+status: valid
+id: ed6d655a-b6f8-53b7-8a22-78d639d6306d
+---
+data:
+  definition:
+  - content: clouding (opacification) of the lens resulting from exposure to excessive
+      near-infrared {17-21-041, radiant energy} producing an elevated temperature
+      of the lens
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-578 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-578
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: infrared cataract hazard
+  - type: symbol
+    normative_status: preferred
+    designation: heat cataract hazard
+  language_code: eng
+  annotations: []
+termid: 17-26-051
+id: 18600e5e-1185-544b-96e9-4bfc4d4ffbbd

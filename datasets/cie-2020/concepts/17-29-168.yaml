@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-168
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-168
+  type: authoritative
+status: valid
+id: b7307d26-e261-528a-afcd-8e1b446423b2
+---
+data:
+  definition:
+  - content: "{17-27-010, lighting system} comprising {17-27-001, light source}s arranged
+      above {17-30-043, louvre}s which cover the ceiling"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-700 and 17-698 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-700 and 17-698
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: louvred ceiling
+  - type: symbol
+    normative_status: preferred
+    designation: louvered ceiling
+  language_code: eng
+  annotations: []
+termid: 17-29-168
+id: db1346f2-223e-5ae6-81ea-d895b9cf04c2

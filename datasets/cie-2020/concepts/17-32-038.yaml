@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-32-038
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-038
+  type: authoritative
+status: valid
+id: 1d9c99bc-95d9-5107-911c-6108e4df1b00
+---
+data:
+  definition:
+  - content: multimedia equipment using transmissive- or reflective-type liquid crystal
+      display to present visual information from analogue and digital inputs
+  notes:
+  - content: This entry was numbered 17-339 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-339
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LCD display
+  language_code: eng
+  annotations: []
+termid: 17-32-038
+id: 32ca1749-74bf-51ae-8200-dcf860d94654

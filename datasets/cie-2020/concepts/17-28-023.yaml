@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-28-023
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-023
+  type: authoritative
+status: valid
+id: 36641ef2-2381-5230-a080-09b17ab037d5
+---
+data:
+  definition:
+  - content: piece of metal, insulated from the shell of the {17-28-015, cap}, which
+      is connected to one of the lead-in wires and provides connection to the power
+      supply
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-249 and 17-425 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-249 and 17-425
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contact plate
+  - type: symbol
+    normative_status: preferred
+    designation: eyelet, US
+  language_code: eng
+  annotations: []
+termid: 17-28-023
+id: f3981857-ea91-5c9d-9373-c49b6b39bc97

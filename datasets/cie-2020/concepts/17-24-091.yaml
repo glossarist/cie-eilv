@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-24-091
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-091
+  type: authoritative
+status: valid
+id: 27e8ee2d-1f7e-5e3f-9a5d-ba5f453dea54
+---
+data:
+  definition:
+  - content: |-
+      natural (Napierian) logarithm of the reciprocal of the {17-24-088, spectral internal transmittance}, <i>τ</i><sub>i </sub>(<i>λ</i>)
+      <i>A</i><sub>n</sub>(<i>λ</i>) = <i>B</i>(<i>λ</i>) = − ln <i>τ</i><sub>i </sub>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The Napierian spectral absorbance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-84 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-798 and 17-800 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-84
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-798 and 17-800
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Napierian spectral absorbance
+    usage_info: of a homogeneous non-diffusing layer
+  - type: symbol
+    normative_status: preferred
+    designation: Napierian spectral internal transmittance density
+  language_code: eng
+  annotations: []
+termid: 17-24-091
+id: 6e68fe22-1701-5480-8bac-252194b76045

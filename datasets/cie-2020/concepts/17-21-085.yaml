@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-21-085
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-085
+  type: authoritative
+status: valid
+id: 0516b2a4-e971-509d-9f8d-801ef44553e9
+---
+data:
+  definition:
+  - content: SI unit of {17-21-060, illuminance}
+    type: intensional
+  examples: []
+  notes:
+  - content: 1 lx is equal to the {17-21-060, illuminance} produced on a surface of
+      area 1 m<sup>2</sup> by a {17-21-039, luminous flux} of 1 lm uniformly distributed
+      over that surface.
+    type: intensional
+  - content: |-
+      Non-metric, non-SI units: lumen per square foot (symbol: lm·ft<sup>−2</sup>), footcandle (symbol: fc):
+      1 lm·ft<sup>−2</sup> = 1 fc = 10,764 lx.
+    type: intensional
+  - content: This entry was numbered 845-01-52 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-744 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-52
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-744
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lux
+  - type: symbol
+    normative_status: preferred
+    designation: lx
+  language_code: eng
+  annotations: []
+termid: 17-21-085
+id: 1c8832b3-285e-58a0-9910-5862a07423b1

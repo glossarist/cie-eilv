@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-23-078
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-078
+  type: authoritative
+status: valid
+id: dd3385c3-46c8-5754-aed3-a465aa6b1948
+---
+data:
+  definition:
+  - content: |-
+      three-dimensional, approximately {17-23-071, uniform colour space} produced by plotting in rectangular coordinates <i>U</i>*, <i>V</i>*, <i>W</i>*, quantities defined by the equations:
+      <i>W</i>* = 25 <i>Y</i><sup>1/3</sup> – 17
+      <i>U</i>* = 13 <i>W</i>* (<i>u</i> − <i>u</i><sub>n</sub>)
+      <i>V</i>* = 13 <i>W</i>* (<i>v</i> − <i>v</i><sub>n</sub>)
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      <i>Y</i>, <i>u</i>, <i>v</i> describe the {17-23-002, colour stimulus} considered, and <i>u</i><sub>n</sub>, <i>v</i><sub>n</sub> describe a specified white {17-23-009, achromatic stimulus}, where <i>u</i> = <i>u</i>′, ; , .
+      See also "{17-23-073, CIE 1976 uniform-chromaticity-scale diagram}"
+    type: intensional
+  - content: |-
+      The difference between two stimuli, Δ<i>E</i>*, is defined as the Euclidean distance between the points representing them in <i>U</i>*<i>V</i>*<i>W</i>* space and calculated as:
+      Δ<i>E</i>* = [(Δ<i>U</i>*)<sup>2</sup> + (Δ<i>V</i>*)<sup>2</sup> + (Δ<i>W</i>*)<sup>2</sup>]<sup>1/2</sup>.
+    type: intensional
+  - content: The CIE 1964 uniform colour space is obsolete (except that it is still
+      used in the calculation of {17-22-109, colour rendering index}). The currently
+      recommended {17-22-042, object colour} spaces are the {17-23-076, CIE 1976 L*a*b*
+      colour space} and the {17-23-074, CIE 1976 L*u*v* colour space}.
+    type: intensional
+  - content: This entry was numbered 17-153 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-153
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1964 uniform colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-078
+id: 9a92adb9-bab2-5650-b675-1ac3d6f1bf2c

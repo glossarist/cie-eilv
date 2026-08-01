@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-23-033
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-033
+  type: authoritative
+status: valid
+id: 73eebc03-f782-5530-8bcd-7c9f1d21f0ad
+---
+data:
+  definition:
+  - content: |-
+      three empirical laws that describe colour-matching properties of {17-23-030, additive mixture}s of {17-23-002, colour stimulus}:
+      • to specify a colour match, three independent variables are necessary and sufficient,
+      • for an {17-23-030, additive mixture} of {17-23-002, colour stimulus}, only their {17-23-038, tristimulus values} are relevant, not their spectral compositions,
+      • in an {17-23-030, additive mixture} of {17-23-002, colour stimulus}, if one or more components of the mixture are gradually changed, the resulting {17-23-038, tristimulus values} also change gradually
+    type: intensional
+  examples: []
+  notes:
+  - content: Grassman's laws do not hold for all observing conditions.
+    type: intensional
+  - content: This entry was numbered 845-03-17 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-506 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-17
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-506
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Grassmann's laws
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-033
+id: 0a6832f6-07f5-52b7-83c9-776d1891dfdc

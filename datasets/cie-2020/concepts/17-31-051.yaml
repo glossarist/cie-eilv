@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-31-051
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-051
+  type: authoritative
+status: valid
+id: 9e83d343-4ca2-52ae-83d7-1beab81f94bc
+---
+data:
+  definition:
+  - content: range over which the pilot of an aircraft on the centreline of a runway
+      can see the runway surface markings or the lights delineating the runway or
+      identifying its centreline
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-31-021, visual range}".
+    type: intensional
+  - content: This entry was numbered 17-1132 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1132
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: runway visual range
+  language_code: eng
+  annotations: []
+termid: 17-31-051
+id: 6e85ed99-505d-5ece-b9f6-0959b5c8becf

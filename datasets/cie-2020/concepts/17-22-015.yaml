@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-22-015
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-015
+  type: authoritative
+status: valid
+id: 581a5e48-1df6-5e8b-8f33-d8845a9f9c0c
+---
+data:
+  definition:
+  - content: state of the visual system after an {17-22-012, adaptation} process has
+      been completed
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "light adaptation" is used when the luminances of the stimuli
+      are of at least 10 cd·m<sup>−2</sup>, and the term "dark adaptation" is used
+      when the luminances of the stimuli are of less than a few hundredths of a cd·m<sup>−2</sup>.
+    type: intensional
+  - content: This entry was numbered 17-20 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-20
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: state of adaptation
+  language_code: eng
+  annotations: []
+termid: 17-22-015
+id: a88c6bd1-9d43-5034-a630-8901ee913c20

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-015
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-015
+  type: authoritative
+status: valid
+id: 35f0f3f9-b149-59d2-9e91-39ffe080ded1
+---
+data:
+  definition:
+  - content: "{17-27-011, incandescent lamp} in which the {17-28-001, luminous element}
+      operates in an evacuated {17-28-006, bulb}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1390 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1390
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vacuum lamp
+  - type: symbol
+    normative_status: preferred
+    designation: vacuum incandescent lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-015
+id: 115ba6f8-2c4f-5ecd-bbb7-46895717c27c

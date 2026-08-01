@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-22-069
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-069
+  type: authoritative
+status: valid
+id: 9ae7c79c-8ddd-5854-ac39-c3b302a298ff
+---
+data:
+  definition:
+  - content: "{17-22-067, hue} that can be described as a combination of two {17-22-068,
+      unique hue}s"
+    type: intensional
+  examples: []
+  notes:
+  - content: Orange is yellowish-red or reddish-yellow; violet is reddish-blue.
+    type: intensional
+  - content: This entry was numbered 845-02-37 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-88 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-37
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-88
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: binary hue
+  language_code: eng
+  annotations: []
+termid: 17-22-069
+id: 52298053-cc70-585f-9dfa-45fdcae74885

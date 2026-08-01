@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-22-110
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-110
+  type: authoritative
+status: valid
+id: c6bdeddf-ffe0-5714-b273-cbe6d10fb037
+---
+data:
+  definition:
+  - content: measure of the degree to which the psychophysical {17-23-001, colour}
+      of a CIE test sample illuminated by the test {17-23-018, illuminant} conforms
+      to that of the same sample illuminated by the {17-22-108, reference illuminant},
+      suitable allowance having been made for the state of {17-22-013, chromatic adaptation}
+    type: intensional
+  examples: []
+  notes:
+  - content: See also CIE 13 <i>Method of Measuring and Specifying Colour Rendering
+      of Light Sources</i>.
+    type: intensional
+  - content: This entry was numbered 845-02-62 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-155 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-62
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-155
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1974 special colour rendering index
+  - type: symbol
+    normative_status: preferred
+    designation: Ri
+  language_code: eng
+  annotations: []
+termid: 17-22-110
+id: 731e5bc7-0d5a-5308-ab14-3cd36c9481f2

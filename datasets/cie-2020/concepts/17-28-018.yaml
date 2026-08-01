@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-28-018
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-018
+  type: authoritative
+status: valid
+id: 7956de2a-d674-5c71-b289-4fe53e574ed3
+---
+data:
+  definition:
+  - content: "{17-28-015, cap} having a smooth cylindrical shell"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1171 and 17-1170 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1171 and 17-1170
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shell cap
+  - type: symbol
+    normative_status: preferred
+    designation: shell base
+  language_code: eng
+  annotations: []
+termid: 17-28-018
+id: 821c1ac8-e9cc-5303-8f88-ef19fb06ddcd

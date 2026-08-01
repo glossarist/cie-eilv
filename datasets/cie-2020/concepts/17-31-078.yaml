@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-078
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-078
+  type: authoritative
+status: valid
+id: d4f3872b-f32b-5e8c-a814-63fa239f6fc4
+---
+data:
+  definition:
+  - content: lighting device carried on a vehicle to illuminate the number plate,
+      or registration plate, or licence plate, at the rear of the vehicle
+  notes:
+  - content: This entry was numbered 845-11-81 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-830, 17-1041, and 17-655 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-81
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-830, 17-1041, and 17-655
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: number-plate light
+  - type: symbol
+    normative_status: preferred
+    designation: rear registration-plate light
+  language_code: eng
+  annotations: []
+termid: 17-31-078
+id: 53c90e26-6721-5bfd-8e71-d6ad2be4459a

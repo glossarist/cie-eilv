@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-28-057
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-057
+  type: authoritative
+status: valid
+id: 17d0da17-6898-5bc9-acd3-c1562b337b4c
+---
+data:
+  definition:
+  - content: electronic device, being part of the {17-28-048, control gear}, designed
+      for controlling the electric energy to the {17-27-053, LED light source}
+    type: intensional
+  examples: []
+  notes:
+  - content: The purpose of controlling the electric energy can be colour mixing,
+      responding to depreciating {17-21-039, luminous flux}, and other features.
+    type: intensional
+  - content: In {17-27-060, semi-integrated LED module}s, the control unit of the
+      {17-28-048, control gear} is part of the {17-27-058, LED module} and separate
+      from the {17-28-056, power supply of the control gear}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control unit of the control gear
+    usage_info: for an LED light source
+  - type: symbol
+    normative_status: preferred
+    designation: control unit of the controlgear, <for an LED light source>
+  language_code: eng
+  annotations: []
+termid: 17-28-057
+id: 5ff25144-9fe3-5faf-82a7-41d591667a38

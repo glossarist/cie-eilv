@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-011
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-011
+  type: authoritative
+status: valid
+id: 9a82b81e-93a2-5084-865f-3f7d6ae31051
+---
+data:
+  definition:
+  - content: that part of {17-29-010, emergency lighting} that provides {17-29-001,
+      lighting} of escape routes, open areas and high-risk areas when normal {17-29-001,
+      lighting} fails, as well as guidance markings whenever the escape routes are
+      occupied
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-406 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-406
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: escape lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-011
+id: 9a859b32-597b-5c7f-bbd3-b81df6e94100

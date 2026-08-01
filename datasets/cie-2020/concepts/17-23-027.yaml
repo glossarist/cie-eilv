@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-23-027
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-027
+  type: authoritative
+status: valid
+id: 99af64d9-b84c-5046-828b-89b33de544f2
+---
+data:
+  definition:
+  - content: model describing {17-23-026, colour appearance}, built from descriptors
+      of {17-23-002, colour stimulus} combined with the illuminating and viewing environment
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-200 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-200
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour appearance model
+  language_code: eng
+  annotations: []
+termid: 17-23-027
+id: 6e42e988-9e8c-5ea4-8073-d3d23a194c7b

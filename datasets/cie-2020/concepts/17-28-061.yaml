@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-061
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-061
+  type: authoritative
+status: valid
+id: '029e7df5-f86d-5b8d-83f0-5f673b78e55e'
+---
+data:
+  definition:
+  - content: component to transform high-frequency electrical energy, by means of
+      induction, in order to energize the low-pressure mercury in the discharge vessel
+  notes:
+  - content: The component includes electrical connection.
+  - content: The inductive power coupler can contain a means to fix and position the
+      discharge vessel.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inductive power coupler
+  language_code: eng
+  annotations: []
+termid: 17-28-061
+id: 86fd4d8f-af0b-578e-b9ee-a7d828fa1398

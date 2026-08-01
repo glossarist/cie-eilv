@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-22-091
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-091
+  type: authoritative
+status: valid
+id: dfd34af3-1a49-52cc-85a1-4fdc7964e1dd
+---
+data:
+  definition:
+  - content: quantity relating to the difference in {17-21-050, luminance} between
+      two surfaces
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Widely accepted definitions include:
+      <i>C</i> = (<i>L</i><sub>1</sub> − <i>L</i><sub>2</sub>) / <i>L</i><sub>1</sub> with <i>L</i><sub>1</sub>> <i>L</i><sub>2 </sub> (positive contrast),
+      <i>C</i> = (<i>L</i><sub>1</sub> − <i>L</i><sub>2</sub>) / <i>L</i><sub>1</sub> with <i>L</i><sub>1</sub> < <i>L</i><sub>2 </sub> (negative contrast),
+      <i>C</i> = (<i>L</i><sub>1</sub> − <i>L</i><sub>2</sub>) / (<i>L</i><sub>1 </sub>+ <i>L</i><sub>2</sub>) with <i>L</i><sub>1</sub> > <i>L</i><sub>2</sub>,
+      where <i>C</i> is the luminance contrast and <i>L</i><sub>1</sub> and <i>L</i><sub>2</sub> are the luminances of the two surfaces.
+    type: intensional
+  - content: Although luminance contrast is intended to correlate with brightness
+      contrast, it is possible that it does not do so directly because brightness
+      contrast depends on other factors such as the angular separation, the {17-21-050,
+      luminance} gradient, and any size difference between the two surfaces.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance contrast
+  language_code: eng
+  annotations: []
+termid: 17-22-091
+id: cfa3e635-d1ed-5c5d-a168-40104bfe4192

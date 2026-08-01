@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-180
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-180
+  type: authoritative
+status: valid
+id: 7b44cade-79d9-5967-99c2-6f931ab787c5
+---
+data:
+  definition:
+  - content: part of the {17-29-178, sky glow} that is attributable to radiation from
+      celestial {17-21-032, source}s and luminescent processes in the Earth's upper
+      atmosphere
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-803 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-803
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: natural sky glow
+  language_code: eng
+  annotations: []
+termid: 17-29-180
+id: d8650e5c-c00d-505f-8dc1-421476280cce

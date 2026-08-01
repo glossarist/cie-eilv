@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-108
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-108
+  type: authoritative
+status: valid
+id: 1daac796-118e-586b-a051-1c2ac62e4391
+---
+data:
+  definition:
+  - content: "{17-31-002, sign} having {17-31-102, element}s and/or a background containing
+      fluorescent components"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-460 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-460
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent sign
+  language_code: eng
+  annotations: []
+termid: 17-31-108
+id: 2fc7660f-e3b4-5bbd-b367-d9f85fd22277

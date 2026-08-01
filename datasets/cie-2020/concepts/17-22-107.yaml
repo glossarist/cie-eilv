@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-22-107
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-107
+  type: authoritative
+status: valid
+id: 475c5ff8-57d6-57d2-9050-6f87d45f42a6
+---
+data:
+  definition:
+  - content: effect of an {17-23-018, illuminant} on the perceived {17-22-040, colour}
+      of objects by conscious or subconscious comparison with their perceived {17-22-040,
+      colour} under a {17-22-108, reference illuminant}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-59 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-221 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-59
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-221
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour rendering
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-22-107
+id: a9bc5dfb-0989-50fc-aff4-fe536acb3c59

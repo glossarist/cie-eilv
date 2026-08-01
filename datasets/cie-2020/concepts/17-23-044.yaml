@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-23-044
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-044
+  type: authoritative
+status: valid
+id: f3a8a38e-5768-528a-8c28-a1305cdd1c1c
+---
+data:
+  definition:
+  - content: collection of {17-23-001, colour} samples arranged and identified according
+      to specified rules
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-201 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-201
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour atlas
+  language_code: eng
+  annotations: []
+termid: 17-23-044
+id: 2c5b46df-34ae-5911-81d9-5594fefb825b

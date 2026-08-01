@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-23-071
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-071
+  type: authoritative
+status: valid
+id: 8e41c54b-8960-5841-8157-41b620eb6944
+---
+data:
+  definition:
+  - content: "{17-23-041, colour space} in which equal distances are intended to represent
+      threshold or suprathreshold perceived {17-22-041, colour difference}s of equal
+      size"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-51 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1369 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-51
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1369
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-071
+id: 34a893ca-5087-5a48-96a5-33abda718e8f

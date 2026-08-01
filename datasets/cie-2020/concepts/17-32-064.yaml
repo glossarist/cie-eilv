@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-32-064
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-064
+  type: authoritative
+status: valid
+id: 8156f608-57fc-536d-b6c5-631a6e314987
+---
+data:
+  definition:
+  - content: mathematically decorrelated functions (no function is a linear combination
+      of any of the others) that can be combined to describe the {17-21-052, spectral
+      radiance}s found in a scene or produced using a specified output device and
+      illuminating {17-21-032, source}, or similar functions describing the colour
+      analysis channel responses of an image capture device
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1210 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1210
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral basis functions
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-32-064
+id: 9b2010f2-50ff-541e-993a-836dc353519d

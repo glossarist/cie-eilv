@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-148
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-148
+  type: authoritative
+status: valid
+id: f689883b-7c40-5eed-a23f-5dab1cb5e1e1
+---
+data:
+  definition:
+  - content: quotient of the efficiency of a {17-30-001, luminaire} at a given <a
+      href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-08">instant</a>
+      and the initial efficiency value
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminaire maintenance factor does not include depreciation in the
+      {17-21-039, luminous flux} output of the {17-27-001, light source}.
+    type: intensional
+  - content: The luminaire maintenance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-710 and 17-687 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-710 and 17-687
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminaire maintenance factor
+  - type: symbol
+    normative_status: preferred
+    designation: LMF
+  language_code: eng
+  annotations: []
+termid: 17-29-148
+id: 67f102b1-ba0f-57dd-8095-4dad4fca4f40

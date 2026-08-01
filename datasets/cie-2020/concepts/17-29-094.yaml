@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-29-094
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-094
+  type: authoritative
+status: valid
+id: 213526d3-f1d9-5474-8cc8-0e24c5cc4f04
+---
+data:
+  definition:
+  - content: |-
+      quotient of the average {17-21-038, radiant flux} density or {17-21-039, luminous flux} density, <i>Φ</i><sub>2</sub>/<i>A</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>/<i>A</i><sub>1</sub>), received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>) and the {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
+
+      or
+
+      with
+
+      where <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>) is the {17-21-038, radiant flux} or {17-21-039, luminous flux} received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>), <i>A</i><sub>2</sub> (or <i>A</i><sub>1</sub>) is the area of surface S<sub>2</sub> (or S<sub>1</sub>) and <i>g</i> is the {17-29-092, mutual exchange coefficient}
+    type: intensional
+  examples: []
+  notes:
+  - content: The form factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-73 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-468 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-73
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-468
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: form factor
+    usage_info: between two surfaces
+  - type: symbol
+    normative_status: preferred
+    designation: f12; f21
+  language_code: eng
+  annotations: []
+termid: 17-29-094
+id: 1765648a-d100-537a-b124-59209af2fa33

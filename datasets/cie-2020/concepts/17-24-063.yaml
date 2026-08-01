@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-063
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-063
+  type: authoritative
+status: valid
+id: 2bb43fcd-e903-5f7e-9afb-cc2bc7a31896
+---
+data:
+  definition:
+  - content: ideal surface for which the radiation coming from that surface is distributed
+      angularly according to {17-24-062, Lambert's cosine law}
+    type: intensional
+  examples: []
+  notes:
+  - content: For a Lambertian surface, <i>M</i> = π <i>L</i> where <i>M</i> is the
+      {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, and <i>L</i>
+      the {17-21-049, radiance} or {17-21-050, luminance}.
+    type: intensional
+  - content: This entry was numbered 845-04-57 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-633 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-57
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-633
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Lambertian surface
+  language_code: eng
+  annotations: []
+termid: 17-24-063
+id: 4adf7914-466e-5b04-bac2-7d94cefbb384

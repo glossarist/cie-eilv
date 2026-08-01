@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-26-014
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-014
+  type: authoritative
+status: valid
+id: 8bf33251-c53d-5b2c-a5d5-4f08f18fa5b8
+---
+data:
+  definition:
+  - content: clouding (opacification) of the lens resulting in a cataract
+    type: intensional
+  examples: []
+  notes:
+  - content: Photocataractogenesis results in most cases from chronic exposure to
+      excessive ultraviolet {17-21-041, radiant energy} incident upon the lens.
+    type: intensional
+  - content: Cataracts can also be produced by acute over-exposure to an excimer laser
+      beam.
+    type: intensional
+  - content: This entry was numbered 17-888 and 17-1365 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-888 and 17-1365
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocataractogenesis
+  - type: symbol
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  language_code: eng
+  annotations: []
+termid: 17-26-014
+id: d5743c46-33b3-53cf-b8ad-8d051be26c1b

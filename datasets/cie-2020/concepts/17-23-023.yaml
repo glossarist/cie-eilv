@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-23-023
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-023
+  type: authoritative
+status: valid
+id: ef11f1e6-d629-551e-aff8-e389ad0f7f89
+---
+data:
+  definition:
+  - content: "{17-21-015, spectrum} of radiation whose {17-21-029, spectral distribution}
+      of a radiometric quantity as a function of {17-21-025, wavelength} is constant
+      throughout the visible region"
+    type: intensional
+  examples: []
+  notes:
+  - content: The radiation of the equi-energy spectrum is sometimes regarded as an
+      {17-23-018, illuminant}, in which case it is denoted by the symbol E.
+    type: intensional
+  - content: This entry was numbered 845-03-14 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-393 and 17-390 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-14
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-393 and 17-390
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equi-energy spectrum
+  - type: symbol
+    normative_status: preferred
+    designation: equal energy spectrum
+  language_code: eng
+  annotations: []
+termid: 17-23-023
+id: c658a11c-59b6-5198-a69b-b866f6da3213

@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-29-107
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-107
+  type: authoritative
+status: valid
+id: e655ad83-8d54-5ae7-8f6b-d32a154aa939
+---
+data:
+  definition:
+  - content: quotient of the vertical {17-29-106, optical thickness} of a turbid atmosphere
+      and the vertical {17-29-106, optical thickness} of the pure and dry atmosphere
+      (Rayleigh atmosphere), related to the whole solar spectrum
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The total turbidity factor can be expressed by
+      <i>T</i><sub>L</sub> = (<i>δ</i><sub>R</sub> + <i>δ</i><sub>A</sub> + <i>δ</i><sub>Z</sub> + <i>δ</i><sub>W</sub>) / <i>δ</i><sub>R</sub><sub>
+
+
+      </sub>where <i>δ</i><sub>R</sub> is the {17-29-106, optical thickness} with respect to Rayleigh {17-24-049, scattering} at the air molecules, and <i>δ</i><sub>A</sub>, <i>δ</i><sub>Z</sub>, <i>δ</i><sub>W</sub> are the {17-29-106, optical thickness}es with respect to Mie {17-24-049, scattering} and {17-24-081, absorption} at the aerosol particles, to ozone {17-24-081, absorption}, and to water vapour {17-24-081, absorption} respectively.
+    type: intensional
+  - content: The total turbidity factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-87 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1324 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-87
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1324
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Linke turbidity factor
+  - type: symbol
+    normative_status: preferred
+    designation: total turbidity factor
+  language_code: eng
+  annotations: []
+termid: 17-29-107
+id: f33cf74e-a444-5182-9f9b-dbd7d9f7ad03

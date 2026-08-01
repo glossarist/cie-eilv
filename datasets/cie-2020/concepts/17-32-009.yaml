@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-32-009
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-009
+  type: authoritative
+status: valid
+id: 2f85827b-df59-56a2-b185-a0dbe9708f30
+---
+data:
+  definition:
+  - content: digitally encoded data, with colour aspects represented using a {17-32-013,
+      colour image encoding}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-213 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-213
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour image data
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-32-009
+id: 9384c88f-66be-59cd-9804-23f0bbdd8626

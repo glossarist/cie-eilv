@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-22-106
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-106
+  type: authoritative
+status: valid
+id: c5c17f0b-7d20-54c0-9ef2-1f4b4d51b021
+---
+data:
+  definition:
+  - content: maximum allowed value given by the CIE Glare Rating system
+  notes:
+  - content: See also CIE 112-1994 <i>Glare Evaluation System for Use within Outdoor
+      Sports- and Area Lighting</i>.
+  - content: The glare rating limit has unit one.
+  - content: This entry was numbered 17-494 and 17-510 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-494 and 17-510
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: glare rating limit
+  - type: symbol
+    normative_status: preferred
+    designation: GRL
+  language_code: eng
+  annotations: []
+termid: 17-22-106
+id: 70c03060-912f-5438-b078-e6520658d7bd

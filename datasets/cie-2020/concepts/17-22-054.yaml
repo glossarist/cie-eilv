@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-22-054
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-054
+  type: authoritative
+status: valid
+id: 05c2298f-e8ae-53ad-873e-439300482da4
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived as belonging to the bulk of a substance"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1421 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1421
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume colour
+  language_code: eng
+  annotations: []
+termid: 17-22-054
+id: f5fcb8f2-b9ef-5a6f-bb20-bc1f0fcfe4fb

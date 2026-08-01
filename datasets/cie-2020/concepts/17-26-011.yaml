@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-26-011
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-011
+  type: authoritative
+status: valid
+id: f848c22b-2db7-5b86-9a99-06babebb0fc8
+---
+data:
+  definition:
+  - content: carcinogenesis resulting from exposure to {17-21-008, ultraviolet radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-886 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-886
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocarcinogenesis
+  language_code: eng
+  annotations: []
+termid: 17-26-011
+id: 8e5220d0-b6ff-57a7-95a7-e1f34ed249ef

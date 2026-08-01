@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-31-096
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-096
+  type: authoritative
+status: valid
+id: 79c8fcc9-2636-5898-9080-655f480b63fe
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} design technique where the light falls on objects
+      from a direction opposite to that of the traffic"
+    type: intensional
+  examples: []
+  notes:
+  - content: Counter-beam lighting is characterized by using {17-30-001, luminaire}s
+      that show a {17-29-037, luminous intensity distribution} that is asymmetric
+      in relation to the plane normal to the direction of the traffic, where the maximum
+      {17-21-045, luminous intensity} is aimed against the direction of the traffic.
+      The term refers only to the direction of normal travel.
+    type: intensional
+  - content: See also "{17-31-095, pro-beam lighting}", "{17-31-097, symmetric lighting}"
+    type: intensional
+  - content: This entry was numbered 17-261 and 17-129 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-261 and 17-129
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: counter-beam lighting
+    usage_info: in a road tunnel
+  - type: symbol
+    normative_status: preferred
+    designation: CBL
+  language_code: eng
+  annotations: []
+termid: 17-31-096
+id: c461a018-e52e-5a95-9936-78d58dc8831e

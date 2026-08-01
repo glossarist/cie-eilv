@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-29-106
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-106
+  type: authoritative
+status: valid
+id: a533818e-e723-5d56-9133-0f88ff581a0b
+---
+data:
+  definition:
+  - content: where <i>Φ</i><sub>e</sub> is the {17-21-038, radiant flux} of a collimated
+      beam entering the upper limit layers of the atmosphere at an angle <i>ε</i>
+      to the vertical, and is the attenuated {17-21-038, radiant flux} of that beam
+      reaching the surface of the Earth
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-24-087, spectral optical thickness}".
+    type: intensional
+  - content: The optical thickness has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-86 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-850 and 17-844 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-86
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-850 and 17-844
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical thickness
+    usage_info: of the atmosphere
+  - type: symbol
+    normative_status: preferred
+    designation: optical depth, <of the atmosphere>
+  language_code: eng
+  annotations: []
+termid: 17-29-106
+id: ccb5705f-a896-5e05-954f-dc01ecea55e6

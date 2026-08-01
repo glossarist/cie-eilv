@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-32-049
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-049
+  type: authoritative
+status: valid
+id: ff0540ac-0349-5075-9550-9bb4ed5aa3a3
+---
+data:
+  definition:
+  - content: "{17-32-018, colour space encoding} used to connect the source and destination
+      transforms (from the source and destination profiles) in the International Color
+      Consortium (ICC) {17-32-014, colour management} architecture"
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The ICC.1:2001 specification defines two variations of the {17-32-047,
+      profile connection space} (PCS): a general {17-32-047, profile connection space}
+      for colorimetric intent transforms, and an output-referred {17-32-047, profile
+      connection space} for perceptual intent transforms.'
+    type: intensional
+  - content: This entry was numbered 17-546 and 17-545 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-546 and 17-545
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ICC profile connection space
+  - type: symbol
+    normative_status: preferred
+    designation: ICC PCS
+  language_code: eng
+  annotations: []
+termid: 17-32-049
+id: 95732837-2fd9-55ad-b446-28b38eec0448

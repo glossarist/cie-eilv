@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-23-024
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-024
+  type: authoritative
+status: valid
+id: 82b2ea50-75b3-53e6-b12b-173d1ec09f9f
+---
+data:
+  definition:
+  - content: class of quality of simulation of the {17-21-056, spectral irradiance}
+      of a {17-23-019, CIE illuminant} by a simulator, expressed as a letter symbol
+      A, B, C, D, or E, with class A representing the highest quality
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quality grade
+    usage_info: of an illuminant simulator
+  language_code: eng
+  annotations: []
+termid: 17-23-024
+id: dd2d764d-634f-56ec-a7ac-11b688d0e47b

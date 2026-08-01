@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-088
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-088
+  type: authoritative
+status: valid
+id: c2ec8131-b2a0-5372-9b62-cc789ab8e64c
+---
+data:
+  definition:
+  - content: distance between the ceiling and the {17-29-084, light centre} of the
+      {17-30-001, luminaire}
+    type: intensional
+  examples: []
+  notes:
+  - content: The suspension length is expressed in metres (m).
+    type: intensional
+  - content: This entry was numbered 845-09-68 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1290 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-68
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1290
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension length
+    usage_info: of a luminaire in an interior
+  language_code: eng
+  annotations: []
+termid: 17-29-088
+id: 593c4fc1-6ba7-54d9-b8cb-516cf321e462

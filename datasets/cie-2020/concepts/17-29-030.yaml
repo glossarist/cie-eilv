@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-29-030
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-030
+  type: authoritative
+status: valid
+id: 0f1e0036-12fd-5751-bd35-04db2c1823d2
+---
+data:
+  definition:
+  - content: calculated or measured amount of weighted net delivered energy actually
+      used or estimated to meet different needs associated with {17-29-001, lighting}
+      within a space or interior/exterior environment, compared to a defined reference
+      value
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined reference value can be specified in a standard, regulation,
+      etc.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy performance
+    usage_info: of a lighting installation
+  language_code: eng
+  annotations: []
+termid: 17-29-030
+id: '018beb8a-e837-5311-ac67-288667f9129a'

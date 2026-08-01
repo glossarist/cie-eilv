@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-26-066
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-066
+  type: authoritative
+status: valid
+id: ada7f913-cad9-5533-9f28-e60764c4ef1a
+---
+data:
+  definition:
+  - content: |-
+      time integral of {17-26-067, erythemal irradiance}
+
+      where <i>E<sub>λ</sub></i>(<i>λ</i>, <i>t</i>) is {17-21-056, spectral irradiance} and <i>s</i><sub>er</sub>(<i>λ</i>) is the {17-26-065, erythema spectral weighting function} normalized to 1 at its maximum
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
+      its maximum value is 1.
+    type: intensional
+  - content: It is essential to specify which {17-26-027, action spectrum} is used,
+      as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: See also "{17-26-068, minimal erythema dose}", "{17-26-069, standard
+      erythema dose}".
+    type: intensional
+  - content: The erythemal dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-402 and 17-404 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-402 and 17-404
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal dose
+  - type: symbol
+    normative_status: preferred
+    designation: erythemal radiant exposure
+  language_code: eng
+  annotations: []
+termid: 17-26-066
+id: 9f39238b-e732-5a5f-b4fe-0ebf7aefd433

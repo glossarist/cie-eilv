@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-22-073
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-073
+  type: authoritative
+status: valid
+id: 191e6261-235a-5488-abc6-421dbf333078
+---
+data:
+  definition:
+  - content: "{17-22-072, colourfulness} of an area judged in proportion to its {17-22-059,
+      brightness}"
+    type: intensional
+  examples: []
+  notes:
+  - content: For given viewing conditions and at {17-21-050, luminance} levels within
+      the range of {17-22-016, photopic vision}, a {17-23-002, colour stimulus} of
+      a given {17-23-052, chromaticity} exhibits approximately constant saturation
+      for all {17-21-050, luminance} levels, except when the {17-22-059, brightness}
+      is very high.
+    type: intensional
+  - content: This entry was numbered 845-02-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1136 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1136
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: saturation
+  language_code: eng
+  annotations: []
+termid: 17-22-073
+id: dfe57a95-e3b0-5844-a231-97c8f5a4fd17

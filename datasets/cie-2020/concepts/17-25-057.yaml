@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-25-057
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-057
+  type: authoritative
+status: valid
+id: '082d664f-056d-5966-81d5-ff3eca1a6a42'
+---
+data:
+  definition:
+  - content: radiometric or photometric quantity to which a {17-25-035, detector}
+      of {17-21-002, optical radiation} is responding
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-50 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-584 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-50
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-584
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input
+    usage_info: for a detector of optical radiation
+  language_code: eng
+  annotations: []
+termid: 17-25-057
+id: cb31a033-3a45-5ec2-8c8c-ae4d7d4f5885

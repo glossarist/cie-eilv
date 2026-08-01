@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-22-111
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-111
+  type: authoritative
+status: valid
+id: 42e9896a-3579-579c-97ac-9dd65e6a07d9
+---
+data:
+  definition:
+  - content: mean of the {17-22-110, CIE 1974 special colour rendering index} for
+      a specified set of eight test colour samples
+    type: intensional
+  examples: []
+  notes:
+  - content: See also CIE 13<i> Method of Measuring and Specifying Colour Rendering
+      of Light Sources</i>.
+    type: intensional
+  - content: This entry was numbered 845-02-63 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-154 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-63
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-154
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1974 general colour rendering index
+  - type: symbol
+    normative_status: preferred
+    designation: Ra
+  language_code: eng
+  annotations: []
+termid: 17-22-111
+id: a5ba4f80-232c-510a-8fe6-646ee81330f7

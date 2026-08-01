@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-22-071
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-071
+  type: authoritative
+status: valid
+id: 985d0b66-e13d-5154-91fe-2c7ebaac31c1
+---
+data:
+  definition:
+  - content: change in {17-22-067, hue} produced by changing the {17-21-050, luminance}
+      (within the range of {17-22-016, photopic vision}) of a {17-23-002, colour stimulus}
+      while keeping its {17-23-052, chromaticity} constant
+    type: intensional
+  examples: []
+  notes:
+  - content: With certain monochromatic stimuli, {17-22-067, hue} remains constant
+      over a wide range of luminances (for a given condition of {17-22-012, adaptation}).
+      The {17-21-025, wavelength}s of these stimuli are sometimes referred to as "{17-23-084,
+      invariant wavelength}s".
+    type: intensional
+  - content: With increasing intensity, below 510 nm {17-22-067, hue}s shift more
+      towards blue, and above 510 nm {17-22-067, hue}s shift more towards yellow (reds
+      become yellower with increasing {17-22-059, brightness}).
+    type: intensional
+  - content: This entry was numbered 845-02-39 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-86 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-39
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-86
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Bezold–Brücke phenomenon
+  language_code: eng
+  annotations: []
+termid: 17-22-071
+id: c56d3e7e-f49f-5f64-88da-6e91ad1d4c81

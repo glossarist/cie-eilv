@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-26-071
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-071
+  type: authoritative
+status: valid
+id: 336fac54-15d4-5905-8943-065d01bdafa7
+---
+data:
+  definition:
+  - content: time difference between the end time, <i>t</i><sub>e</sub>, and the start
+      time, <i>t</i><sub>s</sub>, of an {17-21-002, optical radiation} exposure
+    type: intensional
+  examples: []
+  notes:
+  - content: For a single pulse, the exposure duration is the duration between the
+      half-peak power point of the leading edge and the corresponding point on the
+      trailing edge. For a train of pulses (or subsections of a train of pulses),
+      the exposure duration is the duration between the first half-peak power point
+      of the leading pulse and the last half-peak power point of the trailing pulse.
+    type: intensional
+  - content: The exposure duration is expressed in seconds (s).
+    type: intensional
+  - content: This entry was numbered 17-415 and 17-355 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-415 and 17-355
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposure duration
+  - type: symbol
+    normative_status: preferred
+    designation: duration of exposure
+  language_code: eng
+  annotations: []
+termid: 17-26-071
+id: c4d767a1-b598-5746-87de-cc83ccd4371b

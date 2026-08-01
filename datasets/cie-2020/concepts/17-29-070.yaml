@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-29-070
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-070
+  type: authoritative
+status: valid
+id: 12470970-1526-5259-9a58-6dee2e03b96f
+---
+data:
+  definition:
+  - content: quotient of the {17-21-039, luminous flux} received by a {17-29-067,
+      reference surface} and the sum of the individual output fluxes of the {17-30-001,
+      luminaire}s of the installation
+    type: intensional
+  examples: []
+  notes:
+  - content: The utilance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-53 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1382 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-53
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1382
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: utilance
+    usage_info: of an installation
+  - type: symbol
+    normative_status: preferred
+    designation: U
+  language_code: eng
+  annotations: []
+termid: 17-29-070
+id: ce02f404-a326-5841-a706-a7adc261b64e

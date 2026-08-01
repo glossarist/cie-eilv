@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-32-036
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-036
+  type: authoritative
+status: valid
+id: 1d746614-89b9-5499-acff-c7a62228df05
+---
+data:
+  definition:
+  - content: display that incorporates a practically flat surface, and is generally
+      much thinner than its diagonal, for the presentation of visual information and
+      whose surface contains an active area consisting of a regular array of electrically
+      alterable, discrete picture elements ({17-32-060, pixel}s) in rows and columns
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-338 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-338
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flat panel display
+  language_code: eng
+  annotations: []
+termid: 17-32-036
+id: 1f9b440c-c261-5c45-996f-0b21aad96472

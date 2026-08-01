@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-023
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-023
+  type: authoritative
+status: valid
+id: 0f2de0bf-8ecc-5a7c-920a-50d3aaddb0a3
+---
+data:
+  definition:
+  - content: mode of vision, of an apparently small {17-21-032, source} of light,
+      in which the luminous sensation is determined only by the {17-21-060, illuminance}
+      that is produced by the {17-21-032, source} at the eye of the observer
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-965 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-965
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point vision
+  language_code: eng
+  annotations: []
+termid: 17-31-023
+id: d93cd99e-7891-5146-8846-3d2caeda3c0a

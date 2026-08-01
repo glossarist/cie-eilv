@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-29-061
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-061
+  type: authoritative
+status: valid
+id: a1b03ba1-0549-55d4-8ff0-1d84a2d98e84
+---
+data:
+  definition:
+  - content: quotient of the sum of the individual total output fluxes of the {17-30-001,
+      luminaire}s of an installation and the floor area
+    type: intensional
+  examples: []
+  notes:
+  - content: The installation flux density is expressed in lumen per square metre
+      (lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-09-48 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-586 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-48
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-586
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: installation flux density
+    usage_info: for an interior lighting installation
+  language_code: eng
+  annotations: []
+termid: 17-29-061
+id: 1a000fb5-46f1-5d7c-b447-71268c3725a8

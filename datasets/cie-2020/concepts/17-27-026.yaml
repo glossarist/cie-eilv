@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-27-026
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-026
+  type: authoritative
+status: valid
+id: e41a5672-9da1-501a-80b5-d02e091c5724
+---
+data:
+  definition:
+  - content: "{17-27-024, discharge lamp} in which the light is produced directly
+      or indirectly (by {17-24-023, fluorescence}) from the radiation of the {17-27-018,
+      electric discharge} into a gas at low pressure, in the region in front of the
+      cathode"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-807 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-807
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: glow lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-026
+id: 7686fa2f-84f2-5dd3-83a6-d4275a9a275a

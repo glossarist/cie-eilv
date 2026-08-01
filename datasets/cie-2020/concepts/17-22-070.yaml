@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-22-070
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-070
+  type: authoritative
+status: valid
+id: 93f34315-c7a2-53ea-8bab-371236473393
+---
+data:
+  definition:
+  - content: change in {17-22-067, hue} produced by decreasing the {17-23-064, purity}
+      of a {17-23-002, colour stimulus} while keeping its {17-23-062, dominant wavelength}
+      constant
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Abney phenomenon
+  language_code: eng
+  annotations: []
+termid: 17-22-070
+id: 62e95269-a4a1-56e8-8287-76513d297904

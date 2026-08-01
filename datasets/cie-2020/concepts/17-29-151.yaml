@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-151
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-151
+  type: authoritative
+status: valid
+id: 2d2acce3-141f-5ad1-a336-9304f824d089
+---
+data:
+  definition:
+  - content: "{17-21-050, luminance} averaged over a specified surface"
+    type: intensional
+  examples: []
+  notes:
+  - content: The average luminance is expressed in candela per square metre (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-65 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-65
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av; ; Lav;
+  language_code: eng
+  annotations: []
+termid: 17-29-151
+id: 7399fe8c-7999-5932-86d4-d4d527cee853

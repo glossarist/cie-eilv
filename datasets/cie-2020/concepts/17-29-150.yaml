@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-29-150
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-150
+  type: authoritative
+status: valid
+id: 4013f6e3-42d6-56bc-a2aa-e040e90aca8f
+---
+data:
+  definition:
+  - content: quotient of the light reflected by the surfaces of a room after a certain
+      <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> and light reflected when the installation is considered conventionally
+      as new
+    type: intensional
+  examples: []
+  notes:
+  - content: The room surface maintenance factor has unit one.
+    type: intensional
+  - content: to entry:´ The room surface maintenance factor is based on a simplified
+      model for the effects of the deterioration of room surface {17-24-064, reflectance}
+      properties and does not accurately account for room geometry and configuration.
+    type: intensional
+  - content: This entry was numbered 17-1122 and 17-1125 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1122 and 17-1125
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: room surface maintenance factor
+  - type: symbol
+    normative_status: preferred
+    designation: RSMF
+  language_code: eng
+  annotations: []
+termid: 17-29-150
+id: f8bec9ac-d828-56ca-9afd-676292693921

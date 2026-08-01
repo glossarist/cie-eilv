@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-23-042
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-042
+  type: authoritative
+status: valid
+id: 4350849e-dc15-5b1a-afd3-e44ed319b90d
+---
+data:
+  definition:
+  - content: "{17-23-041, colour space} defined by three colorimetric coordinates"
+    type: intensional
+  examples: []
+  notes:
+  - content: CIE <i>XYZ</i> {17-23-038, tristimulus values} are colorimetric coordinates,
+      as are <i>RGB</i> values that have an exact and invertible mathematical relationship
+      to CIE <i>XYZ</i> {17-23-038, tristimulus values}.
+    type: intensional
+  - content: This entry was numbered 17-193 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-193
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimetric colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-042
+id: b992f7b1-9c86-5e18-be9d-b3361bfe636d

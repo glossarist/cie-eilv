@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-22-120
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-120
+  type: authoritative
+status: valid
+id: 883b5862-e444-5ebf-a4c7-78aae41aed19
+---
+data:
+  definition:
+  - content: set of images that include patterns that are visible to observers with
+      normal colour vision, but not to observers with abnormal colour vision, or vice
+      versa
+  notes:
+  - content: Typically, pseudoisochromatic plates are used to determine the type and
+      extent of the colour vision deficiencies of an observer.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pseudoisochromatic plates
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-22-120
+id: 8d918f88-2f9a-5f5c-a733-dc401fd0093c

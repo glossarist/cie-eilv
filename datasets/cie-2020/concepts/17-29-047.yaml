@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-047
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-047
+  type: authoritative
+status: valid
+id: 22979d94-add4-5e63-a5c0-4a3fb59c930a
+---
+data:
+  definition:
+  - content: "{17-29-044, cumulative flux} for the {17-21-109, solid angle} 2π sr,
+      below the horizontal plane passing through the {17-27-001, light source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The downward flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-34 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-350 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-350
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downward flux
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-29-047
+id: 1ae8b297-e296-56dc-9f52-13178fb32e62

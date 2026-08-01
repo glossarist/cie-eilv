@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-024
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-024
+  type: authoritative
+status: valid
+id: 41e7364b-ff8f-5ea4-9905-1930834baf6d
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} provided for the purposes of illuminating public
+      roads, cycle tracks, footways and pedestrian movement areas within public parks
+      and gardens"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1000 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1000
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: public lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-024
+id: 87bf16a8-0346-5450-bf17-4e085fca93c7

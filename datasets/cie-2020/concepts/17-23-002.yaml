@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-23-002
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-002
+  type: authoritative
+status: valid
+id: 7c33aebf-d5a1-5006-aea1-a8c6bfea5217
+---
+data:
+  definition:
+  - content: "{17-21-003, visible radiation} entering the eye and producing a sensation
+      of either {17-22-050, chromatic colour} or {17-22-049, achromatic colour}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-229 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-229
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour stimulus
+  language_code: eng
+  annotations: []
+termid: 17-23-002
+id: 4a6040cb-c8ce-5bf8-b526-7bf6a0d1851f

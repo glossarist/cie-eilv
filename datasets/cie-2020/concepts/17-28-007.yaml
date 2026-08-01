@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-28-007
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-007
+  type: authoritative
+status: valid
+id: 2a876c92-4fa5-552d-a6ab-a67c4fda529d
+---
+data:
+  definition:
+  - content: "{17-28-006, bulb} that is transparent to {17-21-003, visible radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-178 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-178
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clear bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-007
+id: f7ca7e1c-4c09-52bf-98dc-6ef8d6b54210

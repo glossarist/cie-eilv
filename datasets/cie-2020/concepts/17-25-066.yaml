@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-25-066
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-066
+  type: authoritative
+status: valid
+id: 25cb3c24-0254-50c9-b3fe-d63073683090
+---
+data:
+  definition:
+  - content: time required for the {17-25-058, output} to change, after a step variation
+      from one steady {17-25-057, input} to another steady {17-25-057, input}, by
+      the fraction (1 − 1/e) of its total change in value, where the total change
+      in value is the difference between the initial value and the final (asymptotic)
+      value
+    type: intensional
+  examples: []
+  notes:
+  - content: The time constant is expressed in seconds (s).
+    type: intensional
+  - content: This entry was numbered 845-05-59 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1318 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-59
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1318
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time constant
+    usage_info: of a detector whose output varies exponentially with time
+  language_code: eng
+  annotations: []
+termid: 17-25-066
+id: ca171b07-e79f-5386-8c1a-a8a91c76c25b

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-23-079
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-079
+  type: authoritative
+status: valid
+id: 13b81e4c-943b-5ee6-91f1-8be2f6d46aab
+---
+data:
+  definition:
+  - content: "{17-23-072, uniform-chromaticity-scale diagram} produced by plotting
+      in rectangular coordinates <i>v</i> against <i>u</i>"
+    type: intensional
+  examples: []
+  notes:
+  - content: The CIE 1960 uniform-chromaticity-scale diagram is substantially used
+      for the determination of {17-23-068, correlated colour temperature}.
+    type: intensional
+  - content: The {17-23-073, CIE 1976 uniform-chromaticity-scale diagram} is a modified
+      version of the CIE 1960 uniform-chromaticity-scale diagram, which is equivalent
+      to the (u, 3/2 v) diagram; therefore the (u, v) diagram is equivalent to the
+      (u', 2/3 v') diagram.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1960 uniform-chromaticity-scale diagram
+  - type: symbol
+    normative_status: preferred
+    designation: CIE 1960 UCS (u, v) diagram
+  language_code: eng
+  annotations: []
+termid: 17-23-079
+id: 7a8933a2-a02e-5c1f-bf38-589a8b25204f

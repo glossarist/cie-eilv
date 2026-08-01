@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-25-059
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-059
+  type: authoritative
+status: valid
+id: a8f7c8d3-130a-5623-8cda-52e5fcd770e6
+---
+data:
+  definition:
+  - content: that part of the {17-25-058, output} current of a {17-25-038, photoelectric
+      detector} which is caused by incident radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: In {17-25-041, photomultiplier}s a distinction has to be made between
+      the cathode photocurrent and the anode photocurrent.
+    type: intensional
+  - content: The photocurrent is expressed in ampere (A).
+    type: intensional
+  - content: This entry was numbered 845-05-52 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-893 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-52
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-893
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocurrent
+  - type: symbol
+    normative_status: preferred
+    designation: Iph
+  language_code: eng
+  annotations: []
+termid: 17-25-059
+id: d30baaf8-a917-5b77-a7ca-6334da0b6ae5

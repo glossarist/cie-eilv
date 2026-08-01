@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-133
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-133
+  type: authoritative
+status: valid
+id: 8e61379c-b2ee-5ba1-9cf2-256859fa2795
+---
+data:
+  definition:
+  - content: range of {17-22-082, visual perception}, normally measured in terms of
+      the threshold distance, at which a {17-31-002, sign} becomes visible
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1400 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1400
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visibility
+    usage_info: of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-133
+id: 61e9615c-5e1c-5dfd-89fa-557a5bfb2c5e

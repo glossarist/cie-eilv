@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-002
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-002
+  type: authoritative
+status: valid
+id: 28609677-052c-5548-aefd-5b88704f99be
+---
+data:
+  definition:
+  - content: device calibrated by reference to a {17-25-001, primary photometric standard}
+      and used, in turn, to calibrate {17-25-003, working photometric standard}s
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1148 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1148
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary photometric standard
+  language_code: eng
+  annotations: []
+termid: 17-25-002
+id: b4bf593b-ad3f-5048-afaa-c8f93d48b3fd

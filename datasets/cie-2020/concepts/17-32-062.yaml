@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-32-062
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-062
+  type: authoritative
+status: valid
+id: 990dbd6e-8cc9-58c6-ad88-6d0a6087ba65
+---
+data:
+  definition:
+  - content: imaging medium associated with a specified real or virtual output device,
+      the characteristics of which are specified as part of the specification of a
+      standard output-referred {17-32-013, colour image encoding}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1054 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1054
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference medium
+  language_code: eng
+  annotations: []
+termid: 17-32-062
+id: 763c9215-6ce6-5d18-872c-b6a046dc67e4

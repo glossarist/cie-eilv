@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-25-005
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-005
+  type: authoritative
+status: valid
+id: 517892e8-0cd6-5902-b411-bfd6b3a6dcde
+---
+data:
+  definition:
+  - content: measurement of the quantities associated with {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "{17-25-013, photometry}" is sometimes used in a broader sense
+      covering radiometry, but this use is deprecated.
+    type: intensional
+  - content: This entry was numbered 845-05-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1032 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiometry
+  language_code: eng
+  annotations: []
+termid: 17-25-005
+id: e8b8f2cd-c712-567c-a90d-71f5c64c69da

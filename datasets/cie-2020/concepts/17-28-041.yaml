@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-28-041
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-041
+  type: authoritative
+status: valid
+id: 560679ed-ad20-592d-8af1-871115add61f
+---
+data:
+  definition:
+  - content: device designed to provide the appropriate electrical conditions to start
+      a {17-27-024, discharge lamp} by itself or in combination with other components
+      in the circuit
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-31 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1260 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-31
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1260
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting device
+  language_code: eng
+  annotations: []
+termid: 17-28-041
+id: 0ec38c59-b883-5198-9f69-3cf8f16f6c00

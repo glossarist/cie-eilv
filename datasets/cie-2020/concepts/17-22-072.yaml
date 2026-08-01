@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-22-072
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-072
+  type: authoritative
+status: valid
+id: 6e3bfa1d-1e84-5396-ab39-41e970c335e3
+---
+data:
+  definition:
+  - content: attribute of a {17-22-082, visual perception} according to which the
+      perceived {17-22-040, colour} of an area appears to be more or less chromatic
+    type: intensional
+  examples: []
+  notes:
+  - content: For a {17-23-002, colour stimulus} of a given {17-23-052, chromaticity}
+      and, in the case of {17-22-047, related colour}s, of a given {17-24-077, luminance
+      factor}, colourfulness usually increases as the {17-21-050, luminance} is raised
+      except when the {17-22-059, brightness} is very high.
+    type: intensional
+  - content: This entry was numbered 845-02-40 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-233 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-40
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-233
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colourfulness
+  language_code: eng
+  annotations: []
+termid: 17-22-072
+id: e7a179f6-d529-5a6f-8408-689be116e73c

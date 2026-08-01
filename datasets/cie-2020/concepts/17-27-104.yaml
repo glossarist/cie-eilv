@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-104
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-104
+  type: authoritative
+status: valid
+id: eda5d499-fde4-56e2-a4dd-d771d3799cef
+---
+data:
+  definition:
+  - content: length of time during which <i>X</i> % of the {17-27-008, electric lamp}s
+      subjected to a {17-27-102, life test} reach the end of their lives, the {17-27-008,
+      electric lamp}s being operated under specified conditions and the end of life
+      judged according to specified criteria
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-63 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-658 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-63
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-658
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: life to X % failures
+    usage_info: of an electric lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-104
+id: fc342e4d-04ad-5ab2-b926-74c62d1b95d3

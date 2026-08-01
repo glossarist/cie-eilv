@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24-076
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-076
+  type: authoritative
+status: valid
+id: c90ea20c-d7ec-525d-8094-b5071000f3bd
+---
+data:
+  definition:
+  - content: |-
+      sum of the reflected spectral radiance factor, <i>β</i><sub>R</sub>(<i>λ</i>), and the luminescent spectral radiance factor, <i>β</i><sub>L</sub>(<i>λ</i>)
+      <i>β</i><sub>T</sub>(<i>λ</i>) = <i>β</i><sub>R</sub>(<i>λ</i>) + <i>β</i><sub>L</sub>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: For {17-24-023, fluorescence} colorimetric applications, it is implicit
+      that the quantity used in the colorimetric calculations is the total radiance
+      factor, and it is common to omit the subscript T.
+    type: intensional
+  - content: The total spectral radiance factor has unit one.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total spectral radiance factor
+  - type: symbol
+    normative_status: preferred
+    designation: βT(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-076
+id: 710fb241-0a10-597c-b358-94842c72103c

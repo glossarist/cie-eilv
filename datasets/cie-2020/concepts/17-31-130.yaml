@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-31-130
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-130
+  type: authoritative
+status: valid
+id: 33e9afb0-24df-5d20-b5e8-488328af3d53
+---
+data:
+  definition:
+  - content: identifier that can be a word, {17-31-132, symbol}, or other group of
+      characters used to identify a file, a storage medium, an element defined in
+      a computer program, or a specific item in a document such as a spreadsheet or
+      a chart
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-630 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-630
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: label
+  language_code: eng
+  annotations: []
+termid: 17-31-130
+id: a52ae70d-0584-596b-95e4-a971527d630d

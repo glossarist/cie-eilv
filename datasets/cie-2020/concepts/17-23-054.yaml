@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-23-054
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-054
+  type: authoritative
+status: valid
+id: 65782db2-9017-5c92-89f3-da0907726fdb
+---
+data:
+  definition:
+  - content: plane diagram in which points specified by {17-23-053, chromaticity coordinates}
+      represent the chromaticities of {17-23-002, colour stimulus}
+    type: intensional
+  examples: []
+  notes:
+  - content: In the CIE standard colorimetric systems, <i>y</i> is normally plotted
+      as ordinate and <i>x</i> as abscissa, to obtain an <i>x</i>, <i>y</i> chromaticity
+      diagram.
+    type: intensional
+  - content: This entry was numbered 845-03-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-147 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-147
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromaticity diagram
+  language_code: eng
+  annotations: []
+termid: 17-23-054
+id: 9e5f8a83-f9fa-571e-a2e8-7f073a083e08

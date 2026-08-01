@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-113
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-113
+  type: authoritative
+status: valid
+id: 36f1f97e-3a5f-5e88-96cb-8c525c310d71
+---
+data:
+  definition:
+  - content: value representing a characteristic measured at an operational time,
+      including {17-27-109, stabilization time}
+    type: intensional
+  examples: []
+  notes:
+  - content: The maintained value can refer to a photometric, colorimetric or electrical
+      quantity.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintained value
+  language_code: eng
+  annotations: []
+termid: 17-27-113
+id: da4ea868-2451-5137-a382-e3497d190104

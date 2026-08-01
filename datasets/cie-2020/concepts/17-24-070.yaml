@@ -1,0 +1,80 @@
+---
+data:
+  identifier: 17-24-070
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-070
+  type: authoritative
+status: valid
+id: 3708523b-7630-5878-816e-b824e3d18bc0
+---
+data:
+  definition:
+  - content: quotient of the flux reflected in the directions delimited by a given
+      cone with apex at a surface element, <i>Φ</i><sub>n</sub>, and the flux reflected
+      in the same directions by a {17-24-060, perfect reflecting diffuser} identically
+      irradiated or illuminated, <i>Φ</i><sub>d </sub>
+    type: intensional
+  examples: []
+  notes:
+  - content: The definition holds for a surface element, for the part of the reflected
+      radiation contained in a given cone with apex at the surface element, and for
+      incident radiation of given spectral composition, polarization and geometric
+      distribution.
+    type: intensional
+  - content: The reflectance factor is also defined spectrally and is called spectral
+      reflectance factor, <i>R</i>(<i>λ</i>).
+    type: intensional
+  - content: The ideal isotropic (Lambertian) diffuser with {17-24-064, reflectance}
+      or {17-24-065, transmittance} equal to 1 is called a perfect diffuser.
+    type: intensional
+  - content: For regularly reflecting surfaces that are irradiated or illuminated
+      by a beam of small {17-21-109, solid angle}, the reflectance factor can be much
+      larger than 1 if the cone includes the mirror image of the {17-21-032, source}.
+    type: intensional
+  - content: If the {17-21-109, solid angle} of the cone approaches 2π sr, the reflectance
+      factor approaches the {17-24-064, reflectance} for the same conditions of {17-21-099,
+      irradiation}.
+    type: intensional
+  - content: If the {17-21-109, solid angle} of the cone approaches 0 sr, the reflectance
+      factor approaches the {17-24-075, radiance factor} or {17-24-077, luminance
+      factor} for the same conditions of {17-21-099, irradiation}.
+    type: intensional
+  - content: The reflectance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-64 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1059 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-64
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1059
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance factor
+  - type: symbol
+    normative_status: preferred
+    designation: R
+  language_code: eng
+  annotations: []
+termid: 17-24-070
+id: e3d19931-fd25-50ee-83f5-752a31866fcf

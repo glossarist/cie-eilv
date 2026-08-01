@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-32-022
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-022
+  type: authoritative
+status: valid
+id: 9016d852-2fa2-590e-88a8-f923379a95a4
+---
+data:
+  definition:
+  - content: transfer characteristic relating the normalized digital code value and
+      the normalized output {17-21-050, luminance} as represented by a mathematical
+      function
+    type: intensional
+  examples: []
+  notes:
+  - content: The mathematical function is often a power function but is not necessarily
+      so.
+    type: intensional
+  - content: This entry was numbered 17-335 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-335
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: display input/output characteristic
+  language_code: eng
+  annotations: []
+termid: 17-32-022
+id: eb49c4cc-7a2c-5792-9550-74ccb1f37584

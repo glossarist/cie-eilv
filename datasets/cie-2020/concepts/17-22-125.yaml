@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-22-125
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-125
+  type: authoritative
+status: valid
+id: 25fa6d42-133e-563a-8607-5165599099f7
+---
+data:
+  definition:
+  notes:
+  - content: <a href="#visible_radiation">visible radiation</a> entering the eye and
+      producing a sensation of light
+  - content: This entry was numbered 845-01-21 in IEC 60050-845:1987.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-21
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light stimulus
+  language_code: eng
+  annotations: []
+termid: 17-22-125
+id: bf582319-4bf0-54eb-947a-cffa7b46ba05

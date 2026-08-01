@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-31-040
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-040
+  type: authoritative
+status: valid
+id: 04b20e2b-147c-5791-848b-f5fde159bfa4
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light} used to indicate, with reference to the cardinal
+      points of the compass, where navigable water can be found"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-42 and 845-11-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-122 and 17-123 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-42 and 845-11-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-122 and 17-123
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cardinal light
+  - type: symbol
+    normative_status: preferred
+    designation: cardinal mark
+  language_code: eng
+  annotations: []
+termid: 17-31-040
+id: 29a4c185-995d-5d74-80c8-c243fe756256

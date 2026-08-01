@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-046
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-046
+  type: authoritative
+status: valid
+id: 55ec1886-0c7c-545e-829c-3b37ebfafe49
+---
+data:
+  definition:
+  - content: "{17-29-044, cumulative flux} for the {17-21-109, solid angle} 4π sr"
+    type: intensional
+  examples: []
+  notes:
+  - content: The total flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-33 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1323 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-33
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1323
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total flux
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-29-046
+id: 5ca7e69a-01a8-54a1-b870-1964f27a7c93

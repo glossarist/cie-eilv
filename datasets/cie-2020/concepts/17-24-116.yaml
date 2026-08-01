@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-24-116
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-116
+  type: authoritative
+status: valid
+id: bc373961-cf88-5ce8-980e-bbade851d024
+---
+data:
+  definition:
+  - content: "{17-24-113, filter} that alters the {17-21-030, relative spectral distribution}
+      of the radiation"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1154 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1154
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selective filter
+  language_code: eng
+  annotations: []
+termid: 17-24-116
+id: 53c803ad-c33f-57bc-a14f-cf13eb042c98

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-26-063
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-063
+  type: authoritative
+status: valid
+id: 0a41dc11-59fe-54f3-b144-7576e5f741bf
+---
+data:
+  definition:
+  - content: quotient of {17-26-055, blue light hazard} weighted {17-21-038, radiant
+      flux} and {17-21-038, radiant flux}
+    type: intensional
+  examples: []
+  notes:
+  - content: The blue light hazard efficiency of radiation, <i>η</i><sub>B</sub>,
+      is related to the {17-26-061, blue light hazard efficacy of luminous radiation},
+      <i>K</i><sub>B,v</sub>, through <i>η</i><sub>B</sub> = <i>K</i>⋅<i>K</i><sub>B,v</sub>,
+      where <i>K</i> is {17-21-090, luminous efficacy of radiation}, and to the {17-26-062,
+      blue light hazard factor of luminous radiation}, <i>α</i><sub>B,v</sub>, through
+      <i>η</i><sub>B</sub> = <i>V</i>⋅<i>α</i><sub>B,v</sub>, where <i>V</i> is {17-21-094,
+      luminous efficiency} of radiation.
+    type: intensional
+  - content: For some applications it might be necessary to state both, blue light
+      hazard efficiency of radiation, <i>η</i><sub>B</sub>, and {17-26-061, blue light
+      hazard efficacy of luminous radiation}, <i>K</i><sub>B,v</sub>.
+    type: intensional
+  - content: The blue light hazard efficiency of radiation has unit one.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard efficiency of radiation
+  - type: symbol
+    normative_status: preferred
+    designation: ηB
+  language_code: eng
+  annotations: []
+termid: 17-26-063
+id: cea3778d-6ebd-5bf1-a379-1b0ac18df0e0

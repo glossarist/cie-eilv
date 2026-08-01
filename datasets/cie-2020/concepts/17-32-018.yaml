@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-32-018
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-018
+  type: authoritative
+status: valid
+id: 27009075-6133-5b18-9b7b-c2d511fe9d2d
+---
+data:
+  definition:
+  - content: digital encoding of a {17-23-041, colour space}, including the specification
+      of a digital encoding method, and an encoding range
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Multiple colour space encodings can be defined based on a single {17-23-041,
+      colour space} where the different colour space encodings have different digital
+      encoding methods and/or encoding ranges. (For example, 8-bit sRGB in accordance
+      with IEC 61966-2-1 <i>Multimedia systems and equipment – Colour measurement
+      and management – Part 2‑1: Colour management – Default RGB colour space – sRGB</i>
+      and 16-bit scRGB in accordance with IEC 61966-2-2 <i>Multimedia systems and
+      equipment - Colour measurement and management – Part 2-2: Colour management
+      – Extended RGB colour space – scRGB</i> are different colour space encodings
+      based on a particular RGB colour space.)'
+    type: intensional
+  - content: A colour space encoding is defined with a number of colour channels,
+      each channel corresponding to one dimension of the {17-23-041, colour space}.
+      Encoded colour channel data values indicate a position along the corresponding
+      dimension in the geometric {17-23-041, colour space} representation.
+    type: intensional
+  - content: This entry was numbered 17-227 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-227
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour space encoding
+  language_code: eng
+  annotations: []
+termid: 17-32-018
+id: 3d5e911b-6116-591b-b8a2-12683ffe9995

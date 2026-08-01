@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-27-125
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-125
+  type: authoritative
+status: valid
+id: 141c1a31-c6ee-585c-bdae-6fae10cb157d
+---
+data:
+  definition:
+  - content: mode in which the {17-27-001, light source} is switched off while still
+      connected to a power supply
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standby mode
+  language_code: eng
+  annotations: []
+termid: 17-27-125
+id: 2453961d-2a4d-5b9c-b810-59dcfe610d5c

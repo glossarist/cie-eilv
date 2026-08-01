@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-27-077
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-077
+  type: authoritative
+status: valid
+id: ceae1af7-c2ed-507e-9f13-c7acabd7d396
+---
+data:
+  definition:
+  - content: angle between two imaginary lines in a plane through the {17-27-076,
+      optical beam axis}, such that these lines pass through the centre of the front
+      face of the device and through points at which the {17-21-045, luminous intensity}
+      is 50 % of the {17-27-078, centre beam intensity}
+    type: intensional
+  examples: []
+  notes:
+  - content: The beam angle is a full angle measure, not a half angle measure.
+    type: intensional
+  - content: The beam angle is expressed in degree (°).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: beam angle
+  language_code: eng
+  annotations: []
+termid: 17-27-077
+id: ce3422f5-3161-5d7f-92c8-052e7b808006

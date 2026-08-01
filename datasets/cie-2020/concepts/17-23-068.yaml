@@ -1,0 +1,77 @@
+---
+data:
+  identifier: 17-23-068
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-068
+  type: authoritative
+status: valid
+id: 5922eed0-cf27-5f01-b20c-42c2ec08923a
+---
+data:
+  definition:
+  - content: temperature of a {17-24-004, Planckian radiator} having the {17-23-052,
+      chromaticity} nearest the {17-23-052, chromaticity} associated with the given
+      {17-21-029, spectral distribution} on a modified 1976 UCS diagram where <i>u</i>′,
+      are the coordinates of the {17-23-059, Planckian locus} and the test stimulus
+    type: intensional
+  examples: []
+  notes:
+  - content: The concept of correlated colour temperature should not be used if the
+      {17-23-052, chromaticity} of the test {17-21-032, source} differs more than
+      from the {17-24-004, Planckian radiator}, where , refer to the test {17-21-032,
+      source}, and , to the {17-24-004, Planckian radiator}.
+    type: intensional
+  - content: Correlated colour temperature can be calculated by a simple minimum search
+      computer program that searches for that Planckian temperature that provides
+      the smallest {17-23-052, chromaticity} difference between the test {17-23-052,
+      chromaticity} and the {17-23-059, Planckian locus}, or for example by a method
+      recommended by Robertson, A.R. "Computation of correlated color temperature
+      and distribution temperature", <i>J. Opt. Soc. Am</i>. 58, 1528-1535, 1968.
+      (Note that the values in some of the tables in this reference are not up to
+      date.)
+    type: intensional
+  - content: The {17-23-054, chromaticity diagram} originally used to determine the
+      correlated colour temperature was the {17-23-079, CIE 1960 uniform-chromaticity-scale
+      diagram}. The {17-23-073, CIE 1976 uniform-chromaticity-scale diagram} is a
+      modified version of the {17-23-079, CIE 1960 uniform-chromaticity-scale diagram}
+      and is equivalent to the (u, 3/2 v) diagram.
+    type: intensional
+  - content: The correlated colour temperature is expressed in kelvin (K).
+    type: intensional
+  - content: This entry was numbered 845-03-50 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-258 and 17-130 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-50
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-258 and 17-130
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correlated colour temperature
+  - type: symbol
+    normative_status: preferred
+    designation: CCT
+  language_code: eng
+  annotations: []
+termid: 17-23-068
+id: 227836a9-5c4f-51ed-a799-e2429ff851ca

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-111
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-111
+  type: authoritative
+status: valid
+id: 37184a5b-a5cf-5ac1-a7e8-5fcda48f3d5a
+---
+data:
+  definition:
+  - content: angle that the {17-25-098, first axis} of the {17-30-001, luminaire}
+      makes with the nadir of the {17-30-001, luminaire}, when the {17-25-112, tilt
+      during measurement} is 0°
+    type: intensional
+  examples: []
+  notes:
+  - content: The rotation is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 17-1123 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1123
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rotation
+    usage_info: of a luminaire
+  - type: symbol
+    normative_status: preferred
+    designation: ψ
+  language_code: eng
+  annotations: []
+termid: 17-25-111
+id: 1202efad-04ed-5940-8048-551f348a8565

@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-21-089
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-089
+  type: authoritative
+status: valid
+id: 446833b8-5eff-5c12-94a2-66c7924d86e7
+---
+data:
+  definition:
+  - content: |-
+      quotient of the emitted {17-21-039, luminous flux} and the power consumed
+
+      where <i>Φ</i><sub>v</sub> is {17-21-039, luminous flux} and <i>P</i> is the power consumed by the {17-27-001, light source}
+    type: intensional
+  examples: []
+  notes:
+  - content: It has to be specified whether or not the power dissipated by auxiliary
+      equipment such as {17-28-044, ballast}s, if any, is included in the power consumed
+      by the {17-27-001, light source}.
+    type: intensional
+  - content: The luminous efficacy of a {17-27-001, light source} is expressed in
+      lumen per watt (lm·W<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-729 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-729
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous efficacy
+    usage_info: of a light source
+  - type: symbol
+    normative_status: preferred
+    designation: ηv; η
+  language_code: eng
+  annotations: []
+termid: 17-21-089
+id: a8122bf8-305a-5f8a-be6c-d1e17c7c061d

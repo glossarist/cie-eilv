@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-044
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-044
+  type: authoritative
+status: valid
+id: 8cad0df5-01d8-5778-9ce9-d911d854376f
+---
+data:
+  definition:
+  - content: "{17-31-057, navigation light} positioned at the stern of a vessel, and
+      designed to show a fixed white light rearwards"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-47 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1267 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-47
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1267
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stern light
+    usage_info: of a vessel
+  language_code: eng
+  annotations: []
+termid: 17-31-044
+id: 87753edb-6a9c-50ca-9271-a777099d386d

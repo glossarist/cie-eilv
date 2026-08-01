@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-21-104
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-104
+  type: authoritative
+status: valid
+id: 1831b0b6-645a-5796-8374-05c52e24abc0
+---
+data:
+  definition:
+  - content: quotient of the reflected {17-21-049, radiance} at a point on a surface
+      of a non-self-radiating medium in a given direction and that of the {17-24-060,
+      perfect reflecting diffuser} identically irradiated and viewed
+    type: intensional
+  examples: []
+  notes:
+  - content: In general, the reflected radiance factor from a surface does not depend
+      upon the {17-21-030, relative spectral distribution} of the {17-21-099, irradiation}.
+      This is not the case for a photoluminescent surface, where it is necessary to
+      specify this quantity.
+    type: intensional
+  - content: The reflected radiance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1064 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1064
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflected radiance factor
+  - type: symbol
+    normative_status: preferred
+    designation: βR
+  language_code: eng
+  annotations: []
+termid: 17-21-104
+id: c6312e03-c29c-52b5-a67f-9d7d8ba12850

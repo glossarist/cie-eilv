@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-28-056
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-056
+  type: authoritative
+status: valid
+id: da8080da-4d5c-54b5-9a42-1ebcd8e4b177
+---
+data:
+  definition:
+  - content: electronic device, being part of the {17-28-048, control gear}, capable
+      of controlling current, voltage or power within design limits, containing no
+      additional LED control capabilities
+    type: intensional
+  examples: []
+  notes:
+  - content: For {17-27-060, semi-integrated LED module}s, the power supply of the
+      {17-28-048, control gear} is separate from the {17-27-058, LED module} on a
+      distant location.
+    type: intensional
+  - content: The energy source of a power supply can be either a battery or the power
+      supply system.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: power supply of the control gear
+    usage_info: for an LED light source
+  language_code: eng
+  annotations: []
+termid: 17-28-056
+id: 2176db72-eb06-5653-b082-127c6f96704b

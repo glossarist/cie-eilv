@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-24-041
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-041
+  type: authoritative
+status: valid
+id: 33023731-04a5-5d20-9ba4-61a3c116fb5a
+---
+data:
+  definition:
+  - content: material which exhibits {17-24-023, fluorescence} as the result of exposure
+      to {17-21-002, optical radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: Fluorescent materials absorb energy from {17-21-002, optical radiation}
+      in the shorter {17-21-025, wavelength} regions of the visible spectrum and/or
+      in the ultraviolet region and re-radiate some of this energy at longer {17-21-025,
+      wavelength}s, producing narrow bands of {17-24-001, emission} in the visible
+      region.
+    type: intensional
+  - content: See also "{17-24-040, photoluminescent material}", "{17-22-055, daylight
+      fluorescent colour}".
+    type: intensional
+  - content: This entry was numbered 17-458 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-458
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent material
+  language_code: eng
+  annotations: []
+termid: 17-24-041
+id: c3290f96-9ad9-5d20-8bde-af8840db07c6

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-109
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-109
+  type: authoritative
+status: valid
+id: 38b5d9bb-e7f0-5746-b2c9-207e4848fca8
+---
+data:
+  definition:
+  - content: time that is required to obtain a stable photometric {17-25-058, output}
+      and electrical power consumption, with a constant electrical {17-25-057, input}
+    type: intensional
+  examples: []
+  notes:
+  - content: A {17-30-001, luminaire} integrated with a {17-27-001, light source},
+      such as an {17-30-056, LED luminaire}, is covered.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stabilization time
+  language_code: eng
+  annotations: []
+termid: 17-27-109
+id: 427b3a89-ef0b-56cf-b4c0-a764c1c505c5

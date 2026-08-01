@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-27-031
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-031
+  type: authoritative
+status: valid
+id: 8d6d2978-dc13-55b0-b4d7-359cc7971bf6
+---
+data:
+  definition:
+  - content: "{17-27-027, high-intensity discharge lamp} in which the light is produced
+      mainly by radiation from sodium vapour operating at a partial pressure of the
+      order of 10 kPa"
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "high-pressure sodium lamp" includes {17-27-008, electric lamp}s
+      with clear or diffusing {17-28-006, bulb}.
+    type: intensional
+  - content: This entry was numbered 845-07-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-536 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-536
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: high-pressure sodium lamp
+  - type: symbol
+    normative_status: preferred
+    designation: high-pressure sodium vapour lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-031
+id: '09f84c85-4227-5427-a2da-3b548f13e7b1'

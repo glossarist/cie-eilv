@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-026
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-026
+  type: authoritative
+status: valid
+id: acf1f0c3-54af-5d08-9b11-980c0c60b41e
+---
+data:
+  definition:
+  - content: greatest distance at which a given {17-31-004, signal light} can be recognized
+      in any particular circumstances, as limited only by the {17-31-017, atmospheric
+      transmissivity} and by the {17-31-024, threshold of illuminance} at the eye
+      of the observer
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-28 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-740 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-28
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-740
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous range
+  language_code: eng
+  annotations: []
+termid: 17-31-026
+id: 2791afda-9208-51b3-b755-9b16cf15aaf2

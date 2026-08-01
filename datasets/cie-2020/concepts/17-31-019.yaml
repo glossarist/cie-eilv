@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-31-019
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-019
+  type: authoritative
+status: valid
+id: 74e1add3-f1d4-5d10-b40b-67eb89c93b9f
+---
+data:
+  definition:
+  - content: smallest {17-22-089, contrast}, produced at the eye of an observer by
+      a given object, which renders the object perceptible against a given background
+    type: intensional
+  examples: []
+  notes:
+  - content: For meteorological observations, the object has to be rendered recognizable,
+      and hence a higher threshold is to be expected. The value of 0,05 has been adopted
+      as the basis for the measurement of {17-31-018, meteorological optical range}.
+    type: intensional
+  - content: This entry was numbered 845-11-21 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1407 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-21
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1407
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual contrast threshold
+  language_code: eng
+  annotations: []
+termid: 17-31-019
+id: e2fdbb91-3609-5774-9baa-29d5265d6888

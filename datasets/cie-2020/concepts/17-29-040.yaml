@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-29-040
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-040
+  type: authoritative
+status: valid
+id: 26714ea9-f3da-5f2d-8c63-5a42dec84587
+---
+data:
+  definition:
+  - content: average value of the {17-21-045, luminous intensity} of the {17-27-001,
+      light source} in all directions, equal to the quotient of its {17-21-039, luminous
+      flux} and the {17-21-109, solid angle} 4π sr
+    type: intensional
+  examples: []
+  notes:
+  - content: The mean spherical luminous intensity is expressed in candela (cd).
+    type: intensional
+  - content: This entry was numbered 845-09-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-758 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-758
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean spherical luminous intensity
+    usage_info: of a light source
+  - type: symbol
+    normative_status: preferred
+    designation: Iv,s; Is
+  language_code: eng
+  annotations: []
+termid: 17-29-040
+id: 82c6d23f-18fc-5556-8532-0e0c7ca9e1a6

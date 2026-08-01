@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-046
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-046
+  type: authoritative
+status: valid
+id: 8982420f-d2cf-5f3c-b98f-28067bd14e37
+---
+data:
+  definition:
+  - content: "{17-27-044, arc lamp}, generally of high pressure, in which the distance
+      between the electrodes is large, the arc filling the discharge tube and being
+      therefore stabilized"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-692 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-692
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: long-arc lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-046
+id: 4caa0bef-a6f5-51f6-bec3-26761fe97b5a

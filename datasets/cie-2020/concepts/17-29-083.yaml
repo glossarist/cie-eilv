@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-29-083
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-083
+  type: authoritative
+status: valid
+id: 5db6b1e0-b4fc-5814-b46b-7e13970af856
+---
+data:
+  definition:
+  - content: quotient of the emergency {17-21-039, luminous flux} of the {17-27-008,
+      electric lamp} supplied by the emergency ballast and the {17-21-039, luminous
+      flux} of the same {17-27-008, electric lamp} operated with the appropriate {17-28-046,
+      reference ballast} at its rated voltage and frequency
+    type: intensional
+  examples: []
+  notes:
+  - content: The emergency mode ballast lumen factor is the minimum of the values
+      measured from the point of {17-27-105, failure} of the normal power supply continuously
+      to the end of the rated time duration.
+    type: intensional
+  - content: The emergency mode ballast lumen factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-378 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-378
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emergency mode ballast lumen factor
+  language_code: eng
+  annotations: []
+termid: 17-29-083
+id: 6ac1448f-d408-503e-a651-79d654fa86ef

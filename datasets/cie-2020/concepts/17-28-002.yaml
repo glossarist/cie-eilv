@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-28-002
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-002
+  type: authoritative
+status: valid
+id: 07a04b15-c641-5c27-a6ac-f68fbb5b183e
+---
+data:
+  definition:
+  - content: threadlike conductor, usually of tungsten, that is heated to {17-24-018,
+      incandescence} by the passage of an electric current
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-431 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-431
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: filament
+  language_code: eng
+  annotations: []
+termid: 17-28-002
+id: bd77e6c4-6204-528f-8f19-c0d769945ee3

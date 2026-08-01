@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-25-070
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-070
+  type: authoritative
+status: valid
+id: 5ad1126a-b1eb-5d15-8c01-2046a26ae318
+---
+data:
+  definition:
+  - content: "{17-25-069, noise-equivalent input} when the quantity that the {17-25-035,
+      detector} is being used to measure or detect is {17-21-038, radiant flux}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The noise equivalent power is expressed in watt (W).
+    type: intensional
+  - content: This entry was numbered 845-05-63 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-816 and 17-808 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-63
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-816 and 17-808
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: noise-equivalent power
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: NEP
+  language_code: eng
+  annotations: []
+termid: 17-25-070
+id: 833aed2f-5c35-555b-b4c4-d0f77d0a94c3

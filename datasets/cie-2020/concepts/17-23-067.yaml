@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-23-067
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-067
+  type: authoritative
+status: valid
+id: 702eca18-f2a3-5c69-b81d-c7a13b6527e1
+---
+data:
+  definition:
+  - content: temperature of a {17-24-004, Planckian radiator} whose radiation has
+      the same {17-23-052, chromaticity} as that of a given stimulus
+    type: intensional
+  examples: []
+  notes:
+  - content: The colour temperature is expressed in kelvin (K).
+    type: intensional
+  - content: This entry was numbered 845-03-49 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-231 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-231
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour temperature
+  - type: symbol
+    normative_status: preferred
+    designation: Tc
+  language_code: eng
+  annotations: []
+termid: 17-23-067
+id: 90db3e53-e7c7-58f1-bf57-48ae4a373027

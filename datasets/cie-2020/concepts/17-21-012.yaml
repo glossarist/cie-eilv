@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-21-012
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-012
+  type: authoritative
+status: valid
+id: a332bdb6-66c9-5128-87ed-f74f79be66d1
+---
+data:
+  definition:
+  - content: radiation that is considered from the point of view of its ability to
+      excite the visual system
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "light" is sometimes used for {17-21-002, optical radiation}
+      extending outside the visible range, but this usage is not recommended.
+    type: intensional
+  - content: This entry was numbered 845-01-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-659 (2.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-06
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-659 (2.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light
+    usage_info: psychophysical
+    grammar_info:
+    - participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: true
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-21-012
+id: c3a2a474-3228-5685-8afe-67638ee65365

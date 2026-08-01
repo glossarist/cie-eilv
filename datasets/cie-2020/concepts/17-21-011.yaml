@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-21-011
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-011
+  type: authoritative
+status: valid
+id: e1a4d1ec-3e9f-56f6-8cf1-d672c177023b
+---
+data:
+  definition:
+  - content: "{17-21-008, ultraviolet radiation} covering the range from 100 nm to
+      280 nm"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1387 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1387
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UV-C
+  language_code: eng
+  annotations: []
+termid: 17-21-011
+id: 9b5332d9-7172-5191-85cb-5ada2fd1f4c3

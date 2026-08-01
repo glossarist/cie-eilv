@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-115
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-115
+  type: authoritative
+status: valid
+id: 8c55f075-6397-55b2-8506-39b7a9d96961
+---
+data:
+  definition:
+  - content: physical arrangement of {17-31-102, element}s, characters and text, which
+      can include {17-31-132, symbol}s on the {17-31-002, sign} face
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1181 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1181
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign geometry
+  language_code: eng
+  annotations: []
+termid: 17-31-115
+id: 93d01a4b-403e-5a2a-9434-33414a6494ed

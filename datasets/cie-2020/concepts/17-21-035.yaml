@@ -1,0 +1,121 @@
+---
+data:
+  identifier: 17-21-035
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-035
+  type: authoritative
+status: valid
+id: c738c988-846c-5314-8308-d22522b2df6e
+---
+data:
+  definition:
+  - content: quotient of the {17-21-038, radiant flux} at {17-21-025, wavelength}
+      <i>λ</i><sub>m</sub> and that at {17-21-025, wavelength} <i>λ</i>, such that
+      both produce equally intense luminous sensations for a specified photometric
+      condition and <i>λ</i><sub>m</sub> is chosen so that the maximum value of this
+      quotient is equal to 1
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral luminous efficiency of the human eye depends on a number
+      of factors, particularly the state of visual {17-22-012, adaptation} and the
+      size and position of the {17-21-032, source} in the {17-22-080, visual field}.
+      The photometric condition should be specified (e.g. photopic, scotopic, mesopic).
+      If it is not specified, {17-22-016, photopic vision} is assumed and the symbol
+      <i>V</i>(<i>λ</i>) is used. The values of the <i>V</i>(<i>λ</i>) function have
+      been internationally agreed in 1924 by the CIE (<i>Compte Rendu 6<sup>e</sup>
+      session, p.67</i>), completed by interpolation and extrapolation (ISO 23539:2005(E)/CIE
+      S 010/E:2004<i> Photometry – The CIE System of Physical Photometry</i>), and
+      recommended by the International Committee of Weights and Measures (CIPM) in
+      1972.
+    type: intensional
+  - content: For {17-22-017, scotopic vision}, the symbol <i>V</i>′(<i>λ</i>) is used.
+      The values of the <i>V</i>′(<i>λ</i>) function were adopted by the CIE in 1951,
+      were published in <i>Compte Rendu 12<sup>e</sup> session, Vol. 3, p. 37</i>
+      and in ISO 23539:2005(E) / CIE S 010/E:2004<i> Photometry – The CIE System of
+      Physical Photometry</i>, and ratified by the CIPM in 1976.
+    type: intensional
+  - content: For {17-22-018, mesopic vision}, the spectral luminous efficiency function
+      is denoted by <i>V</i><sub>mes;</sub><i><sub>m</sub></i>(<i>λ</i>), where <i>m</i>
+      is a coefficient determined by the visual {17-22-012, adaptation} level. The
+      values of the <i>V</i><sub>mes;</sub><i><sub>m</sub></i>(<i>λ</i>) function
+      at representative values of <i>m</i> are given in CIE 191:2010 <i>Recommended
+      System for Mesopic Photometry based on Visual Performance</i>.
+    type: intensional
+  - content: 'The <i>V</i>(<i>λ</i>)<sub> </sub>function applies at all {17-21-050,
+      luminance} levels for foveal conditions, i.e. for all on-axis {17-22-084, visual
+      task}s (where objects seen by the eye are in a narrow field of view). For {17-22-084,
+      visual task}s that are not on-axis, the following specifications are given by
+      CIE 191:2010 <i>Recommended System for Mesopic Photometry based on Visual Performance</i>:
+      Scotopic photometric quantities are applicable to the condition where the eye
+      is adapted to an {17-29-151, average luminance} of < 0,005 cd·m<sup>−2</sup>;
+      mesopic photometric quantities are applicable to the condition where the eye
+      is adapted to {17-29-151, average luminance} levels between 0,005 cd·m<sup>−2
+      </sup>and 5 cd·m<sup>−2</sup>; photopic photometric quantities are applicable
+      to the condition where the eye is adapted to an {17-29-151, average luminance}
+      greater than 5 cd·m<sup>−2</sup>.'
+    type: intensional
+  - content: Considering that the spectral luminous efficiency function of the human
+      eye changes with {17-22-079, visual angle}, in 2005 CIE adopted the "CIE 10°
+      photopic photometric observer", <i>V</i><sub>10</sub>(<i>λ</i>), and recommended
+      it for situations where the eye is fully light adapted and the visual target
+      has an {17-25-085, angular subtense} larger than 4° or is seen off-axis (see
+      CIE 165:2005 <i>CIE 10 Degree Photopic Photometric Observer</i>).
+    type: intensional
+  - content: Considering the discrepancies between the average human spectral luminous
+      efficiency and the <i>V</i>(<i>λ</i>) function, in 1990 CIE adopted the "CIE
+      1988 Modified 2° Spectral Luminous Efficiency Function for Photopic Vision",
+      <i>V</i><sub>M</sub>(<i>λ</i>), and recommended it for applications in visual
+      sciences (see CIE 86-1990<i> CIE 1988 2° Spectral Luminous Efficiency Function
+      for Photopic Vision</i>).
+    type: intensional
+  - content: |-
+      Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated {17-21-091, spectral luminous efficacy} function, with the integral being taken across the full {17-21-002, optical radiation} spectrum. For example, for the CIE standard observer for {17-22-016, photopic vision}, the {17-21-039, luminous flux} of a {17-21-032, source} with spectral radiant flux <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is expressed by
+      <sub>
+
+
+      </sub>where <i>K</i><sub>m</sub> ≈ 683 lm⋅W<sup>−1</sup> (see also "{17-21-092, maximum luminous efficacy}").
+    type: intensional
+  - content: The spectral luminous efficiency has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1222 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1222
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral luminous efficiency
+    usage_info: for a specified photometric condition
+  - type: symbol
+    normative_status: preferred
+    designation: V(λ), <for photopic vision>; V′(λ), <for scotopic vision>; Vmes;m(λ),
+      <for mesopic vision>; V10(λ), <for the CIE 10° photopic photometric observer>;
+      VM(λ), <for the CIE 1988 modified 2° spectral luminous efficiency function for
+      photopic vision>
+  language_code: eng
+  annotations: []
+termid: 17-21-035
+id: 07bd38fd-f183-5885-ad3e-55264808949a

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-103
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-103
+  type: authoritative
+status: valid
+id: 7af28933-6d4d-58b2-bcf9-4c71ddbae59a
+---
+data:
+  definition:
+  - content: test in which the applied stress level is chosen to exceed that stated
+      in the reference conditions in order to shorten the test duration required to
+      observe the life of the device without altering the basic fault modes and {17-27-105,
+      failure} mechanisms
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accelerated life test
+  language_code: eng
+  annotations: []
+termid: 17-27-103
+id: 1151efc4-99c2-53d6-aa3e-c6f1b79df043

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-095
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-095
+  type: authoritative
+status: valid
+id: 3cb6b645-8992-54b2-9b65-773011462aa2
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} intended to be used as a reference in photometric
+      or spectroradiometric measurements, for which the calibration is traceable to
+      a primary measurement standard (ISO/IEC Guide 99:2007, 5.4)"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1256 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1256
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-095
+id: eaaa4114-e051-5247-b998-a8711ba98f9e

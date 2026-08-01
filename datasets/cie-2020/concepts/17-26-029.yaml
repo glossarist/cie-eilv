@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-26-029
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-029
+  type: authoritative
+status: valid
+id: b12df2a2-78d6-57b6-b026-0a0d746336a1
+---
+data:
+  definition:
+  - content: "{17-21-002, optical radiation} effective in causing {17-26-028, actinic
+      erythema}"
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-21-008, ultraviolet radiation} is the most effective erythemal radiation."
+    type: intensional
+  - content: See also "{17-26-065, erythema spectral weighting function}", "{17-26-069,
+      standard erythema dose}".
+    type: intensional
+  - content: This entry was numbered 845-06-16 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-405 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-405
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal radiation
+  language_code: eng
+  annotations: []
+termid: 17-26-029
+id: 99b4ac10-0a4d-5ee9-97ad-13cc31b5fe47

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-21-022
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-022
+  type: authoritative
+status: valid
+id: d983e12d-70e8-57fc-9f6d-805a99a90cd5
+---
+data:
+  definition:
+  - content: "{17-21-014, monochromatic radiation} whose electromagnetic oscillations
+      maintain a constant phase difference from one position to another"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-01-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-185 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-185
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coherent radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-022
+id: 4aae3e36-fbf6-5630-b8f6-624566e71b41

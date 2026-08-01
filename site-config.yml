@@ -1,0 +1,70 @@
+id: cie
+domain: www.glossarist.org/cie-eilv
+uri_base: https://www.glossarist.org/cie-eilv
+base_path: /cie-eilv/
+title: CIE e-ILV
+subtitle: International Lighting Vocabulary (CIE S 017:2020)
+description: Terminology from the CIE International Lighting Vocabulary
+ui_languages:
+- code: eng
+  label: English
+datasets:
+- id: cie-2020
+  title: CIE S 017:2020 ILV
+  description: >-
+    The International Lighting Vocabulary, 2nd edition (CIE S 017:2020).
+    Free electronic edition provided by the CIE at https://cie.co.at/e-ilv.
+  local_path: datasets/cie-2020
+  ref: CIE S 017:2020
+  owner: CIE
+  color: '#004ebc'
+routing: []
+branding:
+  primary_color: '#004ebc'
+  dark_color: '#002866'
+  fonts:
+    header:
+      family: Raleway
+      source: google
+      weights:
+      - 600
+      - 700
+    body:
+      family: Raleway
+      source: google
+      weights:
+      - 400
+      - 500
+      - 600
+  logo:
+    alt: CIE
+    local_light: public/images/cie-logo_logo-icon.svg
+    local_dark: public/images/cie-logo_logo-icon.svg
+  owner_name: CIE
+  owner_url: https://cie.co.at
+features:
+  news: false
+  stats: true
+  graph: true
+  about: true
+  search: true
+  powered_by:
+    title: Glossarist
+    url: https://glossarist.org
+pages:
+- type: about
+  route: about
+  title: About the ILV
+  icon: info
+  source: about-eng.md
+defaults:
+  language: eng
+dataset_groups:
+- id: cie
+  label: CIE International Lighting Vocabulary
+  kind: default
+  current: cie-2020
+  datasets:
+  - cie-2020
+  color: '#004ebc'
+copyright: CIE

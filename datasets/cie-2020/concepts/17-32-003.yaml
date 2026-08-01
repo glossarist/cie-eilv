@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-32-003
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-003
+  type: authoritative
+status: valid
+id: 2dffbeb2-ba68-53e4-bb7f-cd5037da7dd0
+---
+data:
+  definition:
+  - content: set of equations and methodologies for transforming physical measurements
+      of the elements of an image to and from viewing-condition-specific {17-23-085,
+      perceptual attribute correlate}s that estimate the subjective {17-22-019, appearance}
+      of the elements of the image
+    type: intensional
+  examples: []
+  notes:
+  - content: An image colour appearance model can be applied to the elements of a
+      scene, an original, or a reproduction. It determines {17-23-085, perceptual
+      attribute correlate}s for these elements without consideration of the characteristics
+      of any potential medium for subsequent reproduction. However, an image colour
+      appearance model followed by its inverse can be appropriate for use as a colour
+      reproduction model, especially if the reproduction medium does not impose any
+      limitations on the colours to be reproduced in the image.
+    type: intensional
+  - content: There is no general consensus on the appropriate form for an image colour
+      appearance model. A {17-32-002, single-stimulus colour appearance model} cannot
+      be expected to deal completely with the effect of changing viewing conditions
+      in an image because the combined effect of macroscopic viewing conditions and
+      other colours in the image could result in the appearance of any colour in the
+      image changing in a way that is not predictable by the single-stimulus model,
+      since it is not keeping track of the other colours.
+    type: intensional
+  - content: See also "{17-22-107, colour rendering}", "{17-32-002, single-stimulus
+      colour appearance model}".
+    type: intensional
+  - content: This entry was numbered 17-562 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-562
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image colour appearance model
+  language_code: eng
+  annotations: []
+termid: 17-32-003
+id: 82efb47c-ff6d-56e1-ad3e-17719c9d615c

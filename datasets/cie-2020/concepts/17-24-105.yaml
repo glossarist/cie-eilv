@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-24-105
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-105
+  type: authoritative
+status: valid
+id: 70597fc1-e78a-5900-8a54-e2f9ceab1aa4
+---
+data:
+  definition:
+  - content: quotient of reflected flux and incident flux, within the narrow confines
+      of incident and reflected conditions
+  notes:
+  - content: The retroreflectance has unit one.
+  - content: This entry was numbered 17-1103 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflectance
+  language_code: eng
+  annotations: []
+termid: 17-24-105
+id: 6dd6ee2d-88d9-5f69-ab85-1d280c64fe63

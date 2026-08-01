@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-25-113
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-113
+  type: authoritative
+status: valid
+id: 2de73834-2d82-51ca-9ecf-e88adc6df941
+---
+data:
+  definition:
+  - content: angle between a defined datum axis on the {17-30-001, luminaire} and
+      the horizontal when the {17-30-001, luminaire} is mounted for field use
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined datum axis can be any feature of the {17-30-001, luminaire}
+      but it will usually relate to a feature that is nominally aligned with the horizontal
+      such as an axis through the luminous opening or an axis through an array of
+      {17-27-050, LED}s or a fixing spigot entry axis.
+    type: intensional
+  - content: The tilt in application is the actual tilt of the {17-30-001, luminaire}
+      when it is mounted for field use and should not be confused with "tilt normal
+      in application" or "designed attitude" (see CIE 121<i> The Photometry and Goniophotometry
+      of Luminaires</i>).
+    type: intensional
+  - content: The tilt in application is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 17-1317 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1317
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tilt in application
+    usage_info: of a luminaire
+  - type: symbol
+    normative_status: preferred
+    designation: θf
+  language_code: eng
+  annotations: []
+termid: 17-25-113
+id: 82d39a6b-0c69-5ec6-ae2d-74906687b043

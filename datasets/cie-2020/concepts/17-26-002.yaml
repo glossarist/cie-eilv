@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-002
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-002
+  type: authoritative
+status: valid
+id: c213b2ba-03e3-5e2b-bc49-ee69a21909f1
+---
+data:
+  definition:
+  - content: property of {17-21-002, optical radiation} that enables it to cause photochemical
+      changes on certain living or non-living materials
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-16 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-16
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinism
+  language_code: eng
+  annotations: []
+termid: 17-26-002
+id: 3e3ea3ed-d833-5e3e-9383-3d600304ae29

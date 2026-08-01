@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-25-073
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-073
+  type: authoritative
+status: valid
+id: ca7cdf3c-3f93-54e3-8634-451df7b8c74f
+---
+data:
+  definition:
+  - content: |-
+      {17-25-072, detectivity}, <i>D</i>, normalized to take into account two important parameters of the detection system, the sensitive area, <i>A</i>, of the {17-25-035, detector} and the measurement bandwidth, Δ<i>f</i>
+
+
+
+      where <i>Φ</i><sub>m</sub> is noise equivalent power
+    type: intensional
+  examples: []
+  notes:
+  - content: The concept "normalized detectivity" is realistic only if the {17-25-061,
+      responsivity} and noise output of the {17-25-035, detector} are frequency independent
+      throughout the frequency range under consideration and if the noise equivalent
+      input varies as the square root of the {17-25-035, detector} area; this is not
+      always the case.
+    type: intensional
+  - content: The normalized detectivity is expressed in metre hertz to the power one
+      half per watt (m⋅Hz<sup>1/2</sup>⋅W<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-05-66 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-827 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-66
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-827
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized detectivity
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: D*
+  language_code: eng
+  annotations: []
+termid: 17-25-073
+id: 7a2e2719-d91d-5aeb-8253-d5a87b4d558c

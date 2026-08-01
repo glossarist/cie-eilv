@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-105
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-105
+  type: authoritative
+status: valid
+id: 7ab8987c-ea9b-5760-88af-b625f058261d
+---
+data:
+  definition:
+  - content: system that maintains the {17-22-089, contrast} of a {17-31-002, sign}'s
+      {17-31-127, legend} and its immediate background to achieve a {17-31-128, legibility}
+      performance within prescribed limits under varying ambient light conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-252 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-252
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast control system
+  language_code: eng
+  annotations: []
+termid: 17-31-105
+id: 1aea0891-5006-5403-8231-df38d0f14818

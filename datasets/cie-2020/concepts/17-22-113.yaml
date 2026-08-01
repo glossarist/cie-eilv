@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-22-113
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-113
+  type: authoritative
+status: valid
+id: 523eff7c-bebb-5942-9796-06049148fa72
+---
+data:
+  definition:
+  - content: mathematical adjustment in {17-23-052, chromaticity} and {17-24-077,
+      luminance factor} of an object {17-23-002, colour stimulus} to correct for a
+      change in {17-22-013, chromatic adaptation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-65 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-22 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-65
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-22
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adaptive colorimetric shift
+  language_code: eng
+  annotations: []
+termid: 17-22-113
+id: d69c3cce-bf92-5a49-b3c1-2c0402ec46d7

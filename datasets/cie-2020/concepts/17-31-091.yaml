@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-091
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-091
+  type: authoritative
+status: valid
+id: 50c75b94-0f60-53b1-b53b-dc77ca4947c8
+---
+data:
+  definition:
+  - content: average road surface {17-21-050, luminance} in the {17-31-086, interior
+      zone}
+    type: intensional
+  examples: []
+  notes:
+  - content: The interior zone luminance is expressed in candela per square metre
+      (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-595 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-595
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interior zone luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lin
+  language_code: eng
+  annotations: []
+termid: 17-31-091
+id: c7f84397-fbd7-5b3a-b18f-ff960e45b18d

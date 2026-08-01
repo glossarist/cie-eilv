@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-063
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-063
+  type: authoritative
+status: valid
+id: ea703e84-2f02-5d4f-bde5-3ed4422e9710
+---
+data:
+  definition:
+  - content: part of a {17-30-062, cap lamp}, containing a {17-27-001, light source}
+      or sources, designed to be attached to a miner's helmet
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-52 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-529 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-52
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-529
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headpiece
+  language_code: eng
+  annotations: []
+termid: 17-30-063
+id: 72bf0180-c2ed-54f4-bfa4-01a6bee3a609

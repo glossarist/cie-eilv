@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-31-131
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-131
+  type: authoritative
+status: valid
+id: 7b29e224-9e65-53cf-b819-0e390f266991
+---
+data:
+  definition:
+  - content: measure to characterize the ease of reading
+  notes:
+  - content: This entry was numbered 17-1038 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: readability
+  language_code: eng
+  annotations: []
+termid: 17-31-131
+id: 57c724bd-0df0-5221-bdfb-8a1504186af0

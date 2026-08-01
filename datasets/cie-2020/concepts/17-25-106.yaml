@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-25-106
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-106
+  type: authoritative
+status: valid
+id: 4684484a-73b4-5c9a-921b-81f33d62beb8
+---
+data:
+  definition:
+  - content: spectrophotometric mode of measurement where the specimen is illuminated
+      by undispersed light and the total (reflected or transmitted plus fluoresced)
+      {17-21-038, radiant flux} leaving the specimen is analysed {17-21-025, wavelength}
+      by {17-21-025, wavelength} by the {17-25-035, detector}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-968 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-968
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polychromatic mode
+  language_code: eng
+  annotations: []
+termid: 17-25-106
+id: '083de941-6482-594a-9d88-eb892d39d1c4'

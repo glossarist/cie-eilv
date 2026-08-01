@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-23-041
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-041
+  type: authoritative
+status: valid
+id: 6ed1a805-7283-55d8-86f3-55e06df27579
+---
+data:
+  definition:
+  - content: geometric representation of {17-23-001, colour} in space
+    type: intensional
+  examples: []
+  notes:
+  - content: A colour space is usually of three dimensions.
+    type: intensional
+  - content: This entry was numbered 845-03-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-226 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-226
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-041
+id: 5faae3ac-6f45-55d2-8347-93c9714df9d4

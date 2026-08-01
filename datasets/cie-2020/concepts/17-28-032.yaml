@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-28-032
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-032
+  type: authoritative
+status: valid
+id: 69000931-bb57-565b-92d2-c6550984d953
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} for building-in so designed that some parts
+      of the {17-28-025, lampholder} require additional means to fulfil the requirements
+      with regard to double or reinforced insulation"
+    type: intensional
+  examples: []
+  notes:
+  - content: In some cases, the dimensions might be achieved only after mounting into
+      the {17-30-001, luminaire}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partly reinforced insulated lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-032
+id: 065ababb-9579-593f-8c66-000a976523c9

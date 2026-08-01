@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-24-014
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-014
+  type: authoritative
+status: valid
+id: 8cc7ca1d-0eb4-5bb7-b9ce-52762b751a88
+---
+data:
+  definition:
+  - content: optical device that modifies a beam of {17-21-002, optical radiation}
+      to produce a beam with a unique state of polarization irrespective of the state
+      of polarization of the incident radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: A polarizer is called a linear, circular or elliptical polarizer depending
+      on the state of polarization produced.
+    type: intensional
+  - content: The unqualified term "polarizer" is frequently used to describe a linear
+      polarizer.
+    type: intensional
+  - content: A distinction is made between a perfect polarizer that transmits only
+      a unique state of polarization and an imperfect polarizer that, in addition
+      to transmitting a unique state of polarization, does not completely exclude
+      all other polarization states.
+    type: intensional
+  - content: This entry was numbered 17-967 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-967
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarizer
+  language_code: eng
+  annotations: []
+termid: 17-24-014
+id: b553fbde-1829-53d1-bb45-da09e9535b0b

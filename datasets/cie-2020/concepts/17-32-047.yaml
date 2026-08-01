@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-32-047
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-047
+  type: authoritative
+status: valid
+id: 9a0dbbcd-026c-55c9-a470-faa9a89c26e4
+---
+data:
+  definition:
+  - content: "{17-23-041, colour space} used to connect the source and destination
+      profiles in a {17-32-014, colour management} architecture"
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-32-049, ICC profile connection space}".
+    type: intensional
+  - content: This entry was numbered 17-987 and 17-868 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-987 and 17-868
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: profile connection space
+  - type: symbol
+    normative_status: preferred
+    designation: PCS
+  language_code: eng
+  annotations: []
+termid: 17-32-047
+id: b009f08c-6225-5d4e-86e6-e97ef88b66fb

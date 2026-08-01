@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-32-006
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-006
+  type: authoritative
+status: valid
+id: 46676790-301a-58a0-82f7-7b0e28b29350
+---
+data:
+  definition:
+  - content: quantized digital encoding of a {17-23-041, colour space}, encompassing
+      both {17-32-018, colour space encoding} and {17-32-013, colour image encoding}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-208 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-208
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour encoding
+  language_code: eng
+  annotations: []
+termid: 17-32-006
+id: a2369f9a-9ab9-515a-ae15-75916fad93f2

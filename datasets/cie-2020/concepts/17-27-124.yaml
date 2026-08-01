@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-27-124
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-124
+  type: authoritative
+status: valid
+id: '0480577f-2753-5fb3-b6fb-79f4c1cbf964'
+---
+data:
+  definition:
+  - content: electrical power consumed by the device in {17-27-125, standby mode}
+    type: intensional
+  examples: []
+  notes:
+  - content: Standby power is typically expressed in milliwatt (mW).
+    type: intensional
+  - content: For {17-29-010, emergency lighting} {17-30-001, luminaire}s, standby
+      power does not include the charging power.
+    type: intensional
+  - content: The device can be a {17-30-001, luminaire}, {17-28-048, control gear},
+      etc.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standby power
+  language_code: eng
+  annotations: []
+termid: 17-27-124
+id: 829c3216-c20f-5ef9-9991-840a9ee124ff

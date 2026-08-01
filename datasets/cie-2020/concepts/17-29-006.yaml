@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-29-006
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-006
+  type: authoritative
+status: valid
+id: b9f752f1-abaf-51b4-8b49-ac0451f4b1bc
+---
+data:
+  definition:
+  - content: "{17-22-091, luminance contrast} of a visibility reference task having
+      equal visibility at the same {17-21-050, luminance} level as that of the task
+      considered"
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-22-089, contrast}".
+    type: intensional
+  - content: This entry was numbered 845-09-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-396 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-396
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalent contrast
+    usage_info: of a task
+  language_code: eng
+  annotations: []
+termid: 17-29-006
+id: eaf65a7c-8942-58e6-8614-584dba00b745

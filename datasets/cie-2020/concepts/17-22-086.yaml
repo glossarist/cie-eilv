@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-086
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-086
+  type: authoritative
+status: valid
+id: f3c873e0-0c75-5f68-aa3b-f5bb81f56866
+---
+data:
+  definition:
+  - content: adjustment of the dioptric power of the crystalline lens by which the
+      image of an object, at a given distance, is focused on the {17-22-001, retina}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-10 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-10
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accommodation
+  language_code: eng
+  annotations: []
+termid: 17-22-086
+id: 4be9a261-0557-5700-ade9-4e02e0cd2c93

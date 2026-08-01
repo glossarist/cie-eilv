@@ -1,0 +1,73 @@
+---
+data:
+  identifier: 17-24-075
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-075
+  type: authoritative
+status: valid
+id: f3e23620-88b0-5333-a813-d9088f7fad8b
+---
+data:
+  definition:
+  - content: quotient of the {17-21-049, radiance} of a surface element in a specified
+      direction, <i>L</i><sub>e,n</sub> and the {17-21-049, radiance} of the {17-24-060,
+      perfect reflecting diffuser} or {17-24-061, perfect transmitting diffuser} identically
+      irradiated and viewed, <i>L</i><sub>e,d</sub>
+    type: intensional
+  examples: []
+  notes:
+  - content: The definition holds for a surface element of a non-self-radiating medium,
+      in a specified direction and under specified conditions of {17-21-099, irradiation}.
+    type: intensional
+  - content: Radiance factor is equivalent to {17-24-070, reflectance factor} or {17-24-077,
+      luminance factor} when the cone angle is infinitely small, and is equivalent
+      to {17-24-064, reflectance} when the cone angle is 2π sr. These quantities are
+      also defined spectrally and called spectral radiance factor, <i>β</i>(<i>λ</i>),
+      and spectral reflectance factor, <i>R</i>(<i>λ</i>).
+    type: intensional
+  - content: The ideal isotropic (Lambertian) diffuser with {17-24-064, reflectance}
+      or {17-24-065, transmittance} equal to 1 is called a perfect diffuser.
+    type: intensional
+  - content: |-
+      For photoluminescent media, the radiance factor contains two components, the {17-21-104, reflected radiance factor}, <i>β</i><sub>R</sub>, and the {17-21-100, luminescent radiance factor}, <i>β</i><sub>L</sub><sub>. </sub>The sum of {17-21-104, reflected radiance factor} and {17-21-100, luminescent radiance factor} is the total radiance factor, <i>β</i><sub>T</sub>: <i>β</i><sub>T</sub> = <i>β</i><sub>R</sub> + <i>β</i><sub>L</sub>.
+      The subscript R is used here for the {17-21-104, reflected radiance factor} because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
+    type: intensional
+  - content: The radiance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-68 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1015 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-68
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance factor
+  - type: symbol
+    normative_status: preferred
+    designation: βe; β
+  language_code: eng
+  annotations: []
+termid: 17-24-075
+id: 2c2cf5d7-65d3-5d20-8257-9e2651e5029a

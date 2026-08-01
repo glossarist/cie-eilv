@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-25-110
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-110
+  type: authoritative
+status: valid
+id: 2efe379e-41bc-56a5-ab06-67ba6a723753
+---
+data:
+  definition:
+  - content: plane in which the surface of a sample or standard is placed during measurements
+    type: intensional
+  examples: []
+  notes:
+  - content: For {17-24-047, reflection} measurements, the geometry is defined with
+      respect to the reference plane. For {17-24-048, transmission} measurements,
+      there is a reference plane for the incident light and a second reference plane,
+      displaced by the sample thickness, for the transmitted light.
+    type: intensional
+  - content: This entry was numbered 17-1055 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference plane
+    usage_info: in photometric or radiometric measurements
+  language_code: eng
+  annotations: []
+termid: 17-25-110
+id: deaf08ec-1bea-5e8c-beaa-40f553be59de

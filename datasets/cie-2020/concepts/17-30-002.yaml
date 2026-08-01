@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-30-002
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-002
+  type: authoritative
+status: valid
+id: f567f2e0-387c-5429-a51e-4f078012810e
+---
+data:
+  definition:
+  - content: unit similar to an {17-27-009, integrated lamp}, but designed to utilize
+      a {17-27-005, replaceable light source} and/or a replaceable {17-28-041, starting
+      device}
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-28-044, ballast} component is not replaceable and is not disposed
+      of each time a {17-27-001, light source} is replaced.
+    type: intensional
+  - content: A {17-28-025, lampholder} is required for a supply connection.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-002
+id: 41e559d7-2351-5793-92ff-ae62a447d89f
