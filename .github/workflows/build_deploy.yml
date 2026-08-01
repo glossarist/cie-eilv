@@ -38,7 +38,7 @@ jobs:
       - name: Install concept-browser
         run: |
           npm install --ignore-scripts
-          npm install --prefix node_modules/@glossarist/concept-browser sharp 2>/dev/null || true
+          node scripts/patch-concept-browser.mjs
 
       - name: Build site
         run: npm run build
