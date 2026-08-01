@@ -39,7 +39,7 @@ jobs:
         run: npm install --ignore-scripts
 
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        run: npx playwright install --with-deps chromium firefox webkit
 
       - name: Build site
         run: npm run build

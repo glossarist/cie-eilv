@@ -85,6 +85,7 @@ async function run() {
 
   let totalErrors = 0;
   let totalRenderingFailures = 0;
+  let browsersActuallyRan = 0;
 
   for (const { name, launcher } of browsers) {
     console.log(`\n========== ${name.toUpperCase()} ==========`);
@@ -98,6 +99,7 @@ async function run() {
       console.log(`  ! ${name} could not launch — skipping (likely local env issue): ${e.message.split('\n')[0]}`);
       continue;
     }
+    browsersActuallyRan++;
     const page = await browser.newPage();
 
     const pageErrors = [];
@@ -150,10 +152,14 @@ async function run() {
 
   server.close();
 
-  console.log(`\n=== Final summary (${browsers.length} browser(s)) ===`);
+  console.log(`\n=== Final summary (${browsersActuallyRan}/${browsers.length} browser(s) ran) ===`);
   console.log(`Total page errors: ${totalErrors}`);
   console.log(`Total rendering failures: ${totalRenderingFailures}`);
 
+  if (browsersActuallyRan === 0) {
+    console.error('\nsmoke: FAIL — no browsers launched (install via `npx playwright install`)');
+    process.exit(1);
+  }
   if (totalErrors > 0 || totalRenderingFailures > 0) {
     console.error('\nsmoke: FAIL');
     process.exit(1);
