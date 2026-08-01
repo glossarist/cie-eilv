@@ -36,9 +36,7 @@ jobs:
         run: bundle exec ruby scripts/audit_terms.rb
 
       - name: Install concept-browser
-        run: |
-          npm install --ignore-scripts
-          node scripts/patch-concept-browser.mjs
+        run: npm install --ignore-scripts
 
       - name: Build site
         run: npm run build

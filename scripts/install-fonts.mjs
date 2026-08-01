@@ -1,13 +1,17 @@
-// Post-build font swap: replace concept-browser's hardcoded DM Sans URL and
-// font-family declarations with Raleway across every generated HTML and CSS
-// asset.
+// Partial workaround for glossarist/concept-browser#166.
 //
-// The concept-browser v0.7.87 build pipeline bakes DM Sans / DM Serif Display
-// / JetBrains Mono into every static HTML page's <head> AND every CSS rule,
-// ignoring the site-config.yml branding.fonts setting. CIE's brand font is
-// Raleway (https://fonts.google.com/specimen/Raleway). Until upstream honors
-// the config, we swap both the <link> URL and the font-family declarations
-// post-build.
+// The 0.7.102 build-time fix for branding.fonts (commit 5ab04a92) correctly
+// derives the Google Fonts URL from siteConfig, BUT its <style is:global>
+// block uses JS template-literal syntax (${fontHeader} / ${fontBody}) which
+// Astro does not interpolate inside <style> tags. The literal text ends up
+// in the compiled CSS, the :root override silently fails, and the page
+// still renders DM Sans.
+//
+// This script post-processes dist/ to substitute the broken literals with
+// the configured family and to rewrite component-scoped font-family rules
+// that bypass --font-body / --font-header.
+//
+// Delete this script once concept-browser#166 is fixed and released.
 
 import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join, extname } from "node:path";
@@ -19,26 +23,20 @@ if (!existsSync(dist)) {
   process.exit(1);
 }
 
-// Raleway weights: 400 (regular), 500 (medium), 600 (semibold), 700 (bold),
-// plus italic 400 for emphasis in body copy. JetBrains Mono retained for
-// code/mono contexts.
-const ralewayUrl =
-  "https://fonts.googleapis.com/css2" +
-  "?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;1,400" +
-  "&family=JetBrains+Mono:wght@400;500&display=swap";
+const raleway = "Raleway";
 
-const dmSansUrlPattern =
-  /https:\/\/fonts\.googleapis\.com\/css2\?family=DM[^"]+/g;
-
-// Font-family declaration swaps. Serif headers (DM Serif Display) get Raleway
-// too — CIE uses Raleway everywhere. Fraunces is a fallback for adoc-rendered
-// headings; swap as well for consistency.
-const fontFamilySwaps = [
-  [/\bDM Sans\b/g, "Raleway"],
-  [/\bDM Serif Display\b/g, "Raleway"],
-  [/\bFraunces\b/g, "Raleway"],
-  [/\bSource Sans 3\b/g, "Raleway"],
-  [/\bSource Serif 4\b/g, "Raleway"],
+// Substitution table.
+// 1. The broken literal "${fontHeader}" / "${fontBody}" emitted by
+//    Default.astro's <style is:global> block — replace with the family.
+// 2. Component-scoped font-family declarations that bypass the variables.
+const textSwaps = [
+  [/--font-header:\s*\$\{fontHeader[^;}]*;?/g, `--font-header: '${raleway}', Georgia, serif;`],
+  [/--font-body:\s*\$\{fontBody[^;}]*;?/g, `--font-body: '${raleway}', system-ui, sans-serif;`],
+  [/\bDM Sans\b/g, raleway],
+  [/\bDM Serif Display\b/g, raleway],
+  [/\bFraunces\b/g, raleway],
+  [/\bSource Sans 3\b/g, raleway],
+  [/\bSource Serif 4\b/g, raleway],
 ];
 
 function walk(dir, predicate) {
@@ -54,30 +52,27 @@ function walk(dir, predicate) {
   return out;
 }
 
-function swapText(original) {
-  let out = original.replace(dmSansUrlPattern, ralewayUrl);
-  for (const [pattern, replacement] of fontFamilySwaps) {
+function applySwaps(original) {
+  let out = original;
+  for (const [pattern, replacement] of textSwaps) {
     out = out.replace(pattern, replacement);
   }
   return out;
 }
 
-const htmlFiles = walk(dist, (n) => extname(n) === ".html");
-const cssFiles = walk(join(dist, "_astro"), (n) => extname(n) === ".css")
-  .filter((p) => existsSync(p));
+const targets = [
+  ...walk(dist, (n) => extname(n) === ".html"),
+  ...walk(join(dist, "_astro"), (n) => extname(n) === ".css"),
+];
 
 let touched = 0;
-for (const path of [...htmlFiles, ...cssFiles]) {
+for (const path of targets) {
   const original = readFileSync(path, "utf8");
-  const swapped = swapText(original);
+  const swapped = applySwaps(original);
   if (swapped !== original) {
     writeFileSync(path, swapped);
     touched += 1;
   }
 }
 
-console.log(
-  `install-fonts: swapped to Raleway in ${touched} file(s) ` +
-  `(${htmlFiles.length} HTML, ${cssFiles.length} CSS scanned)`,
-);
-
+console.log(`install-fonts: applied Raleway substitution in ${touched}/${targets.length} file(s)`);

@@ -10,10 +10,7 @@
     "preview": "NODE_PATH=node_modules/@glossarist/concept-browser/node_modules node_modules/@glossarist/concept-browser/node_modules/.bin/vite preview --config node_modules/@glossarist/concept-browser/vite.config.ts"
   },
   "dependencies": {
-    "@glossarist/concept-browser": "^0.7.101",
-    "glossarist": "0.4.26"
-  },
-  "overrides": {
-    "glossarist": "0.4.26"
+    "@glossarist/concept-browser": "^0.7.102",
+    "tsx": "^4.23.1"
   }
 }
