@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-32-031
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-031
+  type: authoritative
+status: valid
+id: 4287cc67-8eaf-53c1-95de-f9d71d2f07fd
+---
+data:
+  definition:
+  - content: neutral colour with the highest {17-21-050, luminance} that can be produced
+      by an imaging medium in normal use, measured using the specified measurement
+      geometry
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-761 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-761
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: medium white point
+  language_code: eng
+  annotations: []
+termid: 17-32-031
+id: 23cef569-4ad8-5c13-a683-572d30f0ad9d

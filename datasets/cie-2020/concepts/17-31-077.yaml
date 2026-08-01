@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-077
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-077
+  type: authoritative
+status: valid
+id: d348f6c7-b079-5703-9479-9700757ba871
+---
+data:
+  definition:
+  - content: "{17-31-148, light signal} provided by the simultaneous operation of
+      all the {17-31-075, direction-indicator light}s on a vehicle, and used to indicate
+      that the vehicle constitutes a special hazard to other moving vehicles"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-80 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-520 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-80
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-520
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hazard warning signal
+    usage_info: on vehicle
+  language_code: eng
+  annotations: []
+termid: 17-31-077
+id: 47cd4e70-4596-5eab-a0a3-39d9d567a7d8

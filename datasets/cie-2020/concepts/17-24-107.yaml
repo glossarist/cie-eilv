@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-24-107
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-107
+  type: authoritative
+status: valid
+id: 7c7ae23d-e25e-568a-a3f5-94b8eff6db90
+---
+data:
+  definition:
+  - content: material that has a thin continuous layer of small {17-24-106, retroreflective
+      element}s on or very near to its exposed surface
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1106 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflective material
+  language_code: eng
+  annotations: []
+termid: 17-24-107
+id: bd3b5dd5-c4c9-5bd3-ba28-be4348f9eda4

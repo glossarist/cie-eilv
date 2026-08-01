@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-21-097
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-097
+  type: authoritative
+status: valid
+id: c4191e55-f233-5f2e-a4e1-18cea4aa1bc5
+---
+data:
+  definition:
+  - content: |-
+      quantity that correlates with the more or less luminous aspect of a star and that is defined by the formula
+      <i>m</i> = <i>m</i><sub>o</sub> − 2,5 log<sub>10</sub> (<i>E</i><sub>pb</sub>/<i>E</i><sub>o</sub>)
+      where <i>E</i><sub>pb</sub> is the {17-21-096, point brilliance} of the star considered, <i>m</i><sub>o</sub> and <i>E</i><sub>o</sub> are constants based on the magnitudes ascribed to certain standard stars
+    type: intensional
+  examples: []
+  notes:
+  - content: In addition to the (visual) apparent magnitude defined here, other apparent
+      magnitudes (photographic, bolometric, etc.) are defined by the same formula,
+      but where <i>E</i><sub>pb</sub> and <i>E</i><sub>o</sub> are the responses of
+      a {17-25-035, detector} having a specified {17-25-063, spectral responsivity}.
+    type: intensional
+  - content: The apparent magnitude has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-60 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-50 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-60
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-50
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: apparent magnitude
+    usage_info: of an astronomical object
+  - type: symbol
+    normative_status: preferred
+    designation: m
+  language_code: eng
+  annotations: []
+termid: 17-21-097
+id: 95d47207-0ce7-5c1b-b9f1-b5bed83246ff

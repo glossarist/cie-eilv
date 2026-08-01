@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-26-013
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-013
+  type: authoritative
+status: valid
+id: 93bb5b88-ed3c-59f8-a1bd-38aab676f601
+---
+data:
+  definition:
+  - content: direct ({17-26-012, photochemical carcinogenesis}) or indirect enhancement
+      of UV-associated skin carcinogenesis (e.g. sunlight-associated carcinogenesis)
+      by a drug or chemical
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-887 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-887
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocarcinogenicity
+  language_code: eng
+  annotations: []
+termid: 17-26-013
+id: f840abc8-6c53-555c-8a42-551068470b93

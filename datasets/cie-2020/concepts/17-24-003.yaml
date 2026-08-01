@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-24-003
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-003
+  type: authoritative
+status: valid
+id: 3e324346-81e8-59e4-af17-f752b58ae543
+---
+data:
+  definition:
+  - content: source emitting {17-24-002, thermal radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-03 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1306 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-03
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1306
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal radiator
+  language_code: eng
+  annotations: []
+termid: 17-24-003
+id: 4a815cf1-c1c9-5e11-bc73-ffd7463e5e21

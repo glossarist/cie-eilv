@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-30-056
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-056
+  type: authoritative
+status: valid
+id: 040cd596-3ead-5314-a567-d56ab4a5f22f
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} designed to incorporate at least one {17-27-053,
+      LED light source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-27-053, LED light source}(s) can be an integral part of an LED
+      luminaire.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LED luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-056
+id: '052408ed-144f-5c38-a1ad-2c3a5532a0ac'

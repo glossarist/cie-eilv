@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-32-045
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-045
+  type: authoritative
+status: valid
+id: 6f48f0f5-e5ee-54d1-a15d-4aff2b22d322
+---
+data:
+  definition:
+  - content: self-sustaining image on a solid substrate
+  notes:
+  - content: This entry was numbered 17-517 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-517
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardcopy
+  language_code: eng
+  annotations: []
+termid: 17-32-045
+id: 9c517826-29f5-554f-bb09-63e59b4baf39

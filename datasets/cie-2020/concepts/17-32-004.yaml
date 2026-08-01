@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-32-004
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-004
+  type: authoritative
+status: valid
+id: ef2d01c3-66ec-5095-b362-dc4d5d493048
+---
+data:
+  definition:
+  - content: single variable, monotonic mathematical function applied individually
+      to one or more colour channels
+    type: intensional
+  examples: []
+  notes:
+  - content: Colour component transfer functions are frequently used to account for
+      the non-linear response of a reference device and/or to improve the visual uniformity
+      of a {17-23-041, colour space}.
+    type: intensional
+  - content: Generally, colour component transfer functions will be non-linear functions
+      such as a power-law (i.e. "gamma") function or a logarithmic function. However,
+      in some cases a linear colour component transfer function can be used.
+    type: intensional
+  - content: For more information on "colour channels" see Note 2 to entry to "{17-32-018,
+      colour space encoding}".
+    type: intensional
+  - content: This entry was numbered 17-203 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-203
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour component transfer function
+  language_code: eng
+  annotations: []
+termid: 17-32-004
+id: 4ee186e6-131e-5813-946e-9671480e14f5

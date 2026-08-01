@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-29-091
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-091
+  type: authoritative
+status: valid
+id: 0d76001a-e418-5677-9833-254a803d8fe4
+---
+data:
+  definition:
+  - content: quotient of the flux, <i>Φ</i><sub>i</sub>, indirectly reaching a surface
+      in a cavity, and the primary flux, <i>Φ</i><sub>o </sub>, directly received
+      by another surface, the flux <i>Φ</i><sub>i</sub> resulting from the interreflection
+      undergone by the flux <i>Φ</i><sub>o</sub>
+  notes:
+  - content: The interreflection ratio has unit one.
+  - content: This entry was numbered 845-09-75 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-600 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-75
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-600
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interreflection ratio
+  language_code: eng
+  annotations: []
+termid: 17-29-091
+id: 69cac76b-5d92-5a59-8cfd-16d4f0d25ff6

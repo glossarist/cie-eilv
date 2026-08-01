@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-054
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-054
+  type: authoritative
+status: valid
+id: 4fa222ec-1f5d-5d59-acc9-6fb3466b73fd
+---
+data:
+  definition:
+  - content: lamp {17-28-048, control gear} that forms a non-replaceable part of a
+      {17-30-001, luminaire} and which cannot be tested separately from the {17-30-001,
+      luminaire}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: integral lamp control gear
+  language_code: eng
+  annotations: []
+termid: 17-28-054
+id: 47a3b158-2f6c-596c-9551-d1f18e921fe4

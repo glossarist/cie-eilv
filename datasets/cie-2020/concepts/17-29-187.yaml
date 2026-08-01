@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-187
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-187
+  type: authoritative
+status: valid
+id: 6bfe1521-331f-57f0-aa40-357eec1a2bb0
+---
+data:
+  definition:
+  - content: vertical distance between the centre of the {17-30-001, luminaire} and
+      the ground
+    type: intensional
+  examples: []
+  notes:
+  - content: The mounting height is expressed in metres (m).
+    type: intensional
+  - content: This entry was numbered 17-793 (2.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-793 (2.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mounting height
+    usage_info: exterior lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-187
+id: 2b8c0633-5ea6-55d5-9d68-c8e9aeb42326

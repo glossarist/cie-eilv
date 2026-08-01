@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-111
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-111
+  type: authoritative
+status: valid
+id: c2a820f5-c331-5191-8b00-9381c44dea2c
+---
+data:
+  definition:
+  - content: "{17-27-110, ambient temperature} related to the performance of a {17-27-001,
+      light source} or a {17-30-001, luminaire} with a {17-27-001, light source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: Ambient performance temperature is expressed in degree Celsius (°C).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient performance temperature
+  language_code: eng
+  annotations: []
+termid: 17-27-111
+id: a05c7588-c61d-511b-b113-49691c16d2c5

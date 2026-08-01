@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-143
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-143
+  type: authoritative
+status: valid
+id: 34685ce6-09e6-5bea-afc8-797fb4587f1b
+---
+data:
+  definition:
+  - content: quotient of minimum {17-21-060, illuminance} and maximum {17-21-060,
+      illuminance} on a surface, or of minimum {17-21-050, luminance} and maximum
+      {17-21-050, luminance} of a surface
+    type: intensional
+  examples: []
+  notes:
+  - content: Diversity has unit one.
+    type: intensional
+  - content: This entry was numbered 17-343 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-343
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diversity
+  - type: symbol
+    normative_status: preferred
+    designation: Ud
+  language_code: eng
+  annotations: []
+termid: 17-31-143
+id: 74764692-aec2-554a-bf37-6ea7ea02acca

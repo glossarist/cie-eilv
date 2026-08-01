@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-24-085
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-085
+  type: authoritative
+status: valid
+id: 6c0df16c-5aa0-5093-9956-4c6be00a5ccd
+---
+data:
+  definition:
+  - content: relative decrease in {17-21-038, radiant flux} caused by {17-24-081,
+      absorption}, expressed by the relative density of the spectral radiant flux,
+      <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>), with respect to propagation
+      length, <i>l</i>, of a collimated beam at a point in an absorbing medium
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral linear absorption coefficient is expressed in metre to the
+      power minus one (m<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-04-78 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1219 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-78
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1219
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral linear absorption coefficient
+  - type: symbol
+    normative_status: preferred
+    designation: a(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-085
+id: 3c530f8a-11a7-5dee-8eb3-f84ff3b08dd3

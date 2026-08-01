@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24-122
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-122
+  type: authoritative
+status: valid
+id: 3259072b-04ad-53b7-9555-dfb37f76b6a3
+---
+data:
+  definition:
+  - content: exhibiting reflective or transmissive characteristics that are constant
+      over the {17-21-025, wavelength} range of interest
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1233 and 17-1234 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1233 and 17-1234
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectrally neutral
+  - type: symbol
+    normative_status: preferred
+    designation: spectrally non-selective
+  language_code: eng
+  annotations: []
+termid: 17-24-122
+id: 8412f518-7c5e-50e2-8a6d-aaa5e44e1449

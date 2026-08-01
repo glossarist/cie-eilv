@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-31-088
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-088
+  type: authoritative
+status: valid
+id: 6eda2c3d-32d2-5b6d-bbb1-46d80aebd9e2
+---
+data:
+  definition:
+  - content: average of the {17-21-050, luminance}s contained in a conical part of
+      the {17-22-081, field of vision}, subtending an angle of 20° at the eye of the
+      approaching driver and centred on a point at a height of one quarter of the
+      height of the tunnel mouth
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-9 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: access zone luminance
+  language_code: eng
+  annotations: []
+termid: 17-31-088
+id: 0ff397ab-8ace-59ae-93dd-40c5fec8f07f

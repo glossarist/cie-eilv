@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-004
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-004
+  type: authoritative
+status: valid
+id: 20f1e6fe-94b3-57fa-855c-aa7b4e3d008d
+---
+data:
+  definition:
+  - content: device designed to emit a {17-31-148, light signal}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1185 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1185
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signal light
+  language_code: eng
+  annotations: []
+termid: 17-31-004
+id: 285bc522-2078-5f33-9e76-cecc60e8db23

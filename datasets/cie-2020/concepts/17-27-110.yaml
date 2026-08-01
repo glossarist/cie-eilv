@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-110
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-110
+  type: authoritative
+status: valid
+id: 26ccd1d1-7dc4-5b87-99bd-b94538b63421
+---
+data:
+  definition:
+  - content: temperature of air or another medium in the vicinity of the device under
+      test
+  notes:
+  - content: Ambient temperature is expressed in degree Celsius (°C).
+  - content: During the measurement of the ambient temperature, the measuring instrument/probe
+      should be shielded from draughts and radiant heating.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient temperature
+  - type: symbol
+    normative_status: preferred
+    designation: ta
+  language_code: eng
+  annotations: []
+termid: 17-27-110
+id: 309af5df-5ec4-5045-9fdb-7cda7a972f08

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-23-011
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-011
+  type: authoritative
+status: valid
+id: b1169f76-0583-5c0b-aaec-feaa47e351ad
+---
+data:
+  definition:
+  - content: stimulus consisting of {17-21-014, monochromatic radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-789 and 17-1230 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-789 and 17-1230
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromatic stimulus
+  - type: symbol
+    normative_status: preferred
+    designation: spectral stimulus
+  language_code: eng
+  annotations: []
+termid: 17-23-011
+id: 8aca4053-80bb-54c2-a348-4b118186336d

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-23-060
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-060
+  type: authoritative
+status: valid
+id: 0cf08e28-07b1-59df-8cac-1ad3f0f1502f
+---
+data:
+  definition:
+  - content: locus of points in a {17-23-054, chromaticity diagram} that represents
+      the chromaticities of phases of {17-29-105, daylight} given by the CIE formulae
+      for {17-23-020, daylight illuminant}s (D illuminants) with different {17-23-068,
+      correlated colour temperature}s
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-42 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-283 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-42
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-283
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight locus
+  language_code: eng
+  annotations: []
+termid: 17-23-060
+id: b7cadcde-ab9f-5900-9813-80fa5601cebb

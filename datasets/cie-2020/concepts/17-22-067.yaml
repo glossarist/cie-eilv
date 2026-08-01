@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-22-067
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-067
+  type: authoritative
+status: valid
+id: a77170ee-0b15-5b07-b604-5c6e0263066b
+---
+data:
+  definition:
+  - content: attribute of a {17-22-082, visual perception} according to which an area
+      appears to be similar to one of the {17-22-040, colour}s red, yellow, green,
+      and blue, or to a combination of adjacent pairs of these {17-22-040, colour}s
+      considered in a closed ring
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-542 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-542
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hue
+  language_code: eng
+  annotations: []
+termid: 17-22-067
+id: f58e232f-6b79-5530-8618-d67528c8b9e1

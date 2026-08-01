@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-004
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-004
+  type: authoritative
+status: valid
+id: 90997440-5f6e-547e-9f7d-d7a9df5aacc9
+---
+data:
+  definition:
+  - content: referring to {17-26-002, actinism}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-13 (2.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-13 (2.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinic
+    usage_info: applied to concepts other than radiation or to devices
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-26-004
+id: 0b57a220-8eef-51bf-9c68-aae2261772a2

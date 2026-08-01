@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-24-009
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-009
+  type: authoritative
+status: valid
+id: db422997-df51-5a89-84c7-f37c81914002
+---
+data:
+  definition:
+  - content: quotient of the {17-21-080, radiant exitance} of a radiator, <i>M</i><sub>e</sub>,
+      and the {17-21-080, radiant exitance} of a {17-24-004, Planckian radiator} at
+      the same temperature, <i>M</i><sub>b</sub>
+    type: intensional
+  examples: []
+  notes:
+  - content: The emissivity has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-382 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-382
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emissivity
+  - type: symbol
+    normative_status: preferred
+    designation: hemispherical emissivity
+  language_code: eng
+  annotations: []
+termid: 17-24-009
+id: ca51f633-edf7-5447-9c28-ddf580b5f086

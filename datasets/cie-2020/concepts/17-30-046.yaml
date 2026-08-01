@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-046
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-046
+  type: authoritative
+status: valid
+id: ef0b7f05-9d98-56a1-ba56-f41d2ab18970
+---
+data:
+  definition:
+  - content: lighting device with a {17-29-043, half-peak divergence} exceeding 1,74
+      rad (100°) and with a total divergence not less than 3,14 rad (180°)
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1276 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1276
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: studio floodlight
+  language_code: eng
+  annotations: []
+termid: 17-30-046
+id: c5e8525f-d051-508d-b09d-cdd1e0e6b657

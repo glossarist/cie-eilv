@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-25-071
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-071
+  type: authoritative
+status: valid
+id: ff4a2e98-0f74-5bb5-8807-1f881922639b
+---
+data:
+  definition:
+  - content: "{17-25-069, noise-equivalent input} when the quantity that the {17-25-035,
+      detector} is being used to measure or detect is {17-21-053, irradiance}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The noise-equivalent irradiance is expressed in watt per square metre
+      (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-05-64 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-815 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-64
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-815
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: noise-equivalent irradiance
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: Em
+  language_code: eng
+  annotations: []
+termid: 17-25-071
+id: 1bb7eb0a-bb9a-5e5a-9bfc-86b2cba050f6

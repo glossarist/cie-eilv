@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-057
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-057
+  type: authoritative
+status: valid
+id: 79df6fbd-bcf3-5c59-a69c-426d24f0ee14
+---
+data:
+  definition:
+  - content: "{17-21-039, luminous flux} received by the surface directly from a {17-29-034,
+      lighting installation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The direct flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-316 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-316
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct flux
+    usage_info: on a surface
+  language_code: eng
+  annotations: []
+termid: 17-29-057
+id: dc8170eb-2e0e-5512-b633-7416e1c04989

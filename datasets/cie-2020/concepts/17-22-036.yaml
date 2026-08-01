@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-22-036
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-036
+  type: authoritative
+status: valid
+id: 781aedbe-5ee1-5ca0-976e-f30bdb6b3726
+---
+data:
+  definition:
+  - content: reduction in the {17-22-059, brightness} of a predominantly long-wavelength
+      {17-23-002, colour stimulus} relative to that of a predominantly short-wavelength
+      {17-23-002, colour stimulus}, when the luminances are reduced in the same proportion
+      from photopic to mesopic or scotopic levels, without changing the respective
+      {17-21-030, relative spectral distribution}s of the stimuli involved
+    type: intensional
+  examples: []
+  notes:
+  - content: In passing from {17-22-016, photopic vision} to {17-22-018, mesopic vision}
+      or {17-22-017, scotopic vision}, the spectral luminous efficiencies change,
+      the {17-21-025, wavelength} of maximum efficiency being displaced towards the
+      shorter {17-21-025, wavelength}s.
+    type: intensional
+  - content: This entry was numbered 845-02-14 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1003 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-14
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Purkinje phenomenon
+  language_code: eng
+  annotations: []
+termid: 17-22-036
+id: d7dc5b59-83a8-5a15-bfb5-2c6493aef9e3

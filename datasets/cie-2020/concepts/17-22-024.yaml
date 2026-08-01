@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-22-024
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-024
+  type: authoritative
+status: valid
+id: f1e81482-6ec4-50b3-a54f-e6b9c49139df
+---
+data:
+  definition:
+  - content: denoting {17-22-026, deuteranopia} or {17-22-025, deuteranomaly}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-297 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-297
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deutan
+  language_code: eng
+  annotations: []
+termid: 17-22-024
+id: 1c9cb206-f800-51f0-959f-e55421d5ef83

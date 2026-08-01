@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-24-099
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-099
+  type: authoritative
+status: valid
+id: f8450ec5-3e49-5c82-8488-88d1c5e2bc08
+---
+data:
+  definition:
+  - content: "{17-24-047, reflection} in which the reflected rays are preferentially
+      returned in directions close to the opposite of the direction of the incident
+      rays, this property being maintained over wide variations in the direction of
+      the incident rays"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-92 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1104 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-92
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1104
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflection
+  language_code: eng
+  annotations: []
+termid: 17-24-099
+id: 3a338279-996b-5032-9519-dc839f72ea88

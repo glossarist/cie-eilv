@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-29-045
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-045
+  type: authoritative
+status: valid
+id: 6f38893f-d392-53f8-9687-af0993eee380
+---
+data:
+  definition:
+  - content: difference of the {17-29-044, cumulative flux}es for the {17-21-109,
+      solid angle}s subtended by the upper and lower boundaries of the zone
+    type: intensional
+  examples: []
+  notes:
+  - content: The zonal flux is expressed in lumen (lm).
+    type: intensional
+  - content: This entry was numbered 845-09-32 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1448 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-32
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1448
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zonal flux
+    usage_info: of a light source, for a zone
+  language_code: eng
+  annotations: []
+termid: 17-29-045
+id: c7cd4332-3419-5920-ad34-6fdb10f70e5a

@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-24-067
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-067
+  type: authoritative
+status: valid
+id: 68d05ace-3478-5ce3-aed4-18e65803e415
+---
+data:
+  definition:
+  - content: quotient of the regularly transmitted part of the (whole) transmitted
+      flux and the incident flux
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-24-065, transmittance}, <i>τ</i>, is the sum of regular transmittance,
+      <i>τ</i><sub>r</sub>, and {17-24-069, diffuse transmittance}, <i>τ</i><sub>d</sub>:<sub>
+      </sub><i>τ</i> = <i>τ</i><sub>r</sub> + <i>τ</i><sub>d</sub>."
+    type: intensional
+  - content: The regular transmittance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-61 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1079 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-61
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1079
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular transmittance
+  - type: symbol
+    normative_status: preferred
+    designation: τr
+  language_code: eng
+  annotations: []
+termid: 17-24-067
+id: 9b9c3d24-6a54-5a24-b2a4-d50fc8c2f437

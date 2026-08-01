@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-044
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-044
+  type: authoritative
+status: valid
+id: b9d057a2-ef88-5294-b2a5-580a5dcc02a7
+---
+data:
+  definition:
+  - content: luminescent material, usually liquid or solid, showing {17-24-029, radioluminescence}
+      with a short {17-24-024, afterglow}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-37 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1141 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-37
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1141
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scintillator
+  language_code: eng
+  annotations: []
+termid: 17-24-044
+id: 21b75f8c-f592-5fe3-8452-18e315096944

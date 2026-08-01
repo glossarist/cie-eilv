@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-28-033
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-033
+  type: authoritative
+status: valid
+id: ce21f498-5bd5-591e-a858-fbcd20347b3b
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} for building-in so designed that on its own
+      it fulfils the requirements for double or reinforced insulated parts in class
+      II applications"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enclosed reinforced insulated lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-033
+id: 7cd78d62-d079-5285-9e43-f0120c206ad1

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-23-001
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-001
+  type: authoritative
+status: valid
+id: 2e9bfe48-deb5-5d33-bf52-4a0edd2a5c46
+---
+data:
+  definition:
+  - content: specification of a {17-23-002, colour stimulus} in terms of operationally
+      defined values, such as three {17-23-038, tristimulus values}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-01 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-197 and 17-190 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-01
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-197 and 17-190
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour
+    usage_info: psychophysical
+  - type: symbol
+    normative_status: preferred
+    designation: color, <psychophysical> US
+  language_code: eng
+  annotations: []
+termid: 17-23-001
+id: 56601dda-0c05-5ecf-98da-a7d91b475f6e

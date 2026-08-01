@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-28-048
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-048
+  type: authoritative
+status: valid
+id: 67995dfe-004f-5971-ae19-1885f7da68f6
+---
+data:
+  definition:
+  - content: unit inserted between the <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=151-13-75">power
+      supply</a> and at least one {17-27-001, light source}, which serves to supply
+      the {17-27-001, light source}(s) with its (their) rated voltage or rated current,
+      and which can consist of one or more separate components
+    type: intensional
+  examples: []
+  notes:
+  - content: A control gear can include means for igniting, dimming, correcting the
+      power factor and suppressing radio interference, and further control functions.
+    type: intensional
+  - content: A control gear can consist of a <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=151-13-75">power
+      supply</a> and a control unit.
+    type: intensional
+  - content: A control gear can be partly or totally integrated in the {17-27-001,
+      light source}.
+    type: intensional
+  - content: The terms "control gear" and "controlgear" are interchangeable. In IEC
+      standards, the term "controlgear" is commonly used.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control gear
+    usage_info: for an electric light source
+  - type: symbol
+    normative_status: preferred
+    designation: controlgear, <for an electric light source>
+  language_code: eng
+  annotations: []
+termid: 17-28-048
+id: a104516a-b26c-51cc-99f0-f904782703c5

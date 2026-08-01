@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-016
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-016
+  type: authoritative
+status: valid
+id: 3c37eeac-02c2-5c58-a6a0-f362eec48a20
+---
+data:
+  definition:
+  - content: "{17-25-014, colorimetry} in which the eye is used to make quantitative
+      comparisons between {17-23-002, colour stimulus}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-12 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1406 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1406
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual colorimetry
+  language_code: eng
+  annotations: []
+termid: 17-25-016
+id: 7fc64906-e8ee-5d59-b23b-4bc6e3aa6e19

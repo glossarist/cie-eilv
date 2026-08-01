@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-114
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-114
+  type: authoritative
+status: valid
+id: e2a1bee0-15c1-57c1-b209-a1e2bb2d0244
+---
+data:
+  definition:
+  - content: combined {17-22-112, illuminant colorimetric shift} and {17-22-113, adaptive
+      colorimetric shift}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-66 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1095 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-66
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1095
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resultant colorimetric shift
+  language_code: eng
+  annotations: []
+termid: 17-22-114
+id: ae08bea1-50fa-56de-a67c-aab7c3e823d5

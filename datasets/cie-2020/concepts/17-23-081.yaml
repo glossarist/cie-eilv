@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-23-081
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-081
+  type: authoritative
+status: valid
+id: 7e024203-1f2e-52be-abf6-d07d47f3e77f
+---
+data:
+  definition:
+  - content: "{17-23-002, colour stimulus} that an observer who is adapted to the
+      viewing environment would judge to be perfectly achromatic and to have a {17-24-077,
+      luminance factor} of unity"
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-23-002, colour stimulus} that is considered to be the adapted
+      white can be different at different locations within a scene.
+    type: intensional
+  - content: This entry was numbered 17-21 and 17-1427 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-21 and 17-1427
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adapted white
+  language_code: eng
+  annotations: []
+termid: 17-23-081
+id: d8e2b601-be10-52f1-a8d5-aa947666d08f

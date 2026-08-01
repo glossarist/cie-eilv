@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-111
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-111
+  type: authoritative
+status: valid
+id: 2e6eca33-8e1b-507a-8ecd-47decc35d09f
+---
+data:
+  definition:
+  - content: "{17-31-002, sign} having {17-31-102, element}s that are visible by {17-24-047,
+      reflection} of light from the Sun or other {17-21-032, source}s"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1066 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflective sign
+  language_code: eng
+  annotations: []
+termid: 17-31-111
+id: a3090e88-af3b-5d38-8914-350ed306af67

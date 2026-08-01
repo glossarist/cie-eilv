@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-24-140
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-140
+  type: authoritative
+status: valid
+id: df96bff5-95cd-5a4c-9801-7120cef4fda7
+---
+data:
+  definition:
+  - content: structure visible on a surface and dependent on the size and organization
+      of small constituent parts of a material
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surface texture
+  language_code: eng
+  annotations: []
+termid: 17-24-140
+id: 98cae2d9-51e7-5920-bf60-6e6f33a554eb

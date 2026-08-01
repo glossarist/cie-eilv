@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-32-024
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-024
+  type: authoritative
+status: valid
+id: '094425d9-5947-54a2-8740-bbadad2341f7'
+---
+data:
+  definition:
+  - content: field outside the {17-32-025, image background}, filling the {17-22-081,
+      field of vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-337 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-337
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: display surround
+    usage_info: in image technology
+  language_code: eng
+  annotations: []
+termid: 17-32-024
+id: 27837218-a120-5774-a388-f5c2a9144b1c

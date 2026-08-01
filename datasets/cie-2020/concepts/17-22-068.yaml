@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-22-068
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-068
+  type: authoritative
+status: valid
+id: 2988a41e-73fd-5f9a-bcad-994b997abbda
+---
+data:
+  definition:
+  - content: "{17-22-067, hue} that cannot be further described by the use of {17-22-067,
+      hue} names other than its own"
+    type: intensional
+  examples: []
+  notes:
+  - content: 'There are four unique hues: red, green, yellow and blue forming two
+      pairs of opponent hues: red and green, yellow and blue.'
+    type: intensional
+  - content: A "unique hue" is sometimes referred to as an "elementary hue".
+    type: intensional
+  - content: This entry was numbered 845-02-36 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1373 and 17-1374 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-36
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1373 and 17-1374
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unique hue
+  - type: symbol
+    normative_status: preferred
+    designation: unitary hue
+  language_code: eng
+  annotations: []
+termid: 17-22-068
+id: b3e56afd-a133-51f0-8d6c-8fc8ad8ee761

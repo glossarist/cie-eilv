@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-25-009
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-009
+  type: authoritative
+status: valid
+id: 97476385-2e31-503f-b6e0-77608a3418bd
+---
+data:
+  definition:
+  - content: "{17-25-028, integrating sphere} in combination with a {17-25-007, spectroradiometer},
+      used to measure the total spectral radiant flux emitted by a {17-21-032, source}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sphere-spectroradiometer
+  language_code: eng
+  annotations: []
+termid: 17-25-009
+id: edbda2dd-77e6-5036-954d-45e00a6bb3b9

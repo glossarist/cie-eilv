@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-21-016
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-016
+  type: authoritative
+status: valid
+id: e8dd7bc9-9120-50c0-8c42-d32ca245e07e
+---
+data:
+  definition:
+  - content: "{17-21-014, monochromatic radiation} emitted or absorbed in a transition
+      between two {17-24-019, energy level}s"
+    type: intensional
+  examples: []
+  notes:
+  - content: A spectral line is often observed as a sharp feature in a {17-21-015,
+      spectrum}.
+    type: intensional
+  - content: This entry was numbered 845-01-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1218 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1218
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral line
+  language_code: eng
+  annotations: []
+termid: 17-21-016
+id: 23276e91-7a65-59da-a992-1124b2cdd3d6

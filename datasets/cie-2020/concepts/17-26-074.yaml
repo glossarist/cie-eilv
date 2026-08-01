@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-26-074
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-074
+  type: authoritative
+status: valid
+id: 463f7e9d-e5e0-54aa-8544-abe3eaaefb15
+---
+data:
+  definition:
+  - content: factor describing the protective quality of a sunscreen against solar
+      {17-21-008, ultraviolet radiation}, normally determined by in vivo testing
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The sun protection factor is usually determined by comparing the {17-26-033, dose} of {17-21-008, ultraviolet radiation} from a solar simulator (often a xenon lamp) required to produce just-perceptible {17-26-028, actinic erythema} approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (<i>F</i><sub>MED,f</sub> and <i>F</i><sub>MED,i</sub>, respectively) and is calculated as follows:
+      <i>F</i><sub>SP</sub> = <i>F</i><sub>MED,f</sub> / <i>F</i><sub>MED,i</sub>.
+    type: intensional
+  - content: The sun protection factor can also be determined by equivalent in vitro
+      methods.
+    type: intensional
+  - content: The sun protection factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1278 and 17-1243 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1278 and 17-1243
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sun protection factor
+  - type: symbol
+    normative_status: preferred
+    designation: SPF
+  language_code: eng
+  annotations: []
+termid: 17-26-074
+id: 181c650e-a91c-52ac-ba6a-efff734889ab

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-022
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-022
+  type: authoritative
+status: valid
+id: 88a7dd98-1577-5ac7-832b-e71e7d2f863e
+---
+data:
+  definition:
+  - content: "{17-24-021, luminescence} caused by {17-24-081, absorption} of {17-21-002,
+      optical radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-905 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-905
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoluminescence
+  language_code: eng
+  annotations: []
+termid: 17-24-022
+id: 0cde2146-7761-5a3b-b316-59fed8afbefd

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-29-032
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-032
+  type: authoritative
+status: valid
+id: 87a3a7a0-0b13-5394-b547-c5cd0b669056
+---
+data:
+  definition:
+  - content: form of permanently installed exterior {17-29-001, lighting} that emits
+      light that has an impact on the outdoor environment
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-854 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-854
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: outdoor lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-032
+id: '085a61cc-7a6b-5b86-984c-2f90e8eb7b88'

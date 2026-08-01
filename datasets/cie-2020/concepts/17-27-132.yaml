@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-27-132
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-132
+  type: authoritative
+status: valid
+id: 94be703a-51dc-5986-b53a-68b7607f0753
+---
+data:
+  definition:
+  - content: type of preheating of the electrodes of a {17-27-024, discharge lamp}
+      in which the electrodes are fed by separate circuits
+    type: intensional
+  examples: []
+  notes:
+  - content: Each electrode is usually connected across a low-voltage winding that
+      can be part of the {17-28-044, ballast} and provides the preheating current.
+      In certain circuits, this low voltage is automatically decreased after the arc
+      has struck.
+    type: intensional
+  - content: This entry was numbered 845-07-73 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-861 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-73
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-861
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parallel cathode preheating
+    usage_info: of a discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-132
+id: 879cea79-9ea0-5534-9c30-f36278b4138c

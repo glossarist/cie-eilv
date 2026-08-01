@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-25-032
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-032
+  type: authoritative
+status: valid
+id: 01d13886-55ee-588a-b331-3ee151d73ada
+---
+data:
+  definition:
+  - content: instrument for measuring {17-21-071, radiant exposure}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-28 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1022 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-28
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant exposure meter
+  language_code: eng
+  annotations: []
+termid: 17-25-032
+id: a3e0235e-a4e6-5fba-9e6a-0c87918e8e32

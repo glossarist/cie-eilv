@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-30-017
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-017
+  type: authoritative
+status: valid
+id: aaab0af0-6e41-591f-a68b-9c7582cc2193
+---
+data:
+  definition:
+  - content: flexible cable or cord, for supply or interconnection, intended to be
+      connected to the {17-30-001, luminaire} by means of a suitable appliance connector
+    type: intensional
+  examples: []
+  notes:
+  - content: A detachable cord is considered to be easily replaceable.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detachable cord
+  language_code: eng
+  annotations: []
+termid: 17-30-017
+id: 5a56200e-c7fa-559d-bea3-125cf7db00cc

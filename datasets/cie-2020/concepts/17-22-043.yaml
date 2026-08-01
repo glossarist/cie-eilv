@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-043
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-043
+  type: authoritative
+status: valid
+id: 6e9c37a1-fb30-559b-93c9-ae1751f7259d
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived as belonging to a surface from which the
+      light appears to be diffusely reflected or radiated"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1285 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1285
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surface colour
+  language_code: eng
+  annotations: []
+termid: 17-22-043
+id: 9de177a2-5810-5d66-968c-d5adf3b96683

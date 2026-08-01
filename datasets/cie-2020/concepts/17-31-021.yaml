@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-021
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-021
+  type: authoritative
+status: valid
+id: 3d70c135-76cc-50c7-b8cc-ec3ce60afd9b
+---
+data:
+  definition:
+  - content: greatest distance at which a given object can be recognized in any particular
+      circumstances, as limited only by the {17-31-017, atmospheric transmissivity}
+      and by the {17-31-019, visual contrast threshold}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1414 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1414
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual range
+  language_code: eng
+  annotations: []
+termid: 17-31-021
+id: 4810b7fa-5fd5-50c8-8438-759ff6dd0d79

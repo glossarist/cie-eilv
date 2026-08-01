@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-21-067
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-067
+  type: authoritative
+status: valid
+id: 17280bc1-cd99-5746-8ccf-1ee2e3088f22
+---
+data:
+  definition:
+  - content: time integral of {17-21-049, radiance}, <i>L</i><sub>e</sub>, over a
+      given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding photometric quantity is "{17-21-068, luminance dose}".
+      The corresponding quantity for photons is "{17-21-070, photon radiance dose}".
+    type: intensional
+  - content: The radiance dose is expressed in joule per square metre per steradian
+      (J·m<sup>−2</sup>·sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1014 and 17-1319 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1014 and 17-1319
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance dose
+  - type: symbol
+    normative_status: preferred
+    designation: integrated radiance
+  language_code: eng
+  annotations: []
+termid: 17-21-067
+id: 3048d545-17ab-5fa4-b447-48daba72577a

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-29-097
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-097
+  type: authoritative
+status: valid
+id: 4b5d59a2-4ec5-5991-bc92-310672a83d9d
+---
+data:
+  definition:
+  - content: "{17-21-053, irradiance} produced by the extraterrestrial {17-29-096,
+      solar radiation} on a surface perpendicular to the Sun's rays at mean Sun-Earth
+      distance"
+    type: intensional
+  examples: []
+  notes:
+  - content: The solar constant is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-09-78 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1198 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-78
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1198
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solar constant
+  - type: symbol
+    normative_status: preferred
+    designation: Eeo
+  language_code: eng
+  annotations: []
+termid: 17-29-097
+id: 35a58c46-db69-5d93-a05a-209cf123ed09

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-053
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-053
+  type: authoritative
+status: valid
+id: 0da76eca-4864-5fea-9344-054ac0f0df25
+---
+data:
+  definition:
+  - content: "{17-27-004, electric light source} based on {17-27-050, LED} technology"
+    type: intensional
+  examples: []
+  notes:
+  - content: An LED light source can take the form of an {17-27-058, LED module} or
+      an {17-27-054, LED lamp}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LED light source
+  language_code: eng
+  annotations: []
+termid: 17-27-053
+id: 241a126b-ceed-5e94-a01e-5c22ec538e87

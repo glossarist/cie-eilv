@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-099
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-099
+  type: authoritative
+status: valid
+id: de894ff7-18a8-5306-b1b7-2f0a24bc94e2
+---
+data:
+  definition:
+  - content: part of a {17-31-002, sign} immediately behind a {17-31-132, symbol}
+      or word, or on which a {17-31-132, symbol} or word is superimposed
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-67 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-67
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: background
+    usage_info: of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-099
+id: 417ef66c-31cc-5de4-ad3b-c556a24cf5c3

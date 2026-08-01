@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-057
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-057
+  type: authoritative
+status: valid
+id: acfa5dc2-811d-5332-9194-09029b40fdca
+---
+data:
+  definition:
+  - content: 'eleven colour names found in anthropological surveys to be in wide use
+      in fully developed languages: white, black, red, green, yellow, blue, brown,
+      grey, orange, purple, pink'
+  notes:
+  - content: This entry was numbered 17-77 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-77
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic colour names
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-22-057
+id: ad2ff47b-2837-597e-b4e5-15cbb95d4301

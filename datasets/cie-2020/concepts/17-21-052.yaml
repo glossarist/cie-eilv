@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-052
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-052
+  type: authoritative
+status: valid
+id: 8dd03764-a3ba-50b9-a685-27fb7f44c9a6
+---
+data:
+  definition:
+  - content: density of {17-21-049, radiance}, <i>L</i><sub>e</sub>(<i>λ</i>), with
+      respect to {17-21-025, wavelength}, <i>λ</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral radiance is expressed in watt per square metre per nanometre
+      per steradian (W⋅m<sup>−2</sup>·nm<sup>−1</sup>·sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1228 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1228
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral radiance
+  - type: symbol
+    normative_status: preferred
+    designation: Le,λ, Lλ
+  language_code: eng
+  annotations: []
+termid: 17-21-052
+id: 8637cefa-5336-5c42-bda6-f487c268cd38

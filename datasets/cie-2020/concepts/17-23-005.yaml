@@ -1,0 +1,74 @@
+---
+data:
+  identifier: 17-23-005
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-005
+  type: authoritative
+status: valid
+id: d592bfa9-3c22-5b80-9583-37c8781368d5
+---
+data:
+  definition:
+  - content: "{17-22-042, object colour} stimuli that correspond to objects whose
+      {17-24-077, luminance factor}s have maximum possible values for each {17-23-052,
+      chromaticity} when their spectral {17-24-077, luminance factor}s do not exceed
+      unity for any {17-21-025, wavelength}"
+    type: intensional
+  examples: []
+  notes:
+  - content: Optimal colour stimuli correspond, in general, to objects whose spectral
+      {17-24-077, luminance factor}s have values of either unity or zero, with not
+      more than two transitions between them.
+    type: intensional
+  - content: The {17-24-077, luminance factor}s and {17-23-053, chromaticity coordinates}
+      of optimal colour stimuli define the boundaries of a {17-23-043, colour solid}
+      corresponding to non-fluorescent objects.
+    type: intensional
+  - content: For a given {17-24-077, luminance factor}, optimal colour stimuli define
+      the maximum {17-23-064, purity} possible for non-fluorescent objects.
+    type: intensional
+  - content: See also "{17-22-042, object colour}", "{17-23-002, colour stimulus}".
+    type: intensional
+  - content: This entry was numbered 845-03-40 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-851 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-40
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-851
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optimal colour stimuli
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-005
+id: 8517e17a-bb54-538a-a4aa-66e749607862

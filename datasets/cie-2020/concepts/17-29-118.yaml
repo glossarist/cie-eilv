@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-118
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-118
+  type: authoritative
+status: valid
+id: a3c302ef-550c-522d-b12a-38dfb8cfaad4
+---
+data:
+  definition:
+  - content: duration within a given <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> during which the Sun is above an even, unobscured horizon
+  notes:
+  - content: This entry was numbered 845-09-94 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-58 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-94
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-58
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: astronomical sunshine duration
+  language_code: eng
+  annotations: []
+termid: 17-29-118
+id: f0dbcdc8-9ed6-59d4-901c-ec6877ce1c05

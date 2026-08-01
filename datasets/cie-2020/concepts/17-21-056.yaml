@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-056
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-056
+  type: authoritative
+status: valid
+id: 8be9a039-071a-5dcb-bc28-a002e0db170f
+---
+data:
+  definition:
+  - content: density of {17-21-053, irradiance}, <i>E</i><sub>e</sub>(<i>λ</i>), with
+      respect to {17-21-025, wavelength}, <i>λ</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral irradiance is expressed in watt per square metre per nanometre
+      (W⋅m<sup>−2</sup>·nm<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1217 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1217
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,λ; Eλ
+  language_code: eng
+  annotations: []
+termid: 17-21-056
+id: 2dc18192-f0d2-5209-be30-efc95249c686

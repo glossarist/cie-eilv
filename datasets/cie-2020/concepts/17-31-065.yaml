@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-31-065
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-065
+  type: authoritative
+status: valid
+id: 13bbf7ad-479d-52d7-aac0-b3a1d63b80f7
+---
+data:
+  definition:
+  - content: "{17-30-030, projector} carried on a vehicle for illuminating the way
+      or scene in front of the vehicle"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-69 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-521 and 17-522 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-69
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-521 and 17-522
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headlight
+  - type: symbol
+    normative_status: preferred
+    designation: headlamp
+  language_code: eng
+  annotations: []
+termid: 17-31-065
+id: 6c2802eb-7004-5e00-b812-7377a5c96ed9

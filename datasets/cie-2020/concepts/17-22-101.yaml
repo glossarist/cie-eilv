@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-101
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-101
+  type: authoritative
+status: valid
+id: a260ee06-bffa-5f56-b417-ea4010726f8b
+---
+data:
+  definition:
+  - content: "{17-24-052, regular reflection} that appears on the object viewed and
+      that partially or wholly obscures the details by reducing {17-22-089, contrast}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1396 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1396
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: veiling reflection
+  language_code: eng
+  annotations: []
+termid: 17-22-101
+id: a2ac87cc-1278-57fc-b74b-9572f2986b25

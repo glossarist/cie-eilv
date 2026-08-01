@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-24-139
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-139
+  type: authoritative
+status: valid
+id: 48f1bfda-aec9-53fc-8c18-a1945247a8dc
+---
+data:
+  definition:
+  - content: structure visible through a clear smooth surface and dependent on the
+      size and organization of small constituent parts of a material
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sub-surface texture
+  language_code: eng
+  annotations: []
+termid: 17-24-139
+id: 51e4e2c0-d147-54e0-a0c5-4dea460e8141

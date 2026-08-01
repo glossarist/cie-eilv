@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-069
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-069
+  type: authoritative
+status: valid
+id: 588bac36-c96b-5c0f-8805-9f748c73f7a2
+---
+data:
+  definition:
+  - content: "{17-30-060, mine luminaire}, portable or otherwise, providing {17-29-001,
+      lighting} in working face areas"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-58 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-426 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-58
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-426
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: face luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-069
+id: 567b083e-1c5e-59b1-947e-b9016d9f4313

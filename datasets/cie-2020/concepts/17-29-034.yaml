@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-034
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-034
+  type: authoritative
+status: valid
+id: 69f0e03c-20d5-588e-822d-a363dc091496
+---
+data:
+  definition:
+  - content: that part of a {17-27-010, lighting system} that comprises the {17-30-001,
+      luminaire}s and their supporting structures, installed at the location or property
+      concerned
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-677 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-677
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting installation
+  language_code: eng
+  annotations: []
+termid: 17-29-034
+id: e0a0d98f-2360-57c2-85fc-e28088168f29

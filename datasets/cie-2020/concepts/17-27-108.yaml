@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-108
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-108
+  type: authoritative
+status: valid
+id: 110e9932-cde6-5056-bc9b-dd71404d8fdf
+---
+data:
+  definition:
+  - content: preconditioning period of the {17-27-001, light source} before {17-27-107,
+      initial value}s are taken
+    type: intensional
+  examples: []
+  notes:
+  - content: A {17-30-001, luminaire} integrated with a {17-27-001, light source},
+      such as an integrated {17-30-056, LED luminaire}, is also applied.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ageing
+    usage_info: of a light source
+  language_code: eng
+  annotations: []
+termid: 17-27-108
+id: 10a7ec75-26a0-5ef5-92f8-cd9d1b6cf1ee

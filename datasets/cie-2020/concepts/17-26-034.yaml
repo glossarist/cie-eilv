@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-26-034
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-034
+  type: authoritative
+status: valid
+id: e52688fe-d6c6-55ec-9381-07580602573a
+---
+data:
+  definition:
+  - content: "{17-26-033, dose} which produces the effect considered"
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the effect considered, and that its maximum value is
+      1.
+    type: intensional
+  - content: It is essential to specify which {17-26-027, action spectrum} is used,
+      as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: The effective dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-06-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-359 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-359
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effective dose
+  - type: symbol
+    normative_status: preferred
+    designation: Heff
+  language_code: eng
+  annotations: []
+termid: 17-26-034
+id: 57fa8be1-e86d-59df-830c-6f64da20db03

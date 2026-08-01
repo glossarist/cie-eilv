@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-32-008
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-008
+  type: authoritative
+status: valid
+id: 541cb383-54ab-59b9-9497-a77bb641796d
+---
+data:
+  definition:
+  - content: outer surface of a {17-32-007, colour gamut}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-212 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-212
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour gamut boundary
+  language_code: eng
+  annotations: []
+termid: 17-32-008
+id: 7ef8f655-189c-55f6-8f9a-5cf9e012cb36

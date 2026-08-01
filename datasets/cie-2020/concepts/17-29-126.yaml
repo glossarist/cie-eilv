@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-126
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-126
+  type: authoritative
+status: valid
+id: fde9e2e9-1551-52c5-a40a-7265224811be
+---
+data:
+  definition:
+  - content: quotient of the {17-21-060, illuminance} on a horizontal plane at a given
+      point inside a building due to the light received directly from the sky and
+      the {17-21-060, illuminance} due to an unobstructed hemisphere of sky of uniform
+      {17-21-050, luminance} equal to that of the visible sky
+    type: intensional
+  examples: []
+  notes:
+  - content: The sky factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1190 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1190
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sky factor
+  language_code: eng
+  annotations: []
+termid: 17-29-126
+id: 521a77b2-30a6-5d08-b1ee-f4dcae2e8afe

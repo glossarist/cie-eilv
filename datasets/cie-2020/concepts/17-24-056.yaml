@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-056
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-056
+  type: authoritative
+status: valid
+id: 2d35be95-f4ff-548b-81a6-b3003380850a
+---
+data:
+  definition:
+  - content: partly {17-24-052, regular reflection} and partly {17-24-054, diffuse
+      reflection}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-49 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-784 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-784
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mixed reflection
+  language_code: eng
+  annotations: []
+termid: 17-24-056
+id: bd1e4dd4-bb2b-5a8b-96b5-4b6a0ee67431

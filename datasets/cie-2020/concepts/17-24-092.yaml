@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-24-092
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-092
+  type: authoritative
+status: valid
+id: fa3ab610-f997-5459-bf90-e131765dcc6c
+---
+data:
+  definition:
+  - content: |-
+      quotient of the natural (Napierian) logarithm of the reciprocal of the {17-24-088, spectral internal transmittance}, <i>τ</i><sub>i </sub>(<i>λ</i>), of a layer of the medium and the length, <i>l</i>, of the path of a beam of radiation traversing that layer
+
+      where <i>A</i><sub>n</sub>(<i>λ</i>) is {17-24-091, Napierian spectral absorbance}.
+    type: intensional
+  examples: []
+  notes:
+  - content: The Napierian spectral absorption coefficient is expressed in metre to
+      the power minus one (m<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-04-85 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-799 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-85
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-799
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Napierian spectral absorption coefficient
+    usage_info: of a homogeneous non-diffusing layer
+  - type: symbol
+    normative_status: preferred
+    designation: an(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-092
+id: 8a5bc385-6ae6-503a-854c-0e0a3aea51dc

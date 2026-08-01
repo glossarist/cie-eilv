@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-31-147
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-147
+  type: authoritative
+status: valid
+id: e1f65b4c-c3ba-5968-9686-23f4193c239c
+---
+data:
+  definition:
+  - content: greatest distance at which a black object of suitable dimensions can
+      be recognized by day against the horizon sky
+  notes:
+  - content: This entry was numbered 17-773 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-773
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: meteorological visibility
+  language_code: eng
+  annotations: []
+termid: 17-31-147
+id: 0fdfa3bb-a269-5cd9-8646-faca9f5d9541

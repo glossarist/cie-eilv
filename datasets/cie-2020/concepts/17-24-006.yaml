@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-24-006
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-006
+  type: authoritative
+status: valid
+id: a8a43464-d0a7-5182-8145-d8cd1a23279e
+---
+data:
+  definition:
+  - content: |-
+      approximate form of {17-24-005, Planck's law}, valid with an approximation better than one part in 1 000 when the product <i>λT</i> is smaller than 0,002 m·K
+
+      where <i>L</i><sub>e,</sub><i><sub>λ</sub></i> is {17-21-052, spectral radiance}, <i>λ</i> is the {17-21-025, wavelength} in vacuum, <i>T</i> is thermodynamic temperature, , <i>c</i><sub>2</sub> = <i>h</i> <i>c</i><sub>0</sub> / <i>k</i>, <i>h</i> is the {17-21-108, Planck constant}, <i>c</i><sub>0 </sub>is the speed of light in vacuum, and <i>k</i> is the Boltzmann constant
+    type: intensional
+  examples: []
+  notes:
+  - content: The formula is sometimes written with instead of , where <i>Ω</i><sub>0</sub>
+      is the {17-21-109, solid angle} of magnitude 1 sr.
+    type: intensional
+  - content: |-
+      For a {17-25-035, detector} in a medium of {17-24-109, refractive index} <i>n</i>, the measured {17-21-049, radiance} is:
+      <i>n</i><sup>-2</sup><i>L</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>, <i>T</i>).
+    type: intensional
+  - content: Wien's law can also be expressed to give the approximate {17-21-029,
+      spectral distribution} of {17-21-080, radiant exitance}, <i>M</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>,
+      <i>T</i>); the first factor in the formula is then <i>c</i><sub>1</sub> instead
+      of .
+    type: intensional
+  - content: The quantities {17-21-049, radiance}, as referred to in Note 2, and {17-21-080,
+      radiant exitance}, as referred to in Note 3, apply to the {17-21-021, unpolarized
+      radiation} as emitted.
+    type: intensional
+  - content: This entry was numbered 845-04-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1435 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-06
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1435
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wien's law
+    usage_info: of radiation
+  language_code: eng
+  annotations: []
+termid: 17-24-006
+id: cf335011-1afa-5252-9998-f10d51142350

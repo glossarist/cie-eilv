@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-24-059
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-059
+  type: authoritative
+status: valid
+id: 758791b6-5f79-587d-a591-57c5f5fb2b31
+---
+data:
+  definition:
+  - content: "{17-24-055, diffuse transmission} in which the spatial distribution
+      of the transmitted radiation is such that the {17-21-049, radiance} or {17-21-050,
+      luminance} is the same in all directions in the hemisphere into which the radiation
+      is transmitted"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-52 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-626 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-52
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-626
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isotropic diffuse transmission
+  language_code: eng
+  annotations: []
+termid: 17-24-059
+id: ee95f5f0-c181-59ed-ab00-b3593c69151b

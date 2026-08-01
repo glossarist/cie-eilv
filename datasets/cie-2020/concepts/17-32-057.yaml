@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-32-057
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-057
+  type: authoritative
+status: valid
+id: 46741535-aefa-59be-8739-1f219e5e5e63
+---
+data:
+  definition:
+  - content: image capture with more than three channels or bands of {17-21-025, wavelength}s
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-795 and 17-796 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-795 and 17-796
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: multispectral image capture
+  - type: symbol
+    normative_status: preferred
+    designation: multispectral imaging
+  language_code: eng
+  annotations: []
+termid: 17-32-057
+id: 5ab9a1cc-3cfc-563d-bdab-46eb1da447e8

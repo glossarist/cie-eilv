@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-25-047
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-047
+  type: authoritative
+status: valid
+id: d73232fa-2292-500b-8ef1-934fc4805873
+---
+data:
+  definition:
+  - content: "{17-25-035, detector} of {17-21-002, optical radiation} whose quantum
+      efficiency is independent of {17-21-025, wavelength} over the spectral range
+      considered"
+    type: intensional
+  examples: []
+  notes:
+  - content: Quantum efficiency can refer to {17-25-074, external quantum efficiency}
+      or {17-25-076, internal quantum efficiency}. If not explicitly stated, {17-25-074,
+      external quantum efficiency} is assumed.
+    type: intensional
+  - content: See also "{17-25-109, quantum counter}".
+    type: intensional
+  - content: This entry was numbered 845-05-42 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-822 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-42
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-822
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective quantum detector
+  - type: symbol
+    normative_status: preferred
+    designation: quantum detector
+  language_code: eng
+  annotations: []
+termid: 17-25-047
+id: 9706b53c-f1be-5098-92d5-26b4ef8e32f0

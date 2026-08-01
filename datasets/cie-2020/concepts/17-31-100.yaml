@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-100
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-100
+  type: authoritative
+status: valid
+id: dbc07f74-8d5a-50a0-9022-8e71a98467ea
+---
+data:
+  definition:
+  - content: |-
+      surround or extension to a {17-31-002, sign} used
+      - to improve {17-31-121, conspicuity of a sign} by increasing its size and isolating it from its {17-31-099, background};
+      - to improve {17-31-121, conspicuity of a sign} by virtue of the {17-22-040, colour} of the backing board;
+      - to reduce the effects of {17-22-098, glare} when the Sun is low and behind the {17-31-002, sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-69 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-69
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: backing board
+    usage_info: of a sign
+  - type: symbol
+    normative_status: preferred
+    designation: backboard, <of a sign>
+  language_code: eng
+  annotations: []
+termid: 17-31-100
+id: c266eff5-4972-5382-981c-36bd6fcf39b3

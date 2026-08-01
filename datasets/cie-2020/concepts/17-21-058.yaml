@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-21-058
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-058
+  type: authoritative
+status: valid
+id: 98bd80f3-8678-54e5-8f06-f42d962c2457
+---
+data:
+  definition:
+  - content: |-
+      density of incident {17-21-040, photon flux} with respect to area at a point on a real or imaginary surface
+
+      where <i>Φ</i><sub>p</sub> is {17-21-040, photon flux} and <i>A</i> is the area on which the {17-21-040, photon flux} is incident
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding radiometric quantity is "{17-21-053, irradiance}".
+      The corresponding photometric quantity is "{17-21-060, illuminance}".
+    type: intensional
+  - content: The photon irradiance is expressed in second to the power minus one per
+      square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-39 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-929 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-39
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-929
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ep; E
+  language_code: eng
+  annotations: []
+termid: 17-21-058
+id: 35c4c4a9-f755-52b4-9baa-9a963b4125ec

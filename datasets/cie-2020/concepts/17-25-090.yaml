@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-25-090
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-090
+  type: authoritative
+status: valid
+id: 6d76c17b-9c14-5c92-bbef-743ef73c30c2
+---
+data:
+  definition:
+  - content: coordinate system commonly used in the {17-25-013, photometry} of {17-30-001,
+      luminaire}s in which the C-planes are half-planes that rotate round the vertical
+      line through the {17-25-103, photometric centre} of the {17-30-001, luminaire},
+      and the γ-angles are measured up to 180° from the direction of the perpendicular
+      to the rotation axis of the C-planes
+    type: intensional
+  examples: []
+  notes:
+  - content: Other coordinate systems [(A, α) coordinate system and (B, β) coordinate
+      system] exist as well. See CIE 121<i> The Photometry and Goniophotometry of
+      Luminaires</i>.
+    type: intensional
+  - content: This entry was numbered 17-116 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-116
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(C"
+    grammar_info:
+    - participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-25-090
+id: 828e9f72-4d8e-568d-ba89-f4c0729251b6

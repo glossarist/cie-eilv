@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-30-024
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-024
+  type: authoritative
+status: valid
+id: 4c50adf2-aa75-5dd2-8f82-2423c6b62ec3
+---
+data:
+  definition:
+  - content: "{17-27-010, lighting system} comprising {17-27-004, electric light source}s
+      shielded by a panel parallel to the wall at the top of a {17-29-140, window}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1391 and 17-870 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1391 and 17-870
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valance lighting
+  - type: symbol
+    normative_status: preferred
+    designation: pelmet lighting
+  language_code: eng
+  annotations: []
+termid: 17-30-024
+id: 3ab03d00-39e0-5bc2-aec9-226e8bc605da

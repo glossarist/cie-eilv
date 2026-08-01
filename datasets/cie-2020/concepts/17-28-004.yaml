@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-28-004
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-004
+  type: authoritative
+status: valid
+id: b807c75c-3f32-5943-b98c-949a9a95ba9b
+---
+data:
+  definition:
+  - content: "{17-28-002, filament} wound in the form of a helix"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1186 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1186
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single-coil filament
+  language_code: eng
+  annotations: []
+termid: 17-28-004
+id: d661c36e-3757-5561-9bc3-16738c8462e2

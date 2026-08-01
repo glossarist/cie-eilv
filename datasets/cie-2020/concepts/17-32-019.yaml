@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-32-019
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-019
+  type: authoritative
+status: valid
+id: 9bea0d49-8e17-5d71-b66d-2e72ee056aaf
+---
+data:
+  definition:
+  - content: "{17-23-041, colour space} defined by the characteristics of a real or
+      idealized imaging device"
+    type: intensional
+  examples: []
+  notes:
+  - content: Device-dependent colour spaces having a simple functional relationship
+      to CIE colorimetry can also be categorized as {17-23-042, colorimetric colour
+      space}s. For example, additive RGB colour spaces corresponding to real or idealized
+      cathode ray tube (CRT) displays can be treated as {17-23-042, colorimetric colour
+      space}s.
+    type: intensional
+  - content: This entry was numbered 17-228 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-228
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device-dependent colour space
+  language_code: eng
+  annotations: []
+termid: 17-32-019
+id: f3a68cb1-19af-5c8e-8e7c-10708c935864

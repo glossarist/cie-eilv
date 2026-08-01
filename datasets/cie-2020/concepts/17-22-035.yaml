@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-22-035
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-035
+  type: authoritative
+status: valid
+id: f2970e79-32d7-53cb-bce0-6a12edf80a1f
+---
+data:
+  definition:
+  - content: form of trichromatism in which {17-22-040, colour} discrimination is
+      less than normal
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-43 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-43
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anomalous trichromatism
+  language_code: eng
+  annotations: []
+termid: 17-22-035
+id: 3e6b44c5-14bd-5c65-a486-00ff24ee911e

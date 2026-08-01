@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-090
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-090
+  type: authoritative
+status: valid
+id: e69312f8-9de4-5f28-81df-f5a8a2b389ce
+---
+data:
+  definition:
+  - content: general effect of the {17-24-047, reflection}s of radiation between several
+      reflecting surfaces
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-70 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-599 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-70
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-599
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interreflection
+  language_code: eng
+  annotations: []
+termid: 17-29-090
+id: 11be327a-4e17-556c-99bc-c5ba8b2c5910

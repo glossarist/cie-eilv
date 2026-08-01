@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-25-091
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-091
+  type: authoritative
+status: valid
+id: c0d9ab74-ffb5-5b2d-9392-5f3a50223794
+---
+data:
+  definition:
+  - content: curve to express values of {17-21-045, luminous intensity} of a {17-21-032,
+      source} as a function of direction in space, and normally expressed in polar
+      coordinates (i.e. with the origin at the {17-25-103, photometric centre})
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-340 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-340
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distribution curve
+    usage_info: of luminous intensity
+  language_code: eng
+  annotations: []
+termid: 17-25-091
+id: 8214fc5e-fafd-5d27-acea-a134950beed5

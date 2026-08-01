@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-21-007
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-007
+  type: authoritative
+status: valid
+id: 61ef8b9e-d0b9-5dba-a5b5-c7c3cc7edf18
+---
+data:
+  definition:
+  - content: "{17-21-004, infrared radiation} covering the range from 3 μm to 1 mm"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-607 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-607
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IR-C
+  language_code: eng
+  annotations: []
+termid: 17-21-007
+id: 9a5945b4-845a-5ad3-9871-8a7e0f611fc1

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-027
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-027
+  type: authoritative
+status: valid
+id: b3497cdc-cad4-5015-a950-aad8591c4c54
+---
+data:
+  definition:
+  - content: "{17-24-021, luminescence} caused by the action of an electric field
+      in a gas or in a solid material"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-366 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-24
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-366
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electroluminescence
+  language_code: eng
+  annotations: []
+termid: 17-24-027
+id: 5ec6ebed-3853-5c54-ac03-d6904c7e92c6

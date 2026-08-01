@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-21-048
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-048
+  type: authoritative
+status: valid
+id: ae2d221e-6378-5f8b-83a9-c696b22ea661
+---
+data:
+  definition:
+  - content: product of {17-21-047, geometric extent} and the squared {17-24-109,
+      refractive index} of a medium through which the beam propagates
+    type: intensional
+  examples: []
+  notes:
+  - content: The optical extent is invariant and remains constant when the beam is
+      propagating through successive non-diffusing media.
+    type: intensional
+  - content: See also "{17-21-047, geometric extent}".
+    type: intensional
+  - content: The optical extent is expressed in square metre times steradian (m<sup>2</sup>·sr).
+    type: intensional
+  - content: This entry was numbered 17-845 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-845
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical extent
+  - type: symbol
+    normative_status: preferred
+    designation: etendue
+  language_code: eng
+  annotations: []
+termid: 17-21-048
+id: d821962b-ab83-5b5c-9ef9-9f7807739b50

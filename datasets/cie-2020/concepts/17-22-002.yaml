@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-22-002
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-002
+  type: authoritative
+status: valid
+id: 8926f8d9-1f3f-5002-886b-acbdef1f4515
+---
+data:
+  definition:
+  - content: photoreceptors in the {17-22-001, retina} containing light-sensitive
+      pigments capable of initiating the process of {17-22-016, photopic vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-245 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-245
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cones
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-22-002
+id: 26a4d2ac-5225-59c5-92a0-55160fd04300

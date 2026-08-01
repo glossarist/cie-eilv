@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-24-124
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-124
+  type: authoritative
+status: valid
+id: 82166959-75ae-5094-8dbe-6d2f76948558
+---
+data:
+  definition:
+  - content: property of a light-{17-24-049, scattering} material or substance by
+      which light can be seen through that material or substance
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1334 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1334
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: translucency
+    usage_info: physical
+  language_code: eng
+  annotations: []
+termid: 17-24-124
+id: d34e2055-4ad7-5c97-878c-a88efe408342

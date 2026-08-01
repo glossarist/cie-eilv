@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-029
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-029
+  type: authoritative
+status: valid
+id: f60a41d6-4b64-5593-a295-f394d3283c6d
+---
+data:
+  definition:
+  - content: photometer for measuring {17-21-039, luminous flux}, generally using
+      an {17-25-028, integrating sphere}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-590 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-590
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: integrating photometer
+  language_code: eng
+  annotations: []
+termid: 17-25-029
+id: ebbf0fe3-f485-5f18-8e6b-3a0346e4fc8b

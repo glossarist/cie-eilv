@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-23-020
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-020
+  type: authoritative
+status: valid
+id: 6f4de293-bacc-5a4a-9684-2ad310c62ee5
+---
+data:
+  definition:
+  - content: "{17-23-018, illuminant} having the same or nearly the same {17-21-030,
+      relative spectral distribution} of the {17-21-038, radiant flux} as a phase
+      of {17-29-105, daylight}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-281 and 17-275 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-281 and 17-275
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight illuminant
+  - type: symbol
+    normative_status: preferred
+    designation: D illuminant
+  language_code: eng
+  annotations: []
+termid: 17-23-020
+id: 59560275-1369-55eb-bb11-4bf94c362cc6

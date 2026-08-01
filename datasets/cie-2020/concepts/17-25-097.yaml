@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-25-097
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-097
+  type: authoritative
+status: valid
+id: 5fef468a-fdb4-52e3-a113-f847fa5d6d67
+---
+data:
+  definition:
+  - content: "{17-21-099, irradiation} of reflecting materials at 45° to the normal,
+      at one azimuth angle"
+    type: intensional
+  examples: []
+  notes:
+  - content: Forty-five degree directional geometry emphasizes texture and directionality.
+    type: intensional
+  - content: The "x" in the synonym indicates that the azimuthal direction of the
+      incident beam is in the <i>x</i> direction on the {17-25-110, reference plane}.
+    type: intensional
+  - content: This entry was numbered 17-470 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-470
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forty-five degree directional geometry
+  - type: symbol
+    normative_status: preferred
+    designation: 45°x geometry
+  language_code: eng
+  annotations: []
+termid: 17-25-097
+id: 9d851dfa-72e2-5975-8050-0b4b237a3c32

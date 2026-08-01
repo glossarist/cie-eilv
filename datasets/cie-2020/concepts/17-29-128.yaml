@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-128
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-128
+  type: authoritative
+status: valid
+id: fc81e6b7-7dd3-5fdd-9830-1d2b60b5af94
+---
+data:
+  definition:
+  - content: "{17-21-060, illuminance} produced by direct {17-29-103, sunlight} on
+      a horizontal surface on the Earth"
+    type: intensional
+  examples: []
+  notes:
+  - content: The direct solar illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-321 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-321
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct solar illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,s
+  language_code: eng
+  annotations: []
+termid: 17-29-128
+id: 6caec69a-8032-5015-9328-e6567a1e7c15

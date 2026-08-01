@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-24-087
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-087
+  type: authoritative
+status: valid
+id: 0ebd46f6-b0c6-54ab-8db7-5a204b09ce92
+---
+data:
+  definition:
+  - content: integral of the {17-24-083, spectral linear attenuation coefficient},
+      <i>μ</i>(<i>x</i>, <i>λ</i>), of the medium between the points <i>x</i><sub>1</sub>
+      and <i>x</i><sub>2</sub>, as given by the equation
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral optical thickness is used in atmospheric physics and physical
+      oceanography.
+    type: intensional
+  - content: The spectral optical thickness has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-80 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1226 and 17-1225 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-80
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1226 and 17-1225
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral optical thickness
+    usage_info: of a medium
+  - type: symbol
+    normative_status: preferred
+    designation: spectral optical depth, <of a medium>
+  language_code: eng
+  annotations: []
+termid: 17-24-087
+id: 20f6eb19-633e-576e-9241-d017a32e9460

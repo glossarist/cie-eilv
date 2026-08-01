@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-27-006
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-006
+  type: authoritative
+status: valid
+id: 529038bb-5c94-5b85-b690-0e831c12e102
+---
+data:
+  definition:
+  - content: "{17-27-001, light source} designed to be a non-replaceable part of the
+      {17-30-001, luminaire}"
+    type: intensional
+  examples: []
+  notes:
+  - content: An integral light source is always non-replaceable. A non-replaceable
+      light source is not always an integral light source.
+    type: intensional
+  - content: The non-replaceability can be the result of the {17-30-001, luminaire}
+      design.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-replaceable light source
+  language_code: eng
+  annotations: []
+termid: 17-27-006
+id: e583a2fe-1c0b-5ab9-9813-1d1b4908ba4b

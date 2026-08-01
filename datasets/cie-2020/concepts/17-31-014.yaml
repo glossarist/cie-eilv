@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-014
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-014
+  type: authoritative
+status: valid
+id: aee0dcca-08b8-5751-8054-902743f3526b
+---
+data:
+  definition:
+  - content: false {17-31-148, light signal} created by radiation from the Sun striking
+      a {17-31-004, signal light}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-16 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1277 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1277
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sun phantom
+  language_code: eng
+  annotations: []
+termid: 17-31-014
+id: 34f45238-9932-5315-96e3-7336fb4b9239

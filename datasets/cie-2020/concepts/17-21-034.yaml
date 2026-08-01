@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-21-034
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-034
+  type: authoritative
+status: valid
+id: 9c218740-091c-592a-a4da-07042b037966
+---
+data:
+  definition:
+  - content: SI unit of {17-21-109, solid angle}
+    type: intensional
+  examples: []
+  notes:
+  - content: 1 sr is equal to the {17-21-109, solid angle} that, having its vertex
+      at the centre of a sphere, cuts off an area of the surface of the sphere equal
+      to the square of the radius of the sphere.
+    type: intensional
+  - content: This entry was numbered 845-01-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1266 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1266
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: steradian
+  - type: symbol
+    normative_status: preferred
+    designation: sr
+  language_code: eng
+  annotations: []
+termid: 17-21-034
+id: 322df05d-c8e7-5258-9c48-bda484a3a7c3

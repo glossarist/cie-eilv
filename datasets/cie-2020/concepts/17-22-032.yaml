@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-22-032
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-032
+  type: authoritative
+status: valid
+id: fa61d57d-5f7b-593e-9a2d-2cb92aaaff78
+---
+data:
+  definition:
+  - content: denoting {17-22-034, tritanopia} or {17-22-033, tritanomaly}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tritan
+  language_code: eng
+  annotations: []
+termid: 17-22-032
+id: a8e618e9-1d05-5598-a36e-304b99d00de4

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-32-055
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-055
+  type: authoritative
+status: valid
+id: 0b97af51-27a1-5b72-9b9b-4622ffb2681d
+---
+data:
+  definition:
+  - content: quotient of the maximum {17-21-050, luminance} level that appears unclipped
+      and the minimum {17-21-050, luminance} level that can be reproduced with an
+      incremental signal to temporal noise ratio of at least 1
+    type: intensional
+  examples: []
+  notes:
+  - content: As determined according to ISO 15739 <i>Photography - Electronic still-picture
+      imaging - Noise measurements</i>.
+    type: intensional
+  - content: The ISO digital still camera dynamic range has unit one.
+    type: intensional
+  - content: This entry was numbered 17-612 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-612
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO digital still camera dynamic range
+  language_code: eng
+  annotations: []
+termid: 17-32-055
+id: 35d56373-e001-54c9-8d89-1b74b607d366

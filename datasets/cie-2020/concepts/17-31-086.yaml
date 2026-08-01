@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-31-086
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-086
+  type: authoritative
+status: valid
+id: 3c0415cb-ab69-5771-b7b1-ced4fc3c8527
+---
+data:
+  definition:
+  - content: part of a {17-31-081, road tunnel} directly following the {17-31-084,
+      transition zone} that stretches from the end of the {17-31-084, transition zone}
+      to the beginning of the {17-31-087, exit zone}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-594 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-594
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interior zone
+    usage_info: of a road tunnel
+  language_code: eng
+  annotations: []
+termid: 17-31-086
+id: 6874754f-16d2-5cd2-a763-bd6293c85695

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-24-019
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-019
+  type: authoritative
+status: valid
+id: a79de088-28d7-5d58-9224-c230e49ed2e1
+---
+data:
+  definition:
+  - content: discrete quantum state of energy of an atom, a molecule or an ion
+  notes:
+  - content: This entry was numbered 845-04-16 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-385 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-385
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy level
+  language_code: eng
+  annotations: []
+termid: 17-24-019
+id: 2b1d7b20-a63c-541e-828d-f3f6cf11663a

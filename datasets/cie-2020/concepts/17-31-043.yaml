@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-31-043
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-043
+  type: authoritative
+status: valid
+id: 7b455281-5fce-5320-8d95-071100a2e7fb
+---
+data:
+  definition:
+  - content: "{17-31-057, navigation light} positioned generally at the side of a
+      vessel, and designed to show either a fixed green light to the starboard or
+      a fixed red light to the port side of the longitudinal axis of the vessel, but
+      not rearwards"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1176 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1176
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sidelight
+    usage_info: of a vessel
+  language_code: eng
+  annotations: []
+termid: 17-31-043
+id: c5e52262-1436-5521-a519-e7d163584bb5

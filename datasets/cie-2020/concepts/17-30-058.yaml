@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-30-058
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-058
+  type: authoritative
+status: valid
+id: 35136c2a-1356-5c97-b3af-40edd1af5916
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} containing two or more {17-27-008, electric lamp}s,
+      at least one of which is energized from the {17-29-010, emergency lighting}
+      power supply and the other(s) from the normal {17-29-001, lighting} power supply"
+    type: intensional
+  examples: []
+  notes:
+  - content: A combined emergency luminaire is either maintained or non-maintained.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: combined emergency luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-058
+id: 4e1b8789-3698-59fe-ba23-65c92257d190

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-076
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-076
+  type: authoritative
+status: valid
+id: 011d1b66-9445-5ea3-a592-cd5f9fb72a95
+---
+data:
+  definition:
+  - content: time integral of {17-21-059, photon spherical irradiance}, <i>E</i><sub>p,o</sub>,
+      at a given point over a given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The photon spherical exposure is expressed in metre to the power minus
+      two (m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-933 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-933
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon spherical exposure
+  - type: symbol
+    normative_status: preferred
+    designation: photon fluence
+  language_code: eng
+  annotations: []
+termid: 17-21-076
+id: ccfe104f-53a7-59da-8d35-53e1cdae2e95

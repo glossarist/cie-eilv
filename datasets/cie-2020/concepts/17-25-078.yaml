@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-25-078
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-078
+  type: authoritative
+status: valid
+id: a190c5b7-4ebc-5930-b04d-c7d89fba13eb
+---
+data:
+  definition:
+  - content: angle that a light path makes with the normal to the plane of incidence
+  notes:
+  - content: The angle of incidence is expressed in radian (rad) or degree (°).
+  - content: This entry was numbered 17-40 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-40
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: angle of incidence
+  - type: symbol
+    normative_status: preferred
+    designation: incidence angle
+  language_code: eng
+  annotations: []
+termid: 17-25-078
+id: 2cfcecfa-c0d4-5a66-8cbe-8090b8146a5d

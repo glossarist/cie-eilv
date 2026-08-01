@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-22-064
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-064
+  type: authoritative
+status: valid
+id: dbea27c1-e5e3-524d-a19e-2907f9fd0387
+---
+data:
+  definition:
+  - content: pertaining to high {17-22-059, brightness} levels
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The adjectives "{17-22-061, bright}" and "{17-22-064, light}" principally
+      have the same meaning, but usually have different applications: lights are described
+      as "{17-22-061, bright}" or "{17-22-062, dim}", whereas {17-22-043, surface
+      colour}s are described as "{17-22-064, light}" or "{17-22-065, dark}". However,
+      this distinction is not universal.'
+    type: intensional
+  - content: This entry was numbered 845-02-32 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-660 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-32
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-660
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-22-064
+id: be6e8241-ff0c-5830-81db-f9b52087d270

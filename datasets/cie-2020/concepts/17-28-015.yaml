@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-28-015
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-015
+  type: authoritative
+status: valid
+id: 0b58dce1-1250-5627-98cd-fbefea14a675
+---
+data:
+  definition:
+  - content: part of an {17-27-008, electric lamp} which provides connection to the
+      power supply by means of a {17-28-025, lampholder} or {17-28-035, connector}
+      and, in most cases, also serves to retain the {17-27-008, electric lamp} in
+      the {17-28-025, lampholder}
+    type: intensional
+  examples: []
+  notes:
+  - content: In some cases a cap serves as a thermal connection to the {17-30-001,
+      luminaire} (or its heatsink).
+    type: intensional
+  - content: A cap can be an integral part of an {17-27-008, electric lamp}.
+    type: intensional
+  - content: This entry was numbered 845-08-15 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-119 and 17-76 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-15
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-119 and 17-76
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cap
+  - type: symbol
+    normative_status: preferred
+    designation: base
+  language_code: eng
+  annotations: []
+termid: 17-28-015
+id: b473fe29-b24b-53e0-9148-25ea80ebb8d5

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-107
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-107
+  type: authoritative
+status: valid
+id: 4f4a2b83-e5e3-55f1-9062-f30c28683873
+---
+data:
+  definition:
+  - content: characteristic measured at the end of the {17-27-108, ageing} period
+      and {17-27-109, stabilization time}
+    type: intensional
+  examples: []
+  notes:
+  - content: The initial value can refer to a photometric, colorimetric or electrical
+      quantity.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial value
+  language_code: eng
+  annotations: []
+termid: 17-27-107
+id: 573a0bbf-b935-5f92-b45d-e228e7dd0ffd

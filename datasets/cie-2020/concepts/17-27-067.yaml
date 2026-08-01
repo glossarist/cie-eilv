@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-27-067
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-067
+  type: authoritative
+status: valid
+id: b95a0a08-7220-5beb-9e3d-33aaf21edb56
+---
+data:
+  definition:
+  - content: set of {17-27-051, LED die}s or {17-27-065, LED package}s characterized
+      by a common bin
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bin
+    usage_info: set of LED dies or LED packages
+  language_code: eng
+  annotations: []
+termid: 17-27-067
+id: b4575877-03f3-5287-bf5e-3bc3d3190737

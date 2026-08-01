@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-29-116
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-116
+  type: authoritative
+status: valid
+id: e0c58f34-2bf0-52b3-ad32-c0e38bfb99e7
+---
+data:
+  definition:
+  - content: quotient of the sum of the {17-21-109, solid angle}s subtended by clouds
+      and the {17-21-109, solid angle} 2π sr of the whole sky
+    type: intensional
+  examples: []
+  notes:
+  - content: Observation of total cloud amount is usually recorded in tenths or oktas,
+      where one okta indicates an extent of cloud cover equal to one eighth of the
+      sky.
+    type: intensional
+  - content: The total cloud amount has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-92 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1321 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-92
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1321
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total cloud amount
+  - type: symbol
+    normative_status: preferred
+    designation: fractional cloud cover
+  language_code: eng
+  annotations: []
+termid: 17-29-116
+id: 6a82e15a-5068-5a28-9bf2-829475e4e38a

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-003
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-003
+  type: authoritative
+status: valid
+id: 2c813c07-040c-5e42-81f0-c5f792279565
+---
+data:
+  definition:
+  - content: "{17-31-002, sign} designed to display a variable message by means of
+      an array of elementary units, each of which can be individually illuminated
+      or otherwise altered in {17-22-019, appearance}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1182 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1182
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign matrix
+  language_code: eng
+  annotations: []
+termid: 17-31-003
+id: aa255f18-6ae3-5d65-94cf-5ea72f7db777

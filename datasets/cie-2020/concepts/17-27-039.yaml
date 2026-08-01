@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-27-039
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-039
+  type: authoritative
+status: valid
+id: 96043ff3-8892-5011-9a32-771362147742
+---
+data:
+  definition:
+  - content: "{17-27-024, discharge lamp} in which the light is produced by the positive
+      column of an {17-27-023, arc discharge}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-28 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-540 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-28
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-540
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hot-cathode lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-039
+id: 4df7a294-8102-526c-8d1d-68b778792c9f

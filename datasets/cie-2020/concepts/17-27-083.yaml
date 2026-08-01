@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-27-083
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-083
+  type: authoritative
+status: valid
+id: 0eb07c65-5c50-503c-b01b-98bdd116c4b3
+---
+data:
+  definition:
+  - content: "{17-27-024, discharge lamp} to be operated with an electronic equipment
+      in order to give a high light output for a very brief period, capable of repetition"
+    type: intensional
+  examples: []
+  notes:
+  - content: A flash tube can be used for lighting objects to be photographed, for
+      stroboscopic observation or for signalling purposes.
+    type: intensional
+  - content: This entry was numbered 845-07-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-439 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-439
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flash tube
+  - type: symbol
+    normative_status: preferred
+    designation: electronic-flash lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-083
+id: 33c97254-a62b-5650-a68a-6804c95523a1

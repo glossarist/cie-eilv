@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-31-145
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-145
+  type: authoritative
+status: valid
+id: a0ee2eb3-9c9a-5dc5-8f55-c4e6e9978342
+---
+data:
+  definition:
+  - content: measure of {17-22-103, disability glare} expressed as the percentage
+      increase in {17-22-091, luminance contrast} threshold required between an object
+      and its background for it to be seen equally well with a source of {17-22-098,
+      glare} present
+    type: intensional
+  examples: []
+  notes:
+  - content: Increasing values of threshold increment correspond to increasing {17-22-103,
+      disability glare}.
+    type: intensional
+  - content: The threshold increment has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1312 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1312
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold increment
+    usage_info: glare evaluation
+  - type: symbol
+    normative_status: preferred
+    designation: fTI
+  language_code: eng
+  annotations: []
+termid: 17-31-145
+id: ff8341ab-3319-5d0e-909c-dd1cee88d3ad

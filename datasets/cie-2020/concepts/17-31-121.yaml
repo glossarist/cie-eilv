@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-31-121
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-121
+  type: authoritative
+status: valid
+id: e8d2d91a-c8fc-5607-a7ec-9daac11223e8
+---
+data:
+  definition:
+  - content: quality of a {17-31-002, sign} to attract (attention conspicuity) or
+      gain (search conspicuity) attention
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conspicuity of a sign
+  language_code: eng
+  annotations: []
+termid: 17-31-121
+id: 4f254d0d-b770-5d86-9254-777313ba0967

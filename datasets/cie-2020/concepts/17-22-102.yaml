@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-102
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-102
+  type: authoritative
+status: valid
+id: de9c6742-fec5-5fa8-b103-9b30e21441a1
+---
+data:
+  definition:
+  - content: "{17-22-098, glare} that causes discomfort without necessarily impairing
+      the vision of objects"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-56 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-333 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-56
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-333
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discomfort glare
+  language_code: eng
+  annotations: []
+termid: 17-22-102
+id: 1050dcec-5b6b-5976-823e-93d27f0dc293

@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-32-056
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-056
+  type: authoritative
+status: valid
+id: be860a94-5878-51c4-b2a0-d41101ac3226
+---
+data:
+  definition:
+  - content: separation between lines of characters expressed in terms of the number
+      of inactive elements or the distance between centres of adjacent character elements
+      of consecutive character lines
+  notes:
+  - content: This entry was numbered 17-682 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-682
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: line separation
+  language_code: eng
+  annotations: []
+termid: 17-32-056
+id: 65a38c34-c5df-5ca6-8c51-dc481fb99057

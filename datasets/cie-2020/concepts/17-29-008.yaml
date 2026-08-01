@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-008
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-008
+  type: authoritative
+status: valid
+id: '035916f0-06a8-5677-a484-07b6445a2b6b'
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} for a specific {17-22-084, visual task}, additional
+      to and controlled separately from the {17-29-007, general lighting}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-689 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-689
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: local lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-008
+id: 66cc97f6-34ae-58ba-a043-4eab98a681f5

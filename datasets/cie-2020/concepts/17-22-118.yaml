@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 17-22-118
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-118
+  type: authoritative
+status: valid
+id: c51a765e-4006-5df5-9688-d6fba796b131
+---
+data:
+  definition:
+  - content: effect influencing the human visual response that can be attributed to
+      differences or changes in age
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ageing effect
+    usage_info: relating to human vision
+  language_code: eng
+  annotations: []
+termid: 17-22-118
+id: 59e41ce7-dac7-5b59-a686-acd27a5eaad2

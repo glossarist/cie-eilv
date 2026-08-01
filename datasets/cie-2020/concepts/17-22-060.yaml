@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-22-060
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-060
+  type: authoritative
+status: valid
+id: 653fc633-1f19-5e73-adbc-6101e0e63948
+---
+data:
+  definition:
+  - content: attribute of a {17-22-082, visual perception} according to which a {17-29-004,
+      luminous environment} appears to contain more or less light
+    type: intensional
+  examples: []
+  notes:
+  - content: Spatial brightness can be perceived while immersed within a space or
+      when a space is observed remotely but fills a large part of the {17-22-080,
+      visual field}.
+    type: intensional
+  - content: Spatial brightness does not necessarily relate to the {17-22-059, brightness}
+      of any individual objects or surfaces in the environment, but can be influenced
+      by the {17-22-059, brightness} of these individual items.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spatial brightness
+  language_code: eng
+  annotations: []
+termid: 17-22-060
+id: e3d15ac5-4b25-594c-b36f-3f7faae7ab12

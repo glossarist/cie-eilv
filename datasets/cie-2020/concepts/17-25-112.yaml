@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-25-112
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-112
+  type: authoritative
+status: valid
+id: 27d4cc2b-7282-5bbd-aa28-0074ea41d150
+---
+data:
+  definition:
+  - content: angle between a defined datum axis related to the {17-30-001, luminaire}
+      and the horizontal when the {17-30-001, luminaire} is mounted for photometric
+      measurement
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined datum axis can be any feature of the {17-30-001, luminaire},
+      but it will usually relate to a feature that is nominally aligned with the horizontal
+      such as an axis through the luminous opening or an axis through an array of
+      {17-27-050, LED}s or a fixing spigot entry axis.
+    type: intensional
+  - content: The tilt during measurement is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 17-1316 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1316
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tilt during measurement
+    usage_info: of a luminaire
+  - type: symbol
+    normative_status: preferred
+    designation: θm
+  language_code: eng
+  annotations: []
+termid: 17-25-112
+id: 4d0c0102-0780-5cdf-a8a4-f7c57c848868

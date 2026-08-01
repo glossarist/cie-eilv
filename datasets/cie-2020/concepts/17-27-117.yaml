@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-27-117
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-117
+  type: authoritative
+status: valid
+id: 5f3d803f-96f0-59cd-b854-4e6bf4039a04
+---
+data:
+  definition:
+  - content: voltage between the electrodes of the {17-27-024, discharge lamp} during
+      stable operating conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: The voltage is the root mean square value in the case of alternating
+      current.
+    type: intensional
+  - content: The lamp voltage is typically expressed in volt (V).
+    type: intensional
+  - content: This entry was numbered 845-07-68 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-638 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-68
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-638
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lamp voltage
+    usage_info: of a discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-117
+id: c62d4dc1-e078-56a6-b6a2-f51af8adbc54

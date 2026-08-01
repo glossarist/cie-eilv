@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-099
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-099
+  type: authoritative
+status: valid
+id: 784ad94c-62c6-5e05-b131-59295510aa76
+---
+data:
+  definition:
+  - content: set of {17-27-100, rated value}s and operating conditions of an {17-27-008,
+      electric lamp} which serve to characterize and designate it
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-58 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1037 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-58
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rating
+    usage_info: of an electric lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-099
+id: 709c3a81-464e-5d1b-8be3-b79a6bffe25c

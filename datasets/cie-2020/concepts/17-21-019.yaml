@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-019
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-019
+  type: authoritative
+status: valid
+id: 7a920116-99cc-5e18-88e6-a932c36d1359
+---
+data:
+  definition:
+  - content: "{17-21-001, electromagnetic radiation} in which the electric field vector
+      rotates at the radiation frequency, but varies in magnitude at a rate equal
+      to twice the radiation frequency with the terminal point of the electric field
+      vector describing an ellipse"
+    type: intensional
+  examples: []
+  notes:
+  - content: Elliptically polarized radiation is described as right-handed (or left-handed)
+      if the rotation of the electric field vector is clockwise (or anticlockwise)
+      as viewed by an observer receiving the radiation.
+    type: intensional
+  - content: This entry was numbered 17-376 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-376
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elliptically polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-019
+id: 1425577b-e82e-5ab4-a32a-91d5a7cb078e

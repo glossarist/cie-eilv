@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-26-079
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-079
+  type: authoritative
+status: valid
+id: 88f389df-58c8-5ef8-823d-27a957984d16
+---
+data:
+  definition:
+  - content: total {17-21-073, photon exposure} in the 400 nm to 700 nm waveband
+    type: intensional
+  examples: []
+  notes:
+  - content: The photosynthetically active radiation is expressed in mole per square
+      metre per second (mol·m<sup>−2</sup>·s<sup>−1</sup>) or mole per square metre
+      per day (mol·m<sup>−2</sup>·d<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-943 and 17-859 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-943 and 17-859
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photosynthetically active radiation
+  - type: symbol
+    normative_status: preferred
+    designation: PAR
+  language_code: eng
+  annotations: []
+termid: 17-26-079
+id: f17b0c56-bee4-5ed1-9fae-07d21d84bd41

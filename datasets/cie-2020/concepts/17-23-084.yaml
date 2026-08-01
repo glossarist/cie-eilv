@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-23-084
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-084
+  type: authoritative
+status: valid
+id: 00d4fca8-1d6e-57b6-a094-73eb4e945fb0
+---
+data:
+  definition:
+  - content: "{17-21-025, wavelength} of a certain {17-23-011, monochromatic stimulus},
+      the {17-22-067, hue} of which remains constant over a wide range of values of
+      {17-21-050, luminance} for a given condition of {17-22-012, adaptation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The invariant wavelength is expressed in nanometre (nm).
+    type: intensional
+  - content: This entry was numbered 17-603 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-603
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: invariant wavelength
+  language_code: eng
+  annotations: []
+termid: 17-23-084
+id: 3e98c467-850d-5c4c-8843-ae24903934e6

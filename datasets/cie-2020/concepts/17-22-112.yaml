@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-112
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-112
+  type: authoritative
+status: valid
+id: 90d0994c-2421-5548-b8e0-1a027c4110c2
+---
+data:
+  definition:
+  - content: change in {17-23-052, chromaticity} and {17-24-077, luminance factor}
+      of an {17-22-042, object colour} caused by a change in {17-23-018, illuminant}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-64 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-555 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-64
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-555
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminant colorimetric shift
+  language_code: eng
+  annotations: []
+termid: 17-22-112
+id: 34945339-3430-56cf-be74-d22459b4adbb

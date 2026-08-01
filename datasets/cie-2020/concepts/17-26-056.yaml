@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-26-056
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-056
+  type: authoritative
+status: valid
+id: 42607f2c-949d-51b1-be66-3c14adc94468
+---
+data:
+  definition:
+  - content: effective {17-21-053, irradiance} with the {17-21-056, spectral irradiance},
+      <i>E<sub>λ</sub></i>, spectrally weighted with the {17-26-060, blue light hazard
+      spectral weighting function}, <i>B</i>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: Blue light hazard irradiance is typically of interest for small {17-21-032,
+      source}s subtending less than 0,011 rad.
+    type: intensional
+  - content: The {17-21-025, wavelength} range for the blue light hazard irradiance
+      is specified in ICNIRP-recommendations as <i>λ</i> = 300 nm to <i>λ</i> = 700
+      nm.
+    type: intensional
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
+      its maximum value is 1.
+    type: intensional
+  - content: It is essential to specify which actinic {17-26-027, action spectrum}
+      is used, as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: The blue light hazard irradiance is expressed in watt per square metre
+      (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-98 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-98
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: EB
+  language_code: eng
+  annotations: []
+termid: 17-26-056
+id: 97e623ff-291b-5204-a9a0-5316ec767cea

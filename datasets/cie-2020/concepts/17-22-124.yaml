@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-22-124
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-124
+  type: authoritative
+status: valid
+id: e4d678ec-645c-5b45-897c-0ea917c9d62c
+---
+data:
+  definition:
+  - content: degree of visibility of an object through a medium
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transparency
+    usage_info: perceived
+  language_code: eng
+  annotations: []
+termid: 17-22-124
+id: d25e637d-f06c-5fca-a5e7-80ccb31aeb4d

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-031
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-031
+  type: authoritative
+status: valid
+id: 32f9f602-4411-563f-bc5a-19c895295f7f
+---
+data:
+  definition:
+  - content: darkening of the skin caused by {17-21-008, ultraviolet radiation} (through
+      melanogenesis)
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1283 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1283
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suntan
+  language_code: eng
+  annotations: []
+termid: 17-26-031
+id: 2999c28e-eddd-5306-aa81-b01cdcd4c22e

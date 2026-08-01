@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-113
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-113
+  type: authoritative
+status: valid
+id: 85bcf254-8078-5a58-923f-60877be2634d
+---
+data:
+  definition:
+  - content: set of {17-31-127, legend}s to be displayed by a {17-31-112, variable
+      message sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1392 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1392
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variable message set
+  language_code: eng
+  annotations: []
+termid: 17-31-113
+id: bc29f0b2-d732-5b20-8ab0-0095a9675c37

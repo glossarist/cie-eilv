@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-32-013
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-013
+  type: authoritative
+status: valid
+id: e7877f40-f141-526a-b61a-2ab30abb4f33
+---
+data:
+  definition:
+  - content: digital encoding of {17-23-001, colour} values, together with any information
+      necessary to interpret properly the {17-23-001, colour} values such as the {17-32-050,
+      image state}, the intended image viewing environment and the {17-32-062, reference
+      medium}
+    type: intensional
+  examples: []
+  notes:
+  - content: In some cases the intended image viewing environment will be explicitly
+      defined for the colour image encoding. In other cases, the intended image viewing
+      environment, i.e. details of the {17-32-050, image state}, can be specified
+      on an image-by-image basis using metadata associated with the digital image.
+    type: intensional
+  - content: Some colour image encodings will indicate particular {17-32-062, reference
+      medium} characteristics, such as a reflection print with a specified density
+      range. In other cases the {17-32-062, reference medium} will be not applicable,
+      such as with a scene-referred encoding, or will be specified using image metadata.
+    type: intensional
+  - content: Colour image encodings are not limited to pictorial digital images that
+      originate from an original scene, but are also applicable to digital images
+      with content such as text, line art, vector graphics and other forms of original
+      artwork.
+    type: intensional
+  - content: This entry was numbered 17-217 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-217
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour image encoding
+  language_code: eng
+  annotations: []
+termid: 17-32-013
+id: 26fd90d1-e100-593e-8c5e-99677fbd9b2d

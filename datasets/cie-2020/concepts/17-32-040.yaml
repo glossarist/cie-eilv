@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-32-040
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-040
+  type: authoritative
+status: valid
+id: 6fde11d9-dfdd-5d0b-b47b-8a1e3150181b
+---
+data:
+  definition:
+  - content: imaging equipment using transmissive or reflective organic LEDs (OLEDs)
+      to present visual information
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OLED display
+  language_code: eng
+  annotations: []
+termid: 17-32-040
+id: b4ac47e8-14d5-5db7-9c59-627d73e1edb8

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-31-148
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-148
+  type: authoritative
+status: valid
+id: 021cd564-2aef-5c5f-b16d-8ab9518acd2d
+---
+data:
+  definition: []
+  examples: []
+  notes:
+  - content: A light signal can be a reflected image of the {17-27-001, light source},
+      for example the use of heliographs.
+    type: intensional
+  - content: The term "light signal" is sometimes used for an object or apparatus
+      that emits a light signal, but this usage is not recommended (see "{17-31-004,
+      signal light}").
+    type: intensional
+  - content: This entry was numbered 845-11-02 in IEC 60050-845:1987.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-02
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light signal
+  language_code: eng
+  annotations: []
+termid: 17-31-148
+id: eee51507-6c26-5b18-ad93-3731d1b4edc2

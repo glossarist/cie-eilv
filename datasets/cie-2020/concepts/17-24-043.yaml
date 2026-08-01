@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-24-043
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-043
+  type: authoritative
+status: valid
+id: 602e59a1-d65c-572b-a19c-1eb0321b58f2
+---
+data:
+  definition:
+  - content: quotient of the total {17-21-043, photon number} of all {17-21-025, wavelength}s
+      emitted from a specimen by a fluorescent process for an {17-24-020, excitation}
+      at {17-21-025, wavelength} <i>μ</i>, and the {17-21-043, photon number} of {17-21-025,
+      wavelength} <i>μ</i> reflected from the {17-24-060, perfect reflecting diffuser}
+      identically irradiated and viewed
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral quantum efficiency of the fluorescent process has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1227 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1227
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral quantum efficiency of a fluorescent process
+  - type: symbol
+    normative_status: preferred
+    designation: ημ(μ)
+  language_code: eng
+  annotations: []
+termid: 17-24-043
+id: 8207c669-1e98-566d-9ea2-bd8f4a6f6c67

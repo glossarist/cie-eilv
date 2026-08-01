@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-29-065
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-065
+  type: authoritative
+status: valid
+id: 88604856-9850-505d-bab3-20bb59543251
+---
+data:
+  definition:
+  - content: quotient of the upward {17-21-039, luminous flux} of a {17-30-001, luminaire},
+      measured under specified conditions with its own lamp(s) and equipment, and
+      the sum of the individual {17-21-039, luminous flux}es of the same lamp(s) when
+      operated outside the {17-30-001, luminaire} with the same equipment, under specified
+      practical conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: The upward light output ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1380 and 17-1359 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1380 and 17-1359
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upward light output ratio
+  - type: symbol
+    normative_status: preferred
+    designation: ULOR
+  language_code: eng
+  annotations: []
+termid: 17-29-065
+id: 19bb163f-646d-5957-ae28-c1c8d46f7312

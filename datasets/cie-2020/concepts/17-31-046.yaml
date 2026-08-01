@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-31-046
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-046
+  type: authoritative
+status: valid
+id: 9056414d-e158-5f52-aa14-6d7731d7ba57
+---
+data:
+  definition:
+  - content: "{17-31-045, aeronautical ground light} used to indicate the presence
+      of a fixed or mobile hazard to the permitted movement of aircraft on the ground
+      or in the air"
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "obstruction light" is no longer used.
+    type: intensional
+  - content: This entry was numbered 845-11-49 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-833 and 17-835 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-833 and 17-835
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obstacle light
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: obstruction light'
+  language_code: eng
+  annotations: []
+termid: 17-31-046
+id: e16fc08c-ccf6-56ff-aff9-34e428514a1b

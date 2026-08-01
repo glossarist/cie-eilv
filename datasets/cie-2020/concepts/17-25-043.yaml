@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-25-043
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-043
+  type: authoritative
+status: valid
+id: 6b030c6a-d3c0-56dd-9540-c427ee6b9026
+---
+data:
+  definition:
+  - content: "{17-25-038, photoelectric detector} that utilizes the electromotive
+      force produced by the {17-24-081, absorption} of {17-21-002, optical radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-949 and 17-899 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-949 and 17-899
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photovoltaic cell
+  - type: symbol
+    normative_status: preferred
+    designation: photoelement
+  language_code: eng
+  annotations: []
+termid: 17-25-043
+id: 91765844-fca6-5c3d-b567-792e946b6cdf

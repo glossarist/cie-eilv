@@ -1,0 +1,75 @@
+---
+data:
+  identifier: 17-29-092
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-092
+  type: authoritative
+status: valid
+id: f716b76f-6d57-5f41-bf61-a8c8e4809ab7
+---
+data:
+  definition:
+  - content: quotient of the {17-21-038, radiant flux} or {17-21-039, luminous flux}
+      <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>)<sub> </sub>that surface S<sub>1</sub>
+      (or S<sub>2</sub>) sends to surface S<sub>2</sub> (or S<sub>1</sub>) and the
+      {17-21-080, radiant exitance} or {17-21-081, luminous exitance} <i>M</i><sub>1
+      </sub>(or <i>M</i><sub>2</sub>)
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Since <i>M</i> = π<i>L</i>, and in the particular case where all points on S<sub>1</sub> are seen from all points on S<sub>2</sub><sub> </sub>
+
+      where <i>l</i> is the distance between the elements of areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> on the surfaces S<sub>1</sub> and S<sub>2</sub>, <i>G</i> is the {17-21-047, geometric extent} of the beam delimited by the boundaries of S<sub>1</sub> and S<sub>2</sub>, and <i>θ</i><sub>1</sub> and <i>θ</i><sub>2 </sub>are the angles between the surface normals of the two elementary areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> respectively and the line joining the two elementary areas.
+    type: intensional
+  - content: |-
+      For two elementary areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2
+
+
+      </sub>
+      where d<i>Ω</i><sub>1</sub> (or d<i>Ω</i><sub>2</sub>) is the {17-21-109, solid angle} which the area d<i>A</i><sub>2</sub> (or d<i>A</i><sub>1</sub>) subtends from the centre of d<i>A</i><sub>1</sub> (or d<i>A</i><sub>2</sub>).
+    type: intensional
+  - content: |-
+      The {17-21-049, radiance} or {17-21-050, luminance} <i>L</i> of the beam delimited by the boundaries of d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> is
+      .
+    type: intensional
+  - content: The mutual exchange coefficient is expressed in square metre (m<sup>2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-09-71 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-797 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-71
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-797
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mutual exchange coefficient
+    usage_info: of radiance or luminance between surfaces
+  - type: symbol
+    normative_status: preferred
+    designation: exchange coefficient, <of radiance or luminance between surfaces>
+  language_code: eng
+  annotations: []
+termid: 17-29-092
+id: c451259a-97be-50f7-9083-18af32fe0bf5

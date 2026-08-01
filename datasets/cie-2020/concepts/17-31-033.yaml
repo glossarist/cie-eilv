@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-31-033
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-033
+  type: authoritative
+status: valid
+id: 1d98979d-7549-5c96-b32a-932ff5bb7a0b
+---
+data:
+  definition:
+  - content: two or more {17-31-004, signal light}s positioned to indicate a leading
+      line, or navigational course, in the direction in which they can be seen in
+      vertical alignment
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-35 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-646 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-35
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-646
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: leading lights
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-31-033
+id: 9aa194c5-af7b-58c5-894e-e0dba90c4adf

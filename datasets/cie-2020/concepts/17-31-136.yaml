@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-136
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-136
+  type: authoritative
+status: valid
+id: a5eda1d1-384d-5ac3-b5c5-6a93d341ed52
+---
+data:
+  definition:
+  - content: operation of a {17-31-002, sign} or a {17-30-001, luminaire} from within
+      the device or in its proximity by means other than by manual operation
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-688 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-688
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: local control
+  language_code: eng
+  annotations: []
+termid: 17-31-136
+id: f8926e6d-29db-585d-9146-6c916e9a4763

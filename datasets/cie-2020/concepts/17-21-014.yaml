@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-21-014
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-014
+  type: authoritative
+status: valid
+id: 8f24f44c-8049-5af2-bd5b-a37f6b6f970a
+---
+data:
+  definition:
+  - content: radiation characterized by a single frequency or a single {17-21-025,
+      wavelength}
+    type: intensional
+  examples: []
+  notes:
+  - content: If the {17-21-025, wavelength} is used to characterize a monochromatic
+      radiation, the medium has to be stated.
+    type: intensional
+  - content: In practice, monochromatic radiation is radiation of a very small range
+      of frequencies or {17-21-025, wavelength}s that can be described by stating
+      a single frequency or {17-21-025, wavelength}.
+    type: intensional
+  - content: This entry was numbered 845-01-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-788 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-788
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromatic radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-014
+id: 9c5d1443-8fb4-52f2-bdf9-24e1050f90cf

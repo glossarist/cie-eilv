@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-24-102
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-102
+  type: authoritative
+status: valid
+id: d77408d4-d1cd-58c0-ae63-b67f3fbacc1e
+---
+data:
+  definition:
+  - content: quotient of the {17-21-045, luminous intensity}, <i>I</i>, of the {17-24-100,
+      retroreflector} in the direction of observation and the {17-21-060, illuminance},
+      <i>E</i><sub>⊥</sub>, at the {17-24-100, retroreflector} on a plane perpendicular
+      to the direction of the incident light
+    type: intensional
+  examples: []
+  notes:
+  - content: The coefficient of luminous intensity is expressed in candela per lux
+      (cd⋅lx<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-04-96 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-180 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-96
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-180
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient of luminous intensity
+    usage_info: of a retroreflector
+  - type: symbol
+    normative_status: preferred
+    designation: R
+  language_code: eng
+  annotations: []
+termid: 17-24-102
+id: 310dc9a5-9560-55bf-a6ea-87d7d03aa3a1

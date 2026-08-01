@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-23-077
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-077
+  type: authoritative
+status: valid
+id: eac953c5-a036-5b2b-9274-6a885e8d5898
+---
+data:
+  definition:
+  - content: 'difference between two {17-23-002, colour stimulus}, defined as the
+      Euclidean distance between the points representing them in the {17-23-076, CIE
+      1976 L*a*b* colour space} and calculated as:'
+    type: intensional
+  examples: []
+  notes:
+  - content: See also CIE 15 <i>Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO/CIE 11664-4<i> Colorimetry – Part 4: CIE 1976 L*a*b* Colour
+      Space</i>.'
+    type: intensional
+  - content: This entry was numbered 845-03-57 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-156 and 17-172 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-57
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-156 and 17-172
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 L*a*b* colour difference
+  - type: symbol
+    normative_status: preferred
+    designation: CIELAB colour difference
+  language_code: eng
+  annotations: []
+termid: 17-23-077
+id: 7901224b-2fe9-53ed-bb04-21d8b18339ae

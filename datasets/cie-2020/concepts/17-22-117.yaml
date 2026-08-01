@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-117
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-117
+  type: authoritative
+status: valid
+id: 36167fdb-3042-5db7-b289-9b9d908f0b2f
+---
+data:
+  definition:
+  - content: combined {17-22-115, illuminant colour shift} and {17-22-116, adaptive
+      colour shift}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-69 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1096 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-69
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1096
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resultant colour shift
+  language_code: eng
+  annotations: []
+termid: 17-22-117
+id: 8a818a2c-fced-530c-b1c2-e7a898591059

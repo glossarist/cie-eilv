@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-22-062
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-062
+  type: authoritative
+status: valid
+id: afc826a9-7346-5d05-bc68-c69aefb1639d
+---
+data:
+  definition:
+  - content: pertaining to low levels of {17-22-059, brightness}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-30 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-314 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-30
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-314
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dim
+  language_code: eng
+  annotations: []
+termid: 17-22-062
+id: 0c622332-e12e-5389-8cae-255a361a936e

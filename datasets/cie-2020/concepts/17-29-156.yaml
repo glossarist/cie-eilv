@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-156
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-156
+  type: authoritative
+status: valid
+id: c8a63b2c-bf20-5d9f-85e2-fd26cdf162ed
+---
+data:
+  definition:
+  - content: "{17-29-155, average illuminance} on a specified surface when the {17-29-034,
+      lighting installation} is new"
+    type: intensional
+  examples: []
+  notes:
+  - content: The initial average illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-582 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-582
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial average illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av,i; ; Eav,i;
+  language_code: eng
+  annotations: []
+termid: 17-29-156
+id: 04b7dbc8-2861-56af-bf46-dcf426bd128b

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-22-080
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-080
+  type: authoritative
+status: valid
+id: 54711159-0438-5426-9e13-7ec485884555
+---
+data:
+  definition:
+  - content: part of an external scene that is perceived when an observer gazes at
+      some point in the scene
+  notes:
+  - content: This entry was numbered 17-1408 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1408
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual field
+  language_code: eng
+  annotations: []
+termid: 17-22-080
+id: 7a52f57f-efed-5dd2-954b-04f8429dfb57

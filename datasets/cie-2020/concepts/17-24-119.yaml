@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-119
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-119
+  type: authoritative
+status: valid
+id: 342dc152-d7d3-580c-a790-f91fcc064171
+---
+data:
+  definition:
+  - content: medium in which the {17-24-048, transmission} is mainly regular and which
+      usually has a high {17-24-067, regular transmittance} in the spectral range
+      of interest
+    type: intensional
+  examples: []
+  notes:
+  - content: Objects can be seen distinctly through a medium which is transparent
+      in the visible region, if the geometric form of the medium is suitable.
+    type: intensional
+  - content: This entry was numbered 845-04-108 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1340 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-108
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1340
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transparent medium
+  language_code: eng
+  annotations: []
+termid: 17-24-119
+id: 4df8bc33-bc2e-5300-8d28-e0855959fa4f

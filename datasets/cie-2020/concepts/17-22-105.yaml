@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-22-105
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-105
+  type: authoritative
+status: valid
+id: 15463c96-b901-5c93-96e5-c6f054b8cb88
+---
+data:
+  definition:
+  - content: "{17-21-050, luminance} that superimposes on the retinal image and reduces
+      the {17-22-089, contrast} by stray light in the eye"
+    type: intensional
+  examples: []
+  notes:
+  - content: The veiling luminance is expressed in candela per square metre (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1395 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1395
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: veiling luminance
+    usage_info: for disability glare
+  language_code: eng
+  annotations: []
+termid: 17-22-105
+id: 82bb2f66-044b-5b13-810f-08711467a367

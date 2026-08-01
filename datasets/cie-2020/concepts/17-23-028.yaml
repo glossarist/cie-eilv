@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-23-028
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-028
+  type: authoritative
+status: valid
+id: adaa8ef4-1bab-5237-8800-eb0f0b59f0a5
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} seen as ascribed to a {17-21-032, source} of illumination"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-557 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-557
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminant mode
+    usage_info: of colour appearance
+  language_code: eng
+  annotations: []
+termid: 17-23-028
+id: 9e48022d-c4f8-5211-a28c-2ae10b327caf

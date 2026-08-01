@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-23-057
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-057
+  type: authoritative
+status: valid
+id: 15308f63-5820-584e-af78-05cf52a5df44
+---
+data:
+  definition:
+  - content: stimulus that is represented in a {17-23-054, chromaticity diagram} by
+      a point lying within the triangle defined by the point representing the specified
+      {17-23-009, achromatic stimulus} and the two ends of the {17-23-056, spectrum
+      locus} which correspond approximately to the {17-21-025, wavelength}s 380 nm
+      and 780 nm
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1005 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: purple stimulus
+  language_code: eng
+  annotations: []
+termid: 17-23-057
+id: 45ce64da-c73d-5f74-b988-2e8d5314d5f3

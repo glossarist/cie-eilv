@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-23-034
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-034
+  type: authoritative
+status: valid
+id: 6ac39413-3b03-5981-b55f-40a6155ad2d4
+---
+data:
+  definition:
+  - content: empirical law stating that {17-23-002, colour stimulus} that match in
+      one set of {17-22-012, adaptation} conditions continue to do so in any other
+      set
+    type: intensional
+  examples: []
+  notes:
+  - content: Von 'Kries' persistence law does not apply to all conditions.
+    type: intensional
+  - content: This entry was numbered 845-03-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1422 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1422
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: von Kries' persistence law
+  language_code: eng
+  annotations: []
+termid: 17-23-034
+id: 1c465d67-859b-5c17-8762-54d8a0fb65ee

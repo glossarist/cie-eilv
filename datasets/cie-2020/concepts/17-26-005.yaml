@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-26-005
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-005
+  type: authoritative
+status: valid
+id: 68b6a387-0de3-5aee-9a62-f91250879477
+---
+data:
+  definition:
+  - content: "{17-26-003, actinic} effect that occurs away from the place where the
+      {17-21-041, radiant energy} responsible for the effect is absorbed"
+    type: intensional
+  examples: []
+  notes:
+  - content: Photostimulation of endocrine glands; conversion of previtamin D3 to
+      vitamin D by a non-photochemical thermal reaction.
+    type: intensional
+  - content: The distinction between direct and indirect actinic effect mainly applies
+      to biological changes.
+    type: intensional
+  - content: This entry was numbered 845-06-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-15 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-05
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect actinic effect
+  language_code: eng
+  annotations: []
+termid: 17-26-005
+id: 387dd907-47cb-5b4b-9109-5886fc36189f

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-31-138
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-138
+  type: authoritative
+status: valid
+id: e41cb255-dc15-52e6-9c98-1ecafbc4361a
+---
+data:
+  definition:
+  - content: direction parallel to the axis of the road
+  notes:
+  - content: This entry was numbered 17-693 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-693
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: longitudinal direction
+    usage_info: of a road
+  language_code: eng
+  annotations: []
+termid: 17-31-138
+id: 10d90c40-2dcd-548e-9fda-1d1026c8ed40

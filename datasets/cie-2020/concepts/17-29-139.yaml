@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-139
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-139
+  type: authoritative
+status: valid
+id: 26c6ac60-960b-5d78-bbde-65a910c6e864
+---
+data:
+  definition:
+  - content: area, glazed or unglazed, that is capable of admitting {17-29-105, daylight}
+      to an interior
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-102 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-284 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-102
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-284
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight opening
+  language_code: eng
+  annotations: []
+termid: 17-29-139
+id: ea431d34-903f-545e-b045-d01fe25b86f0

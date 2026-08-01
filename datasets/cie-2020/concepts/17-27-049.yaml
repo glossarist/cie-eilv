@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-27-049
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-049
+  type: authoritative
+status: valid
+id: 6f5e7214-2454-545c-8e6b-9ea489899dff
+---
+data:
+  definition:
+  - content: "{17-27-047, induction lamp}, the discharge vessel of which is partly
+      surrounded by the power coupler"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: externally coupled induction lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-049
+id: dbf0c972-55c9-5905-8ff7-0805778bd8c4

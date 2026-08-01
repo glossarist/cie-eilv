@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-23-010
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-010
+  type: authoritative
+status: valid
+id: 9622ae29-1cf7-5aaa-98ba-41cabb99cf32
+---
+data:
+  definition:
+  - content: stimulus that, under the prevailing conditions of {17-22-012, adaptation},
+      gives rise to a {17-22-050, chromatic colour}
+    type: intensional
+  examples: []
+  notes:
+  - content: In the {17-25-014, colorimetry} of {17-22-042, object colour}s, stimuli
+      having values of {17-23-064, purity} greater than 0 are usually considered to
+      be chromatic stimuli.
+    type: intensional
+  - content: This entry was numbered 845-03-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-143 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-143
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromatic stimulus
+  language_code: eng
+  annotations: []
+termid: 17-23-010
+id: ea6afe4c-2136-5db0-a9b3-9bf34fc9771f

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-23-035
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-035
+  type: authoritative
+status: valid
+id: c017b0e2-2b07-5bce-9e6f-5b6577103fa2
+---
+data:
+  definition:
+  - content: empirical law stating that if two {17-23-002, colour stimulus}, A and
+      B, are perceived to be of equal {17-22-059, brightness} and two other {17-23-002,
+      colour stimulus}, C and D, are perceived to be of equal {17-22-059, brightness},
+      then the {17-23-030, additive mixture}s of A with C and B with D will also be
+      perceived to be of equal {17-22-059, brightness}
+    type: intensional
+  examples: []
+  notes:
+  - content: The validity of Abney's law depends strongly on the observing conditions.
+    type: intensional
+  - content: This entry was numbered 845-03-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-2 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-2
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Abney's law
+  language_code: eng
+  annotations: []
+termid: 17-23-035
+id: af301d34-c897-5649-bbad-44a01566e389

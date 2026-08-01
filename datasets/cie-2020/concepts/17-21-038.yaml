@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-21-038
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-038
+  type: authoritative
+status: valid
+id: 72500378-b756-5a84-bb69-0f5e179fec32
+---
+data:
+  definition:
+  - content: |-
+      change in {17-21-041, radiant energy} with time
+
+      where <i>Q</i><sub>e</sub> is the {17-21-041, radiant energy} emitted, transferred or received, and <i>t </i>is time
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding photometric quantity is "{17-21-039, luminous flux}".
+      The corresponding quantity for photons is "{17-21-040, photon flux}".
+    type: intensional
+  - content: The term "radiant flux" is the preferred term for most radiometric applications,
+      with the notable exception of {17-27-136, laser} radiometry where the term "radiant
+      power" is more commonly used.
+    type: intensional
+  - content: The radiant flux is expressed in watt (W).
+    type: intensional
+  - content: This entry was numbered 845-01-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1025 and 17-1027 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-24
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1025 and 17-1027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant flux
+  - type: symbol
+    normative_status: preferred
+    designation: radiant power
+  language_code: eng
+  annotations: []
+termid: 17-21-038
+id: 4a236414-40e4-5e63-820f-23a2cd9ae00a

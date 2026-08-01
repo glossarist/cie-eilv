@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-26-020
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-020
+  type: authoritative
+status: valid
+id: 9e8943f9-dc9f-5cb5-affe-033efaf51e6a
+---
+data:
+  definition:
+  - content: property of mobile organisms to move in response to light
+    type: intensional
+  examples: []
+  notes:
+  - content: For example, positive phototaxis involves movement (such as in swimming)
+      towards a {17-21-032, source} of {17-21-002, optical radiation} and negative
+      phototaxis away from such a {17-21-032, source}.
+    type: intensional
+  - content: This entry was numbered 17-944 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-944
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phototaxis
+  language_code: eng
+  annotations: []
+termid: 17-26-020
+id: 390b9772-a52e-5b5a-b121-1479ad1151a6

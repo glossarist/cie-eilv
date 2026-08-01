@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-29-112
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-112
+  type: authoritative
+status: valid
+id: dd8e088d-5d55-5547-ae29-b213828fc3ff
+---
+data:
+  definition:
+  - content: cloudless sky for which the relative {17-21-050, luminance} distribution
+      is given by the {17-21-050, luminance} gradation function, <i>φ</i>(<i>Z</i>),
+      which relates the {17-21-050, luminance} of a sky element to its zenith angle,
+      <i>Z </i>
+    type: intensional
+  examples: []
+  notes:
+  - content: For additional information, see ISO 15469/CIE S 011, <i>Spatial distribution
+      of daylight – CIE standard general sky</i>.
+    type: intensional
+  - content: This entry was numbered 845-09-91 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-164 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-91
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-164
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard clear sky
+  language_code: eng
+  annotations: []
+termid: 17-29-112
+id: ac75b423-a8da-5fe3-980c-35b1e774f90d

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-099
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-099
+  type: authoritative
+status: valid
+id: 14decf64-13c6-5f4e-9047-0469456950e4
+---
+data:
+  definition:
+  - content: "{17-25-035, detector} for which the {17-25-058, output} is proportional
+      to the {17-25-057, input} over a specified range, so that the {17-25-061, responsivity}
+      of the {17-25-035, detector} is constant over that range"
+    type: intensional
+  examples: []
+  notes:
+  - content: A {17-25-035, detector} is usually linear only over a certain limited
+      range of {17-25-057, input} levels. The range should be specified.
+    type: intensional
+  - content: The linear range of a {17-25-035, detector} can be affected by the use
+      of unsuitable electronic circuitry.
+    type: intensional
+  - content: This entry was numbered 17-683 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-683
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linear detector
+  language_code: eng
+  annotations: []
+termid: 17-25-099
+id: b2a55fda-3e52-5e97-8a13-754adc61e56f

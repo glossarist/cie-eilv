@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-21-021
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-021
+  type: authoritative
+status: valid
+id: cd83c9d8-2335-5711-b862-128c4c3ea727
+---
+data:
+  definition:
+  - content: radiation that exhibits no preferential directional property in a plane
+      normal to the direction of propagation of the radiation, the direction and phase
+      of the electric field vector being randomly distributed
+  notes:
+  - content: 'to entry: A beam of unpolarized radiation can be regarded as being composed
+      of two components of equal amplitude but with orthogonal states of polarization,
+      the two components being unrelated in phase.'
+  - content: This entry was numbered 17-1375 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1375
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unpolarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-021
+id: 0cb150a6-083c-5dd7-a5a5-5f863a031873

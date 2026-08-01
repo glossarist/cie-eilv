@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-21-106
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-106
+  type: authoritative
+status: valid
+id: cee95e9e-792b-5c6d-8f7c-e6502f3a5bc5
+---
+data:
+  definition:
+  - content: |-
+      measure that expresses the attenuation of the {17-29-158, direct illuminance} when the Sun's rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
+
+      where <i>m</i> is the {17-29-109, relative optical air mass} weighted to take account of the relative spectral {17-24-065, transmittance} characteristics of the atmosphere
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminous extinction coefficient has unit one.
+    type: intensional
+  - content: This entry was numbered 17-737 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-737
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous extinction coefficient
+    usage_info: of the atmosphere
+  - type: symbol
+    normative_status: preferred
+    designation: av
+  language_code: eng
+  annotations: []
+termid: 17-21-106
+id: 88eaf7b5-e9ac-5f17-8654-382ce30d29e5

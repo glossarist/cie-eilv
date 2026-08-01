@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-28-024
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-024
+  type: authoritative
+status: valid
+id: eb92eaca-e646-596f-9374-dd782889765c
+---
+data:
+  definition:
+  - content: piece of metal, usually of cylindrical shape, fixed at the end of the
+      {17-28-015, cap} so as to engage in the corresponding hole in a {17-28-025,
+      lampholder} for fixing the {17-28-015, cap} and/or for making contact
+    type: intensional
+  examples: []
+  notes:
+  - content: The terms "pin" and "post" generally indicate a difference in size, a
+      pin being smaller than a post.
+    type: intensional
+  - content: This entry was numbered 845-08-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-953 and 17-973 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-953 and 17-973
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pin
+  - type: symbol
+    normative_status: preferred
+    designation: post
+  language_code: eng
+  annotations: []
+termid: 17-28-024
+id: 4caabb80-fa1d-53ab-ac72-a82788bd568d

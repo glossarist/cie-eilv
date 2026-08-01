@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-25-077
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-077
+  type: authoritative
+status: valid
+id: a1734190-9e98-5346-b8c0-4c3128689f4a
+---
+data:
+  definition:
+  - content: '{17-21-109, solid angle} as "seen" by the {17-25-035, detector} (acceptance
+      angle), e.g. of a {17-25-006, radiometer} or {17-25-007, spectroradiometer},
+      out of which the {17-25-035, detector} receives radiation'
+    type: intensional
+  examples: []
+  notes:
+  - content: The field of view should not be confused with the {17-25-085, angular
+      subtense} of the apparent source, <i>α</i>.
+    type: intensional
+  - content: A plane angle is sometimes used to describe a circular symmetric {17-21-109,
+      solid angle} field of view.
+    type: intensional
+  - content: The field of view is expressed in steradian (sr).
+    type: intensional
+  - content: This entry was numbered 17-429 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-429
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field of view
+    usage_info: of a detector
+  language_code: eng
+  annotations: []
+termid: 17-25-077
+id: 8adc9302-af5e-5944-857b-8028158af8db

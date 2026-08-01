@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-21-072
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-072
+  type: authoritative
+status: valid
+id: d2d27080-e4e6-5d71-98b8-dd0f9422c30e
+---
+data:
+  definition:
+  - content: |-
+      density of incident {17-21-037, luminous energy} with respect to area at a point on a real or imaginary surface
+
+      where <i>Q</i><sub>v</sub> is {17-21-037, luminous energy} and <i>A</i> is the area on which the {17-21-037, luminous energy} is incident
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "light exposure" is no longer used.
+    type: intensional
+  - content: |-
+      Luminous exposure can be derived from the spectral {17-21-071, radiant exposure} distribution by
+
+      where <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}, <i>H</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral {17-21-071, radiant exposure} at {17-21-025, wavelength} <i>λ</i> and <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency}. Integral limits can be confined depending on the {17-25-063, spectral responsivity} of the {17-25-035, detector}s used as a sensor.
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-071, radiant exposure}".
+      The corresponding quantity for photons is "{17-21-073, photon exposure}"
+    type: intensional
+  - content: The luminous exposure is expressed in lux second (lx⋅s = lm·s·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-736 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-736
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous exposure
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: light exposure'
+  language_code: eng
+  annotations: []
+termid: 17-21-072
+id: 70de37f0-6a39-5ac9-84ec-f9d67f8ee0b8

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-24-002
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-002
+  type: authoritative
+status: valid
+id: 25f427a8-bfe5-55dd-8727-e66215f1d913
+---
+data:
+  definition:
+  - content: radiation {17-24-001, emission} in which the {17-21-041, radiant energy}
+      originates in the thermal agitation of the particles of matter such as atoms,
+      molecules, and ions
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-02 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1304 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1304
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal radiation
+  language_code: eng
+  annotations: []
+termid: 17-24-002
+id: 55798d64-a760-5345-a8ad-c55d100338ec

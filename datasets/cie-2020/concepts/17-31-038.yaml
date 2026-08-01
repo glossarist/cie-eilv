@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-31-038
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-038
+  type: authoritative
+status: valid
+id: 2758bb1c-ed18-5cef-adf2-bd6a466e5bff
+---
+data:
+  definition:
+  - content: artificial mark used to indicate the course of a navigable waterway
+  notes:
+  - content: A preferred-channel mark is a lateral mark that is used to indicate a
+      preferred course at a point where a choice of courses exists.
+  - content: This entry was numbered 845-11-40 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-644 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-40
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-644
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lateral mark
+  language_code: eng
+  annotations: []
+termid: 17-31-038
+id: 321ae43d-4654-554d-990b-c4763e7aba6a

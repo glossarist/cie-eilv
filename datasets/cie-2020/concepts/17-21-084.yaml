@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-21-084
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-084
+  type: authoritative
+status: valid
+id: 2933a1d4-fef9-5d65-b110-3cf1efbaf514
+---
+data:
+  definition:
+  - content: SI unit of {17-21-039, luminous flux}
+    type: intensional
+  examples: []
+  notes:
+  - content: 1 lm is equal to the {17-21-039, luminous flux} of a beam of {17-21-014,
+      monochromatic radiation} whose frequency is 540 × 10<sup>12</sup> Hz and whose
+      {17-21-038, radiant flux} is 1/683 W.
+    type: intensional
+  - content: According to the 9<sup>th</sup> General Conference of Weights and Measures
+      (1948) the lumen is defined as the {17-21-039, luminous flux} emitted in unit
+      {17-21-109, solid angle} (steradian) by a {17-21-098, uniform point source}
+      having a {17-21-045, luminous intensity} of 1 cd.
+    type: intensional
+  - content: This entry was numbered 845-01-51 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-704 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-51
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-704
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lumen
+  - type: symbol
+    normative_status: preferred
+    designation: lm
+  language_code: eng
+  annotations: []
+termid: 17-21-084
+id: 452b9424-6cae-51d5-8821-5da4a5e8fc29

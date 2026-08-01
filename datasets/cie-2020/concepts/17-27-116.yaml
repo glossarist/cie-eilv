@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-116
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-116
+  type: authoritative
+status: valid
+id: 0d9ed5da-f132-536d-8178-5e7b4097b412
+---
+data:
+  definition:
+  - content: voltage between the electrodes which is needed to start the discharge
+      in the {17-27-024, discharge lamp}
+    type: intensional
+  examples: []
+  notes:
+  - content: The starting voltage is expressed in volt (V).
+    type: intensional
+  - content: This entry was numbered 845-07-67 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1264 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-67
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1264
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting voltage
+    usage_info: of a discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-116
+id: b71937f0-a933-5107-83ae-e3d426a96b2a

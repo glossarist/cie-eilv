@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-028
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-028
+  type: authoritative
+status: valid
+id: f95e2190-230c-54d7-9324-65f0a71e6f99
+---
+data:
+  definition:
+  - content: "{17-24-021, luminescence} caused by the impact of electrons on certain
+      types of luminescent materials, such as the coating on a television screen"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-128 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-128
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cathode luminescence
+  language_code: eng
+  annotations: []
+termid: 17-24-028
+id: a32ce6a3-793a-56db-acdb-4176b7e65ebb

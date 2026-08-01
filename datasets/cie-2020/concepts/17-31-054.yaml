@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-054
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-054
+  type: authoritative
+status: valid
+id: 3fe79846-d725-5b5b-9fdf-6d18b0f2fd91
+---
+data:
+  definition:
+  - content: line of lights in an {17-31-053, approach lighting system} that is arranged
+      orthogonal to, and symmetrically disposed about, the centreline of the system
+      and the runway
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-265 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-265
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cross bar
+    usage_info: in airfield applications
+  language_code: eng
+  annotations: []
+termid: 17-31-054
+id: ffc3572f-2eea-5c66-a019-4fb6ed3595f7

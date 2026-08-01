@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-27-087
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-087
+  type: authoritative
+status: valid
+id: e3a0b29c-274b-5b70-be2a-d2e0e2d341cb
+---
+data:
+  definition:
+  - content: luminous source in which the light is produced by {17-24-027, electroluminescence}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-48 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-369 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-48
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-369
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electroluminescent source
+  language_code: eng
+  annotations: []
+termid: 17-27-087
+id: 1071c5fb-f1b4-5ad7-b59e-85f166a4676c

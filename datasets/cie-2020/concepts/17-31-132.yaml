@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-31-132
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-132
+  type: authoritative
+status: valid
+id: e9517caa-a715-521d-8c1e-19b4e3a36b0f
+---
+data:
+  definition:
+  - content: visually perceptible figure, intended to convey a particular meaning
+  notes:
+  - content: This entry was numbered 17-1292 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1292
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symbol
+  language_code: eng
+  annotations: []
+termid: 17-31-132
+id: 8030d0fc-b289-5df7-8d53-05b68e7eae6d

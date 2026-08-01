@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-24-024
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-024
+  type: authoritative
+status: valid
+id: a43856ae-492e-5b9a-af0a-1a27f2e77fd1
+---
+data:
+  definition:
+  - content: slowly decaying {17-24-021, luminescence} persisting after the {17-24-020,
+      excitation} of the material has ceased
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-21 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-30 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-21
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-30
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: afterglow
+    usage_info: of a luminescent material
+  language_code: eng
+  annotations: []
+termid: 17-24-024
+id: dea7c016-e1d6-5ba5-8d92-cf91ad21f9d8

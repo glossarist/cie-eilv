@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-27-084
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-084
+  type: authoritative
+status: valid
+id: b5a1f36d-091b-5022-bea1-dbabe17cd789
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} designed to provide light approximating the
+      spectral power distribution of {17-29-105, daylight}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-282 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-282
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-084
+id: 2266a529-4a0b-577d-8a5c-5add571fc64c

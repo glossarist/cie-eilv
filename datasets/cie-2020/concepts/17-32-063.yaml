@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-32-063
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-063
+  type: authoritative
+status: valid
+id: 9d2df3d0-dcbb-59d3-85ff-94fdb5c6e717
+---
+data:
+  definition:
+  - content: style of mapping colour values from one image description to another
+    type: intensional
+  examples: []
+  notes:
+  - content: Within an ICC profile, a rendering intent identifies the subset of the
+      profile to use for mapping colour values in a particular case.
+    type: intensional
+  - content: See also "{17-32-048, ICC file format}".
+    type: intensional
+  - content: This entry was numbered 17-1088 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1088
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rendering intent
+  language_code: eng
+  annotations: []
+termid: 17-32-063
+id: 84580135-1578-5201-b529-d054103744a4

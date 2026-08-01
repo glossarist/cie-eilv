@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-21-107
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-107
+  type: authoritative
+status: valid
+id: a20e4c3b-2146-5513-83ab-1705a586cbff
+---
+data:
+  definition:
+  - content: quantum of {17-21-001, electromagnetic radiation} considered as a particle
+      of energy <i>hν</i>, where <i>h</i> is the {17-21-108, Planck constant} and
+      <i>ν</i> the frequency of the radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: A photon is an elementary particle of spin 1 and having zero rest mass.
+    type: intensional
+  - content: This entry was numbered 17-918 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-918
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon
+  language_code: eng
+  annotations: []
+termid: 17-21-107
+id: 8afed37f-84cd-5b77-bddf-4d7d2c77b312

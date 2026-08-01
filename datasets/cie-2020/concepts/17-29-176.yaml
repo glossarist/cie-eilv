@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-176
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-176
+  type: authoritative
+status: valid
+id: 1ad3563d-8112-5d0d-99d6-840fae799e8e
+---
+data:
+  definition:
+  - content: area where specific activities take place or are planned and where specific
+      requirements for the restriction of {17-29-181, obtrusive light} are recommended
+    type: intensional
+  examples: []
+  notes:
+  - content: Environmental zones are indicated by a zone rating (E0 … E4) in accordance
+      with CIE 150:2017, <i>Guide on the Limitation of the Effects of Obtrusive Light
+      from Outdoor Lighting Installations, 2nd Edition</i>.
+    type: intensional
+  - content: This entry was numbered 17-388 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-388
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: environmental zone
+  language_code: eng
+  annotations: []
+termid: 17-29-176
+id: ae3e3f01-8f1a-5587-a912-115f64525124

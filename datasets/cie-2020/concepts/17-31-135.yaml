@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-31-135
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-135
+  type: authoritative
+status: valid
+id: 6cb39c7f-bb46-5e8b-b23d-7c97cb5ef578
+---
+data:
+  definition:
+  - content: reduction of {17-22-089, contrast} caused by the non-specular or {17-24-052,
+      regular reflection} of light from the {17-31-002, sign} face when light falls
+      on a {17-31-002, sign} from a {17-21-032, source} or sources external to the
+      {17-31-002, sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: Washout can cause the contrast ratio of the {17-31-002, sign} to fall
+      below its permitted limit.
+    type: intensional
+  - content: This entry was numbered 17-1423 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1423
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: washout
+  language_code: eng
+  annotations: []
+termid: 17-31-135
+id: 8bd7eb07-326c-5d2c-af01-6cc9be8a6443

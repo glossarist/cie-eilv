@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-24-035
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-035
+  type: authoritative
+status: valid
+id: 6aca49ac-d457-55c1-b448-47a79176648a
+---
+data:
+  definition:
+  - content: quotient of the {17-21-040, photon flux} of the radiation emitted by
+      a {17-24-040, photoluminescent material} and the {17-21-040, photon flux} of
+      the exciting radiation absorbed by that material
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-25-075, external photoluminescence quantum yield}".
+    type: intensional
+  - content: The photoluminescence quantum yield has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-32 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-906 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-32
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-906
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoluminescence quantum yield
+  language_code: eng
+  annotations: []
+termid: 17-24-035
+id: ff6cdaee-ec91-5dfb-be12-6512b11fbc2d

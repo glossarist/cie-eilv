@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-21-040
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-040
+  type: authoritative
+status: valid
+id: 1e530c40-97a1-5b7b-bc18-1640ce5638da
+---
+data:
+  definition:
+  - content: |-
+      rate of {17-21-043, photon number} per <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time interval</a>
+
+      where <i>N</i><sub>p</sub> is {17-21-043, photon number}, transmitted or received, and <i>t</i> is time
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Photon flux, <i>Φ</i><sub>p</sub>, is related to {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>, of {17-21-014, monochromatic radiation} by
+
+      where <i>h</i> is the {17-21-108, Planck constant}, and <i>ν</i> is the frequency of the corresponding electromagnetic wave.
+    type: intensional
+  - content: For a beam of radiation whose {17-21-029, spectral distribution} is or
+      , the photon flux can be expressed by , where <i>h</i> is Planck's constant
+      and <i>c</i><sub>0</sub> is the speed of light in vacuum.
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-038, radiant flux}".
+      The corresponding photometric quantity is "{17-21-039, luminous flux}".
+    type: intensional
+  - content: The photon flux is expressed in second to the power minus one (s<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-927 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-26
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-927
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon flux
+  - type: symbol
+    normative_status: preferred
+    designation: Φp; Φ
+  language_code: eng
+  annotations: []
+termid: 17-21-040
+id: 225dc515-c97c-5f82-a883-f598c620dcbd

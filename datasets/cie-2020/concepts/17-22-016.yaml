@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-22-016
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-016
+  type: authoritative
+status: valid
+id: 6d341912-d626-5746-a353-c8e589693ff0
+---
+data:
+  definition:
+  - content: vision by the normal eye in which {17-22-002, cones} are the principal
+      active photoreceptors
+    type: intensional
+  examples: []
+  notes:
+  - content: Photopic vision normally occurs when the eye is adapted to levels of
+      {17-21-050, luminance} of at least 5 cd·m<sup>−2</sup>.
+    type: intensional
+  - content: Colour perception is typical of photopic vision.
+    type: intensional
+  - content: This entry was numbered 845-02-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-938 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-938
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photopic vision
+  language_code: eng
+  annotations: []
+termid: 17-22-016
+id: 88e1c011-a0d1-55c0-8b5e-14c7374222d2

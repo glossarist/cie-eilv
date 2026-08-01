@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-29-095
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-095
+  type: authoritative
+status: valid
+id: 626c001e-69c0-5d51-8027-0ff25c2b37f9
+---
+data:
+  definition:
+  - content: quotient of that part of the {17-21-038, radiant flux} or {17-21-039,
+      luminous flux} from a surface, the {17-21-049, radiance} or {17-21-050, luminance}
+      of which is the same at all points and for all directions, which falls on the
+      surface itself, and the {17-21-080, radiant exitance} or {17-21-081, luminous
+      exitance} of the surface
+    type: intensional
+  examples: []
+  notes:
+  - content: The self-exchange coefficient of a surface, S, limited by a flat curve,
+      C, and situated on only one side of the plane of this curve is equal to the
+      surface area of S minus the flat surface area limited by C.
+    type: intensional
+  - content: The self-exchange coefficient is expressed in square metre (m<sup>2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-09-74 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1158 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-74
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1158
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-exchange coefficient
+    usage_info: of a surface
+  - type: symbol
+    normative_status: preferred
+    designation: gs
+  language_code: eng
+  annotations: []
+termid: 17-29-095
+id: bbf259ba-901f-5678-972d-1db16dc993c1

@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-22-004
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-004
+  type: authoritative
+status: valid
+id: f7ece2e0-041f-51c6-866c-a956f8a3d2dc
+---
+data:
+  definition:
+  - content: location in the centre of the {17-22-001, retina} that contains a photostable
+      pigment
+    type: intensional
+  examples: []
+  notes:
+  - content: The location includes the {17-22-006, fovea} and appears yellow in {17-22-040,
+      colour}.
+    type: intensional
+  - content: See also "{17-22-006, fovea}".
+    type: intensional
+  - content: This entry was numbered 845-02-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-747 and 17-1446 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-747 and 17-1446
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: macula lutea
+  - type: symbol
+    normative_status: preferred
+    designation: yellow spot
+  language_code: eng
+  annotations: []
+termid: 17-22-004
+id: 6008a801-cbe0-5187-a8c2-ded0b20f77a5

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-051
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-051
+  type: authoritative
+status: valid
+id: 1d9e8326-878d-522c-b1d7-ffbdfe62f199
+---
+data:
+  definition:
+  - content: "{17-30-030, projector} giving a hard-edged beam of light which can be
+      varied in outline by diaphragms, shutters, or silhouette cut-off masks"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-988 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-988
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: profile spotlight
+  language_code: eng
+  annotations: []
+termid: 17-30-051
+id: 0ef5d1ab-729d-509b-97ef-ac4ca2687c54

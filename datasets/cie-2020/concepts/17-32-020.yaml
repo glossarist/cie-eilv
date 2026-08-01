@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-32-020
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-020
+  type: authoritative
+status: valid
+id: da6d9bb5-95ee-5b6a-b367-2cad7bfd82e7
+---
+data:
+  definition:
+  - content: mathematical model that produces transformations, which are applied to
+      scene or original-referred image data to produce image data describing a reproduction,
+      which is as close as possible to being an {17-22-019, appearance} match to the
+      original
+    type: intensional
+  examples: []
+  notes:
+  - content: Transformations produced by corresponding colour reproduction models
+      will generally depend on the {17-32-027, luminance ratio} and {17-32-007, colour
+      gamut} of the scene or original and the output medium.
+    type: intensional
+  - content: This entry was numbered 17-259 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-259
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corresponding colour reproduction model
+  language_code: eng
+  annotations: []
+termid: 17-32-020
+id: a21c73a3-5720-5f94-ae8e-dca704b905ba

@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-25-085
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-085
+  type: authoritative
+status: valid
+id: 8f122767-0e71-5034-a400-e3c0df22f80b
+---
+data:
+  definition:
+  - content: angle subtended by a real or apparent source at a given point in space
+    type: intensional
+  examples: []
+  notes:
+  - content: The point in space could be the eye of an observer or a point of measurement
+      or any other defined point.
+    type: intensional
+  - content: Subtended angles are denoted by the full included angle, not the half
+      angle.
+    type: intensional
+  - content: The light output of a {17-21-032, source} will often be modified by the
+      incorporation of lenses and mirrors as projection optics, in which case the
+      angular subtense of the apparent source can differ from the angular subtense
+      of the physical source.
+    type: intensional
+  - content: The angular subtense of a non-symmetrically-shaped source is determined
+      by the arithmetic mean of the maximum and minimum angular dimension of the {17-21-032,
+      source}.
+    type: intensional
+  - content: The angular subtense is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 17-42 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-42
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: angular subtense
+  - type: symbol
+    normative_status: preferred
+    designation: α
+  language_code: eng
+  annotations: []
+termid: 17-25-085
+id: 4848046c-f705-5fa8-bf4a-e26806bc389c

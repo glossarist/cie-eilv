@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-31-084
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-084
+  type: authoritative
+status: valid
+id: 95a72fa8-6d67-5aef-9529-524c0e244b3b
+---
+data:
+  definition:
+  - content: part of a {17-31-081, road tunnel} that follows directly after the {17-31-083,
+      threshold zone} and ends at the beginning of the {17-31-086, interior zone}
+    type: intensional
+  examples: []
+  notes:
+  - content: In the transition zone, the {17-29-001, lighting} level is decreasing
+      from the level at the end of the {17-31-083, threshold zone} to the level of
+      the {17-31-086, interior zone}.
+    type: intensional
+  - content: This entry was numbered 17-1332 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1332
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transition zone
+    usage_info: of a road tunnel
+  language_code: eng
+  annotations: []
+termid: 17-31-084
+id: 595e7fdc-10ea-59bb-ab95-2c59ed104a4f

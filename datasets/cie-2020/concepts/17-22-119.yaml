@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-22-119
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-119
+  type: authoritative
+status: valid
+id: 606bb34a-f658-55a5-a2f9-2b1027027235
+---
+data:
+  definition:
+  - content: method to stimulate the {17-22-001, retina} with diverging light after
+      forming an image of a {17-27-001, light source} at the centre of the pupil
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Maxwellian view
+  language_code: eng
+  annotations: []
+termid: 17-22-119
+id: b1bb5a4e-5ef6-5f08-8f79-0d25a73d953a

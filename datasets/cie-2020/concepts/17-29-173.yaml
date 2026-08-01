@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-29-173
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-173
+  type: authoritative
+status: valid
+id: fb27aefc-8d69-5766-b82c-ae0cca4dd83f
+---
+data:
+  definition:
+  - content: place intended to house {17-29-174, work station}s on the premises of
+      the undertaking and/or establishment and any other place within the area of
+      undertaking and/or establishment to which the workers have access in the course
+      of their employment
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1439 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1439
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: work place
+  language_code: eng
+  annotations: []
+termid: 17-29-173
+id: ff4d399f-71ad-54da-a16f-05f655e6cc8f

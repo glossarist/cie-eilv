@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-018
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-018
+  type: authoritative
+status: valid
+id: 645a58e5-5202-5f9c-ad38-6dd5ce3ede76
+---
+data:
+  definition:
+  - content: "{17-24-001, emission} of {17-21-002, optical radiation} by the process
+      of {17-24-002, thermal radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-15 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-569 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-15
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-569
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incandescence
+  language_code: eng
+  annotations: []
+termid: 17-24-018
+id: bc8a8e15-e4f4-554a-8f22-ff39fc740ec7

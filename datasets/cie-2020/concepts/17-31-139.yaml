@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-31-139
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-139
+  type: authoritative
+status: valid
+id: 2463d450-a405-5f8b-b9c3-748dce873f25
+---
+data:
+  definition:
+  - content: direction at right angles to the axis of the road
+  notes:
+  - content: On a curved road the transverse direction is that of the radius of curvature
+      at the point of interest on the road.
+  - content: This entry was numbered 17-1341 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1341
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transverse direction
+    usage_info: of a road
+  language_code: eng
+  annotations: []
+termid: 17-31-139
+id: 66843f14-0881-5313-9221-ae78b79dcb5d

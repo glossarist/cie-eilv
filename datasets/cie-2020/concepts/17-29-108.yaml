@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-29-108
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-108
+  type: authoritative
+status: valid
+id: 3bb5fa92-643d-5335-8720-3b6d4ab49e4e
+---
+data:
+  definition:
+  - content: quotient of the vertical {17-29-106, optical thickness} of a real turbid
+      atmosphere and the vertical {17-29-106, optical thickness} of the pure and dry
+      atmosphere (Rayleigh atmosphere), related to the visible part of the solar spectrum
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The luminous turbidity factor can be expressed by
+      <sub>
+
+
+      </sub>where <i>E</i><sub>vs</sub> is the direct-beam {17-21-060, illuminance} on a horizontal surface (at the ground), <i>E</i><sub>v</sub> is the extraterrestrial {17-21-061, horizontal illuminance}, <i>a</i><sub>v</sub> is the {17-21-106, luminous extinction coefficient}, and <i>m</i> is the {17-29-109, relative optical air mass}.
+    type: intensional
+  - content: The luminous turbidity factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-743 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-743
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous turbidity factor
+  - type: symbol
+    normative_status: preferred
+    designation: Tv
+  language_code: eng
+  annotations: []
+termid: 17-29-108
+id: ac9bb80d-73e7-50f0-8508-412ee824ee16

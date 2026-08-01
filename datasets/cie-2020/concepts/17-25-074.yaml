@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-25-074
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-074
+  type: authoritative
+status: valid
+id: fa5611d6-9a61-519f-9ac0-e36123bef509
+---
+data:
+  definition:
+  - content: quotient of the number of elementary events (such as release of an electron)
+      contributing to the {17-25-058, output} and the number of incident {17-21-107,
+      photon}s, including those reflected by the {17-25-035, detector}
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "{17-25-076, internal quantum efficiency}".
+    type: intensional
+  - content: The external quantum efficiency has unit one.
+    type: intensional
+  - content: This entry was numbered 17-421 and 17-1010 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-421 and 17-1010
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: external quantum efficiency
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: quantum efficiency, <of a detector>
+  language_code: eng
+  annotations: []
+termid: 17-25-074
+id: 8eb655fe-eb2c-5017-91a4-df1c68839d43

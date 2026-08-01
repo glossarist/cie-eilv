@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-24-082
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-082
+  type: authoritative
+status: valid
+id: fdad52ea-dee7-5fa9-9cf4-890b5663971c
+---
+data:
+  definition:
+  - content: quotient of absorbed {17-21-038, radiant flux}, <i>Φ</i><sub>a</sub>,
+      and incident {17-21-038, radiant flux}, <i>Φ</i><sub>m</sub>
+    type: intensional
+  examples: []
+  notes:
+  - content: The absorptance is also defined spectrally in terms of {17-21-025, wavelength},
+      in which case, "spectral" is added before the quantity name.
+    type: intensional
+  - content: Due to energy conservation, <i>α</i> + <i>ρ</i> + <i>τ</i> = 1 except
+      when {17-21-017, polarized radiation} is observed, where <i>ρ</i> is {17-24-064,
+      reflectance} and <i>τ</i> is {17-24-065, transmittance}.
+    type: intensional
+  - content: The absorptance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-75 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-5 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-75
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-5
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorptance
+  - type: symbol
+    normative_status: preferred
+    designation: α
+  language_code: eng
+  annotations: []
+termid: 17-24-082
+id: 4e6a4532-b1b8-5f71-91db-d947948a750d

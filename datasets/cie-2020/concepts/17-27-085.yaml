@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-27-085
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-085
+  type: authoritative
+status: valid
+id: 2c881f33-9477-5c7a-b367-4aace7437e36
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} designed to emit UV-A radiation and very
+      little {17-21-003, visible radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: A black light lamp is generally mercury discharge or fluorescent.
+    type: intensional
+  - content: This entry was numbered 845-07-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-92 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-92
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: black light lamp
+  - type: symbol
+    normative_status: preferred
+    designation: blacklight lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-085
+id: 6f704a0d-d743-51c4-970e-9d1377f23963

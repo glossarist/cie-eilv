@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-25-102
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-102
+  type: authoritative
+status: valid
+id: 42553e35-add8-528b-81f4-f44a7e77e6aa
+---
+data:
+  definition:
+  - content: "{17-25-057, input} signal divided by a reference value"
+    type: intensional
+  examples: []
+  notes:
+  - content: It is common to use the maximum value or the full-scale value as the
+      reference value.
+    type: intensional
+  - content: This entry was numbered 17-828 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-828
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized signal
+  language_code: eng
+  annotations: []
+termid: 17-25-102
+id: 50e14782-75fa-5841-8738-c24a467d866b

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-24-123
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-123
+  type: authoritative
+status: valid
+id: 8a8f8402-442c-5e0e-9847-46a0bde4d5fb
+---
+data:
+  definition:
+  - content: process by which an object changes spectral {17-24-064, reflectance}
+      or spectral {17-24-065, transmittance} because of a change in its temperature
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1308 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1308
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermochromism
+  language_code: eng
+  annotations: []
+termid: 17-24-123
+id: dd86186c-e6eb-5f37-8f01-c54647d035ed

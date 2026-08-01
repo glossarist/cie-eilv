@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-23-012
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-012
+  type: authoritative
+status: valid
+id: 050040fd-1b5c-5355-ac44-94aff54b60a7
+---
+data:
+  definition:
+  - content: two {17-23-002, colour stimulus} that have the same {17-22-058, colour
+      appearance} when one is seen in one set of {17-22-012, adaptation} conditions
+      and the other is seen in a different set
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-260 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-260
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corresponding colour stimuli
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-012
+id: f93cb1d0-1cfd-54c9-8657-4f0b8e0c3069

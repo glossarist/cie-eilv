@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-24-060
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-060
+  type: authoritative
+status: valid
+id: b29b9def-7d01-55c5-bf22-967fa934626b
+---
+data:
+  definition:
+  - content: "{17-30-039, diffuser} exhibiting {17-24-058, isotropic diffuse reflection}
+      with a {17-24-064, reflectance} equal to 1"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-54 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-874 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-54
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-874
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perfect reflecting diffuser
+  language_code: eng
+  annotations: []
+termid: 17-24-060
+id: 11e9236a-4387-57b4-94fc-87e9b71feb5b

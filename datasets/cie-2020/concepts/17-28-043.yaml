@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-28-043
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-043
+  type: authoritative
+status: valid
+id: 9a81fdbf-7da2-5f63-ba9c-c175711e6e76
+---
+data:
+  definition:
+  - content: device intended, either by itself or in combination with other components,
+      to generate voltage pulses to start a {17-27-024, discharge lamp} without providing
+      for the preheating of the electrodes
+    type: intensional
+  examples: []
+  notes:
+  - content: The element that releases the {17-27-116, starting voltage} pulse can
+      be either triggered or non-triggered.
+    type: intensional
+  - content: This entry was numbered 845-08-33 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-549 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-33
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-549
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ignitor
+  language_code: eng
+  annotations: []
+termid: 17-28-043
+id: cc6b4ffc-0ef4-59a4-979c-403aee8d54e0

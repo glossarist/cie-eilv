@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-24-011
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-011
+  type: authoritative
+status: valid
+id: dfb9c635-0c8e-57a6-a283-e8d5ada3b769
+---
+data:
+  definition:
+  - content: "{17-24-003, thermal radiator} whose spectral {17-24-009, emissivity}
+      is constant with respect to {17-21-025, wavelength} over the spectral range
+      considered"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-823 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-823
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective thermal radiator
+  language_code: eng
+  annotations: []
+termid: 17-24-011
+id: 301a1ab3-f709-50f6-b182-a96f4fb70ae6

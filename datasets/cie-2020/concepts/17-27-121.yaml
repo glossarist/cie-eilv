@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-27-121
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-121
+  type: authoritative
+status: valid
+id: 3497bfa1-c6f4-52cc-9b68-940f9051343d
+---
+data:
+  definition:
+  - content: calculated or measured amount of weighted net energy actually used or
+      estimated to meet different needs associated with a standardized operation of
+      a {17-27-010, lighting system}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy performance
+    usage_info: of a lighting system
+  language_code: eng
+  annotations: []
+termid: 17-27-121
+id: cf2ad768-e608-5348-affd-fc94a7da3345

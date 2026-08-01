@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-111
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-111
+  type: authoritative
+status: valid
+id: 7f8667e2-bb07-58bb-8376-2765447c9923
+---
+data:
+  definition:
+  - content: 'completely overcast sky for which the quotient of its {17-21-050, luminance},
+      <i>L<sub>γ</sub></i>, in the direction at an angle, <i>γ</i>, above the horizon
+      and its {17-21-050, luminance}, <i>L</i><sub>z</sub>, at the zenith is given
+      by the relation:'
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-90 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-169 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-90
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-169
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard overcast sky
+  language_code: eng
+  annotations: []
+termid: 17-29-111
+id: 70a46044-f127-532d-99b4-6c45f3a10595

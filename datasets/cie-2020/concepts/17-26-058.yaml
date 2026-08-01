@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-26-058
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-058
+  type: authoritative
+status: valid
+id: 45cbce55-d980-5728-b570-98949af9bafe
+---
+data:
+  definition:
+  - content: time integral of the blue light hazard radiance, <i>L</i><sub>B</sub>,
+      as integrated with respect to the {17-26-071, exposure duration}
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
+      its maximum value is 1.
+    type: intensional
+  - content: It is essential to specify which actinic {17-26-027, action spectrum}
+      is used, as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: See also "{17-21-067, radiance dose}".
+    type: intensional
+  - content: The blue light hazard radiance dose is expressed in joule per square
+      metre per steradian (J·m<sup>−2</sup>⋅sr<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-100 and 17-103 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-100 and 17-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard radiance dose
+  - type: symbol
+    normative_status: preferred
+    designation: blue light hazard time integrated radiance
+  language_code: eng
+  annotations: []
+termid: 17-26-058
+id: 3ecd386a-0977-51ac-82d0-052d38544cbe

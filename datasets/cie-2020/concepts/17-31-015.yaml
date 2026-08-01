@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-015
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-015
+  type: authoritative
+status: valid
+id: 37785cfd-ede3-56a5-a746-62e23bd12039
+---
+data:
+  definition:
+  - content: diffused glow that can be seen from outside a beam of light as an effect
+      of atmospheric {17-24-049, scattering} of the light
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-17 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-695 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-17
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-695
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loom
+    usage_info: of a light
+  language_code: eng
+  annotations: []
+termid: 17-31-015
+id: 3ba474df-c6dc-5d01-97c8-382ef605e405

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-21-057
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-057
+  type: authoritative
+status: valid
+id: cc41504e-cf99-5c23-8079-ddf02568f4d7
+---
+data:
+  definition:
+  - content: integrated {17-21-049, radiance} either on any surface from its half
+      space or in any point from the whole space
+    type: intensional
+  examples: []
+  notes:
+  - content: The scalar irradiance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1138 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1138
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scalar irradiance
+  language_code: eng
+  annotations: []
+termid: 17-21-057
+id: f6643e41-b20d-5f55-a495-3cea1195592f

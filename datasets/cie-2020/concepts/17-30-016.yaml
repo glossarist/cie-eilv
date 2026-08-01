@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-30-016
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-016
+  type: authoritative
+status: valid
+id: 3a5568d3-0efa-54e7-aea5-b5bfeacc7e60
+---
+data:
+  definition:
+  - content: "{17-30-015, pendant luminaire} with means for height adjustment"
+    type: intensional
+  examples: []
+  notes:
+  - content: An example of the adjustment means is a suspension with pulleys, or counterweights.
+    type: intensional
+  - content: This entry was numbered 845-10-11 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1111 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-11
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1111
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rise and fall pendant luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-016
+id: 0ad6555e-2082-5fb1-8fc5-65c7fc13f476

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-128
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-128
+  type: authoritative
+status: valid
+id: 4ffe344d-c81f-5dde-880c-a63104a2df05
+---
+data:
+  definition:
+  - content: ease with which an observer can distinguish and recognize {17-31-132,
+      symbol}s, alphanumeric characters, or words
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-650 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-650
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legibility
+  language_code: eng
+  annotations: []
+termid: 17-31-128
+id: 696c5fdc-7663-5a4c-a40a-5720641b16d7

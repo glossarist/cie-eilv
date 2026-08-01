@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-019
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-019
+  type: authoritative
+status: valid
+id: 22bad5e8-8327-5062-aabf-97c891af3a04
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} in which the light on the {17-29-068, working
+      plane} or on an object is incident predominantly from a particular direction"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-329 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-329
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: directional lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-019
+id: 2a6d8d6b-0484-5cb2-bb38-326e5a97b922

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-26-044
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-044
+  type: authoritative
+status: valid
+id: '018ae3f9-0fd8-508e-be11-4566e88fe7b7'
+---
+data:
+  definition:
+  - content: hormone secreted from the pineal gland
+    type: intensional
+  examples: []
+  notes:
+  - content: Levels of melatonin in the pineal gland, blood, saliva, and urine fluctuate
+      in a {17-26-041, circadian rhythm}, higher at night and lower in the daytime,
+      following the biological clock that is itself set naturally by day/night {17-26-042,
+      photoperiod}s. Light at night reduces melatonin, while decoupling the biological
+      and natural (or artificially induced) {17-26-042, photoperiod}s causes disruption
+      of sleep/wake cycles (e.g. jet lag).
+    type: intensional
+  - content: This entry was numbered 17-762 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-762
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: melatonin
+  - type: symbol
+    normative_status: preferred
+    designation: melatonin hormone
+  language_code: eng
+  annotations: []
+termid: 17-26-044
+id: 5f01e7f0-27e0-599b-8b89-9ef684211f05

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-31-090
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-090
+  type: authoritative
+status: valid
+id: cd9dae49-8902-51bf-8832-d0ffd5133a12
+---
+data:
+  definition:
+  - content: average road surface {17-21-050, luminance} in a transverse section at
+      a particular location in the {17-31-084, transition zone}
+    type: intensional
+  examples: []
+  notes:
+  - content: The transition zone luminance is expressed in candela per square metre
+      (cd·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1333 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1333
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transition zone luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ltr
+  language_code: eng
+  annotations: []
+termid: 17-31-090
+id: d441f5c8-aad2-540d-b5f3-7e4a3715ddab

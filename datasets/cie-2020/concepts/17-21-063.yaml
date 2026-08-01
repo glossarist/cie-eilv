@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-21-063
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-063
+  type: authoritative
+status: valid
+id: dc77b0f8-5261-5759-aa90-868d6aac9267
+---
+data:
+  definition:
+  - content: mean value of {17-21-060, illuminance} on the outer curved surface of
+      a very small (real or imaginary) cylinder that is oriented vertically at a point
+      in space
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Cylindrical illuminance is sometimes also defined as the arithmetic mean of the {17-21-062, vertical illuminance}, <i>E</i><sub>v,v</sub>, at a point
+
+      where <i>E</i><sub>v,v</sub> is the {17-21-062, vertical illuminance} for an area element with its normal in the direction <i>φ</i>, and <i>φ</i> is the angle in the plane perpendicular to the axis of the cylinder.
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-055, cylindrical irradiance}".
+      The corresponding quantity for photons is "{17-21-069, photon cylindrical irradiance}".
+    type: intensional
+  - content: The cylindrical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-273 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-273
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cylindrical illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,c; Ec
+  language_code: eng
+  annotations: []
+termid: 17-21-063
+id: fda73e70-9182-5caf-9005-fde96d5f5564

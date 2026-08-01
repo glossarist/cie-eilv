@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-29-029
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-029
+  type: authoritative
+status: valid
+id: e3786dd2-4810-5577-9b4a-c5d82d0f3962
+---
+data:
+  definition:
+  - content: degree of excellence to which the totality of {17-29-001, lighting} characteristics
+      fulfils user needs and expectations or other applicable requirements
+    type: intensional
+  examples: []
+  notes:
+  - content: The degree of excellence is not a quantitative measure but depends on
+      the application area and covers individual end-user well-being, safety and public
+      security, architecture and lit environment.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting quality
+  language_code: eng
+  annotations: []
+termid: 17-29-029
+id: d8b07936-7626-5f38-8256-3af6ca0f2104

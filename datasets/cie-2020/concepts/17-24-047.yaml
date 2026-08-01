@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-24-047
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-047
+  type: authoritative
+status: valid
+id: c0fdc774-b543-5f76-9efd-6dc811883640
+---
+data:
+  definition:
+  - content: process by which radiation is returned by a surface or a medium, without
+      change in the frequency of its monochromatic components
+  notes:
+  - content: Part of the radiation falling on a medium is reflected at the surface
+      of the medium ("surface reflection"); another part can be scattered back from
+      the interior of the medium ("volume reflection").
+  - content: The frequency is unchanged only if there is no Doppler effect due to
+      the motion of the materials from which the radiation is returned.
+  - content: This entry was numbered 845-04-42 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-1065 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-42
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1065
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflection
+    usage_info: of radiation
+  language_code: eng
+  annotations: []
+termid: 17-24-047
+id: f8dfa933-3c4c-5245-9f2e-d205827d9972

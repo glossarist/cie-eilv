@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-21-077
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-077
+  type: authoritative
+status: valid
+id: a4e41c4f-0229-58ab-8a56-0c1176d4bb7c
+---
+data:
+  definition:
+  - content: time integral of the {17-21-055, cylindrical irradiance}, <i>E</i><sub>e,c</sub>,
+      at a given point for a given direction, over a given duration, Δ<i>t</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The radiant cylindrical exposure is expressed in joule per square metre
+      (J·m<sup>−2</sup> = W·s·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-46 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1017 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-46
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant cylindrical exposure
+  - type: symbol
+    normative_status: preferred
+    designation: He,c; Hc
+  language_code: eng
+  annotations: []
+termid: 17-21-077
+id: 9d17ec68-8759-50ef-83aa-068d642ef2c3

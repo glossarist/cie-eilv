@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-074
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-074
+  type: authoritative
+status: valid
+id: d1adbc62-c3b3-575d-bebe-7e136bb70ba0
+---
+data:
+  definition:
+  - content: quotient of the flux transmitted by a specimen in a given optical system
+      and the flux transmitted when the specimen is removed from the {17-25-114, sampling
+      aperture}
+    type: intensional
+  examples: []
+  notes:
+  - content: Comparison of the radiation penetrating a slide situated in a {17-30-030,
+      projector} and reaching a screen to the radiation when the slide is removed
+      from the {17-30-030, projector} and only an empty slide mount is in the {17-30-030,
+      projector}.
+    type: intensional
+  - content: The transmittance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1338 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1338
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmittance factor
+  - type: symbol
+    normative_status: preferred
+    designation: T
+  language_code: eng
+  annotations: []
+termid: 17-24-074
+id: 88810772-4b14-56f7-abf2-d91e7d6a736a

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-29-026
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-026
+  type: authoritative
+status: valid
+id: d390c02f-2f62-5ded-b46e-05e7979e7246
+---
+data:
+  definition:
+  - content: type of {17-29-001, lighting} that uses semiconductor {17-27-050, LED}s,
+      organic LEDs (OLEDs), polymer LEDs (PLEDs) or laser diodes as {17-21-032, source}s
+      of lighting
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solid-state lighting
+  - type: symbol
+    normative_status: preferred
+    designation: SSL
+  language_code: eng
+  annotations: []
+termid: 17-29-026
+id: 35a9bf25-a19b-504e-943d-0fbf08a9740e

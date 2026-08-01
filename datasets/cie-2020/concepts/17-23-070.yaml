@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-23-070
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-070
+  type: authoritative
+status: valid
+id: 787e3f11-4a1b-539d-93c6-696b386eb218
+---
+data:
+  definition:
+  - content: achromatic reference stimulus in a {17-23-054, chromaticity diagram}
+      corresponding to the stimulus that produces an image area that has the perception
+      of white
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1430 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1430
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point
+    usage_info: in a chromaticity diagram
+  language_code: eng
+  annotations: []
+termid: 17-23-070
+id: d311726c-4145-5fcd-b7cf-c484631c553c

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-29-042
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-042
+  type: authoritative
+status: valid
+id: 8d8c8644-f045-5702-a3e3-a9f39c13d08c
+---
+data:
+  definition:
+  - content: array of {17-29-041, iso-intensity curve}s
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "isocandela diagram" is no longer in use.
+    type: intensional
+  - content: See also "{17-25-091, distribution curve}" (17-25-091).
+    type: intensional
+  - content: This entry was numbered 845-09-29 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-619 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-619
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-intensity diagram
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: isocandela diagram'
+  language_code: eng
+  annotations: []
+termid: 17-29-042
+id: df58efe6-fa37-51ae-af67-80b990d002c9

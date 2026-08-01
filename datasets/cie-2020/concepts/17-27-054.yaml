@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-27-054
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-054
+  type: authoritative
+status: valid
+id: e28ebce8-bb14-5e9f-bee2-fb559291ee4e
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} based on LED technology"
+    type: intensional
+  examples: []
+  notes:
+  - content: An LED lamp can be an {17-27-055, integrated LED lamp} (LEDi lamp), or
+      a {17-27-056, semi-integrated LED lamp} (LEDsi lamp), or a {17-27-057, non-integrated
+      LED lamp} (LEDni lamp).
+    type: intensional
+  - content: LED lamps can incorporate at least one {17-27-058, LED module}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LED lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-054
+id: 4d2d86d4-d6aa-567c-a090-fe67747381f4

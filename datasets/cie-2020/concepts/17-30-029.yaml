@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-30-029
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-029
+  type: authoritative
+status: valid
+id: 18539b3c-5d3e-5c8a-be8c-f89d19d12d2d
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} comprising an assembly of series-connected {17-27-008,
+      electric lamp}s, parallel-connected {17-27-008, electric lamp}s or series/parallel-connected
+      {17-27-008, electric lamp}s and interconnecting insulated conductors"
+    type: intensional
+  examples: []
+  notes:
+  - content: For lighting chains with non-standardized {17-27-008, electric lamp}s
+      (e.g. {17-27-008, electric lamp}s of the push-in type), the {17-27-008, electric
+      lamp}s are regarded as part of the chain.
+    type: intensional
+  - content: For lighting chains with non-removable {17-27-008, electric lamp}s, the
+      {17-27-008, electric lamp}s are regarded as part of the chain.
+    type: intensional
+  - content: A lighting chain can incorporate control devices (e.g. flasher units).
+    type: intensional
+  - content: This entry was numbered 845-10-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-675 and 17-678 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-24
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-675 and 17-678
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting chain
+  - type: symbol
+    normative_status: preferred
+    designation: lighting string, US
+  language_code: eng
+  annotations: []
+termid: 17-30-029
+id: f7031f42-6352-5140-ba33-76366987befb

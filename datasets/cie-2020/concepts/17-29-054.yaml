@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-054
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-054
+  type: authoritative
+status: valid
+id: ec61c871-4928-54b7-be39-292a87ee2ac5
+---
+data:
+  definition:
+  - content: quotient of the {17-29-047, downward flux} and the {17-29-046, total
+      flux} of a {17-30-001, luminaire}
+    type: intensional
+  examples: []
+  notes:
+  - content: The downward flux fraction has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-351 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-351
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downward flux fraction
+  language_code: eng
+  annotations: []
+termid: 17-29-054
+id: bb9629e2-c33d-55b8-9247-e07097336e67

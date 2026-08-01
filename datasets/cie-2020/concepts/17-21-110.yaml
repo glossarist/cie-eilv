@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-21-110
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-110
+  type: authoritative
+status: valid
+id: 4462242c-573e-5122-9c51-e11770a7fb10
+---
+data:
+  definition:
+  - content: "{17-21-039, luminous flux} emitted within a specified cone angle, <i>α</i>,
+      determined from the {17-29-037, luminous intensity distribution}, <i>I</i><sub>v</sub>(<i>θ</i>,<i>φ</i>),
+      of the {17-27-001, light source}:"
+    type: intensional
+  examples: []
+  notes:
+  - content: "(<i>θ</i>,<i>φ</i>) = (0,0) is the direction of the cone axis, which
+      can be coincident with the mechanical axis or {17-27-076, optical beam axis}
+      of the {17-27-001, light source} or any other direction, and should be specified."
+    type: intensional
+  - content: The cone angle, <i>α</i>, which can be expressed either in degrees (°)
+      or radians (rad), is given by the full conic angle and has to be specified,
+      e.g. <i>Φ</i><sub>p,90°</sub> or<i>Φ</i><sub>p,π/2</sub>.
+    type: intensional
+  - content: The term "cone luminous flux" is also used in some applications with
+      the same meaning.
+    type: intensional
+  - content: See also "{17-21-111, useful luminous flux}".
+    type: intensional
+  - content: The partial luminous flux is expressed in lumen (lm).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial luminous flux
+    usage_info: of a light source
+  - type: symbol
+    normative_status: preferred
+    designation: Φv,p,α ; Φα
+  language_code: eng
+  annotations: []
+termid: 17-21-110
+id: b9ce861d-696a-5a90-a45b-7f6c04199269

@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-181
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-181
+  type: authoritative
+status: valid
+id: c959db6a-da76-50d6-b9d8-4da0e4a312a6
+---
+data:
+  definition:
+  - content: "{17-29-185, spill light} which, because of quantitative or directional
+      attributes, gives rise to annoyance, discomfort, distraction, or a reduction
+      in ability to see essential information such as transport signals"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-836 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-836
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obtrusive light
+  language_code: eng
+  annotations: []
+termid: 17-29-181
+id: e9400405-5606-5d0e-9641-af777b908532

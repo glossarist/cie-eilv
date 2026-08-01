@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-21-069
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-069
+  type: authoritative
+status: valid
+id: 6a5de837-6b14-5b70-9531-66d45d976a52
+---
+data:
+  definition:
+  - content: mean value of {17-21-058, photon irradiance} on the outer curved surface
+      of a very small (real or imaginary) cylinder that is oriented vertically at
+      a point in space
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Photon cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical {17-21-058, photon irradiance}, <i>E</i><sub>p,v</sub>, at a point
+
+      where <i>E</i><sub>p,v</sub> is the vertical {17-21-058, photon irradiance} for an area element with its normal in the direction <i>φ</i>, and <i>φ </i>is the angle in the plane perpendicular to the axis of the cylinder.
+    type: intensional
+  - content: The corresponding radiometric quantity is "{17-21-055, cylindrical irradiance}".
+      The corresponding photometric quantity is "{17-21-063, cylindrical illuminance}".
+    type: intensional
+  - content: The photon cylindrical irradiance is expressed in second to the power
+      minus one per square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-921 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-921
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon cylindrical irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ep,c; Ec
+  language_code: eng
+  annotations: []
+termid: 17-21-069
+id: 51c0e6ff-cfeb-535e-aea6-d6985fe65b95

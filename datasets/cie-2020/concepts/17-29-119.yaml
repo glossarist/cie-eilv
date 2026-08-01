@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-119
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-119
+  type: authoritative
+status: valid
+id: edc48d3e-c43e-5847-80f3-a3a865e5659c
+---
+data:
+  definition:
+  - content: duration within a given <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> during which the Sun is above the real horizon, which can be obscured
+      by mountains, buildings, trees, etc.
+  notes:
+  - content: This entry was numbered 845-09-95 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-972 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-95
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-972
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: possible sunshine duration
+  language_code: eng
+  annotations: []
+termid: 17-29-119
+id: 37c22790-f4c2-5e17-9b2d-52a0f4af22b5

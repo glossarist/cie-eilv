@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-29-044
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-044
+  type: authoritative
+status: valid
+id: 8b9fd6d9-e936-57ff-a086-e0047f08f065
+---
+data:
+  definition:
+  - content: "{17-21-039, luminous flux} emitted by the {17-27-001, light source}
+      under operating conditions, within a cone having a vertically downward axis
+      and enclosing the {17-21-109, solid angle}"
+    type: intensional
+  examples: []
+  notes:
+  - content: The cumulative flux is expressed in lumen (lm).
+    type: intensional
+  - content: In {17-25-005, radiometry} the term "cumulative flux" is also used with
+      respect to {17-21-038, radiant flux} instead of {17-21-039, luminous flux} and
+      in that case is expressed in watt (W).
+    type: intensional
+  - content: This entry was numbered 845-09-31 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-267 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-31
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-267
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cumulative flux
+    usage_info: of a light source, for a solid angle
+  language_code: eng
+  annotations: []
+termid: 17-29-044
+id: 47a07f5c-0c27-5e12-9c5c-90f361a85d68

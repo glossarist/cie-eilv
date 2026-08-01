@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-30-041
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-041
+  type: authoritative
+status: valid
+id: 0b13db26-d5d6-508b-b35b-c0c3cd3a1f55
+---
+data:
+  definition:
+  - content: envelope of transparent or diffusing material, intended to protect the
+      {17-27-008, electric lamp}, to diffuse the light, or to change the colour of
+      the light
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-36 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-499 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-36
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-499
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: globe
+  language_code: eng
+  annotations: []
+termid: 17-30-041
+id: 8d700543-37d9-5e1c-9e3e-a1a9737b4a35

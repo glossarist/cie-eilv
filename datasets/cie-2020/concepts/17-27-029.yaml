@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-27-029
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-029
+  type: authoritative
+status: valid
+id: e2de866d-ce7f-5990-9529-49ed94a337eb
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} containing in the same {17-28-006, bulb}
+      the {17-28-038, arc tube} of a mercury vapour lamp and an {17-27-011, incandescent
+      lamp} filament connected in series"
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-28-006, bulb} can be diffusing or coated with phosphors.
+    type: intensional
+  - content: This entry was numbered 845-07-21 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-94 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-21
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-94
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blended lamp
+  - type: symbol
+    normative_status: preferred
+    designation: integrated mercury lamp, US
+  language_code: eng
+  annotations: []
+termid: 17-27-029
+id: accc6b4e-8f68-5e3c-bed1-8c64993803dc

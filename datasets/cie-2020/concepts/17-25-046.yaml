@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-25-046
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-046
+  type: authoritative
+status: valid
+id: 7fd6e87d-bdaa-56fb-91e8-5faf490a0735
+---
+data:
+  definition:
+  - content: "{17-25-038, photoelectric detector} that uses semiconductors in which
+      the photoelectric effect is produced in the neighbourhood of a double p-n junction
+      (p-n-p or n-p-n) which possesses amplification properties"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-946 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-946
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phototransistor
+  language_code: eng
+  annotations: []
+termid: 17-25-046
+id: eadb2b21-8384-5318-8061-36209e8b99ef

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-25-013
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-013
+  type: authoritative
+status: valid
+id: 9d1258ca-605d-5eda-81b0-e14149640766
+---
+data:
+  definition:
+  - content: measurement of quantities referring to radiation as evaluated according
+      to a given {17-21-035, spectral luminous efficiency}, e.g. <i>V</i>(<i>λ</i>)
+      or <i>V</i>′(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "photometry" is sometimes used in a broader sense covering the
+      science of {17-21-002, optical radiation} measurement ({17-25-005, radiometry}),
+      but this use is deprecated.
+    type: intensional
+  - content: This entry was numbered 845-05-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-914 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-914
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometry
+  language_code: eng
+  annotations: []
+termid: 17-25-013
+id: d2fb69d2-4f7d-5965-bce1-e8089bc0b761

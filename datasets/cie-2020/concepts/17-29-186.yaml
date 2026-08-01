@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-186
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-186
+  type: authoritative
+status: valid
+id: 18082c97-e0cb-5f4f-aff3-159f702640de
+---
+data:
+  definition:
+  - content: vertical distance between the centre of the {17-30-001, luminaire} and
+      the working plane
+    type: intensional
+  examples: []
+  notes:
+  - content: The mounting height is expressed in metres (m).
+    type: intensional
+  - content: This entry was numbered 17-793 (1.) in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-793 (1.)
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mounting height
+    usage_info: interior lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-186
+id: 1f25f32a-460b-593b-88a9-f56fb20254aa

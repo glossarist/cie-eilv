@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-033
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-033
+  type: authoritative
+status: valid
+id: 6c4dca67-7724-56f8-881f-a3ca789dfc3a
+---
+data:
+  definition:
+  - content: "{17-30-030, projector} designed for {17-29-021, floodlighting}, usually
+      capable of being pointed in any direction"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-28 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-448 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-28
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-448
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: floodlight
+  language_code: eng
+  annotations: []
+termid: 17-30-033
+id: 91ef2c1b-2105-5ccc-9261-11c04b3ab7e8

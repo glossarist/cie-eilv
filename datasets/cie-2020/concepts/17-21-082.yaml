@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-21-082
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-082
+  type: authoritative
+status: valid
+id: abcff186-aa09-5ff8-9455-5271f2072193
+---
+data:
+  definition:
+  - content: |-
+      density of exiting {17-21-040, photon flux} with respect to area at a point on a real or imaginary surface
+
+      where <i>Φ</i><sub>p</sub> is {17-21-040, photon flux} and <i>A</i> is the area from which the {17-21-040, photon flux} leaves
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding radiometric quantity is "{17-21-080, radiant exitance}".
+      The corresponding photometric quantity is "{17-21-081, luminous exitance}".
+    type: intensional
+  - content: The photon exitance is expressed in second to the power minus one per
+      square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-49 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-923 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-49
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-923
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon exitance
+  - type: symbol
+    normative_status: preferred
+    designation: Mp; M
+  language_code: eng
+  annotations: []
+termid: 17-21-082
+id: e8b16ff9-beb8-5215-966e-1ac0a9471d1d

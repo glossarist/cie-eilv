@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-32-028
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-028
+  type: authoritative
+status: valid
+id: f8eb238f-1c64-5669-a675-08505e564885
+---
+data:
+  definition:
+  - content: quotient of the maximum {17-21-050, luminance} and the minimum {17-21-050,
+      luminance} that is capable of being created using a particular output device
+      and medium
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminance ratio has unit one.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance ratio
+    usage_info: of an output device
+  language_code: eng
+  annotations: []
+termid: 17-32-028
+id: 68bf08b5-58a5-56b9-9758-b6cd191faa08

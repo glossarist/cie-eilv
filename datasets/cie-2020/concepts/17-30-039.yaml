@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-30-039
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-039
+  type: authoritative
+status: valid
+id: 2e4cf715-03c9-5a87-8e11-b52cbbac93e2
+---
+data:
+  definition:
+  - content: device predominantly using {17-24-049, scattering} to alter the spatial
+      distribution of radiation from a {17-21-032, source}
+    type: intensional
+  examples: []
+  notes:
+  - content: If all the radiation reflected or transmitted by the diffuser is scattered
+      with no {17-24-052, regular reflection} or {17-24-053, regular transmission},
+      the diffuser is said to be completely diffusing, independent of whether or not
+      the {17-24-047, reflection} or {17-24-048, transmission} is isotropic.
+    type: intensional
+  - content: Besides {17-24-049, scattering}, a diffuser can also have a slight {17-24-047,
+      reflection} and {17-24-081, absorption} effect.
+    type: intensional
+  - content: This entry was numbered 845-10-34 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-310 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-310
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuser
+  language_code: eng
+  annotations: []
+termid: 17-30-039
+id: a5ccb23f-0fb9-5111-be34-6eaffedb9237

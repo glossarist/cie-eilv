@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-25-114
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-114
+  type: authoritative
+status: valid
+id: 196b6193-8663-5cf1-8741-71726c937b25
+---
+data:
+  definition:
+  - content: area of the {17-25-110, reference plane} on which measurements are made
+    type: intensional
+  examples: []
+  notes:
+  - content: The sampling aperture is delimited by the area illuminated, or by the
+      area over which the receiver senses flux, whichever is smaller. If the illuminated
+      area is the larger, the area measured is said to be "overfilled"; if it is the
+      smaller, the area measured is said to be "underfilled".
+    type: intensional
+  - content: This entry was numbered 17-1135 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1135
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sampling aperture
+  language_code: eng
+  annotations: []
+termid: 17-25-114
+id: b8e26d8e-d369-540c-98e8-32d26bc98665

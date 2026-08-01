@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-26-064
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-064
+  type: authoritative
+status: valid
+id: b1787e6f-804d-5e05-8ca9-28e20124879c
+---
+data:
+  definition:
+  - content: graph showing the relative response of a photobiological or photochemical
+      effect to {17-21-002, optical radiation} with increasing {17-21-071, radiant
+      exposure}
+    type: intensional
+  examples: []
+  notes:
+  - content: Severity of erythema with increasing {17-21-071, radiant exposure} (at
+      a given {17-21-025, wavelength}).
+    type: intensional
+  - content: This entry was numbered 17-348 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-348
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose response curve
+  language_code: eng
+  annotations: []
+termid: 17-26-064
+id: 4b2e2b7e-66c4-5c30-91b9-4f22dd743298

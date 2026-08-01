@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-28-009
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-009
+  type: authoritative
+status: valid
+id: 78e0dfe9-eea9-51ea-a3ff-dbfd99b928dc
+---
+data:
+  definition:
+  - content: "{17-28-006, bulb} in which all, or a layer, of the material diffuses
+      the light"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-09 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-841 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-09
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-841
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opal bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-009
+id: a004cb10-9388-5439-8c69-465c21c5c9c9

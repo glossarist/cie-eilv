@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-26-040
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-040
+  type: authoritative
+status: valid
+id: 227dde38-1167-5ca2-98a7-67db53af3d7c
+---
+data:
+  definition:
+  - content: characteristic periodic change in a living organism or life-related process
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-26-041, circadian rhythm} has a period of approximately 24 h.
+    type: intensional
+  - content: Biological rhythms can be influenced by {17-21-002, optical radiation}.
+    type: intensional
+  - content: This entry was numbered 845-06-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-89 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-26
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-89
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biological rhythm
+  language_code: eng
+  annotations: []
+termid: 17-26-040
+id: e2adadfe-b412-507d-9e29-15c0d454cb16

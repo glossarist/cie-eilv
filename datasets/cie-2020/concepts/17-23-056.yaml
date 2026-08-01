@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-23-056
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-056
+  type: authoritative
+status: valid
+id: 1c4b0520-10a0-5ba9-b4a4-eed70f0cda25
+---
+data:
+  definition:
+  - content: locus, in a {17-23-054, chromaticity diagram} or in a tristimulus space,
+      of points that represent monochromatic stimuli
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-37 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1239 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-37
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1239
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectrum locus
+  language_code: eng
+  annotations: []
+termid: 17-23-056
+id: 4b988149-2d04-591c-9bc3-b099d6175104

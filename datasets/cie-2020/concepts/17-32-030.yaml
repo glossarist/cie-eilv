@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-32-030
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-030
+  type: authoritative
+status: valid
+id: 6f81e519-2faa-5097-af3d-6c0436a302f0
+---
+data:
+  definition:
+  - content: point in a {17-23-054, chromaticity diagram}, that represents the colour
+      of the addition of 100 % of the three display primaries measured in a direction
+      perpendicular to the display faceplate
+    type: intensional
+  examples: []
+  notes:
+  - content: Some displays incorporate more than three display primaries and in those
+      cases, the manufacturer of the display decides how to create the white point.
+    type: intensional
+  - content: This entry was numbered 17-1433 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1433
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point
+    usage_info: of a display illuminant
+  language_code: eng
+  annotations: []
+termid: 17-32-030
+id: 75aefe53-c410-5814-8f16-6f4934a13295

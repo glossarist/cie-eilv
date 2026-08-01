@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-31-081
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-081
+  type: authoritative
+status: valid
+id: cb1d42b5-a4fd-5cbe-aed6-1c1b8c6e02ff
+---
+data:
+  definition:
+  - content: structure over a road that restricts the normal daytime illumination
+      of a road section such that the driver's capability to see is substantially
+      diminished
+  notes:
+  - content: This entry was numbered 17-1355 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1355
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road tunnel
+  - type: symbol
+    normative_status: preferred
+    designation: tunnel
+  language_code: eng
+  annotations: []
+termid: 17-31-081
+id: 98410335-20f6-54af-97f8-cc980a71f855

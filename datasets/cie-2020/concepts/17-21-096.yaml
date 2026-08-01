@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-21-096
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-096
+  type: authoritative
+status: valid
+id: 0ee77593-8a01-5f87-aec9-ed4e23ae2d06
+---
+data:
+  definition:
+  - content: quantity involved in the visual observation of a {17-21-032, source}
+      of light when viewed directly from the distance where its apparent diameter
+      just becomes inappreciable
+    type: intensional
+  examples: []
+  notes:
+  - content: The point brilliance is measured by the {17-21-060, illuminance} produced
+      by the {17-21-032, source} on a plane, at the observer's eye, normal to the
+      direction of the {17-21-032, source}.
+    type: intensional
+  - content: The point brilliance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-59 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-962 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-59
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-962
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point brilliance
+  - type: symbol
+    normative_status: preferred
+    designation: Epb
+  language_code: eng
+  annotations: []
+termid: 17-21-096
+id: 481c22f0-6d62-5b58-9e4e-716e0f7e2c38

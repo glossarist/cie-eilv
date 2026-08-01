@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-23-050
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-050
+  type: authoritative
+status: valid
+id: 3230b83f-b3bc-555b-8806-9d6bb90804a7
+---
+data:
+  definition:
+  - content: ideal observer whose colour-matching properties correspond to the {17-23-047,
+      CIE colour-matching functions} adopted by the CIE in 1964
+    type: intensional
+  examples: []
+  notes:
+  - content: 'See also ISO/CIE 11664-1<i> Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers</i>.'
+    type: intensional
+  - content: This entry was numbered 17-151 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-151
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1964 standard colorimetric observer
+  language_code: eng
+  annotations: []
+termid: 17-23-050
+id: 7831b8cc-6957-5b42-bd62-a87b47faf28e

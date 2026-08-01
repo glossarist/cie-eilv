@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-28-060
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-060
+  type: authoritative
+status: valid
+id: 5531a7fb-a658-5f4d-844e-f9de4658276f
+---
+data:
+  definition:
+  - content: electric energy transducer that converts direct current to alternating
+      current
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: invertor
+  language_code: eng
+  annotations: []
+termid: 17-28-060
+id: 5a1d2a3a-6113-503e-8563-5bf6df99a000

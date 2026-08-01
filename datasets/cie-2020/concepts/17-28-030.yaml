@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-28-030
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-030
+  type: authoritative
+status: valid
+id: a5260fdd-74f6-54fe-8d28-0379b6867ac8
+---
+data:
+  definition:
+  - content: "{17-28-025, lampholder} for building-in so designed that it requires
+      additional means for protection against electric shock"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unenclosed lampholder
+  language_code: eng
+  annotations: []
+termid: 17-28-030
+id: 6bbc40e7-970c-5bc4-8a68-52e5882c8b73

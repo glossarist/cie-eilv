@@ -1,0 +1,24 @@
+/.bundle/
+/.cb-content/
+/.datasets/
+/dist/
+/node_modules/
+/reference-docs/
+
+# Regeneratable build outputs (produced by concept-browser):
+/public/data/
+/public/datasets.json
+/public/site-config.json
+/public/routing.json
+/public/pages/
+/public/logos/
+/public/favicon-links.html
+/public/site.webmanifest
+/public/*.png
+/public/favicon.ico
+/public/favicon.svg
+*.log
+
+# Local dev artifacts:
+.DS_Store
+*.swp

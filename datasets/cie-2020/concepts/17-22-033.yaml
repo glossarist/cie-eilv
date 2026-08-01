@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-22-033
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-033
+  type: authoritative
+status: valid
+id: 5936ea92-1690-5a0b-925f-420dc4ac174f
+---
+data:
+  definition:
+  - content: anomalous trichromatic {17-22-023, defective colour vision} in which
+      discrimination of the bluish and yellowish contents of {17-22-040, colour}s
+      is reduced
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1346 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1346
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tritanomaly
+  language_code: eng
+  annotations: []
+termid: 17-22-033
+id: 2a416250-3f84-557a-b808-c9d2470c1a9c

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-082
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-082
+  type: authoritative
+status: valid
+id: 4c712284-4d09-54a0-a80a-4877f9dd5c00
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} emitting, by combustion within a {17-28-006,
+      bulb}, a large quantity of light in a single flash of very short duration, for
+      lighting objects to be photographed"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-901 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-901
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoflash lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-082
+id: 5d2ebbc3-0a78-516c-b168-af22dfeed594

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-27-090
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-090
+  type: authoritative
+status: valid
+id: 27903aec-c7c0-513e-ace9-4a62efc7fbf1
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} that radiates especially strongly in the
+      infrared, the {17-21-003, visible radiation} produced, if any, not being of
+      direct interest"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-51 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-579 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-51
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-579
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: infrared lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-090
+id: c1af08fd-d1b0-52f4-99bf-bac30ae5161c

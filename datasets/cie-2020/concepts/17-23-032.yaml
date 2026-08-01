@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-23-032
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-032
+  type: authoritative
+status: valid
+id: 615c2546-7563-5785-935d-c1c2e07e4f35
+---
+data:
+  definition:
+  - content: three values of a set of {17-23-039, colour-matching functions} at a
+      given {17-21-025, wavelength}
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "spectral tristimulus values" is no longer in use.
+    type: intensional
+  - content: This entry was numbered 17-235 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-235
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour-matching coefficients
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: spectral tristimulus values, pl'
+  language_code: eng
+  annotations: []
+termid: 17-23-032
+id: 287ea4ad-58d8-5748-ad97-57c9b440f828

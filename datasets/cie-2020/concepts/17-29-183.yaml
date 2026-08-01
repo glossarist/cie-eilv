@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-183
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-183
+  type: authoritative
+status: valid
+id: e206e8fd-6802-5c27-81ce-4c49c10020ef
+---
+data:
+  definition:
+  - content: location (in a designated zone of a certain zone rating) for which the
+      {17-29-177, light pollution} (the {17-29-178, sky glow}) is assessed
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1053 and 17-1056 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1053 and 17-1056
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference location
+    usage_info: for the assessment of light pollution
+  - type: symbol
+    normative_status: preferred
+    designation: reference point, <for the assessment of light pollution>
+  language_code: eng
+  annotations: []
+termid: 17-29-183
+id: 849879d9-8ba5-5261-ad62-e16dda9f5e4e

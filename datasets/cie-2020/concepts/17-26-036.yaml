@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-26-036
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-036
+  type: authoritative
+status: valid
+id: 0704c48e-37ee-5836-b9a7-e15c56ba6668
+---
+data:
+  definition:
+  - content: "{17-21-053, irradiance}, when used in photochemistry, {17-26-024, phototherapy}
+      and {17-26-008, photobiology}"
+    type: intensional
+  examples: []
+  notes:
+  - content: When reporting the dose rate the {17-21-029, spectral distribution} of
+      the {17-21-002, optical radiation} shall be specified.
+    type: intensional
+  - content: The notion of rate applies similarly to {17-26-035, actinic dose} and
+      {17-26-034, effective dose}.
+    type: intensional
+  - content: The dose rate is expressed in watt per square metre (W·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-06-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-347 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-347
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose rate
+  language_code: eng
+  annotations: []
+termid: 17-26-036
+id: 62b52079-f766-5144-aabc-918ebf5e188c

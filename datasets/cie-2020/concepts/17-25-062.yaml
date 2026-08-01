@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-25-062
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-062
+  type: authoritative
+status: valid
+id: bb4e7e9f-2b2c-5506-b469-bf84392efb98
+---
+data:
+  definition:
+  - content: quotient of the {17-25-061, responsivity}, <i>s</i>(<i>Z</i>), when the
+      {17-25-035, detector} is irradiated with radiation, <i>Z</i>, and the {17-25-061,
+      responsivity}, <i>s</i>(<i>N</i>), when it is irradiated with a reference radiation,
+      <i>N</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The relative responsivity has unit one.
+    type: intensional
+  - content: This entry was numbered 845-05-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1083 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1083
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative responsivity
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: sr
+  language_code: eng
+  annotations: []
+termid: 17-25-062
+id: 0624fdbd-48b1-503d-acf6-ded8a12055b9

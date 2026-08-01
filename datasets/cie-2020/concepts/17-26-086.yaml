@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-26-086
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-086
+  type: authoritative
+status: valid
+id: 37b9740e-ea4d-5905-b6fe-32fc972f2f12
+---
+data:
+  definition:
+  - content: potential for a photochemically induced eye or skin injury resulting
+      from {17-21-002, optical radiation} exposure at {17-21-025, wavelength}s primarily
+      between 180 nm and 400 nm
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet hazard
+  language_code: eng
+  annotations: []
+termid: 17-26-086
+id: e45e44f7-b494-59fc-9114-2311c7f64dcd

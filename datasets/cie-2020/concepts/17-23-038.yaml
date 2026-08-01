@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-23-038
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-038
+  type: authoritative
+status: valid
+id: 0df9b435-2671-5a01-9321-dfcfd3e4bd2d
+---
+data:
+  definition:
+  - content: amounts of the {17-23-037, reference colour stimuli}, in a given {17-23-036,
+      trichromatic system}, required to match the {17-23-001, colour} of the stimulus
+      considered
+    type: intensional
+  examples: []
+  notes:
+  - content: In the CIE standard colorimetric systems, the tristimulus values are
+      represented, for example, by the symbols <i>R</i>, <i>G</i>, <i>B</i>; <i>X</i>,
+      <i>Y</i>, <i>Z</i>; <i>R</i><sub>10</sub>, <i>G</i><sub>10</sub>, <i>B</i><sub>10</sub>
+      or <i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>.
+    type: intensional
+  - content: This entry was numbered 845-03-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1345 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1345
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tristimulus values
+    usage_info: of a colour stimulus
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  annotations: []
+termid: 17-23-038
+id: 546488a4-2768-5684-b54e-0be657cebba0

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-21-030
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-030
+  type: authoritative
+status: valid
+id: a0e560d1-ea09-592a-afd5-a8f54cb0d31c
+---
+data:
+  definition:
+  - content: quotient of the {17-21-029, spectral distribution}, <i>X<sub>λ</sub></i>(<i>λ</i>),
+      of a radiant, luminous or photon quantity, <i>X</i>(<i>λ</i>), and a fixed reference
+      value, <i>R</i>, which can be an average value, a maximum value or an arbitrarily
+      chosen value of this distribution
+    type: intensional
+  examples: []
+  notes:
+  - content: The relative spectral distribution has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1084 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1084
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative spectral distribution
+  - type: symbol
+    normative_status: preferred
+    designation: S(λ)
+  language_code: eng
+  annotations: []
+termid: 17-21-030
+id: 0af66bc9-9742-5167-b4b7-1e7cc76d69df

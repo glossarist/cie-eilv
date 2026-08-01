@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-24-071
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-071
+  type: authoritative
+status: valid
+id: 0b3809b9-583b-5768-b482-2dfa5920a678
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the {17-24-064, reflectance}, <i>ρ</i>
+      <i>D<sub>ρ</sub></i> = −log<sub>10</sub> <i>ρ</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The reflectance optical density has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-65 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1061 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-65
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance optical density
+  - type: symbol
+    normative_status: preferred
+    designation: reflectance density
+  language_code: eng
+  annotations: []
+termid: 17-24-071
+id: 55fdef65-6480-562d-96a2-c0b9f4b7dcda

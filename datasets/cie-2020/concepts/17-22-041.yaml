@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-22-041
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-041
+  type: authoritative
+status: valid
+id: 4204627a-277a-5cd6-9ea1-58861c037273
+---
+data:
+  definition:
+  - content: perceived dissimilarity between two {17-23-002, colour stimulus}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-206 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-206
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour difference
+    usage_info: perceptual
+  - type: symbol
+    normative_status: preferred
+    designation: perceived colour difference
+  language_code: eng
+  annotations: []
+termid: 17-22-041
+id: 3be9b4ce-e443-554c-8973-54bdd0fe211a

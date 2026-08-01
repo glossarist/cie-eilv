@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-21-105
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-105
+  type: authoritative
+status: valid
+id: 4c1977f5-b1ed-5291-a7cb-f8ace5d08392
+---
+data:
+  definition:
+  - content: quotient of the reflected {17-21-050, luminance} at a point on a surface
+      of a non-self-radiating medium in a given direction and that of the {17-24-060,
+      perfect reflecting diffuser} identically irradiated and viewed
+    type: intensional
+  examples: []
+  notes:
+  - content: The reflected luminance factor for a spectrally non-neutral surface depends
+      upon the {17-21-030, relative spectral distribution} of the illumination. This
+      quantity has to be specified.
+    type: intensional
+  - content: The reflected luminance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1063 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflected luminance factor
+  - type: symbol
+    normative_status: preferred
+    designation: βv,R
+  language_code: eng
+  annotations: []
+termid: 17-21-105
+id: 18efe2ae-1598-50d3-90c4-0f59c7f47a85

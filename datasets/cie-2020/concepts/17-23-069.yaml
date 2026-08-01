@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-23-069
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-069
+  type: authoritative
+status: valid
+id: 6993387e-9e28-567d-9de8-9ada2fd70a86
+---
+data:
+  definition:
+  - content: "{17-23-002, colour stimulus} to which {17-23-041, colour space} values
+      are normalized"
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-23-041, colour space} white point can or cannot correspond to
+      the adapted white point and/or the {17-32-062, reference medium} white point
+      for a {17-32-013, colour image encoding}.
+    type: intensional
+  - content: This entry was numbered 17-1432 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1432
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point
+    usage_info: in a colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-069
+id: 0b896262-9786-5f69-a718-653f63726a8f

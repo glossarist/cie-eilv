@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-132
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-132
+  type: authoritative
+status: valid
+id: 757996e2-6554-59df-98d4-5208fc6918ef
+---
+data:
+  definition:
+  - content: "{17-21-060, illuminance} produced by {17-29-105, daylight} on a horizontal
+      surface on the Earth"
+    type: intensional
+  examples: []
+  notes:
+  - content: The global horizontal illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-495 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-495
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global horizontal illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,g
+  language_code: eng
+  annotations: []
+termid: 17-29-132
+id: b8375d5f-d8d9-54cd-a38c-1f1c4e0aca2d

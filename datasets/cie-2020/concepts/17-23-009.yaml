@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-23-009
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-009
+  type: authoritative
+status: valid
+id: ae814059-3012-548f-8daf-4c31873c27c8
+---
+data:
+  definition:
+  - content: stimulus that, under the prevailing conditions of {17-22-012, adaptation},
+      gives rise to an {17-22-049, achromatic colour}
+    type: intensional
+  examples: []
+  notes:
+  - content: In the {17-25-014, colorimetry} of {17-22-042, object colour}s, the {17-23-002,
+      colour stimulus} produced by the {17-24-060, perfect reflecting diffuser} or
+      {17-24-061, perfect transmitting diffuser} is usually considered to be an achromatic
+      stimulus for all {17-21-032, source}s, except for those that appear to be highly
+      chromatic.
+    type: intensional
+  - content: This entry was numbered 845-03-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-12 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-06
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-12
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: achromatic stimulus
+  language_code: eng
+  annotations: []
+termid: 17-23-009
+id: ffd6f2bf-7db8-5819-a7e7-b192b2115c65

@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-23-021
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-021
+  type: authoritative
+status: valid
+id: 790ea3ef-dbcb-5b62-bc25-dc3270274cfa
+---
+data:
+  definition:
+  - content: "{17-23-018, illuminant} standardized by the CIE for the purpose of harmonization"
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Examples of CIE standard illuminants are:
+      ▪ CIE standard illuminant A: {17-21-030, relative spectral distribution} of {17-21-038, radiant flux} based on Planckian radiation at a temperature of about 2 855,5 K;
+      ▪ CIE standard illuminant D65: {17-21-030, relative spectral distribution} of {17-21-038, radiant flux} representing a phase of {17-29-105, daylight} with a {17-23-068, correlated colour temperature} of approximately 6 500 K (called also "nominal correlated colour temperature of the daylight illuminant").
+    type: intensional
+  - content: CIE standard illuminants should be used whenever appropriate in order
+      to facilitate the comparison of published results.
+    type: intensional
+  - content: See also CIE 15<i> Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO 11664-2/CIE S 014-2<i> Colorimetry – Part 2: CIE Standard
+      llluminants for Colorimetry</i>, in which examples are given for applications
+      of use of CIE standard illuminants.'
+    type: intensional
+  - content: Illuminants B, C and other {17-23-020, daylight illuminant}s, previously
+      denoted as "standard illuminants", should now be termed "{17-23-019, CIE illuminant}s".
+    type: intensional
+  - content: This entry was numbered 845-03-12 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-168 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-168
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard illuminant
+  language_code: eng
+  annotations: []
+termid: 17-23-021
+id: 3e72af1b-14b4-53a3-b626-07bba4ba79f6

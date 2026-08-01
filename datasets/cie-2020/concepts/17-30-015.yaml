@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-30-015
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-015
+  type: authoritative
+status: valid
+id: 23541b7a-690d-516e-9209-021f0b15bf4d
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} provided with a cord, chain, tube, etc., which
+      permits it to be suspended from a ceiling or a wall support"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-871 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-871
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pendant luminaire
+  - type: symbol
+    normative_status: preferred
+    designation: suspended luminaire, US
+  language_code: eng
+  annotations: []
+termid: 17-30-015
+id: 15ebfdd8-a4f2-5097-8d31-38020ff07b59

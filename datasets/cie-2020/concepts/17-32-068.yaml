@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-32-068
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-068
+  type: authoritative
+status: valid
+id: fc62a5f8-634c-51b9-8f76-1a654c47c767
+---
+data:
+  definition:
+  - content: adjustment of electronic picture colour channel gains or image processing
+      so that the relative spectral power distribution equal to that of the scene
+      {17-23-081, adapted white} is rendered as a visual neutral
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1429 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1429
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white balance
+  language_code: eng
+  annotations: []
+termid: 17-32-068
+id: ab2541e7-97aa-55bb-8ac8-5a265bff79ee

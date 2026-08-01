@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-25-058
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-058
+  type: authoritative
+status: valid
+id: c0255583-7def-572a-b75c-da0c10e29019
+---
+data:
+  definition:
+  - content: physical quantity yielded by a {17-25-035, detector} in response to an
+      optical {17-25-057, input}
+    type: intensional
+  examples: []
+  notes:
+  - content: The output can be electrical, e.g. current, voltage or a change in resistance,
+      or chemical, e.g. in a photographic film or an actinometer, or mechanical, e.g.
+      in a Golay detector.
+    type: intensional
+  - content: This entry was numbered 845-05-51 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-856 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-51
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-856
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output
+    usage_info: of a detector of optical radiation
+  language_code: eng
+  annotations: []
+termid: 17-25-058
+id: 7af6f57b-2d48-5b2f-b8a8-2ce6396e5822

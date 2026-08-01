@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-21-033
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-033
+  type: authoritative
+status: valid
+id: 2297b825-3f68-5a3a-8e93-523d3fe340b9
+---
+data:
+  definition:
+  - content: "{17-21-032, source} of incoherent radiation, the dimensions of which
+      are small enough, compared to the distance between the {17-21-032, source} and
+      the irradiated surface, to be negligible in calculations and measurements"
+    type: intensional
+  examples: []
+  notes:
+  - content: A point source that emits uniformly in all directions is called "{17-21-098,
+      uniform point source}" or "isotropic point source".
+    type: intensional
+  - content: This entry was numbered 845-01-19 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-964 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-19
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-964
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point source
+  language_code: eng
+  annotations: []
+termid: 17-21-033
+id: 2644d67a-eea8-5d46-afb1-c2684aafc86d

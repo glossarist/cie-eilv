@@ -1,0 +1,72 @@
+---
+data:
+  identifier: 17-23-065
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-065
+  type: authoritative
+status: valid
+id: 4c974273-1bad-5fc2-8f1c-1191ca5fd989
+---
+data:
+  definition:
+  - content: where <i>L</i><sub>d</sub> and <i>L</i><sub>n</sub> are the respective
+      luminances of the {17-23-011, monochromatic stimulus} and of the specified {17-23-009,
+      achromatic stimulus} that match the {17-23-002, colour stimulus} considered
+      in an {17-23-030, additive mixture}
+    type: intensional
+  examples: []
+  notes:
+  - content: In the case of purple stimuli, the {17-23-011, monochromatic stimulus}
+      is replaced by a stimulus whose {17-23-052, chromaticity} is represented by
+      a point on the {17-23-058, purple boundary}.
+    type: intensional
+  - content: In the {17-23-045, CIE 1931 standard colorimetric system}, colorimetric
+      purity, <i>p</i><sub>c</sub>, is related to {17-23-066, excitation purity},
+      <i>p</i><sub>e</sub>, by the equation <i>p</i><sub>c</sub> = <i>p</i><sub>e</sub>
+      <i>y</i><sub>d</sub> / <i>y</i> where <i>y</i><sub>d</sub> and <i>y</i> are
+      the <i>y</i> {17-23-053, chromaticity coordinates} respectively, of the {17-23-011,
+      monochromatic stimulus} and the {17-23-002, colour stimulus} considered.
+    type: intensional
+  - content: In the {17-23-046, CIE 1964 standard colorimetric system}, a measure,
+      <i>p</i><sub>c,10</sub>, is defined by the relation given in Note 2 to entry,
+      but using <i>p</i><sub>e</sub>,<sub>10</sub>, <i>y</i><sub>d</sub>,<sub>10</sub>
+      and <i>y</i><sub>10</sub> instead of <i>p</i><sub>e</sub>, <i>y</i><sub>d</sub>,
+      and <i>y</i> respectively.
+    type: intensional
+  - content: This entry was numbered 845-03-47 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-195 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-47
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-195
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimetric purity
+  - type: symbol
+    normative_status: preferred
+    designation: pc
+  language_code: eng
+  annotations: []
+termid: 17-23-065
+id: 396b325f-290a-5abe-8a3b-afda3a67e471

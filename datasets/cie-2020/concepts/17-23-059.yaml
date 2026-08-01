@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-23-059
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-059
+  type: authoritative
+status: valid
+id: f0a1c700-839c-59b4-a91c-249187715f41
+---
+data:
+  definition:
+  - content: locus of points in a {17-23-054, chromaticity diagram} that represents
+      chromaticities of the radiation of {17-24-004, Planckian radiator}s at different
+      temperatures
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-03-41 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-959 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-41
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-959
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planckian locus
+  language_code: eng
+  annotations: []
+termid: 17-23-059
+id: e8080f37-13ec-5b4e-b833-c297cbd6ccd3

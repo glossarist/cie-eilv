@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-24-016
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-016
+  type: authoritative
+status: valid
+id: 3f1e9058-c386-5728-8d10-823cd1803724
+---
+data:
+  definition:
+  - content: temperature of the {17-24-004, Planckian radiator} for which the {17-21-049,
+      radiance} at the specified {17-21-025, wavelength} has the same {17-21-029,
+      spectral distribution} as for the {17-24-003, thermal radiator} considered
+    type: intensional
+  examples: []
+  notes:
+  - content: The radiance temperature is expressed in kelvin (K).
+    type: intensional
+  - content: This entry was numbered 845-04-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1016 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance temperature
+    usage_info: of a thermal radiator, for a specified wavelength
+  language_code: eng
+  annotations: []
+termid: 17-24-016
+id: 3a7c4f1c-4333-5f2a-b59b-64a35f175f6b

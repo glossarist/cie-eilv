@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-23-080
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-080
+  type: authoritative
+status: valid
+id: e69f32c6-8a63-51be-9d14-11fb2f57c03e
+---
+data:
+  definition:
+  - content: |-
+      difference between two {17-23-002, colour stimulus}, defined as the Euclidean distance between the points representing them in the u′, v′ {17-23-054, chromaticity diagram} and calculated as:
+      Δ<i>c</i> = [(Δ<i>u</i>′)<sup>2</sup> + (Δ<i>v</i>′)<sup>2</sup>]<sup>1/2</sup>
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-160 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-160
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 u′,v′ chromaticity difference
+  - type: symbol
+    normative_status: preferred
+    designation: Δc
+  language_code: eng
+  annotations: []
+termid: 17-23-080
+id: 9ab259c8-5cb0-501f-81ac-a2c861456836

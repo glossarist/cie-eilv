@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-22-027
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-027
+  type: authoritative
+status: valid
+id: 0a651ad6-d59c-58b3-85bc-128658d3cbdf
+---
+data:
+  definition:
+  - content: "{17-22-023, defective colour vision} in which all {17-22-040, colour}s
+      can be matched using {17-23-030, additive mixture}s of only two matching stimuli"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-300 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-300
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dichromatism
+  language_code: eng
+  annotations: []
+termid: 17-22-027
+id: 8c9695ea-c5c8-5691-952f-6875e28afd07

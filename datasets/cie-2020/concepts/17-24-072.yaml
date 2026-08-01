@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-24-072
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-072
+  type: authoritative
+status: valid
+id: 2ee48f31-6fc0-58da-9113-03ad36c3800a
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the {17-24-065, transmittance}, <i>τ</i> <i>
+
+
+      D<sub>τ</sub></i> = −log<sub>10</sub> <i>τ</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: The transmittance optical density has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-66 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-843 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-66
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-843
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmittance optical density
+  - type: symbol
+    normative_status: preferred
+    designation: optical density
+  language_code: eng
+  annotations: []
+termid: 17-24-072
+id: 95f57e4e-68fd-5cee-9185-e34fad72362d

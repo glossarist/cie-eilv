@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-27-033
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-033
+  type: authoritative
+status: valid
+id: 034b3283-f955-5a0d-bcb3-8219209b8fca
+---
+data:
+  definition:
+  - content: "{17-27-027, high-intensity discharge lamp} in which the major portion
+      of the light is produced by radiation from a mixture of a metallic vapour, metal
+      halides and the products of the dissociation of metal halides"
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "metal halide lamp" includes clear and coated {17-27-008, electric
+      lamp}s.
+    type: intensional
+  - content: This entry was numbered 845-07-25 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-765 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-25
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-765
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metal halide lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-033
+id: 3c6ebfdd-117d-57a4-9570-10c555443dbd

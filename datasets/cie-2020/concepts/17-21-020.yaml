@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-21-020
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-020
+  type: authoritative
+status: valid
+id: 8d9c2055-7d08-5bf4-99ad-680c01c90f03
+---
+data:
+  definition:
+  - content: radiation in which the electric field vector is at a fixed azimuth, i.e.
+      it is confined to a plane containing the direction of propagation of the radiation
+  notes:
+  - content: This entry was numbered 17-684 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-684
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linearly polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-21-020
+id: e961dad8-3670-5b97-ba57-d4a4c4fa03a6

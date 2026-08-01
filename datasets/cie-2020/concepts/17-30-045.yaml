@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-30-045
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-045
+  type: authoritative
+status: valid
+id: b9e913ed-a229-52a2-b07e-dc3d58b4cd87
+---
+data:
+  definition:
+  - content: device, shaped as a grid, used to shield the {17-30-044, protective glass}
+      of the {17-30-001, luminaire} against mechanical shocks
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-40 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-709 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-40
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-709
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminaire guard
+  language_code: eng
+  annotations: []
+termid: 17-30-045
+id: c27b3384-008c-5504-854a-e9b537461198

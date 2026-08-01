@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-26-052
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-052
+  type: authoritative
+status: valid
+id: d0a19c4f-31b3-5955-a215-dc5ea213a8c0
+---
+data:
+  definition:
+  - content: effective {17-21-053, irradiance} with the {17-21-056, spectral irradiance},
+      <i>E<sub>λ</sub></i>, spectrally weighted with the {17-26-054, ultraviolet hazard
+      spectral weighting function}, <i>S</i><sub>UV</sub>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-21-025, wavelength} range for ultraviolet hazard irradiance is
+      specified in ICNIRP-recommendations as <i>λ</i> = 180 nm to <i>λ</i> = 400 nm.
+    type: intensional
+  - content: The ultraviolet hazard irradiance is expressed in watt per square metre
+      (W⋅m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1361 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1361
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet hazard irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: ES
+  language_code: eng
+  annotations: []
+termid: 17-26-052
+id: '085c70ee-86ba-515e-a4aa-713f07c6cbe4'

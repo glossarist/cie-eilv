@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-21-073
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-073
+  type: authoritative
+status: valid
+id: d8155e61-2fa1-5401-87d4-c0f17dea8248
+---
+data:
+  definition:
+  - content: |-
+      density of incident {17-21-043, photon number} with respect to area at a point on a real or imaginary surface
+      <sub>
+
+
+      </sub>where <i>N</i><sub>p </sub>is {17-21-043, photon number} and <i>A</i> is the area on which the {17-21-107, photon}s are incident
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding radiometric quantity is "{17-21-071, radiant exposure}".
+      The corresponding photometric quantity is "{17-21-072, luminous exposure}".
+    type: intensional
+  - content: The photon exposure is expressed in metre to the power minus two (m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-01-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-924 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-924
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon exposure
+  - type: symbol
+    normative_status: preferred
+    designation: Hp; H
+  language_code: eng
+  annotations: []
+termid: 17-21-073
+id: 85f68122-9469-55d5-ba70-7da439f31ced

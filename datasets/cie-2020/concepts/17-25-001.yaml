@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-25-001
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-001
+  type: authoritative
+status: valid
+id: 1df8f208-d172-5559-b2d7-09ed41b37686
+---
+data:
+  definition:
+  - content: device designed to establish the photometric base unit and to calibrate
+      photometric transfer standards
+  notes:
+  - content: This entry was numbered 845-05-01 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-983 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-01
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-983
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary photometric standard
+  language_code: eng
+  annotations: []
+termid: 17-25-001
+id: fff6316d-c0fc-5369-b7cb-1b232dcc8e3e

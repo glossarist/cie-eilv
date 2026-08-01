@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-26-015
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-015
+  type: authoritative
+status: valid
+id: b9dc49d9-f595-591d-a80f-098795b1fbfb
+---
+data:
+  definition:
+  - content: effect of a liquid state polymer changing into the solid state, becoming
+      insoluble to solvent or increasingly resistant to corrosive chemicals, by optical
+      {17-21-099, irradiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-892 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-892
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocuring
+  language_code: eng
+  annotations: []
+termid: 17-26-015
+id: a786eb9a-2b4e-5da9-8811-dd42f3ba3d1a

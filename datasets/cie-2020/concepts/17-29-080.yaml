@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-080
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-080
+  type: authoritative
+status: valid
+id: 68d5fa82-0817-52fc-916f-1e4618891258
+---
+data:
+  definition:
+  - content: perfectly diffuse and unpolarized {17-29-001, lighting} by {17-23-021,
+      CIE standard illuminant} A of a task in a surround
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-61 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1052 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-61
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-080
+id: '048de0cd-5f2c-5462-89ee-92d9a3956b09'

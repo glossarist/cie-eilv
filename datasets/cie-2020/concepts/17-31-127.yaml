@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-31-127
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-127
+  type: authoritative
+status: valid
+id: a9b8117a-208e-50bd-82c3-f753c41b478e
+---
+data:
+  definition:
+  - content: configuration of visual {17-31-102, element}s, {17-31-132, symbol}s,
+      texts and other shapes, produced to convey a given message
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-649 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-649
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legend
+  language_code: eng
+  annotations: []
+termid: 17-31-127
+id: 179e23fc-5c11-5054-893c-516a2d428307

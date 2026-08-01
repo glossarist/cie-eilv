@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-30-036
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-036
+  type: authoritative
+status: valid
+id: ed6ad773-ec0f-5c9e-94ab-b76a30aae48f
+---
+data:
+  definition:
+  - content: complementary angle of the {17-30-035, cut-off angle}
+    type: intensional
+  examples: []
+  notes:
+  - content: The shielding angle is the angle measured from the horizontal, down to
+      which the {17-27-001, light source}(s) is (are) screened by the {17-30-001,
+      luminaire}.
+    type: intensional
+  - content: The shielding angle is expressed in radian (rad) or degree (°).
+    type: intensional
+  - content: This entry was numbered 845-10-31 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1172 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-31
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1172
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shielding angle
+  language_code: eng
+  annotations: []
+termid: 17-30-036
+id: 67f67642-321c-5295-8f59-03d82abe0046

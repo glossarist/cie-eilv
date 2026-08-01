@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-006
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-006
+  type: authoritative
+status: valid
+id: 8909569d-0da6-538f-8832-1089d880946b
+---
+data:
+  definition:
+  - content: process by which a substance or a system becomes more susceptible to
+      {17-26-001, photoeffect}s by the action of another substance or system
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-08 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-941 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-941
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photosensitization
+  language_code: eng
+  annotations: []
+termid: 17-26-006
+id: c1f7887f-df6a-5d87-99e5-a28a632bf75c

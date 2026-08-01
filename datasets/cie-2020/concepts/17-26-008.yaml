@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-26-008
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-008
+  type: authoritative
+status: valid
+id: 10486446-9aaf-5679-9a6a-8fe661c94427
+---
+data:
+  definition:
+  - content: branch of biology which deals with the effects of {17-21-002, optical
+      radiation} on living systems
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-06-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-885 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-885
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photobiology
+  language_code: eng
+  annotations: []
+termid: 17-26-008
+id: b78eaccc-e430-5354-930f-2787dfa32a7f

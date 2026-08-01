@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-22-082
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-082
+  type: authoritative
+status: valid
+id: 8e06ff2d-7ce9-5290-89aa-f0e1eacbd4b3
+---
+data:
+  definition:
+  - content: interpretation of {17-22-083, visual sensation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1411 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1411
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual perception
+  language_code: eng
+  annotations: []
+termid: 17-22-082
+id: d672d2d1-912a-5654-a5bd-2fe5375f2599

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-128
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-128
+  type: authoritative
+status: valid
+id: 1f0416fe-3791-55aa-bd97-ffb48ea46d2a
+---
+data:
+  definition:
+  - content: period of time required for an arc discharge lamp to develop an electrically
+      stable {17-27-023, arc discharge}, the {17-27-024, discharge lamp} being operated
+      under specified conditions and the time being measured from the moment its circuit
+      is energized
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-69 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1263 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-69
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1263
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting time
+    usage_info: of an arc discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-128
+id: 19856c53-8fad-5c93-8057-6fee02751709

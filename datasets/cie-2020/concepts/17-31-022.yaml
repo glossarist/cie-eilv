@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-31-022
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-022
+  type: authoritative
+status: valid
+id: 8a99bdae-356c-5f1e-a866-4fc6ff0da11a
+---
+data:
+  definition:
+  - content: greatest distance at which an object or a {17-27-001, light source} could
+      be seen under conditions of perfect visibility, as limited only by the curvature
+      of the Earth, by {17-24-108, refraction} in the atmosphere, and by the heights
+      of the observer and the object or {17-27-001, light source}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-488 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-24
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-488
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographical range
+  - type: symbol
+    normative_status: preferred
+    designation: geographic range
+  language_code: eng
+  annotations: []
+termid: 17-31-022
+id: 7bc44873-314c-5a33-b0d7-7b24e971a8e5

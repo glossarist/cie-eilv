@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-22-053
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-053
+  type: authoritative
+status: valid
+id: edfa2914-3b4f-5c2a-a0c8-9ca00edf1d2d
+---
+data:
+  definition:
+  - content: single {17-22-076, colorant}, identified by name, and specified independently
+      from the {17-23-001, colour} values specified in a trichromatic (colour coordinate)
+      system
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1249 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1249
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spot colour
+  language_code: eng
+  annotations: []
+termid: 17-22-053
+id: 49ee320a-f9c5-5908-87f4-78524a4f460a

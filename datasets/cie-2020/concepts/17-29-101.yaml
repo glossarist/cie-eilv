@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-101
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-101
+  type: authoritative
+status: valid
+id: aed0ef8d-bc0e-5a5b-9ec0-e53d308e3cad
+---
+data:
+  definition:
+  - content: combined {17-29-099, direct solar radiation} and {17-29-100, diffuse
+      sky radiation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-81 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-497 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-81
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-497
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global solar radiation
+  language_code: eng
+  annotations: []
+termid: 17-29-101
+id: 94314570-7141-5da4-b919-ba59a404d6b8

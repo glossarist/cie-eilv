@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-24-089
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-089
+  type: authoritative
+status: valid
+id: a3f01ff3-e57c-5a86-acb5-ab6bedd8ce6a
+---
+data:
+  definition:
+  - content: quotient of the spectral radiant flux absorbed between the internal entry
+      and exit surfaces of the layer and the spectral flux that enters into the layer
+      after crossing the entry surface
+    type: intensional
+  examples: []
+  notes:
+  - content: For a given layer the spectral internal absorptance depends on the path
+      length of the radiation in the layer, and hence, in particular, on the {17-25-078,
+      angle of incidence}.
+    type: intensional
+  - content: The spectral internal absorptance has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-82 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1214 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-82
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1214
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral internal absorptance
+    usage_info: of a homogeneous non-diffusing layer
+  - type: symbol
+    normative_status: preferred
+    designation: αi(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-089
+id: 89978ce5-cdd4-520e-bcc0-becad4e5b64e

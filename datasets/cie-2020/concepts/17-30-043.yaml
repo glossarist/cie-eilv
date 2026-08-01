@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-30-043
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-043
+  type: authoritative
+status: valid
+id: '0719e7ea-be0d-59d7-a972-2913b5a456e9'
+---
+data:
+  definition:
+  - content: screen made of translucent or opaque components and geometrically disposed
+      to prevent {17-27-008, electric lamp}s from being directly visible over a given
+      angle
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-38 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-699, 17-1247, and 17-697 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-38
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-699, 17-1247, and 17-697
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: louvre
+  - type: symbol
+    normative_status: preferred
+    designation: spill shield
+  language_code: eng
+  annotations: []
+termid: 17-30-043
+id: 5dbbe5d2-f2ad-5efd-aec4-2d5ce848bcf9

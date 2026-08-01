@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-056
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-056
+  type: authoritative
+status: valid
+id: d5309762-3f41-5242-ae56-982da7e386ff
+---
+data:
+  definition:
+  - content: "{17-31-045, aeronautical ground light}, or system of lights, designed
+      to indicate the correct angle of descent to an aircraft making an approach to
+      land"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-57 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1405 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-57
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1405
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual approach slope indicator
+  language_code: eng
+  annotations: []
+termid: 17-31-056
+id: 554ebae2-b8d5-5ffb-8ec4-35c7b6fe5670

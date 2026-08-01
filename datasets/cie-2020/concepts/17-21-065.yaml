@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-21-065
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-065
+  type: authoritative
+status: valid
+id: 7b78c855-1a88-5b9d-bf4f-909b37abb152
+---
+data:
+  definition:
+  - content: integrated {17-21-050, luminance} either on any surface from its half
+      space, or in any point from the whole space
+    type: intensional
+  examples: []
+  notes:
+  - content: The scalar illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1137 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1137
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scalar illuminance
+  language_code: eng
+  annotations: []
+termid: 17-21-065
+id: bfdb96c9-1507-5c0c-b48f-e3d206f23ef5

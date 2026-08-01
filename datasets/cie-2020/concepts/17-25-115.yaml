@@ -1,0 +1,65 @@
+---
+data:
+  identifier: 17-25-115
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-115
+  type: authoritative
+status: valid
+id: 929e88f3-e276-563f-bc45-8a93dc5f3aab
+---
+data:
+  definition:
+  - content: factor by which the readings of a physical photometer can be multiplied
+      in order to correct for the error caused by differences between the {17-25-064,
+      relative spectral responsivity} of the photometer and the {17-21-035, spectral
+      luminous efficiency} for {17-22-016, photopic vision}, <i>V</i>(<i>λ</i>), that
+      it is intended to simulate when the photometer is used to measure a {17-21-032,
+      source} having a {17-21-030, relative spectral distribution} different from
+      that of the {17-21-032, source} with which the photometer was calibrated
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, <i>V</i>(<i>λ</i>), and are calibrated using a {17-21-032, source} corresponding to {17-23-021, CIE standard illuminant} A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
+
+      where <i>s</i><sub>rel</sub>(<i>λ</i>) is the {17-25-064, relative spectral responsivity} of the photometer and <i>S</i>(<i>λ</i>) and <i>S</i><sub>A</sub>(<i>λ</i>) are the respective relative spectral power distributions of the {17-21-032, source} to be measured and {17-23-021, CIE standard illuminant} A.
+    type: intensional
+  - content: The term "colour correction factor" is no longer used.
+    type: intensional
+  - content: The term "spectral mismatch correction factor" can also be applied to
+      other {17-25-035, detector}s whose response is intended to simulate a particular
+      observer function, such as {17-26-004, actinic} {17-25-006, radiometer}s.
+    type: intensional
+  - content: The spectral mismatch correction factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1224 and 17-205 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1224 and 17-205
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral mismatch correction factor
+    usage_info: for a photometer
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: colour correction factor'
+  language_code: eng
+  annotations: []
+termid: 17-25-115
+id: aec71065-e18f-5f21-867c-d2cb725aca9a

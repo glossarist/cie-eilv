@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-29-018
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-018
+  type: authoritative
+status: valid
+id: 64553445-8746-528a-949f-c1fb74043c8d
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} by means of {17-30-001, luminaire}s having a distribution
+      of {17-21-045, luminous intensity} such that the fraction of the emitted {17-21-039,
+      luminous flux} directly reaching the {17-29-068, working plane}, assumed to
+      be of infinite extent, is 0 % to 10 %"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-18 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-575 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-18
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-575
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-018
+id: 9b49124a-d739-5a26-814f-1359d434fe6a

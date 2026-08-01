@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-011
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-011
+  type: authoritative
+status: valid
+id: 935d6271-cad3-574d-9b0e-3917d5d158ac
+---
+data:
+  definition:
+  - content: '{17-31-008, rhythmic light} in which every <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> of darkness (occultation) is of the same duration, and the total
+      duration of light in a period is clearly longer than the total duration of darkness'
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-837 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-837
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: occulting light
+  language_code: eng
+  annotations: []
+termid: 17-31-011
+id: 276f5f61-2e95-5537-bc9c-63f91656256a

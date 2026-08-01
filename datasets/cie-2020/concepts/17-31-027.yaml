@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-31-027
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-027
+  type: authoritative
+status: valid
+id: 44a6620d-847d-5420-890a-b6fd12c5db05
+---
+data:
+  definition:
+  - content: "{17-31-026, luminous range} of a maritime {17-31-004, signal light}
+      in a homogeneous atmosphere having a {17-31-018, meteorological optical range}
+      of ten nautical miles"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-29 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-817 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-817
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal range
+    usage_info: of a maritime signal light
+  language_code: eng
+  annotations: []
+termid: 17-31-027
+id: f37e7c86-a9f7-55d7-aa94-1ca8e174d111

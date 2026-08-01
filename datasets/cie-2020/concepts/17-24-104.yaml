@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-24-104
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-104
+  type: authoritative
+status: valid
+id: e8c0cb1e-498b-54b7-88d8-700b9a61cad5
+---
+data:
+  definition:
+  - content: quotient of the {17-21-050, luminance}, <i>L</i>, of a plane retroreflective
+      surface in the direction of observation and the {17-21-060, illuminance}, <i>E</i><sub>⊥</sub>,
+      at the {17-24-100, retroreflector} on a plane perpendicular to the direction
+      of the incident light
+    type: intensional
+  examples: []
+  notes:
+  - content: The coefficient of retroreflected luminance is particularly suitable
+      for describing materials in sheet form.
+    type: intensional
+  - content: The coefficient of retroreflected luminance is expressed in candela per
+      square metre per lux (cd⋅m<sup>−2</sup>⋅lx<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-04-98 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-181 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-98
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-181
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient of retroreflected luminance
+  - type: symbol
+    normative_status: preferred
+    designation: RL
+  language_code: eng
+  annotations: []
+termid: 17-24-104
+id: 3c65da07-7752-5556-a3b5-7a9e6bf36126

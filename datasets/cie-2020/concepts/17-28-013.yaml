@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-28-013
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-013
+  type: authoritative
+status: valid
+id: b6648f05-6dcb-57ae-9670-f1a712fdef32
+---
+data:
+  definition:
+  - content: "{17-28-006, bulb} made of glass coloured in the mass, or of clear glass
+      coated internally or externally with a coloured layer which can be transparent
+      or diffusing"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-232 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-232
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coloured bulb
+  language_code: eng
+  annotations: []
+termid: 17-28-013
+id: b1a3046c-db7b-533b-a145-cc0d2ae510b4

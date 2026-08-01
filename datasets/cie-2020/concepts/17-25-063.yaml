@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-25-063
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-063
+  type: authoritative
+status: valid
+id: 4ffcfa30-ad61-551c-a090-aafe36b6f83b
+---
+data:
+  definition:
+  - content: quotient of the {17-25-058, output}, d<i>Y</i>(<i>λ</i>), and the monochromatic
+      {17-25-057, input}, d<i>X</i><sub>e</sub>(<i>λ</i>) = <i>X</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>)
+      d<i>λ</i>, in the {17-21-025, wavelength} interval, d<i>λ</i>, as a function
+      of the {17-21-025, wavelength}, <i>λ</i>
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-56 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1229 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-56
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1229
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral responsivity
+    usage_info: of a detector
+  - type: symbol
+    normative_status: preferred
+    designation: s(λ)
+  language_code: eng
+  annotations: []
+termid: 17-25-063
+id: 886b05db-6351-5e2d-8147-32b5826136d0

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-27-127
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-127
+  type: authoritative
+status: valid
+id: 6d1e37aa-2bd4-5977-8c04-85b1c4ddc768
+---
+data:
+  definition:
+  - content: |-
+      ratio of the absolute value of the fundamental active power <i>P</i><sub>1</sub> to the fundamental apparent power <i>S</i><sub>1
+
+
+      </sub><i>λ</i><sub>1</sub>= |<i>P</i><sub>1</sub>| / <i>S</i><sub>1</sub>
+  notes:
+  - content: |-
+      The fundamental power factor is also given by:
+      <i>λ</i><sub>1</sub> =|cos<i>φ</i><sub>1</sub>|
+  - content: The fundamental power factor only refers to fundamental quantities.
+  - content: The fundamental power factor is sometimes called displacement factor
+      or displacement power factor.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fundamental power factor
+  - type: symbol
+    normative_status: preferred
+    designation: λ1
+  language_code: eng
+  annotations: []
+termid: 17-27-127
+id: 5b99c8cb-93be-514d-9da7-1678717215ed

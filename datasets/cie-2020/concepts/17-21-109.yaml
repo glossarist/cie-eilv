@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-21-109
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-109
+  type: authoritative
+status: valid
+id: 8bf72cd0-f0be-5fe8-ab61-285127c82b1c
+---
+data:
+  definition:
+  - content: area intercepted on a unit sphere, centred at the point, by a cone having
+      the given area as its base and the point as its vertex
+  notes:
+  - content: The solid angle is expressed in steradian (sr).
+  - content: This entry was numbered 17-1201 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1201
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solid angle
+    usage_info: of an area subtended at a point
+  - type: symbol
+    normative_status: preferred
+    designation: Ω ; ω
+  language_code: eng
+  annotations: []
+termid: 17-21-109
+id: d95d9f50-bada-5e6b-8944-086ec0c7371d

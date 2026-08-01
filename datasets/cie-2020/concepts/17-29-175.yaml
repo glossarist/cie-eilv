@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-175
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-175
+  type: authoritative
+status: valid
+id: f4c0882a-b430-5cd2-a49f-1f5328a1b9cc
+---
+data:
+  definition:
+  - content: <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> during which stricter requirements for the control of {17-29-181,
+      obtrusive light} apply
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-268 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-268
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: curfew
+  language_code: eng
+  annotations: []
+termid: 17-29-175
+id: 4d5a1dfb-d7fe-5e51-baa9-37c4aa58b2b6

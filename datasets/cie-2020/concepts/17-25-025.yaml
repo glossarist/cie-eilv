@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-025
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-025
+  type: authoritative
+status: valid
+id: 90b60d01-ea25-5d36-b2f8-5132b47a410a
+---
+data:
+  definition:
+  - content: visual photometer in which parts of the test and comparison field are
+      viewed simultaneously and are adjusted to equality of {17-22-089, contrast}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-21 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-392 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-21
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-392
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equality-of-contrast photometer
+  language_code: eng
+  annotations: []
+termid: 17-25-025
+id: 7ad9ee70-e76b-5ea0-a0a5-453b5d3f296d

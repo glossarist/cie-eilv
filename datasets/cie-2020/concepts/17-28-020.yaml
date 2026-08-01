@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-28-020
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-020
+  type: authoritative
+status: valid
+id: c7ce877f-a2e6-5c8f-87f0-3338b8059a6e
+---
+data:
+  definition:
+  - content: "{17-28-015, cap} which enables the {17-28-001, luminous element} to
+      be brought into a specified position relative to the {17-28-015, cap} during
+      manufacture of the {17-27-008, electric lamp} so that reproducible positioning
+      can be assured when the {17-27-008, electric lamp} is inserted in a suitable
+      {17-28-025, lampholder}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-08-20 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-978 and 17-977 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-08-20
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-978 and 17-977
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prefocus cap
+  - type: symbol
+    normative_status: preferred
+    designation: prefocus base
+  language_code: eng
+  annotations: []
+termid: 17-28-020
+id: 11e469be-87d2-5131-b48f-d4ccab538ae8

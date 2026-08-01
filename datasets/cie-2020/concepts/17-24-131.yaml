@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-24-131
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-131
+  type: authoritative
+status: valid
+id: 0daf0f16-ee70-5544-8179-6458baeab5e6
+---
+data:
+  definition:
+  - content: characteristic of a transparent or semi-transparent material whereby
+      distinct high-contrast images or high-contrast objects, separated by some distance
+      from the material, are perceivable through the material
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clarity
+    usage_info: of a material
+  language_code: eng
+  annotations: []
+termid: 17-24-131
+id: '0286e554-e804-531a-a38e-c5812ab9c375'

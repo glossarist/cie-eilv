@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-30-057
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-057
+  type: authoritative
+status: valid
+id: 5687689c-5cd6-551d-a6a1-c889b7610ba2
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} for {17-29-001, lighting} a tunnel and which
+      is mounted on the wall or ceiling of the tunnel either directly or by means
+      of frames"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tunnel luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-057
+id: c1960248-12f8-5f02-b561-f24217a7ba9c

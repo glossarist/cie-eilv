@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29-179
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-179
+  type: authoritative
+status: valid
+id: e2a66896-4fc4-532c-92df-26f692540819
+---
+data:
+  definition:
+  - content: part of the {17-29-178, sky glow} that is attributable to man-made {17-21-032,
+      source}s of radiation (e.g. {17-29-032, outdoor lighting})
+    type: intensional
+  examples: []
+  notes:
+  - content: Man-made sky glow includes radiation that is emitted directly upwards
+      and radiation that is reflected from the surface of the Earth.
+    type: intensional
+  - content: This entry was numbered 17-755 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-755
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: man-made sky glow
+  language_code: eng
+  annotations: []
+termid: 17-29-179
+id: 6ae747eb-a6fe-5560-8488-01ddf650b5fb

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-27-047
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-047
+  type: authoritative
+status: valid
+id: fc110053-e912-5b62-8548-451cbcae63fc
+---
+data:
+  definition:
+  - content: assembly of a low-pressure mercury discharge vessel and an {17-28-061,
+      inductive power coupler}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: induction lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-047
+id: d7efa903-835d-5bde-9dc3-f07b1f452d70

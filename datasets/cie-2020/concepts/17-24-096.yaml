@@ -1,0 +1,72 @@
+---
+data:
+  identifier: 17-24-096
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-096
+  type: authoritative
+status: valid
+id: 1ef7b267-0725-5096-b06e-a8dc6101d3f7
+---
+data:
+  definition:
+  - content: quotient of the mean of the values of {17-21-050, luminance}, <i>L</i>,
+      measured at 20° and 70° (0,35 rad and 1,22 rad) and the {17-21-050, luminance}
+      measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated
+      normally
+    type: intensional
+  examples: []
+  notes:
+  - content: The diffusion factor is intended to give an indication of the spatial
+      distribution of the diffused flux. It is equal to 1 for every isotropic {17-30-039,
+      diffuser}, whatever the value of the {17-24-068, diffuse reflectance} or {17-24-069,
+      diffuse transmittance}.
+    type: intensional
+  - content: This way of defining the diffusion factor can be applied only to materials
+      for which the {17-24-098, scattering indicatrix} does not differ appreciably
+      from that of ordinary opal glasses.
+    type: intensional
+  - content: For indicating the shape of the {17-24-098, scattering indicatrix} it
+      is recommended that the diffusion factor, <i>σ</i>, be used for strongly diffusing
+      materials, and the {17-24-097, half-value angle}, <i>γ</i>, for poorly diffusing
+      materials.
+    type: intensional
+  - content: The diffusion factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-89 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-312 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-89
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-312
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffusion factor
+    usage_info: of a diffusing surface, by reflection or by transmission
+  - type: symbol
+    normative_status: preferred
+    designation: σ
+  language_code: eng
+  annotations: []
+termid: 17-24-096
+id: 196e2a3d-4e46-5bf1-a6f8-84b6e3f296a7

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-047
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-047
+  type: authoritative
+status: valid
+id: 704b9fa5-c532-5227-9918-813fa0cd2cc9
+---
+data:
+  definition:
+  - content: "{17-31-006, beacon} light used to indicate the location of an aerodrome
+      from the air"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-51 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-28 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-51
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-28
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aerodrome beacon
+  language_code: eng
+  annotations: []
+termid: 17-31-047
+id: c5565e00-2b3a-51dc-aa7d-dff76d3c8df9

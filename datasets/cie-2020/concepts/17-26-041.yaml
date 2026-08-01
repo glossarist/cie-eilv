@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-26-041
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-041
+  type: authoritative
+status: valid
+id: 6151fb23-55d5-593c-91fb-ce509e513d72
+---
+data:
+  definition:
+  - content: '{17-26-040, biological rhythm} with a <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=103-06-01">period</a>
+      of approximately 24 h'
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-176 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-176
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circadian rhythm
+  language_code: eng
+  annotations: []
+termid: 17-26-041
+id: 84568cca-b059-5605-b491-b09eeb1dee25

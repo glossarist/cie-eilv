@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-30-014
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-014
+  type: authoritative
+status: valid
+id: 9fd738ed-a6d9-5f0a-b97b-b18e4c5b82ac
+---
+data:
+  definition:
+  - content: "{17-30-013, fixed luminaire}, the main part of which can be turned or
+      moved by means of joints, raising and lowering devices, telescopic tubes or
+      similar devices, but which has a locking device (or devices) operated by a tool
+      and is not intended to be adjusted during use"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: settable luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-014
+id: bc52268d-b3e3-5553-9e1f-9fb5e68f721b

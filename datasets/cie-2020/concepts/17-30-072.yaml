@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-30-072
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-072
+  type: authoritative
+status: valid
+id: b17002a3-57b6-5177-9867-37844099a571
+---
+data:
+  definition:
+  - content: '{17-30-060, mine luminaire} whose safety results from the use of <a
+      href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=851-15-02">intrinsically
+      safe</a> electrical circuits'
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-61 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-602 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-61
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-602
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intrinsically safe luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-072
+id: 95e5a77a-b183-5ef9-9b9a-5a516c759523

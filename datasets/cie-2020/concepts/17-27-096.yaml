@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-27-096
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-096
+  type: authoritative
+status: valid
+id: a7a4c0b8-fd36-58b6-b538-8db958968231
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} selected for testing ballasts which, when
+      associated with a {17-28-046, reference ballast}, has electrical characteristics
+      which are close to the {17-27-100, rated value}s as stated in the relevant lamp
+      standard"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1051 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-55
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1051
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference lamp
+    usage_info: for testing ballasts
+  language_code: eng
+  annotations: []
+termid: 17-27-096
+id: 3846ab04-df16-5ed2-a09a-36c33318bf5d

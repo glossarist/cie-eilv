@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-24-086
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-086
+  type: authoritative
+status: valid
+id: b26d6215-86ce-5bde-83f3-e3a25b21215f
+---
+data:
+  definition:
+  - content: quotient of the {17-24-083, spectral linear attenuation coefficient},
+      <i>μ</i>(<i>λ</i>), and the mass density, <i>ρ</i>, of the medium
+    type: intensional
+  examples: []
+  notes:
+  - content: The spectral mass attenuation coefficient is expressed in square metre
+      per kilogram (m<sup>2</sup>·kg<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 845-04-79 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1223 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-79
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1223
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral mass attenuation coefficient
+  - type: symbol
+    normative_status: preferred
+    designation: μm(λ)
+  language_code: eng
+  annotations: []
+termid: 17-24-086
+id: e2f37de2-c301-52f2-895c-fcaeb2c93059

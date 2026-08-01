@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-25-109
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-109
+  type: authoritative
+status: valid
+id: c310f269-ad87-5e84-96f4-d75a5338f837
+---
+data:
+  definition:
+  - content: device using {17-24-040, photoluminescent material} that has a {17-24-022,
+      photoluminescence} yield independent of the {17-21-025, wavelength} of the exciting
+      radiation over a wide spectral range
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-1008 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantum counter
+  language_code: eng
+  annotations: []
+termid: 17-25-109
+id: 53d5e2a7-74da-5c8a-a54b-a47665e405c4

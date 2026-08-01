@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-31-118
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-118
+  type: authoritative
+status: valid
+id: ea595507-0de5-5b6e-adf9-fafdcd2b818c
+---
+data:
+  definition:
+  - content: arrangement of optical or other components which form {17-31-102, element}s
+      of a light-emitting {17-31-002, sign}
+    type: intensional
+  examples: []
+  notes:
+  - content: The optical system is deemed to include the {17-21-032, source}, optical
+      components including front screens, {17-24-113, filter}s or lenses where these
+      are appropriate.
+    type: intensional
+  - content: This entry was numbered 17-849 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-849
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical system
+    usage_info: of a light-emitting sign
+  language_code: eng
+  annotations: []
+termid: 17-31-118
+id: 380f1191-7793-5af7-9944-99563e02f0b3

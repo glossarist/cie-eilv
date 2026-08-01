@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-25-079
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-079
+  type: authoritative
+status: valid
+id: 2603e88d-fe0a-5488-a516-9952e3403838
+---
+data:
+  definition:
+  - content: angle that the viewing direction makes with the normal of the surface
+      being viewed
+  notes:
+  - content: The angle of observation is expressed in radian (rad) or degree (°).
+  - content: This entry was numbered 17-41 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-41
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: angle of observation
+  - type: symbol
+    normative_status: preferred
+    designation: angle of view
+  language_code: eng
+  annotations: []
+termid: 17-25-079
+id: c19dc15f-c96a-525f-9e40-ba49e5ca94b4

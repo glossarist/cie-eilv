@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-30-073
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-073
+  type: authoritative
+status: valid
+id: ebcb9e40-b1b7-5d4f-a661-bf3c0d988c2d
+---
+data:
+  definition:
+  notes:
+  - content: This entry was numbered 845-10-62 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-858 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-62
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-858
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paddy lamp
+  - type: symbol
+    normative_status: preferred
+    designation: trip lamp, US
+  language_code: eng
+  annotations: []
+termid: 17-30-073
+id: d7a05be0-1c3c-51b9-83e4-f45825a55fe4

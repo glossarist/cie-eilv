@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-27-075
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-075
+  type: authoritative
+status: valid
+id: cda42ad8-3a39-5d40-a6e1-ff1543fe6913
+---
+data:
+  definition:
+  - content: "{17-27-008, electric lamp} having at least 80 % {17-21-039, luminous
+      flux} within a {17-21-109, solid angle} of π sr (corresponding to a cone with
+      an angle of 120°)"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: directional lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-075
+id: 2e12434a-15f2-509f-baf2-6606ec9468cd

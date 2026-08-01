@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-31-045
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-045
+  type: authoritative
+status: valid
+id: bb8430ab-900f-5311-aaac-ac91ebd94c76
+---
+data:
+  definition:
+  - content: light specially provided as an aid to air navigation, other than a light
+      displayed on an aircraft
+  notes:
+  - content: This entry was numbered 845-11-48 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-29 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-48
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-29
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aeronautical ground light
+  language_code: eng
+  annotations: []
+termid: 17-31-045
+id: 8068d544-e934-592b-8b64-3011d5a212cf

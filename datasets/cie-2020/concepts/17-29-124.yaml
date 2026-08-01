@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-29-124
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-124
+  type: authoritative
+status: valid
+id: 1ca304f6-e07d-5e9d-97f0-5cd4f1519eb5
+---
+data:
+  definition:
+  - content: quotient of that part of the {17-21-060, illuminance} at a point on a
+      given plane in an interior which is received directly from internal reflecting
+      surfaces illuminated directly or indirectly by a sky of assumed or known {17-21-050,
+      luminance} distribution and the {17-21-060, illuminance} on a horizontal plane
+      due to an unobstructed hemisphere of this sky, where the contribution of direct
+      {17-29-103, sunlight} to both {17-21-060, illuminance}s is excluded
+    type: intensional
+  examples: []
+  notes:
+  - content: When calculating the {17-29-001, lighting} of interiors, the contribution
+      of direct {17-29-103, sunlight} has to be considered separately.
+    type: intensional
+  - content: The internally reflected component of daylight factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-100 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-598 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-100
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-598
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internally reflected component of daylight factor
+  - type: symbol
+    normative_status: preferred
+    designation: Di
+  language_code: eng
+  annotations: []
+termid: 17-29-124
+id: a016e412-b8fa-53f7-a623-c8698bedeb37

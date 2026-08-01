@@ -1,0 +1,44 @@
+---
+data:
+  identifier: 17-29-166
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-166
+  type: authoritative
+status: valid
+id: 31f12464-2351-5daa-a767-9e90b72b26c3
+---
+data:
+  definition:
+  - content: structure in a {17-29-161, hollow light guide} which causes light to
+      escape from the guide in a controlled manner
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-665 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-665
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light extractor
+    usage_info: of a hollow light guide
+  language_code: eng
+  annotations: []
+termid: 17-29-166
+id: 5575e66a-62fd-59b9-9df5-66d0023aa907

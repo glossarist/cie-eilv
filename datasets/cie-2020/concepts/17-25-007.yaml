@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-25-007
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-007
+  type: authoritative
+status: valid
+id: ff29da7f-8eab-5752-95ed-863453fe65ab
+---
+data:
+  definition:
+  - content: instrument for measuring radiometric quantities in narrow {17-21-025,
+      wavelength} intervals over a given spectral region
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1236 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1236
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectroradiometer
+  language_code: eng
+  annotations: []
+termid: 17-25-007
+id: 740efcf8-766f-5599-baf1-6b840c6b9fb2

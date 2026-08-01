@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-26-053
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-053
+  type: authoritative
+status: valid
+id: 3702741b-4c22-55b4-a847-93fb15ac8996
+---
+data:
+  definition:
+  - content: effective {17-21-071, radiant exposure} with the spectral radiant exposure,
+      <i>H<sub>λ</sub></i>, spectrally weighted with the {17-26-054, ultraviolet hazard
+      spectral weighting function}, <i>S</i><sub>UV</sub>(<i>λ</i>)
+    type: intensional
+  examples: []
+  notes:
+  - content: The {17-21-025, wavelength} range for ultraviolet hazard radiant exposure
+      is specified in ICNIRP-recommendations as <i>λ</i> = 180 nm to <i>λ</i> = 400
+      nm.
+    type: intensional
+  - content: The ultraviolet hazard radiant exposure is expressed in joule per square
+      metre (J·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-1362 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1362
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet hazard radiant exposure
+  - type: symbol
+    normative_status: preferred
+    designation: HS
+  language_code: eng
+  annotations: []
+termid: 17-26-053
+id: e518b2b4-ff96-5942-b97d-8ec2f990c2c2

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-001
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-001
+  type: authoritative
+status: valid
+id: e9bc2402-3b20-5fd6-bd2f-2d59dc46d4fe
+---
+data:
+  definition:
+  - content: surface or object emitting light
+    type: intensional
+  examples: []
+  notes:
+  - content: A light source can be self-emitting ({17-27-002, primary light source})
+      or non-self-emitting ({17-27-003, secondary light source}).
+    type: intensional
+  - content: See also Note 1 to entry of 17-27-004.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light source
+  language_code: eng
+  annotations: []
+termid: 17-27-001
+id: fe203fd2-0c87-59ba-b478-6e522c9e7530

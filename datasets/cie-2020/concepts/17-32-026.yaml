@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-32-026
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-026
+  type: authoritative
+status: valid
+id: c8baef58-e5ff-5806-9721-ab01256b9306
+---
+data:
+  definition:
+  - content: region that extends from the centre of the stimulus subtending approximately
+      ten degrees
+  notes:
+  - content: This entry was numbered 17-68 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-68
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single-stimulus background
+  language_code: eng
+  annotations: []
+termid: 17-32-026
+id: 21b86fab-ded1-5392-9814-79ab1b7a7fb2

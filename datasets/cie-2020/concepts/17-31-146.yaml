@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-31-146
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-146
+  type: authoritative
+status: valid
+id: 9da57c87-576f-5e85-a0de-180ed471d811
+---
+data:
+  definition:
+  - content: quotient of the {17-21-050, luminance} of a field and the {17-21-060,
+      illuminance} on the plane of that field, for a {17-29-020, diffused lighting}
+      and an observation direction forming a grazing angle with the road surface
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminance coefficient in diffuse illumination is expressed in candela
+      per square metre per lux (cd⋅m<sup>−2</sup>⋅lx<sup>−1</sup>).
+    type: intensional
+  - content: This entry was numbered 17-713 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-713
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance coefficient in diffuse illumination
+  language_code: eng
+  annotations: []
+termid: 17-31-146
+id: 8b0c2706-3dd4-5c56-80c3-e4bc88adb930

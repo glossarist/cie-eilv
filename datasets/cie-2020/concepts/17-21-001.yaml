@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-21-001
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-001
+  type: authoritative
+status: valid
+id: 75f7950d-afaf-5939-b801-d11287665f24
+---
+data:
+  definition:
+  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=702-02-07">IEV
+      702-02-07</a>
+  notes:
+  - content: This entry was numbered 845-01-01 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-370 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-01
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-370
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electromagnetic radiation
+    usage_info: phenomenon
+  language_code: eng
+  annotations: []
+termid: 17-21-001
+id: 53e93353-ce7c-5270-b95f-c259623e23a2

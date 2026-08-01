@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-32-066
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-066
+  type: authoritative
+status: valid
+id: b7160e9a-a38a-59e4-a589-c473265d3de2
+---
+data:
+  definition:
+  - content: light, reflected from an imaging medium, that has not been modulated
+      by the means used to produce the image
+    type: intensional
+  examples: []
+  notes:
+  - content: Veiling glare lightens and reduces the {17-22-089, contrast} of the darker
+      parts of an image.
+    type: intensional
+  - content: Formerly the term "ambient flare" was used, but this term is deprecated.
+    type: intensional
+  - content: This entry was numbered 17-1394 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1394
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: veiling glare
+    usage_info: imaging
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: ambient flare, <imaging>'
+  language_code: eng
+  annotations: []
+termid: 17-32-066
+id: 4a68e922-de8c-519e-a8f7-93e1833882ab

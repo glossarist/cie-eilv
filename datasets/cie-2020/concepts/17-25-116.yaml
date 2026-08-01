@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-25-116
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-116
+  type: authoritative
+status: valid
+id: d0fd2a5c-8662-5fbb-931c-28f9afe22a23
+---
+data:
+  definition:
+  - content: unwanted light that forms part of the measurement
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Light that reaches the {17-25-035, detector} from directions other than the desired path from the {17-21-032, source} to the {17-25-035, detector}, e.g. light scattered from walls, ceilings or optical components within the measuring system.
+      Light that reaches the {17-25-035, detector} which is at a {17-21-025, wavelength} other than the {17-21-025, wavelength} intended to be measured.
+    type: intensional
+  - content: This entry was numbered 17-1273 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1273
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stray light
+    usage_info: in measurement
+  language_code: eng
+  annotations: []
+termid: 17-25-116
+id: 6494627d-2aab-585c-ba94-afb8a91e32f7

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-005
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-005
+  type: authoritative
+status: valid
+id: 918ff2c8-4cfd-5191-82c9-a48d7a0b111d
+---
+data:
+  definition:
+  - content: quality of performance of the visual system of an observer related to
+      central and {17-22-009, peripheral vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1412 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1412
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual performance
+  language_code: eng
+  annotations: []
+termid: 17-29-005
+id: ac6ddddc-d490-5564-9d00-775ef6c9b251

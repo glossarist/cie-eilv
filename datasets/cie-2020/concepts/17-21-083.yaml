@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-21-083
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-083
+  type: authoritative
+status: valid
+id: 786dcb5b-bf28-50a1-b39b-5eab4a425760
+---
+data:
+  definition:
+  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=112-02-10">IEV
+      112-02-10</a>
+  notes:
+  - content: This entry was numbered 845-01-50 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-117 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-50
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: candela
+  - type: symbol
+    normative_status: preferred
+    designation: cd
+  language_code: eng
+  annotations: []
+termid: 17-21-083
+id: 25414313-ad9c-56dc-967f-0047271d7163

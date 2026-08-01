@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-32-041
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-041
+  type: authoritative
+status: valid
+id: 0c2cfce3-e9b1-5dd6-9e8b-6d903007bdb3
+---
+data:
+  definition:
+  - content: relationship between the digital code values provided to an output device
+      and the equivalent neutral densities produced by the device
+  notes:
+  - content: This entry was numbered 17-373 and 17-389 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-373 and 17-389
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electro-optical conversion function
+  - type: symbol
+    normative_status: preferred
+    designation: EOCF
+  language_code: eng
+  annotations: []
+termid: 17-32-041
+id: 8c261c53-c531-5196-b6eb-31bf59c222de

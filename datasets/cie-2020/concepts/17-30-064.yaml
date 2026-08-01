@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-30-064
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-064
+  type: authoritative
+status: valid
+id: cfe38a03-5499-5803-a0c2-4ae960c6e7fa
+---
+data:
+  definition:
+  - content: lamp used for detection of methane and oxygen deficiency in mine air
+  notes:
+  - content: A mine safety lamp is usually a flame lamp.
+  - content: This entry was numbered 845-10-53 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-780 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-53
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-780
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mine safety lamp
+  language_code: eng
+  annotations: []
+termid: 17-30-064
+id: e6416aa4-5355-5642-9b6b-68ff0416de5e

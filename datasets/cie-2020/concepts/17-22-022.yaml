@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-22-022
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-022
+  type: authoritative
+status: valid
+id: 0414a5e5-b065-5171-af77-5bd88be41bdc
+---
+data:
+  definition:
+  - content: anomaly of vision in which there is a pronounced inadequacy or complete
+      absence of {17-22-017, scotopic vision}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-02-12 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-812 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-812
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: night blindness
+  language_code: eng
+  annotations: []
+termid: 17-22-022
+id: 79949747-df5c-55c8-89c5-3da88e20aab5

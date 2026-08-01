@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-29-162
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-162
+  type: authoritative
+status: valid
+id: e9ce0a07-5030-5078-a3cf-74e9393012d9
+---
+data:
+  definition:
+  - content: "{17-29-161, hollow light guide} in which light is confined by {17-24-108,
+      refraction} by lenses which are located periodically along the guide"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-653 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-653
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lens light guide
+  language_code: eng
+  annotations: []
+termid: 17-29-162
+id: 4f49d75a-ce38-5ed5-b17e-0aa10991e23f

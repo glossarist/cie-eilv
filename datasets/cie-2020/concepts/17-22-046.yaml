@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-22-046
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-046
+  type: authoritative
+status: valid
+id: 744b5a7d-72d0-5ce9-b18c-b50e3b5ce43a
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived to belong to an area that appears to be
+      transmitting or diffusely reflecting light as a {17-27-003, secondary light
+      source}"
+    type: intensional
+  examples: []
+  notes:
+  - content: "{17-27-003, secondary light source}s seen in their natural surroundings
+      normally exhibit the {17-22-019, appearance} of non-luminous colours in this
+      sense."
+    type: intensional
+  - content: This entry was numbered 845-02-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-818 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-23
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-818
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-luminous colour
+  language_code: eng
+  annotations: []
+termid: 17-22-046
+id: cd2defdb-0c81-5cb0-813e-b856f420d500

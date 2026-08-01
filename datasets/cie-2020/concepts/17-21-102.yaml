@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-21-102
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-102
+  type: authoritative
+status: valid
+id: 3ccc2784-69c5-5867-b1ee-039525c89488
+---
+data:
+  definition:
+  - content: "{17-21-050, luminance} in a given direction that results from {17-24-001,
+      emission} at the surface of a photoluminescent medium under specified conditions
+      of illumination, compared to the {17-21-050, luminance} in the same direction
+      by the {17-24-060, perfect reflecting diffuser} identically illuminated"
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminescent luminance factor depends upon the spectral power distribution
+      of the illumination and this quantity is typically specified for a given {17-23-019,
+      CIE illuminant} condition.
+    type: intensional
+  - content: The luminescent luminance factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-723 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-723
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminescent luminance factor
+    usage_info: of a photoluminescent material
+  - type: symbol
+    normative_status: preferred
+    designation: βv,L
+  language_code: eng
+  annotations: []
+termid: 17-21-102
+id: 549df67c-a989-5247-8d31-74137f50cba6

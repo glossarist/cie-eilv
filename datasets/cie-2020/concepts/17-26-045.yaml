@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-26-045
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-045
+  type: authoritative
+status: valid
+id: 2a6ded83-4e2e-5256-a59a-80d6ebd48d34
+---
+data:
+  definition:
+  - content: law stating that {17-26-034, effective dose}s can be added to a total
+      {17-26-034, effective dose}, even if the {17-26-064, dose response curve}s for
+      different wavebands are different
+    type: intensional
+  examples: []
+  notes:
+  - content: This means at the same time that no conductive (i.e. catalytic) or hindering
+      (i.e. antagonistic) effects occur.
+    type: intensional
+  - content: This entry was numbered 17-25 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-25
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: additivity law of von Krefeld
+  language_code: eng
+  annotations: []
+termid: 17-26-045
+id: fa4f1978-a109-53a7-8ab4-2cd16af27362

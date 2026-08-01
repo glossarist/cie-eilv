@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-23-085
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-085
+  type: authoritative
+status: valid
+id: fc274e07-5f7a-5eb6-95ac-80d3137e14f0
+---
+data:
+  definition:
+  - content: fundamental univariate {17-23-001, colour} description or metric
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-873 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-873
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perceptual attribute correlate
+  language_code: eng
+  annotations: []
+termid: 17-23-085
+id: '04207833-d900-559a-855c-0f1a16dd927b'

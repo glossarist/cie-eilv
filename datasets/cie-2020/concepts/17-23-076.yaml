@@ -1,0 +1,83 @@
+---
+data:
+  identifier: 17-23-076
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-076
+  type: authoritative
+status: valid
+id: c43708fd-3d0b-52ac-8f20-d868a44c24c8
+---
+data:
+  definition:
+  - content: |-
+      three-dimensional, approximately {17-23-071, uniform colour space} produced by plotting in rectangular coordinates <i>L</i>*, <i>a</i>*, <i>b</i>*, quantities defined by the equations:
+      <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − 16
+      <i>a</i>* = 500 [<i>f</i> (<i>X</i>/<i>X</i><sub>n</sub>) − <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>)]
+      <i>b</i>* = 200 [<i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>)]
+      where
+      <i>f</i> (<i>X</i>/<i>X</i><sub>n</sub>) = (<i>X</i>/<i>X</i><sub>n</sub>)<sup>1/3</sup> if (<i>X</i>/<i>X</i><sub>n</sub>) > (6/29)<sup>3</sup>
+      <i>f</i> (<i>X</i>/<i>X</i><sub>n</sub>) = (841/108) (<i>X</i>/<i>X</i><sub>n</sub>) + 4/29 if (<i>X</i>/<i>X</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
+      and
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (<i>Y</i>/<i>Y</i><sub>n</sub>)<sup>1/3</sup> if (<i>Y</i>/<i>Y</i><sub>n</sub>) > (6/29)<sup>3</sup>
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (841/108) (<i>Y</i>/<i>Y</i><sub>n</sub>) + 4/29 if (<i>Y</i>/<i>Y</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
+      and
+      <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>) = (<i>Z</i>/<i>Z</i><sub>n</sub>)<sup>1/3 </sup>if (<i>Z</i>/<i>Z</i><sub>n</sub>) > (6/29)<sup>3</sup>
+      <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>) = (841/108) (<i>Z</i>/<i>Z</i><sub>n</sub>) + 4/29 if (<i>Z</i>/<i>Z</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
+      and <i>X</i>, <i>Y</i>, <i>Z</i> describe the {17-23-002, colour stimulus} considered and <i>X</i><sub>n</sub>, <i>Y</i><sub>n</sub>, <i>Z</i><sub>n</sub> describe a specified white {17-23-009, achromatic stimulus}.
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Approximate correlates of {17-22-063, lightness}, {17-22-074, chroma} and {17-22-067, hue} can be calculated as follows:
+      CIE 1976 lightness
+      <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − 16
+      where
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (<i>Y</i>/<i>Y</i><sub>n</sub>)<sup>1/3</sup> if (<i>Y</i>/<i>Y</i><sub>n</sub>) > (6/29)<sup>3</sup>
+      <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) = (841/108) (<i>Y</i>/<i>Y</i><sub>n</sub>) + 4/29 if (<i>Y</i>/<i>Y</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
+      CIE 1976 <i>a</i>, <i>b</i> chroma
+
+      CIE 1976 <i>a</i>, <i>b</i> hue angle
+      <i> h</i><sub>ab</sub> = arctan (<i>b</i>*/<i>a</i>*)
+    type: intensional
+  - content: See also CIE 15 <i>Colorimetry</i>.
+    type: intensional
+  - content: 'See also ISO/CIE 11664-4<i> Colorimetry – Part 4: CIE 1976 L*a*b* Colour
+      Space</i>.'
+    type: intensional
+  - content: This entry was numbered 845-03-56 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-157 and 17-173 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-56
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-157 and 17-173
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 L*a*b* colour space
+  - type: symbol
+    normative_status: preferred
+    designation: CIELAB colour space
+  language_code: eng
+  annotations: []
+termid: 17-23-076
+id: 1b77da42-3226-5e75-b77b-fcc98d88bef8

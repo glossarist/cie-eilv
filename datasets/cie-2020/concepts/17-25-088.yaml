@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-25-088
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-088
+  type: authoritative
+status: valid
+id: ebe1941d-5b7e-513e-91b5-f2a8d482ac86
+---
+data:
+  definition:
+  - content: general principle that, in the absence of losses, the elementary {17-21-038,
+      radiant flux} or {17-21-039, luminous flux}, d<i>Φ</i>, between two elementary
+      areas d<i>A</i> and d<i>A</i>′ defining an elementary beam is proportional to
+      the elementary projected areas d<i>A</i>cos<i>θ</i> and d<i>A</i>′cos<i>θ </i>′
+      in the direction of the beam and inversely proportional to the squared distance,
+      <i>l</i>, between the areas.
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The basic law of radiometry and photometry is expressed by
+
+      where the proportionality factor for this geometrical condition is equal to the {17-21-049, radiance} or {17-21-050, luminance}, respectively, within the elementary beam.
+    type: intensional
+  - content: The basic law of radiometry and photometry is based on the {17-21-047,
+      geometric extent}.
+    type: intensional
+  - content: This entry was numbered 17-78 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-78
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic law of radiometry and photometry
+  language_code: eng
+  annotations: []
+termid: 17-25-088
+id: 6a185637-88d4-5969-9af4-ed00e84c2bef

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-25-068
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-068
+  type: authoritative
+status: valid
+id: 49e30b98-50bd-5e8f-ae47-97a6c6e212a4
+---
+data:
+  definition:
+  - content: time required for an {17-25-058, output} to fall from a stated high percentage
+      to a stated lower percentage of the maximum value when a steady {17-25-057,
+      input} is instantaneously removed
+    type: intensional
+  examples: []
+  notes:
+  - content: A value of 90 % is usually considered to be the high percentage value,
+      whereas a value of 10 % is usually considered to be the low percentage value.
+    type: intensional
+  - content: The fall time is expressed in seconds (s).
+    type: intensional
+  - content: This entry was numbered 845-05-61 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-427 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-61
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-427
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fall time
+    usage_info: of a detector
+  language_code: eng
+  annotations: []
+termid: 17-25-068
+id: 78102320-4e29-5cb5-8e84-b061328e74e3

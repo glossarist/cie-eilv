@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-24-052
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-052
+  type: authoritative
+status: valid
+id: 9d59225e-ec42-517c-b473-6c78b7d13abd
+---
+data:
+  definition:
+  - content: "{17-24-047, reflection} in accordance with the laws of geometrical optics,
+      without {17-24-049, scattering}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-45 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1077 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-45
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular reflection
+  - type: symbol
+    normative_status: preferred
+    designation: specular reflection
+  language_code: eng
+  annotations: []
+termid: 17-24-052
+id: 1b29329a-2df7-5faa-9f6f-78f8577f3c65

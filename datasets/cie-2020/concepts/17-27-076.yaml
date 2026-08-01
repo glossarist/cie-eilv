@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-27-076
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-076
+  type: authoritative
+status: valid
+id: 35fa23f1-3394-5763-9d63-c2fde22a5ea9
+---
+data:
+  definition:
+  - content: axis about which the {17-29-037, luminous intensity distribution} is
+      substantially symmetrical
+    type: intensional
+  examples: []
+  notes:
+  - content: The optical beam axis is not necessarily the same as the lamp axis through
+      the lamp {17-28-015, cap} or the lamp axis normal to a {17-25-110, reference
+      plane}. The following figure illustrates the relation between the optical beam
+      axis, the mechanical/geometrical axis, the {17-27-080, peak intensity} and the
+      {17-27-078, centre beam intensity}.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical beam axis
+  language_code: eng
+  annotations: []
+termid: 17-27-076
+id: 4d227cdf-90ea-55d3-800f-c17a6aa7c40c

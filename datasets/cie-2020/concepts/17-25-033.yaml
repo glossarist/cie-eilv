@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-25-033
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-033
+  type: authoritative
+status: valid
+id: d0023477-1672-556a-b30c-109453b7bcae
+---
+data:
+  definition:
+  - content: instrument for ascertaining the correct settings of the lens aperture,
+      shutter speed, etc. of a camera
+  notes:
+  - content: This entry was numbered 845-05-29 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-417 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-29
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-417
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposure meter
+  language_code: eng
+  annotations: []
+termid: 17-25-033
+id: 547b3068-af37-59e5-b019-f81815b2070a

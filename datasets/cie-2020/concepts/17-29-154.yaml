@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-154
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-154
+  type: authoritative
+status: valid
+id: 6f524d36-f1bc-5c15-a6a0-bac2d7124b65
+---
+data:
+  definition:
+  - content: quotient of minimum {17-21-050, luminance} and {17-29-151, average luminance}
+      of a surface
+    type: intensional
+  examples: []
+  notes:
+  - content: The luminance uniformity has unit one.
+    type: intensional
+  - content: This entry was numbered 17-721 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-721
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance uniformity
+  - type: symbol
+    normative_status: preferred
+    designation: Uo
+  language_code: eng
+  annotations: []
+termid: 17-29-154
+id: 1b3b896d-c3b0-50a3-814c-ab7bfa5c13ee

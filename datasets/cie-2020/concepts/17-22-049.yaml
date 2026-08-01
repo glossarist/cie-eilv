@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-22-049
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-049
+  type: authoritative
+status: valid
+id: c5afdb3a-bf61-58ff-91f3-ad5f6c5c132a
+---
+data:
+  definition:
+  - content: perceived {17-22-040, colour} devoid of {17-22-067, hue}
+    type: intensional
+  examples: []
+  notes:
+  - content: The colour names white, grey and black or, for transmitting objects,
+      colourless and neutral are commonly used in relation to achromatic colour.
+    type: intensional
+  - content: This entry was numbered 845-02-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-11 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-26
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-11
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: achromatic colour
+    usage_info: in the perceptual sense
+  language_code: eng
+  annotations: []
+termid: 17-22-049
+id: 8ade49ae-2881-57f5-815a-6f373d8abeb6

@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-21-041
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-21-041
+  type: authoritative
+status: valid
+id: '072878e3-a27f-567c-8e79-f0856e009618'
+---
+data:
+  definition:
+  - content: energy emitted, transferred or received in form of electromagnetic waves
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Radiant energy can be expressed by the time integral of {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>, over a given duration, Δ<i>t</i>:<i>
+
+
+      </i><sub>.</sub>
+    type: intensional
+  - content: Radiant energy is expressed as a function of {17-21-025, wavelength},
+      <i>λ</i>, as a function of frequency, <i>ν</i>, or as a function of {17-21-026,
+      wavenumber}, <i>σ</i>.
+    type: intensional
+  - content: The corresponding photometric quantity is "{17-21-037, luminous energy}".
+      The corresponding quantity for photons is "{17-21-042, photon energy}".
+    type: intensional
+  - content: The radiant energy is expressed in joule (J = W·s).
+    type: intensional
+  - content: This entry was numbered 845-01-27 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1019 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-01-27
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant energy
+  - type: symbol
+    normative_status: preferred
+    designation: Qe; W; U; Q
+  language_code: eng
+  annotations: []
+termid: 17-21-041
+id: dc874efb-dc5d-5da2-a0fc-bd6dae3eefab

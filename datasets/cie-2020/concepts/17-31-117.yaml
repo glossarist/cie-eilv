@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-31-117
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-117
+  type: authoritative
+status: valid
+id: 154db564-8b27-5613-8461-c35fc55d9df4
+---
+data:
+  definition:
+  - content: display which operates with an arrangement of internal illumination
+  notes:
+  - content: This entry was numbered 17-1331 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1331
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transilluminated display
+  language_code: eng
+  annotations: []
+termid: 17-31-117
+id: ee707d05-8897-5086-9d4b-d25e148f0aa5

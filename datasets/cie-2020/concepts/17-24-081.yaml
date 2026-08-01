@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24-081
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-081
+  type: authoritative
+status: valid
+id: 520d60a6-8287-5c8a-aef3-5d75e280f14b
+---
+data:
+  definition:
+  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=705-02-07">IEV
+      705-02-07</a>
+  notes:
+  - content: This entry was numbered 845-04-74 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-6 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-74
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-6
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorption
+  language_code: eng
+  annotations: []
+termid: 17-24-081
+id: baa6170b-1eb2-5c3a-b0a2-4ec1e5a4df7e

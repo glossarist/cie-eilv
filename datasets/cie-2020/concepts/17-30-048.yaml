@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-30-048
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-048
+  type: authoritative
+status: valid
+id: c67ff5fb-e7cc-59ee-8563-0aa9e1dca3d4
+---
+data:
+  definition:
+  - content: "{17-30-030, projector} with a simple {17-30-038, reflector} and sometimes
+      capable of providing adjustment of the divergence by the relative movement of
+      the {17-27-008, electric lamp} (or other {17-28-001, luminous element}) and
+      a mirror"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-10-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1071 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1071
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflector spotlight
+  language_code: eng
+  annotations: []
+termid: 17-30-048
+id: 4b872893-0d94-5bde-9a98-050bb0a6626f

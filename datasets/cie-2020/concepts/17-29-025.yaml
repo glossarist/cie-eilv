@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-29-025
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-025
+  type: authoritative
+status: valid
+id: 10f8ec59-99d0-514c-8250-f25758321c51
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} by {17-27-004, electric light source}s"
+    type: intensional
+  examples: []
+  notes:
+  - content: Formerly "artificial lighting" was used, but this term is deprecated.
+    type: intensional
+  - content: This entry was numbered 17-365 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-365
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric lighting
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: artificial lighting'
+  language_code: eng
+  annotations: []
+termid: 17-29-025
+id: 9c45baf1-d672-5aa7-9eea-c402465b64ac

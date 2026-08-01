@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-22-051
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-051
+  type: authoritative
+status: valid
+id: 62b0633a-1ad0-51c1-a9b8-0c570d71a352
+---
+data:
+  definition:
+  - content: "{17-22-040, colour} perceived as belonging to the light falling on objects"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-560 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-560
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illumination colour
+  language_code: eng
+  annotations: []
+termid: 17-22-051
+id: 18a2fc8d-9f28-52d3-b660-2d9b4085a883

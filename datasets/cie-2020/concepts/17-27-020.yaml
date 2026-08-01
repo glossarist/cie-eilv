@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-27-020
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-020
+  type: authoritative
+status: valid
+id: 408988f5-2429-5ca4-a5b0-bebb95f44548
+---
+data:
+  definition:
+  - content: difference in electric potential due to the space charge near the cathode
+  notes:
+  - content: The cathode fall is expressed in volt (V).
+  - content: This entry was numbered 845-07-13 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-127 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-127
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cathode fall
+  - type: symbol
+    normative_status: preferred
+    designation: cathode voltage drop
+  language_code: eng
+  annotations: []
+termid: 17-27-020
+id: 077db455-8b40-50e9-b348-7eb128b16ab8

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-22-023
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-22-023
+  type: authoritative
+status: valid
+id: 3abb7d96-da58-5d49-9bcc-1ecbcf1f6fa7
+---
+data:
+  definition:
+  - content: anomaly of vision in which there is a reduced ability to discriminate
+      between some or all {17-22-040, colour}s
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Types of defective colour vision include
+      – {17-22-035, anomalous trichromatism}: {17-22-025, deuteranomaly}, {17-22-030, protanomaly} and {17-22-033, tritanomaly};
+      – {17-22-027, dichromatism}: {17-22-026, deuteranopia}, {17-22-031, protanopia} and {17-22-034, tritanopia};
+      – {17-22-028, monochromatism}.
+    type: intensional
+  - content: This entry was numbered 845-02-13 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-287 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-02-13
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-287
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: defective colour vision
+  language_code: eng
+  annotations: []
+termid: 17-22-023
+id: 63798d52-99f6-51b8-a2ef-3b1ca5eedf1f

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-27-030
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-030
+  type: authoritative
+status: valid
+id: f0483e47-98cd-5b87-8b7c-3a66fed653a4
+---
+data:
+  definition:
+  - content: "{17-27-024, discharge lamp} of the mercury vapour type, with or without
+      a coating of phosphors, in which during operation the partial pressure of the
+      vapour does not exceed 100 Pa"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-07-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-701 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-07-22
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-701
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: low-pressure mercury lamp
+  - type: symbol
+    normative_status: preferred
+    designation: low-pressure mercury vapour lamp
+  language_code: eng
+  annotations: []
+termid: 17-27-030
+id: 5f973176-bf70-583f-a4bb-82aa4aaefdc2

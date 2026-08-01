@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-30-020
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-020
+  type: authoritative
+status: valid
+id: 2da50e5f-ef83-5fd2-94c4-0fafbc807050
+---
+data:
+  definition:
+  - content: recessed panel or dome in the ceiling
+  notes:
+  - content: This entry was numbered 845-10-14 in IEC 60050-845:1987.
+  - content: This entry was numbered 17-184 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-14
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-184
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coffer
+  language_code: eng
+  annotations: []
+termid: 17-30-020
+id: 532702b3-676c-5827-8684-a1c927ff1b9e

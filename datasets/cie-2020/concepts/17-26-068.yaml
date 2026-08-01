@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-26-068
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-068
+  type: authoritative
+status: valid
+id: e117cd4f-27d6-55b8-80ef-80d1243b14ad
+---
+data:
+  definition:
+  - content: "{17-26-035, actinic dose}, using the {17-26-065, erythema spectral weighting
+      function}, that produces a just noticeable {17-26-028, actinic erythema} on
+      a single individual's previously unexposed skin"
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The minimal erythema dose is a subjective measure based on the reddening
+      of the skin; it depends on many variables, e.g. individual sensitivity to {17-21-008,
+      ultraviolet radiation}, radiometric characteristics of the {17-21-032, source},
+      skin pigmentation, anatomic site, elapsed time between {17-21-099, irradiation}
+      and observation of the reddening (typical value: 24 h). Since the minimal erythema
+      dose varies with each individual, the use of this quantity should be reserved
+      solely for observational studies in humans and other animals.'
+    type: intensional
+  - content: See also "{17-26-069, standard erythema dose}".
+    type: intensional
+  - content: The minimal erythema dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 845-06-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-782 and 17-759 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-06-24
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-782 and 17-759
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimal erythema dose
+  - type: symbol
+    normative_status: preferred
+    designation: MED
+  language_code: eng
+  annotations: []
+termid: 17-26-068
+id: f8134195-6ebf-521b-8d99-311a47854897

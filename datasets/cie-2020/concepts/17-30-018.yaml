@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-30-018
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-018
+  type: authoritative
+status: valid
+id: 76901810-879e-5faa-8ab6-5018a391af9c
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} intended by the manufacturer to be fully or partly
+      recessed into a mounting surface"
+    type: intensional
+  examples: []
+  notes:
+  - content: The term applies both to {17-30-001, luminaire}s for operation in enclosed
+      cavities and to {17-30-001, luminaire}s for mounting through a surface such
+      as a suspended ceiling.
+    type: intensional
+  - content: This entry was numbered 845-10-12 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1042 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-10-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1042
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recessed luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-018
+id: 46b1e1af-9f9a-5136-8f38-9892e37d3270

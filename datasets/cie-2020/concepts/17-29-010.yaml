@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-010
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-010
+  type: authoritative
+status: valid
+id: ab359f40-964f-59f5-b27e-c0928ecb5c9e
+---
+data:
+  definition:
+  - content: "{17-29-001, lighting} provided for use when the power supply to the
+      normal {17-29-025, electric lighting} fails"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-10 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-377 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-10
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-377
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emergency lighting
+  language_code: eng
+  annotations: []
+termid: 17-29-010
+id: 484be762-f04f-590a-889e-1e38011f223a

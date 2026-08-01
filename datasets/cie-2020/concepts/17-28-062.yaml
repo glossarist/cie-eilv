@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 17-28-062
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-28-062
+  type: authoritative
+status: valid
+id: b13e1e5b-ce15-5a72-b811-0ecd07109ef0
+---
+data:
+  definition:
+  - content: terminal intended to connect an item to a circuit or device capable of
+      supplying or receiving an electric control signal to the item
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control terminal
+  language_code: eng
+  annotations: []
+termid: 17-28-062
+id: e30f7e6a-e569-5eb9-864d-366e056aeba7

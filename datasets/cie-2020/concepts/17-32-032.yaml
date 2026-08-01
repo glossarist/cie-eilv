@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-32-032
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-032
+  type: authoritative
+status: valid
+id: bafea7e9-83ed-5239-a3ee-8e200d4af8e4
+---
+data:
+  definition:
+  - content: neutral colour with the lowest {17-21-050, luminance} that can be produced
+      by an imaging medium in use, measured using the specified measurement geometry
+    type: intensional
+  examples: []
+  notes:
+  - content: It is generally desirable to specify a medium black point that has the
+      same {17-23-052, chromaticity} as the {17-32-031, medium white point}.
+    type: intensional
+  - content: This entry was numbered 17-760 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-760
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: medium black point
+  language_code: eng
+  annotations: []
+termid: 17-32-032
+id: 1a80ae67-c2c2-559f-9484-9057ffc9e9a5

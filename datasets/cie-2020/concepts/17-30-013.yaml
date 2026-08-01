@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-30-013
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-30-013
+  type: authoritative
+status: valid
+id: 1b17b518-35a1-57fb-9b8b-f56e9ecb5aa2
+---
+data:
+  definition:
+  - content: "{17-30-001, luminaire} that cannot easily be moved from one place to
+      another, either because the fixing is such that the {17-30-001, luminaire} can
+      only be removed with the aid of a tool, or because it is intended for use out
+      of arm's reach"
+    type: intensional
+  examples: []
+  notes:
+  - content: In general, fixed luminaires are designed for permanent connection to
+      the power supply, but connection can also be made by means of a plug or similar
+      device.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fixed luminaire
+  language_code: eng
+  annotations: []
+termid: 17-30-013
+id: ff9fd87c-40e4-5776-b816-cb99b6db39bf

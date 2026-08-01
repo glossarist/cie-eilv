@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-27-123
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-123
+  type: authoritative
+status: valid
+id: dd82e2c8-ede9-5764-b06d-b13d53d77766
+---
+data:
+  definition:
+  - content: total power dissipated by {17-28-048, control gear} and {17-27-001, light
+      source}(s) in combination, at rated {17-27-118, supply voltage} and frequency
+      of the {17-28-048, control gear} with the highest rated output load
+    type: intensional
+  examples: []
+  notes:
+  - content: The total circuit power is typically expressed in watt (W).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total circuit power
+  language_code: eng
+  annotations: []
+termid: 17-27-123
+id: 56b69805-b5f4-5e9f-b25e-f21d998e1f13

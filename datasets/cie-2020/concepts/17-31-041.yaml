@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-31-041
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-041
+  type: authoritative
+status: valid
+id: c3363a50-f53b-5cf1-ac35-1e9743862915
+---
+data:
+  definition:
+  - content: "{17-31-004, signal light}, one of a set, carried on an aircraft to indicate
+      the presence and aspect of the aircraft"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-44 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-804 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-44
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-804
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation light
+    usage_info: of an aircraft
+  language_code: eng
+  annotations: []
+termid: 17-31-041
+id: 315ee48d-15a9-57bb-961d-841861df33ff

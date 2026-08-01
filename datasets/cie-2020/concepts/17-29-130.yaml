@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-29-130
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-130
+  type: authoritative
+status: valid
+id: 20d41332-7de0-56f2-a92c-3abbd20490d7
+---
+data:
+  definition:
+  - content: solar {17-21-060, illuminance} incident on the outer limit of the Earth's
+      atmosphere
+    type: intensional
+  examples: []
+  notes:
+  - content: The extraterrestrial solar illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-423 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-423
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extraterrestrial solar illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev
+  language_code: eng
+  annotations: []
+termid: 17-29-130
+id: 72480e40-9f00-543e-85b7-28fe06e8ebd7

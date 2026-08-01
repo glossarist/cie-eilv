@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-23-061
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-23-061
+  type: authoritative
+status: valid
+id: 59040e20-b1ad-5796-a494-18c7bc17847c
+---
+data:
+  definition:
+  - content: surface in tristimulus space that represents the locus of {17-23-002,
+      colour stimulus} of zero {17-21-050, luminance}
+    type: intensional
+  examples: []
+  notes:
+  - content: The alychne passes through the origin of the space. It intersects any
+      {17-23-054, chromaticity diagram} in a straight line which is also called the
+      alychne; this line lies wholly outside the domain of chromaticities bounded
+      by the {17-23-056, spectrum locus} and the {17-23-058, purple boundary}.
+    type: intensional
+  - content: This entry was numbered 845-03-43 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-36 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-03-43
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-36
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alychne
+  language_code: eng
+  annotations: []
+termid: 17-23-061
+id: 9dda70c7-b2d4-5386-8897-038fdd9b7b77

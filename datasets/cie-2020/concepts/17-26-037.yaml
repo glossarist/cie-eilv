@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-26-037
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-26-037
+  type: authoritative
+status: valid
+id: e39f3fdb-7e69-5906-828c-9412fe778485
+---
+data:
+  definition:
+  - content: "{17-26-034, effective dose} with the spectral {17-21-071, radiant exposure}
+      spectrally weighted with a stated photobiological {17-26-027, action spectrum}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition is based on the assumption that an {17-26-027, action
+      spectrum} is adopted for the photobiological effect considered, and that its
+      maximum value is 1.
+    type: intensional
+  - content: It is essential to specify which {17-26-027, action spectrum} is used,
+      as the unit is the same for any {17-26-027, action spectrum}.
+    type: intensional
+  - content: The photobiological dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-882 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-882
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photobiological dose
+  - type: symbol
+    normative_status: preferred
+    designation: Heff
+  language_code: eng
+  annotations: []
+termid: 17-26-037
+id: 3c78d540-150f-58eb-8762-85081b72918e

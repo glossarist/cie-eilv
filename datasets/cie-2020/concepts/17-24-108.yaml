@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-24-108
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-24-108
+  type: authoritative
+status: valid
+id: fd0cfb0d-3125-564c-a24e-e3f2e6147199
+---
+data:
+  definition:
+  - content: process by which the direction of propagation of an <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=121-11-63">electromagnetic
+      wave</a> is changed as a result of changes in its velocity of propagation in
+      passing through an optically non-homogeneous medium, or in crossing a surface
+      separating media with different {17-24-109, refractive index}es
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-04-100 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1073 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-04-100
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: refraction
+    usage_info: of electromagnetic waves
+  language_code: eng
+  annotations: []
+termid: 17-24-108
+id: 836213a8-8883-55ba-90be-75488bfb9193

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-27-060
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-27-060
+  type: authoritative
+status: valid
+id: 1e801748-e971-5891-9df0-9a450a922614
+---
+data:
+  definition:
+  - content: "{17-27-058, LED module} that carries the {17-28-057, control unit of
+      the control gear}, and is operated by the separated {17-28-056, power supply
+      of the control gear}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-integrated LED module
+  - type: symbol
+    normative_status: preferred
+    designation: LEDsi module
+  language_code: eng
+  annotations: []
+termid: 17-27-060
+id: 5d9eedc4-a8d5-5c69-b640-782bd9c66c10

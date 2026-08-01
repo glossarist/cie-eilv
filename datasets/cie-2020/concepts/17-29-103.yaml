@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-29-103
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-103
+  type: authoritative
+status: valid
+id: a36f6e4b-799f-596f-92ca-93a7f15ad373
+---
+data:
+  definition:
+  - content: part of {17-29-099, direct solar radiation} capable of causing a {17-22-083,
+      visual sensation}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-09-82 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1281 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-09-82
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1281
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sunlight
+  language_code: eng
+  annotations: []
+termid: 17-29-103
+id: 2211fa56-a6fc-5968-babc-5e4798cb4ecd

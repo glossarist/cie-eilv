@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-29-157
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-157
+  type: authoritative
+status: valid
+id: c76bd212-2265-5218-8929-45987d07b983
+---
+data:
+  definition:
+  - content: value below which the {17-29-155, average illuminance} over a specified
+      surface is not permitted to fall
+    type: intensional
+  examples: []
+  notes:
+  - content: The maintained average illuminance is the {17-29-155, average illuminance}
+      over the specified surface at the time maintenance should be carried out.
+    type: intensional
+  - content: The maintained average illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+    type: intensional
+  - content: This entry was numbered 17-750 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-750
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintained average illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av,m; ; Eav,m;
+  language_code: eng
+  annotations: []
+termid: 17-29-157
+id: 8be04c38-bccc-5e3a-8f4a-eb7a2af8fe6f

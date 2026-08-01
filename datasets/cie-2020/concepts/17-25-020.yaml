@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-25-020
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-020
+  type: authoritative
+status: valid
+id: dae2a420-84c9-5e59-b1f2-1c055afc6a46
+---
+data:
+  definition:
+  - content: instrument for measuring {17-21-060, illuminance}
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-05-16 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-551 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-05-16
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-551
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance meter
+  language_code: eng
+  annotations: []
+termid: 17-25-020
+id: 55a9d479-e1fa-531b-9808-6e5f885af2df

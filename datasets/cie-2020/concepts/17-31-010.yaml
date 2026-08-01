@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-31-010
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-31-010
+  type: authoritative
+status: valid
+id: 42bda634-b850-51bc-a1b8-5de30b7ac565
+---
+data:
+  definition:
+  - content: "{17-31-008, rhythmic light} in which all the durations of light and
+      darkness are intended to be perceived as equal"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 845-11-12 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-624 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: IEC 60050-845:1987
+        id: 845-11-12
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-624
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isophase light
+  language_code: eng
+  annotations: []
+termid: 17-31-010
+id: 48570415-3d95-5665-af17-b8bb4b468217

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-32-060
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-32-060
+  type: authoritative
+status: valid
+id: d95c814d-2c82-5e8a-8469-156cbdd9fdb8
+---
+data:
+  definition:
+  - content: smallest element that is capable of generating the full functionality
+      of a display
+  notes:
+  - content: This entry was numbered 17-956 in CIE S 017:2011.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-956
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pixel
+  language_code: eng
+  annotations: []
+termid: 17-32-060
+id: 828c799a-8b63-5be8-b68c-9619662f5597

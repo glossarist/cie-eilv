@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-25-042
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-25-042
+  type: authoritative
+status: valid
+id: ea9e80f8-3cba-5d6c-a474-b7593d7ca9bc
+---
+data:
+  definition:
+  - content: "{17-25-038, photoelectric detector} that utilizes the change in electrical
+      conductivity produced by the {17-24-081, absorption} of {17-21-002, optical
+      radiation}"
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-891 and 17-939 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-891 and 17-939
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoconductive cell
+  - type: symbol
+    normative_status: preferred
+    designation: photoresistor
+  language_code: eng
+  annotations: []
+termid: 17-25-042
+id: ac96aa0b-d18a-55b6-8827-e60ef820a1aa

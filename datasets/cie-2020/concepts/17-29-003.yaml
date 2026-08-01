@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-29-003
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2020
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2020
+    link: https://cie.co.at/eilvterm/17-29-003
+  type: authoritative
+status: valid
+id: d912b84d-ff4c-5da6-9b8e-cd890ba05134
+---
+data:
+  definition:
+  - content: art, science and design of {17-29-001, lighting} in general, and development
+      of systems for producing, directing, controlling or applying light in particular
+    type: intensional
+  examples: []
+  notes:
+  - content: This entry was numbered 17-558 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2020
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-558
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminating engineering
+  language_code: eng
+  annotations: []
+termid: 17-29-003
+id: e32a5e54-1c45-5fdb-a863-3b5d7ebb62fb
