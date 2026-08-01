@@ -17,18 +17,18 @@ id: 0ed848d4-7374-58df-90ef-acbbb9b9bc0a
 data:
   definition:
   - content: |-
-      quantity obtained by spectrally weighting the spectral {17-21-071, radiant exposure} with the actinic {17-26-027, action spectrum}
+      quantity obtained by spectrally weighting the spectral {{17-21-071, radiant exposure}} with the actinic {{17-26-027, action spectrum}}
 
-      where <i>E</i><sub>e,</sub><i><sub>λ</sub></i> is the {17-21-056, spectral irradiance} in W⋅m<sup>−2</sup>⋅nm<sup>−1</sup> and <i>s</i><sub>act</sub>(<i>λ</i>) is the actinic {17-26-027, action spectrum} normalized to 1 at its maximum
+      where <i>E</i><sub>e,</sub><i><sub>λ</sub></i> is the {{17-21-056, spectral irradiance}} in W⋅m<sup>−2</sup>⋅nm<sup>−1</sup> and <i>s</i><sub>act</sub>(<i>λ</i>) is the actinic {{17-26-027, action spectrum}} normalized to 1 at its maximum
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an {17-26-027, action
-      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
-      its maximum value is 1.
+  - content: This definition is based on the assumption that an {{17-26-027, action
+      spectrum}} is adopted for the {{17-26-003, actinic}} effect considered, and
+      that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which actinic {17-26-027, action spectrum}
-      is used, as the unit is the same for any {17-26-027, action spectrum}.
+  - content: It is essential to specify which actinic {{17-26-027, action spectrum}}
+      is used, as the unit is the same for any {{17-26-027, action spectrum}}.
     type: intensional
   - content: The actinic dose is expressed in joule per square metre (J·m<sup>−2</sup>)
     type: intensional

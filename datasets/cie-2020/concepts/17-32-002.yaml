@@ -17,13 +17,13 @@ id: add8e67c-0306-5daa-8866-49f3e24a9f6c
 data:
   definition:
   - content: mathematical model which uses information about viewing conditions to
-      estimate the subjective {17-22-019, appearance} of a coloured patch from colorimetric
+      estimate the subjective {{17-22-019, appearance}} of a coloured patch from colorimetric
       measurements of that patch and its surround
     type: intensional
   examples: []
   notes:
-  - content: The information about viewing conditions includes the {17-32-033, adopted
-      white point}.
+  - content: The information about viewing conditions includes the {{17-32-033, adopted
+      white point}}.
     type: intensional
   - content: This entry was numbered 17-52 in CIE S 017:2011.
     type: intensional

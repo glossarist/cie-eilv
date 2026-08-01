@@ -16,16 +16,16 @@ id: ca7f512a-f763-5926-887f-e6575c180ff5
 ---
 data:
   definition:
-  - content: "{17-23-053, chromaticity coordinates} representing the lighting in the
-      viewing environment, excluding that from the display, measured in the plane
+  - content: "{{17-23-053, chromaticity coordinates}} representing the lighting in
+      the viewing environment, excluding that from the display, measured in the plane
       of the display"
     type: intensional
   examples: []
   notes:
   - content: The ambient light can have a completely different quality than the light
-      from the image but this ambient light will have an effect on the {17-22-019,
-      appearance} of {17-23-002, colour stimulus} and so it has to be quantified along
-      with the {17-23-002, colour stimulus} from the image.
+      from the image but this ambient light will have an effect on the {{17-22-019,
+      appearance}} of {{17-23-002, colour stimulus}} and so it has to be quantified
+      along with the {{17-23-002, colour stimulus}} from the image.
     type: intensional
   - content: This entry was numbered 17-38 in CIE S 017:2011.
     type: intensional

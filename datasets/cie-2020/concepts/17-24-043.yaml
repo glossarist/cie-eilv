@@ -16,11 +16,11 @@ id: 602e59a1-d65c-572b-a19c-1eb0321b58f2
 ---
 data:
   definition:
-  - content: quotient of the total {17-21-043, photon number} of all {17-21-025, wavelength}s
-      emitted from a specimen by a fluorescent process for an {17-24-020, excitation}
-      at {17-21-025, wavelength} <i>μ</i>, and the {17-21-043, photon number} of {17-21-025,
-      wavelength} <i>μ</i> reflected from the {17-24-060, perfect reflecting diffuser}
-      identically irradiated and viewed
+  - content: quotient of the total {{17-21-043, photon number}} of all {{17-21-025,
+      wavelength}}s emitted from a specimen by a fluorescent process for an {{17-24-020,
+      excitation}} at {{17-21-025, wavelength}} <i>μ</i>, and the {{17-21-043, photon
+      number}} of {{17-21-025, wavelength}} <i>μ</i> reflected from the {{17-24-060,
+      perfect reflecting diffuser}} identically irradiated and viewed
     type: intensional
   examples: []
   notes:

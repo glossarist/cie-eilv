@@ -16,20 +16,20 @@ id: db912eec-823e-5ceb-8209-500c3c70046c
 ---
 data:
   definition:
-  - content: product of {17-21-035, spectral luminous efficiency} and {17-21-092,
-      maximum luminous efficacy} for a specified photometric condition
+  - content: product of {{17-21-035, spectral luminous efficiency}} and {{17-21-092,
+      maximum luminous efficacy}} for a specified photometric condition
     type: intensional
   examples: []
   notes:
   - content: The photometric condition should be specified (e.g. photopic, scotopic,
-      mesopic). If it is not specified, {17-22-016, photopic vision} is assumed and
-      the symbol <i>K</i>(<i>λ</i>) is used. For other photometric conditions the
-      respective symbol for identification shall be used.
+      mesopic). If it is not specified, {{17-22-016, photopic vision}} is assumed
+      and the symbol <i>K</i>(<i>λ</i>) is used. For other photometric conditions
+      the respective symbol for identification shall be used.
     type: intensional
   - content: |-
-      Spectral luminous efficacy for {17-22-016, photopic vision} is expressed by
+      Spectral luminous efficacy for {{17-22-016, photopic vision}} is expressed by
       <i>K</i>(<i>λ</i>) = <i>K</i><sub>m</sub> <i>V</i>(<i>λ</i>)
-      where <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}, <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency} and <i>λ</i> is {17-21-025, wavelength}.
+      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}} and <i>λ</i> is {{17-21-025, wavelength}}.
     type: intensional
   - content: The spectral luminous efficacy is expressed in lumen per watt (lm⋅W<sup>−1</sup>).
     type: intensional

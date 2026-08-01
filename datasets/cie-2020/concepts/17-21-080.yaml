@@ -17,9 +17,9 @@ id: 4fea71e7-74d5-5128-acad-69534fc8b1c0
 data:
   definition:
   - content: |-
-      density of exiting {17-21-038, radiant flux} with respect to area at a point on a real or imaginary surface
+      density of exiting {{17-21-038, radiant flux}} with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>e</sub> is {17-21-038, radiant flux} and <i>A</i> is the area from which the {17-21-038, radiant flux} leaves
+      where <i>Φ</i><sub>e</sub> is {{17-21-038, radiant flux}} and <i>A</i> is the area from which the {{17-21-038, radiant flux}} leaves
     type: intensional
   examples: []
   notes:
@@ -27,8 +27,8 @@ data:
       where <i>σ</i> is the Stefan–Boltzmann constant and <i>T</i> is thermodynamic
       temperature.
     type: intensional
-  - content: The corresponding photometric quantity is "{17-21-081, luminous exitance}".
-      The corresponding photon quantity is "{17-21-082, photon exitance}".
+  - content: The corresponding photometric quantity is "{{17-21-081, luminous exitance}}".
+      The corresponding photon quantity is "{{17-21-082, photon exitance}}".
     type: intensional
   - content: The radiant exitance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
     type: intensional

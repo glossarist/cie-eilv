@@ -16,20 +16,20 @@ id: 3ac4b4ad-9bea-55b4-870e-65da995c3a7f
 ---
 data:
   definition:
-  - content: maximum value of {17-21-091, spectral luminous efficacy} for a specified
+  - content: maximum value of {{17-21-091, spectral luminous efficacy}} for a specified
       photometric condition
     type: intensional
   examples: []
   notes:
   - content: The photometric condition should be specified (e.g. photopic, scotopic,
-      mesopic). If it is not specified, {17-22-016, photopic vision} is assumed and
-      the symbol <i>K</i><sub>m</sub> is used. For other photometric conditions the
-      respective symbol for identification shall be used.
+      mesopic). If it is not specified, {{17-22-016, photopic vision}} is assumed
+      and the symbol <i>K</i><sub>m</sub> is used. For other photometric conditions
+      the respective symbol for identification shall be used.
     type: intensional
   - content: |-
-      The value of maximum luminous efficacy for {17-22-016, photopic vision} is calculated by
+      The value of maximum luminous efficacy for {{17-22-016, photopic vision}} is calculated by
 
-      where <i>V</i>(<i>λ</i>) is the {17-21-035, spectral luminous efficiency} for {17-22-016, photopic vision} and <i>λ</i><sub>cd</sub> is the {17-21-025, wavelength} in air corresponding to the frequency 540 × 10<sup>12</sup> Hz specified in the definition of the SI unit candela.
+      where <i>V</i>(<i>λ</i>) is the {{17-21-035, spectral luminous efficiency}} for {{17-22-016, photopic vision}} and <i>λ</i><sub>cd</sub> is the {{17-21-025, wavelength}} in air corresponding to the frequency 540 × 10<sup>12</sup> Hz specified in the definition of the SI unit candela.
     type: intensional
   - content: The maximum luminous efficacy is expressed in lumen per watt (lm⋅W<sup>−1</sup>).
     type: intensional

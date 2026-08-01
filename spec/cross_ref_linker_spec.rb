@@ -42,7 +42,7 @@ RSpec.describe CieEilv::CrossRefLinker do
       described_class.new.run!
       cf = CieEilv::ConceptFile.read(File.join(concepts_dir, "17-99-001.yaml"))
       definition = cf.find_localized("eng").data.definition.first.content
-      expect(definition).to include("{17-99-002, beta}")
+      expect(definition).to include("{{17-99-002, beta}}")
       expect(definition).not_to include('href="/eilvterm/')
     end
 
@@ -81,7 +81,7 @@ RSpec.describe CieEilv::CrossRefLinker do
       cf = CieEilv::ConceptFile.read(File.join(concepts_dir, "17-99-003.yaml"))
       definition = cf.find_localized("eng").data.definition.first.content
       expect(definition).to include("<i>italicized</i>")
-      expect(definition).to include("{17-99-004, delta}")
+      expect(definition).to include("{{17-99-004, delta}}")
     end
 
     it "also rewrites anchors inside notes" do
@@ -108,7 +108,7 @@ RSpec.describe CieEilv::CrossRefLinker do
       described_class.new.run!
       cf = CieEilv::ConceptFile.read(File.join(concepts_dir, "17-99-005.yaml"))
       note = cf.find_localized("eng").data.notes.first.content
-      expect(note).to include("{17-99-006, zeta}")
+      expect(note).to include("{{17-99-006, zeta}}")
     end
   end
 end

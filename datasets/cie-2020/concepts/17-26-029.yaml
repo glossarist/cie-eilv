@@ -16,15 +16,16 @@ id: b12df2a2-78d6-57b6-b026-0a0d746336a1
 ---
 data:
   definition:
-  - content: "{17-21-002, optical radiation} effective in causing {17-26-028, actinic
-      erythema}"
+  - content: "{{17-21-002, optical radiation}} effective in causing {{17-26-028, actinic
+      erythema}}"
     type: intensional
   examples: []
   notes:
-  - content: "{17-21-008, ultraviolet radiation} is the most effective erythemal radiation."
+  - content: "{{17-21-008, ultraviolet radiation}} is the most effective erythemal
+      radiation."
     type: intensional
-  - content: See also "{17-26-065, erythema spectral weighting function}", "{17-26-069,
-      standard erythema dose}".
+  - content: See also "{{17-26-065, erythema spectral weighting function}}", "{{17-26-069,
+      standard erythema dose}}".
     type: intensional
   - content: This entry was numbered 845-06-16 in IEC 60050-845:1987.
     type: intensional

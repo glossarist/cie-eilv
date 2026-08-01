@@ -16,13 +16,13 @@ id: 568e81a0-165a-5e14-a9ac-9e0e99167841
 ---
 data:
   definition:
-  - content: locus of equal {17-23-068, correlated colour temperature} on a {17-23-054,
-      chromaticity diagram}
+  - content: locus of equal {{17-23-068, correlated colour temperature}} on a {{17-23-054,
+      chromaticity diagram}}
     type: intensional
   examples: []
   notes:
-  - content: Iso-temperature lines are perpendicular to the {17-23-059, Planckian
-      locus} in the {17-23-079, CIE 1960 uniform-chromaticity-scale diagram}.
+  - content: Iso-temperature lines are perpendicular to the {{17-23-059, Planckian
+      locus}} in the {{17-23-079, CIE 1960 uniform-chromaticity-scale diagram}}.
     type: intensional
   sources:
   - origin:

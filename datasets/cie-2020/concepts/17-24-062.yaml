@@ -16,8 +16,9 @@ id: 04ca5cb6-e752-5bc1-8e24-2e16872c590f
 ---
 data:
   definition:
-  - content: Lambert's law for a surface element whose {17-21-049, radiance} or {17-21-050,
-      luminance} is the same in all directions of the hemisphere above the surface
+  - content: Lambert's law for a surface element whose {{17-21-049, radiance}} or
+      {{17-21-050, luminance}} is the same in all directions of the hemisphere above
+      the surface
     type: intensional
   examples: []
   notes:

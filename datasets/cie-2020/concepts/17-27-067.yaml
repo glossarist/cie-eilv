@@ -16,7 +16,7 @@ id: b95a0a08-7220-5beb-9e3d-33aaf21edb56
 ---
 data:
   definition:
-  - content: set of {17-27-051, LED die}s or {17-27-065, LED package}s characterized
+  - content: set of {{17-27-051, LED die}}s or {{17-27-065, LED package}}s characterized
       by a common bin
     type: intensional
   examples: []

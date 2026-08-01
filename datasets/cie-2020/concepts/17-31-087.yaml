@@ -16,14 +16,14 @@ id: ca9ea992-d692-557e-aa43-e82c47af8890
 ---
 data:
   definition:
-  - content: part of a {17-31-081, road tunnel} where, during daytime, the vision
-      of a driver approaching the exit is predominantly influenced by the {17-22-059,
-      brightness} outside the {17-31-081, road tunnel}
+  - content: part of a {{17-31-081, road tunnel}} where, during daytime, the vision
+      of a driver approaching the exit is predominantly influenced by the {{17-22-059,
+      brightness}} outside the {{17-31-081, road tunnel}}
     type: intensional
   examples: []
   notes:
-  - content: The exit zone begins at the end of the {17-31-086, interior zone}. It
-      ends at the {17-31-094, exit portal} of the {17-31-081, road tunnel}.
+  - content: The exit zone begins at the end of the {{17-31-086, interior zone}}.
+      It ends at the {{17-31-094, exit portal}} of the {{17-31-081, road tunnel}}.
     type: intensional
   - content: This entry was numbered 17-411 in CIE S 017:2011.
     type: intensional

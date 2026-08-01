@@ -16,18 +16,18 @@ id: b256dbd5-b25b-5a33-8bc0-d2dd8c3b3b57
 ---
 data:
   definition:
-  - content: vertical axis through the {17-25-103, photometric centre} of a {17-30-001,
-      luminaire} when it is at its {17-25-112, tilt during measurement}
+  - content: vertical axis through the {{17-25-103, photometric centre}} of a {{17-30-001,
+      luminaire}} when it is at its {{17-25-112, tilt during measurement}}
     type: intensional
   examples: []
   notes:
   - content: The poles of the (C, γ) coordinate system lie in this axis.
     type: intensional
-  - content: The first axis is tilted when the attitude of the {17-30-001, luminaire}
+  - content: The first axis is tilted when the attitude of the {{17-30-001, luminaire}}
       is changed from its attitude during measurement.
     type: intensional
   - content: See CIE 121<i> The Photometry and Goniophotometry of Luminaires</i> for
-      more information on the first axis of a {17-30-001, luminaire}.
+      more information on the first axis of a {{17-30-001, luminaire}}.
     type: intensional
   - content: This entry was numbered 17-436 in CIE S 017:2011.
     type: intensional

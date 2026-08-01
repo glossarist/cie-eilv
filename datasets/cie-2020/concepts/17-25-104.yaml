@@ -17,19 +17,19 @@ id: 11c850ed-c7b0-5709-b9c7-3df7c67ff924
 data:
   definition:
   - content: |-
-      law relating the {17-21-060, illuminance}, <i>E</i>, on a real or imaginary surface to the {17-21-045, luminous intensity}, <i>I</i>, of an illuminating {17-21-033, point source} whereby
+      law relating the {{17-21-060, illuminance}}, <i>E</i>, on a real or imaginary surface to the {{17-21-045, luminous intensity}}, <i>I</i>, of an illuminating {{17-21-033, point source}} whereby
 
-      where <i>θ</i> is the angle between the normal to the surface and the line between the surface and the {17-21-032, source} and <i>d</i> is the distance between the {17-21-032, source} and the surface
+      where <i>θ</i> is the angle between the normal to the surface and the line between the surface and the {{17-21-032, source}} and <i>d</i> is the distance between the {{17-21-032, source}} and the surface
     type: intensional
   examples: []
   notes:
-  - content: The photometric distance law strictly only applies for a {17-21-033,
-      point source}. However, it can also be applied for non-point sources at sufficiently
+  - content: The photometric distance law strictly only applies for a {{17-21-033,
+      point source}}. However, it can also be applied for non-point sources at sufficiently
       large distances within acceptable limits of error or measurement uncertainty;
       in this case the degree of approximation at the distance used should be confirmed
       by measurement.
     type: intensional
-  - content: For radiometric {17-21-032, source}s the equivalent term is "radiometric
+  - content: For radiometric {{17-21-032, source}}s the equivalent term is "radiometric
       distance law".
     type: intensional
   - content: This entry was numbered 17-912 in CIE S 017:2011.

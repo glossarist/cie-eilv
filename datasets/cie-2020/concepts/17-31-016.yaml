@@ -16,16 +16,16 @@ id: a6555291-66a8-5aa2-9572-fe2c4631c449
 ---
 data:
   definition:
-  - content: "{17-21-045, luminous intensity} of a {17-21-032, source} that has a
-      constant output, of the same {17-21-030, relative spectral distribution} as
-      the {17-31-009, flashing light}, which would have the same {17-31-026, luminous
-      range} (or {17-31-052, visual range} in aviation terminology) as the {17-31-009,
-      flashing light} under identical conditions of observation"
+  - content: "{{17-21-045, luminous intensity}} of a {{17-21-032, source}} that has
+      a constant output, of the same {{17-21-030, relative spectral distribution}}
+      as the {{17-31-009, flashing light}}, which would have the same {{17-31-026,
+      luminous range}} (or {{17-31-052, visual range}} in aviation terminology) as
+      the {{17-31-009, flashing light}} under identical conditions of observation"
     type: intensional
   examples: []
   notes:
   - content: For practical purposes, a conventional effective intensity can be evaluated
-      for a {17-31-009, flashing light} from photometric data by an agreed method.
+      for a {{17-31-009, flashing light}} from photometric data by an agreed method.
     type: intensional
   - content: The effective intensity is expressed in candela (cd).
     type: intensional

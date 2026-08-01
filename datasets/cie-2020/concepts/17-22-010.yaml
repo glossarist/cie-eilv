@@ -16,13 +16,13 @@ id: 1a282a0e-2d79-5ad2-90af-c8267382c2f0
 ---
 data:
   definition:
-  - content: product of the {17-21-050, luminance} in a specified direction and the
-      apparent area of the pupil (natural or artificial) seen from that direction
+  - content: product of the {{17-21-050, luminance}} in a specified direction and
+      the apparent area of the pupil (natural or artificial) seen from that direction
     type: intensional
   examples: []
   notes:
   - content: Conventional retinal illuminance applies to situations where the eye
-      is viewing a surface of uniform {17-21-050, luminance} larger than the area
+      is viewing a surface of uniform {{17-21-050, luminance}} larger than the area
       of the natural or artificial pupil.
     type: intensional
   - content: The conventional retinal illuminance is expressed in candela (cd), candela

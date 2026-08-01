@@ -16,9 +16,9 @@ id: d77408d4-d1cd-58c0-ae63-b67f3fbacc1e
 ---
 data:
   definition:
-  - content: quotient of the {17-21-045, luminous intensity}, <i>I</i>, of the {17-24-100,
-      retroreflector} in the direction of observation and the {17-21-060, illuminance},
-      <i>E</i><sub>⊥</sub>, at the {17-24-100, retroreflector} on a plane perpendicular
+  - content: quotient of the {{17-21-045, luminous intensity}}, <i>I</i>, of the {{17-24-100,
+      retroreflector}} in the direction of observation and the {{17-21-060, illuminance}},
+      <i>E</i><sub>⊥</sub>, at the {{17-24-100, retroreflector}} on a plane perpendicular
       to the direction of the incident light
     type: intensional
   examples: []

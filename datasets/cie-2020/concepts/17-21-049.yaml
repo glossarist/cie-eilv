@@ -17,45 +17,45 @@ id: 590adb18-f116-590e-a3e0-db3ea191fb6e
 data:
   definition:
   - content: |-
-      density of {17-21-044, radiant intensity} with respect to projected area in a specified direction at a specified point on a real or imaginary surface
+      density of {{17-21-044, radiant intensity}} with respect to projected area in a specified direction at a specified point on a real or imaginary surface
 
-      where <i>I</i><sub>e</sub> is {17-21-044, radiant intensity}, <i>A</i> is area, and <i>α</i> is the angle between the normal to the surface at the specified point and the specified direction
+      where <i>I</i><sub>e</sub> is {{17-21-044, radiant intensity}}, <i>A</i> is area, and <i>α</i> is the angle between the normal to the surface at the specified point and the specified direction
     type: intensional
   examples: []
   notes:
   - content: |-
-      In a practical sense, the definition of radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {17-21-033, point source}s, each of which has a specific {17-21-044, radiant intensity}, <i>I</i><sub>e</sub>, in the specified direction. The radiance of the surface is then the integral of these radiance elements over the whole surface.
-      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of {17-21-044, radiant intensity} with projected area) and could alternatively be rewritten in terms of the average {17-21-044, radiant intensity}, , as:
+      In a practical sense, the definition of radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{17-21-033, point source}}s, each of which has a specific {{17-21-044, radiant intensity}}, <i>I</i><sub>e</sub>, in the specified direction. The radiance of the surface is then the integral of these radiance elements over the whole surface.
+      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of {{17-21-044, radiant intensity}} with projected area) and could alternatively be rewritten in terms of the average {{17-21-044, radiant intensity}}, , as:
 
-      Hence, radiance is often considered as a quotient of averaged quantities; the area, <i>A</i>, should be small enough so that uncertainties due to variations in {17-21-044, radiant intensity} within that area are negligible; otherwise, the quotient gives the average radiance and the specific measurement conditions have to be reported with the result.
+      Hence, radiance is often considered as a quotient of averaged quantities; the area, <i>A</i>, should be small enough so that uncertainties due to variations in {{17-21-044, radiant intensity}} within that area are negligible; otherwise, the quotient gives the average radiance and the specific measurement conditions have to be reported with the result.
     type: intensional
-  - content: For a surface being irradiated, an equivalent formula in terms of {17-21-053,
-      irradiance}, <i>E</i><sub>e</sub>, and {17-21-109, solid angle}, <i>Ω</i>, is
-      , where <i>θ</i> is the angle between the normal to the surface being irradiated
-      and the direction of {17-21-099, irradiation}. This form is useful when the
-      {17-21-032, source} has no surface (e.g. the sky, the plasma of a discharge).
+  - content: For a surface being irradiated, an equivalent formula in terms of {{17-21-053,
+      irradiance}}, <i>E</i><sub>e</sub>, and {{17-21-109, solid angle}}, <i>Ω</i>,
+      is , where <i>θ</i> is the angle between the normal to the surface being irradiated
+      and the direction of {{17-21-099, irradiation}}. This form is useful when the
+      {{17-21-032, source}} has no surface (e.g. the sky, the plasma of a discharge).
     type: intensional
-  - content: An equivalent formula is , where <i>Φ</i><sub>e</sub> is {17-21-038,
-      radiant flux} and <i>G</i> is {17-21-047, geometric extent}.
+  - content: An equivalent formula is , where <i>Φ</i><sub>e</sub> is {{17-21-038,
+      radiant flux}} and <i>G</i> is {{17-21-047, geometric extent}}.
     type: intensional
-  - content: "{17-21-038, radiant flux} can be obtained by integrating radiance over
-      projected area, <i>A</i>⋅cos <i>α</i>, and {17-21-109, solid angle}, <i>Ω</i>
-      : ."
+  - content: "{{17-21-038, radiant flux}} can be obtained by integrating radiance
+      over projected area, <i>A</i>⋅cos <i>α</i>, and {{17-21-109, solid angle}},
+      <i>Ω</i> : ."
     type: intensional
-  - content: Since the {17-21-048, optical extent}, expressed by <i>G</i>⋅<i>n</i><sup>2</sup>,
-      where <i>G</i> is {17-21-047, geometric extent} and <i>n</i> is {17-24-109,
-      refractive index}, is invariant, the quantity expressed by <i>L</i><sub>e</sub>⋅<i>n</i><sup>−2</sup>
-      is also invariant along the path of the beam if the losses by {17-24-081, absorption},
-      {17-24-047, reflection} and diffusion are taken as 0. That quantity is called
+  - content: Since the {{17-21-048, optical extent}}, expressed by <i>G</i>⋅<i>n</i><sup>2</sup>,
+      where <i>G</i> is {{17-21-047, geometric extent}} and <i>n</i> is {{17-24-109,
+      refractive index}}, is invariant, the quantity expressed by <i>L</i><sub>e</sub>⋅<i>n</i><sup>−2</sup>
+      is also invariant along the path of the beam if the losses by {{17-24-081, absorption}},
+      {{17-24-047, reflection}} and diffusion are taken as 0. That quantity is called
       "basic radiance".
     type: intensional
   - content: |-
-      The equation in the definition can also be described as a function of {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>. In this case, it is mathematically interpreted as a second partial derivative of the {17-21-038, radiant flux} at a specified point (<i>x</i>, <i>y</i>) in space in a specified direction (<i>ϑ</i>, <i>φ</i>) with respect to projected area, <i>A</i>⋅cos <i>α</i>, and {17-21-109, solid angle}, <i>Ω</i>,
+      The equation in the definition can also be described as a function of {{17-21-038, radiant flux}}, <i>Φ</i><sub>e</sub>. In this case, it is mathematically interpreted as a second partial derivative of the {{17-21-038, radiant flux}} at a specified point (<i>x</i>, <i>y</i>) in space in a specified direction (<i>ϑ</i>, <i>φ</i>) with respect to projected area, <i>A</i>⋅cos <i>α</i>, and {{17-21-109, solid angle}}, <i>Ω</i>,
 
       where <i>α</i> is the angle between the normal to that area at the specified point and the specified direction.
     type: intensional
-  - content: The corresponding photometric quantity is "{17-21-050, luminance}". The
-      corresponding quantity for photons is "{17-21-051, photon radiance}".
+  - content: The corresponding photometric quantity is "{{17-21-050, luminance}}".
+      The corresponding quantity for photons is "{{17-21-051, photon radiance}}".
     type: intensional
   - content: The radiance is expressed in watt per square metre per steradian (W⋅m<sup>−2</sup>·sr<sup>−1</sup>).
     type: intensional

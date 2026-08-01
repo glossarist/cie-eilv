@@ -16,9 +16,10 @@ id: 0b31e857-54d5-50ca-8bcd-b0bb46351ca6
 ---
 data:
   definition:
-  - content: "{17-31-002, sign} for the purpose of displaying one of a number of {17-31-127,
-      legend}s consisting of alphanumeric characters that can be used in conjunction
-      with {17-31-132, symbol}s or that can consist of {17-31-132, symbol}s alone"
+  - content: "{{17-31-002, sign}} for the purpose of displaying one of a number of
+      {{17-31-127, legend}}s consisting of alphanumeric characters that can be used
+      in conjunction with {{17-31-132, symbol}}s or that can consist of {{17-31-132,
+      symbol}}s alone"
     type: intensional
   examples: []
   notes:

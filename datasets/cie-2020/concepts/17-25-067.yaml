@@ -16,9 +16,9 @@ id: 8e74c963-567b-5c57-b72b-ad8fb806757b
 ---
 data:
   definition:
-  - content: time required for a {17-25-035, detector} {17-25-058, output} to rise
-      from a stated low percentage to a stated high percentage of the maximum value
-      when a steady {17-25-057, input} is instantaneously applied
+  - content: time required for a {{17-25-035, detector}} {{17-25-058, output}} to
+      rise from a stated low percentage to a stated high percentage of the maximum
+      value when a steady {{17-25-057, input}} is instantaneously applied
     type: intensional
   examples: []
   notes:

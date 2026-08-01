@@ -16,8 +16,8 @@ id: c2ec8131-b2a0-5372-9b62-cc789ab8e64c
 ---
 data:
   definition:
-  - content: distance between the ceiling and the {17-29-084, light centre} of the
-      {17-30-001, luminaire}
+  - content: distance between the ceiling and the {{17-29-084, light centre}} of the
+      {{17-30-001, luminaire}}
     type: intensional
   examples: []
   notes:

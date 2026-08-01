@@ -17,13 +17,13 @@ id: 213526d3-f1d9-5474-8cc8-0e24c5cc4f04
 data:
   definition:
   - content: |-
-      quotient of the average {17-21-038, radiant flux} density or {17-21-039, luminous flux} density, <i>Φ</i><sub>2</sub>/<i>A</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>/<i>A</i><sub>1</sub>), received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>) and the {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
+      quotient of the average {{17-21-038, radiant flux}} density or {{17-21-039, luminous flux}} density, <i>Φ</i><sub>2</sub>/<i>A</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>/<i>A</i><sub>1</sub>), received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>) and the {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
 
       or
 
       with
 
-      where <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>) is the {17-21-038, radiant flux} or {17-21-039, luminous flux} received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>), <i>A</i><sub>2</sub> (or <i>A</i><sub>1</sub>) is the area of surface S<sub>2</sub> (or S<sub>1</sub>) and <i>g</i> is the {17-29-092, mutual exchange coefficient}
+      where <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>) is the {{17-21-038, radiant flux}} or {{17-21-039, luminous flux}} received over surface S<sub>2</sub> (or S<sub>1</sub>) from surface S<sub>1</sub> (or S<sub>2</sub>), <i>A</i><sub>2</sub> (or <i>A</i><sub>1</sub>) is the area of surface S<sub>2</sub> (or S<sub>1</sub>) and <i>g</i> is the {{17-29-092, mutual exchange coefficient}}
     type: intensional
   examples: []
   notes:

@@ -16,15 +16,15 @@ id: 4d5a1083-3806-59fb-8833-b946d28cbf12
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} integrating both visual and non-visual effects,
+  - content: "{{17-29-001, lighting}} integrating both visual and non-visual effects,
       and producing physiological and/or psychological benefits upon humans"
     type: intensional
   examples: []
   notes:
   - content: The term "integrative lighting" applies only to humans.
     type: intensional
-  - content: "{17-29-001, lighting} primarily for therapeutic purposes ({17-26-026,
-      light therapy}) is not included."
+  - content: "{{17-29-001, lighting}} primarily for therapeutic purposes ({{17-26-026,
+      light therapy}}) is not included."
     type: intensional
   - content: The term "human centric lighting" is used with a similar meaning.
     type: intensional

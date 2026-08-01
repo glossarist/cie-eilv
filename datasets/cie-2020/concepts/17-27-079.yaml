@@ -16,9 +16,9 @@ id: 28547a01-eee9-5b91-b498-31829d3b3693
 ---
 data:
   definition:
-  - content: ratio of the {17-27-078, centre beam intensity} of a {17-27-070, reflector
-      lamp} at a given time in its life to its initial {17-27-078, centre beam intensity},
-      the {17-27-070, reflector lamp} being operated under specified conditions
+  - content: ratio of the {{17-27-078, centre beam intensity}} of a {{17-27-070, reflector
+      lamp}} at a given time in its life to its initial {{17-27-078, centre beam intensity}},
+      the {{17-27-070, reflector lamp}} being operated under specified conditions
     type: intensional
   examples: []
   notes:

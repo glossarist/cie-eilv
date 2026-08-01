@@ -16,16 +16,16 @@ id: 5db6b1e0-b4fc-5814-b46b-7e13970af856
 ---
 data:
   definition:
-  - content: quotient of the emergency {17-21-039, luminous flux} of the {17-27-008,
-      electric lamp} supplied by the emergency ballast and the {17-21-039, luminous
-      flux} of the same {17-27-008, electric lamp} operated with the appropriate {17-28-046,
-      reference ballast} at its rated voltage and frequency
+  - content: quotient of the emergency {{17-21-039, luminous flux}} of the {{17-27-008,
+      electric lamp}} supplied by the emergency ballast and the {{17-21-039, luminous
+      flux}} of the same {{17-27-008, electric lamp}} operated with the appropriate
+      {{17-28-046, reference ballast}} at its rated voltage and frequency
     type: intensional
   examples: []
   notes:
   - content: The emergency mode ballast lumen factor is the minimum of the values
-      measured from the point of {17-27-105, failure} of the normal power supply continuously
-      to the end of the rated time duration.
+      measured from the point of {{17-27-105, failure}} of the normal power supply
+      continuously to the end of the rated time duration.
     type: intensional
   - content: The emergency mode ballast lumen factor has unit one.
     type: intensional

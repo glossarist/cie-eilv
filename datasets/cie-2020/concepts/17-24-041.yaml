@@ -16,19 +16,19 @@ id: 33023731-04a5-5d20-9ba4-61a3c116fb5a
 ---
 data:
   definition:
-  - content: material which exhibits {17-24-023, fluorescence} as the result of exposure
-      to {17-21-002, optical radiation}
+  - content: material which exhibits {{17-24-023, fluorescence}} as the result of
+      exposure to {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Fluorescent materials absorb energy from {17-21-002, optical radiation}
-      in the shorter {17-21-025, wavelength} regions of the visible spectrum and/or
-      in the ultraviolet region and re-radiate some of this energy at longer {17-21-025,
-      wavelength}s, producing narrow bands of {17-24-001, emission} in the visible
+  - content: Fluorescent materials absorb energy from {{17-21-002, optical radiation}}
+      in the shorter {{17-21-025, wavelength}} regions of the visible spectrum and/or
+      in the ultraviolet region and re-radiate some of this energy at longer {{17-21-025,
+      wavelength}}s, producing narrow bands of {{17-24-001, emission}} in the visible
       region.
     type: intensional
-  - content: See also "{17-24-040, photoluminescent material}", "{17-22-055, daylight
-      fluorescent colour}".
+  - content: See also "{{17-24-040, photoluminescent material}}", "{{17-22-055, daylight
+      fluorescent colour}}".
     type: intensional
   - content: This entry was numbered 17-458 in CIE S 017:2011.
     type: intensional

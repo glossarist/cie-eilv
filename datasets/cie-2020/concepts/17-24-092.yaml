@@ -17,9 +17,9 @@ id: fa3ab610-f997-5459-bf90-e131765dcc6c
 data:
   definition:
   - content: |-
-      quotient of the natural (Napierian) logarithm of the reciprocal of the {17-24-088, spectral internal transmittance}, <i>τ</i><sub>i </sub>(<i>λ</i>), of a layer of the medium and the length, <i>l</i>, of the path of a beam of radiation traversing that layer
+      quotient of the natural (Napierian) logarithm of the reciprocal of the {{17-24-088, spectral internal transmittance}}, <i>τ</i><sub>i </sub>(<i>λ</i>), of a layer of the medium and the length, <i>l</i>, of the path of a beam of radiation traversing that layer
 
-      where <i>A</i><sub>n</sub>(<i>λ</i>) is {17-24-091, Napierian spectral absorbance}.
+      where <i>A</i><sub>n</sub>(<i>λ</i>) is {{17-24-091, Napierian spectral absorbance}}.
     type: intensional
   examples: []
   notes:

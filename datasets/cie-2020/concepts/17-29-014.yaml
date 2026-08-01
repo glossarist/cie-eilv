@@ -16,11 +16,11 @@ id: 19bb2754-6d3f-5dc7-9a35-e85272861844
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} by means of {17-27-002, primary light source}s
-      and {17-30-001, luminaire}s having a distribution of {17-21-045, luminous intensity}
-      such that the fraction of the emitted {17-21-039, luminous flux} directly reaching
-      the {17-29-068, working plane}, assumed to be of infinite extent, is 90 % to
-      100 %"
+  - content: "{{17-29-001, lighting}} by means of {{17-27-002, primary light source}}s
+      and {{17-30-001, luminaire}}s having a distribution of {{17-21-045, luminous
+      intensity}} such that the fraction of the emitted {{17-21-039, luminous flux}}
+      directly reaching the {{17-29-068, working plane}}, assumed to be of infinite
+      extent, is 90 % to 100 %"
     type: intensional
   examples: []
   notes:

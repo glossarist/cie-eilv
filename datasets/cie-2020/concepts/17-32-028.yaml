@@ -16,8 +16,8 @@ id: f8eb238f-1c64-5669-a675-08505e564885
 ---
 data:
   definition:
-  - content: quotient of the maximum {17-21-050, luminance} and the minimum {17-21-050,
-      luminance} that is capable of being created using a particular output device
+  - content: quotient of the maximum {{17-21-050, luminance}} and the minimum {{17-21-050,
+      luminance}} that is capable of being created using a particular output device
       and medium
     type: intensional
   examples: []

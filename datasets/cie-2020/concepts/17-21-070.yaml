@@ -16,13 +16,13 @@ id: 5c64a5d5-b390-5e07-baae-a061329592b1
 ---
 data:
   definition:
-  - content: time integral of {17-21-051, photon radiance}, <i>L</i><sub>p</sub>,
+  - content: time integral of {{17-21-051, photon radiance}}, <i>L</i><sub>p</sub>,
       over a given duration, Δ<i>t</i>
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{17-21-067, radiance dose}".
-      The corresponding photometric quantity is "{17-21-068, luminance dose}".
+  - content: The corresponding radiometric quantity is "{{17-21-067, radiance dose}}".
+      The corresponding photometric quantity is "{{17-21-068, luminance dose}}".
     type: intensional
   - content: The photon radiance dose is expressed in metre to the power minus two
       per steradian (m<sup>−2</sup>·sr<sup>−1</sup>).

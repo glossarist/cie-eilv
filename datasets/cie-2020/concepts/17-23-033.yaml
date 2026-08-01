@@ -17,10 +17,10 @@ id: 73eebc03-f782-5530-8bcd-7c9f1d21f0ad
 data:
   definition:
   - content: |-
-      three empirical laws that describe colour-matching properties of {17-23-030, additive mixture}s of {17-23-002, colour stimulus}:
+      three empirical laws that describe colour-matching properties of {{17-23-030, additive mixture}}s of {{17-23-002, colour stimulus}}:
       • to specify a colour match, three independent variables are necessary and sufficient,
-      • for an {17-23-030, additive mixture} of {17-23-002, colour stimulus}, only their {17-23-038, tristimulus values} are relevant, not their spectral compositions,
-      • in an {17-23-030, additive mixture} of {17-23-002, colour stimulus}, if one or more components of the mixture are gradually changed, the resulting {17-23-038, tristimulus values} also change gradually
+      • for an {{17-23-030, additive mixture}} of {{17-23-002, colour stimulus}}, only their {{17-23-038, tristimulus values}} are relevant, not their spectral compositions,
+      • in an {{17-23-030, additive mixture}} of {{17-23-002, colour stimulus}}, if one or more components of the mixture are gradually changed, the resulting {{17-23-038, tristimulus values}} also change gradually
     type: intensional
   examples: []
   notes:

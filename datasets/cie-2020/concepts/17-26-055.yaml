@@ -16,17 +16,17 @@ id: 5aecfeb3-e59d-52e7-85df-10cc7217369b
 ---
 data:
   definition:
-  - content: potential for a photochemically induced retinal injury ({17-26-010, photic
-      maculopathy}) resulting from {17-21-002, optical radiation} exposure at {17-21-025,
-      wavelength}s primarily between 400 nm and 500 nm
+  - content: potential for a photochemically induced retinal injury ({{17-26-010,
+      photic maculopathy}}) resulting from {{17-21-002, optical radiation}} exposure
+      at {{17-21-025, wavelength}}s primarily between 400 nm and 500 nm
     type: intensional
   examples: []
   notes:
   - content: This damage mechanism dominates over the thermal damage mechanism for
-      {17-26-071, exposure duration}s exceeding 10 s.
+      {{17-26-071, exposure duration}}s exceeding 10 s.
     type: intensional
-  - content: The {17-26-027, action spectrum} extends into the UV-A for persons without
-      a normal UV-A absorbing lens.
+  - content: The {{17-26-027, action spectrum}} extends into the UV-A for persons
+      without a normal UV-A absorbing lens.
     type: intensional
   - content: This entry was numbered 17-97 and 17-96 in CIE S 017:2011.
     type: intensional

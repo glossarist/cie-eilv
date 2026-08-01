@@ -16,22 +16,22 @@ id: 82dbcb68-ea8b-52f5-819d-586ab59e7eba
 ---
 data:
   definition:
-  - content: effective photobiological {17-21-049, radiance} with the {17-21-052,
-      spectral radiance}, <i>L<sub>λ</sub></i>, spectrally weighted with the {17-26-060,
-      blue light hazard spectral weighting function}, <i>B</i>(<i>λ</i>)
+  - content: effective photobiological {{17-21-049, radiance}} with the {{17-21-052,
+      spectral radiance}}, <i>L<sub>λ</sub></i>, spectrally weighted with the {{17-26-060,
+      blue light hazard spectral weighting function}}, <i>B</i>(<i>λ</i>)
     type: intensional
   examples: []
   notes:
-  - content: The {17-21-025, wavelength} range for the blue light hazard radiance
+  - content: The {{17-21-025, wavelength}} range for the blue light hazard radiance
       is specified in ICNIRP-recommendations as <i>λ</i> = 300 nm to <i>λ</i> = 700
       nm.
     type: intensional
-  - content: This definition is based on the assumption that an {17-26-027, action
-      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
-      its maximum value is 1.
+  - content: This definition is based on the assumption that an {{17-26-027, action
+      spectrum}} is adopted for the {{17-26-003, actinic}} effect considered, and
+      that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which actinic {17-26-027, action spectrum}
-      is used, as the unit is the same for any {17-26-027, action spectrum}.
+  - content: It is essential to specify which actinic {{17-26-027, action spectrum}}
+      is used, as the unit is the same for any {{17-26-027, action spectrum}}.
     type: intensional
   - content: The blue light hazard radiance is expressed in watt per square metre
       per steradian (W⋅m<sup>−2</sup>⋅sr<sup>−1</sup>).

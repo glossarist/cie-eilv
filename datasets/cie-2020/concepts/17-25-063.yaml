@@ -16,10 +16,10 @@ id: 4ffcfa30-ad61-551c-a090-aafe36b6f83b
 ---
 data:
   definition:
-  - content: quotient of the {17-25-058, output}, d<i>Y</i>(<i>λ</i>), and the monochromatic
-      {17-25-057, input}, d<i>X</i><sub>e</sub>(<i>λ</i>) = <i>X</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>)
-      d<i>λ</i>, in the {17-21-025, wavelength} interval, d<i>λ</i>, as a function
-      of the {17-21-025, wavelength}, <i>λ</i>
+  - content: quotient of the {{17-25-058, output}}, d<i>Y</i>(<i>λ</i>), and the monochromatic
+      {{17-25-057, input}}, d<i>X</i><sub>e</sub>(<i>λ</i>) = <i>X</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>)
+      d<i>λ</i>, in the {{17-21-025, wavelength}} interval, d<i>λ</i>, as a function
+      of the {{17-21-025, wavelength}}, <i>λ</i>
     type: intensional
   examples: []
   notes:

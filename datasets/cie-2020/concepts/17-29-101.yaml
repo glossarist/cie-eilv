@@ -16,8 +16,8 @@ id: aed0ef8d-bc0e-5a5b-9ec0-e53d308e3cad
 ---
 data:
   definition:
-  - content: combined {17-29-099, direct solar radiation} and {17-29-100, diffuse
-      sky radiation}
+  - content: combined {{17-29-099, direct solar radiation}} and {{17-29-100, diffuse
+      sky radiation}}
     type: intensional
   examples: []
   notes:

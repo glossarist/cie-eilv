@@ -16,8 +16,8 @@ id: 46676790-301a-58a0-82f7-7b0e28b29350
 ---
 data:
   definition:
-  - content: quantized digital encoding of a {17-23-041, colour space}, encompassing
-      both {17-32-018, colour space encoding} and {17-32-013, colour image encoding}
+  - content: quantized digital encoding of a {{17-23-041, colour space}}, encompassing
+      both {{17-32-018, colour space encoding}} and {{17-32-013, colour image encoding}}
     type: intensional
   examples: []
   notes:

@@ -21,9 +21,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The electric discharge results in the {17-24-001, emission} of {17-21-001,
-      electromagnetic radiation} which plays an essential part in all its applications
-      in {17-29-001, lighting}.
+  - content: The electric discharge results in the {{17-24-001, emission}} of {{17-21-001,
+      electromagnetic radiation}} which plays an essential part in all its applications
+      in {{17-29-001, lighting}}.
     type: intensional
   - content: This entry was numbered 845-07-11 in IEC 60050-845:1987.
     type: intensional

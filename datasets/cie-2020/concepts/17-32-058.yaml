@@ -16,24 +16,24 @@ id: f3b34f85-dce4-566b-a922-9fa361832041
 ---
 data:
   definition:
-  - content: "{17-21-052, spectral radiance} distribution as seen by an image capture
+  - content: "{{17-21-052, spectral radiance}} distribution as seen by an image capture
       or measurement device and converted to colour signals that are considered to
-      be perfectly achromatic and to have an observer adaptive {17-24-077, luminance
-      factor} of unity"
+      be perfectly achromatic and to have an observer adaptive {{17-24-077, luminance
+      factor}} of unity"
     type: intensional
   examples: []
   notes:
-  - content: The colour signals are considered to correspond to a perfect white {17-30-039,
-      diffuser}.
+  - content: The colour signals are considered to correspond to a perfect white {{17-30-039,
+      diffuser}}.
     type: intensional
   - content: The adopted white can vary within a scene.
     type: intensional
-  - content: No assumptions should be made concerning the relation between the {17-23-081,
-      adapted white} or adopted white and measurements of nearly {17-24-060, perfect
-      reflecting diffuser}s in a scene, because measurements of such diffusers will
+  - content: No assumptions should be made concerning the relation between the {{17-23-081,
+      adapted white}} or adopted white and measurements of nearly {{17-24-060, perfect
+      reflecting diffuser}}s in a scene, because measurements of such diffusers will
       depend on the illumination and viewing geometry, and other elements in the scene
       that can affect perception. It is easy to arrange conditions for which a nearly
-      {17-24-060, perfect reflecting diffuser} will appear to be grey or coloured.
+      {{17-24-060, perfect reflecting diffuser}} will appear to be grey or coloured.
     type: intensional
   - content: The adopted white can be a visual percept or a computational attribute.
     type: intensional

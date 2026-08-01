@@ -16,10 +16,10 @@ id: fde9e2e9-1551-52c5-a40a-7265224811be
 ---
 data:
   definition:
-  - content: quotient of the {17-21-060, illuminance} on a horizontal plane at a given
-      point inside a building due to the light received directly from the sky and
-      the {17-21-060, illuminance} due to an unobstructed hemisphere of sky of uniform
-      {17-21-050, luminance} equal to that of the visible sky
+  - content: quotient of the {{17-21-060, illuminance}} on a horizontal plane at a
+      given point inside a building due to the light received directly from the sky
+      and the {{17-21-060, illuminance}} due to an unobstructed hemisphere of sky
+      of uniform {{17-21-050, luminance}} equal to that of the visible sky
     type: intensional
   examples: []
   notes:

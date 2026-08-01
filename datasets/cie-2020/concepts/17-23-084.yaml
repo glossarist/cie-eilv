@@ -16,9 +16,9 @@ id: 00d4fca8-1d6e-57b6-a094-73eb4e945fb0
 ---
 data:
   definition:
-  - content: "{17-21-025, wavelength} of a certain {17-23-011, monochromatic stimulus},
-      the {17-22-067, hue} of which remains constant over a wide range of values of
-      {17-21-050, luminance} for a given condition of {17-22-012, adaptation}"
+  - content: "{{17-21-025, wavelength}} of a certain {{17-23-011, monochromatic stimulus}},
+      the {{17-22-067, hue}} of which remains constant over a wide range of values
+      of {{17-21-050, luminance}} for a given condition of {{17-22-012, adaptation}}"
     type: intensional
   examples: []
   notes:

@@ -16,17 +16,17 @@ id: 8f24f44c-8049-5af2-bd5b-a37f6b6f970a
 ---
 data:
   definition:
-  - content: radiation characterized by a single frequency or a single {17-21-025,
-      wavelength}
+  - content: radiation characterized by a single frequency or a single {{17-21-025,
+      wavelength}}
     type: intensional
   examples: []
   notes:
-  - content: If the {17-21-025, wavelength} is used to characterize a monochromatic
+  - content: If the {{17-21-025, wavelength}} is used to characterize a monochromatic
       radiation, the medium has to be stated.
     type: intensional
   - content: In practice, monochromatic radiation is radiation of a very small range
-      of frequencies or {17-21-025, wavelength}s that can be described by stating
-      a single frequency or {17-21-025, wavelength}.
+      of frequencies or {{17-21-025, wavelength}}s that can be described by stating
+      a single frequency or {{17-21-025, wavelength}}.
     type: intensional
   - content: This entry was numbered 845-01-07 in IEC 60050-845:1987.
     type: intensional

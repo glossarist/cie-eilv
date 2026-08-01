@@ -19,14 +19,14 @@ data:
   - content: |-
       quantity that correlates with the more or less luminous aspect of a star and that is defined by the formula
       <i>m</i> = <i>m</i><sub>o</sub> − 2,5 log<sub>10</sub> (<i>E</i><sub>pb</sub>/<i>E</i><sub>o</sub>)
-      where <i>E</i><sub>pb</sub> is the {17-21-096, point brilliance} of the star considered, <i>m</i><sub>o</sub> and <i>E</i><sub>o</sub> are constants based on the magnitudes ascribed to certain standard stars
+      where <i>E</i><sub>pb</sub> is the {{17-21-096, point brilliance}} of the star considered, <i>m</i><sub>o</sub> and <i>E</i><sub>o</sub> are constants based on the magnitudes ascribed to certain standard stars
     type: intensional
   examples: []
   notes:
   - content: In addition to the (visual) apparent magnitude defined here, other apparent
       magnitudes (photographic, bolometric, etc.) are defined by the same formula,
       but where <i>E</i><sub>pb</sub> and <i>E</i><sub>o</sub> are the responses of
-      a {17-25-035, detector} having a specified {17-25-063, spectral responsivity}.
+      a {{17-25-035, detector}} having a specified {{17-25-063, spectral responsivity}}.
     type: intensional
   - content: The apparent magnitude has unit one.
     type: intensional

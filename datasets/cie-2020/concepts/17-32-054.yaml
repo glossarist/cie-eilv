@@ -16,9 +16,9 @@ id: 48bd6a75-bc02-51ff-be24-69ecb26f3496
 ---
 data:
   definition:
-  - content: "{17-32-050, image state} associated with image data that represents
-      estimates of the {17-23-041, colour space} coordinates of the elements of a
-      scene"
+  - content: "{{17-32-050, image state}} associated with image data that represents
+      estimates of the {{17-23-041, colour space}} coordinates of the elements of
+      a scene"
     type: intensional
   examples: []
   notes:
@@ -27,39 +27,39 @@ data:
       scene-referred image data are image data in a scene-referred image state.
     type: intensional
   - content: Scene-referred image data can be determined from raw digital still camera
-      (DSC) image data before {17-22-107, colour rendering} is performed. Generally,
+      (DSC) image data before {{17-22-107, colour rendering}} is performed. Generally,
       DSCs do not write scene-referred image data in image files, but some can do
       so in a special mode intended for this purpose. Typically, DSCs write standard
-      output-referred image data where {17-22-107, colour rendering} has already been
-      performed.
+      output-referred image data where {{17-22-107, colour rendering}} has already
+      been performed.
     type: intensional
   - content: Scene-referred image data typically represent relative scene colorimetry
       estimates. Absolute scene colorimetry estimates can be calculated using a scaling
       factor. The scaling factor can be derived from additional information such as
-      the image {17-32-059, opto-electronic conversion function} (OECF), the <i>F</i>
+      the image {{17-32-059, opto-electronic conversion function}} (OECF), the <i>F</i>
       number or aperture value, and the exposure time or shutter speed value tags.
     type: intensional
   - content: Scene-referred image data can contain inaccuracies due to the dynamic
       range limitations of the capture device, noise from various sources, quantization,
       optical blurring and flare that are not corrected for, and colour analysis errors
-      due to capture device {17-23-006, metamerism}. In some cases, these sources
+      due to capture device {{17-23-006, metamerism}}. In some cases, these sources
       of inaccuracy can be significant.
     type: intensional
   - content: The transformation from raw DSC image data to scene-referred image data
-      depends on the relative {17-23-081, adapted white}s selected for the scene and
-      the {17-23-041, colour space} used to encode the image data. If the chosen scene
-      {17-23-081, adapted white} is inappropriate, additional errors will be introduced
-      into the scene-referred image data. These errors can be correctable if the transformation
-      used to produce the scene-referred image data is known, and the {17-32-006,
-      colour encoding} used for the incorrect scene-referred image data has adequate
-      precision and dynamic range.
+      depends on the relative {{17-23-081, adapted white}}s selected for the scene
+      and the {{17-23-041, colour space}} used to encode the image data. If the chosen
+      scene {{17-23-081, adapted white}} is inappropriate, additional errors will
+      be introduced into the scene-referred image data. These errors can be correctable
+      if the transformation used to produce the scene-referred image data is known,
+      and the {{17-32-006, colour encoding}} used for the incorrect scene-referred
+      image data has adequate precision and dynamic range.
     type: intensional
   - content: The scene can correspond to an actual view of the natural world, or can
       be a computer-generated virtual scene simulating such a view. It can also correspond
       to a modified scene determined by applying modifications to an original scene
       to produce some different desired scene. Any such scene modifications should
       leave the image in a scene-referred image state, and should be done in the context
-      of an expected {17-22-107, colour rendering} transform.
+      of an expected {{17-22-107, colour rendering}} transform.
     type: intensional
   - content: This entry was numbered 17-567 in CIE S 017:2011.
     type: intensional

@@ -16,7 +16,7 @@ id: 16cdd158-81be-581b-8c56-1bb1e9603753
 ---
 data:
   definition:
-  - content: "{17-24-011, non-selective thermal radiator} whose {17-24-009, emissivity}
+  - content: "{{17-24-011, non-selective thermal radiator}} whose {{17-24-009, emissivity}}
       is less than 1"
     type: intensional
   examples: []

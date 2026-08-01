@@ -16,13 +16,13 @@ id: 4350849e-dc15-5b1a-afd3-e44ed319b90d
 ---
 data:
   definition:
-  - content: "{17-23-041, colour space} defined by three colorimetric coordinates"
+  - content: "{{17-23-041, colour space}} defined by three colorimetric coordinates"
     type: intensional
   examples: []
   notes:
-  - content: CIE <i>XYZ</i> {17-23-038, tristimulus values} are colorimetric coordinates,
+  - content: CIE <i>XYZ</i> {{17-23-038, tristimulus values}} are colorimetric coordinates,
       as are <i>RGB</i> values that have an exact and invertible mathematical relationship
-      to CIE <i>XYZ</i> {17-23-038, tristimulus values}.
+      to CIE <i>XYZ</i> {{17-23-038, tristimulus values}}.
     type: intensional
   - content: This entry was numbered 17-193 in CIE S 017:2011.
     type: intensional

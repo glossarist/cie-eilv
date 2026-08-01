@@ -17,14 +17,14 @@ id: 98bd80f3-8678-54e5-8f06-f42d962c2457
 data:
   definition:
   - content: |-
-      density of incident {17-21-040, photon flux} with respect to area at a point on a real or imaginary surface
+      density of incident {{17-21-040, photon flux}} with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>p</sub> is {17-21-040, photon flux} and <i>A</i> is the area on which the {17-21-040, photon flux} is incident
+      where <i>Φ</i><sub>p</sub> is {{17-21-040, photon flux}} and <i>A</i> is the area on which the {{17-21-040, photon flux}} is incident
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{17-21-053, irradiance}".
-      The corresponding photometric quantity is "{17-21-060, illuminance}".
+  - content: The corresponding radiometric quantity is "{{17-21-053, irradiance}}".
+      The corresponding photometric quantity is "{{17-21-060, illuminance}}".
     type: intensional
   - content: The photon irradiance is expressed in second to the power minus one per
       square metre (s<sup>−1</sup>·m<sup>−2</sup>).

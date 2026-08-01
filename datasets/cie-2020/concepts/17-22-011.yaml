@@ -16,9 +16,10 @@ id: '090f1a9e-395d-5de0-ba74-c75177bdf1fd'
 ---
 data:
   definition:
-  - content: "{17-21-050, luminance} of a {17-21-032, source} which, when viewed with
-      the natural pupil, produces the same {17-22-010, conventional retinal illuminance}
-      as that {17-21-032, source} viewed with a specified artificial pupil"
+  - content: "{{17-21-050, luminance}} of a {{17-21-032, source}} which, when viewed
+      with the natural pupil, produces the same {{17-22-010, conventional retinal
+      illuminance}} as that {{17-21-032, source}} viewed with a specified artificial
+      pupil"
     type: intensional
   examples: []
   notes:

@@ -16,9 +16,9 @@ id: 457c02a9-0df4-576b-a4f2-8e846c90bf6e
 ---
 data:
   definition:
-  - content: "{17-28-048, control gear} which operates the {17-27-008, electric lamp}
-      only in emergency mode or test mode and supports neither arc power control commands
-      nor corresponding configuration commands"
+  - content: "{{17-28-048, control gear}} which operates the {{17-27-008, electric
+      lamp}} only in emergency mode or test mode and supports neither arc power control
+      commands nor corresponding configuration commands"
     type: intensional
   examples: []
   notes: []

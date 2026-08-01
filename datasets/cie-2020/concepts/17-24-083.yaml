@@ -16,11 +16,11 @@ id: e056120f-acda-5c88-ab67-86d142f9cb69
 ---
 data:
   definition:
-  - content: relative decrease in {17-21-038, radiant flux} caused by {17-24-081,
-      absorption} and {17-24-049, scattering}, expressed by the relative density of
-      the spectral radiant flux, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i><sub>(</sub><i>λ</i><sub>)</sub>,
+  - content: relative decrease in {{17-21-038, radiant flux}} caused by {{17-24-081,
+      absorption}} and {{17-24-049, scattering}}, expressed by the relative density
+      of the spectral radiant flux, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i><sub>(</sub><i>λ</i><sub>)</sub>,
       with respect to propagation length, <i>l</i>, of a collimated beam at a point
-      in an absorbing and {17-24-049, scattering} medium
+      in an absorbing and {{17-24-049, scattering}} medium
     type: intensional
   examples: []
   notes:

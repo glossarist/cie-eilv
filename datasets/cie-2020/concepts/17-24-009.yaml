@@ -16,9 +16,9 @@ id: db422997-df51-5a89-84c7-f37c81914002
 ---
 data:
   definition:
-  - content: quotient of the {17-21-080, radiant exitance} of a radiator, <i>M</i><sub>e</sub>,
-      and the {17-21-080, radiant exitance} of a {17-24-004, Planckian radiator} at
-      the same temperature, <i>M</i><sub>b</sub>
+  - content: quotient of the {{17-21-080, radiant exitance}} of a radiator, <i>M</i><sub>e</sub>,
+      and the {{17-21-080, radiant exitance}} of a {{17-24-004, Planckian radiator}}
+      at the same temperature, <i>M</i><sub>b</sub>
     type: intensional
   examples: []
   notes:

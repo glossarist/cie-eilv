@@ -16,9 +16,9 @@ id: 2c82c7ae-3162-5d61-b84f-106247b03c1b
 ---
 data:
   definition:
-  - content: "{17-21-032, source} having a constant but not necessarily known output,
-      against which a {17-27-095, standard lamp} and a {17-21-032, source} under test
-      are successively compared"
+  - content: "{{17-21-032, source}} having a constant but not necessarily known output,
+      against which a {{17-27-095, standard lamp}} and a {{17-21-032, source}} under
+      test are successively compared"
     type: intensional
   examples: []
   notes:

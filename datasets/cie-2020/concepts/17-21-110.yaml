@@ -16,15 +16,15 @@ id: 4462242c-573e-5122-9c51-e11770a7fb10
 ---
 data:
   definition:
-  - content: "{17-21-039, luminous flux} emitted within a specified cone angle, <i>α</i>,
-      determined from the {17-29-037, luminous intensity distribution}, <i>I</i><sub>v</sub>(<i>θ</i>,<i>φ</i>),
-      of the {17-27-001, light source}:"
+  - content: "{{17-21-039, luminous flux}} emitted within a specified cone angle,
+      <i>α</i>, determined from the {{17-29-037, luminous intensity distribution}},
+      <i>I</i><sub>v</sub>(<i>θ</i>,<i>φ</i>), of the {{17-27-001, light source}}:"
     type: intensional
   examples: []
   notes:
   - content: "(<i>θ</i>,<i>φ</i>) = (0,0) is the direction of the cone axis, which
-      can be coincident with the mechanical axis or {17-27-076, optical beam axis}
-      of the {17-27-001, light source} or any other direction, and should be specified."
+      can be coincident with the mechanical axis or {{17-27-076, optical beam axis}}
+      of the {{17-27-001, light source}} or any other direction, and should be specified."
     type: intensional
   - content: The cone angle, <i>α</i>, which can be expressed either in degrees (°)
       or radians (rad), is given by the full conic angle and has to be specified,
@@ -33,7 +33,7 @@ data:
   - content: The term "cone luminous flux" is also used in some applications with
       the same meaning.
     type: intensional
-  - content: See also "{17-21-111, useful luminous flux}".
+  - content: See also "{{17-21-111, useful luminous flux}}".
     type: intensional
   - content: The partial luminous flux is expressed in lumen (lm).
     type: intensional

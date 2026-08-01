@@ -16,8 +16,8 @@ id: a96ab44c-b6b2-53c8-809d-f22d1d178b0e
 ---
 data:
   definition:
-  - content: "{17-23-018, illuminant} with which other {17-23-018, illuminant}s are
-      compared"
+  - content: "{{17-23-018, illuminant}} with which other {{17-23-018, illuminant}}s
+      are compared"
     type: intensional
   examples: []
   notes:

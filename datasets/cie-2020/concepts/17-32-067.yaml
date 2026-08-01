@@ -16,13 +16,13 @@ id: f8aad563-411f-5186-92e8-4f8f9568e788
 ---
 data:
   definition:
-  - content: "{17-32-066, veiling glare} that is observed in a viewing environment
+  - content: "{{17-32-066, veiling glare}} that is observed in a viewing environment
       but not accounted for in measurements made using a prescribed measurement geometry"
     type: intensional
   examples: []
   notes:
-  - content: The viewing flare is expressed as a percentage of the {17-21-050, luminance}
-      of {17-23-081, adapted white}.
+  - content: The viewing flare is expressed as a percentage of the {{17-21-050, luminance}}
+      of {{17-23-081, adapted white}}.
     type: intensional
   - content: This entry was numbered 17-1399 in CIE S 017:2011.
     type: intensional

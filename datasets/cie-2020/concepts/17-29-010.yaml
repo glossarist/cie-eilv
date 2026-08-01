@@ -16,8 +16,8 @@ id: ab359f40-964f-59f5-b27e-c0928ecb5c9e
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} provided for use when the power supply to the
-      normal {17-29-025, electric lighting} fails"
+  - content: "{{17-29-001, lighting}} provided for use when the power supply to the
+      normal {{17-29-025, electric lighting}} fails"
     type: intensional
   examples: []
   notes:

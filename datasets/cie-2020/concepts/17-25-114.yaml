@@ -16,7 +16,8 @@ id: 196b6193-8663-5cf1-8741-71726c937b25
 ---
 data:
   definition:
-  - content: area of the {17-25-110, reference plane} on which measurements are made
+  - content: area of the {{17-25-110, reference plane}} on which measurements are
+      made
     type: intensional
   examples: []
   notes:

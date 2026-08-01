@@ -16,7 +16,7 @@ id: 18fb1fc9-99a5-57f3-bd77-017ea2f0d1a6
 ---
 data:
   definition:
-  - content: angle between the illumination axis and the {17-24-100, retroreflector}
+  - content: angle between the illumination axis and the {{17-24-100, retroreflector}}
       axis
     type: intensional
   examples: []

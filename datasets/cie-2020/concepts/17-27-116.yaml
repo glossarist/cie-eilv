@@ -17,7 +17,7 @@ id: 0d9ed5da-f132-536d-8178-5e7b4097b412
 data:
   definition:
   - content: voltage between the electrodes which is needed to start the discharge
-      in the {17-27-024, discharge lamp}
+      in the {{17-27-024, discharge lamp}}
     type: intensional
   examples: []
   notes:

@@ -17,12 +17,12 @@ id: a9db1330-ddf3-5575-9786-a46119c18df2
 data:
   definition:
   - content: quotient of the number of elementary events (such as release of an electron)
-      contributing to the {17-25-058, output} and the number of absorbed {17-21-107,
-      photon}s
+      contributing to the {{17-25-058, output}} and the number of absorbed {{17-21-107,
+      photon}}s
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-25-074, external quantum efficiency}".
+  - content: See also "{{17-25-074, external quantum efficiency}}".
     type: intensional
   - content: The internal quantum efficiency has unit one.
     type: intensional

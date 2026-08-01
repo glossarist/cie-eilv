@@ -16,9 +16,9 @@ id: 5559c737-6f74-59fd-a149-ea8a62c4c4b9
 ---
 data:
   definition:
-  - content: "{17-30-060, mine luminaire} connected to an electric network by means
+  - content: "{{17-30-060, mine luminaire}} connected to an electric network by means
       of the open magnetic circuit of a transformer that is an integral part of the
-      {17-30-001, luminaire}"
+      {{17-30-001, luminaire}}"
     type: intensional
   examples: []
   notes:

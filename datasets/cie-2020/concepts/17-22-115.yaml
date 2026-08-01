@@ -16,9 +16,9 @@ id: 412fad6d-56db-5b2f-beba-3ee6cd3f8255
 ---
 data:
   definition:
-  - content: change in the perceived {17-22-040, colour} of an object caused solely
-      by change of {17-23-018, illuminant} in the absence of any change in the observer's
-      state of {17-22-013, chromatic adaptation}
+  - content: change in the perceived {{17-22-040, colour}} of an object caused solely
+      by change of {{17-23-018, illuminant}} in the absence of any change in the observer's
+      state of {{17-22-013, chromatic adaptation}}
     type: intensional
   examples: []
   notes:

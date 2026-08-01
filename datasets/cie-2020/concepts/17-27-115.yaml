@@ -16,15 +16,15 @@ id: fb7377d1-667f-5545-8c38-a1053f7bf170
 ---
 data:
   definition:
-  - content: 'relative amplitude of the periodic fluctuation of the {17-21-039, luminous
-      flux} as calculated by the ratio of the difference between the maximum and the
-      minimum instantaneous {17-21-039, luminous flux}, <i>Φ</i><sub>max</sub> and
-      <i>Φ</i><sub>min</sub> respectively, to the sum of both of these values:'
+  - content: 'relative amplitude of the periodic fluctuation of the {{17-21-039, luminous
+      flux}} as calculated by the ratio of the difference between the maximum and
+      the minimum instantaneous {{17-21-039, luminous flux}}, <i>Φ</i><sub>max</sub>
+      and <i>Φ</i><sub>min</sub> respectively, to the sum of both of these values:'
     type: intensional
   examples: []
   notes:
-  - content: The amplitude of fluctuation can be applied also for "{17-21-050, luminance}"
-      and "{17-21-060, illuminance}". Additional photometric quantities can be used.
+  - content: The amplitude of fluctuation can be applied also for "{{17-21-050, luminance}}"
+      and "{{17-21-060, illuminance}}". Additional photometric quantities can be used.
     type: intensional
   - content: The amplitude of fluctuation of the luminous flux has unit one and is
       usually expressed in per cent (%).

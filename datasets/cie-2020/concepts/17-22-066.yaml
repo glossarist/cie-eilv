@@ -16,16 +16,16 @@ id: ccb073e7-5d81-59c5-a24f-820fd4ae706b
 ---
 data:
   definition:
-  - content: change in {17-22-059, brightness} of perceived {17-22-040, colour}, produced
-      by increasing the {17-23-064, purity} of a {17-23-002, colour stimulus} while
-      keeping its {17-21-050, luminance} constant within the range of {17-22-016,
-      photopic vision}
+  - content: change in {{17-22-059, brightness}} of perceived {{17-22-040, colour}},
+      produced by increasing the {{17-23-064, purity}} of a {{17-23-002, colour stimulus}}
+      while keeping its {{17-21-050, luminance}} constant within the range of {{17-22-016,
+      photopic vision}}
     type: intensional
   examples: []
   notes:
-  - content: For {17-22-047, related colour}s, a change in {17-22-063, lightness}
-      can also occur when the {17-23-064, purity} is increased while keeping the {17-24-077,
-      luminance factor} of the {17-23-002, colour stimulus} constant.
+  - content: For {{17-22-047, related colour}}s, a change in {{17-22-063, lightness}}
+      can also occur when the {{17-23-064, purity}} is increased while keeping the
+      {{17-24-077, luminance factor}} of the {{17-23-002, colour stimulus}} constant.
     type: intensional
   - content: This entry was numbered 845-02-34 in IEC 60050-845:1987.
     type: intensional

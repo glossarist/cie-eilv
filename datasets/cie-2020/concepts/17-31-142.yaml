@@ -16,12 +16,12 @@ id: 04b0fb11-71d5-50de-a49c-ace95e6f6883
 ---
 data:
   definition:
-  - content: quotient of the minimum {17-21-050, luminance} at a point and the average
-      road surface {17-21-050, luminance} over an evaluation area
+  - content: quotient of the minimum {{17-21-050, luminance}} at a point and the average
+      road surface {{17-21-050, luminance}} over an evaluation area
     type: intensional
   examples: []
   notes:
-  - content: Where the {17-21-050, luminance} value refers only to the carriageway
+  - content: Where the {{17-21-050, luminance}} value refers only to the carriageway
       part of the road it can be known as "carriageway luminance".
     type: intensional
   - content: The overall uniformity of road surface luminance has unit one.

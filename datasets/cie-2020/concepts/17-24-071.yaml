@@ -17,7 +17,7 @@ id: 0b3809b9-583b-5768-b482-2dfa5920a678
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {17-24-064, reflectance}, <i>ρ</i>
+      logarithm to base 10 of the reciprocal of the {{17-24-064, reflectance}}, <i>ρ</i>
       <i>D<sub>ρ</sub></i> = −log<sub>10</sub> <i>ρ</i>
     type: intensional
   examples: []

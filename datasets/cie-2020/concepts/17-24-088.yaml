@@ -24,7 +24,7 @@ data:
   notes:
   - content: For a given layer the spectral internal transmittance depends on the
       path length of the radiation in the layer, and hence, in particular, on the
-      {17-25-078, angle of incidence}.
+      {{17-25-078, angle of incidence}}.
     type: intensional
   - content: The spectral internal transmittance has unit one.
     type: intensional

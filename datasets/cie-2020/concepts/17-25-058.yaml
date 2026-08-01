@@ -16,8 +16,8 @@ id: c0255583-7def-572a-b75c-da0c10e29019
 ---
 data:
   definition:
-  - content: physical quantity yielded by a {17-25-035, detector} in response to an
-      optical {17-25-057, input}
+  - content: physical quantity yielded by a {{17-25-035, detector}} in response to
+      an optical {{17-25-057, input}}
     type: intensional
   examples: []
   notes:

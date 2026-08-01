@@ -18,14 +18,14 @@ data:
   definition:
   - content: mathematical model that produces transformations, which are applied to
       scene or original-referred image data to produce image data describing a reproduction,
-      which is as close as possible to being an {17-22-019, appearance} match to the
-      original
+      which is as close as possible to being an {{17-22-019, appearance}} match to
+      the original
     type: intensional
   examples: []
   notes:
   - content: Transformations produced by corresponding colour reproduction models
-      will generally depend on the {17-32-027, luminance ratio} and {17-32-007, colour
-      gamut} of the scene or original and the output medium.
+      will generally depend on the {{17-32-027, luminance ratio}} and {{17-32-007,
+      colour gamut}} of the scene or original and the output medium.
     type: intensional
   - content: This entry was numbered 17-259 in CIE S 017:2011.
     type: intensional

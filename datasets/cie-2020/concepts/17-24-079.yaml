@@ -17,13 +17,13 @@ id: 9a7d366b-da06-59cd-803d-8503d98aa21d
 data:
   definition:
   - content: |-
-      quotient of the {17-21-050, luminance} at a surface element of a medium in a given direction and the {17-21-060, illuminance} on the medium
+      quotient of the {{17-21-050, luminance}} at a surface element of a medium in a given direction and the {{17-21-060, illuminance}} on the medium
 
-      where <i>L</i><sub>v</sub> is {17-21-050, luminance} and <i>E</i><sub>v</sub> is {17-21-060, illuminance}
+      where <i>L</i><sub>v</sub> is {{17-21-050, luminance}} and <i>E</i><sub>v</sub> is {{17-21-060, illuminance}}
     type: intensional
   examples: []
   notes:
-  - content: The {17-25-089, bi-directional reflectance distribution function} (BRDF)
+  - content: The {{17-25-089, bi-directional reflectance distribution function}} (BRDF)
       is similar to the luminance coefficient except that it is defined for directional
       incident radiation.
     type: intensional

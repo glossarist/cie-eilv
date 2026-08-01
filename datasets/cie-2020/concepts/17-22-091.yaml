@@ -16,7 +16,7 @@ id: dfd34af3-1a49-52cc-85a1-4fdc7964e1dd
 ---
 data:
   definition:
-  - content: quantity relating to the difference in {17-21-050, luminance} between
+  - content: quantity relating to the difference in {{17-21-050, luminance}} between
       two surfaces
     type: intensional
   examples: []
@@ -30,8 +30,8 @@ data:
     type: intensional
   - content: Although luminance contrast is intended to correlate with brightness
       contrast, it is possible that it does not do so directly because brightness
-      contrast depends on other factors such as the angular separation, the {17-21-050,
-      luminance} gradient, and any size difference between the two surfaces.
+      contrast depends on other factors such as the angular separation, the {{17-21-050,
+      luminance}} gradient, and any size difference between the two surfaces.
     type: intensional
   sources:
   - origin:

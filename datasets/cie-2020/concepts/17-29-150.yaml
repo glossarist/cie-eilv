@@ -26,7 +26,7 @@ data:
   - content: The room surface maintenance factor has unit one.
     type: intensional
   - content: to entry:´ The room surface maintenance factor is based on a simplified
-      model for the effects of the deterioration of room surface {17-24-064, reflectance}
+      model for the effects of the deterioration of room surface {{17-24-064, reflectance}}
       properties and does not accurately account for room geometry and configuration.
     type: intensional
   - content: This entry was numbered 17-1122 and 17-1125 in CIE S 017:2011.

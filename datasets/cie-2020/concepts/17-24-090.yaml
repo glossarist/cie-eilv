@@ -17,7 +17,7 @@ id: d693a77a-f4c5-57ee-bdb9-7a3d0b9ee232
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {17-24-088, spectral internal transmittance}, <i>τ</i><sub>i </sub>(<i>λ</i>)
+      logarithm to base 10 of the reciprocal of the {{17-24-088, spectral internal transmittance}}, <i>τ</i><sub>i </sub>(<i>λ</i>)
       <i>A</i><sub>i</sub>(<i>λ</i>) = −log<sub>10</sub> <i>τ</i><sub>i </sub>(<i>λ</i>)
     type: intensional
   examples: []

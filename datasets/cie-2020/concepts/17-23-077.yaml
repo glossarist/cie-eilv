@@ -16,9 +16,9 @@ id: eac953c5-a036-5b2b-9274-6a885e8d5898
 ---
 data:
   definition:
-  - content: 'difference between two {17-23-002, colour stimulus}, defined as the
-      Euclidean distance between the points representing them in the {17-23-076, CIE
-      1976 L*a*b* colour space} and calculated as:'
+  - content: 'difference between two {{17-23-002, colour stimulus}}, defined as the
+      Euclidean distance between the points representing them in the {{17-23-076,
+      CIE 1976 L*a*b* colour space}} and calculated as:'
     type: intensional
   examples: []
   notes:

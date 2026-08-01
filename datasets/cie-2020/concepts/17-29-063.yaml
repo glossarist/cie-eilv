@@ -16,9 +16,9 @@ id: 8a54c368-7ff1-5e00-b3de-460f66d207f7
 ---
 data:
   definition:
-  - content: calculation method to predict {17-21-060, illuminance} at each point
-      on a calculation plane, using measured data of {17-29-037, luminous intensity
-      distribution} of a {17-21-032, source} or a {17-30-001, luminaire}
+  - content: calculation method to predict {{17-21-060, illuminance}} at each point
+      on a calculation plane, using measured data of {{17-29-037, luminous intensity
+      distribution}} of a {{17-21-032, source}} or a {{17-30-001, luminaire}}
     type: intensional
   examples: []
   notes:

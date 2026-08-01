@@ -16,9 +16,9 @@ id: c310f269-ad87-5e84-96f4-d75a5338f837
 ---
 data:
   definition:
-  - content: device using {17-24-040, photoluminescent material} that has a {17-24-022,
-      photoluminescence} yield independent of the {17-21-025, wavelength} of the exciting
-      radiation over a wide spectral range
+  - content: device using {{17-24-040, photoluminescent material}} that has a {{17-24-022,
+      photoluminescence}} yield independent of the {{17-21-025, wavelength}} of the
+      exciting radiation over a wide spectral range
     type: intensional
   examples: []
   notes:

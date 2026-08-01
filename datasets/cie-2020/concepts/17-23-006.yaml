@@ -16,8 +16,9 @@ id: 5675ff2a-d732-5137-a6a7-c96d1167f9fa
 ---
 data:
   definition:
-  - content: property of spectrally different {17-23-002, colour stimulus} that have
-      the same {17-23-038, tristimulus values} in a specified colorimetric system
+  - content: property of spectrally different {{17-23-002, colour stimulus}} that
+      have the same {{17-23-038, tristimulus values}} in a specified colorimetric
+      system
     type: intensional
   examples: []
   notes:

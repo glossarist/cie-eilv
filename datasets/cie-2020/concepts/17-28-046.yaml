@@ -16,16 +16,16 @@ id: a9b91a41-e297-5a22-b4e0-0ab74045f1b3
 ---
 data:
   definition:
-  - content: special {17-28-044, ballast} designed for the purpose of providing comparison
-      standards for use in testing ballasts, for the selection of {17-27-096, reference
-      lamp}s and for testing {17-27-008, electric lamp}s from regular production under
-      standardized conditions
+  - content: special {{17-28-044, ballast}} designed for the purpose of providing
+      comparison standards for use in testing ballasts, for the selection of {{17-27-096,
+      reference lamp}}s and for testing {{17-27-008, electric lamp}}s from regular
+      production under standardized conditions
     type: intensional
   examples: []
   notes:
-  - content: A reference ballast is typically inductive for {17-27-008, electric lamp}s
-      operating on AC mains frequencies or resistive for {17-27-008, electric lamp}s
-      operating on high frequency or low frequency square waves.
+  - content: A reference ballast is typically inductive for {{17-27-008, electric
+      lamp}}s operating on AC mains frequencies or resistive for {{17-27-008, electric
+      lamp}}s operating on high frequency or low frequency square waves.
     type: intensional
   - content: A reference ballast operated at its rated frequency has a stable voltage/current
       ratio that is relatively uninfluenced by variations in current, temperature

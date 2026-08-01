@@ -16,15 +16,15 @@ id: 7cea7e51-bfdd-51b9-b3b6-6b4b3e057176
 ---
 data:
   definition:
-  - content: degree of {17-23-001, colour} mismatch, calculated in the form of a {17-23-015,
-      colour difference}, caused by substituting a test {17-23-018, illuminant} (observer)
-      of different relative spectral composition (responsivity) for the {17-22-108,
-      reference illuminant} (observer)
+  - content: degree of {{17-23-001, colour}} mismatch, calculated in the form of a
+      {{17-23-015, colour difference}}, caused by substituting a test {{17-23-018,
+      illuminant}} (observer) of different relative spectral composition (responsivity)
+      for the {{17-22-108, reference illuminant}} (observer)
     type: intensional
   examples: []
   notes:
-  - content: The {17-23-015, colour difference} is evaluated using a CIE colour difference
-      formula and it shall be clearly stated which formula has been used.
+  - content: The {{17-23-015, colour difference}} is evaluated using a CIE colour
+      difference formula and it shall be clearly stated which formula has been used.
     type: intensional
   - content: This entry was numbered 17-770 in CIE S 017:2011.
     type: intensional

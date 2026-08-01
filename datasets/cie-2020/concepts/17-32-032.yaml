@@ -16,13 +16,13 @@ id: bafea7e9-83ed-5239-a3ee-8e200d4af8e4
 ---
 data:
   definition:
-  - content: neutral colour with the lowest {17-21-050, luminance} that can be produced
+  - content: neutral colour with the lowest {{17-21-050, luminance}} that can be produced
       by an imaging medium in use, measured using the specified measurement geometry
     type: intensional
   examples: []
   notes:
   - content: It is generally desirable to specify a medium black point that has the
-      same {17-23-052, chromaticity} as the {17-32-031, medium white point}.
+      same {{17-23-052, chromaticity}} as the {{17-32-031, medium white point}}.
     type: intensional
   - content: This entry was numbered 17-760 in CIE S 017:2011.
     type: intensional

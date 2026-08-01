@@ -16,13 +16,13 @@ id: 8d8c8644-f045-5702-a3e3-a9f39c13d08c
 ---
 data:
   definition:
-  - content: array of {17-29-041, iso-intensity curve}s
+  - content: array of {{17-29-041, iso-intensity curve}}s
     type: intensional
   examples: []
   notes:
   - content: The term "isocandela diagram" is no longer in use.
     type: intensional
-  - content: See also "{17-25-091, distribution curve}" (17-25-091).
+  - content: See also "{{17-25-091, distribution curve}}" (17-25-091).
     type: intensional
   - content: This entry was numbered 845-09-29 in IEC 60050-845:1987.
     type: intensional

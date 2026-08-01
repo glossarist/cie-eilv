@@ -17,7 +17,7 @@ id: aa48b554-0a1a-5bb6-a494-2a7690e0df95
 data:
   definition:
   - content: |-
-      quotient of the {17-21-053, irradiance} or {17-21-060, illuminance}, <i>E</i><sub>2</sub> (or <i>E</i><sub>1</sub>), at a point on surface S<sub>2</sub> (or S<sub>1</sub>) due to the flux received from surface S<sub>1</sub> (or S<sub>2</sub>) and the {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
+      quotient of the {{17-21-053, irradiance}} or {{17-21-060, illuminance}}, <i>E</i><sub>2</sub> (or <i>E</i><sub>1</sub>), at a point on surface S<sub>2</sub> (or S<sub>1</sub>) due to the flux received from surface S<sub>1</sub> (or S<sub>2</sub>) and the {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}}, <i>M</i><sub>1</sub> (or <i>M</i><sub>2</sub>), of surface S<sub>1</sub> (or S<sub>2</sub>)
 
       or
     type: intensional

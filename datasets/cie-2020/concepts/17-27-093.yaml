@@ -16,12 +16,12 @@ id: 1f5b7278-b57f-5278-9d40-666bcfffd64c
 ---
 data:
   definition:
-  - content: "{17-27-008, electric lamp} that gives a well-defined line spectrum"
+  - content: "{{17-27-008, electric lamp}} that gives a well-defined line spectrum"
     type: intensional
   examples: []
   notes:
-  - content: A spectroscopic lamp can be used with {17-24-113, filter}s to obtain
-      {17-21-014, monochromatic radiation}.
+  - content: A spectroscopic lamp can be used with {{17-24-113, filter}}s to obtain
+      {{17-21-014, monochromatic radiation}}.
     type: intensional
   - content: This entry was numbered 845-07-54 in IEC 60050-845:1987.
     type: intensional

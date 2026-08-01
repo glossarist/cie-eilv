@@ -16,16 +16,16 @@ id: 27d4cc2b-7282-5bbd-aa28-0074ea41d150
 ---
 data:
   definition:
-  - content: angle between a defined datum axis related to the {17-30-001, luminaire}
-      and the horizontal when the {17-30-001, luminaire} is mounted for photometric
+  - content: angle between a defined datum axis related to the {{17-30-001, luminaire}}
+      and the horizontal when the {{17-30-001, luminaire}} is mounted for photometric
       measurement
     type: intensional
   examples: []
   notes:
-  - content: The defined datum axis can be any feature of the {17-30-001, luminaire},
+  - content: The defined datum axis can be any feature of the {{17-30-001, luminaire}},
       but it will usually relate to a feature that is nominally aligned with the horizontal
       such as an axis through the luminous opening or an axis through an array of
-      {17-27-050, LED}s or a fixing spigot entry axis.
+      {{17-27-050, LED}}s or a fixing spigot entry axis.
     type: intensional
   - content: The tilt during measurement is expressed in radian (rad) or degree (°).
     type: intensional

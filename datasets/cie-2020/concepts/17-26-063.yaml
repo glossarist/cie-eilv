@@ -16,22 +16,22 @@ id: 0a41dc11-59fe-54f3-b144-7576e5f741bf
 ---
 data:
   definition:
-  - content: quotient of {17-26-055, blue light hazard} weighted {17-21-038, radiant
-      flux} and {17-21-038, radiant flux}
+  - content: quotient of {{17-26-055, blue light hazard}} weighted {{17-21-038, radiant
+      flux}} and {{17-21-038, radiant flux}}
     type: intensional
   examples: []
   notes:
   - content: The blue light hazard efficiency of radiation, <i>η</i><sub>B</sub>,
-      is related to the {17-26-061, blue light hazard efficacy of luminous radiation},
+      is related to the {{17-26-061, blue light hazard efficacy of luminous radiation}},
       <i>K</i><sub>B,v</sub>, through <i>η</i><sub>B</sub> = <i>K</i>⋅<i>K</i><sub>B,v</sub>,
-      where <i>K</i> is {17-21-090, luminous efficacy of radiation}, and to the {17-26-062,
-      blue light hazard factor of luminous radiation}, <i>α</i><sub>B,v</sub>, through
-      <i>η</i><sub>B</sub> = <i>V</i>⋅<i>α</i><sub>B,v</sub>, where <i>V</i> is {17-21-094,
-      luminous efficiency} of radiation.
+      where <i>K</i> is {{17-21-090, luminous efficacy of radiation}}, and to the
+      {{17-26-062, blue light hazard factor of luminous radiation}}, <i>α</i><sub>B,v</sub>,
+      through <i>η</i><sub>B</sub> = <i>V</i>⋅<i>α</i><sub>B,v</sub>, where <i>V</i>
+      is {{17-21-094, luminous efficiency}} of radiation.
     type: intensional
   - content: For some applications it might be necessary to state both, blue light
-      hazard efficiency of radiation, <i>η</i><sub>B</sub>, and {17-26-061, blue light
-      hazard efficacy of luminous radiation}, <i>K</i><sub>B,v</sub>.
+      hazard efficiency of radiation, <i>η</i><sub>B</sub>, and {{17-26-061, blue
+      light hazard efficacy of luminous radiation}}, <i>K</i><sub>B,v</sub>.
     type: intensional
   - content: The blue light hazard efficiency of radiation has unit one.
     type: intensional

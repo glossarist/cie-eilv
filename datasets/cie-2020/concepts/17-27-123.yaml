@@ -16,9 +16,9 @@ id: dd82e2c8-ede9-5764-b06d-b13d53d77766
 ---
 data:
   definition:
-  - content: total power dissipated by {17-28-048, control gear} and {17-27-001, light
-      source}(s) in combination, at rated {17-27-118, supply voltage} and frequency
-      of the {17-28-048, control gear} with the highest rated output load
+  - content: total power dissipated by {{17-28-048, control gear}} and {{17-27-001,
+      light source}}(s) in combination, at rated {{17-27-118, supply voltage}} and
+      frequency of the {{17-28-048, control gear}} with the highest rated output load
     type: intensional
   examples: []
   notes:

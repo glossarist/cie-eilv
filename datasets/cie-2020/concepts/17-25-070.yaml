@@ -16,8 +16,8 @@ id: 5ad1126a-b1eb-5d15-8c01-2046a26ae318
 ---
 data:
   definition:
-  - content: "{17-25-069, noise-equivalent input} when the quantity that the {17-25-035,
-      detector} is being used to measure or detect is {17-21-038, radiant flux}"
+  - content: "{{17-25-069, noise-equivalent input}} when the quantity that the {{17-25-035,
+      detector}} is being used to measure or detect is {{17-21-038, radiant flux}}"
     type: intensional
   examples: []
   notes:

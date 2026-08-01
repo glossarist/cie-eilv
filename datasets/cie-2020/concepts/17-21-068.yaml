@@ -16,13 +16,13 @@ id: 6c5152ef-cffc-5dfa-b7de-ac7e95481018
 ---
 data:
   definition:
-  - content: time integral of {17-21-050, luminance}, <i>L</i><sub>v</sub>, over a
-      given duration, Δ<i>t</i>
+  - content: time integral of {{17-21-050, luminance}}, <i>L</i><sub>v</sub>, over
+      a given duration, Δ<i>t</i>
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{17-21-067, radiance dose}".
-      The corresponding quantity for photons is "{17-21-070, photon radiance dose}".
+  - content: The corresponding radiometric quantity is "{{17-21-067, radiance dose}}".
+      The corresponding quantity for photons is "{{17-21-070, photon radiance dose}}".
     type: intensional
   - content: The luminance dose is expressed in candela times second per square metre
       (cd·s·m<sup>−2</sup>).

@@ -16,14 +16,15 @@ id: 790ea3ef-dbcb-5b62-bc25-dc3270274cfa
 ---
 data:
   definition:
-  - content: "{17-23-018, illuminant} standardized by the CIE for the purpose of harmonization"
+  - content: "{{17-23-018, illuminant}} standardized by the CIE for the purpose of
+      harmonization"
     type: intensional
   examples: []
   notes:
   - content: |-
       Examples of CIE standard illuminants are:
-      ▪ CIE standard illuminant A: {17-21-030, relative spectral distribution} of {17-21-038, radiant flux} based on Planckian radiation at a temperature of about 2 855,5 K;
-      ▪ CIE standard illuminant D65: {17-21-030, relative spectral distribution} of {17-21-038, radiant flux} representing a phase of {17-29-105, daylight} with a {17-23-068, correlated colour temperature} of approximately 6 500 K (called also "nominal correlated colour temperature of the daylight illuminant").
+      ▪ CIE standard illuminant A: {{17-21-030, relative spectral distribution}} of {{17-21-038, radiant flux}} based on Planckian radiation at a temperature of about 2 855,5 K;
+      ▪ CIE standard illuminant D65: {{17-21-030, relative spectral distribution}} of {{17-21-038, radiant flux}} representing a phase of {{17-29-105, daylight}} with a {{17-23-068, correlated colour temperature}} of approximately 6 500 K (called also "nominal correlated colour temperature of the daylight illuminant").
     type: intensional
   - content: CIE standard illuminants should be used whenever appropriate in order
       to facilitate the comparison of published results.
@@ -34,8 +35,8 @@ data:
       llluminants for Colorimetry</i>, in which examples are given for applications
       of use of CIE standard illuminants.'
     type: intensional
-  - content: Illuminants B, C and other {17-23-020, daylight illuminant}s, previously
-      denoted as "standard illuminants", should now be termed "{17-23-019, CIE illuminant}s".
+  - content: Illuminants B, C and other {{17-23-020, daylight illuminant}}s, previously
+      denoted as "standard illuminants", should now be termed "{{17-23-019, CIE illuminant}}s".
     type: intensional
   - content: This entry was numbered 845-03-12 in IEC 60050-845:1987.
     type: intensional

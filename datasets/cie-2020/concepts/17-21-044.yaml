@@ -17,20 +17,20 @@ id: 64a9fb28-1ac7-5033-9c74-8b0d4f18d10b
 data:
   definition:
   - content: |-
-      density of {17-21-038, radiant flux} with respect to {17-21-109, solid angle} in a specified direction
+      density of {{17-21-038, radiant flux}} with respect to {{17-21-109, solid angle}} in a specified direction
 
-      where <i>Φ</i><sub>e</sub> is the {17-21-038, radiant flux} emitted in a specified direction, and <i>Ω</i> is the {17-21-109, solid angle} containing that direction
+      where <i>Φ</i><sub>e</sub> is the {{17-21-038, radiant flux}} emitted in a specified direction, and <i>Ω</i> is the {{17-21-109, solid angle}} containing that direction
     type: intensional
   examples: []
   notes:
-  - content: The definition holds strictly only for a {17-21-033, point source}.
+  - content: The definition holds strictly only for a {{17-21-033, point source}}.
     type: intensional
   - content: |-
-      The distribution of the radiant intensities as a function of the direction of {17-24-001, emission}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {17-21-038, radiant flux}, <i>Φ</i><sub>e</sub>, within a certain {17-21-109, solid angle}, <i>Ω</i>, of a {17-21-032, source}:
+      The distribution of the radiant intensities as a function of the direction of {{17-24-001, emission}}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {{17-21-038, radiant flux}}, <i>Φ</i><sub>e</sub>, within a certain {{17-21-109, solid angle}}, <i>Ω</i>, of a {{17-21-032, source}}:
       .
     type: intensional
-  - content: The corresponding photometric quantity is "{17-21-045, luminous intensity}".
-      The corresponding quantity for photons is "{17-21-046, photon intensity}".
+  - content: The corresponding photometric quantity is "{{17-21-045, luminous intensity}}".
+      The corresponding quantity for photons is "{{17-21-046, photon intensity}}".
     type: intensional
   - content: The radiant intensity is expressed in watt per steradian (W⋅sr<sup>−1</sup>).
     type: intensional

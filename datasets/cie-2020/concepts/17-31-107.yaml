@@ -16,9 +16,9 @@ id: 06dcfbf8-3c1f-51bc-9afd-2c7c87de0152
 ---
 data:
   definition:
-  - content: "{17-31-002, sign} with {17-31-102, element}s constructed as flaps, plungers
-      or other similar devices to display either one of a number of dedicated messages
-      or a message formed on a free format {17-31-125, character matrix}"
+  - content: "{{17-31-002, sign}} with {{17-31-102, element}}s constructed as flaps,
+      plungers or other similar devices to display either one of a number of dedicated
+      messages or a message formed on a free format {{17-31-125, character matrix}}"
     type: intensional
   examples: []
   notes:

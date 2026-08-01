@@ -16,7 +16,7 @@ id: 2438dec1-844b-5928-bbb6-fe5fb3092414
 ---
 data:
   definition:
-  - content: mean value of {17-21-053, irradiance} on the outer curved surface of
+  - content: mean value of {{17-21-053, irradiance}} on the outer curved surface of
       a very small (real or imaginary) cylinder that is oriented vertically at a point
       in space
     type: intensional
@@ -27,8 +27,8 @@ data:
 
       where <i>E</i><sub>e,v</sub> is the vertical irradiance for an area element with its normal in the direction <i>φ</i>, and <i>φ</i> is the angle in the plane perpendicular to the axis of the cylinder.
     type: intensional
-  - content: The corresponding photometric quantity is "{17-21-063, cylindrical illuminance}".
-      The corresponding quantity for photons is "{17-21-069, photon cylindrical irradiance}".
+  - content: The corresponding photometric quantity is "{{17-21-063, cylindrical illuminance}}".
+      The corresponding quantity for photons is "{{17-21-069, photon cylindrical irradiance}}".
     type: intensional
   - content: The cylindrical irradiance is expressed in watt per square metre (W·m<sup>−2</sup>).
     type: intensional

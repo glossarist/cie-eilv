@@ -16,7 +16,7 @@ id: '0097cd5a-1446-5dd2-9364-eb7e76ec604a'
 ---
 data:
   definition:
-  - content: "{17-25-049, thermal detector} in which the heating of the part that
+  - content: "{{17-25-049, thermal detector}} in which the heating of the part that
       absorbs the radiation causes a change in its electrical resistance which is
       used to quantify an optical property"
     type: intensional

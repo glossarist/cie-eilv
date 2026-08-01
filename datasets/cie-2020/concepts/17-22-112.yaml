@@ -16,8 +16,8 @@ id: 90d0994c-2421-5548-b8e0-1a027c4110c2
 ---
 data:
   definition:
-  - content: change in {17-23-052, chromaticity} and {17-24-077, luminance factor}
-      of an {17-22-042, object colour} caused by a change in {17-23-018, illuminant}
+  - content: change in {{17-23-052, chromaticity}} and {{17-24-077, luminance factor}}
+      of an {{17-22-042, object colour}} caused by a change in {{17-23-018, illuminant}}
     type: intensional
   examples: []
   notes:

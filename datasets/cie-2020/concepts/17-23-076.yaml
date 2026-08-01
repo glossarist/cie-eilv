@@ -17,7 +17,7 @@ id: c43708fd-3d0b-52ac-8f20-d868a44c24c8
 data:
   definition:
   - content: |-
-      three-dimensional, approximately {17-23-071, uniform colour space} produced by plotting in rectangular coordinates <i>L</i>*, <i>a</i>*, <i>b</i>*, quantities defined by the equations:
+      three-dimensional, approximately {{17-23-071, uniform colour space}} produced by plotting in rectangular coordinates <i>L</i>*, <i>a</i>*, <i>b</i>*, quantities defined by the equations:
       <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − 16
       <i>a</i>* = 500 [<i>f</i> (<i>X</i>/<i>X</i><sub>n</sub>) − <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>)]
       <i>b</i>* = 200 [<i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>)]
@@ -30,12 +30,12 @@ data:
       and
       <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>) = (<i>Z</i>/<i>Z</i><sub>n</sub>)<sup>1/3 </sup>if (<i>Z</i>/<i>Z</i><sub>n</sub>) > (6/29)<sup>3</sup>
       <i>f</i> (<i>Z</i>/<i>Z</i><sub>n</sub>) = (841/108) (<i>Z</i>/<i>Z</i><sub>n</sub>) + 4/29 if (<i>Z</i>/<i>Z</i><sub>n</sub>) ≤ (6/29)<sup>3</sup>
-      and <i>X</i>, <i>Y</i>, <i>Z</i> describe the {17-23-002, colour stimulus} considered and <i>X</i><sub>n</sub>, <i>Y</i><sub>n</sub>, <i>Z</i><sub>n</sub> describe a specified white {17-23-009, achromatic stimulus}.
+      and <i>X</i>, <i>Y</i>, <i>Z</i> describe the {{17-23-002, colour stimulus}} considered and <i>X</i><sub>n</sub>, <i>Y</i><sub>n</sub>, <i>Z</i><sub>n</sub> describe a specified white {{17-23-009, achromatic stimulus}}.
     type: intensional
   examples: []
   notes:
   - content: |-
-      Approximate correlates of {17-22-063, lightness}, {17-22-074, chroma} and {17-22-067, hue} can be calculated as follows:
+      Approximate correlates of {{17-22-063, lightness}}, {{17-22-074, chroma}} and {{17-22-067, hue}} can be calculated as follows:
       CIE 1976 lightness
       <i>L</i>* = 116 <i>f</i> (<i>Y</i>/<i>Y</i><sub>n</sub>) − 16
       where

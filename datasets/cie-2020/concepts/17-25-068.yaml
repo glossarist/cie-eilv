@@ -16,9 +16,9 @@ id: 49e30b98-50bd-5e8f-ae47-97a6c6e212a4
 ---
 data:
   definition:
-  - content: time required for an {17-25-058, output} to fall from a stated high percentage
-      to a stated lower percentage of the maximum value when a steady {17-25-057,
-      input} is instantaneously removed
+  - content: time required for an {{17-25-058, output}} to fall from a stated high
+      percentage to a stated lower percentage of the maximum value when a steady {{17-25-057,
+      input}} is instantaneously removed
     type: intensional
   examples: []
   notes:

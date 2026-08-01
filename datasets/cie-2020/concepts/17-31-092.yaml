@@ -16,9 +16,9 @@ id: 1b6d1476-0745-5e41-91c2-a0ce77232529
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} that provides the visual contact for the driver
-      still in a {17-31-081, road tunnel} with the open road beyond the {17-31-081,
-      road tunnel}"
+  - content: "{{17-29-001, lighting}} that provides the visual contact for the driver
+      still in a {{17-31-081, road tunnel}} with the open road beyond the {{17-31-081,
+      road tunnel}}"
     type: intensional
   examples: []
   notes:

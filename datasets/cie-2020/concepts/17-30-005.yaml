@@ -16,13 +16,13 @@ id: 58374732-6563-5b93-bcee-2726ef2536dc
 ---
 data:
   definition:
-  - content: "{17-30-001, luminaire} that distributes light over a comparatively wide
-      {17-21-109, solid angle}"
+  - content: "{{17-30-001, luminaire}} that distributes light over a comparatively
+      wide {{17-21-109, solid angle}}"
     type: intensional
   examples: []
   notes:
   - content: In contrast with wide angle luminaires, the term "narrow angle luminaire"
-      is not defined since practically these are {17-30-030, projector}s.
+      is not defined since practically these are {{17-30-030, projector}}s.
     type: intensional
   - content: This entry was numbered 845-10-04 in IEC 60050-845:1987.
     type: intensional

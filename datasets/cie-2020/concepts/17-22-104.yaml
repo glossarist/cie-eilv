@@ -16,12 +16,12 @@ id: 64347ffd-bd32-52e6-87e0-0b65a3eb15f1
 ---
 data:
   definition:
-  - content: "{17-21-050, luminance} that, when added by superposition to the {17-21-050,
-      luminance} of both the adapting background and the object, makes the {17-22-087,
-      luminance threshold} or the {17-22-088, luminance difference threshold} the
-      same under the two following conditions: (1) {17-22-098, glare} present, but
-      no additional {17-21-050, luminance}; (2) additional {17-21-050, luminance}
-      present, but no {17-22-098, glare}"
+  - content: "{{17-21-050, luminance}} that, when added by superposition to the {{17-21-050,
+      luminance}} of both the adapting background and the object, makes the {{17-22-087,
+      luminance threshold}} or the {{17-22-088, luminance difference threshold}} the
+      same under the two following conditions: (1) {{17-22-098, glare}} present, but
+      no additional {{17-21-050, luminance}}; (2) additional {{17-21-050, luminance}}
+      present, but no {{17-22-098, glare}}"
     type: intensional
   examples: []
   notes:

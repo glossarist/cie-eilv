@@ -16,11 +16,11 @@ id: 19fc40ec-8a90-5faf-8aa6-5b29781a7c76
 ---
 data:
   definition:
-  - content: equipment for {17-29-001, lighting} or its control
+  - content: equipment for {{17-29-001, lighting}} or its control
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-29-003, illuminating engineering}".
+  - content: See also "{{17-29-003, illuminating engineering}}".
     type: intensional
   - content: This entry was numbered 845-09-02 in IEC 60050-845:1987.
     type: intensional

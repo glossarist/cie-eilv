@@ -16,10 +16,10 @@ id: e378aa60-41c9-538b-bf96-59fe484cef18
 ---
 data:
   definition:
-  - content: quotient of {17-21-060, illuminance} produced by the {17-29-034, lighting
-      installation} after a certain <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> and the {17-21-060, illuminance} produced by the installation when
-      new
+  - content: quotient of {{17-21-060, illuminance}} produced by the {{17-29-034, lighting
+      installation}} after a certain <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+      interval</a> and the {{17-21-060, illuminance}} produced by the installation
+      when new
     type: intensional
   examples: []
   notes:
@@ -29,9 +29,9 @@ data:
       of the above quotient.
     type: intensional
   - content: The maintenance factor takes into account light losses caused by dirt
-      accumulation on {17-30-001, luminaire}s and room surfaces (in interiors) or
+      accumulation on {{17-30-001, luminaire}}s and room surfaces (in interiors) or
       other relevant surfaces (in exteriors, where appropriate), and the decrease
-      in the {17-21-039, luminous flux} of lamps.
+      in the {{17-21-039, luminous flux}} of lamps.
     type: intensional
   - content: The maintenance factor has unit one.
     type: intensional

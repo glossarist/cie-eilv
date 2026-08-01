@@ -16,9 +16,9 @@ id: 91d5e7c4-6331-5e5c-b566-c73af3faf40d
 ---
 data:
   definition:
-  - content: distance from a {17-21-032, source} at which the {17-21-053, irradiance}
-      equals the applicable {17-26-072, exposure limit} for the skin for the {17-26-071,
-      exposure duration}
+  - content: distance from a {{17-21-032, source}} at which the {{17-21-053, irradiance}}
+      equals the applicable {{17-26-072, exposure limit}} for the skin for the {{17-26-071,
+      exposure duration}}
     type: intensional
   examples: []
   notes:

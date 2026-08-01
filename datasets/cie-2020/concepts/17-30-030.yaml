@@ -16,9 +16,9 @@ id: b4c6b854-3e54-5648-8e06-6676042ac494
 ---
 data:
   definition:
-  - content: "{17-30-001, luminaire} using {17-24-047, reflection} and/or {17-24-108,
-      refraction} to increase the {17-21-045, luminous intensity} within a limited
-      {17-21-109, solid angle}"
+  - content: "{{17-30-001, luminaire}} using {{17-24-047, reflection}} and/or {{17-24-108,
+      refraction}} to increase the {{17-21-045, luminous intensity}} within a limited
+      {{17-21-109, solid angle}}"
     type: intensional
   examples: []
   notes:

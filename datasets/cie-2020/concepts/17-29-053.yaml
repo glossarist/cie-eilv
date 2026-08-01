@@ -16,11 +16,11 @@ id: 3848aec9-0bd1-5acf-853d-0a8ca0a6ae56
 ---
 data:
   definition:
-  - content: quotient of the {17-29-047, downward flux} of a {17-30-001, luminaire},
+  - content: quotient of the {{17-29-047, downward flux}} of a {{17-30-001, luminaire}},
       measured under specified practical conditions with its own lamps and equipment,
-      and the sum of the individual {17-21-039, luminous flux}es of the same lamps
-      when operated outside the {17-30-001, luminaire} with the same equipment, under
-      specified conditions
+      and the sum of the individual {{17-21-039, luminous flux}}es of the same lamps
+      when operated outside the {{17-30-001, luminaire}} with the same equipment,
+      under specified conditions
     type: intensional
   examples: []
   notes:

@@ -16,15 +16,15 @@ id: e28ebce8-bb14-5e9f-bee2-fb559291ee4e
 ---
 data:
   definition:
-  - content: "{17-27-008, electric lamp} based on LED technology"
+  - content: "{{17-27-008, electric lamp}} based on LED technology"
     type: intensional
   examples: []
   notes:
-  - content: An LED lamp can be an {17-27-055, integrated LED lamp} (LEDi lamp), or
-      a {17-27-056, semi-integrated LED lamp} (LEDsi lamp), or a {17-27-057, non-integrated
-      LED lamp} (LEDni lamp).
+  - content: An LED lamp can be an {{17-27-055, integrated LED lamp}} (LEDi lamp),
+      or a {{17-27-056, semi-integrated LED lamp}} (LEDsi lamp), or a {{17-27-057,
+      non-integrated LED lamp}} (LEDni lamp).
     type: intensional
-  - content: LED lamps can incorporate at least one {17-27-058, LED module}.
+  - content: LED lamps can incorporate at least one {{17-27-058, LED module}}.
     type: intensional
   sources:
   - origin:

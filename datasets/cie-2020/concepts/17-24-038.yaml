@@ -16,9 +16,9 @@ id: 9747d2af-b987-58e5-a1ff-f327fcb947b9
 ---
 data:
   definition:
-  - content: "{17-21-016, spectral line} that is the result of direct transition from
-      an excited {17-24-019, energy level} to the ground level, or vice versa, without
-      going through intermediate levels"
+  - content: "{{17-21-016, spectral line}} that is the result of direct transition
+      from an excited {{17-24-019, energy level}} to the ground level, or vice versa,
+      without going through intermediate levels"
     type: intensional
   examples: []
   notes:

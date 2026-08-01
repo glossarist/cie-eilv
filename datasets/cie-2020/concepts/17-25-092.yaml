@@ -17,13 +17,13 @@ id: 1562ef90-485e-5792-816e-4447b3fa3cbb
 data:
   definition:
   - content: angular distribution of the radiation incident on the sample being measured
-      with respect to the centre of the {17-25-114, sampling aperture}
+      with respect to the centre of the {{17-25-114, sampling aperture}}
     type: intensional
   examples: []
   notes:
-  - content: The influx geometry and {17-25-093, efflux geometry} together specify
-      the geometric nature of the measurement for {17-24-064, reflectance} and {17-24-065,
-      transmittance} measurements.
+  - content: The influx geometry and {{17-25-093, efflux geometry}} together specify
+      the geometric nature of the measurement for {{17-24-064, reflectance}} and {{17-24-065,
+      transmittance}} measurements.
     type: intensional
   - content: This entry was numbered 17-577, 17-611, and 17-571 in CIE S 017:2011.
     type: intensional

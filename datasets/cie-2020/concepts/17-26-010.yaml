@@ -16,8 +16,8 @@ id: 82f802c8-baef-5f79-bfea-bd67d49dd3e4
 ---
 data:
   definition:
-  - content: retinal injury produced by staring at an extremely {17-22-061, bright}
-      {17-21-032, source} of {17-21-002, optical radiation}
+  - content: retinal injury produced by staring at an extremely {{17-22-061, bright}}
+      {{17-21-032, source}} of {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:

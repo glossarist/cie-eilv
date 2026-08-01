@@ -16,9 +16,9 @@ id: 7f8667e2-bb07-58bb-8376-2765447c9923
 ---
 data:
   definition:
-  - content: 'completely overcast sky for which the quotient of its {17-21-050, luminance},
+  - content: 'completely overcast sky for which the quotient of its {{17-21-050, luminance}},
       <i>L<sub>γ</sub></i>, in the direction at an angle, <i>γ</i>, above the horizon
-      and its {17-21-050, luminance}, <i>L</i><sub>z</sub>, at the zenith is given
+      and its {{17-21-050, luminance}}, <i>L</i><sub>z</sub>, at the zenith is given
       by the relation:'
     type: intensional
   examples: []

@@ -16,8 +16,8 @@ id: 6bfe1521-331f-57f0-aa40-357eec1a2bb0
 ---
 data:
   definition:
-  - content: vertical distance between the centre of the {17-30-001, luminaire} and
-      the ground
+  - content: vertical distance between the centre of the {{17-30-001, luminaire}}
+      and the ground
     type: intensional
   examples: []
   notes:

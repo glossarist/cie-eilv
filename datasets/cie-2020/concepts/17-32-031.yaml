@@ -16,8 +16,8 @@ id: 4287cc67-8eaf-53c1-95de-f9d71d2f07fd
 ---
 data:
   definition:
-  - content: neutral colour with the highest {17-21-050, luminance} that can be produced
-      by an imaging medium in normal use, measured using the specified measurement
+  - content: neutral colour with the highest {{17-21-050, luminance}} that can be
+      produced by an imaging medium in normal use, measured using the specified measurement
       geometry
     type: intensional
   examples: []

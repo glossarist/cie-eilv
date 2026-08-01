@@ -16,10 +16,10 @@ id: ba521b62-d44e-5686-84a9-1b48e1b122c3
 ---
 data:
   definition:
-  - content: vector quantity equal to the directional {17-21-060, illuminance} expressed
-      as the maximum difference between the {17-21-060, illuminance}s on opposite
+  - content: vector quantity equal to the directional {{17-21-060, illuminance}} expressed
+      as the maximum difference between the {{17-21-060, illuminance}}s on opposite
       sides of an element of surface through the point considered, that vector being
-      normal to and away from the side with the greater {17-21-060, illuminance}
+      normal to and away from the side with the greater {{17-21-060, illuminance}}
     type: intensional
   examples: []
   notes:

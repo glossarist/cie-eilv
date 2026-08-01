@@ -16,12 +16,12 @@ id: 3736e2c2-8e66-5160-8f6d-32501ab0f2b6
 ---
 data:
   definition:
-  - content: chemical change caused by natural {17-21-002, optical radiation}
+  - content: chemical change caused by natural {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Production of ozone in the atmosphere; {17-26-078, photosynthesis}; daylight
-      vision.
+  - content: Production of ozone in the atmosphere; {{17-26-078, photosynthesis}};
+      daylight vision.
     type: intensional
   - content: This entry was numbered 845-06-06 in IEC 60050-845:1987.
     type: intensional

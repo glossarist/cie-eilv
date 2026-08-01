@@ -16,7 +16,7 @@ id: bb40278f-956e-5345-88a5-7986543abb41
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} level due to lighting in the viewing environment,
+  - content: "{{17-21-060, illuminance}} level due to lighting in the viewing environment,
       excluding that from the display, measured in the plane of the display"
     type: intensional
   examples: []

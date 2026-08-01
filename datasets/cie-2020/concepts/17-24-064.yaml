@@ -16,20 +16,20 @@ id: 6a7c3a34-ffd0-51eb-a380-2af482c9c7b8
 ---
 data:
   definition:
-  - content: quotient of reflected {17-21-038, radiant flux}, <i>Φ</i><sub>r</sub>,
-      and incident {17-21-038, radiant flux}, <i>Φ</i><sub>m</sub>
+  - content: quotient of reflected {{17-21-038, radiant flux}}, <i>Φ</i><sub>r</sub>,
+      and incident {{17-21-038, radiant flux}}, <i>Φ</i><sub>m</sub>
     type: intensional
   examples: []
   notes:
-  - content: Reflectance is also defined spectrally in terms of {17-21-025, wavelength},
+  - content: Reflectance is also defined spectrally in terms of {{17-21-025, wavelength}},
       in which case, "spectral" is added before the quantity name.
     type: intensional
   - content: Due to energy conservation, <i>α</i> + <i>ρ</i> + <i>τ</i> = 1 except
-      when {17-21-017, polarized radiation} is observed, where <i>α</i> is absorptance
-      and <i>τ</i> is {17-24-065, transmittance}.
+      when {{17-21-017, polarized radiation}} is observed, where <i>α</i> is absorptance
+      and <i>τ</i> is {{17-24-065, transmittance}}.
     type: intensional
-  - content: Reflectance, <i>ρ</i>, is the sum of {17-24-066, regular reflectance},
-      <i>ρ</i><sub>r</sub>, and {17-24-068, diffuse reflectance}, <i>ρ</i><sub>d</sub>:<sub>
+  - content: Reflectance, <i>ρ</i>, is the sum of {{17-24-066, regular reflectance}},
+      <i>ρ</i><sub>r</sub>, and {{17-24-068, diffuse reflectance}}, <i>ρ</i><sub>d</sub>:<sub>
       </sub><i>ρ</i> = <i>ρ</i><sub>r</sub> + <i>ρ</i><sub>d</sub>.
     type: intensional
   - content: The reflectance has unit one.

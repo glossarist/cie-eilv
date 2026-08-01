@@ -16,9 +16,9 @@ id: dd8e088d-5d55-5547-ae29-b213828fc3ff
 ---
 data:
   definition:
-  - content: cloudless sky for which the relative {17-21-050, luminance} distribution
-      is given by the {17-21-050, luminance} gradation function, <i>φ</i>(<i>Z</i>),
-      which relates the {17-21-050, luminance} of a sky element to its zenith angle,
+  - content: cloudless sky for which the relative {{17-21-050, luminance}} distribution
+      is given by the {{17-21-050, luminance}} gradation function, <i>φ</i>(<i>Z</i>),
+      which relates the {{17-21-050, luminance}} of a sky element to its zenith angle,
       <i>Z </i>
     type: intensional
   examples: []

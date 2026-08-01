@@ -17,23 +17,23 @@ id: 35c8e6e1-c11f-5a2f-b865-42efda14ae97
 data:
   definition:
   - content: |-
-      quotient NC/ND of two collinear distances on the {17-23-054, chromaticity diagram} of the CIE 1931 or 1964 standard colorimetric systems, the first distance being that between the point C representing the {17-23-002, colour stimulus} considered and the point N representing the specified {17-23-009, achromatic stimulus}, the second distance being that between the point N and the point D on the {17-23-056, spectrum locus} at the {17-23-062, dominant wavelength} of the {17-23-002, colour stimulus} considered, leading to the following expressions:
+      quotient NC/ND of two collinear distances on the {{17-23-054, chromaticity diagram}} of the CIE 1931 or 1964 standard colorimetric systems, the first distance being that between the point C representing the {{17-23-002, colour stimulus}} considered and the point N representing the specified {{17-23-009, achromatic stimulus}}, the second distance being that between the point N and the point D on the {{17-23-056, spectrum locus}} at the {{17-23-062, dominant wavelength}} of the {{17-23-002, colour stimulus}} considered, leading to the following expressions:
 
       and
 
-      where (<i>x</i>, <i>y</i>), (<i>x</i><sub>n</sub>, <i>y</i><sub>n</sub>), (<i>x</i><sub>d</sub>, <i>y</i><sub>d</sub>) are the <i>x</i>, <i>y</i> {17-23-053, chromaticity coordinates} of the points C, N and D respectively
+      where (<i>x</i>, <i>y</i>), (<i>x</i><sub>n</sub>, <i>y</i><sub>n</sub>), (<i>x</i><sub>d</sub>, <i>y</i><sub>d</sub>) are the <i>x</i>, <i>y</i> {{17-23-053, chromaticity coordinates}} of the points C, N and D respectively
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, the {17-23-011, monochromatic stimulus}
-      is replaced by a stimulus whose {17-23-052, chromaticity} is represented by
-      a point on the {17-23-058, purple boundary}.
+  - content: In the case of purple stimuli, the {{17-23-011, monochromatic stimulus}}
+      is replaced by a stimulus whose {{17-23-052, chromaticity}} is represented by
+      a point on the {{17-23-058, purple boundary}}.
     type: intensional
   - content: The formulae in <i>x</i> and <i>y</i> are equivalent, but greater precision
       is given by the formula which has the greater value in the numerator.
     type: intensional
-  - content: 'The excitation purity, <i>p</i><sub>e</sub>, is related to the {17-23-065,
-      colorimetric purity}, <i>p</i><sub>c</sub>, by the equation:'
+  - content: 'The excitation purity, <i>p</i><sub>e</sub>, is related to the {{17-23-065,
+      colorimetric purity}}, <i>p</i><sub>c</sub>, by the equation:'
     type: intensional
   - content: The excitation purity has unit one.
     type: intensional

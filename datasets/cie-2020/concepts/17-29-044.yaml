@@ -16,17 +16,17 @@ id: 8b9fd6d9-e936-57ff-a086-e0047f08f065
 ---
 data:
   definition:
-  - content: "{17-21-039, luminous flux} emitted by the {17-27-001, light source}
+  - content: "{{17-21-039, luminous flux}} emitted by the {{17-27-001, light source}}
       under operating conditions, within a cone having a vertically downward axis
-      and enclosing the {17-21-109, solid angle}"
+      and enclosing the {{17-21-109, solid angle}}"
     type: intensional
   examples: []
   notes:
   - content: The cumulative flux is expressed in lumen (lm).
     type: intensional
-  - content: In {17-25-005, radiometry} the term "cumulative flux" is also used with
-      respect to {17-21-038, radiant flux} instead of {17-21-039, luminous flux} and
-      in that case is expressed in watt (W).
+  - content: In {{17-25-005, radiometry}} the term "cumulative flux" is also used
+      with respect to {{17-21-038, radiant flux}} instead of {{17-21-039, luminous
+      flux}} and in that case is expressed in watt (W).
     type: intensional
   - content: This entry was numbered 845-09-31 in IEC 60050-845:1987.
     type: intensional

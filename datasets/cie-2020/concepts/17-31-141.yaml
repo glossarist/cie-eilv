@@ -16,9 +16,9 @@ id: 1519978d-9cf4-5477-8ba6-4e8e9b9ee128
 ---
 data:
   definition:
-  - content: quotient of the minimum {17-21-050, luminance} and the maximum {17-21-050,
-      luminance} in the {17-31-138, longitudinal direction} along the centreline of
-      each lane
+  - content: quotient of the minimum {{17-21-050, luminance}} and the maximum {{17-21-050,
+      luminance}} in the {{17-31-138, longitudinal direction}} along the centreline
+      of each lane
     type: intensional
   examples: []
   notes:

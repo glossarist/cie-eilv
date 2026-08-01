@@ -16,8 +16,8 @@ id: e0c58f34-2bf0-52b3-ad32-c0e38bfb99e7
 ---
 data:
   definition:
-  - content: quotient of the sum of the {17-21-109, solid angle}s subtended by clouds
-      and the {17-21-109, solid angle} 2π sr of the whole sky
+  - content: quotient of the sum of the {{17-21-109, solid angle}}s subtended by clouds
+      and the {{17-21-109, solid angle}} 2π sr of the whole sky
     type: intensional
   examples: []
   notes:

@@ -17,7 +17,7 @@ id: 0f1e0036-12fd-5751-bd35-04db2c1823d2
 data:
   definition:
   - content: calculated or measured amount of weighted net delivered energy actually
-      used or estimated to meet different needs associated with {17-29-001, lighting}
+      used or estimated to meet different needs associated with {{17-29-001, lighting}}
       within a space or interior/exterior environment, compared to a defined reference
       value
     type: intensional

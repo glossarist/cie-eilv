@@ -16,15 +16,15 @@ id: ae2d221e-6378-5f8b-83a9-c696b22ea661
 ---
 data:
   definition:
-  - content: product of {17-21-047, geometric extent} and the squared {17-24-109,
-      refractive index} of a medium through which the beam propagates
+  - content: product of {{17-21-047, geometric extent}} and the squared {{17-24-109,
+      refractive index}} of a medium through which the beam propagates
     type: intensional
   examples: []
   notes:
   - content: The optical extent is invariant and remains constant when the beam is
       propagating through successive non-diffusing media.
     type: intensional
-  - content: See also "{17-21-047, geometric extent}".
+  - content: See also "{{17-21-047, geometric extent}}".
     type: intensional
   - content: The optical extent is expressed in square metre times steradian (m<sup>2</sup>·sr).
     type: intensional

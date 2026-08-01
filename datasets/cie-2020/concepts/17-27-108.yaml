@@ -16,13 +16,13 @@ id: 110e9932-cde6-5056-bc9b-dd71404d8fdf
 ---
 data:
   definition:
-  - content: preconditioning period of the {17-27-001, light source} before {17-27-107,
-      initial value}s are taken
+  - content: preconditioning period of the {{17-27-001, light source}} before {{17-27-107,
+      initial value}}s are taken
     type: intensional
   examples: []
   notes:
-  - content: A {17-30-001, luminaire} integrated with a {17-27-001, light source},
-      such as an integrated {17-30-056, LED luminaire}, is also applied.
+  - content: A {{17-30-001, luminaire}} integrated with a {{17-27-001, light source}},
+      such as an integrated {{17-30-056, LED luminaire}}, is also applied.
     type: intensional
   sources:
   - origin:

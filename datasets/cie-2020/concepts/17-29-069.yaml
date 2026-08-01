@@ -16,9 +16,9 @@ id: ddbc5544-60e5-5b2e-bdaf-455be16cd7f2
 ---
 data:
   definition:
-  - content: quotient of the {17-21-039, luminous flux} received by a {17-29-067,
-      reference surface} and the sum of the rated individual {17-21-039, luminous
-      flux}es of the lamps of the installation
+  - content: quotient of the {{17-21-039, luminous flux}} received by a {{17-29-067,
+      reference surface}} and the sum of the rated individual {{17-21-039, luminous
+      flux}}es of the lamps of the installation
     type: intensional
   examples: []
   notes:

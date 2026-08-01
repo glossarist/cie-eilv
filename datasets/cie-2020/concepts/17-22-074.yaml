@@ -16,20 +16,20 @@ id: 8bf60a4f-2b8e-5d0e-9570-86d13878964c
 ---
 data:
   definition:
-  - content: "{17-22-072, colourfulness} of an area judged as a proportion of the
-      {17-22-059, brightness} of a similarly illuminated area that appears grey, white
-      or highly transmitting"
+  - content: "{{17-22-072, colourfulness}} of an area judged as a proportion of the
+      {{17-22-059, brightness}} of a similarly illuminated area that appears grey,
+      white or highly transmitting"
     type: intensional
   examples: []
   notes:
-  - content: For given viewing conditions and at {17-21-050, luminance} levels within
-      the range of {17-22-016, photopic vision}, a {17-23-002, colour stimulus} perceived
-      as a {17-22-047, related colour}, of a given {17-23-052, chromaticity} and from
-      a surface that has a given {17-24-077, luminance factor}, exhibits approximately
-      constant chroma for all levels of {17-21-060, illuminance} except when the {17-22-059,
-      brightness} is very high. In the case of {17-22-048, unrelated colour}s, at
-      a given level of {17-21-060, illuminance}, if the {17-24-077, luminance factor}
-      is increased, the chroma usually increases.
+  - content: For given viewing conditions and at {{17-21-050, luminance}} levels within
+      the range of {{17-22-016, photopic vision}}, a {{17-23-002, colour stimulus}}
+      perceived as a {{17-22-047, related colour}}, of a given {{17-23-052, chromaticity}}
+      and from a surface that has a given {{17-24-077, luminance factor}}, exhibits
+      approximately constant chroma for all levels of {{17-21-060, illuminance}} except
+      when the {{17-22-059, brightness}} is very high. In the case of {{17-22-048,
+      unrelated colour}}s, at a given level of {{17-21-060, illuminance}}, if the
+      {{17-24-077, luminance factor}} is increased, the chroma usually increases.
     type: intensional
   - content: This entry was numbered 845-02-42 in IEC 60050-845:1987.
     type: intensional

@@ -16,8 +16,8 @@ id: bbc2c6fd-ea0d-5594-bc0e-54c2e034f96e
 ---
 data:
   definition:
-  - content: process of {17-24-001, emission} by quantum transition from an excited
-      {17-24-019, energy level} to a lower level, triggered by incident radiation
+  - content: process of {{17-24-001, emission}} by quantum transition from an excited
+      {{17-24-019, energy level}} to a lower level, triggered by incident radiation
       having the frequency of that transition
     type: intensional
   examples: []

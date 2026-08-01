@@ -16,11 +16,11 @@ id: 88604856-9850-505d-bab3-20bb59543251
 ---
 data:
   definition:
-  - content: quotient of the upward {17-21-039, luminous flux} of a {17-30-001, luminaire},
-      measured under specified conditions with its own lamp(s) and equipment, and
-      the sum of the individual {17-21-039, luminous flux}es of the same lamp(s) when
-      operated outside the {17-30-001, luminaire} with the same equipment, under specified
-      practical conditions
+  - content: quotient of the upward {{17-21-039, luminous flux}} of a {{17-30-001,
+      luminaire}}, measured under specified conditions with its own lamp(s) and equipment,
+      and the sum of the individual {{17-21-039, luminous flux}}es of the same lamp(s)
+      when operated outside the {{17-30-001, luminaire}} with the same equipment,
+      under specified practical conditions
     type: intensional
   examples: []
   notes:

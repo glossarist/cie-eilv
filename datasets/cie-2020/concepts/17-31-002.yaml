@@ -16,9 +16,9 @@ id: 221a249b-7515-542f-80db-6f43ce0382f4
 ---
 data:
   definition:
-  - content: device that provides a {17-31-001, visual signal} by virtue of its situation,
-      shape, {17-22-040, colour}, or pattern, and sometimes by the use of {17-31-132,
-      symbol}s or alphanumeric characters
+  - content: device that provides a {{17-31-001, visual signal}} by virtue of its
+      situation, shape, {{17-22-040, colour}}, or pattern, and sometimes by the use
+      of {{17-31-132, symbol}}s or alphanumeric characters
     type: intensional
   examples: []
   notes:

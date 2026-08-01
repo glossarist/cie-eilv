@@ -16,16 +16,16 @@ id: 9bea0d49-8e17-5d71-b66d-2e72ee056aaf
 ---
 data:
   definition:
-  - content: "{17-23-041, colour space} defined by the characteristics of a real or
-      idealized imaging device"
+  - content: "{{17-23-041, colour space}} defined by the characteristics of a real
+      or idealized imaging device"
     type: intensional
   examples: []
   notes:
   - content: Device-dependent colour spaces having a simple functional relationship
-      to CIE colorimetry can also be categorized as {17-23-042, colorimetric colour
-      space}s. For example, additive RGB colour spaces corresponding to real or idealized
-      cathode ray tube (CRT) displays can be treated as {17-23-042, colorimetric colour
-      space}s.
+      to CIE colorimetry can also be categorized as {{17-23-042, colorimetric colour
+      space}}s. For example, additive RGB colour spaces corresponding to real or idealized
+      cathode ray tube (CRT) displays can be treated as {{17-23-042, colorimetric
+      colour space}}s.
     type: intensional
   - content: This entry was numbered 17-228 in CIE S 017:2011.
     type: intensional

@@ -21,8 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: "{17-24-065, transmittance}, <i>τ</i>, is the sum of {17-24-067, regular
-      transmittance}, <i>τ</i><sub>r</sub>, and diffuse transmittance, <i>τ</i><sub>d</sub>:<sub>
+  - content: "{{17-24-065, transmittance}}, <i>τ</i>, is the sum of {{17-24-067, regular
+      transmittance}}, <i>τ</i><sub>r</sub>, and diffuse transmittance, <i>τ</i><sub>d</sub>:<sub>
       </sub><i>τ</i> = <i>τ</i><sub>r</sub> + <i>τ</i><sub>d</sub>."
     type: intensional
   - content: The diffuse transmittance has unit one.

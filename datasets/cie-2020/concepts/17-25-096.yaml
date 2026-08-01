@@ -16,21 +16,22 @@ id: 8ccb8ae6-7fab-594f-9445-a291ced6637b
 ---
 data:
   definition:
-  - content: "{17-21-099, irradiation} of reflecting materials at 45° to the normal,
+  - content: "{{17-21-099, irradiation}} of reflecting materials at 45° to the normal,
       from all azimuthal directions, simultaneously"
     type: intensional
   examples: []
   notes:
-  - content: In measuring the {17-23-001, colour}s of reflecting samples by irradiating
+  - content: In measuring the {{17-23-001, colour}}s of reflecting samples by irradiating
       with the forty-five degree annular geometry, the effects of texture and directionality
       are minimized. The forty-five degree annular geometry can be achieved by the
-      use of a small {17-21-032, source} and an elliptic ring reflector or other aspheric
-      optics.
+      use of a small {{17-21-032, source}} and an elliptic ring reflector or other
+      aspheric optics.
     type: intensional
   - content: Forty-five degree annular geometry is sometimes approximated by the use
-      of a number of {17-21-032, source}s in a ring or a number of fibre bundles illuminated
-      by a single {17-21-032, source} and terminated in a ring. Such an approximation
-      to annular geometry is called "circumferential geometry", with notation "45°c".
+      of a number of {{17-21-032, source}}s in a ring or a number of fibre bundles
+      illuminated by a single {{17-21-032, source}} and terminated in a ring. Such
+      an approximation to annular geometry is called "circumferential geometry", with
+      notation "45°c".
     type: intensional
   - content: This entry was numbered 17-469 in CIE S 017:2011.
     type: intensional

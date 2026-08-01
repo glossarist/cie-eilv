@@ -16,8 +16,8 @@ id: 9da57c87-576f-5e85-a0de-180ed471d811
 ---
 data:
   definition:
-  - content: quotient of the {17-21-050, luminance} of a field and the {17-21-060,
-      illuminance} on the plane of that field, for a {17-29-020, diffused lighting}
+  - content: quotient of the {{17-21-050, luminance}} of a field and the {{17-21-060,
+      illuminance}} on the plane of that field, for a {{17-29-020, diffused lighting}}
       and an observation direction forming a grazing angle with the road surface
     type: intensional
   examples: []

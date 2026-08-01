@@ -16,15 +16,15 @@ id: e8dd30fb-96f3-53f5-a034-bd603a21632a
 ---
 data:
   definition:
-  - content: perception of visual unsteadiness induced by a {17-22-125, light stimulus}
-      the {17-21-050, luminance} or {17-21-029, spectral distribution} of which fluctuates
-      with time, for a static observer in a static environment
+  - content: perception of visual unsteadiness induced by a {{17-22-125, light stimulus}}
+      the {{17-21-050, luminance}} or {{17-21-029, spectral distribution}} of which
+      fluctuates with time, for a static observer in a static environment
     type: intensional
   examples: []
   notes:
-  - content: The fluctuations of the {17-22-125, light stimulus} with time include
-      periodic and non-periodic fluctuations and can be induced by the {17-27-001,
-      light source} itself, the power source or other influencing factors.
+  - content: The fluctuations of the {{17-22-125, light stimulus}} with time include
+      periodic and non-periodic fluctuations and can be induced by the {{17-27-001,
+      light source}} itself, the power source or other influencing factors.
     type: intensional
   - content: This entry was numbered 845-02-49 in IEC 60050-845:1987.
     type: intensional

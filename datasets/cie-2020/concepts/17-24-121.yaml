@@ -17,7 +17,7 @@ id: '058f0f8d-0900-5b87-8e0a-a731e4fee1c6'
 data:
   definition:
   - content: medium that transmits no apparent radiation in the spectral range of
-      interest due to {17-24-081, absorption} or diffusion of the incident radiation
+      interest due to {{17-24-081, absorption}} or diffusion of the incident radiation
       flux
     type: intensional
   examples: []

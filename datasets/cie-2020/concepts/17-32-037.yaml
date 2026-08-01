@@ -17,13 +17,13 @@ id: 16816e74-6881-546e-ae34-0fb74c835963
 data:
   definition:
   - content: display technology that modulates the light from a backlight to make
-      a grey scale image and uses red, green, and blue {17-24-114, colour filter}s
+      a grey scale image and uses red, green, and blue {{17-24-114, colour filter}}s
       to make a colour image
     type: intensional
   examples: []
   notes:
   - content: The modulator consists of a liquid crystal layer that can change the
-      polarization of the light and two (in most cases crossed) {17-24-014, polarizer}s
+      polarization of the light and two (in most cases crossed) {{17-24-014, polarizer}}s
       that block the light from the backlight in the off state.
     type: intensional
   - content: This entry was numbered 845-04-99 in IEC 60050-845:1987.

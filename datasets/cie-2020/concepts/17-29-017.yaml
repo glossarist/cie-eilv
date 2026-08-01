@@ -16,10 +16,10 @@ id: afb37ad4-ed15-57e3-8589-d41527078f6c
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} by means of {17-30-001, luminaire}s having a distribution
-      of {17-21-045, luminous intensity} such that the fraction of the emitted {17-21-039,
-      luminous flux} directly reaching the {17-29-068, working plane}, assumed to
-      be of infinite extent, is 10 % to 40 %"
+  - content: "{{17-29-001, lighting}} by means of {{17-30-001, luminaire}}s having
+      a distribution of {{17-21-045, luminous intensity}} such that the fraction of
+      the emitted {{17-21-039, luminous flux}} directly reaching the {{17-29-068,
+      working plane}}, assumed to be of infinite extent, is 10 % to 40 %"
     type: intensional
   examples: []
   notes:

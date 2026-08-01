@@ -16,18 +16,19 @@ id: 18539b3c-5d3e-5c8a-be8c-f89d19d12d2d
 ---
 data:
   definition:
-  - content: "{17-30-001, luminaire} comprising an assembly of series-connected {17-27-008,
-      electric lamp}s, parallel-connected {17-27-008, electric lamp}s or series/parallel-connected
-      {17-27-008, electric lamp}s and interconnecting insulated conductors"
+  - content: "{{17-30-001, luminaire}} comprising an assembly of series-connected
+      {{17-27-008, electric lamp}}s, parallel-connected {{17-27-008, electric lamp}}s
+      or series/parallel-connected {{17-27-008, electric lamp}}s and interconnecting
+      insulated conductors"
     type: intensional
   examples: []
   notes:
-  - content: For lighting chains with non-standardized {17-27-008, electric lamp}s
-      (e.g. {17-27-008, electric lamp}s of the push-in type), the {17-27-008, electric
-      lamp}s are regarded as part of the chain.
+  - content: For lighting chains with non-standardized {{17-27-008, electric lamp}}s
+      (e.g. {{17-27-008, electric lamp}}s of the push-in type), the {{17-27-008, electric
+      lamp}}s are regarded as part of the chain.
     type: intensional
-  - content: For lighting chains with non-removable {17-27-008, electric lamp}s, the
-      {17-27-008, electric lamp}s are regarded as part of the chain.
+  - content: For lighting chains with non-removable {{17-27-008, electric lamp}}s,
+      the {{17-27-008, electric lamp}}s are regarded as part of the chain.
     type: intensional
   - content: A lighting chain can incorporate control devices (e.g. flasher units).
     type: intensional

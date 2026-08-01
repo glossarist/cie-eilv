@@ -16,7 +16,8 @@ id: c6b30ce2-c6ad-5203-8103-9195ca68d80b
 ---
 data:
   definition:
-  - content: temperature related to specified performance of the {17-27-058, LED module}
+  - content: temperature related to specified performance of the {{17-27-058, LED
+      module}}
     type: intensional
   examples: []
   notes:

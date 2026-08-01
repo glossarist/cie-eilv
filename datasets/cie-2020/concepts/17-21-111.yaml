@@ -16,24 +16,26 @@ id: 82d2dcfd-9cdf-59df-af89-ff20cff4b92e
 ---
 data:
   definition:
-  - content: part of the luminous flux of a {17-27-001, light source} that contributes
-      predominantly to the {17-29-001, lighting} task
+  - content: part of the luminous flux of a {{17-27-001, light source}} that contributes
+      predominantly to the {{17-29-001, lighting}} task
     type: intensional
   examples: []
   notes:
-  - content: For non-directional {17-27-001, light source}s the useful luminous flux
-      is the total {17-21-039, luminous flux} of the {17-27-001, light source}.
+  - content: For non-directional {{17-27-001, light source}}s the useful luminous
+      flux is the total {{17-21-039, luminous flux}} of the {{17-27-001, light source}}.
     type: intensional
-  - content: For directional {17-27-001, light source}s the useful luminous flux is
-      the {17-21-110, partial luminous flux} in a defined cone angle, the axis of
-      the cone being the {17-27-076, optical beam axis} of the {17-27-001, light source}.
+  - content: For directional {{17-27-001, light source}}s the useful luminous flux
+      is the {{17-21-110, partial luminous flux}} in a defined cone angle, the axis
+      of the cone being the {{17-27-076, optical beam axis}} of the {{17-27-001, light
+      source}}.
     type: intensional
   - content: The cone angle, <i>α</i>, which can be expressed either in degrees (°)
       or radians (rad), is given by the full conic angle and has to be specified,
       e.g. <i>Φ</i><sub>u,90°</sub> or <i>Φ</i><sub>u,π/2</sub>.
     type: intensional
-  - content: The {17-27-076, optical beam axis} of a {17-27-001, light source} is
-      the axis about which the {17-21-045, luminous intensity} is substantially symmetrical.
+  - content: The {{17-27-076, optical beam axis}} of a {{17-27-001, light source}}
+      is the axis about which the {{17-21-045, luminous intensity}} is substantially
+      symmetrical.
     type: intensional
   - content: The useful luminous flux is expressed in lumen (lm).
     type: intensional

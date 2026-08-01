@@ -16,11 +16,11 @@ id: 276d2668-7da5-54af-8f66-b6b1856772ca
 ---
 data:
   definition:
-  - content: quotient of the {17-21-049, radiance} per unit emission bandpass, d<i>λ</i>,
-      at a specified emission {17-21-025, wavelength}, <i>λ</i>, due to {17-24-022,
-      photoluminescence} from the specimen when irradiated at a specified {17-24-020,
-      excitation} wavelength, <i>μ</i>, and the {17-21-049, radiance} of the {17-24-060,
-      perfect reflecting diffuser} identically irradiated and viewed
+  - content: quotient of the {{17-21-049, radiance}} per unit emission bandpass, d<i>λ</i>,
+      at a specified emission {{17-21-025, wavelength}}, <i>λ</i>, due to {{17-24-022,
+      photoluminescence}} from the specimen when irradiated at a specified {{17-24-020,
+      excitation}} wavelength, <i>μ</i>, and the {{17-21-049, radiance}} of the {{17-24-060,
+      perfect reflecting diffuser}} identically irradiated and viewed
     type: intensional
   examples: []
   notes:
@@ -32,13 +32,13 @@ data:
       factor, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>) Δ<i>λ</i>.
     type: intensional
   - content: The complete tabular form of bispectral luminescent radiance factor and
-      {17-21-104, reflected radiance factor} data is the Donaldson matrix representation
-      of bispectral radiance factor, <i>D</i>(<i>μ</i>, <i>λ</i>). The {17-24-020,
-      excitation} wavelengths, <i>μ</i>, are tabulated in the vertical direction,
-      the emission {17-21-025, wavelength}s, <i>λ</i>, in the horizontal direction,
-      the {17-21-104, reflected radiance factor}s, <i>β</i><sub>R</sub>(<i>λ</i>),
-      appear on the diagonal where the {17-24-020, excitation} and emission (detection)
-      {17-21-025, wavelength}s are equal, and the array of bandpass-weighted bispectral
+      {{17-21-104, reflected radiance factor}} data is the Donaldson matrix representation
+      of bispectral radiance factor, <i>D</i>(<i>μ</i>, <i>λ</i>). The {{17-24-020,
+      excitation}} wavelengths, <i>μ</i>, are tabulated in the vertical direction,
+      the emission {{17-21-025, wavelength}}s, <i>λ</i>, in the horizontal direction,
+      the {{17-21-104, reflected radiance factor}}s, <i>β</i><sub>R</sub>(<i>λ</i>),
+      appear on the diagonal where the {{17-24-020, excitation}} and emission (detection)
+      {{17-21-025, wavelength}}s are equal, and the array of bandpass-weighted bispectral
       luminescent radiance factor data, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>)
       Δ<i>λ</i>, appear on the off-diagonals.
     type: intensional

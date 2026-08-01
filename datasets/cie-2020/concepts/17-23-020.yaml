@@ -16,9 +16,9 @@ id: 6f4de293-bacc-5a4a-9684-2ad310c62ee5
 ---
 data:
   definition:
-  - content: "{17-23-018, illuminant} having the same or nearly the same {17-21-030,
-      relative spectral distribution} of the {17-21-038, radiant flux} as a phase
-      of {17-29-105, daylight}"
+  - content: "{{17-23-018, illuminant}} having the same or nearly the same {{17-21-030,
+      relative spectral distribution}} of the {{17-21-038, radiant flux}} as a phase
+      of {{17-29-105, daylight}}"
     type: intensional
   examples: []
   notes:

@@ -17,7 +17,7 @@ id: 69e6db08-403c-5714-8234-87d49aa79928
 data:
   definition:
   - content: |-
-      quotient of the {17-23-003, colour stimulus function}, <i>φ<sub>λ</sub></i>(<i>λ</i>), and a fixed reference value, <i>R
+      quotient of the {{17-23-003, colour stimulus function}}, <i>φ<sub>λ</sub></i>(<i>λ</i>), and a fixed reference value, <i>R
 
 
       </i>
@@ -25,7 +25,7 @@ data:
   examples: []
   notes:
   - content: The fixed reference value, <i>R</i>, is usually the maximum value of
-      the {17-23-003, colour stimulus function}.
+      the {{17-23-003, colour stimulus function}}.
     type: intensional
   - content: This entry was numbered 845-03-04 in IEC 60050-845:1987.
     type: intensional

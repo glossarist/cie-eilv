@@ -16,8 +16,8 @@ id: baeeffeb-5938-5983-9191-21f87939688c
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} for which {17-29-105, daylight} is the {17-27-001,
-      light source}"
+  - content: "{{17-29-001, lighting}} for which {{17-29-105, daylight}} is the {{17-27-001,
+      light source}}"
     type: intensional
   examples: []
   notes:

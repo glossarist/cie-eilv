@@ -16,9 +16,9 @@ id: 7d8b2d97-7664-5b6c-8cc1-e8d2b0199197
 ---
 data:
   definition:
-  - content: quotient of the {17-21-050, luminance}, <i>L</i><sub>v</sub>, of a road
-      surface and the {17-21-062, vertical illuminance}, <i>E</i><sub>v,v</sub>, at
-      a specific location in a tunnel
+  - content: quotient of the {{17-21-050, luminance}}, <i>L</i><sub>v</sub>, of a
+      road surface and the {{17-21-062, vertical illuminance}}, <i>E</i><sub>v,v</sub>,
+      at a specific location in a tunnel
     type: intensional
   examples: []
   notes:

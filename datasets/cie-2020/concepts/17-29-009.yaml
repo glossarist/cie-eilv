@@ -16,9 +16,9 @@ id: c1103393-1a43-5630-8044-aeef78e4cd68
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} designed to illuminate the functionally defined
-      area with higher {17-21-060, illuminance} at certain specified positions, for
-      instance those at which work is carried out"
+  - content: "{{17-29-001, lighting}} designed to illuminate the functionally defined
+      area with higher {{17-21-060, illuminance}} at certain specified positions,
+      for instance those at which work is carried out"
     type: intensional
   examples: []
   notes:

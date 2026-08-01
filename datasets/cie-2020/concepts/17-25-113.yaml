@@ -16,17 +16,17 @@ id: 2de73834-2d82-51ca-9ecf-e88adc6df941
 ---
 data:
   definition:
-  - content: angle between a defined datum axis on the {17-30-001, luminaire} and
-      the horizontal when the {17-30-001, luminaire} is mounted for field use
+  - content: angle between a defined datum axis on the {{17-30-001, luminaire}} and
+      the horizontal when the {{17-30-001, luminaire}} is mounted for field use
     type: intensional
   examples: []
   notes:
-  - content: The defined datum axis can be any feature of the {17-30-001, luminaire}
+  - content: The defined datum axis can be any feature of the {{17-30-001, luminaire}}
       but it will usually relate to a feature that is nominally aligned with the horizontal
       such as an axis through the luminous opening or an axis through an array of
-      {17-27-050, LED}s or a fixing spigot entry axis.
+      {{17-27-050, LED}}s or a fixing spigot entry axis.
     type: intensional
-  - content: The tilt in application is the actual tilt of the {17-30-001, luminaire}
+  - content: The tilt in application is the actual tilt of the {{17-30-001, luminaire}}
       when it is mounted for field use and should not be confused with "tilt normal
       in application" or "designed attitude" (see CIE 121<i> The Photometry and Goniophotometry
       of Luminaires</i>).

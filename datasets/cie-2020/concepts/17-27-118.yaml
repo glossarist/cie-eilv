@@ -16,7 +16,7 @@ id: d191d625-c4ee-557b-8bbc-a9bb437207ee
 ---
 data:
   definition:
-  - content: voltage at the {17-28-064, supply terminal}s
+  - content: voltage at the {{17-28-064, supply terminal}}s
     type: intensional
   examples: []
   notes:

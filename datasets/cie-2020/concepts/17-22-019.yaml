@@ -16,14 +16,14 @@ id: 79c6e27a-57cd-53fa-9175-868729cb1a89
 ---
 data:
   definition:
-  - content: aspect of {17-22-082, visual perception} through which an object is perceived
-      to have attributes such as size, shape, {17-22-040, colour}, texture, {17-24-080,
-      gloss}, {17-24-141, transparency}, and opacity
+  - content: aspect of {{17-22-082, visual perception}} through which an object is
+      perceived to have attributes such as size, shape, {{17-22-040, colour}}, texture,
+      {{17-24-080, gloss}}, {{17-24-141, transparency}}, and opacity
     type: intensional
   examples: []
   notes:
   - content: In psychophysical studies, the term "appearance" is used in the sense
-      of {17-22-082, visual perception} in which the spectral and geometric aspects
+      of {{17-22-082, visual perception}} in which the spectral and geometric aspects
       of a visual stimulus are integrated with its illuminating and viewing environment.
     type: intensional
   - content: This entry was numbered 17-51 in CIE S 017:2011.

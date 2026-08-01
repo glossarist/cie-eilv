@@ -17,9 +17,9 @@ id: 64d92950-b169-5a51-bbb7-3f6af85ca3aa
 data:
   definition:
   - content: |-
-      complex value where the real part is the {17-24-109, refractive index} and the imaginary part is related to the {17-24-110, spectral absorption index}
+      complex value where the real part is the {{17-24-109, refractive index}} and the imaginary part is related to the {{17-24-110, spectral absorption index}}
 
-      where <i>n</i>(<i>λ</i>) is the {17-24-109, refractive index} at {17-21-025, wavelength} <i>λ</i>, <i>κ</i>(<i>λ</i>) is the {17-24-110, spectral absorption index} and .
+      where <i>n</i>(<i>λ</i>) is the {{17-24-109, refractive index}} at {{17-21-025, wavelength}} <i>λ</i>, <i>κ</i>(<i>λ</i>) is the {{17-24-110, spectral absorption index}} and .
     type: intensional
   examples: []
   notes:

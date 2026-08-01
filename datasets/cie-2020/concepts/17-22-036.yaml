@@ -16,18 +16,18 @@ id: 781aedbe-5ee1-5ca0-976e-f30bdb6b3726
 ---
 data:
   definition:
-  - content: reduction in the {17-22-059, brightness} of a predominantly long-wavelength
-      {17-23-002, colour stimulus} relative to that of a predominantly short-wavelength
-      {17-23-002, colour stimulus}, when the luminances are reduced in the same proportion
-      from photopic to mesopic or scotopic levels, without changing the respective
-      {17-21-030, relative spectral distribution}s of the stimuli involved
+  - content: reduction in the {{17-22-059, brightness}} of a predominantly long-wavelength
+      {{17-23-002, colour stimulus}} relative to that of a predominantly short-wavelength
+      {{17-23-002, colour stimulus}}, when the luminances are reduced in the same
+      proportion from photopic to mesopic or scotopic levels, without changing the
+      respective {{17-21-030, relative spectral distribution}}s of the stimuli involved
     type: intensional
   examples: []
   notes:
-  - content: In passing from {17-22-016, photopic vision} to {17-22-018, mesopic vision}
-      or {17-22-017, scotopic vision}, the spectral luminous efficiencies change,
-      the {17-21-025, wavelength} of maximum efficiency being displaced towards the
-      shorter {17-21-025, wavelength}s.
+  - content: In passing from {{17-22-016, photopic vision}} to {{17-22-018, mesopic
+      vision}} or {{17-22-017, scotopic vision}}, the spectral luminous efficiencies
+      change, the {{17-21-025, wavelength}} of maximum efficiency being displaced
+      towards the shorter {{17-21-025, wavelength}}s.
     type: intensional
   - content: This entry was numbered 845-02-14 in IEC 60050-845:1987.
     type: intensional

@@ -16,14 +16,14 @@ id: a5c88bcd-ab18-5722-a40a-b76daacaa418
 ---
 data:
   definition:
-  - content: medium for displaying {17-23-001, colour} information
+  - content: medium for displaying {{17-23-001, colour}} information
     type: intensional
   examples: []
   notes:
   - content: A monitor or a print.
     type: intensional
   - content: For a print, the colour reproduction medium is not the printer but the
-      combination of printer, {17-22-076, colorant}s and substrate.
+      combination of printer, {{17-22-076, colorant}}s and substrate.
     type: intensional
   - content: This entry was numbered 17-223 in CIE S 017:2011.
     type: intensional

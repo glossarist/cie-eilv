@@ -17,10 +17,10 @@ id: 4db71ac9-078c-5bdc-a473-2395f48c225c
 data:
   definition:
   - content: ideal observer having a relative spectral responsivity curve that conforms
-      to the {17-21-035, spectral luminous efficiency} function for {17-22-016, photopic
-      vision}, <i>V</i>(<i>λ</i>), or to the function for {17-22-017, scotopic vision},
-      <i>V</i>′(<i>λ</i>), and that complies with the summation law implied in the
-      definition of {17-21-039, luminous flux}
+      to the {{17-21-035, spectral luminous efficiency}} function for {{17-22-016,
+      photopic vision}}, <i>V</i>(<i>λ</i>), or to the function for {{17-22-017, scotopic
+      vision}}, <i>V</i>′(<i>λ</i>), and that complies with the summation law implied
+      in the definition of {{17-21-039, luminous flux}}
     type: intensional
   examples: []
   notes:

@@ -16,15 +16,15 @@ id: 5d852051-a11c-5022-81ff-f9b2b819869b
 ---
 data:
   definition:
-  - content: optical device that modifies a beam of {17-21-002, optical radiation}
-      to produce a beam of {17-21-021, unpolarized radiation} irrespective of the
+  - content: optical device that modifies a beam of {{17-21-002, optical radiation}}
+      to produce a beam of {{17-21-021, unpolarized radiation}} irrespective of the
       state of polarization of the incident radiation
     type: intensional
   examples: []
   notes:
   - content: No simple and completely satisfactory way of depolarizing a beam of radiation
       is known. The methods employed usually produce a large variety of polarization
-      states with respect to time, {17-21-025, wavelength} or the aperture of the
+      states with respect to time, {{17-21-025, wavelength}} or the aperture of the
       beam. Devices functioning on this principle are usually known as pseudo-depolarizers.
     type: intensional
   - content: This entry was numbered 17-292 in CIE S 017:2011.

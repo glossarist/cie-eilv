@@ -16,7 +16,7 @@ id: 42e9896a-3579-579c-97ac-9dd65e6a07d9
 ---
 data:
   definition:
-  - content: mean of the {17-22-110, CIE 1974 special colour rendering index} for
+  - content: mean of the {{17-22-110, CIE 1974 special colour rendering index}} for
       a specified set of eight test colour samples
     type: intensional
   examples: []

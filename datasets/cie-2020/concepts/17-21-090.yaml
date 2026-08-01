@@ -16,37 +16,38 @@ id: 83cbd988-46f3-543c-b708-02bfabf438e3
 ---
 data:
   definition:
-  - content: quotient of {17-21-039, luminous flux} and the corresponding {17-21-038,
-      radiant flux} for a specified photometric condition
+  - content: quotient of {{17-21-039, luminous flux}} and the corresponding {{17-21-038,
+      radiant flux}} for a specified photometric condition
     type: intensional
   examples: []
   notes:
   - content: The photometric condition should be specified (e.g. photopic, scotopic,
-      mesopic). If it is not specified, {17-22-016, photopic vision} is assumed and
-      the symbol <i>K</i> is used. For other photometric conditions the respective
+      mesopic). If it is not specified, {{17-22-016, photopic vision}} is assumed
+      and the symbol <i>K</i> is used. For other photometric conditions the respective
       symbol for identification shall be used.
     type: intensional
   - content: |-
-      Luminous efficacy of radiation for {17-22-016, photopic vision} is expressed by
+      Luminous efficacy of radiation for {{17-22-016, photopic vision}} is expressed by
 
-      where <i>Φ</i><sub>v</sub> is {17-21-039, luminous flux} and <i>Φ</i><sub>e</sub> is {17-21-038, radiant flux}.
+      where <i>Φ</i><sub>v</sub> is {{17-21-039, luminous flux}} and <i>Φ</i><sub>e</sub> is {{17-21-038, radiant flux}}.
     type: intensional
-  - content: 'The value of the luminous efficacy of radiation for {17-22-016, photopic
-      vision} for {17-21-014, monochromatic radiation} of frequency <i>ν</i><sub>cd</sub>
+  - content: 'The value of the luminous efficacy of radiation for {{17-22-016, photopic
+      vision}} for {{17-21-014, monochromatic radiation}} of frequency <i>ν</i><sub>cd</sub>
       = 540 × 10<sup>12</sup> Hz is defined as 683 lm·W<sup>−1</sup> and denoted as
-      <i>K</i><sub>cd</sub>. The corresponding {17-21-025, wavelength}, <i> </i> (where
-      <i>n</i> is {17-24-109, refractive index} and <i>c</i><sub>0</sub> is the speed
-      of light in vacuum) in standard air, i.e. dry air at 15 °C and 101 325 Pa, containing
-      0,045 % of carbon dioxide by volume (see <i>P.E. Ciddor: Refractive index of
-      air: new equations for the visible and near infrared, Appl. Opt. Vol 35, No.
-      9, 1996, pp. 1566-1573</i>), is accepted to be 555,017 nm (rounded from 555,017
-      069 nm). This is very close to 555 nm, the {17-21-025, wavelength} where <i>V</i>(<i>λ</i>)
-      reaches its maximum. For photometric measurements made in air under real environmental
-      conditions the influence of the variation of the {17-24-109, refractive index}
-      on <i>λ</i><sub>cd</sub> with respect to standard air is typically in the range
-      of a few picometres and can be neglected in most cases.'
+      <i>K</i><sub>cd</sub>. The corresponding {{17-21-025, wavelength}}, <i> </i>
+      (where <i>n</i> is {{17-24-109, refractive index}} and <i>c</i><sub>0</sub>
+      is the speed of light in vacuum) in standard air, i.e. dry air at 15 °C and
+      101 325 Pa, containing 0,045 % of carbon dioxide by volume (see <i>P.E. Ciddor:
+      Refractive index of air: new equations for the visible and near infrared, Appl.
+      Opt. Vol 35, No. 9, 1996, pp. 1566-1573</i>), is accepted to be 555,017 nm (rounded
+      from 555,017 069 nm). This is very close to 555 nm, the {{17-21-025, wavelength}}
+      where <i>V</i>(<i>λ</i>) reaches its maximum. For photometric measurements made
+      in air under real environmental conditions the influence of the variation of
+      the {{17-24-109, refractive index}} on <i>λ</i><sub>cd</sub> with respect to
+      standard air is typically in the range of a few picometres and can be neglected
+      in most cases.'
     type: intensional
-  - content: See also "{17-21-091, spectral luminous efficacy}".
+  - content: See also "{{17-21-091, spectral luminous efficacy}}".
     type: intensional
   - content: The luminous efficacy of radiation is expressed in lumen per watt (lm·W<sup>−1</sup>).
     type: intensional

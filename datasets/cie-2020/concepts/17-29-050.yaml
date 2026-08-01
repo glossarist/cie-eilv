@@ -16,11 +16,11 @@ id: 248f0d5a-57b4-5c65-befb-1ae72f7e0547
 ---
 data:
   definition:
-  - content: set of the values of the {17-29-049, cumulative downward flux proportion}s
-      of the {17-27-001, light source} for the {17-21-109, solid angle} π/2 sr, π
-      sr, and 3π/2 sr, representative for the relative downward flux distribution
-      of the {17-27-001, light source}, used in the calculation of the {17-29-059,
-      direct ratio} of installations of that {17-27-001, light source}
+  - content: set of the values of the {{17-29-049, cumulative downward flux proportion}}s
+      of the {{17-27-001, light source}} for the {{17-21-109, solid angle}} π/2 sr,
+      π sr, and 3π/2 sr, representative for the relative downward flux distribution
+      of the {{17-27-001, light source}}, used in the calculation of the {{17-29-059,
+      direct ratio}} of installations of that {{17-27-001, light source}}
     type: intensional
   examples: []
   notes:

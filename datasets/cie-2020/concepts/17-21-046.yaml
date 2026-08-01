@@ -17,18 +17,18 @@ id: 7770ab6e-a693-5336-857f-4ee87a770ba9
 data:
   definition:
   - content: |-
-      density of {17-21-040, photon flux} with respect to {17-21-109, solid angle} in a specified direction
+      density of {{17-21-040, photon flux}} with respect to {{17-21-109, solid angle}} in a specified direction
       .
-      where <i>Φ</i><sub>p</sub> is the {17-21-040, photon flux} emitted in the given direction, and <i>Ω</i> is the {17-21-109, solid angle} containing that direction
+      where <i>Φ</i><sub>p</sub> is the {{17-21-040, photon flux}} emitted in the given direction, and <i>Ω</i> is the {{17-21-109, solid angle}} containing that direction
     type: intensional
   examples: []
   notes:
   - content: |-
-      The distribution of the photon intensities as a function of the direction of {17-24-001, emission}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {17-21-040, photon flux}, <i>Φ</i><sub>p</sub>, within a certain {17-21-109, solid angle}, <i>Ω</i>, of a {17-21-032, source}:
+      The distribution of the photon intensities as a function of the direction of {{17-24-001, emission}}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {{17-21-040, photon flux}}, <i>Φ</i><sub>p</sub>, within a certain {{17-21-109, solid angle}}, <i>Ω</i>, of a {{17-21-032, source}}:
       .
     type: intensional
-  - content: The corresponding radiometric quantity is "{17-21-044, radiant intensity}".
-      The corresponding photometric quantity is "{17-21-045, luminous intensity}".
+  - content: The corresponding radiometric quantity is "{{17-21-044, radiant intensity}}".
+      The corresponding photometric quantity is "{{17-21-045, luminous intensity}}".
     type: intensional
   - content: The photon intensity is expressed in second to the power minus one times
       steradian to the power minus one (s<sup>−1</sup>·sr<sup>−1</sup>).

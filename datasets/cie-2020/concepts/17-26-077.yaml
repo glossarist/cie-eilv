@@ -16,10 +16,10 @@ id: 5d03b123-623e-5feb-9452-1d3516bc0add
 ---
 data:
   definition:
-  - content: "{17-21-032, source} for which the size of the source image on the {17-22-001,
-      retina} is so large that radial heat flow from the centre of the image to the
-      surrounding biological tissue is negligibly small compared to heat flow in the
-      axial direction"
+  - content: "{{17-21-032, source}} for which the size of the source image on the
+      {{17-22-001, retina}} is so large that radial heat flow from the centre of the
+      image to the surrounding biological tissue is negligibly small compared to heat
+      flow in the axial direction"
     type: intensional
   examples: []
   notes:

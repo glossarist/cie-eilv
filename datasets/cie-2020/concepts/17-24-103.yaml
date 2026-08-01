@@ -17,9 +17,9 @@ id: 4b0c0f84-a798-554e-bfd7-162ed77e8006
 data:
   definition:
   - content: |-
-      quotient of the {17-24-102, coefficient of luminous intensity}, <i>R</i>, of a plane retroreflective surface and its area, <i>A</i>
+      quotient of the {{17-24-102, coefficient of luminous intensity}}, <i>R</i>, of a plane retroreflective surface and its area, <i>A</i>
 
-      where <i>I</i> is the {17-21-045, luminous intensity} of the {17-24-100, retroreflector} in the direction of observation and <i>E</i><sub>⊥</sub> is the {17-21-060, illuminance} at the {17-24-100, retroreflector} on a plane perpendicular to the direction of the incident light
+      where <i>I</i> is the {{17-21-045, luminous intensity}} of the {{17-24-100, retroreflector}} in the direction of observation and <i>E</i><sub>⊥</sub> is the {{17-21-060, illuminance}} at the {{17-24-100, retroreflector}} on a plane perpendicular to the direction of the incident light
     type: intensional
   examples: []
   notes:

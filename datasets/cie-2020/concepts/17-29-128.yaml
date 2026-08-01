@@ -16,8 +16,8 @@ id: fc81e6b7-7dd3-5fdd-9830-1d2b60b5af94
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} produced by direct {17-29-103, sunlight} on
-      a horizontal surface on the Earth"
+  - content: "{{17-21-060, illuminance}} produced by direct {{17-29-103, sunlight}}
+      on a horizontal surface on the Earth"
     type: intensional
   examples: []
   notes:

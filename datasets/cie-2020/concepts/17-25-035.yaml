@@ -16,8 +16,8 @@ id: 6f5fc505-0d52-51bd-92d1-a25dd81fbc6c
 ---
 data:
   definition:
-  - content: device in which incident {17-21-002, optical radiation} produces a measurable
-      physical effect
+  - content: device in which incident {{17-21-002, optical radiation}} produces a
+      measurable physical effect
     type: intensional
   examples: []
   notes:

@@ -16,12 +16,12 @@ id: 3e81d39b-26d0-56f6-aad9-d0cc38c55450
 ---
 data:
   definition:
-  - content: value below which the {17-29-151, average luminance} of a specified surface
-      is not permitted to fall
+  - content: value below which the {{17-29-151, average luminance}} of a specified
+      surface is not permitted to fall
     type: intensional
   examples: []
   notes:
-  - content: The maintained average luminance is the {17-29-151, average luminance}
+  - content: The maintained average luminance is the {{17-29-151, average luminance}}
       of the specified surface at the time maintenance should be carried out.
     type: intensional
   - content: The maintained average luminance is expressed in candela per square metre

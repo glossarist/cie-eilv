@@ -16,9 +16,9 @@ id: 39d16891-8425-55f8-bc05-5870a751ea8a
 ---
 data:
   definition:
-  - content: change in {17-22-067, hue} produced by changing the {17-22-092, flicker}
-      frequency of a {17-23-002, colour stimulus} while keeping its {17-23-052, chromaticity}
-      and {17-21-050, luminance} constant
+  - content: change in {{17-22-067, hue}} produced by changing the {{17-22-092, flicker}}
+      frequency of a {{17-23-002, colour stimulus}} while keeping its {{17-23-052,
+      chromaticity}} and {{17-21-050, luminance}} constant
     type: intensional
   examples: []
   notes: []

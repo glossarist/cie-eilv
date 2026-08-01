@@ -17,13 +17,13 @@ id: b1787e6f-804d-5e05-8ca9-28e20124879c
 data:
   definition:
   - content: graph showing the relative response of a photobiological or photochemical
-      effect to {17-21-002, optical radiation} with increasing {17-21-071, radiant
-      exposure}
+      effect to {{17-21-002, optical radiation}} with increasing {{17-21-071, radiant
+      exposure}}
     type: intensional
   examples: []
   notes:
-  - content: Severity of erythema with increasing {17-21-071, radiant exposure} (at
-      a given {17-21-025, wavelength}).
+  - content: Severity of erythema with increasing {{17-21-071, radiant exposure}}
+      (at a given {{17-21-025, wavelength}}).
     type: intensional
   - content: This entry was numbered 17-348 in CIE S 017:2011.
     type: intensional

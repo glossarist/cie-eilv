@@ -16,15 +16,15 @@ id: d1eb8144-d28d-5d49-96d4-8fd1f90276ce
 ---
 data:
   definition:
-  - content: "{17-21-053, irradiance} produced by direct {17-29-103, sunlight} on
-      a surface on the Earth that is perpendicular to the direction of {17-21-099,
-      irradiation} by the Sun"
+  - content: "{{17-21-053, irradiance}} produced by direct {{17-29-103, sunlight}}
+      on a surface on the Earth that is perpendicular to the direction of {{17-21-099,
+      irradiation}} by the Sun"
     type: intensional
   examples: []
   notes:
-  - content: Normal solar irradiance is not the same as {17-29-133, direct solar irradiance},
-      which is measured on a horizontal surface on the Earth, not necessarily perpendicular
-      to the direction of {17-21-099, irradiation} by the Sun.
+  - content: Normal solar irradiance is not the same as {{17-29-133, direct solar
+      irradiance}}, which is measured on a horizontal surface on the Earth, not necessarily
+      perpendicular to the direction of {{17-21-099, irradiation}} by the Sun.
     type: intensional
   - content: The normal solar irradiance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
     type: intensional

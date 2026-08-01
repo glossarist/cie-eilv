@@ -16,8 +16,8 @@ id: f60a41d6-4b64-5593-a295-f394d3283c6d
 ---
 data:
   definition:
-  - content: photometer for measuring {17-21-039, luminous flux}, generally using
-      an {17-25-028, integrating sphere}
+  - content: photometer for measuring {{17-21-039, luminous flux}}, generally using
+      an {{17-25-028, integrating sphere}}
     type: intensional
   examples: []
   notes:

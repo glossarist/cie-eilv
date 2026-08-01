@@ -16,8 +16,8 @@ id: afeb1de7-682d-5930-aa87-4ce4dc118561
 ---
 data:
   definition:
-  - content: device using {17-24-108, refraction} to alter the spatial distribution
-      of radiation from a {17-21-032, source}
+  - content: device using {{17-24-108, refraction}} to alter the spatial distribution
+      of radiation from a {{17-21-032, source}}
     type: intensional
   examples: []
   notes:

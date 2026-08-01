@@ -16,7 +16,7 @@ id: 20d41332-7de0-56f2-a92c-3abbd20490d7
 ---
 data:
   definition:
-  - content: solar {17-21-060, illuminance} incident on the outer limit of the Earth's
+  - content: solar {{17-21-060, illuminance}} incident on the outer limit of the Earth's
       atmosphere
     type: intensional
   examples: []

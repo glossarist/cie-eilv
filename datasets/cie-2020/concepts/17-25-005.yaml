@@ -16,11 +16,11 @@ id: 517892e8-0cd6-5902-b411-bfd6b3a6dcde
 ---
 data:
   definition:
-  - content: measurement of the quantities associated with {17-21-002, optical radiation}
+  - content: measurement of the quantities associated with {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
-  - content: The term "{17-25-013, photometry}" is sometimes used in a broader sense
+  - content: The term "{{17-25-013, photometry}}" is sometimes used in a broader sense
       covering radiometry, but this use is deprecated.
     type: intensional
   - content: This entry was numbered 845-05-05 in IEC 60050-845:1987.

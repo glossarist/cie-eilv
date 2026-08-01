@@ -16,17 +16,17 @@ id: 0b58dce1-1250-5627-98cd-fbefea14a675
 ---
 data:
   definition:
-  - content: part of an {17-27-008, electric lamp} which provides connection to the
-      power supply by means of a {17-28-025, lampholder} or {17-28-035, connector}
-      and, in most cases, also serves to retain the {17-27-008, electric lamp} in
-      the {17-28-025, lampholder}
+  - content: part of an {{17-27-008, electric lamp}} which provides connection to
+      the power supply by means of a {{17-28-025, lampholder}} or {{17-28-035, connector}}
+      and, in most cases, also serves to retain the {{17-27-008, electric lamp}} in
+      the {{17-28-025, lampholder}}
     type: intensional
   examples: []
   notes:
-  - content: In some cases a cap serves as a thermal connection to the {17-30-001,
-      luminaire} (or its heatsink).
+  - content: In some cases a cap serves as a thermal connection to the {{17-30-001,
+      luminaire}} (or its heatsink).
     type: intensional
-  - content: A cap can be an integral part of an {17-27-008, electric lamp}.
+  - content: A cap can be an integral part of an {{17-27-008, electric lamp}}.
     type: intensional
   - content: This entry was numbered 845-08-15 in IEC 60050-845:1987.
     type: intensional

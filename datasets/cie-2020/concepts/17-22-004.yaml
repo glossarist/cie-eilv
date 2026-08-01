@@ -16,15 +16,15 @@ id: f7ece2e0-041f-51c6-866c-a956f8a3d2dc
 ---
 data:
   definition:
-  - content: location in the centre of the {17-22-001, retina} that contains a photostable
+  - content: location in the centre of the {{17-22-001, retina}} that contains a photostable
       pigment
     type: intensional
   examples: []
   notes:
-  - content: The location includes the {17-22-006, fovea} and appears yellow in {17-22-040,
-      colour}.
+  - content: The location includes the {{17-22-006, fovea}} and appears yellow in
+      {{17-22-040, colour}}.
     type: intensional
-  - content: See also "{17-22-006, fovea}".
+  - content: See also "{{17-22-006, fovea}}".
     type: intensional
   - content: This entry was numbered 845-02-04 in IEC 60050-845:1987.
     type: intensional

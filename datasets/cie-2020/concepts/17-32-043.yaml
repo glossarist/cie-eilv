@@ -17,7 +17,7 @@ id: 5bda2e04-adb8-5898-bcf4-7ec6b35b210a
 data:
   definition:
   - content: mapping of image data representing measurements of a photographic negative
-      to output-referred image data representing the {17-23-041, colour space} coordinates
+      to output-referred image data representing the {{17-23-041, colour space}} coordinates
       of the elements of a reproduction
     type: intensional
   examples: []

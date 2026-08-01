@@ -16,7 +16,7 @@ id: 1bedeb3c-a98b-5827-9ce6-900bc40256e9
 ---
 data:
   definition:
-  - content: time integral of {17-21-066, spherical illuminance}, <i>E</i><sub>v,o</sub>,
+  - content: time integral of {{17-21-066, spherical illuminance}}, <i>E</i><sub>v,o</sub>,
       at a given point over a given duration, Δ<i>t</i>
     type: intensional
   examples: []

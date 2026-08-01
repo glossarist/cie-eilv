@@ -23,7 +23,7 @@ data:
   - content: Within an ICC profile, a rendering intent identifies the subset of the
       profile to use for mapping colour values in a particular case.
     type: intensional
-  - content: See also "{17-32-048, ICC file format}".
+  - content: See also "{{17-32-048, ICC file format}}".
     type: intensional
   - content: This entry was numbered 17-1088 in CIE S 017:2011.
     type: intensional

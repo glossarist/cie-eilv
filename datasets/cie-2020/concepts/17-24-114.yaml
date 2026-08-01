@@ -16,12 +16,12 @@ id: 72ac4eee-e242-5e70-a12a-a9a042aaf82d
 ---
 data:
   definition:
-  - content: "{17-24-116, selective filter} that makes a significant change in the
-      {17-23-052, chromaticity} of the radiation"
+  - content: "{{17-24-116, selective filter}} that makes a significant change in the
+      {{17-23-052, chromaticity}} of the radiation"
     type: intensional
   examples: []
   notes:
-  - content: A colour filter is a special case of a {17-24-116, selective filter}.
+  - content: A colour filter is a special case of a {{17-24-116, selective filter}}.
     type: intensional
   - content: This entry was numbered 17-210 in CIE S 017:2011.
     type: intensional

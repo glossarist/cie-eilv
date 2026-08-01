@@ -16,9 +16,9 @@ id: e5bc2adc-e051-507c-92d1-1d753aa1b544
 ---
 data:
   definition:
-  - content: value of the {17-25-035, detector} {17-25-057, input} that produces an
-      {17-25-058, output} equal to the root mean square (RMS) noise output, for a
-      stated frequency and bandwidth of the measuring instrument
+  - content: value of the {{17-25-035, detector}} {{17-25-057, input}} that produces
+      an {{17-25-058, output}} equal to the root mean square (RMS) noise output, for
+      a stated frequency and bandwidth of the measuring instrument
     type: intensional
   examples: []
   notes:

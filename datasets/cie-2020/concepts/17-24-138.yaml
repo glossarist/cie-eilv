@@ -17,8 +17,8 @@ id: 594aaa7e-5aae-58d1-a3cd-289cb8788b0b
 data:
   definition:
   - content: quotient of the flux reflected in the specular direction and the incident
-      flux for a specified {17-25-078, angle of incidence} and specified {17-21-032,
-      source}, and specified angular apertures of the receptor
+      flux for a specified {{17-25-078, angle of incidence}} and specified {{17-21-032,
+      source}}, and specified angular apertures of the receptor
     type: intensional
   examples: []
   notes: []

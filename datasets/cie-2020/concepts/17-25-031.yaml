@@ -16,8 +16,8 @@ id: f1df801b-2df7-5911-8ea2-d4ae32189e9a
 ---
 data:
   definition:
-  - content: instrument for measuring {17-24-071, reflectance optical density} or
-      {17-24-072, transmittance optical density}
+  - content: instrument for measuring {{17-24-071, reflectance optical density}} or
+      {{17-24-072, transmittance optical density}}
     type: intensional
   examples: []
   notes:

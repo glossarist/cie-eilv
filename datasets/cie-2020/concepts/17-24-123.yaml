@@ -16,8 +16,8 @@ id: 8a8f8402-442c-5e0e-9847-46a0bde4d5fb
 ---
 data:
   definition:
-  - content: process by which an object changes spectral {17-24-064, reflectance}
-      or spectral {17-24-065, transmittance} because of a change in its temperature
+  - content: process by which an object changes spectral {{17-24-064, reflectance}}
+      or spectral {{17-24-065, transmittance}} because of a change in its temperature
     type: intensional
   examples: []
   notes:

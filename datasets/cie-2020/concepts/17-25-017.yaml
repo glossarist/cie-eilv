@@ -16,8 +16,8 @@ id: e748ef67-e4f0-5305-b75a-f552d9a39969
 ---
 data:
   definition:
-  - content: "{17-25-013, photometry} in which physical {17-25-035, detector}s are
-      used to make measurements"
+  - content: "{{17-25-013, photometry}} in which physical {{17-25-035, detector}}s
+      are used to make measurements"
     type: intensional
   examples: []
   notes:

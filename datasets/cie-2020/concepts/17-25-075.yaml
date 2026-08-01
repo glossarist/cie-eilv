@@ -16,8 +16,8 @@ id: 0bcff162-89eb-5851-bea9-48e849b13ccc
 ---
 data:
   definition:
-  - content: quotient of emitted {17-21-040, photon flux} and incident {17-21-040,
-      photon flux}
+  - content: quotient of emitted {{17-21-040, photon flux}} and incident {{17-21-040,
+      photon flux}}
     type: intensional
   examples: []
   notes:

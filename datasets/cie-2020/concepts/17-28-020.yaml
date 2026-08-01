@@ -16,11 +16,11 @@ id: c7ce877f-a2e6-5c8f-87f0-3338b8059a6e
 ---
 data:
   definition:
-  - content: "{17-28-015, cap} which enables the {17-28-001, luminous element} to
-      be brought into a specified position relative to the {17-28-015, cap} during
-      manufacture of the {17-27-008, electric lamp} so that reproducible positioning
-      can be assured when the {17-27-008, electric lamp} is inserted in a suitable
-      {17-28-025, lampholder}"
+  - content: "{{17-28-015, cap}} which enables the {{17-28-001, luminous element}}
+      to be brought into a specified position relative to the {{17-28-015, cap}} during
+      manufacture of the {{17-27-008, electric lamp}} so that reproducible positioning
+      can be assured when the {{17-27-008, electric lamp}} is inserted in a suitable
+      {{17-28-025, lampholder}}"
     type: intensional
   examples: []
   notes:

@@ -16,14 +16,14 @@ id: c3e09aae-986b-5ec4-9478-0d1073fd1389
 ---
 data:
   definition:
-  - content: quotient of the {17-21-038, radiant flux} of the emitted radiation and
-      the power consumed by the {17-21-032, source}
+  - content: quotient of the {{17-21-038, radiant flux}} of the emitted radiation
+      and the power consumed by the {{17-21-032, source}}
     type: intensional
   examples: []
   notes:
   - content: It is necessary to specify whether the power dissipated by auxiliary
-      equipment (such as {17-28-044, ballast}s), if any, is included in the power
-      consumed by the {17-21-032, source}.
+      equipment (such as {{17-28-044, ballast}}s), if any, is included in the power
+      consumed by the {{17-21-032, source}}.
     type: intensional
   - content: The radiant efficiency has unit one.
     type: intensional

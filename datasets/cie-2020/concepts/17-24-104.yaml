@@ -16,10 +16,10 @@ id: e8c0cb1e-498b-54b7-88d8-700b9a61cad5
 ---
 data:
   definition:
-  - content: quotient of the {17-21-050, luminance}, <i>L</i>, of a plane retroreflective
-      surface in the direction of observation and the {17-21-060, illuminance}, <i>E</i><sub>⊥</sub>,
-      at the {17-24-100, retroreflector} on a plane perpendicular to the direction
-      of the incident light
+  - content: quotient of the {{17-21-050, luminance}}, <i>L</i>, of a plane retroreflective
+      surface in the direction of observation and the {{17-21-060, illuminance}},
+      <i>E</i><sub>⊥</sub>, at the {{17-24-100, retroreflector}} on a plane perpendicular
+      to the direction of the incident light
     type: intensional
   examples: []
   notes:

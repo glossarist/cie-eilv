@@ -16,17 +16,17 @@ id: b6f3f1c7-c625-555e-9243-62ce6df10a30
 ---
 data:
   definition:
-  - content: "{17-21-074, radiant spherical exposure} weighted with a stated photobiological
-      {17-26-027, action spectrum}"
+  - content: "{{17-21-074, radiant spherical exposure}} weighted with a stated photobiological
+      {{17-26-027, action spectrum}}"
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an {17-26-027, action
-      spectrum} is adopted for the photobiological effect considered, and that its
+  - content: This definition is based on the assumption that an {{17-26-027, action
+      spectrum}} is adopted for the photobiological effect considered, and that its
       maximum value is 1.
     type: intensional
-  - content: It is essential to specify which {17-26-027, action spectrum} is used,
-      as the unit is the same for any {17-26-027, action spectrum}.
+  - content: It is essential to specify which {{17-26-027, action spectrum}} is used,
+      as the unit is the same for any {{17-26-027, action spectrum}}.
     type: intensional
   - content: The photobiological fluence is expressed in joule per square metre (J·m<sup>−2</sup>).
     type: intensional

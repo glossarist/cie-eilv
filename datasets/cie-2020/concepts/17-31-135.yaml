@@ -16,14 +16,14 @@ id: 6cb39c7f-bb46-5e8b-b23d-7c97cb5ef578
 ---
 data:
   definition:
-  - content: reduction of {17-22-089, contrast} caused by the non-specular or {17-24-052,
-      regular reflection} of light from the {17-31-002, sign} face when light falls
-      on a {17-31-002, sign} from a {17-21-032, source} or sources external to the
-      {17-31-002, sign}
+  - content: reduction of {{17-22-089, contrast}} caused by the non-specular or {{17-24-052,
+      regular reflection}} of light from the {{17-31-002, sign}} face when light falls
+      on a {{17-31-002, sign}} from a {{17-21-032, source}} or sources external to
+      the {{17-31-002, sign}}
     type: intensional
   examples: []
   notes:
-  - content: Washout can cause the contrast ratio of the {17-31-002, sign} to fall
+  - content: Washout can cause the contrast ratio of the {{17-31-002, sign}} to fall
       below its permitted limit.
     type: intensional
   - content: This entry was numbered 17-1423 in CIE S 017:2011.

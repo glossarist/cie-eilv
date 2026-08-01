@@ -16,10 +16,10 @@ id: acf1f0c3-54af-5d08-9b11-980c0c60b41e
 ---
 data:
   definition:
-  - content: greatest distance at which a given {17-31-004, signal light} can be recognized
-      in any particular circumstances, as limited only by the {17-31-017, atmospheric
-      transmissivity} and by the {17-31-024, threshold of illuminance} at the eye
-      of the observer
+  - content: greatest distance at which a given {{17-31-004, signal light}} can be
+      recognized in any particular circumstances, as limited only by the {{17-31-017,
+      atmospheric transmissivity}} and by the {{17-31-024, threshold of illuminance}}
+      at the eye of the observer
     type: intensional
   examples: []
   notes:

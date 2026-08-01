@@ -16,8 +16,8 @@ id: 8be9a039-071a-5dcb-bc28-a002e0db170f
 ---
 data:
   definition:
-  - content: density of {17-21-053, irradiance}, <i>E</i><sub>e</sub>(<i>λ</i>), with
-      respect to {17-21-025, wavelength}, <i>λ</i>
+  - content: density of {{17-21-053, irradiance}}, <i>E</i><sub>e</sub>(<i>λ</i>),
+      with respect to {{17-21-025, wavelength}}, <i>λ</i>
     type: intensional
   examples: []
   notes:

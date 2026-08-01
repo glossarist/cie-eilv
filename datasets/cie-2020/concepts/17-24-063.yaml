@@ -17,13 +17,13 @@ id: 2bb43fcd-e903-5f7e-9afb-cc2bc7a31896
 data:
   definition:
   - content: ideal surface for which the radiation coming from that surface is distributed
-      angularly according to {17-24-062, Lambert's cosine law}
+      angularly according to {{17-24-062, Lambert's cosine law}}
     type: intensional
   examples: []
   notes:
   - content: For a Lambertian surface, <i>M</i> = π <i>L</i> where <i>M</i> is the
-      {17-21-080, radiant exitance} or {17-21-081, luminous exitance}, and <i>L</i>
-      the {17-21-049, radiance} or {17-21-050, luminance}.
+      {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}}, and <i>L</i>
+      the {{17-21-049, radiance}} or {{17-21-050, luminance}}.
     type: intensional
   - content: This entry was numbered 845-04-57 in IEC 60050-845:1987.
     type: intensional

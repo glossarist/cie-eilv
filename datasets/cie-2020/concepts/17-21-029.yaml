@@ -17,30 +17,31 @@ id: 1ec7e689-b3aa-5ee4-a460-077294156f5c
 data:
   definition:
   - content: density of a radiant or luminous or photon quantity, <i>X</i>(<i>λ</i>),
-      with respect to {17-21-025, wavelength}, <i>λ</i>, at the {17-21-025, wavelength}
+      with respect to {{17-21-025, wavelength}}, <i>λ</i>, at the {{17-21-025, wavelength}}
       <i>λ</i>
     type: intensional
   examples: []
   notes:
   - content: The term "spectral distribution" is to be preferred to the equivalent
       term "spectral concentration" when dealing with the function <i>X<sub>λ</sub></i>(<i>λ</i>)
-      over a range of {17-21-025, wavelength}s, not at a particular {17-21-025, wavelength}.
+      over a range of {{17-21-025, wavelength}}s, not at a particular {{17-21-025,
+      wavelength}}.
     type: intensional
   - content: Usually <i>X<sub>λ</sub></i> is also a function of <i>λ</i> and in this
       case, in order to stress this, can be written <i>X<sub>λ</sub></i>(<i>λ</i>)
       without any change of meaning.
     type: intensional
-  - content: The spectral distribution of {17-21-038, radiant flux} is expressed in
-      watt per nanometre (W⋅nm<sup>−1</sup>), the spectral distribution of {17-21-039,
-      luminous flux} is expressed in lumen per nanometre (lm·nm<sup>−1</sup>), the
-      spectral distribution of {17-21-040, photon flux} is expressed in nanometre
+  - content: The spectral distribution of {{17-21-038, radiant flux}} is expressed
+      in watt per nanometre (W⋅nm<sup>−1</sup>), the spectral distribution of {{17-21-039,
+      luminous flux}} is expressed in lumen per nanometre (lm·nm<sup>−1</sup>), the
+      spectral distribution of {{17-21-040, photon flux}} is expressed in nanometre
       to the power minus one (nm<sup>−1</sup>). The units of spectral distributions
       of other quantities are expressed accordingly.
     type: intensional
   - content: The quantity <i>X</i> can also be expressed as a function of frequency,
-      <i>ν</i>, {17-21-026, wavenumber}, <i>σ</i>, etc.; the corresponding symbols
+      <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, etc.; the corresponding symbols
       are <i>X</i>(<i>ν</i>), <i>X</i>(<i>σ</i>), etc. and the corresponding densities
-      with respect to frequency, <i>ν</i>, {17-21-026, wavenumber}, <i>σ</i>, etc.
+      with respect to frequency, <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, etc.
       are <i>X<sub>ν</sub></i>, <i>X<sub>σ</sub></i>, etc., in which case the expression
       of units will also change accordingly.
     type: intensional

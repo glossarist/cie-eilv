@@ -17,13 +17,13 @@ id: 9d1258ca-605d-5eda-81b0-e14149640766
 data:
   definition:
   - content: measurement of quantities referring to radiation as evaluated according
-      to a given {17-21-035, spectral luminous efficiency}, e.g. <i>V</i>(<i>λ</i>)
+      to a given {{17-21-035, spectral luminous efficiency}}, e.g. <i>V</i>(<i>λ</i>)
       or <i>V</i>′(<i>λ</i>)
     type: intensional
   examples: []
   notes:
   - content: The term "photometry" is sometimes used in a broader sense covering the
-      science of {17-21-002, optical radiation} measurement ({17-25-005, radiometry}),
+      science of {{17-21-002, optical radiation}} measurement ({{17-25-005, radiometry}}),
       but this use is deprecated.
     type: intensional
   - content: This entry was numbered 845-05-09 in IEC 60050-845:1987.

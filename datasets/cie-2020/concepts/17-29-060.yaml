@@ -16,7 +16,7 @@ id: e81ecead-379b-5944-877c-0b49f7e6dcf6
 ---
 data:
   definition:
-  - content: quotient of the sum of the individually rated {17-21-039, luminous flux}es
+  - content: quotient of the sum of the individually rated {{17-21-039, luminous flux}}es
       of the lamps of an installation and the floor area
     type: intensional
   examples: []

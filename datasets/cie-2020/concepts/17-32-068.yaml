@@ -18,7 +18,7 @@ data:
   definition:
   - content: adjustment of electronic picture colour channel gains or image processing
       so that the relative spectral power distribution equal to that of the scene
-      {17-23-081, adapted white} is rendered as a visual neutral
+      {{17-23-081, adapted white}} is rendered as a visual neutral
     type: intensional
   examples: []
   notes:

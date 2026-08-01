@@ -16,8 +16,8 @@ id: 8dc24285-c080-5ed6-9755-28e316b24807
 ---
 data:
   definition:
-  - content: set of {17-31-127, legend}s to be displayed on a {17-31-002, sign} which
-      are implemented by the configuration of the {17-31-002, sign}'s hardware
+  - content: set of {{17-31-127, legend}}s to be displayed on a {{17-31-002, sign}}
+      which are implemented by the configuration of the {{17-31-002, sign}}'s hardware
     type: intensional
   examples: []
   notes:
