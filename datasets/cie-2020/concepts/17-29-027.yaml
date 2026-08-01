@@ -16,14 +16,14 @@ id: 7f5529df-ed10-5821-b082-3f5c4129a1e6
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} responding to circumstances or according to predefined
-      conditions, while maintaining the {17-29-029, lighting quality} within the specified
-      requirements for these circumstances or conditions"
+  - content: "{{17-29-001, lighting}} responding to circumstances or according to
+      predefined conditions, while maintaining the {{17-29-029, lighting quality}}
+      within the specified requirements for these circumstances or conditions"
     type: intensional
   examples: []
   notes:
   - content: The requirements can focus on different aspects such as energy efficiency,
-      dynamic user needs, {17-22-084, visual task} or ambience.
+      dynamic user needs, {{17-22-084, visual task}} or ambience.
     type: intensional
   - content: The terms "smart lighting" and "intelligent lighting" are sometimes used
       with a similar meaning.

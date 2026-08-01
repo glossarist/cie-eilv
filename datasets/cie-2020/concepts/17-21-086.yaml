@@ -16,14 +16,14 @@ id: 83a318cc-0f0e-5db6-a9c7-a0a16bc95c11
 ---
 data:
   definition:
-  - content: SI unit of {17-21-050, luminance}
+  - content: SI unit of {{17-21-050, luminance}}
     type: intensional
   examples: []
   notes:
   - content: 'The unit nit (symbol: nt) is no longer in use.'
     type: intensional
   - content: |-
-      Other non-SI units of {17-21-050, luminance}:
+      Other non-SI units of {{17-21-050, luminance}}:
       metric: lambert (symbol: L), 1 L = cd⋅m<sup>−2</sup>;
       non-metric: footlambert (symbol: fL), 1 fL = 3,426 cd⋅m<sup>−2</sup>.
     type: intensional

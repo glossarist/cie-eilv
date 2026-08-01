@@ -17,8 +17,8 @@ id: 3d70c135-76cc-50c7-b8cc-ec3ce60afd9b
 data:
   definition:
   - content: greatest distance at which a given object can be recognized in any particular
-      circumstances, as limited only by the {17-31-017, atmospheric transmissivity}
-      and by the {17-31-019, visual contrast threshold}
+      circumstances, as limited only by the {{17-31-017, atmospheric transmissivity}}
+      and by the {{17-31-019, visual contrast threshold}}
     type: intensional
   examples: []
   notes:

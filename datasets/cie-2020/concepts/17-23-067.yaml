@@ -16,8 +16,8 @@ id: 702eca18-f2a3-5c69-b81d-c7a13b6527e1
 ---
 data:
   definition:
-  - content: temperature of a {17-24-004, Planckian radiator} whose radiation has
-      the same {17-23-052, chromaticity} as that of a given stimulus
+  - content: temperature of a {{17-24-004, Planckian radiator}} whose radiation has
+      the same {{17-23-052, chromaticity}} as that of a given stimulus
     type: intensional
   examples: []
   notes:

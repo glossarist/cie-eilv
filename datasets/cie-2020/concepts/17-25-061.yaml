@@ -16,14 +16,14 @@ id: d6973da4-fe33-5692-879d-61a5802a9e43
 ---
 data:
   definition:
-  - content: quotient of the {17-25-035, detector} {17-25-058, output}, <i>Y</i>,
-      and the {17-25-035, detector} {17-25-057, input}, <i>X</i>
+  - content: quotient of the {{17-25-035, detector}} {{17-25-058, output}}, <i>Y</i>,
+      and the {{17-25-035, detector}} {{17-25-057, input}}, <i>X</i>
     type: intensional
   examples: []
   notes:
-  - content: If the {17-25-035, detector} signal is <i>Y</i><sub>0</sub> in the absence
-      of {17-25-057, input}, and is <i>Y</i><sub>t</sub> when there is an {17-25-057,
-      input} <i>X</i>, the responsivity is .
+  - content: If the {{17-25-035, detector}} signal is <i>Y</i><sub>0</sub> in the
+      absence of {{17-25-057, input}}, and is <i>Y</i><sub>t</sub> when there is an
+      {{17-25-057, input}} <i>X</i>, the responsivity is .
     type: intensional
   - content: The term "sensitivity" is no longer used.
     type: intensional

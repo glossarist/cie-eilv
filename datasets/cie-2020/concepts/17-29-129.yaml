@@ -16,14 +16,14 @@ id: 2f56fafc-425e-5eb0-acb2-dd890f7c9516
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} produced by direct {17-29-103, sunlight} on
-      a surface on the Earth that is perpendicular to the direction of illumination
+  - content: "{{17-21-060, illuminance}} produced by direct {{17-29-103, sunlight}}
+      on a surface on the Earth that is perpendicular to the direction of illumination
       by the Sun"
     type: intensional
   examples: []
   notes:
-  - content: Normal solar illuminance is not the same as {17-29-128, direct solar
-      illuminance}, which is measured on a horizontal surface on the Earth, not necessarily
+  - content: Normal solar illuminance is not the same as {{17-29-128, direct solar
+      illuminance}}, which is measured on a horizontal surface on the Earth, not necessarily
       perpendicular to the direction of illumination by the Sun.
     type: intensional
   - content: The normal solar illuminance is expressed in lux (lx = lm⋅m<sup>−2</sup>).

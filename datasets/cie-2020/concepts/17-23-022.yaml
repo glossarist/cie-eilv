@@ -16,15 +16,15 @@ id: 980592ca-081b-5695-a42b-a21b1b68346b
 ---
 data:
   definition:
-  - content: artificial {17-21-032, source} specified by the CIE whose radiation approximates
-      a {17-23-021, CIE standard illuminant}
+  - content: artificial {{17-21-032, source}} specified by the CIE whose radiation
+      approximates a {{17-23-021, CIE standard illuminant}}
     type: intensional
   examples: []
   notes:
-  - content: Artificial sources representing {17-23-019, CIE illuminant}s are referred
+  - content: Artificial sources representing {{17-23-019, CIE illuminant}}s are referred
       to as "CIE sources".
     type: intensional
-  - content: See also "{17-23-021, CIE standard illuminant}".
+  - content: See also "{{17-23-021, CIE standard illuminant}}".
     type: intensional
   - content: See also CIE 15 <i>Colorimetry</i>.
     type: intensional

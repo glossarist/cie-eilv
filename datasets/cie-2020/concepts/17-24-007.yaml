@@ -17,7 +17,7 @@ id: 588b34aa-e230-57fb-afc3-431da8bbfa4e
 data:
   definition:
   - content: |-
-      relation between the {17-21-080, radiant exitance}, <i>M</i><sub>e</sub>, of a {17-24-004, Planckian radiator} and its temperature, <i>T</i>, given by
+      relation between the {{17-21-080, radiant exitance}}, <i>M</i><sub>e</sub>, of a {{17-24-004, Planckian radiator}} and its temperature, <i>T</i>, given by
       <i>M</i><sub>e</sub> = <i>σ</i> <i>T</i> <sup>4
 
 
@@ -26,7 +26,7 @@ data:
   examples: []
   notes:
   - content: The Stefan–Boltzmann constant can be calculated by where <i>h</i> is
-      the {17-21-108, Planck constant}, <i>c</i><sub>0</sub> is the speed of light
+      the {{17-21-108, Planck constant}}, <i>c</i><sub>0</sub> is the speed of light
       in vacuum, and <i>k</i> is the Boltzmann constant.
     type: intensional
   - content: For the value of the Stefan–Boltzmann constant, <i>σ</i>, see CODATA.

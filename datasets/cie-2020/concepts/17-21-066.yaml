@@ -16,26 +16,26 @@ id: d9c00688-4e4a-5755-bd18-6291938f991a
 ---
 data:
   definition:
-  - content: mean value of {17-21-060, illuminance} on the outer curved surface of
-      a very small (real or imaginary) sphere at a point in space
+  - content: mean value of {{17-21-060, illuminance}} on the outer curved surface
+      of a very small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes:
   - content: |-
       The spherical illuminance can be expressed by
 
-      where <i>Ω</i> is {17-21-109, solid angle} and <i>L</i><sub>v</sub> is {17-21-050, luminance}.
+      where <i>Ω</i> is {{17-21-109, solid angle}} and <i>L</i><sub>v</sub> is {{17-21-050, luminance}}.
     type: intensional
-  - content: The spherical illuminance is the quotient of the {17-21-039, luminous
-      flux} of all the light incident on the outer surface of an infinitely small
+  - content: The spherical illuminance is the quotient of the {{17-21-039, luminous
+      flux}} of all the light incident on the outer surface of an infinitely small
       sphere centred at the given point and the area of the diametrical cross-section
       of that sphere.
     type: intensional
-  - content: The analogous quantities "{17-21-054, spherical irradiance}", <i>E</i><sub>e,o</sub>,
-      and "{17-21-059, photon spherical irradiance}" (also termed "photon fluence
-      rate"), <i>E</i><sub>p,o</sub>, are defined in a similar way, replacing {17-21-050,
-      luminance}, <i>L</i><sub>v</sub>, by {17-21-049, radiance}, <i>L</i><sub>e</sub>,
-      and {17-21-051, photon radiance}, <i>L</i><sub>p</sub>, respectively.
+  - content: The analogous quantities "{{17-21-054, spherical irradiance}}", <i>E</i><sub>e,o</sub>,
+      and "{{17-21-059, photon spherical irradiance}}" (also termed "photon fluence
+      rate"), <i>E</i><sub>p,o</sub>, are defined in a similar way, replacing {{17-21-050,
+      luminance}}, <i>L</i><sub>v</sub>, by {{17-21-049, radiance}}, <i>L</i><sub>e</sub>,
+      and {{17-21-051, photon radiance}}, <i>L</i><sub>p</sub>, respectively.
     type: intensional
   - content: The spherical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
     type: intensional

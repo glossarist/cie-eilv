@@ -16,8 +16,8 @@ id: 2e9bfe48-deb5-5d33-bf52-4a0edd2a5c46
 ---
 data:
   definition:
-  - content: specification of a {17-23-002, colour stimulus} in terms of operationally
-      defined values, such as three {17-23-038, tristimulus values}
+  - content: specification of a {{17-23-002, colour stimulus}} in terms of operationally
+      defined values, such as three {{17-23-038, tristimulus values}}
     type: intensional
   examples: []
   notes:

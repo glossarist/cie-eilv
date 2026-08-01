@@ -16,9 +16,9 @@ id: 781d30ee-7a8b-5d6f-8bf2-6cb7df04a4c5
 ---
 data:
   definition:
-  - content: "{17-27-058, LED module}, designed to form a replaceable part built into
-      a {17-30-001, luminaire}, a box, an enclosure or the like and not intended to
-      be mounted outside a {17-30-001, luminaire}"
+  - content: "{{17-27-058, LED module}}, designed to form a replaceable part built
+      into a {{17-30-001, luminaire}}, a box, an enclosure or the like and not intended
+      to be mounted outside a {{17-30-001, luminaire}}"
     type: intensional
   examples: []
   notes: []

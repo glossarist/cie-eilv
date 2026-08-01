@@ -16,13 +16,13 @@ id: ed6ad773-ec0f-5c9e-94ab-b76a30aae48f
 ---
 data:
   definition:
-  - content: complementary angle of the {17-30-035, cut-off angle}
+  - content: complementary angle of the {{17-30-035, cut-off angle}}
     type: intensional
   examples: []
   notes:
   - content: The shielding angle is the angle measured from the horizontal, down to
-      which the {17-27-001, light source}(s) is (are) screened by the {17-30-001,
-      luminaire}.
+      which the {{17-27-001, light source}}(s) is (are) screened by the {{17-30-001,
+      luminaire}}.
     type: intensional
   - content: The shielding angle is expressed in radian (rad) or degree (°).
     type: intensional

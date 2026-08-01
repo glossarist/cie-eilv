@@ -16,10 +16,10 @@ id: 456d9946-e136-50f6-ab24-8bfb287dbc7e
 ---
 data:
   definition:
-  - content: retinal injury caused by brief, intense {17-21-071, radiant exposure}
-      of the {17-22-001, retina} from {17-21-025, wavelength}s in the {17-26-048,
-      retinal hazard spectral region} (380 nm to 1 400 nm) within which the normal
-      ocular media transmit {17-21-002, optical radiation} to the {17-22-001, retina}
+  - content: retinal injury caused by brief, intense {{17-21-071, radiant exposure}}
+      of the {{17-22-001, retina}} from {{17-21-025, wavelength}}s in the {{17-26-048,
+      retinal hazard spectral region}} (380 nm to 1 400 nm) within which the normal
+      ocular media transmit {{17-21-002, optical radiation}} to the {{17-22-001, retina}}
     type: intensional
   examples: []
   notes:

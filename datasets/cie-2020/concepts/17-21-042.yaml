@@ -17,21 +17,21 @@ id: a1cb1e3f-98d6-522f-854c-a9adf0b46ee8
 data:
   definition:
   - content: |-
-      product of the {17-21-108, Planck constant} and frequency
+      product of the {{17-21-108, Planck constant}} and frequency
       <i>Q</i><sub>p</sub> = <i>h</i>⋅<i>ν</i>
-      where <i>h</i> is the {17-21-108, Planck constant} and <i>ν</i> is the frequency of the corresponding electromagnetic wave
+      where <i>h</i> is the {{17-21-108, Planck constant}} and <i>ν</i> is the frequency of the corresponding electromagnetic wave
     type: intensional
   examples: []
   notes:
   - content: Photon energy can be emitted, transferred or received.
     type: intensional
-  - content: The energy of {17-21-014, monochromatic radiation}, <i>Q</i><sub>PF</sub>,
-      by a {17-21-040, photon flux} of {17-21-107, photon}s of frequency <i>ν</i>
-      is equal to the {17-21-043, photon number}, <i>N</i><sub>p</sub>, times the
+  - content: The energy of {{17-21-014, monochromatic radiation}}, <i>Q</i><sub>PF</sub>,
+      by a {{17-21-040, photon flux}} of {{17-21-107, photon}}s of frequency <i>ν</i>
+      is equal to the {{17-21-043, photon number}}, <i>N</i><sub>p</sub>, times the
       photon energy (<i>Q</i><sub>PF</sub> = <i>N</i><sub>p</sub>·<i>h</i>·<i>ν</i>).
     type: intensional
-  - content: The corresponding radiometric quantity is "{17-21-041, radiant energy}".
-      The corresponding photometric quantity is "{17-21-037, luminous energy}".
+  - content: The corresponding radiometric quantity is "{{17-21-041, radiant energy}}".
+      The corresponding photometric quantity is "{{17-21-037, luminous energy}}".
     type: intensional
   - content: The photon energy is expressed in joule (J = W·s).
     type: intensional

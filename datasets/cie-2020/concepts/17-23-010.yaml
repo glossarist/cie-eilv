@@ -16,14 +16,14 @@ id: 9622ae29-1cf7-5aaa-98ba-41cabb99cf32
 ---
 data:
   definition:
-  - content: stimulus that, under the prevailing conditions of {17-22-012, adaptation},
-      gives rise to a {17-22-050, chromatic colour}
+  - content: stimulus that, under the prevailing conditions of {{17-22-012, adaptation}},
+      gives rise to a {{17-22-050, chromatic colour}}
     type: intensional
   examples: []
   notes:
-  - content: In the {17-25-014, colorimetry} of {17-22-042, object colour}s, stimuli
-      having values of {17-23-064, purity} greater than 0 are usually considered to
-      be chromatic stimuli.
+  - content: In the {{17-25-014, colorimetry}} of {{17-22-042, object colour}}s, stimuli
+      having values of {{17-23-064, purity}} greater than 0 are usually considered
+      to be chromatic stimuli.
     type: intensional
   - content: This entry was numbered 845-03-07 in IEC 60050-845:1987.
     type: intensional

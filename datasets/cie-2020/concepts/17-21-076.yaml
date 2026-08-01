@@ -16,7 +16,7 @@ id: 011d1b66-9445-5ea3-a592-cd5f9fb72a95
 ---
 data:
   definition:
-  - content: time integral of {17-21-059, photon spherical irradiance}, <i>E</i><sub>p,o</sub>,
+  - content: time integral of {{17-21-059, photon spherical irradiance}}, <i>E</i><sub>p,o</sub>,
       at a given point over a given duration, Δ<i>t</i>
     type: intensional
   examples: []

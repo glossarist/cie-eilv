@@ -18,7 +18,7 @@ data:
   definition:
   - content: imaging medium associated with a specified real or virtual output device,
       the characteristics of which are specified as part of the specification of a
-      standard output-referred {17-32-013, colour image encoding}
+      standard output-referred {{17-32-013, colour image encoding}}
     type: intensional
   examples: []
   notes:

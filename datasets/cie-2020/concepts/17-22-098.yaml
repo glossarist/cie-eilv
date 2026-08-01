@@ -18,11 +18,12 @@ data:
   definition:
   - content: condition of vision in which there is discomfort or a reduction in the
       ability to see details or objects, caused by an unsuitable distribution or range
-      of {17-21-050, luminance}, or by extreme {17-22-091, luminance contrast}s
+      of {{17-21-050, luminance}}, or by extreme {{17-22-091, luminance contrast}}s
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-22-103, disability glare}", "{17-22-102, discomfort glare}".
+  - content: See also "{{17-22-103, disability glare}}", "{{17-22-102, discomfort
+      glare}}".
     type: intensional
   - content: This entry was numbered 845-02-52 in IEC 60050-845:1987.
     type: intensional

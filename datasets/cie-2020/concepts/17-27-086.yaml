@@ -16,13 +16,13 @@ id: 77d81421-2525-5d62-83e1-d08bfeab08a5
 ---
 data:
   definition:
-  - content: "{17-27-011, incandescent lamp} in which the {17-28-001, luminous element}
-      is a tungsten ribbon"
+  - content: "{{17-27-011, incandescent lamp}} in which the {{17-28-001, luminous
+      element}} is a tungsten ribbon"
     type: intensional
   examples: []
   notes:
   - content: A tungsten ribbon lamp is particularly used as a standard in pyrometry
-      and spectral {17-25-005, radiometry}.
+      and spectral {{17-25-005, radiometry}}.
     type: intensional
   - content: This entry was numbered 845-07-47 in IEC 60050-845:1987.
     type: intensional

@@ -17,7 +17,7 @@ id: e69f32c6-8a63-51be-9d14-11fb2f57c03e
 data:
   definition:
   - content: |-
-      difference between two {17-23-002, colour stimulus}, defined as the Euclidean distance between the points representing them in the u′, v′ {17-23-054, chromaticity diagram} and calculated as:
+      difference between two {{17-23-002, colour stimulus}}, defined as the Euclidean distance between the points representing them in the u′, v′ {{17-23-054, chromaticity diagram}} and calculated as:
       Δ<i>c</i> = [(Δ<i>u</i>′)<sup>2</sup> + (Δ<i>v</i>′)<sup>2</sup>]<sup>1/2</sup>
     type: intensional
   examples: []

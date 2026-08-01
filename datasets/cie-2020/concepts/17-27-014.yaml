@@ -16,13 +16,13 @@ id: a2b49c20-02c5-5400-b44b-b7973cf955bb
 ---
 data:
   definition:
-  - content: "{17-27-011, incandescent lamp} whose {17-28-001, luminous element} is
-      a {17-28-002, filament} of tungsten"
+  - content: "{{17-27-011, incandescent lamp}} whose {{17-28-001, luminous element}}
+      is a {{17-28-002, filament}} of tungsten"
     type: intensional
   examples: []
   notes:
-  - content: For the shapes of {17-28-002, filament}, see "{17-28-003, straight filament}",
-      "{17-28-004, single-coil filament}" and "coip-coil filament".
+  - content: For the shapes of {{17-28-002, filament}}, see "{{17-28-003, straight
+      filament}}", "{{17-28-004, single-coil filament}}" and "coip-coil filament".
     type: intensional
   - content: This entry was numbered 845-07-07 in IEC 60050-845:1987.
     type: intensional

@@ -16,13 +16,13 @@ id: ea595507-0de5-5b6e-adf9-fafdcd2b818c
 ---
 data:
   definition:
-  - content: arrangement of optical or other components which form {17-31-102, element}s
-      of a light-emitting {17-31-002, sign}
+  - content: arrangement of optical or other components which form {{17-31-102, element}}s
+      of a light-emitting {{17-31-002, sign}}
     type: intensional
   examples: []
   notes:
-  - content: The optical system is deemed to include the {17-21-032, source}, optical
-      components including front screens, {17-24-113, filter}s or lenses where these
+  - content: The optical system is deemed to include the {{17-21-032, source}}, optical
+      components including front screens, {{17-24-113, filter}}s or lenses where these
       are appropriate.
     type: intensional
   - content: This entry was numbered 17-849 in CIE S 017:2011.

@@ -16,14 +16,14 @@ id: 68b01dfb-11a5-5faf-853b-2d3cf77c27ad
 ---
 data:
   definition:
-  - content: property of a quantity, <i>X</i>, pertaining to {17-21-001, electromagnetic
-      radiation} that indicates that <i>X</i> is a function of the {17-21-025, wavelength},
+  - content: property of a quantity, <i>X</i>, pertaining to {{17-21-001, electromagnetic
+      radiation}} that indicates that <i>X</i> is a function of the {{17-21-025, wavelength}},
       <i>λ</i>
     type: intensional
   examples: []
   notes:
   - content: The quantity <i>X</i> can also be expressed as a function of frequency,
-      <i>ν</i>, {17-21-026, wavenumber}, <i>σ</i>, etc.; the corresponding symbols
+      <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, etc.; the corresponding symbols
       are <i>X</i>(<i>ν</i>), <i>X</i>(<i>σ</i>), etc. and <i>X<sub>ν</sub></i>, <i>X<sub>σ</sub></i>,
       etc. See also "spectral distribution".
     type: intensional

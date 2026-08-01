@@ -16,14 +16,14 @@ id: 6993387e-9e28-567d-9de8-9ada2fd70a86
 ---
 data:
   definition:
-  - content: "{17-23-002, colour stimulus} to which {17-23-041, colour space} values
-      are normalized"
+  - content: "{{17-23-002, colour stimulus}} to which {{17-23-041, colour space}}
+      values are normalized"
     type: intensional
   examples: []
   notes:
-  - content: The {17-23-041, colour space} white point can or cannot correspond to
-      the adapted white point and/or the {17-32-062, reference medium} white point
-      for a {17-32-013, colour image encoding}.
+  - content: The {{17-23-041, colour space}} white point can or cannot correspond
+      to the adapted white point and/or the {{17-32-062, reference medium}} white
+      point for a {{17-32-013, colour image encoding}}.
     type: intensional
   - content: This entry was numbered 17-1432 in CIE S 017:2011.
     type: intensional

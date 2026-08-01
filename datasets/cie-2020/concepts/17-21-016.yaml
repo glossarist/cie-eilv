@@ -16,13 +16,13 @@ id: e8dd7bc9-9120-50c0-8c42-d32ca245e07e
 ---
 data:
   definition:
-  - content: "{17-21-014, monochromatic radiation} emitted or absorbed in a transition
-      between two {17-24-019, energy level}s"
+  - content: "{{17-21-014, monochromatic radiation}} emitted or absorbed in a transition
+      between two {{17-24-019, energy level}}s"
     type: intensional
   examples: []
   notes:
-  - content: A spectral line is often observed as a sharp feature in a {17-21-015,
-      spectrum}.
+  - content: A spectral line is often observed as a sharp feature in a {{17-21-015,
+      spectrum}}.
     type: intensional
   - content: This entry was numbered 845-01-09 in IEC 60050-845:1987.
     type: intensional

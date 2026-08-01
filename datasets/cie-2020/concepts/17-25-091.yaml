@@ -16,9 +16,9 @@ id: c0d9ab74-ffb5-5b2d-9392-5f3a50223794
 ---
 data:
   definition:
-  - content: curve to express values of {17-21-045, luminous intensity} of a {17-21-032,
-      source} as a function of direction in space, and normally expressed in polar
-      coordinates (i.e. with the origin at the {17-25-103, photometric centre})
+  - content: curve to express values of {{17-21-045, luminous intensity}} of a {{17-21-032,
+      source}} as a function of direction in space, and normally expressed in polar
+      coordinates (i.e. with the origin at the {{17-25-103, photometric centre}})
     type: intensional
   examples: []
   notes:

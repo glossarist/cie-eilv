@@ -16,16 +16,18 @@ id: 2bde6359-58d6-5b34-8da5-ab447c58aba1
 ---
 data:
   definition:
-  - content: "{17-27-058, LED module} designed for mounting or placing separately
-      from a {17-30-001, luminaire}, from an additional box or enclosure or the like"
+  - content: "{{17-27-058, LED module}} designed for mounting or placing separately
+      from a {{17-30-001, luminaire}}, from an additional box or enclosure or the
+      like"
     type: intensional
   examples: []
   notes:
   - content: An independent LED module provides all the necessary protection with
       regard to safety according to its classification and marking.
     type: intensional
-  - content: An example of an independent LED module is a system where the {17-27-058,
-      LED module} is connected via a glass fibre with the {17-30-001, luminaire} head.
+  - content: An example of an independent LED module is a system where the {{17-27-058,
+      LED module}} is connected via a glass fibre with the {{17-30-001, luminaire}}
+      head.
     type: intensional
   sources:
   - origin:

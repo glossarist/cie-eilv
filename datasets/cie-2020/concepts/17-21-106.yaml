@@ -17,9 +17,9 @@ id: cee95e9e-792b-5c6d-8f7c-e6502f3a5bc5
 data:
   definition:
   - content: |-
-      measure that expresses the attenuation of the {17-29-158, direct illuminance} when the Sun's rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
+      measure that expresses the attenuation of the {{17-29-158, direct illuminance}} when the Sun's rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
 
-      where <i>m</i> is the {17-29-109, relative optical air mass} weighted to take account of the relative spectral {17-24-065, transmittance} characteristics of the atmosphere
+      where <i>m</i> is the {{17-29-109, relative optical air mass}} weighted to take account of the relative spectral {{17-24-065, transmittance}} characteristics of the atmosphere
     type: intensional
   examples: []
   notes:

@@ -16,9 +16,10 @@ id: fc611d9a-3e87-52f4-bc3f-3bb3c92c506a
 ---
 data:
   definition:
-  - content: device for the visual appraisal or measurement of the {17-23-001, colour}
-      of materials or surfaces that provides {17-21-056, spectral irradiance} approximating
-      a {17-23-021, CIE standard illuminant} representing a phase of {17-29-105, daylight}
+  - content: device for the visual appraisal or measurement of the {{17-23-001, colour}}
+      of materials or surfaces that provides {{17-21-056, spectral irradiance}} approximating
+      a {{17-23-021, CIE standard illuminant}} representing a phase of {{17-29-105,
+      daylight}}
     type: intensional
   examples: []
   notes: []

@@ -16,9 +16,9 @@ id: 0c310bb2-0f0c-50f4-a11b-6c0776a08359
 ---
 data:
   definition:
-  - content: "{17-31-002, sign} that employs light-emitting techniques to display
+  - content: "{{17-31-002, sign}} that employs light-emitting techniques to display
       either one of a number of dedicated messages or a message formed on a free-format
-      {17-31-125, character matrix}"
+      {{17-31-125, character matrix}}"
     type: intensional
   examples: []
   notes:

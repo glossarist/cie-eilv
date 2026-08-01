@@ -16,17 +16,17 @@ id: 743fa6b6-e56b-5eb7-9744-fbb2ffc82b10
 ---
 data:
   definition:
-  - content: ratio of the luminous output of a {17-21-032, source} evaluated according
-      to the CIE scotopic {17-21-035, spectral luminous efficiency}, <i>V</i>'(<i>λ</i>),
-      to the luminous output evaluated according to the CIE photopic {17-21-035, spectral
-      luminous efficiency}, <i>V</i>(<i>λ</i>)
+  - content: ratio of the luminous output of a {{17-21-032, source}} evaluated according
+      to the CIE scotopic {{17-21-035, spectral luminous efficiency}}, <i>V</i>'(<i>λ</i>),
+      to the luminous output evaluated according to the CIE photopic {{17-21-035,
+      spectral luminous efficiency}}, <i>V</i>(<i>λ</i>)
     type: intensional
   examples: []
   notes:
   - content: |-
       The S/P ratio is expressed by
 
-      where ≈ 1 700 lm·W<sup>−1</sup> is the {17-21-092, maximum luminous efficacy} for {17-22-017, scotopic vision}, <i>K</i><sub>m</sub> ≈ 683 lm·W<sup>−1 </sup>is the {17-21-092, maximum luminous efficacy} for {17-22-016, photopic vision}, <i>S</i>(<i>λ</i>) is the {17-21-030, relative spectral distribution} of the {17-21-032, source}, and <i>λ</i> is the {17-21-025, wavelength}.
+      where ≈ 1 700 lm·W<sup>−1</sup> is the {{17-21-092, maximum luminous efficacy}} for {{17-22-017, scotopic vision}}, <i>K</i><sub>m</sub> ≈ 683 lm·W<sup>−1 </sup>is the {{17-21-092, maximum luminous efficacy}} for {{17-22-016, photopic vision}}, <i>S</i>(<i>λ</i>) is the {{17-21-030, relative spectral distribution}} of the {{17-21-032, source}}, and <i>λ</i> is the {{17-21-025, wavelength}}.
     type: intensional
   - content: The S/P ratio has unit one.
     type: intensional

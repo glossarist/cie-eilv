@@ -16,13 +16,13 @@ id: cc38c50c-b080-5931-a074-910b849643b2
 ---
 data:
   definition:
-  - content: "{17-22-059, brightness} of an area judged relative to the {17-22-059,
-      brightness} of a similarly illuminated area that appears to be white or highly
+  - content: "{{17-22-059, brightness}} of an area judged relative to the {{17-22-059,
+      brightness}} of a similarly illuminated area that appears to be white or highly
       transmitting"
     type: intensional
   examples: []
   notes:
-  - content: Only {17-22-047, related colour}s exhibit lightness.
+  - content: Only {{17-22-047, related colour}}s exhibit lightness.
     type: intensional
   - content: This entry was numbered 845-02-31 in IEC 60050-845:1987.
     type: intensional

@@ -16,11 +16,11 @@ id: '084260a7-898b-50cf-a216-7ac6d7c48a9c'
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} averaged over a circular aperture of 100 mm²
-      area normal to the {17-27-050, LED}'s mechanical axis at a distance of 100 mm
-      for CIE Standard Condition A or 316 mm for CIE Standard Condition B from the
-      tip of the {17-27-050, LED}, multiplied by the square of the distance and divided
-      by a unit {17-21-109, solid angle}"
+  - content: "{{17-21-060, illuminance}} averaged over a circular aperture of 100
+      mm² area normal to the {{17-27-050, LED}}'s mechanical axis at a distance of
+      100 mm for CIE Standard Condition A or 316 mm for CIE Standard Condition B from
+      the tip of the {{17-27-050, LED}}, multiplied by the square of the distance
+      and divided by a unit {{17-21-109, solid angle}}"
     type: intensional
   examples: []
   notes:

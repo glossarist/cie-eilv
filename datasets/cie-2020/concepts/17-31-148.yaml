@@ -18,12 +18,12 @@ data:
   definition: []
   examples: []
   notes:
-  - content: A light signal can be a reflected image of the {17-27-001, light source},
+  - content: A light signal can be a reflected image of the {{17-27-001, light source}},
       for example the use of heliographs.
     type: intensional
   - content: The term "light signal" is sometimes used for an object or apparatus
-      that emits a light signal, but this usage is not recommended (see "{17-31-004,
-      signal light}").
+      that emits a light signal, but this usage is not recommended (see "{{17-31-004,
+      signal light}}").
     type: intensional
   - content: This entry was numbered 845-11-02 in IEC 60050-845:1987.
     type: intensional

@@ -16,8 +16,8 @@ id: 18082c97-e0cb-5f4f-aff3-159f702640de
 ---
 data:
   definition:
-  - content: vertical distance between the centre of the {17-30-001, luminaire} and
-      the working plane
+  - content: vertical distance between the centre of the {{17-30-001, luminaire}}
+      and the working plane
     type: intensional
   examples: []
   notes:

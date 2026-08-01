@@ -16,18 +16,19 @@ id: 6c328167-e008-59c1-aa49-e1056934671e
 ---
 data:
   definition:
-  - content: three {17-23-002, colour stimulus} on which a {17-23-036, trichromatic
-      system} is based
+  - content: three {{17-23-002, colour stimulus}} on which a {{17-23-036, trichromatic
+      system}} is based
     type: intensional
   examples: []
   notes:
-  - content: These stimuli are either real {17-23-002, colour stimulus} or theoretical
-      stimuli which are defined by linear combinations of real {17-23-002, colour
-      stimulus}.
+  - content: These stimuli are either real {{17-23-002, colour stimulus}} or theoretical
+      stimuli which are defined by linear combinations of real {{17-23-002, colour
+      stimulus}}.
     type: intensional
-  - content: In the CIE standard colorimetric systems, the {17-23-037, reference colour
-      stimuli} are represented by the symbols [R], [G], [B]; [X], [Y], [Z]; [R<sub>10</sub>],
-      [G<sub>10</sub>], [B<sub>10</sub>] or [X<sub>10</sub>], [Y<sub>10</sub>], [Z<sub>10</sub>].
+  - content: In the CIE standard colorimetric systems, the {{17-23-037, reference
+      colour stimuli}} are represented by the symbols [R], [G], [B]; [X], [Y], [Z];
+      [R<sub>10</sub>], [G<sub>10</sub>], [B<sub>10</sub>] or [X<sub>10</sub>], [Y<sub>10</sub>],
+      [Z<sub>10</sub>].
     type: intensional
   - content: This entry was numbered 845-03-21 in IEC 60050-845:1987.
     type: intensional

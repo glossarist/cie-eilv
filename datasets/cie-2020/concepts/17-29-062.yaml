@@ -17,9 +17,9 @@ id: 79b2f57d-87d9-5160-b796-9a5d0b03c0bc
 data:
   definition:
   - content: calculation method to predict the relationship between the number of
-      {17-27-001, light source}s or {17-30-001, luminaire}s, the characteristics of
-      the room and the {17-29-155, average illuminance} on the {17-29-068, working
-      plane}
+      {{17-27-001, light source}}s or {{17-30-001, luminaire}}s, the characteristics
+      of the room and the {{17-29-155, average illuminance}} on the {{17-29-068, working
+      plane}}
     type: intensional
   examples: []
   notes:

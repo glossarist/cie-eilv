@@ -16,17 +16,17 @@ id: c1fb42d9-b522-5508-a873-96128021f887
 ---
 data:
   definition:
-  - content: quotient of the total {17-21-039, luminous flux} of the {17-30-001, luminaire},
-      measured under specified practical conditions with its own lamp(s) and equipment,
-      and the sum of the individual {17-21-039, luminous flux}es of the same lamp(s)
-      when operated outside the {17-30-001, luminaire} with the same equipment, under
-      specified conditions
+  - content: quotient of the total {{17-21-039, luminous flux}} of the {{17-30-001,
+      luminaire}}, measured under specified practical conditions with its own lamp(s)
+      and equipment, and the sum of the individual {{17-21-039, luminous flux}}es
+      of the same lamp(s) when operated outside the {{17-30-001, luminaire}} with
+      the same equipment, under specified conditions
     type: intensional
   examples: []
   notes:
-  - content: For {17-30-001, luminaire}s using {17-27-011, incandescent lamp}s only,
-      the {17-29-051, optical light output ratio} and the light output ratio are the
-      same in practice.
+  - content: For {{17-30-001, luminaire}}s using {{17-27-011, incandescent lamp}}s
+      only, the {{17-29-051, optical light output ratio}} and the light output ratio
+      are the same in practice.
     type: intensional
   - content: The light output ratio has unit one.
     type: intensional

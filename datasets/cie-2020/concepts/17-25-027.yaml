@@ -16,8 +16,9 @@ id: 909462d0-ee20-53f2-a569-4bd6c0b02c9c
 ---
 data:
   definition:
-  - content: "{17-25-006, radiometer} for measuring the directional radiation distribution
-      characteristics of {17-21-032, source}s, {17-30-001, luminaire}s, media or surfaces"
+  - content: "{{17-25-006, radiometer}} for measuring the directional radiation distribution
+      characteristics of {{17-21-032, source}}s, {{17-30-001, luminaire}}s, media
+      or surfaces"
     type: intensional
   examples: []
   notes:

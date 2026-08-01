@@ -16,16 +16,16 @@ id: e8c60780-c9c7-5dca-a2cd-fe5ce1c154cd
 ---
 data:
   definition:
-  - content: programme according to which the maintenance operations of {17-30-001,
-      luminaire} cleaning, room surface cleaning and lamp replacement are scheduled
+  - content: programme according to which the maintenance operations of {{17-30-001,
+      luminaire}} cleaning, room surface cleaning and lamp replacement are scheduled
       to be carried out at equal <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
       intervals</a>
     type: intensional
   examples: []
   notes:
   - content: Usually the time interval for the room surface cleaning is a multiple
-      of the lamp replacement interval; the latter is in turn a multiple of the {17-30-001,
-      luminaire} cleaning interval.
+      of the lamp replacement interval; the latter is in turn a multiple of the {{17-30-001,
+      luminaire}} cleaning interval.
     type: intensional
   - content: This entry was numbered 17-394 in CIE S 017:2011.
     type: intensional

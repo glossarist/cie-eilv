@@ -16,11 +16,11 @@ id: c7201e21-5247-547d-9421-64257fcdb7f5
 ---
 data:
   definition:
-  - content: quotient of the sum of the areas of the {17-29-068, working plane} and
-      the plane of the {17-30-001, luminaire}s and the sum of the area of the walls
-      bounded by the {17-29-068, working plane} and the plane of the {17-30-001, luminaire}s,
-      used in the calculation of the {17-29-069, utilization factor} or {17-29-070,
-      utilance}
+  - content: quotient of the sum of the areas of the {{17-29-068, working plane}}
+      and the plane of the {{17-30-001, luminaire}}s and the sum of the area of the
+      walls bounded by the {{17-29-068, working plane}} and the plane of the {{17-30-001,
+      luminaire}}s, used in the calculation of the {{17-29-069, utilization factor}}
+      or {{17-29-070, utilance}}
     type: intensional
   examples: []
   notes:
@@ -30,10 +30,10 @@ data:
       <sub>
 
 
-      </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i> the {17-29-186, mounting height}, that is the distance between the {17-29-068, working plane} and the plane of the {17-30-001, luminaire}s.
+      </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i> the {{17-29-186, mounting height}}, that is the distance between the {{17-29-068, working plane}} and the plane of the {{17-30-001, luminaire}}s.
     type: intensional
-  - content: See also "{17-29-073, ceiling cavity index}" and "{17-29-075, floor cavity
-      index}".
+  - content: See also "{{17-29-073, ceiling cavity index}}" and "{{17-29-075, floor
+      cavity index}}".
     type: intensional
   - content: The room index has unit one.
     type: intensional

@@ -16,9 +16,9 @@ id: 523eff7c-bebb-5942-9796-06049148fa72
 ---
 data:
   definition:
-  - content: mathematical adjustment in {17-23-052, chromaticity} and {17-24-077,
-      luminance factor} of an object {17-23-002, colour stimulus} to correct for a
-      change in {17-22-013, chromatic adaptation}
+  - content: mathematical adjustment in {{17-23-052, chromaticity}} and {{17-24-077,
+      luminance factor}} of an object {{17-23-002, colour stimulus}} to correct for
+      a change in {{17-22-013, chromatic adaptation}}
     type: intensional
   examples: []
   notes:

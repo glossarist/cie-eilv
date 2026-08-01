@@ -17,7 +17,7 @@ id: ca7cdf3c-3f93-54e3-8634-451df7b8c74f
 data:
   definition:
   - content: |-
-      {17-25-072, detectivity}, <i>D</i>, normalized to take into account two important parameters of the detection system, the sensitive area, <i>A</i>, of the {17-25-035, detector} and the measurement bandwidth, Δ<i>f</i>
+      {{17-25-072, detectivity}}, <i>D</i>, normalized to take into account two important parameters of the detection system, the sensitive area, <i>A</i>, of the {{17-25-035, detector}} and the measurement bandwidth, Δ<i>f</i>
 
 
 
@@ -25,11 +25,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The concept "normalized detectivity" is realistic only if the {17-25-061,
-      responsivity} and noise output of the {17-25-035, detector} are frequency independent
-      throughout the frequency range under consideration and if the noise equivalent
-      input varies as the square root of the {17-25-035, detector} area; this is not
-      always the case.
+  - content: The concept "normalized detectivity" is realistic only if the {{17-25-061,
+      responsivity}} and noise output of the {{17-25-035, detector}} are frequency
+      independent throughout the frequency range under consideration and if the noise
+      equivalent input varies as the square root of the {{17-25-035, detector}} area;
+      this is not always the case.
     type: intensional
   - content: The normalized detectivity is expressed in metre hertz to the power one
       half per watt (m⋅Hz<sup>1/2</sup>⋅W<sup>−1</sup>).

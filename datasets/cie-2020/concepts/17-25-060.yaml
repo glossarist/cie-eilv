@@ -16,8 +16,8 @@ id: 753b6f15-ada8-5cf3-98bb-91d03c1b4aa3
 ---
 data:
   definition:
-  - content: output current of a {17-25-038, photoelectric detector} in the absence
-      of incident {17-21-002, optical radiation}
+  - content: output current of a {{17-25-038, photoelectric detector}} in the absence
+      of incident {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:

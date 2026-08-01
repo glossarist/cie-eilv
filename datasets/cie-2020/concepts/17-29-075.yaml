@@ -16,10 +16,10 @@ id: 58dad73a-4d7d-5644-9452-54f67da1ed15
 ---
 data:
   definition:
-  - content: quotient of the sum of the areas of the floor and the {17-29-068, working
-      plane} and the sum of the area of the walls bounded by the floor and the {17-29-068,
-      working plane}, used in the calculation of the {17-29-069, utilization factor}
-      or {17-29-070, utilance}
+  - content: quotient of the sum of the areas of the floor and the {{17-29-068, working
+      plane}} and the sum of the area of the walls bounded by the floor and the {{17-29-068,
+      working plane}}, used in the calculation of the {{17-29-069, utilization factor}}
+      or {{17-29-070, utilance}}
     type: intensional
   examples: []
   notes:
@@ -30,7 +30,8 @@ data:
 
       </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i><sub>f</sub> is the distance from the floor to the utilization plane.
     type: intensional
-  - content: See also "{17-29-073, ceiling cavity index}" and "{17-29-071, room index}".
+  - content: See also "{{17-29-073, ceiling cavity index}}" and "{{17-29-071, room
+      index}}".
     type: intensional
   - content: The floor cavity index has unit one.
     type: intensional

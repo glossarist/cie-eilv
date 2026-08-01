@@ -16,16 +16,16 @@ id: 92eb8d61-97ed-54c3-95d9-0cb883a26d14
 ---
 data:
   definition:
-  - content: "{17-23-038, tristimulus values} of monochromatic stimuli of equal {17-21-038,
-      radiant flux}"
+  - content: "{{17-23-038, tristimulus values}} of monochromatic stimuli of equal
+      {{17-21-038, radiant flux}}"
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-23-032, colour-matching coefficients}".
+  - content: See also "{{17-23-032, colour-matching coefficients}}".
     type: intensional
-  - content: The colour-matching functions can be used to calculate the {17-23-038,
-      tristimulus values} of a {17-23-002, colour stimulus} from its {17-23-003, colour
-      stimulus function}s <i>φ<sub>λ</sub></i>(<i>λ</i>).
+  - content: The colour-matching functions can be used to calculate the {{17-23-038,
+      tristimulus values}} of a {{17-23-002, colour stimulus}} from its {{17-23-003,
+      colour stimulus function}}s <i>φ<sub>λ</sub></i>(<i>λ</i>).
     type: intensional
   - content: See also CIE 15<i> Colorimetry</i>.
     type: intensional

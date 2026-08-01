@@ -16,17 +16,17 @@ id: a1734190-9e98-5346-b8c0-4c3128689f4a
 ---
 data:
   definition:
-  - content: '{17-21-109, solid angle} as "seen" by the {17-25-035, detector} (acceptance
-      angle), e.g. of a {17-25-006, radiometer} or {17-25-007, spectroradiometer},
-      out of which the {17-25-035, detector} receives radiation'
+  - content: '{{17-21-109, solid angle}} as "seen" by the {{17-25-035, detector}}
+      (acceptance angle), e.g. of a {{17-25-006, radiometer}} or {{17-25-007, spectroradiometer}},
+      out of which the {{17-25-035, detector}} receives radiation'
     type: intensional
   examples: []
   notes:
-  - content: The field of view should not be confused with the {17-25-085, angular
-      subtense} of the apparent source, <i>α</i>.
+  - content: The field of view should not be confused with the {{17-25-085, angular
+      subtense}} of the apparent source, <i>α</i>.
     type: intensional
-  - content: A plane angle is sometimes used to describe a circular symmetric {17-21-109,
-      solid angle} field of view.
+  - content: A plane angle is sometimes used to describe a circular symmetric {{17-21-109,
+      solid angle}} field of view.
     type: intensional
   - content: The field of view is expressed in steradian (sr).
     type: intensional

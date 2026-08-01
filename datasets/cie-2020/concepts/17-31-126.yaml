@@ -16,9 +16,9 @@ id: 0c22a2b8-0465-5a5a-ba38-404c1c46665c
 ---
 data:
   definition:
-  - content: separation between character {17-31-102, element}s expressed in terms
-      of the number of unit {17-31-102, element}s or the distance between centres
-      of {17-31-102, element}s of adjacent characters
+  - content: separation between character {{17-31-102, element}}s expressed in terms
+      of the number of unit {{17-31-102, element}}s or the distance between centres
+      of {{17-31-102, element}}s of adjacent characters
     type: intensional
   examples: []
   notes:

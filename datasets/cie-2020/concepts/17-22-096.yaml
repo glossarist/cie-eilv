@@ -16,9 +16,9 @@ id: f5d02679-4673-542e-a7af-e5829a48cf7a
 ---
 data:
   definition:
-  - content: change in {17-22-067, hue} produced by changing the pulse duration of
-      a {17-23-002, colour stimulus} while keeping its {17-23-052, chromaticity} and
-      {17-21-050, luminance} constant
+  - content: change in {{17-22-067, hue}} produced by changing the pulse duration
+      of a {{17-23-002, colour stimulus}} while keeping its {{17-23-052, chromaticity}}
+      and {{17-21-050, luminance}} constant
     type: intensional
   examples: []
   notes: []

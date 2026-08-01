@@ -16,13 +16,13 @@ id: 3702741b-4c22-55b4-a847-93fb15ac8996
 ---
 data:
   definition:
-  - content: effective {17-21-071, radiant exposure} with the spectral radiant exposure,
-      <i>H<sub>λ</sub></i>, spectrally weighted with the {17-26-054, ultraviolet hazard
-      spectral weighting function}, <i>S</i><sub>UV</sub>(<i>λ</i>)
+  - content: effective {{17-21-071, radiant exposure}} with the spectral radiant exposure,
+      <i>H<sub>λ</sub></i>, spectrally weighted with the {{17-26-054, ultraviolet
+      hazard spectral weighting function}}, <i>S</i><sub>UV</sub>(<i>λ</i>)
     type: intensional
   examples: []
   notes:
-  - content: The {17-21-025, wavelength} range for ultraviolet hazard radiant exposure
+  - content: The {{17-21-025, wavelength}} range for ultraviolet hazard radiant exposure
       is specified in ICNIRP-recommendations as <i>λ</i> = 180 nm to <i>λ</i> = 400
       nm.
     type: intensional

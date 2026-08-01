@@ -17,20 +17,20 @@ id: 4ac7ce64-da91-5fc2-9e0d-0715f53527aa
 data:
   definition:
   - content: |-
-      density of exiting {17-21-039, luminous flux} with respect to area at a point on a real or imaginary surface
+      density of exiting {{17-21-039, luminous flux}} with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>v</sub> is {17-21-039, luminous flux} and <i>A</i> is the area from which the {17-21-039, luminous flux} leaves
+      where <i>Φ</i><sub>v</sub> is {{17-21-039, luminous flux}} and <i>A</i> is the area from which the {{17-21-039, luminous flux}} leaves
     type: intensional
   examples: []
   notes:
   - content: |-
-      Luminous exitance can be derived from the spectral {17-21-080, radiant exitance} distribution by
+      Luminous exitance can be derived from the spectral {{17-21-080, radiant exitance}} distribution by
 
-      where <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}, <i>M</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral {17-21-080, radiant exitance} at {17-21-025, wavelength} <i>λ</i> and <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency}.
-      Integral limits can be confined depending on the {17-25-063, spectral responsivity} of the {17-25-035, detector}s used as a sensor.
+      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>M</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral {{17-21-080, radiant exitance}} at {{17-21-025, wavelength}} <i>λ</i> and <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}.
+      Integral limits can be confined depending on the {{17-25-063, spectral responsivity}} of the {{17-25-035, detector}}s used as a sensor.
     type: intensional
-  - content: The corresponding radiometric quantity is "{17-21-080, radiant exitance}".
-      The corresponding quantity for photons is "{17-21-082, photon exitance}".
+  - content: The corresponding radiometric quantity is "{{17-21-080, radiant exitance}}".
+      The corresponding quantity for photons is "{{17-21-082, photon exitance}}".
     type: intensional
   - content: The luminous exitance is expressed in lumen per square metre (lm·m<sup>−2</sup>).
     type: intensional

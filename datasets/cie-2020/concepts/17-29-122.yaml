@@ -16,17 +16,17 @@ id: 344472a8-6912-55d3-bb5d-acef997b9d67
 ---
 data:
   definition:
-  - content: quotient of that part of the {17-21-060, illuminance} at a point on a
-      given plane which is received directly (or through clear glass) from a sky of
-      assumed or known {17-21-050, luminance} distribution and the {17-21-060, illuminance}
-      on a horizontal plane due to an unobstructed hemisphere of this sky, where the
-      contribution of direct {17-29-103, sunlight} to both {17-21-060, illuminance}s
-      is excluded
+  - content: quotient of that part of the {{17-21-060, illuminance}} at a point on
+      a given plane which is received directly (or through clear glass) from a sky
+      of assumed or known {{17-21-050, luminance}} distribution and the {{17-21-060,
+      illuminance}} on a horizontal plane due to an unobstructed hemisphere of this
+      sky, where the contribution of direct {{17-29-103, sunlight}} to both {{17-21-060,
+      illuminance}}s is excluded
     type: intensional
   examples: []
   notes:
-  - content: When calculating the {17-29-001, lighting} of interiors, the contribution
-      of direct {17-29-103, sunlight} has to be considered separately.
+  - content: When calculating the {{17-29-001, lighting}} of interiors, the contribution
+      of direct {{17-29-103, sunlight}} has to be considered separately.
     type: intensional
   - content: The sky component of daylight factor has unit one.
     type: intensional

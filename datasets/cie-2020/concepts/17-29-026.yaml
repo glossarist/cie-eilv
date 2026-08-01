@@ -16,9 +16,9 @@ id: d390c02f-2f62-5ded-b46e-05e7979e7246
 ---
 data:
   definition:
-  - content: type of {17-29-001, lighting} that uses semiconductor {17-27-050, LED}s,
-      organic LEDs (OLEDs), polymer LEDs (PLEDs) or laser diodes as {17-21-032, source}s
-      of lighting
+  - content: type of {{17-29-001, lighting}} that uses semiconductor {{17-27-050,
+      LED}}s, organic LEDs (OLEDs), polymer LEDs (PLEDs) or laser diodes as {{17-21-032,
+      source}}s of lighting
     type: intensional
   examples: []
   notes: []

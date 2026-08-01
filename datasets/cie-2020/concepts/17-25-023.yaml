@@ -18,9 +18,10 @@ data:
   definition:
   - content: visual photometer in which the observer sees either an undivided field
       illuminated successively, or two adjacent fields illuminated alternately, by
-      two {17-21-032, source}s to be compared, the frequency of alteration being conveniently
-      chosen so that it is above the critical {17-22-092, flicker} frequency for {17-22-040,
-      colour}s but below the fusion frequency for {17-22-059, brightness}
+      two {{17-21-032, source}}s to be compared, the frequency of alteration being
+      conveniently chosen so that it is above the critical {{17-22-092, flicker}}
+      frequency for {{17-22-040, colour}}s but below the fusion frequency for {{17-22-059,
+      brightness}}
     type: intensional
   examples: []
   notes:

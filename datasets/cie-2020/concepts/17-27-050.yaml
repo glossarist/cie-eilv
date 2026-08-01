@@ -16,8 +16,8 @@ id: 1a7eb9ca-a194-5efa-8109-8836fec70d7b
 ---
 data:
   definition:
-  - content: solid-state device embodying a p-n junction, emitting incoherent {17-21-002,
-      optical radiation} when excited by an electric current
+  - content: solid-state device embodying a p-n junction, emitting incoherent {{17-21-002,
+      optical radiation}} when excited by an electric current
     type: intensional
   examples: []
   notes:
@@ -26,11 +26,11 @@ data:
     type: intensional
   - content: The output of an LED is a function of its physical construction, the
       material from which the LED is constructed and the exciting current. The optical
-      {17-24-001, emission} can be in the ultraviolet, visible, or infrared {17-21-025,
-      wavelength} regions.
+      {{17-24-001, emission}} can be in the ultraviolet, visible, or infrared {{17-21-025,
+      wavelength}} regions.
     type: intensional
-  - content: The term "LED" represents the {17-27-051, LED die} (or chip), or {17-27-065,
-      LED package}. It is also used as part of a compound term, e.g. "LED technology",
+  - content: The term "LED" represents the {{17-27-051, LED die}} (or chip), or {{17-27-065,
+      LED package}}. It is also used as part of a compound term, e.g. "LED technology",
       "LED television".
     type: intensional
   - content: The term "LED" shall not be used as an adjective for reporting product

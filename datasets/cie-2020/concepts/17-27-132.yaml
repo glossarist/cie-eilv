@@ -16,13 +16,13 @@ id: 94be703a-51dc-5986-b53a-68b7607f0753
 ---
 data:
   definition:
-  - content: type of preheating of the electrodes of a {17-27-024, discharge lamp}
+  - content: type of preheating of the electrodes of a {{17-27-024, discharge lamp}}
       in which the electrodes are fed by separate circuits
     type: intensional
   examples: []
   notes:
   - content: Each electrode is usually connected across a low-voltage winding that
-      can be part of the {17-28-044, ballast} and provides the preheating current.
+      can be part of the {{17-28-044, ballast}} and provides the preheating current.
       In certain circuits, this low voltage is automatically decreased after the arc
       has struck.
     type: intensional

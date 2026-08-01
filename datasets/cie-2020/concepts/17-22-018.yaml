@@ -16,13 +16,13 @@ id: d6ebeb1e-1853-5232-b56e-23318bf39fcb
 ---
 data:
   definition:
-  - content: vision by the normal eye intermediate between {17-22-016, photopic vision}
-      and {17-22-017, scotopic vision}
+  - content: vision by the normal eye intermediate between {{17-22-016, photopic vision}}
+      and {{17-22-017, scotopic vision}}
     type: intensional
   examples: []
   notes:
-  - content: In mesopic vision, both the {17-22-002, cones} and the {17-22-003, rods}
-      are active.
+  - content: In mesopic vision, both the {{17-22-002, cones}} and the {{17-22-003,
+      rods}} are active.
     type: intensional
   - content: See also CIE 191:2010 <i>Recommended System for Mesopic Photometry based
       on Visual Performance.</i>

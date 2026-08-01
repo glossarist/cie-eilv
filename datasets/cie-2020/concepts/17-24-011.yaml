@@ -16,8 +16,8 @@ id: dfb9c635-0c8e-57a6-a283-e8d5ada3b769
 ---
 data:
   definition:
-  - content: "{17-24-003, thermal radiator} whose spectral {17-24-009, emissivity}
-      is constant with respect to {17-21-025, wavelength} over the spectral range
+  - content: "{{17-24-003, thermal radiator}} whose spectral {{17-24-009, emissivity}}
+      is constant with respect to {{17-21-025, wavelength}} over the spectral range
       considered"
     type: intensional
   examples: []

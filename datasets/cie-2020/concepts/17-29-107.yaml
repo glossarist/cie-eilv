@@ -16,9 +16,9 @@ id: e655ad83-8d54-5ae7-8f6b-d32a154aa939
 ---
 data:
   definition:
-  - content: quotient of the vertical {17-29-106, optical thickness} of a turbid atmosphere
-      and the vertical {17-29-106, optical thickness} of the pure and dry atmosphere
-      (Rayleigh atmosphere), related to the whole solar spectrum
+  - content: quotient of the vertical {{17-29-106, optical thickness}} of a turbid
+      atmosphere and the vertical {{17-29-106, optical thickness}} of the pure and
+      dry atmosphere (Rayleigh atmosphere), related to the whole solar spectrum
     type: intensional
   examples: []
   notes:
@@ -27,7 +27,7 @@ data:
       <i>T</i><sub>L</sub> = (<i>δ</i><sub>R</sub> + <i>δ</i><sub>A</sub> + <i>δ</i><sub>Z</sub> + <i>δ</i><sub>W</sub>) / <i>δ</i><sub>R</sub><sub>
 
 
-      </sub>where <i>δ</i><sub>R</sub> is the {17-29-106, optical thickness} with respect to Rayleigh {17-24-049, scattering} at the air molecules, and <i>δ</i><sub>A</sub>, <i>δ</i><sub>Z</sub>, <i>δ</i><sub>W</sub> are the {17-29-106, optical thickness}es with respect to Mie {17-24-049, scattering} and {17-24-081, absorption} at the aerosol particles, to ozone {17-24-081, absorption}, and to water vapour {17-24-081, absorption} respectively.
+      </sub>where <i>δ</i><sub>R</sub> is the {{17-29-106, optical thickness}} with respect to Rayleigh {{17-24-049, scattering}} at the air molecules, and <i>δ</i><sub>A</sub>, <i>δ</i><sub>Z</sub>, <i>δ</i><sub>W</sub> are the {{17-29-106, optical thickness}}es with respect to Mie {{17-24-049, scattering}} and {{17-24-081, absorption}} at the aerosol particles, to ozone {{17-24-081, absorption}}, and to water vapour {{17-24-081, absorption}} respectively.
     type: intensional
   - content: The total turbidity factor has unit one.
     type: intensional

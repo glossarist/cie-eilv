@@ -21,8 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: "{17-24-064, reflectance}, <i>ρ</i>, is the sum of regular reflectance,
-      <i>ρ</i><sub>r</sub>, and {17-24-068, diffuse reflectance}, <i>ρ</i><sub>d</sub>:<sub>
+  - content: "{{17-24-064, reflectance}}, <i>ρ</i>, is the sum of regular reflectance,
+      <i>ρ</i><sub>r</sub>, and {{17-24-068, diffuse reflectance}}, <i>ρ</i><sub>d</sub>:<sub>
       </sub><i>ρ</i> = <i>ρ</i><sub>r</sub> + <i>ρ</i><sub>d</sub>."
     type: intensional
   - content: The regular reflectance has unit one.

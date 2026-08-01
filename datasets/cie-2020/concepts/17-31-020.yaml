@@ -17,7 +17,7 @@ id: 894c9a9d-d60b-53a1-b669-73499597ab37
 data:
   definition:
   - content: |-
-      law relating the apparent {17-22-089, contrast}, <i>C<sub>d</sub></i>, of an object against a sky background, at a given distance of observation, <i>d</i>, to the inherent {17-22-089, contrast}, <i>C</i><sub>0</sub>, and to the {17-31-017, atmospheric transmissivity}, <i>T</i>, which is assumed to be uniform
+      law relating the apparent {{17-22-089, contrast}}, <i>C<sub>d</sub></i>, of an object against a sky background, at a given distance of observation, <i>d</i>, to the inherent {{17-22-089, contrast}}, <i>C</i><sub>0</sub>, and to the {{17-31-017, atmospheric transmissivity}}, <i>T</i>, which is assumed to be uniform
 
       where <i>d</i><sub>0</sub> is the length specified for the definition of <i>T</i>
     type: intensional
@@ -29,12 +29,12 @@ data:
       where the exponent, <i>δ</i>, in <i>T<sup>δ</sup></i> is the numerical value of <i>d</i> measured with <i>d</i><sub>0</sub> as "unit".
     type: intensional
   - content: |-
-      Taking into account the relationship between {17-31-017, atmospheric transmissivity}, <i>T</i>, and {17-31-018, meteorological optical range}, <i>v</i>, given in Note 2 to entry of "{17-31-018, meteorological optical range}", Koschmieder's law can be also written as
+      Taking into account the relationship between {{17-31-017, atmospheric transmissivity}}, <i>T</i>, and {{17-31-018, meteorological optical range}}, <i>v</i>, given in Note 2 to entry of "{{17-31-018, meteorological optical range}}", Koschmieder's law can be also written as
       .
     type: intensional
   - content: The contrast is taken to be the quotient of the difference between the
-      {17-21-050, luminance} of the object and the {17-21-050, luminance} of the background,
-      and the {17-21-050, luminance} of the background.
+      {{17-21-050, luminance}} of the object and the {{17-21-050, luminance}} of the
+      background, and the {{17-21-050, luminance}} of the background.
     type: intensional
   - content: This entry was numbered 845-11-22 in IEC 60050-845:1987.
     type: intensional

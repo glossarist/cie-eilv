@@ -16,8 +16,8 @@ id: '082d664f-056d-5966-81d5-ff3eca1a6a42'
 ---
 data:
   definition:
-  - content: radiometric or photometric quantity to which a {17-25-035, detector}
-      of {17-21-002, optical radiation} is responding
+  - content: radiometric or photometric quantity to which a {{17-25-035, detector}}
+      of {{17-21-002, optical radiation}} is responding
     type: intensional
   examples: []
   notes:

@@ -96,7 +96,7 @@ module CieEilv
         termid = Regexp.last_match(1)
         anchor_text = Regexp.last_match(2).strip
         designation = designations[termid] || anchor_text
-        "{#{termid}, #{designation}}"
+        "{{#{termid}, #{designation}}}"
       end
     end
   end

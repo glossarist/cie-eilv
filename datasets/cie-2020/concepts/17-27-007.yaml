@@ -16,14 +16,14 @@ id: 89b4adb0-d9d7-5eee-85ed-5acef1b5ff9d
 ---
 data:
   definition:
-  - content: "{17-27-005, replaceable light source} intended by the manufacturer to
-      be replaced only by a service agent, or a similarly qualified person"
+  - content: "{{17-27-005, replaceable light source}} intended by the manufacturer
+      to be replaced only by a service agent, or a similarly qualified person"
     type: intensional
   examples: []
   notes:
-  - content: When incorporated into a {17-30-001, luminaire}, a non-user replaceable
-      light source can become classified as non-replaceable depending on the {17-30-001,
-      luminaire} design.
+  - content: When incorporated into a {{17-30-001, luminaire}}, a non-user replaceable
+      light source can become classified as non-replaceable depending on the {{17-30-001,
+      luminaire}} design.
     type: intensional
   sources:
   - origin:

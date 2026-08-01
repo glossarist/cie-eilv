@@ -16,8 +16,8 @@ id: 0b97af51-27a1-5b72-9b9b-4622ffb2681d
 ---
 data:
   definition:
-  - content: quotient of the maximum {17-21-050, luminance} level that appears unclipped
-      and the minimum {17-21-050, luminance} level that can be reproduced with an
+  - content: quotient of the maximum {{17-21-050, luminance}} level that appears unclipped
+      and the minimum {{17-21-050, luminance}} level that can be reproduced with an
       incremental signal to temporal noise ratio of at least 1
     type: intensional
   examples: []

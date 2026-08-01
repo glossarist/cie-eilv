@@ -16,17 +16,17 @@ id: fdad52ea-dee7-5fa9-9cf4-890b5663971c
 ---
 data:
   definition:
-  - content: quotient of absorbed {17-21-038, radiant flux}, <i>Φ</i><sub>a</sub>,
-      and incident {17-21-038, radiant flux}, <i>Φ</i><sub>m</sub>
+  - content: quotient of absorbed {{17-21-038, radiant flux}}, <i>Φ</i><sub>a</sub>,
+      and incident {{17-21-038, radiant flux}}, <i>Φ</i><sub>m</sub>
     type: intensional
   examples: []
   notes:
-  - content: The absorptance is also defined spectrally in terms of {17-21-025, wavelength},
+  - content: The absorptance is also defined spectrally in terms of {{17-21-025, wavelength}},
       in which case, "spectral" is added before the quantity name.
     type: intensional
   - content: Due to energy conservation, <i>α</i> + <i>ρ</i> + <i>τ</i> = 1 except
-      when {17-21-017, polarized radiation} is observed, where <i>ρ</i> is {17-24-064,
-      reflectance} and <i>τ</i> is {17-24-065, transmittance}.
+      when {{17-21-017, polarized radiation}} is observed, where <i>ρ</i> is {{17-24-064,
+      reflectance}} and <i>τ</i> is {{17-24-065, transmittance}}.
     type: intensional
   - content: The absorptance has unit one.
     type: intensional

@@ -16,9 +16,9 @@ id: dc607996-7f09-5c3e-91c5-e6544ad5d8a6
 ---
 data:
   definition:
-  - content: part of a {17-30-001, luminaire} which supports the {17-27-008, electric
-      lamp} and provides electrical contact with it and which is designed as part
-      of the {17-30-001, luminaire}
+  - content: part of a {{17-30-001, luminaire}} which supports the {{17-27-008, electric
+      lamp}} and provides electrical contact with it and which is designed as part
+      of the {{17-30-001, luminaire}}
     type: intensional
   examples: []
   notes: []

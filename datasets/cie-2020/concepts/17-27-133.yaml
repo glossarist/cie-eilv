@@ -17,9 +17,9 @@ id: 593a5315-2bae-5bab-b95e-986b51c34968
 data:
   definition:
   - content: three digit number, the first digit representing the first digit of the
-      {17-22-111, CIE 1974 general colour rendering index}, and the second and third
-      digits representing the first two digits (thousands and hundreds) of the {17-23-068,
-      correlated colour temperature} of the {17-27-001, light source}
+      {{17-22-111, CIE 1974 general colour rendering index}}, and the second and third
+      digits representing the first two digits (thousands and hundreds) of the {{17-23-068,
+      correlated colour temperature}} of the {{17-27-001, light source}}
     type: intensional
   examples: []
   notes: []

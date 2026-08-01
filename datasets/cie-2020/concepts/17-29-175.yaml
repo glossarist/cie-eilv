@@ -17,8 +17,8 @@ id: f4c0882a-b430-5cd2-a49f-1f5328a1b9cc
 data:
   definition:
   - content: <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> during which stricter requirements for the control of {17-29-181,
-      obtrusive light} apply
+      interval</a> during which stricter requirements for the control of {{17-29-181,
+      obtrusive light}} apply
     type: intensional
   examples: []
   notes:

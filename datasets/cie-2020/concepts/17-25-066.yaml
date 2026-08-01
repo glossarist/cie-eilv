@@ -16,9 +16,9 @@ id: 25cb3c24-0254-50c9-b3fe-d63073683090
 ---
 data:
   definition:
-  - content: time required for the {17-25-058, output} to change, after a step variation
-      from one steady {17-25-057, input} to another steady {17-25-057, input}, by
-      the fraction (1 − 1/e) of its total change in value, where the total change
+  - content: time required for the {{17-25-058, output}} to change, after a step variation
+      from one steady {{17-25-057, input}} to another steady {{17-25-057, input}},
+      by the fraction (1 − 1/e) of its total change in value, where the total change
       in value is the difference between the initial value and the final (asymptotic)
       value
     type: intensional

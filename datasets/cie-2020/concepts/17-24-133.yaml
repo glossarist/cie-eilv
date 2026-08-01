@@ -16,14 +16,14 @@ id: 50f0ea09-b197-5e4c-b1e4-4931c63dd0c3
 ---
 data:
   definition:
-  - content: material whose visual {17-22-019, appearance} changes significantly depending
-      on the angle at which it is illuminated or viewed
+  - content: material whose visual {{17-22-019, appearance}} changes significantly
+      depending on the angle at which it is illuminated or viewed
     type: intensional
   examples: []
   notes:
   - content: Examples of gonio-apparent materials include metallic flake pigments
-      whose {17-22-063, lightness} changes most significantly, lustre pigments and
-      interferometric coated pigments whose {17-22-067, hue} changes most significantly.
+      whose {{17-22-063, lightness}} changes most significantly, lustre pigments and
+      interferometric coated pigments whose {{17-22-067, hue}} changes most significantly.
     type: intensional
   sources:
   - origin:

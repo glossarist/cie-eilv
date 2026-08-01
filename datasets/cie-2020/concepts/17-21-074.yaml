@@ -16,22 +16,22 @@ id: f87a0b7e-6ce9-53d8-83c1-28c3bfac5eb9
 ---
 data:
   definition:
-  - content: time integral of {17-21-054, spherical irradiance}, <i>E</i><sub>e,o</sub>,
+  - content: time integral of {{17-21-054, spherical irradiance}}, <i>E</i><sub>e,o</sub>,
       at a given point over a given duration, Δ<i>t</i>
     type: intensional
   examples: []
   notes:
-  - content: The radiant spherical exposure is the quotient of the {17-21-041, radiant
-      energy} of all radiation incident on the outer surface of an infinitely small
+  - content: The radiant spherical exposure is the quotient of the {{17-21-041, radiant
+      energy}} of all radiation incident on the outer surface of an infinitely small
       sphere centred at the specified point and the area of the diametrical cross-section
       of that sphere.
     type: intensional
   - content: The radiant spherical exposure is the appropriate radiometric quantity
-      for describing a {17-26-033, dose} for a photobiological or photochemical effect
-      in a {17-24-049, scattering} medium (e.g. light in skin). It is also the appropriate
-      radiometric quantity for describing the {17-21-099, irradiation} of microorganisms.
-      The radiant spherical exposure is frequently used incorrectly as a substitute
-      for {17-21-071, radiant exposure}.
+      for describing a {{17-26-033, dose}} for a photobiological or photochemical
+      effect in a {{17-24-049, scattering}} medium (e.g. light in skin). It is also
+      the appropriate radiometric quantity for describing the {{17-21-099, irradiation}}
+      of microorganisms. The radiant spherical exposure is frequently used incorrectly
+      as a substitute for {{17-21-071, radiant exposure}}.
     type: intensional
   - content: The radiant spherical exposure is expressed in joule per square metre
       (J·m<sup>−2</sup> = W·s·m<sup>−2</sup>).

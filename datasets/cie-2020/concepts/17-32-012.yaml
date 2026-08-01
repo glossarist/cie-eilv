@@ -16,12 +16,12 @@ id: 60bcd2db-8d1e-5717-a19f-615266359e5c
 ---
 data:
   definition:
-  - content: defined and documented {17-32-009, colour image data} representing estimates
-      of the colorimetric coordinates of the elements of a scene
+  - content: defined and documented {{17-32-009, colour image data}} representing
+      estimates of the colorimetric coordinates of the elements of a scene
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-32-054, scene-referred image state}".
+  - content: See also "{{17-32-054, scene-referred image state}}".
     type: intensional
   - content: This entry was numbered 17-216 in CIE S 017:2011.
     type: intensional

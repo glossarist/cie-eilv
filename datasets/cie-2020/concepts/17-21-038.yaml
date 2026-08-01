@@ -17,18 +17,18 @@ id: 72500378-b756-5a84-bb69-0f5e179fec32
 data:
   definition:
   - content: |-
-      change in {17-21-041, radiant energy} with time
+      change in {{17-21-041, radiant energy}} with time
 
-      where <i>Q</i><sub>e</sub> is the {17-21-041, radiant energy} emitted, transferred or received, and <i>t </i>is time
+      where <i>Q</i><sub>e</sub> is the {{17-21-041, radiant energy}} emitted, transferred or received, and <i>t </i>is time
     type: intensional
   examples: []
   notes:
-  - content: The corresponding photometric quantity is "{17-21-039, luminous flux}".
-      The corresponding quantity for photons is "{17-21-040, photon flux}".
+  - content: The corresponding photometric quantity is "{{17-21-039, luminous flux}}".
+      The corresponding quantity for photons is "{{17-21-040, photon flux}}".
     type: intensional
   - content: The term "radiant flux" is the preferred term for most radiometric applications,
-      with the notable exception of {17-27-136, laser} radiometry where the term "radiant
-      power" is more commonly used.
+      with the notable exception of {{17-27-136, laser}} radiometry where the term
+      "radiant power" is more commonly used.
     type: intensional
   - content: The radiant flux is expressed in watt (W).
     type: intensional

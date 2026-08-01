@@ -16,9 +16,9 @@ id: 2a6ded83-4e2e-5256-a59a-80d6ebd48d34
 ---
 data:
   definition:
-  - content: law stating that {17-26-034, effective dose}s can be added to a total
-      {17-26-034, effective dose}, even if the {17-26-064, dose response curve}s for
-      different wavebands are different
+  - content: law stating that {{17-26-034, effective dose}}s can be added to a total
+      {{17-26-034, effective dose}}, even if the {{17-26-064, dose response curve}}s
+      for different wavebands are different
     type: intensional
   examples: []
   notes:

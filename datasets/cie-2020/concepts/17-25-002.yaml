@@ -16,8 +16,9 @@ id: 28609677-052c-5548-aefd-5b88704f99be
 ---
 data:
   definition:
-  - content: device calibrated by reference to a {17-25-001, primary photometric standard}
-      and used, in turn, to calibrate {17-25-003, working photometric standard}s
+  - content: device calibrated by reference to a {{17-25-001, primary photometric
+      standard}} and used, in turn, to calibrate {{17-25-003, working photometric
+      standard}}s
     type: intensional
   examples: []
   notes:

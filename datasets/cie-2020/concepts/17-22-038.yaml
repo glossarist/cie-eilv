@@ -16,17 +16,17 @@ id: 798c7398-4e9d-572a-9fe0-dd62b7e91d3e
 ---
 data:
   definition:
-  - content: non-SI unit for {17-22-010, conventional retinal illuminance} and {17-22-011,
-      natural pupil luminance}
+  - content: non-SI unit for {{17-22-010, conventional retinal illuminance}} and {{17-22-011,
+      natural pupil luminance}}
     type: intensional
   examples: []
   notes:
-  - content: When the eye is viewing a surface of uniform {17-21-050, luminance},
-      the numerical value of the {17-22-010, conventional retinal illuminance} or
-      the {17-22-011, natural pupil luminance}, expressed in troland, is equal to
+  - content: When the eye is viewing a surface of uniform {{17-21-050, luminance}},
+      the numerical value of the {{17-22-010, conventional retinal illuminance}} or
+      the {{17-22-011, natural pupil luminance}}, expressed in troland, is equal to
       the product of the area in square millimetres of the limiting pupil, natural
-      or artificial, by the {17-21-050, luminance} of the surface in candela per square
-      metre.
+      or artificial, by the {{17-21-050, luminance}} of the surface in candela per
+      square metre.
     type: intensional
   - content: This entry was numbered 845-02-16 in IEC 60050-845:1987.
     type: intensional

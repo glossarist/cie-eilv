@@ -16,8 +16,8 @@ id: b9e8227f-ffff-55bb-8148-3afa0efc8dfd
 ---
 data:
   definition:
-  - content: quotient of {17-29-117, sunshine duration} and {17-29-119, possible sunshine
-      duration} within the same <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
+  - content: quotient of {{17-29-117, sunshine duration}} and {{17-29-119, possible
+      sunshine duration}} within the same <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
       interval</a>
     type: intensional
   examples: []

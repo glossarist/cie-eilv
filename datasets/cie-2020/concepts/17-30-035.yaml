@@ -17,8 +17,8 @@ id: 5ea6aa16-f736-5f58-8e18-9ee07c331856
 data:
   definition:
   - content: angle, measured up from nadir, between the vertical axis and the first
-      line of sight at which the {17-27-001, light source}(s) and the surfaces of
-      high {17-21-050, luminance} are not visible
+      line of sight at which the {{17-27-001, light source}}(s) and the surfaces of
+      high {{17-21-050, luminance}} are not visible
     type: intensional
   examples: []
   notes:

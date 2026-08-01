@@ -20,8 +20,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A light source can be self-emitting ({17-27-002, primary light source})
-      or non-self-emitting ({17-27-003, secondary light source}).
+  - content: A light source can be self-emitting ({{17-27-002, primary light source}})
+      or non-self-emitting ({{17-27-003, secondary light source}}).
     type: intensional
   - content: See also Note 1 to entry of 17-27-004.
     type: intensional

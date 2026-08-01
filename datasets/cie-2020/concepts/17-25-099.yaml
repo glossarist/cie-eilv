@@ -16,17 +16,17 @@ id: 14decf64-13c6-5f4e-9047-0469456950e4
 ---
 data:
   definition:
-  - content: "{17-25-035, detector} for which the {17-25-058, output} is proportional
-      to the {17-25-057, input} over a specified range, so that the {17-25-061, responsivity}
-      of the {17-25-035, detector} is constant over that range"
+  - content: "{{17-25-035, detector}} for which the {{17-25-058, output}} is proportional
+      to the {{17-25-057, input}} over a specified range, so that the {{17-25-061,
+      responsivity}} of the {{17-25-035, detector}} is constant over that range"
     type: intensional
   examples: []
   notes:
-  - content: A {17-25-035, detector} is usually linear only over a certain limited
-      range of {17-25-057, input} levels. The range should be specified.
+  - content: A {{17-25-035, detector}} is usually linear only over a certain limited
+      range of {{17-25-057, input}} levels. The range should be specified.
     type: intensional
-  - content: The linear range of a {17-25-035, detector} can be affected by the use
-      of unsuitable electronic circuitry.
+  - content: The linear range of a {{17-25-035, detector}} can be affected by the
+      use of unsuitable electronic circuitry.
     type: intensional
   - content: This entry was numbered 17-683 in CIE S 017:2011.
     type: intensional

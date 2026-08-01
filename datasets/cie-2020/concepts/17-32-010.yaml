@@ -16,14 +16,14 @@ id: 29f736a5-d231-5a33-8f06-8dc25d3cb278
 ---
 data:
   definition:
-  - content: defined and documented original-referred {17-32-009, colour image data}
-      representing the colorimetric coordinates of the {17-23-016, colour element}s
-      of a two-dimensional {17-32-045, hardcopy} produced by scanning artwork, photographic
+  - content: defined and documented original-referred {{17-32-009, colour image data}}
+      representing the colorimetric coordinates of the {{17-23-016, colour element}}s
+      of a two-dimensional {{17-32-045, hardcopy}} produced by scanning artwork, photographic
       transparencies or prints, or photomechanical or other reproductions
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-32-051, original-referred image state}".
+  - content: See also "{{17-32-051, original-referred image state}}".
     type: intensional
   - content: This entry was numbered 17-214 in CIE S 017:2011.
     type: intensional

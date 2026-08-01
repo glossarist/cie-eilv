@@ -16,9 +16,9 @@ id: f972a3b5-f6b7-51b6-9a61-d0621b2b070a
 ---
 data:
   definition:
-  - content: power factor of the combination of lamp {17-28-048, control gear} and
-      the {17-27-008, electric lamp} or {17-27-008, electric lamp}s for which the
-      lamp {17-28-048, control gear} is designed
+  - content: power factor of the combination of lamp {{17-28-048, control gear}} and
+      the {{17-27-008, electric lamp}} or {{17-27-008, electric lamp}}s for which
+      the lamp {{17-28-048, control gear}} is designed
     type: intensional
   examples: []
   notes: []

@@ -16,22 +16,22 @@ id: 21c7bbdb-3bdf-5aef-96b4-e79e9101486b
 ---
 data:
   definition:
-  - content: quotient of the {17-21-050, luminance} of a surface element in a specified
-      direction, <i>L</i><sub>v,n</sub>, and the {17-21-050, luminance} of the {17-24-060,
-      perfect reflecting diffuser} or {17-24-061, perfect transmitting diffuser} identically
-      illuminated and viewed, <i>L</i><sub>v,d</sub>
+  - content: quotient of the {{17-21-050, luminance}} of a surface element in a specified
+      direction, <i>L</i><sub>v,n</sub>, and the {{17-21-050, luminance}} of the {{17-24-060,
+      perfect reflecting diffuser}} or {{17-24-061, perfect transmitting diffuser}}
+      identically illuminated and viewed, <i>L</i><sub>v,d</sub>
     type: intensional
   examples: []
   notes:
   - content: The definition holds for a surface element of a non-luminous medium,
-      in a given direction and under specified conditions of {17-21-099, irradiation}.
+      in a given direction and under specified conditions of {{17-21-099, irradiation}}.
     type: intensional
   - content: This quantity is also defined spectrally and is called "spectral luminance
       factor".
     type: intensional
   - content: |-
-      For photoluminescent media, the luminance factor consists of two components: the {17-21-105, reflected luminance factor}, <i>β</i><sub>v,R</sub>, and the {17-21-102, luminescent luminance factor}, <i>β</i><sub>v,L</sub>.<sub> </sub>The sum of the reflected and {17-21-102, luminescent luminance factor}s is called "total luminance factor" and can be expressed by <i>β</i><sub>v,T</sub>: <i>β</i><sub>v,T</sub> = <i>β</i><sub>v,R</sub> + <i>β</i><sub>v,L</sub>.
-      The subscript R is used here for the {17-21-105, reflected luminance factor} because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
+      For photoluminescent media, the luminance factor consists of two components: the {{17-21-105, reflected luminance factor}}, <i>β</i><sub>v,R</sub>, and the {{17-21-102, luminescent luminance factor}}, <i>β</i><sub>v,L</sub>.<sub> </sub>The sum of the reflected and {{17-21-102, luminescent luminance factor}}s is called "total luminance factor" and can be expressed by <i>β</i><sub>v,T</sub>: <i>β</i><sub>v,T</sub> = <i>β</i><sub>v,R</sub> + <i>β</i><sub>v,L</sub>.
+      The subscript R is used here for the {{17-21-105, reflected luminance factor}} because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
     type: intensional
   - content: The luminance factor has unit one.
     type: intensional

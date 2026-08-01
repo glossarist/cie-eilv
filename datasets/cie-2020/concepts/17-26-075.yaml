@@ -17,16 +17,16 @@ id: 97cad04a-5adc-5c87-9559-8ccb02bceaa6
 data:
   definition:
   - content: measurement of the protective quality of a fabric sample against solar
-      {17-21-008, ultraviolet radiation}, determined by in-vitro testing
+      {{17-21-008, ultraviolet radiation}}, determined by in-vitro testing
     type: intensional
   examples: []
   notes:
   - content: |-
-      For in-vitro testing the {17-26-067, erythemal irradiance} measured by a {17-25-035, detector} with the fabric sample under test in place is compared to the {17-26-067, erythemal irradiance} measured with no fabric present, where the {17-21-032, source} is typically a solar simulator. This is expressed as the quotient of the {17-26-067, erythemal irradiance} without fabric and the {17-26-067, erythemal irradiance} through fabric:
+      For in-vitro testing the {{17-26-067, erythemal irradiance}} measured by a {{17-25-035, detector}} with the fabric sample under test in place is compared to the {{17-26-067, erythemal irradiance}} measured with no fabric present, where the {{17-21-032, source}} is typically a solar simulator. This is expressed as the quotient of the {{17-26-067, erythemal irradiance}} without fabric and the {{17-26-067, erythemal irradiance}} through fabric:
 
-      where <i>s</i><sub>er</sub>(<i>λ</i>) is the {17-26-065, erythema spectral weighting function}, <i>E<sub>λ</sub></i> is the {17-21-056, spectral irradiance}, <i>τ</i>(<i>λ</i>) is the measured spectral {17-24-065, transmittance} of the item, and <i>λ</i> is the {17-21-025, wavelength}.
+      where <i>s</i><sub>er</sub>(<i>λ</i>) is the {{17-26-065, erythema spectral weighting function}}, <i>E<sub>λ</sub></i> is the {{17-21-056, spectral irradiance}}, <i>τ</i>(<i>λ</i>) is the measured spectral {{17-24-065, transmittance}} of the item, and <i>λ</i> is the {{17-21-025, wavelength}}.
     type: intensional
-  - content: The {17-26-054, ultraviolet hazard spectral weighting function}, <i>S</i><sub>UV</sub>(<i>λ</i>),
+  - content: The {{17-26-054, ultraviolet hazard spectral weighting function}}, <i>S</i><sub>UV</sub>(<i>λ</i>),
       has been substituted for <i>s</i><sub>er</sub>(<i>λ</i>) in special instances.
       If so used, the ultraviolet protection factor, <i>F</i><sub>UVP</sub>, has to
       be noted as <i>F</i><sub>UVP</sub> [<i>S</i>(<i>λ</i>)-weighted].

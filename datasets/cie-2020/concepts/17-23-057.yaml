@@ -16,11 +16,11 @@ id: 15308f63-5820-584e-af78-05cf52a5df44
 ---
 data:
   definition:
-  - content: stimulus that is represented in a {17-23-054, chromaticity diagram} by
-      a point lying within the triangle defined by the point representing the specified
-      {17-23-009, achromatic stimulus} and the two ends of the {17-23-056, spectrum
-      locus} which correspond approximately to the {17-21-025, wavelength}s 380 nm
-      and 780 nm
+  - content: stimulus that is represented in a {{17-23-054, chromaticity diagram}}
+      by a point lying within the triangle defined by the point representing the specified
+      {{17-23-009, achromatic stimulus}} and the two ends of the {{17-23-056, spectrum
+      locus}} which correspond approximately to the {{17-21-025, wavelength}}s 380
+      nm and 780 nm
     type: intensional
   examples: []
   notes:

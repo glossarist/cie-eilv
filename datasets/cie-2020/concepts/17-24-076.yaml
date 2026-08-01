@@ -22,7 +22,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For {17-24-023, fluorescence} colorimetric applications, it is implicit
+  - content: For {{17-24-023, fluorescence}} colorimetric applications, it is implicit
       that the quantity used in the colorimetric calculations is the total radiance
       factor, and it is common to omit the subscript T.
     type: intensional

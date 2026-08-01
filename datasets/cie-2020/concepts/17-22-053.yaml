@@ -16,8 +16,8 @@ id: edfa2914-3b4f-5c2a-a0c8-9ca00edf1d2d
 ---
 data:
   definition:
-  - content: single {17-22-076, colorant}, identified by name, and specified independently
-      from the {17-23-001, colour} values specified in a trichromatic (colour coordinate)
+  - content: single {{17-22-076, colorant}}, identified by name, and specified independently
+      from the {{17-23-001, colour}} values specified in a trichromatic (colour coordinate)
       system
     type: intensional
   examples: []

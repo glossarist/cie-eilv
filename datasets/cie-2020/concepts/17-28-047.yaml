@@ -16,14 +16,14 @@ id: 98639b5e-3a69-5c5c-95ec-030ae61c9a84
 ---
 data:
   definition:
-  - content: value of the current on which the calibration and control of the {17-28-046,
-      reference ballast} are based
+  - content: value of the current on which the calibration and control of the {{17-28-046,
+      reference ballast}} are based
     type: intensional
   examples: []
   notes:
   - content: The calibration current should preferably be approximately equal to the
-      rated running current of the {17-27-008, electric lamp}s for which the {17-28-046,
-      reference ballast} is suitable.
+      rated running current of the {{17-27-008, electric lamp}}s for which the {{17-28-046,
+      reference ballast}} is suitable.
     type: intensional
   sources:
   - origin:

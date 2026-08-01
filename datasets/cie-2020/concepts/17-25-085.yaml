@@ -26,14 +26,14 @@ data:
   - content: Subtended angles are denoted by the full included angle, not the half
       angle.
     type: intensional
-  - content: The light output of a {17-21-032, source} will often be modified by the
-      incorporation of lenses and mirrors as projection optics, in which case the
-      angular subtense of the apparent source can differ from the angular subtense
+  - content: The light output of a {{17-21-032, source}} will often be modified by
+      the incorporation of lenses and mirrors as projection optics, in which case
+      the angular subtense of the apparent source can differ from the angular subtense
       of the physical source.
     type: intensional
   - content: The angular subtense of a non-symmetrically-shaped source is determined
-      by the arithmetic mean of the maximum and minimum angular dimension of the {17-21-032,
-      source}.
+      by the arithmetic mean of the maximum and minimum angular dimension of the {{17-21-032,
+      source}}.
     type: intensional
   - content: The angular subtense is expressed in radian (rad) or degree (°).
     type: intensional

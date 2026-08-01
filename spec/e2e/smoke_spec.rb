@@ -57,7 +57,7 @@ RSpec.describe "end-to-end pipeline", :e2e do
         # Cross-ref in 17-21-012 is rewritten.
         cf = CieEilv::ConceptFile.read("datasets/cie-2020/concepts/17-21-012.yaml")
         note_text = cf.find_localized("eng").data.notes.map(&:content).join
-        expect(note_text).to include("{17-21-002,")
+        expect(note_text).to include("{{17-21-002,")
         expect(note_text).not_to include('href="/eilvterm/')
 
         # Register has all 12 sections.

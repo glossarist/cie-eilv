@@ -18,8 +18,8 @@ data:
   definition:
   - content: test in which the applied stress level is chosen to exceed that stated
       in the reference conditions in order to shorten the test duration required to
-      observe the life of the device without altering the basic fault modes and {17-27-105,
-      failure} mechanisms
+      observe the life of the device without altering the basic fault modes and {{17-27-105,
+      failure}} mechanisms
     type: intensional
   examples: []
   notes: []

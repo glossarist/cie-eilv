@@ -17,12 +17,12 @@ id: 9a81fdbf-7da2-5f63-ba9c-c175711e6e76
 data:
   definition:
   - content: device intended, either by itself or in combination with other components,
-      to generate voltage pulses to start a {17-27-024, discharge lamp} without providing
-      for the preheating of the electrodes
+      to generate voltage pulses to start a {{17-27-024, discharge lamp}} without
+      providing for the preheating of the electrodes
     type: intensional
   examples: []
   notes:
-  - content: The element that releases the {17-27-116, starting voltage} pulse can
+  - content: The element that releases the {{17-27-116, starting voltage}} pulse can
       be either triggered or non-triggered.
     type: intensional
   - content: This entry was numbered 845-08-33 in IEC 60050-845:1987.

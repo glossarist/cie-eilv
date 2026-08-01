@@ -17,7 +17,7 @@ id: b5e76ff6-6631-5a62-8961-22f8f33ba8ef
 data:
   definition:
   - content: optical device that generates multiple narrow-band spectral channels
-      of different {17-21-025, wavelength}s simultaneously
+      of different {{17-21-025, wavelength}}s simultaneously
     type: intensional
   examples: []
   notes:

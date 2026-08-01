@@ -16,7 +16,7 @@ id: a5ff80af-5d13-5df0-b2e8-f371eab7bd06
 ---
 data:
   definition:
-  - content: diameter of an {17-31-102, element}
+  - content: diameter of an {{17-31-102, element}}
     type: intensional
   examples: []
   notes:

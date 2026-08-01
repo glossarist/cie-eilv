@@ -16,23 +16,24 @@ id: 91d5290a-7581-5e3e-958e-87c749c5c3d2
 ---
 data:
   definition:
-  - content: quotient of the integrated value of the {17-21-038, radiant flux} of
-      all {17-21-025, wavelength}s emitted by {17-24-023, fluorescence} (fluorescence
-      band) and the radiant {17-24-020, excitation} power irradiating the {17-24-041,
-      fluorescent material} for a given {17-24-020, excitation} wavelength
+  - content: quotient of the integrated value of the {{17-21-038, radiant flux}} of
+      all {{17-21-025, wavelength}}s emitted by {{17-24-023, fluorescence}} (fluorescence
+      band) and the radiant {{17-24-020, excitation}} power irradiating the {{17-24-041,
+      fluorescent material}} for a given {{17-24-020, excitation}} wavelength
     type: intensional
   examples: []
   notes:
   - content: The fluorescent radiant efficiency is a measure of the external radiant
-      efficiency of the {17-24-041, fluorescent material}; the internal radiant efficiency
-      is obtained by taking a quotient of the emitted radiation and the radiant {17-24-020,
-      excitation} power that is absorbed by the {17-24-041, fluorescent material}.
+      efficiency of the {{17-24-041, fluorescent material}}; the internal radiant
+      efficiency is obtained by taking a quotient of the emitted radiation and the
+      radiant {{17-24-020, excitation}} power that is absorbed by the {{17-24-041,
+      fluorescent material}}.
     type: intensional
-  - content: In this definition the {17-24-020, excitation} wavelength is considered
-      to be monochromatic. However, in practice, the {17-24-020, excitation} radiation
-      will have a {17-21-025, wavelength} range and distribution.
+  - content: In this definition the {{17-24-020, excitation}} wavelength is considered
+      to be monochromatic. However, in practice, the {{17-24-020, excitation}} radiation
+      will have a {{17-21-025, wavelength}} range and distribution.
     type: intensional
-  - content: "{17-24-023, fluorescence} is understood to include both fluorescent
+  - content: "{{17-24-023, fluorescence}} is understood to include both fluorescent
       and phosphorescent phenomena with time constants short enough to be ignored
       for the application."
     type: intensional

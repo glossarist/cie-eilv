@@ -16,13 +16,13 @@ id: 7a941925-a0f7-5024-8d98-01cdac94b94e
 ---
 data:
   definition:
-  - content: lamp {17-28-048, control gear} designed to be built into a {17-30-001,
-      luminaire}, a box, an enclosure or the like and not intended to be mounted outside
-      a {17-30-001, luminaire}
+  - content: lamp {{17-28-048, control gear}} designed to be built into a {{17-30-001,
+      luminaire}}, a box, an enclosure or the like and not intended to be mounted
+      outside a {{17-30-001, luminaire}}
     type: intensional
   examples: []
   notes:
-  - content: The {17-28-048, control gear} compartment in the base of a road lighting
+  - content: The {{17-28-048, control gear}} compartment in the base of a road lighting
       column is considered to be an enclosure.
     type: intensional
   sources:

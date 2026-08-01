@@ -16,9 +16,9 @@ id: ac39c4e0-2712-5929-9f18-10c8e4eb8976
 ---
 data:
   definition:
-  - content: logarithm to base 10 of the quotient of the {17-21-050, luminance} of
-      the {17-23-081, adapted white} of a scene or original, <i>Y</i><sub>adopted
-      white</sub>, and the {17-21-050, luminance} of a measured area of the scene
+  - content: logarithm to base 10 of the quotient of the {{17-21-050, luminance}}
+      of the {{17-23-081, adapted white}} of a scene or original, <i>Y</i><sub>adopted
+      white</sub>, and the {{17-21-050, luminance}} of a measured area of the scene
       or original, <i>Y</i><sub>measured area</sub>
     type: intensional
   examples: []

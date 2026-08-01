@@ -17,21 +17,21 @@ id: ada7f913-cad9-5533-9f28-e60764c4ef1a
 data:
   definition:
   - content: |-
-      time integral of {17-26-067, erythemal irradiance}
+      time integral of {{17-26-067, erythemal irradiance}}
 
-      where <i>E<sub>λ</sub></i>(<i>λ</i>, <i>t</i>) is {17-21-056, spectral irradiance} and <i>s</i><sub>er</sub>(<i>λ</i>) is the {17-26-065, erythema spectral weighting function} normalized to 1 at its maximum
+      where <i>E<sub>λ</sub></i>(<i>λ</i>, <i>t</i>) is {{17-21-056, spectral irradiance}} and <i>s</i><sub>er</sub>(<i>λ</i>) is the {{17-26-065, erythema spectral weighting function}} normalized to 1 at its maximum
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an {17-26-027, action
-      spectrum} is adopted for the {17-26-003, actinic} effect considered, and that
-      its maximum value is 1.
+  - content: This definition is based on the assumption that an {{17-26-027, action
+      spectrum}} is adopted for the {{17-26-003, actinic}} effect considered, and
+      that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which {17-26-027, action spectrum} is used,
-      as the unit is the same for any {17-26-027, action spectrum}.
+  - content: It is essential to specify which {{17-26-027, action spectrum}} is used,
+      as the unit is the same for any {{17-26-027, action spectrum}}.
     type: intensional
-  - content: See also "{17-26-068, minimal erythema dose}", "{17-26-069, standard
-      erythema dose}".
+  - content: See also "{{17-26-068, minimal erythema dose}}", "{{17-26-069, standard
+      erythema dose}}".
     type: intensional
   - content: The erythemal dose is expressed in joule per square metre (J·m<sup>−2</sup>).
     type: intensional

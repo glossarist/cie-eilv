@@ -16,8 +16,8 @@ id: a1b03ba1-0549-55d4-8ff0-1d84a2d98e84
 ---
 data:
   definition:
-  - content: quotient of the sum of the individual total output fluxes of the {17-30-001,
-      luminaire}s of an installation and the floor area
+  - content: quotient of the sum of the individual total output fluxes of the {{17-30-001,
+      luminaire}}s of an installation and the floor area
     type: intensional
   examples: []
   notes:

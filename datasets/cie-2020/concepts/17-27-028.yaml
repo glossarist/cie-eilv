@@ -16,17 +16,17 @@ id: e2fc5659-2f42-580c-998d-f65af9062dfd
 ---
 data:
   definition:
-  - content: "{17-27-027, high-intensity discharge lamp} in which the major portion
+  - content: "{{17-27-027, high-intensity discharge lamp}} in which the major portion
       of the light is produced, directly or indirectly, by radiation from mercury
       operating at a partial pressure in excess of 100 kPa"
     type: intensional
   examples: []
   notes:
   - content: The term "high-pressure mercury lamp" includes clear, phosphor-coated
-      (mercury fluorescent) and {17-27-029, blended lamp}s. In a fluorescent mercury
+      (mercury fluorescent) and {{17-27-029, blended lamp}}s. In a fluorescent mercury
       discharge lamp, the light is produced partly by the mercury vapour and partly
-      by a layer of phosphors excited by the {17-21-008, ultraviolet radiation} of
-      the discharge.
+      by a layer of phosphors excited by the {{17-21-008, ultraviolet radiation}}
+      of the discharge.
     type: intensional
   - content: This entry was numbered 845-07-20 in IEC 60050-845:1987.
     type: intensional

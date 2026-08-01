@@ -16,15 +16,15 @@ id: 0ee77593-8a01-5f87-aec9-ed4e23ae2d06
 ---
 data:
   definition:
-  - content: quantity involved in the visual observation of a {17-21-032, source}
+  - content: quantity involved in the visual observation of a {{17-21-032, source}}
       of light when viewed directly from the distance where its apparent diameter
       just becomes inappreciable
     type: intensional
   examples: []
   notes:
-  - content: The point brilliance is measured by the {17-21-060, illuminance} produced
-      by the {17-21-032, source} on a plane, at the observer's eye, normal to the
-      direction of the {17-21-032, source}.
+  - content: The point brilliance is measured by the {{17-21-060, illuminance}} produced
+      by the {{17-21-032, source}} on a plane, at the observer's eye, normal to the
+      direction of the {{17-21-032, source}}.
     type: intensional
   - content: The point brilliance is expressed in lux (lx = lm·m<sup>−2</sup>).
     type: intensional

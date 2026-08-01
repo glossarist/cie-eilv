@@ -16,7 +16,8 @@ id: 46741535-aefa-59be-8739-1f219e5e5e63
 ---
 data:
   definition:
-  - content: image capture with more than three channels or bands of {17-21-025, wavelength}s
+  - content: image capture with more than three channels or bands of {{17-21-025,
+      wavelength}}s
     type: intensional
   examples: []
   notes:

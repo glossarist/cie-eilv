@@ -16,9 +16,9 @@ id: 758791b6-5f79-587d-a591-57c5f5fb2b31
 ---
 data:
   definition:
-  - content: "{17-24-055, diffuse transmission} in which the spatial distribution
-      of the transmitted radiation is such that the {17-21-049, radiance} or {17-21-050,
-      luminance} is the same in all directions in the hemisphere into which the radiation
+  - content: "{{17-24-055, diffuse transmission}} in which the spatial distribution
+      of the transmitted radiation is such that the {{17-21-049, radiance}} or {{17-21-050,
+      luminance}} is the same in all directions in the hemisphere into which the radiation
       is transmitted"
     type: intensional
   examples: []

@@ -17,12 +17,12 @@ id: 89244797-a2f0-51d5-9862-bb3722e1d2f1
 data:
   definition:
   - content: |-
-      quotient of the real difference in {17-21-050, luminance} between the target and its background, Δ<i>L</i>, and the {17-21-050, luminance} difference needed between a target of a certain angular size and its background for the target to be just visible, Δ<i>L</i><sub>th</sub>, that is at the threshold
+      quotient of the real difference in {{17-21-050, luminance}} between the target and its background, Δ<i>L</i>, and the {{17-21-050, luminance}} difference needed between a target of a certain angular size and its background for the target to be just visible, Δ<i>L</i><sub>th</sub>, that is at the threshold
       <i>F</i><sub>VL</sub> = Δ<i>L</i> / Δ<i>L</i><sub>th</sub>
     type: intensional
   examples: []
   notes:
-  - content: The visibility level indicates how much the {17-22-089, contrast} of
+  - content: The visibility level indicates how much the {{17-22-089, contrast}} of
       the target is above threshold contrast.
     type: intensional
   - content: The visibility level has unit one.

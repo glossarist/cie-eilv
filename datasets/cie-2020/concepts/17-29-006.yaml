@@ -16,13 +16,13 @@ id: b9f752f1-abaf-51b4-8b49-ac0451f4b1bc
 ---
 data:
   definition:
-  - content: "{17-22-091, luminance contrast} of a visibility reference task having
-      equal visibility at the same {17-21-050, luminance} level as that of the task
+  - content: "{{17-22-091, luminance contrast}} of a visibility reference task having
+      equal visibility at the same {{17-21-050, luminance}} level as that of the task
       considered"
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-22-089, contrast}".
+  - content: See also "{{17-22-089, contrast}}".
     type: intensional
   - content: This entry was numbered 845-09-05 in IEC 60050-845:1987.
     type: intensional

@@ -17,9 +17,9 @@ id: 0c5239ee-58b2-5efd-a5c3-d5f43cebb31a
 data:
   definition:
   - content: quotient of five times the sum of the area of the walls bounded by the
-      floor and the {17-29-068, working plane} and the sum of the areas of the floor
-      and the {17-29-068, working plane}, used in the calculation of the {17-29-069,
-      utilization factor} or {17-29-070, utilance}
+      floor and the {{17-29-068, working plane}} and the sum of the areas of the floor
+      and the {{17-29-068, working plane}}, used in the calculation of the {{17-29-069,
+      utilization factor}} or {{17-29-070, utilance}}
     type: intensional
   examples: []
   notes:
@@ -30,8 +30,8 @@ data:
 
       </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i><sub>f</sub> is the distance from the floor to the utilization plane.
     type: intensional
-  - content: See also "{17-29-074, ceiling cavity ratio}" and "{17-29-072, room cavity
-      ratio}".
+  - content: See also "{{17-29-074, ceiling cavity ratio}}" and "{{17-29-072, room
+      cavity ratio}}".
     type: intensional
   - content: The floor cavity ratio has unit one.
     type: intensional

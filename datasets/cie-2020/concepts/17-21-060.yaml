@@ -17,19 +17,19 @@ id: da348202-a5ae-5c0f-8ce8-d058767f9127
 data:
   definition:
   - content: |-
-      density of incident {17-21-039, luminous flux} with respect to area at a point on a real or imaginary surface
+      density of incident {{17-21-039, luminous flux}} with respect to area at a point on a real or imaginary surface
       ,
-      where <i>Φ</i><sub>v</sub> is {17-21-039, luminous flux} and <i>A</i> is the area on which the {17-21-039, luminous flux} is incident
+      where <i>Φ</i><sub>v</sub> is {{17-21-039, luminous flux}} and <i>A</i> is the area on which the {{17-21-039, luminous flux}} is incident
     type: intensional
   examples: []
   notes:
   - content: |-
-      Illuminance can be derived from the {17-21-056, spectral irradiance} distribution by
+      Illuminance can be derived from the {{17-21-056, spectral irradiance}} distribution by
 
-      where <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}, <i>E</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the {17-21-056, spectral irradiance} at {17-21-025, wavelength} <i>λ</i> and <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency}.
+      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>E</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the {{17-21-056, spectral irradiance}} at {{17-21-025, wavelength}} <i>λ</i> and <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}.
     type: intensional
-  - content: The corresponding radiometric quantity is "{17-21-053, irradiance}".
-      The corresponding quantity for photons is "{17-21-058, photon irradiance}".
+  - content: The corresponding radiometric quantity is "{{17-21-053, irradiance}}".
+      The corresponding quantity for photons is "{{17-21-058, photon irradiance}}".
     type: intensional
   - content: The illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
     type: intensional

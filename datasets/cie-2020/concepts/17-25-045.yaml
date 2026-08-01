@@ -16,9 +16,9 @@ id: fb230216-c35e-59b7-bdce-df8ebfecc28f
 ---
 data:
   definition:
-  - content: "{17-25-044, photodiode} operating with a bias electromotive force such
-      that the primary {17-25-059, photocurrent} undergoes amplification through avalanche
-      breakdown at the junction"
+  - content: "{{17-25-044, photodiode}} operating with a bias electromotive force
+      such that the primary {{17-25-059, photocurrent}} undergoes amplification through
+      avalanche breakdown at the junction"
     type: intensional
   examples: []
   notes:

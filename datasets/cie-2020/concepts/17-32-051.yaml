@@ -16,9 +16,9 @@ id: 1de56f31-9af1-5402-bf9e-de66a6cc76db
 ---
 data:
   definition:
-  - content: "{17-32-050, image state} associated with {17-32-009, colour image data}
-      that represent the {17-23-041, colour space} coordinates of the elements of
-      a two-dimensional {17-32-045, hardcopy} or {17-32-046, softcopy}, typically
+  - content: "{{17-32-050, image state}} associated with {{17-32-009, colour image
+      data}} that represent the {{17-23-041, colour space}} coordinates of the elements
+      of a two-dimensional {{17-32-045, hardcopy}} or {{17-32-046, softcopy}}, typically
       produced by scanning artwork, photographic transparencies or prints, or photomechanical
       or other reproductions"
     type: intensional
@@ -28,10 +28,10 @@ data:
       it implies that the object is in an original-referred image state. For example,
       original-referred image data are image data in an original-referred image state.
     type: intensional
-  - content: Original-referred image data are related to the {17-23-041, colour space}
+  - content: Original-referred image data are related to the {{17-23-041, colour space}}
       coordinates of the original, typically measured in accordance with ISO 13655<i>
       Graphic technology – Spectral measurement and colorimetric computation for graphic
-      arts images</i>, and do not include any additional {17-32-066, veiling glare}
+      arts images</i>, and do not include any additional {{17-32-066, veiling glare}}
       or other flare.
     type: intensional
   - content: The characteristics of original-referred image data that most generally
@@ -42,9 +42,9 @@ data:
     type: intensional
   - content: There are classes of originals that produce original-referred image data
       with different characteristics. Examples include various types of artwork, photographic
-      prints, photographic transparencies, emissive displays. When selecting a {17-32-017,
-      colour re-rendering} algorithm, it is usually necessary to know the class of
-      the original in order to determine the appropriate {17-32-017, colour re-rendering}
+      prints, photographic transparencies, emissive displays. When selecting a {{17-32-017,
+      colour re-rendering}} algorithm, it is usually necessary to know the class of
+      the original in order to determine the appropriate {{17-32-017, colour re-rendering}}
       to be applied. For example, a colorimetric intent is generally applied to artwork,
       while different perceptual algorithms are applied to produce photographic prints
       from transparencies, or newsprint reproductions from photographic prints. In
@@ -54,8 +54,8 @@ data:
     type: intensional
   - content: In a few cases, it can be desirable to introduce slight colorimetric
       errors in the production of original-referred image data, for example to make
-      the gamut of the original more closely fit the {17-23-041, colour space}, or
-      because of the way the image data were captured (such as a Status A densitometry-based
+      the gamut of the original more closely fit the {{17-23-041, colour space}},
+      or because of the way the image data were captured (such as a Status A densitometry-based
       scanner).
     type: intensional
   - content: This entry was numbered 17-564 in CIE S 017:2011.

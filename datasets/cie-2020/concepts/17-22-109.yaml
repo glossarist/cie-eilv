@@ -16,10 +16,10 @@ id: 7da5bb97-feb5-5e27-954d-81c896e4b820
 ---
 data:
   definition:
-  - content: measure of the degree to which the psychophysical {17-23-001, colour}
-      of an object illuminated by the test {17-23-018, illuminant} conforms to that
-      of the same object illuminated by the {17-22-108, reference illuminant}, suitable
-      allowance having been made for the state of {17-22-013, chromatic adaptation}
+  - content: measure of the degree to which the psychophysical {{17-23-001, colour}}
+      of an object illuminated by the test {{17-23-018, illuminant}} conforms to that
+      of the same object illuminated by the {{17-22-108, reference illuminant}}, suitable
+      allowance having been made for the state of {{17-22-013, chromatic adaptation}}
     type: intensional
   examples: []
   notes:

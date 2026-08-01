@@ -16,8 +16,9 @@ id: 99af64d9-b84c-5046-828b-89b33de544f2
 ---
 data:
   definition:
-  - content: model describing {17-23-026, colour appearance}, built from descriptors
-      of {17-23-002, colour stimulus} combined with the illuminating and viewing environment
+  - content: model describing {{17-23-026, colour appearance}}, built from descriptors
+      of {{17-23-002, colour stimulus}} combined with the illuminating and viewing
+      environment
     type: intensional
   examples: []
   notes:

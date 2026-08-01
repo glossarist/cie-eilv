@@ -16,13 +16,13 @@ id: de219543-d5ca-533b-839e-5d93696c5129
 ---
 data:
   definition:
-  - content: quotient of the {17-29-106, optical thickness} of the atmosphere at angle
-      <i>ε</i> to the vertical, <i>δ</i> (<i>ε</i>), and the vertical {17-29-106,
-      optical thickness}, <i>δ</i> (0°), of the atmosphere
+  - content: quotient of the {{17-29-106, optical thickness}} of the atmosphere at
+      angle <i>ε</i> to the vertical, <i>δ</i> (<i>ε</i>), and the vertical {{17-29-106,
+      optical thickness}}, <i>δ</i> (0°), of the atmosphere
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-29-106, optical thickness}".
+  - content: See also "{{17-29-106, optical thickness}}".
     type: intensional
   - content: |-
       Several equations are available to express this concept. Usually the Kasten–Young formula is used:
@@ -30,7 +30,7 @@ data:
       where <i>γ</i><sub>s</sub> (= 90° − <i>ε</i>) is solar altitude (complementary angle of zenith angle, <i>ε</i>) in degrees.
     type: intensional
   - content: |-
-      When the curvature of the atmosphere and atmospheric {17-24-108, refraction} are neglected:
+      When the curvature of the atmosphere and atmospheric {{17-24-108, refraction}} are neglected:
       .
     type: intensional
   - content: The relative optical air mass has unit one.

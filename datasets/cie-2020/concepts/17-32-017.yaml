@@ -16,16 +16,16 @@ id: 4b75686b-325a-5ae3-95a8-e770afdfa5e9
 ---
 data:
   definition:
-  - content: mapping of picture-referred {17-32-009, colour image data} appropriate
+  - content: mapping of picture-referred {{17-32-009, colour image data}} appropriate
       for one specified real or virtual imaging medium and viewing conditions to picture-referred
-      {17-32-009, colour image data} appropriate for a different real or virtual imaging
-      medium and/or viewing conditions
+      {{17-32-009, colour image data}} appropriate for a different real or virtual
+      imaging medium and/or viewing conditions
     type: intensional
   examples: []
   notes:
   - content: 'Colour re-rendering generally consists of one or more of the following:
       compensating for differences in the viewing conditions, compensating for differences
-      in the dynamic range and/or {17-32-007, colour gamut} of the imaging media,
+      in the dynamic range and/or {{17-32-007, colour gamut}} of the imaging media,
       and applying preference adjustments.'
     type: intensional
   - content: This entry was numbered 17-224 in CIE S 017:2011.

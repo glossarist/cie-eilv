@@ -23,14 +23,14 @@ data:
   notes:
   - content: Colour component transfer functions are frequently used to account for
       the non-linear response of a reference device and/or to improve the visual uniformity
-      of a {17-23-041, colour space}.
+      of a {{17-23-041, colour space}}.
     type: intensional
   - content: Generally, colour component transfer functions will be non-linear functions
       such as a power-law (i.e. "gamma") function or a logarithmic function. However,
       in some cases a linear colour component transfer function can be used.
     type: intensional
-  - content: For more information on "colour channels" see Note 2 to entry to "{17-32-018,
-      colour space encoding}".
+  - content: For more information on "colour channels" see Note 2 to entry to "{{17-32-018,
+      colour space encoding}}".
     type: intensional
   - content: This entry was numbered 17-203 in CIE S 017:2011.
     type: intensional

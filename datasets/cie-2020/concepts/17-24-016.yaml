@@ -16,9 +16,9 @@ id: 3f1e9058-c386-5728-8d10-823cd1803724
 ---
 data:
   definition:
-  - content: temperature of the {17-24-004, Planckian radiator} for which the {17-21-049,
-      radiance} at the specified {17-21-025, wavelength} has the same {17-21-029,
-      spectral distribution} as for the {17-24-003, thermal radiator} considered
+  - content: temperature of the {{17-24-004, Planckian radiator}} for which the {{17-21-049,
+      radiance}} at the specified {{17-21-025, wavelength}} has the same {{17-21-029,
+      spectral distribution}} as for the {{17-24-003, thermal radiator}} considered
     type: intensional
   examples: []
   notes:

@@ -16,7 +16,8 @@ id: '0495be68-f40c-5da3-83f5-b9e41c2e43e9'
 ---
 data:
   definition:
-  - content: defining constant of {17-25-013, photometry} which is equal to 683 lm·W<sup>−</sup><sup>1</sup>
+  - content: defining constant of {{17-25-013, photometry}} which is equal to 683
+      lm·W<sup>−</sup><sup>1</sup>
     type: intensional
   examples: []
   notes:

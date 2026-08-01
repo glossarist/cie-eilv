@@ -16,8 +16,8 @@ id: 48a181d6-958d-5e1e-af73-b1829bc93b95
 ---
 data:
   definition:
-  - content: average road surface {17-21-050, luminance} at a specific location in
-      the {17-31-083, threshold zone}
+  - content: average road surface {{17-21-050, luminance}} at a specific location
+      in the {{17-31-083, threshold zone}}
     type: intensional
   examples: []
   notes:

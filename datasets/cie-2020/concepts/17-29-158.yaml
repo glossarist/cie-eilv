@@ -16,8 +16,8 @@ id: 51a59b3a-ef5c-50a3-9597-8396387ebeb2
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} due to the light received directly from {17-27-002,
-      primary light source}s or {17-30-001, luminaire}s"
+  - content: "{{17-21-060, illuminance}} due to the light received directly from {{17-27-002,
+      primary light source}}s or {{17-30-001, luminaire}}s"
     type: intensional
   examples: []
   notes:

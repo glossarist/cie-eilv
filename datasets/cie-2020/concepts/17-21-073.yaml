@@ -17,16 +17,16 @@ id: d8155e61-2fa1-5401-87d4-c0f17dea8248
 data:
   definition:
   - content: |-
-      density of incident {17-21-043, photon number} with respect to area at a point on a real or imaginary surface
+      density of incident {{17-21-043, photon number}} with respect to area at a point on a real or imaginary surface
       <sub>
 
 
-      </sub>where <i>N</i><sub>p </sub>is {17-21-043, photon number} and <i>A</i> is the area on which the {17-21-107, photon}s are incident
+      </sub>where <i>N</i><sub>p </sub>is {{17-21-043, photon number}} and <i>A</i> is the area on which the {{17-21-107, photon}}s are incident
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{17-21-071, radiant exposure}".
-      The corresponding photometric quantity is "{17-21-072, luminous exposure}".
+  - content: The corresponding radiometric quantity is "{{17-21-071, radiant exposure}}".
+      The corresponding photometric quantity is "{{17-21-072, luminous exposure}}".
     type: intensional
   - content: The photon exposure is expressed in metre to the power minus two (m<sup>−2</sup>).
     type: intensional

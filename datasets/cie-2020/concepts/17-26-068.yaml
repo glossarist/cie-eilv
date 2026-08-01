@@ -16,21 +16,21 @@ id: e117cd4f-27d6-55b8-80ef-80d1243b14ad
 ---
 data:
   definition:
-  - content: "{17-26-035, actinic dose}, using the {17-26-065, erythema spectral weighting
-      function}, that produces a just noticeable {17-26-028, actinic erythema} on
-      a single individual's previously unexposed skin"
+  - content: "{{17-26-035, actinic dose}}, using the {{17-26-065, erythema spectral
+      weighting function}}, that produces a just noticeable {{17-26-028, actinic erythema}}
+      on a single individual's previously unexposed skin"
     type: intensional
   examples: []
   notes:
   - content: 'The minimal erythema dose is a subjective measure based on the reddening
-      of the skin; it depends on many variables, e.g. individual sensitivity to {17-21-008,
-      ultraviolet radiation}, radiometric characteristics of the {17-21-032, source},
-      skin pigmentation, anatomic site, elapsed time between {17-21-099, irradiation}
+      of the skin; it depends on many variables, e.g. individual sensitivity to {{17-21-008,
+      ultraviolet radiation}}, radiometric characteristics of the {{17-21-032, source}},
+      skin pigmentation, anatomic site, elapsed time between {{17-21-099, irradiation}}
       and observation of the reddening (typical value: 24 h). Since the minimal erythema
       dose varies with each individual, the use of this quantity should be reserved
       solely for observational studies in humans and other animals.'
     type: intensional
-  - content: See also "{17-26-069, standard erythema dose}".
+  - content: See also "{{17-26-069, standard erythema dose}}".
     type: intensional
   - content: The minimal erythema dose is expressed in joule per square metre (J·m<sup>−2</sup>).
     type: intensional

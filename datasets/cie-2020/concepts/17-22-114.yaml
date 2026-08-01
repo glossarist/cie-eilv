@@ -16,8 +16,8 @@ id: e2a1bee0-15c1-57c1-b209-a1e2bb2d0244
 ---
 data:
   definition:
-  - content: combined {17-22-112, illuminant colorimetric shift} and {17-22-113, adaptive
-      colorimetric shift}
+  - content: combined {{17-22-112, illuminant colorimetric shift}} and {{17-22-113,
+      adaptive colorimetric shift}}
     type: intensional
   examples: []
   notes:

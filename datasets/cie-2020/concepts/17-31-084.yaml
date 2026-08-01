@@ -16,14 +16,15 @@ id: 95a72fa8-6d67-5aef-9529-524c0e244b3b
 ---
 data:
   definition:
-  - content: part of a {17-31-081, road tunnel} that follows directly after the {17-31-083,
-      threshold zone} and ends at the beginning of the {17-31-086, interior zone}
+  - content: part of a {{17-31-081, road tunnel}} that follows directly after the
+      {{17-31-083, threshold zone}} and ends at the beginning of the {{17-31-086,
+      interior zone}}
     type: intensional
   examples: []
   notes:
-  - content: In the transition zone, the {17-29-001, lighting} level is decreasing
-      from the level at the end of the {17-31-083, threshold zone} to the level of
-      the {17-31-086, interior zone}.
+  - content: In the transition zone, the {{17-29-001, lighting}} level is decreasing
+      from the level at the end of the {{17-31-083, threshold zone}} to the level
+      of the {{17-31-086, interior zone}}.
     type: intensional
   - content: This entry was numbered 17-1332 in CIE S 017:2011.
     type: intensional

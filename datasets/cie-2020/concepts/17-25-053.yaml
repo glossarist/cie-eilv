@@ -16,9 +16,9 @@ id: bd05cf24-2e56-5173-b5a5-be71f13a5d13
 ---
 data:
   definition:
-  - content: "{17-25-049, thermal detector} of {17-21-002, optical radiation} in which
-      the electromotive force produced in a single thermoelectric junction is used
-      to measure the heating effect produced by the absorbed radiation"
+  - content: "{{17-25-049, thermal detector}} of {{17-21-002, optical radiation}}
+      in which the electromotive force produced in a single thermoelectric junction
+      is used to measure the heating effect produced by the absorbed radiation"
     type: intensional
   examples: []
   notes:

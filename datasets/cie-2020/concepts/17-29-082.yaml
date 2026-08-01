@@ -16,10 +16,10 @@ id: dc69ce86-e06f-5452-aba5-834234246aee
 ---
 data:
   definition:
-  - content: quotient of the {17-21-039, luminous flux} emitted by a {17-27-096, reference
-      lamp} when operated with a particular production {17-28-044, ballast} and the
-      {17-21-039, luminous flux} emitted by the same {17-27-096, reference lamp} when
-      operated with its {17-28-046, reference ballast}
+  - content: quotient of the {{17-21-039, luminous flux}} emitted by a {{17-27-096,
+      reference lamp}} when operated with a particular production {{17-28-044, ballast}}
+      and the {{17-21-039, luminous flux}} emitted by the same {{17-27-096, reference
+      lamp}} when operated with its {{17-28-046, reference ballast}}
     type: intensional
   examples: []
   notes:

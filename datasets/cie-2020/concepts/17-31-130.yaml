@@ -16,10 +16,10 @@ id: 33e9afb0-24df-5d20-b5e8-488328af3d53
 ---
 data:
   definition:
-  - content: identifier that can be a word, {17-31-132, symbol}, or other group of
-      characters used to identify a file, a storage medium, an element defined in
-      a computer program, or a specific item in a document such as a spreadsheet or
-      a chart
+  - content: identifier that can be a word, {{17-31-132, symbol}}, or other group
+      of characters used to identify a file, a storage medium, an element defined
+      in a computer program, or a specific item in a document such as a spreadsheet
+      or a chart
     type: intensional
   examples: []
   notes:

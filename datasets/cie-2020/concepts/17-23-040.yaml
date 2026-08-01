@@ -16,15 +16,15 @@ id: 1da3b63c-881f-50b0-b5a5-d7db16582320
 ---
 data:
   definition:
-  - content: algebraic or vector representation of the match of two {17-23-002, colour
-      stimulus}, of which, for instance, one can be an {17-23-030, additive mixture}
-      of three {17-23-037, reference colour stimuli}
+  - content: algebraic or vector representation of the match of two {{17-23-002, colour
+      stimulus}}, of which, for instance, one can be an {{17-23-030, additive mixture}}
+      of three {{17-23-037, reference colour stimuli}}
     type: intensional
   examples: []
   notes:
   - content: |-
       [C] ≡ <i>X</i>[X] + <i>Y</i>[Y] + <i>Z</i>[Z]
-      In this equation, the sign "≡" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus <i>R</i>[R] means <i>R</i> units of stimulus [R], and the sign "+" means an {17-23-030, additive mixture} of {17-23-002, colour stimulus}. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.
+      In this equation, the sign "≡" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus <i>R</i>[R] means <i>R</i> units of stimulus [R], and the sign "+" means an {{17-23-030, additive mixture}} of {{17-23-002, colour stimulus}}. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.
     type: intensional
   - content: 'The reference stimuli are represented as [R], [G] and [B] in which case
       the sign "≡", read as "matches", should be used. As an alternative, the colour

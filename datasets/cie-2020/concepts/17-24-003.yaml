@@ -16,7 +16,7 @@ id: 3e324346-81e8-59e4-af17-f752b58ae543
 ---
 data:
   definition:
-  - content: source emitting {17-24-002, thermal radiation}
+  - content: source emitting {{17-24-002, thermal radiation}}
     type: intensional
   examples: []
   notes:

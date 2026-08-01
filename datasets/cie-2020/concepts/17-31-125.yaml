@@ -16,8 +16,8 @@ id: 23874a00-2441-50fb-bbf0-69c14fae04f9
 ---
 data:
   definition:
-  - content: number of {17-31-102, element}s constructed in a square lattice or other
-      arrangement from which characters can be formed
+  - content: number of {{17-31-102, element}}s constructed in a square lattice or
+      other arrangement from which characters can be formed
     type: intensional
   examples: []
   notes:

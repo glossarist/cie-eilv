@@ -16,7 +16,7 @@ id: d70c5c1a-7478-5e21-86b9-cab33c258b7f
 ---
 data:
   definition:
-  - content: "{17-21-053, irradiance} produced by {17-29-099, direct solar radiation}
+  - content: "{{17-21-053, irradiance}} produced by {{17-29-099, direct solar radiation}}
       on a horizontal surface on the Earth"
     type: intensional
   examples: []

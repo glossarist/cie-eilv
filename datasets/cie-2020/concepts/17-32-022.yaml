@@ -17,7 +17,7 @@ id: 9016d852-2fa2-590e-88a8-f923379a95a4
 data:
   definition:
   - content: transfer characteristic relating the normalized digital code value and
-      the normalized output {17-21-050, luminance} as represented by a mathematical
+      the normalized output {{17-21-050, luminance}} as represented by a mathematical
       function
     type: intensional
   examples: []

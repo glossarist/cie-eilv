@@ -16,8 +16,8 @@ id: 26e227a6-8a6e-54fa-bbd4-837bd234e3bb
 ---
 data:
   definition:
-  - content: lighting device with a specified {17-29-043, half-peak divergence} less
-      than 1,74 rad (100°) and with a specified total divergence
+  - content: lighting device with a specified {{17-29-043, half-peak divergence}}
+      less than 1,74 rad (100°) and with a specified total divergence
     type: intensional
   examples: []
   notes:

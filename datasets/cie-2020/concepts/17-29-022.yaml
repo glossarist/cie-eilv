@@ -16,9 +16,9 @@ id: c65aa0b2-3ff0-51ab-b199-06845d695363
 ---
 data:
   definition:
-  - content: "{17-29-001, lighting} designed to increase considerably the {17-21-060,
-      illuminance} of a limited area or of an object relative to the surroundings,
-      with minimum {17-29-020, diffused lighting}"
+  - content: "{{17-29-001, lighting}} designed to increase considerably the {{17-21-060,
+      illuminance}} of a limited area or of an object relative to the surroundings,
+      with minimum {{17-29-020, diffused lighting}}"
     type: intensional
   examples: []
   notes:

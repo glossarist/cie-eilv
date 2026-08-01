@@ -16,14 +16,14 @@ id: 54c45345-cb76-5516-89c0-af8b27b63a01
 ---
 data:
   definition:
-  - content: lamp {17-28-048, control gear} consisting of one or more separate elements
-      so designed that it can be mounted separately outside a {17-30-001, luminaire},
-      with protection according to the marking of the lamp {17-28-048, control gear}
+  - content: lamp {{17-28-048, control gear}} consisting of one or more separate elements
+      so designed that it can be mounted separately outside a {{17-30-001, luminaire}},
+      with protection according to the marking of the lamp {{17-28-048, control gear}}
       and without any additional enclosure
     type: intensional
   examples: []
   notes:
-  - content: This can consist of a {17-28-053, built-in lamp control gear} housed
+  - content: This can consist of a {{17-28-053, built-in lamp control gear}} housed
       in a suitable enclosure which provides all the necessary protection according
       to its markings.
     type: intensional

@@ -16,10 +16,10 @@ id: 6eda2c3d-32d2-5b6d-bbb1-46d80aebd9e2
 ---
 data:
   definition:
-  - content: average of the {17-21-050, luminance}s contained in a conical part of
-      the {17-22-081, field of vision}, subtending an angle of 20° at the eye of the
-      approaching driver and centred on a point at a height of one quarter of the
-      height of the tunnel mouth
+  - content: average of the {{17-21-050, luminance}}s contained in a conical part
+      of the {{17-22-081, field of vision}}, subtending an angle of 20° at the eye
+      of the approaching driver and centred on a point at a height of one quarter
+      of the height of the tunnel mouth
     type: intensional
   examples: []
   notes:

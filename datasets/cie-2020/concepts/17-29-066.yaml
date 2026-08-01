@@ -16,8 +16,8 @@ id: ae13f3da-4451-5263-9db2-9c2903be1181
 ---
 data:
   definition:
-  - content: proportion of the flux of a {17-30-001, luminaire} or installation that
-      is emitted, at and above the horizontal, when the {17-30-001, luminaire}(s)
+  - content: proportion of the flux of a {{17-30-001, luminaire}} or installation
+      that is emitted, at and above the horizontal, when the {{17-30-001, luminaire}}(s)
       is (are) mounted in its (their) installed position
     type: intensional
   examples: []

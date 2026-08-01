@@ -16,14 +16,14 @@ id: 8d6d2978-dc13-55b0-b4d7-359cc7971bf6
 ---
 data:
   definition:
-  - content: "{17-27-027, high-intensity discharge lamp} in which the light is produced
+  - content: "{{17-27-027, high-intensity discharge lamp}} in which the light is produced
       mainly by radiation from sodium vapour operating at a partial pressure of the
       order of 10 kPa"
     type: intensional
   examples: []
   notes:
-  - content: The term "high-pressure sodium lamp" includes {17-27-008, electric lamp}s
-      with clear or diffusing {17-28-006, bulb}.
+  - content: The term "high-pressure sodium lamp" includes {{17-27-008, electric lamp}}s
+      with clear or diffusing {{17-28-006, bulb}}.
     type: intensional
   - content: This entry was numbered 845-07-23 in IEC 60050-845:1987.
     type: intensional

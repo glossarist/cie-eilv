@@ -17,18 +17,18 @@ id: edfdbb80-c2c0-5c17-a366-882cde8ad73f
 data:
   definition:
   - content: |-
-      quotient of {17-26-055, blue light hazard} weighted {17-21-038, radiant flux} and the <i>V</i>(<i>λ</i>) weighted {17-21-038, radiant flux}
+      quotient of {{17-26-055, blue light hazard}} weighted {{17-21-038, radiant flux}} and the <i>V</i>(<i>λ</i>) weighted {{17-21-038, radiant flux}}
 
-      where <i>λ</i> is {17-21-025, wavelength}, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is spectral radiant flux, <i>B</i>(<i>λ</i>) is the {17-26-060, blue light hazard spectral weighting function}, and <i>V</i>(<i>λ</i>) is the CIE {17-21-035, spectral luminous efficiency} function for {17-22-016, photopic vision}
+      where <i>λ</i> is {{17-21-025, wavelength}}, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is spectral radiant flux, <i>B</i>(<i>λ</i>) is the {{17-26-060, blue light hazard spectral weighting function}}, and <i>V</i>(<i>λ</i>) is the CIE {{17-21-035, spectral luminous efficiency}} function for {{17-22-016, photopic vision}}
     type: intensional
   examples: []
   notes:
-  - content: Luminous radiation refers to {17-21-002, optical radiation} weighted
-      with the CIE {17-21-035, spectral luminous efficiency} function for {17-22-016,
-      photopic vision}, <i>V</i>(<i>λ</i>).
+  - content: Luminous radiation refers to {{17-21-002, optical radiation}} weighted
+      with the CIE {{17-21-035, spectral luminous efficiency}} function for {{17-22-016,
+      photopic vision}}, <i>V</i>(<i>λ</i>).
     type: intensional
-  - content: The use of this term is only reasonable if parts of the {17-21-002, optical
-      radiation} are in the visible range and thus .
+  - content: The use of this term is only reasonable if parts of the {{17-21-002,
+      optical radiation}} are in the visible range and thus .
     type: intensional
   - content: The blue light hazard factor of luminous radiation has unit one.
     type: intensional

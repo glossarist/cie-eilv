@@ -16,12 +16,12 @@ id: da49a896-9709-5ff7-b8a0-66fe7fa26ff8
 ---
 data:
   definition:
-  - content: "{17-21-060, illuminance} averaged over a specified surface"
+  - content: "{{17-21-060, illuminance}} averaged over a specified surface"
     type: intensional
   examples: []
   notes:
   - content: When stating the average illuminance it is necessary to provide a clear
-      indication of the type of {17-21-060, illuminance} at the points of the surface,
+      indication of the type of {{17-21-060, illuminance}} at the points of the surface,
       i.e. horizontal, vertical, spherical, cylindrical or semi-cylindrical.
     type: intensional
   - content: The average illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).

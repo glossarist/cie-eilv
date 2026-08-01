@@ -16,12 +16,12 @@ id: 7868f407-88b4-516f-a211-b33d8bdb8b8e
 ---
 data:
   definition:
-  - content: "{17-21-071, radiant exposure}, when used in photochemistry, {17-26-024,
-      phototherapy} and {17-26-008, photobiology}"
+  - content: "{{17-21-071, radiant exposure}}, when used in photochemistry, {{17-26-024,
+      phototherapy}} and {{17-26-008, photobiology}}"
     type: intensional
   examples: []
   notes:
-  - content: See also "{17-26-034, effective dose}".
+  - content: See also "{{17-26-034, effective dose}}".
     type: intensional
   - content: The dose is expressed in joule per square metre (J·m<sup>−2</sup>).
     type: intensional

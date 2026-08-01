@@ -21,8 +21,8 @@ data:
   examples: []
   notes:
   - content: For example, positive phototaxis involves movement (such as in swimming)
-      towards a {17-21-032, source} of {17-21-002, optical radiation} and negative
-      phototaxis away from such a {17-21-032, source}.
+      towards a {{17-21-032, source}} of {{17-21-002, optical radiation}} and negative
+      phototaxis away from such a {{17-21-032, source}}.
     type: intensional
   - content: This entry was numbered 17-944 in CIE S 017:2011.
     type: intensional

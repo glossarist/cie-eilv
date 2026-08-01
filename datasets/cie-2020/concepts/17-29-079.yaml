@@ -16,12 +16,12 @@ id: cdb213c2-6c33-5b8d-b17e-a561b9746d87
 ---
 data:
   definition:
-  - content: "{17-29-155, average illuminance} during one maintenance cycle of an
+  - content: "{{17-29-155, average illuminance}} during one maintenance cycle of an
       installation averaged over the relevant area"
     type: intensional
   examples: []
   notes:
-  - content: The area can be either the whole area of the {17-29-068, working plane}
+  - content: The area can be either the whole area of the {{17-29-068, working plane}}
       in an interior or the working areas.
     type: intensional
   - content: This entry was numbered 845-09-60 in IEC 60050-845:1987.

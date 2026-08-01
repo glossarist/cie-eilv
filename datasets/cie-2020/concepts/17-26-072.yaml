@@ -21,13 +21,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Exposure limits for human safety of {17-21-002, optical radiation}, <i>H</i><sub>L</sub>,
-      are normally recommended by the International Commission on Non-Ionizing Radiation
-      Protection (ICNIRP).
+  - content: Exposure limits for human safety of {{17-21-002, optical radiation}},
+      <i>H</i><sub>L</sub>, are normally recommended by the International Commission
+      on Non-Ionizing Radiation Protection (ICNIRP).
     type: intensional
-  - content: Exposure limits are often based on {17-21-053, irradiance} (e.g. for
-      the skin), but where relevant, can also be based on {17-21-049, radiance} (e.g.
-      the {17-26-055, blue light hazard} of extended {17-21-032, source}s).
+  - content: Exposure limits are often based on {{17-21-053, irradiance}} (e.g. for
+      the skin), but where relevant, can also be based on {{17-21-049, radiance}}
+      (e.g. the {{17-26-055, blue light hazard}} of extended {{17-21-032, source}}s).
     type: intensional
   - content: This entry was numbered 17-416 in CIE S 017:2011.
     type: intensional

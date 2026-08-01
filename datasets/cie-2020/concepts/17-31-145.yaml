@@ -16,15 +16,15 @@ id: a0ee2eb3-9c9a-5dc5-8f55-c4e6e9978342
 ---
 data:
   definition:
-  - content: measure of {17-22-103, disability glare} expressed as the percentage
-      increase in {17-22-091, luminance contrast} threshold required between an object
-      and its background for it to be seen equally well with a source of {17-22-098,
-      glare} present
+  - content: measure of {{17-22-103, disability glare}} expressed as the percentage
+      increase in {{17-22-091, luminance contrast}} threshold required between an
+      object and its background for it to be seen equally well with a source of {{17-22-098,
+      glare}} present
     type: intensional
   examples: []
   notes:
-  - content: Increasing values of threshold increment correspond to increasing {17-22-103,
-      disability glare}.
+  - content: Increasing values of threshold increment correspond to increasing {{17-22-103,
+      disability glare}}.
     type: intensional
   - content: The threshold increment has unit one.
     type: intensional

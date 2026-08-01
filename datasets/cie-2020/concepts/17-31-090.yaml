@@ -16,8 +16,8 @@ id: cd9dae49-8902-51bf-8832-d0ffd5133a12
 ---
 data:
   definition:
-  - content: average road surface {17-21-050, luminance} in a transverse section at
-      a particular location in the {17-31-084, transition zone}
+  - content: average road surface {{17-21-050, luminance}} in a transverse section
+      at a particular location in the {{17-31-084, transition zone}}
     type: intensional
   examples: []
   notes:

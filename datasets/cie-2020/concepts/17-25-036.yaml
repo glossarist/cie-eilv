@@ -16,8 +16,8 @@ id: 86015a3c-f3a8-5396-8b98-6f5d982c6996
 ---
 data:
   definition:
-  - content: "{17-25-035, detector} of {17-21-002, optical radiation} whose {17-25-063,
-      spectral responsivity} varies with {17-21-025, wavelength} over the spectral
+  - content: "{{17-25-035, detector}} of {{17-21-002, optical radiation}} whose {{17-25-063,
+      spectral responsivity}} varies with {{17-21-025, wavelength}} over the spectral
       range considered"
     type: intensional
   examples: []

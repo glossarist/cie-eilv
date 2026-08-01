@@ -16,13 +16,13 @@ id: 0516b2a4-e971-509d-9f8d-801ef44553e9
 ---
 data:
   definition:
-  - content: SI unit of {17-21-060, illuminance}
+  - content: SI unit of {{17-21-060, illuminance}}
     type: intensional
   examples: []
   notes:
-  - content: 1 lx is equal to the {17-21-060, illuminance} produced on a surface of
-      area 1 m<sup>2</sup> by a {17-21-039, luminous flux} of 1 lm uniformly distributed
-      over that surface.
+  - content: 1 lx is equal to the {{17-21-060, illuminance}} produced on a surface
+      of area 1 m<sup>2</sup> by a {{17-21-039, luminous flux}} of 1 lm uniformly
+      distributed over that surface.
     type: intensional
   - content: |-
       Non-metric, non-SI units: lumen per square foot (symbol: lm·ft<sup>−2</sup>), footcandle (symbol: fc):

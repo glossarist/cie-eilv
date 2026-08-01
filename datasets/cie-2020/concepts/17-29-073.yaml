@@ -17,17 +17,17 @@ id: f99abccd-37f4-50e6-b828-58bd42d78f99
 data:
   definition:
   - content: quotient of the sum of the areas of the ceiling and the plane of the
-      {17-30-001, luminaire}s and the sum of the area of the walls bounded by the
-      ceiling and the plane of the {17-30-001, luminaire}s, used in the calculation
-      of the {17-29-069, utilization factor} or {17-29-070, utilance}
+      {{17-30-001, luminaire}}s and the sum of the area of the walls bounded by the
+      ceiling and the plane of the {{17-30-001, luminaire}}s, used in the calculation
+      of the {{17-29-069, utilization factor}} or {{17-29-070, utilance}}
     type: intensional
   examples: []
   notes:
   - content: The ceiling cavity index is given by the formula <sub> </sub>where <i>a</i>
       and <i>b</i> are the dimensions of the sides of the room and <i>h</i><sub>c</sub>
-      is the distance from the ceiling to the plane of the {17-30-001, luminaire}s.
+      is the distance from the ceiling to the plane of the {{17-30-001, luminaire}}s.
     type: intensional
-  - content: See also "{17-29-075, floor cavity index}" and "{17-29-071, room index}".
+  - content: See also "{{17-29-075, floor cavity index}}" and "{{17-29-071, room index}}".
     type: intensional
   - content: The ceiling cavity index has unit one.
     type: intensional

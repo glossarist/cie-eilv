@@ -16,11 +16,11 @@ id: 626c001e-69c0-5d51-8027-0ff25c2b37f9
 ---
 data:
   definition:
-  - content: quotient of that part of the {17-21-038, radiant flux} or {17-21-039,
-      luminous flux} from a surface, the {17-21-049, radiance} or {17-21-050, luminance}
-      of which is the same at all points and for all directions, which falls on the
-      surface itself, and the {17-21-080, radiant exitance} or {17-21-081, luminous
-      exitance} of the surface
+  - content: quotient of that part of the {{17-21-038, radiant flux}} or {{17-21-039,
+      luminous flux}} from a surface, the {{17-21-049, radiance}} or {{17-21-050,
+      luminance}} of which is the same at all points and for all directions, which
+      falls on the surface itself, and the {{17-21-080, radiant exitance}} or {{17-21-081,
+      luminous exitance}} of the surface
     type: intensional
   examples: []
   notes:

@@ -25,8 +25,8 @@ data:
   - content: Tubular cold-cathode discharge lamps have a low-pressure filling of a
       rare gas (or a mixture of rare gases) and possibly mercury vapour.
     type: intensional
-  - content: Tubular cold-cathode discharge lamps can have an inside coating of {17-24-041,
-      fluorescent material}s.
+  - content: Tubular cold-cathode discharge lamps can have an inside coating of {{17-24-041,
+      fluorescent material}}s.
     type: intensional
   sources:
   - origin:

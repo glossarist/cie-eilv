@@ -16,8 +16,8 @@ id: 54b462e0-01f9-52bf-8489-056d02eff0e9
 ---
 data:
   definition:
-  - content: quotient of the maximum {17-21-050, luminance} and the minimum {17-21-050,
-      luminance} that is present in a specific scene, artwork, photograph, photomechanical,
+  - content: quotient of the maximum {{17-21-050, luminance}} and the minimum {{17-21-050,
+      luminance}} that is present in a specific scene, artwork, photograph, photomechanical,
       or other reproduction
     type: intensional
   examples: []

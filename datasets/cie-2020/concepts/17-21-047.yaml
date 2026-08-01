@@ -26,13 +26,13 @@ data:
 
       with
 
-      where d<i>Ω</i> and d<i>Ω</i> ′ are the {17-21-109, solid angle} elements defining the angular extent of d<i>A</i>′ from d<i>A</i> and d<i>A</i> from d<i>A</i>′ respectively.
+      where d<i>Ω</i> and d<i>Ω</i> ′ are the {{17-21-109, solid angle}} elements defining the angular extent of d<i>A</i>′ from d<i>A</i> and d<i>A</i> from d<i>A</i>′ respectively.
     type: intensional
   - content: '"Single-pass" means that the term applies only for radiation transfer
       in a single defined direction. It does not apply to devices such as Fabry–Pérot
       cavities.'
     type: intensional
-  - content: See also "{17-21-048, optical extent}".
+  - content: See also "{{17-21-048, optical extent}}".
     type: intensional
   - content: The geometric extent is expressed in square metre times steradian (m<sup>2</sup>·sr).
     type: intensional

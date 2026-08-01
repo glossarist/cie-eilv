@@ -16,8 +16,8 @@ id: 85bcf254-8078-5a58-923f-60877be2634d
 ---
 data:
   definition:
-  - content: set of {17-31-127, legend}s to be displayed by a {17-31-112, variable
-      message sign}
+  - content: set of {{17-31-127, legend}}s to be displayed by a {{17-31-112, variable
+      message sign}}
     type: intensional
   examples: []
   notes:

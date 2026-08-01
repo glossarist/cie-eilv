@@ -16,8 +16,8 @@ id: 90bd9382-1735-555b-97c7-e0c946960290
 ---
 data:
   definition:
-  - content: reddening of the skin caused by the {17-26-003, actinic} effect of {17-29-096,
-      solar radiation} or artificial {17-21-002, optical radiation}
+  - content: reddening of the skin caused by the {{17-26-003, actinic}} effect of
+      {{17-29-096, solar radiation}} or artificial {{17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:

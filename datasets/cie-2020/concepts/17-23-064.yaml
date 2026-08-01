@@ -16,18 +16,18 @@ id: 39110608-0cc5-57f3-8098-9b8548261f9d
 ---
 data:
   definition:
-  - content: measure of the proportions of the amounts of the {17-23-011, monochromatic
-      stimulus} and of the specified {17-23-009, achromatic stimulus} that, when additively
-      mixed, match the {17-23-002, colour stimulus} considered
+  - content: measure of the proportions of the amounts of the {{17-23-011, monochromatic
+      stimulus}} and of the specified {{17-23-009, achromatic stimulus}} that, when
+      additively mixed, match the {{17-23-002, colour stimulus}} considered
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, the {17-23-011, monochromatic stimulus}
-      is replaced by a stimulus whose {17-23-052, chromaticity} is represented by
-      a point on the {17-23-058, purple boundary}.
+  - content: In the case of purple stimuli, the {{17-23-011, monochromatic stimulus}}
+      is replaced by a stimulus whose {{17-23-052, chromaticity}} is represented by
+      a point on the {{17-23-058, purple boundary}}.
     type: intensional
-  - content: The proportions can be measured in various ways (see "{17-23-065, colorimetric
-      purity}" and "{17-23-066, excitation purity}").
+  - content: The proportions can be measured in various ways (see "{{17-23-065, colorimetric
+      purity}}" and "{{17-23-066, excitation purity}}").
     type: intensional
   - content: This entry was numbered 845-03-46 in IEC 60050-845:1987.
     type: intensional

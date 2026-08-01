@@ -22,10 +22,10 @@ data:
   notes:
   - content: For lamp safety evaluations, the exposure distance is the nearest distance
       consistent with the application of the lamp or lamp system. For lamps radiating
-      in all directions the distance is measured from the centre of the {17-28-002,
-      filament} or arc source. For reflector-type lamps the distance is measured from
-      the outside edge of the lens or the plane defining the end of the {17-30-038,
-      reflector} in a lens-free {17-30-038, reflector}.
+      in all directions the distance is measured from the centre of the {{17-28-002,
+      filament}} or arc source. For reflector-type lamps the distance is measured
+      from the outside edge of the lens or the plane defining the end of the {{17-30-038,
+      reflector}} in a lens-free {{17-30-038, reflector}}.
     type: intensional
   - content: The exposure distance is expressed in metres (m).
     type: intensional

@@ -16,16 +16,16 @@ id: 0704c48e-37ee-5836-b9a7-e15c56ba6668
 ---
 data:
   definition:
-  - content: "{17-21-053, irradiance}, when used in photochemistry, {17-26-024, phototherapy}
-      and {17-26-008, photobiology}"
+  - content: "{{17-21-053, irradiance}}, when used in photochemistry, {{17-26-024,
+      phototherapy}} and {{17-26-008, photobiology}}"
     type: intensional
   examples: []
   notes:
-  - content: When reporting the dose rate the {17-21-029, spectral distribution} of
-      the {17-21-002, optical radiation} shall be specified.
+  - content: When reporting the dose rate the {{17-21-029, spectral distribution}}
+      of the {{17-21-002, optical radiation}} shall be specified.
     type: intensional
-  - content: The notion of rate applies similarly to {17-26-035, actinic dose} and
-      {17-26-034, effective dose}.
+  - content: The notion of rate applies similarly to {{17-26-035, actinic dose}} and
+      {{17-26-034, effective dose}}.
     type: intensional
   - content: The dose rate is expressed in watt per square metre (W·m<sup>−2</sup>).
     type: intensional

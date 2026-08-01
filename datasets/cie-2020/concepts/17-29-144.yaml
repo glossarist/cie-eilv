@@ -16,10 +16,10 @@ id: 2e84e198-dace-5d19-86f9-62e69e655921
 ---
 data:
   definition:
-  - content: programme according to which the maintenance operations of {17-30-001,
-      luminaire} cleaning, room surface cleaning and lamp replacement are scheduled
-      to be carried out when the {17-21-060, illuminance} decreases to the {17-29-145,
-      maintained lighting value}
+  - content: programme according to which the maintenance operations of {{17-30-001,
+      luminaire}} cleaning, room surface cleaning and lamp replacement are scheduled
+      to be carried out when the {{17-21-060, illuminance}} decreases to the {{17-29-145,
+      maintained lighting value}}
     type: intensional
   examples: []
   notes:

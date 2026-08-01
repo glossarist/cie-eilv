@@ -16,8 +16,9 @@ id: 8c9a4bce-dfb7-5e89-bfed-fec11660cf95
 ---
 data:
   definition:
-  - content: "{17-25-019, photometer} for measuring the directional light distribution
-      characteristics of {17-21-032, source}s, {17-30-001, luminaire}s, media or surfaces"
+  - content: "{{17-25-019, photometer}} for measuring the directional light distribution
+      characteristics of {{17-21-032, source}}s, {{17-30-001, luminaire}}s, media
+      or surfaces"
     type: intensional
   examples: []
   notes:

@@ -16,7 +16,7 @@ id: a1433aba-008b-53c4-ab74-7497ec5f3da3
 ---
 data:
   definition:
-  - content: smallest perceptible difference in {17-21-050, luminance} of two adjacent
+  - content: smallest perceptible difference in {{17-21-050, luminance}} of two adjacent
       fields
     type: intensional
   examples: []
@@ -25,8 +25,8 @@ data:
       taken as two adjacent fields.
     type: intensional
   - content: The value of the luminance difference threshold depends on the methodology,
-      luminance, and on the viewing conditions, including the {17-22-015, state of
-      adaptation}.
+      luminance, and on the viewing conditions, including the {{17-22-015, state of
+      adaptation}}.
     type: intensional
   - content: The luminance difference threshold is expressed in candela per square
       metre (cd·m<sup>−2</sup> = lm·m<sup>−2</sup>·sr<sup>−1</sup>).

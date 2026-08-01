@@ -16,9 +16,9 @@ id: 4fa222ec-1f5d-5d59-acc9-6fb3466b73fd
 ---
 data:
   definition:
-  - content: lamp {17-28-048, control gear} that forms a non-replaceable part of a
-      {17-30-001, luminaire} and which cannot be tested separately from the {17-30-001,
-      luminaire}
+  - content: lamp {{17-28-048, control gear}} that forms a non-replaceable part of
+      a {{17-30-001, luminaire}} and which cannot be tested separately from the {{17-30-001,
+      luminaire}}
     type: intensional
   examples: []
   notes: []

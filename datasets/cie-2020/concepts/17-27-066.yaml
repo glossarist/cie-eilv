@@ -16,12 +16,12 @@ id: 8a274e33-d94a-5ea1-a500-f5c698c537fc
 ---
 data:
   definition:
-  - content: specification of an {17-27-051, LED die} or {17-27-065, LED package},
+  - content: specification of an {{17-27-051, LED die}} or {{17-27-065, LED package}},
       or a set thereof, by means of a range of performance characteristics
     type: intensional
   examples: []
   notes:
-  - content: The characteristics can include {17-23-052, chromaticity}, photometric,
+  - content: The characteristics can include {{17-23-052, chromaticity}}, photometric,
       radiometric, and electrical performance.
     type: intensional
   - content: The designation of a bin is often referred to as the "bin code".

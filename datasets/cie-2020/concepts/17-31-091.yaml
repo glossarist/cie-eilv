@@ -16,8 +16,8 @@ id: 50c75b94-0f60-53b1-b53b-dc77ca4947c8
 ---
 data:
   definition:
-  - content: average road surface {17-21-050, luminance} in the {17-31-086, interior
-      zone}
+  - content: average road surface {{17-21-050, luminance}} in the {{17-31-086, interior
+      zone}}
     type: intensional
   examples: []
   notes:

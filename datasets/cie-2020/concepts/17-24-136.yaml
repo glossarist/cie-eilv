@@ -16,12 +16,12 @@ id: 111eaf86-3e3b-5946-a36e-1d3ce8447657
 ---
 data:
   definition:
-  - content: "{17-24-138, specular gloss} at a large {17-25-078, angle of incidence}
+  - content: "{{17-24-138, specular gloss}} at a large {{17-25-078, angle of incidence}}
       for an otherwise matte surface"
     type: intensional
   examples: []
   notes:
-  - content: The usual {17-25-078, angle of incidence} for measurement is 85°.
+  - content: The usual {{17-25-078, angle of incidence}} for measurement is 85°.
     type: intensional
   sources:
   - origin:

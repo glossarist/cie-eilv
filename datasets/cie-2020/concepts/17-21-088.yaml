@@ -16,19 +16,19 @@ id: 7aca3d94-1e0c-5255-809e-678415cbc0ed
 ---
 data:
   definition:
-  - content: quotient of the total {17-21-038, radiant flux} of all {17-21-025, wavelength}s
-      emitted by the fluorescent process for an {17-24-020, excitation} wavelength
-      and the total radiant {17-24-020, excitation} power irradiating the {17-24-041,
-      fluorescent material}
+  - content: quotient of the total {{17-21-038, radiant flux}} of all {{17-21-025,
+      wavelength}}s emitted by the fluorescent process for an {{17-24-020, excitation}}
+      wavelength and the total radiant {{17-24-020, excitation}} power irradiating
+      the {{17-24-041, fluorescent material}}
     type: intensional
   examples: []
   notes:
   - content: This quantity is also measured in relative terms by comparison to the
-      {17-21-038, radiant flux} reflected from the {17-24-060, perfect reflecting
-      diffuser} identically irradiated and viewed for a given {17-24-020, excitation}
+      {{17-21-038, radiant flux}} reflected from the {{17-24-060, perfect reflecting
+      diffuser}} identically irradiated and viewed for a given {{17-24-020, excitation}}
       wavelength.
     type: intensional
-  - content: "{17-24-023, fluorescence} is understood to include both fluorescent
+  - content: "{{17-24-023, fluorescence}} is understood to include both fluorescent
       and phosphorescent phenomena with time constants short enough to be ignored
       for the application."
     type: intensional

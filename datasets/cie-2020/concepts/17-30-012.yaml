@@ -16,8 +16,8 @@ id: 80c7a994-0029-5a5a-a8a1-ae40c7503660
 ---
 data:
   definition:
-  - content: "{17-30-001, luminaire} designed for cold cathode lamp(s) that can be
-      easily moved during normal operation and supplied with a non-detachable flexible
+  - content: "{{17-30-001, luminaire}} designed for cold cathode lamp(s) that can
+      be easily moved during normal operation and supplied with a non-detachable flexible
       cable and incorporating a transformer, inverter or converter"
     type: intensional
   examples: []

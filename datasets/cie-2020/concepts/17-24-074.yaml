@@ -17,15 +17,15 @@ id: d1adbc62-c3b3-575d-bebe-7e136bb70ba0
 data:
   definition:
   - content: quotient of the flux transmitted by a specimen in a given optical system
-      and the flux transmitted when the specimen is removed from the {17-25-114, sampling
-      aperture}
+      and the flux transmitted when the specimen is removed from the {{17-25-114,
+      sampling aperture}}
     type: intensional
   examples: []
   notes:
-  - content: Comparison of the radiation penetrating a slide situated in a {17-30-030,
-      projector} and reaching a screen to the radiation when the slide is removed
-      from the {17-30-030, projector} and only an empty slide mount is in the {17-30-030,
-      projector}.
+  - content: Comparison of the radiation penetrating a slide situated in a {{17-30-030,
+      projector}} and reaching a screen to the radiation when the slide is removed
+      from the {{17-30-030, projector}} and only an empty slide mount is in the {{17-30-030,
+      projector}}.
     type: intensional
   - content: The transmittance factor has unit one.
     type: intensional

@@ -17,9 +17,9 @@ id: 1f0416fe-3791-55aa-bd97-ffb48ea46d2a
 data:
   definition:
   - content: period of time required for an arc discharge lamp to develop an electrically
-      stable {17-27-023, arc discharge}, the {17-27-024, discharge lamp} being operated
-      under specified conditions and the time being measured from the moment its circuit
-      is energized
+      stable {{17-27-023, arc discharge}}, the {{17-27-024, discharge lamp}} being
+      operated under specified conditions and the time being measured from the moment
+      its circuit is energized
     type: intensional
   examples: []
   notes:

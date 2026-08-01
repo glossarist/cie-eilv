@@ -16,29 +16,29 @@ id: 7e176bf8-e9b1-5901-a154-b8130aa7101b
 ---
 data:
   definition:
-  - content: energy of electromagnetic waves weighted by the {17-21-035, spectral
-      luminous efficiency} multiplied by {17-21-092, maximum luminous efficacy} of
-      a specified photometric condition
+  - content: energy of electromagnetic waves weighted by the {{17-21-035, spectral
+      luminous efficiency}} multiplied by {{17-21-092, maximum luminous efficacy}}
+      of a specified photometric condition
     type: intensional
   examples: []
   notes:
   - content: |-
-      Luminous energy for {17-22-016, photopic vision} is expressed by
+      Luminous energy for {{17-22-016, photopic vision}} is expressed by
       <sub>
 
 
-      </sub>where <i>Q</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral radiant energy at {17-21-025, wavelength} <i>λ</i>, <i>V</i>(<i>λ</i>) is {17-21-035, spectral luminous efficiency}, and <i>K</i><sub>m</sub> is {17-21-092, maximum luminous efficacy}.
+      </sub>where <i>Q</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral radiant energy at {{17-21-025, wavelength}} <i>λ</i>, <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}, and <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}.
     type: intensional
   - content: The term "quantity of light" is no longer used.
     type: intensional
   - content: Luminous energy can be emitted, transferred or received.
     type: intensional
   - content: |-
-      Luminous energy can be expressed by the time integral of the {17-21-039, luminous flux}, <i>Φ</i><sub>v</sub>, over a given duration, Δ<i>t</i>
+      Luminous energy can be expressed by the time integral of the {{17-21-039, luminous flux}}, <i>Φ</i><sub>v</sub>, over a given duration, Δ<i>t</i>
       <sub>.</sub>
     type: intensional
-  - content: The corresponding radiometric quantity is "{17-21-041, radiant energy}".
-      The corresponding quantity for photons is "{17-21-042, photon energy}".
+  - content: The corresponding radiometric quantity is "{{17-21-041, radiant energy}}".
+      The corresponding quantity for photons is "{{17-21-042, photon energy}}".
     type: intensional
   - content: The luminous energy is expressed in lumen second (lm·s) or lumen hour
       (lm·h).

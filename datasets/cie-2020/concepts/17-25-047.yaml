@@ -16,17 +16,17 @@ id: d73232fa-2292-500b-8ef1-934fc4805873
 ---
 data:
   definition:
-  - content: "{17-25-035, detector} of {17-21-002, optical radiation} whose quantum
-      efficiency is independent of {17-21-025, wavelength} over the spectral range
+  - content: "{{17-25-035, detector}} of {{17-21-002, optical radiation}} whose quantum
+      efficiency is independent of {{17-21-025, wavelength}} over the spectral range
       considered"
     type: intensional
   examples: []
   notes:
-  - content: Quantum efficiency can refer to {17-25-074, external quantum efficiency}
-      or {17-25-076, internal quantum efficiency}. If not explicitly stated, {17-25-074,
-      external quantum efficiency} is assumed.
+  - content: Quantum efficiency can refer to {{17-25-074, external quantum efficiency}}
+      or {{17-25-076, internal quantum efficiency}}. If not explicitly stated, {{17-25-074,
+      external quantum efficiency}} is assumed.
     type: intensional
-  - content: See also "{17-25-109, quantum counter}".
+  - content: See also "{{17-25-109, quantum counter}}".
     type: intensional
   - content: This entry was numbered 845-05-42 in IEC 60050-845:1987.
     type: intensional

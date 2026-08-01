@@ -16,17 +16,17 @@ id: 93840be3-1a6e-5a0e-bb98-929f394bf83b
 ---
 data:
   definition:
-  - content: retinal lesion produced by intense visible or {17-21-005, IR-A} radiation
+  - content: retinal lesion produced by intense visible or {{17-21-005, IR-A}} radiation
       exposure
     type: intensional
   examples: []
   notes:
   - content: The term "retinal burn" is generally used to describe a thermal retinal
-      lesion (see "{17-26-023, retinal thermal injury}"); however, it is sometimes
+      lesion (see "{{17-26-023, retinal thermal injury}}"); however, it is sometimes
       applied to a photochemical retinal lesion. More specific terms are also used
-      for a photochemical "burn," i.e. a "{17-26-010, photic maculopathy}" or "blue
-      light photoretinitis" (from blue-light-induced injuries), or for a {17-26-023,
-      retinal thermal injury}, a "chorioretinal thermal injury".
+      for a photochemical "burn," i.e. a "{{17-26-010, photic maculopathy}}" or "blue
+      light photoretinitis" (from blue-light-induced injuries), or for a {{17-26-023,
+      retinal thermal injury}}, a "chorioretinal thermal injury".
     type: intensional
   - content: This entry was numbered 17-1098 in CIE S 017:2011.
     type: intensional
