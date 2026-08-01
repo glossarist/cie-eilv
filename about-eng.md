@@ -1,31 +1,11 @@
-# About the CIE e-ILV
+# e-ILV
 
-This site is a [Glossarist Concept Browser](https://glossarist.org) edition of the **CIE International Lighting Vocabulary (ILV)**, 2nd edition (CIE S 017:2020), published by the International Commission on Illumination (CIE).
+The e-ILV provides free access to all the terms and definitions contained in the international standard **CIE S 017:2020 ILV: International Lighting Vocabulary, 2nd edition**.
 
-## Source
+Each term can be individually found by the "term number" or by entering a keyword in the "search" box.
 
-The term content is drawn from the free electronic edition of the ILV hosted by the CIE at <https://cie.co.at/e-ilv>. Every concept here links back to its canonical source page on `cie.co.at` so editors and readers can verify definitions against the upstream standard.
+For the complete set of terms and definitions, CIE S 017:2020 can be purchased from the [CIE Webshop](https://cie.co.at/publications/international-lighting-vocabulary-ilv). Members of a CIE National Committee or Associate National Committee have access to a 66,7 % discount on the purchase price of the standard.
 
-The complete multilingual edition of CIE S 017:2020 (English, French, German) is available for purchase from the [CIE Webshop](https://cie.co.at/publications/international-lighting-vocabulary-ilv). The free e-ILV exposed on `cie.co.at` — and reproduced here — is English-only.
+To maintain the ILV and its electronic version, e-ILV, a specific procedure is in place. Any party with an interest in the scope of CIE may submit a change request (CR) for the e-ILV using the designated [CR Form](https://cie.co.at/e-ilv). The proposer must complete the CR form with all required information.
 
-## Copyright
-
-Term content copyright © CIE 2020. Reproduced from CIE S 017:2020 ILV: International Lighting Vocabulary, 2nd edition, with the permission of the CIE Central Bureau.
-
-## What this site adds
-
-- **Cross-concept navigation**: every inline reference to another ILV term (e.g. *optical radiation* in the definition of *light*) is a clickable link to the target concept.
-- **Section browsing**: terms grouped by their ILV section prefix (`17-21` through `17-32`).
-- **Search and graph views**: built-in features of the Glossarist Concept Browser.
-
-## Provenance
-
-Every concept file in this dataset carries an authoritative `sources[]` entry linking to its `https://cie.co.at/eilvterm/<termid>` origin page. Where a term was previously numbered under an earlier standard (IEC 60050-845:1987 or CIE S 017:2011), both the verbatim "Note N to entry" and a structured `sources[]` entry are preserved.
-
-## Maintenance
-
-This dataset is a snapshot of the free e-ILV. For upstream changes — new terms, retirements, definition revisions — see <https://cie.co.at/e-ilv>. To request a re-scrape, open an issue on this repository.
-
-## Acknowledgements
-
-Built with [Glossarist](https://glossarist.org) tooling, following the pattern established by the [IALA Dictionary](https://www.glossarist.org/iala-vocab/) glossarist edition.
+For advice on CIE Publications contact [ciecb@cie.co.at](mailto:ciecb@cie.co.at). Please note that the CIE CB may not be able to assist with enquiries of a technical nature.

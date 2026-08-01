@@ -17,25 +17,29 @@ datasets:
   local_path: datasets/cie-2020
   ref: CIE S 017:2020
   owner: CIE
-  color: '#003366'
+  color: '#004ebc'
 routing: []
 branding:
-  primary_color: '#003366'
-  dark_color: '#001a33'
+  primary_color: '#004ebc'
+  dark_color: '#002866'
   fonts:
     header:
-      family: Source Serif 4
+      family: Raleway
       source: google
       weights:
-      - 400
       - 600
+      - 700
     body:
-      family: Source Sans 3
+      family: Raleway
       source: google
       weights:
       - 400
       - 500
-      - 700
+      - 600
+  logo:
+    alt: CIE
+    local_light: public/images/cie-logo_logo-icon.svg
+    local_dark: public/images/cie-logo_logo-icon.svg
   owner_name: CIE
   owner_url: https://cie.co.at
 features:
@@ -50,7 +54,7 @@ features:
 pages:
 - type: about
   route: about
-  title: About
+  title: About the ILV
   icon: info
   source: about-eng.md
 defaults:
@@ -62,5 +66,5 @@ dataset_groups:
   current: cie-2020
   datasets:
   - cie-2020
-  color: '#003366'
+  color: '#004ebc'
 copyright: CIE
