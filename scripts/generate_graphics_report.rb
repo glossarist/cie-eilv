@@ -25,7 +25,7 @@ require "fileutils"
 # currently missing data); concepts with inline math are lower priority
 # (they render but could be prettier).
 
-OUT_DIR = File.join(CieEilv::Paths::REFERENCE_DOCS, "reports")
+OUT_DIR = File.expand_path("docs", Dir.pwd)
 OUT_PATH = File.join(OUT_DIR, "graphics-and-math.md")
 FileUtils.mkdir_p(OUT_DIR)
 
