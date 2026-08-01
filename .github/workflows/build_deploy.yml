@@ -38,11 +38,19 @@ jobs:
       - name: Install concept-browser
         run: npm install --ignore-scripts
 
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
       - name: Build site
         run: npm run build
         env:
           BASE_PATH: /cie-eilv/
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Smoke test (headless browser)
+        run: npm run smoke
+        env:
+          BASE_PATH: /cie-eilv/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -13,10 +13,14 @@
 /public/pages/
 /public/logos/
 /public/favicon-links.html
-/public/site.webmanifest
-/public/*.png
-/public/favicon.ico
+# Favicons — canonical copies live under assets/favicons/ (committed).
+# Files in public/ are restored by scripts/install-favicons.mjs on every build.
 /public/favicon.svg
+/public/favicon.ico
+/public/favicon-*.png
+/public/apple-touch-icon*.png
+/public/web-app-manifest-*.png
+/public/site.webmanifest
 *.log
 
 # Local dev artifacts:
