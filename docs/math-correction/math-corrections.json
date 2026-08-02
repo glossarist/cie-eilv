@@ -1,0 +1,152 @@
+[
+  {
+    "termid": "17-21-030",
+    "location": "definition",
+    "gif": "mml_m3.gif",
+    "expression": "S(λ) = (X_lambda (lambda)) / R"
+  },
+  {
+    "termid": "17-21-035",
+    "location": "note-6",
+    "gif": "mml_m4.gif",
+    "expression": "Phi_v = K_m int_0^oo Phi_(e,lambda)(lambda) V(lambda) \"d\" lambda"
+  },
+  {
+    "termid": "17-21-026",
+    "location": "designation",
+    "gif": "mml_m1.gif",
+    "expression": "tilde(v)"
+  },
+  {
+    "termid": "17-21-029",
+    "location": "definition",
+    "gif": "mml_m2.gif",
+    "expression": "X_lambda = (\"d\" X(lambda)) / (\"d\" lambda)"
+  },
+  {
+    "termid": "17-21-038",
+    "location": "definition",
+    "gif": "mml_m7.gif",
+    "expression": "Phi_e = ((\"d\" Q_e))/((\"d\" t))"
+  },
+  {
+    "termid": "17-21-037",
+    "location": "note-3",
+    "gif": "mml_m6.gif",
+    "expression": "Q_v = K_m int_{Delta t} Phi_v \"d\" t"
+  },
+  {
+    "termid": "17-21-037",
+    "location": "note-0",
+    "gif": "mml_m5.gif",
+    "expression": "Q_v = K_m int_0^oo Q_(e,lambda)(lambda) V(lambda) \"d\" lambda"
+  },
+  {
+    "termid": "17-21-039",
+    "location": "definition",
+    "gif": "mml_m8.gif",
+    "expression": "Phi_v = ((\"d\" Q_v))/((\"d\" t))"
+  },
+  {
+    "termid": "17-21-039",
+    "location": "note-0",
+    "gif": "mml_m9.gif",
+    "expression": "Phi_v = K_m int_0^oo Phi_(e,lambda)(lambda) V(lambda) \"d\" lambda"
+  },
+  {
+    "termid": "17-21-039",
+    "location": "note-1",
+    "gif": "mml_m10.gif",
+    "expression": "Phi_v = int int_Omega I_v (theta, phi) sin theta \"d\" phi \"d\" theta"
+  },
+  {
+    "termid": "17-21-040",
+    "location": "definition",
+    "gif": "mml_m11.gif",
+    "expression": "Phi_p = ((\"d\" N_p))/((\"d\" t))"
+  },
+  {
+    "termid": "17-21-040",
+    "location": "note-1",
+    "gif": "mml_m13.gif",
+    "expression": "(\"d\" Phi_e (lambda)) / (\"d\" v)"
+  },
+  {
+    "termid": "17-21-040",
+    "location": "note-0",
+    "gif": "mml_m12.gif",
+    "expression": "Phi_p = (Phi_e) / (hv)"
+  },
+  {
+    "termid": "17-21-040",
+    "location": "note-1",
+    "gif": "mml_m14.gif",
+    "expression": "(\"d\" Phi_e (v)) / (\"d\" v)"
+  },
+  {
+    "termid": "17-21-040",
+    "location": "note-1",
+    "gif": "mml_m15.gif",
+    "expression": "Phi_p = int_0^oo (\"d\" Phi_e(lambda))/(\"d\" lambda) cdot (lambda)/(h c_0) \"d\" lambda = int_0^oo (\"d\" Phi_e(v))/(\"d\" v) cdot (1)/(h v) \"d\" v"
+  },
+  {
+    "termid": "17-21-041",
+    "location": "note-0",
+    "gif": "mml_m16.gif",
+    "expression": "Q_e = int_{Delta t} Phi_e \"d\" t"
+  },
+  {
+    "termid": "17-21-043",
+    "location": "definition",
+    "gif": "mml_m18.gif",
+    "expression": "v"
+  },
+  {
+    "termid": "17-21-043",
+    "location": "definition",
+    "gif": "mml_m17.gif",
+    "expression": "N_p = (Q_e) / (h v)"
+  },
+  {
+    "termid": "17-21-043",
+    "location": "note-0",
+    "gif": "mml_m19.gif",
+    "expression": "N_p = int_{Delta t} Phi_p \"d\" t"
+  },
+  {
+    "termid": "17-21-044",
+    "location": "definition",
+    "gif": "mml_m20.gif",
+    "expression": "I_e = ((\"d\" Phi_e))/((\"d\" Omega))"
+  },
+  {
+    "termid": "17-21-044",
+    "location": "note-1",
+    "gif": "mml_m21.gif",
+    "expression": "Phi_e = int int_Omega I_e (theta, phi) sin theta \"d\" phi \"d\" theta"
+  },
+  {
+    "termid": "17-21-045",
+    "location": "definition",
+    "gif": "mml_m22.gif",
+    "expression": "I_v = ((d Phi_v))/((d Omega))"
+  },
+  {
+    "termid": "17-21-045",
+    "location": "note-1",
+    "gif": "mml_m23.gif",
+    "expression": "Phi_v = int int_Omega I_v (theta, phi) sin theta \"d\" phi \"d\" theta"
+  },
+  {
+    "termid": "17-21-046",
+    "location": "definition",
+    "gif": "mml_m25.gif",
+    "expression": "I_p = ((d Phi_p))/((d Omega))"
+  },
+  {
+    "termid": "17-21-045",
+    "location": "note-2",
+    "gif": "mml_m24.gif",
+    "expression": "I_v = K_m int_0^oo I_{e, lambda} (lambda) V(lambda) \"d\" lambda"
+  }
+]
