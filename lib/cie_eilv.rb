@@ -22,5 +22,9 @@ module CieEilv
   autoload :Sections,         "cie_eilv/sections"
   autoload :RegisterBuilder,  "cie_eilv/register_builder"
   autoload :CrossRefLinker,   "cie_eilv/cross_ref_linker"
+  autoload :IevMathImporter,  "cie_eilv/iev_math_importer"
+  autoload :MathTagConverter, "cie_eilv/math_tag_converter"
+  autoload :MathNormalizer,   "cie_eilv/math_normalizer"
   autoload :Auditor,          "cie_eilv/auditor"
+  autoload :Archive2011,      "cie_eilv/archive_2011"
 end
