@@ -16,13 +16,13 @@ id: e81ecead-379b-5944-877c-0b49f7e6dcf6
 ---
 data:
   definition:
-  - content: quotient of the sum of the individually rated {{17-21-039, luminous flux}}es
-      of the lamps of an installation and the floor area
+  - content: quotient of the sum of the individually rated luminous fluxes of the
+      lamps of an installation and the floor area
     type: intensional
   examples: []
   notes:
   - content: The installed lamp flux density is expressed in lumen per square metre
-      (lm·m<sup>−2</sup>).
+      (lm·m^−2^).
     type: intensional
   - content: This entry was numbered 845-09-47 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-060
-id: 9e26bb93-d015-50f0-aa65-4eeeb7632ca7
+id: 034c32cd-5ef4-58af-9ae1-d77a9a79a2c2

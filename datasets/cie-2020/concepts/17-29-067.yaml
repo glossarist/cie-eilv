@@ -17,9 +17,13 @@ id: 2c80d2ff-e97b-5602-96bc-03c66d06a84e
 data:
   definition:
   - content: surface on which optical quantities are measured or specified
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-09-49 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-1057 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-067
-id: c3eda147-6a0e-59cf-b4e7-7f75c3c9a5c7
+id: 4463c3c6-e943-5364-a498-ee6e26599666

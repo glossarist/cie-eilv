@@ -16,15 +16,15 @@ id: 2d58d31d-06b4-5be1-945f-062da870a695
 ---
 data:
   definition:
-  - content: output-referred {{17-32-009, colour image data}}, which are referred
-      to a standardized real or virtual output device and viewing conditions
+  - content: output-referred colour image data, which are referred to a standardized
+      real or virtual output device and viewing conditions
     type: intensional
   examples: []
   notes:
   - content: Image data intended for open interchange are most commonly standard output-referred.
       This is because with standard output-referred image data it is generally sufficient
       to specify the standard output to which the image data are referred to interpret
-      the {{17-23-026, colour appearance}} described by the image data.
+      the colour appearance described by the image data.
     type: intensional
   - content: Standard output-referred image data can become the starting point for
       a subsequent reproduction process. For example, sRGB standard output-referred
@@ -62,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-011
-id: 891ca61b-633b-5681-9f4e-ab982bb53b89
+id: 93409251-b17c-5514-b81f-82ac40f6e3e3

@@ -17,20 +17,25 @@ id: bd60d3c1-0a84-5652-a309-8e2be4c74179
 data:
   definition:
   - content: |-
-      law relating the {{17-21-060, illuminance}}, <i>E</i><sub>v</sub>, produced on a surface (which is normal to the direction of the {{17-27-001, light source}} and sufficiently distant for the {{17-27-001, light source}} to be considered as a {{17-21-033, point source}}) by a {{17-27-001, light source}} to the {{17-21-045, luminous intensity}}, <i>I</i><sub>v</sub>, of the {{17-27-001, light source}} in the direction of the surface, to the distance, <i>d</i>, between the surface and the {{17-27-001, light source}}, and to the {{17-31-017, atmospheric transmissivity}}, <i>T</i>, which is assumed to be uniform
+      law relating the illuminance, stem:[E_v], produced on a surface (which is normal to the direction of the light source and sufficiently distant for the light source to be considered as a {{17-21-033, point source}}) by a light source to the luminous intensity, stem:[I_v], of the light source in the direction of the surface, to the distance, stem:[d], between the surface and the light source, and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
 
-      where <i>d</i><sub>0</sub> is the length specified in the definition of <i>T</i>
+      stem:[E_v = ((I_v))/((d^2)) T^(d // d_0)]
+
+      where stem:[d_0] is the length specified in the definition of stem:[T]
     type: intensional
   examples: []
   notes:
   - content: |-
-      to entry: The formula in the definition is sometimes written:
+      The formula in the definition is sometimes written:
 
-      where the exponent, <i>δ</i>, in <i>T<sup>δ</sup></i> is the numerical value of the distance, <i>d</i>, measured with <i>d</i><sub>0</sub> as "unit".
+      stem:[E_v = ((I_v))/((d^2)) T^(delta)]
+
+      where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of the distance, stem:[d], measured with stem:[d_0] as "unit".
     type: intensional
   - content: |-
-      Taking into account the relationship between {{17-31-017, atmospheric transmissivity}}, <i>T</i>, and {{17-31-018, meteorological optical range}}, <i>v</i>, given in Note 2 to entry of the definition of "{{17-31-018, meteorological optical range}}", Allard's law can also be written as:
-      .
+      Taking into account the relationship between atmospheric transmissivity, stem:[T], and {{17-31-018, meteorological optical range}}, stem:[v], given in Note 2 to entry of the definition of "meteorological optical range", Allard's law can also be written as:
+
+      stem:[E_v = ((I_v))/((d^2)) ( 0,05^(d // v) )].
     type: intensional
   - content: This entry was numbered 845-11-27 in IEC 60050-845:1987.
     type: intensional
@@ -58,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-025
-id: e3ca9c93-de78-554d-b363-4f83a29cb943
+id: bf135199-5cb8-540d-bd53-5b8502ad9986

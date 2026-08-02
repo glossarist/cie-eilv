@@ -17,30 +17,31 @@ id: 7a1cee25-5d9d-5d6c-bc28-4b5a4306980c
 data:
   definition:
   - content: |-
-      law giving the {{17-21-029, spectral distribution}} of {{17-21-049, radiance}} of a {{17-24-004, Planckian radiator}} as a function of {{17-21-025, wavelength}} and temperature
+      law giving the {{17-21-029, spectral distribution}} of radiance of a {{17-24-004, Planckian radiator}} as a function of wavelength and temperature
 
-      where <i>L</i><sub>e,</sub><i><sub>λ</sub></i> is the {{17-21-052, spectral radiance}}, <i>λ</i> is the {{17-21-025, wavelength}} in vacuum, <i>T</i> is the thermodynamic temperature, , <i>c</i><sub>2</sub> = <i>h</i> <i>c</i><sub>0</sub> / <i>k</i>, <i>h</i> is the {{17-21-108, Planck constant}}, <i>c</i><sub>0 </sub>is the speed of light in vacuum, and <i>k</i> is the Boltzmann constant
+      stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
+
+      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the <<113-01-34, speed of light in vacuum>>, and stem:[k] is the Boltzmann constant
     type: intensional
   examples: []
   notes:
-  - content: The formula is sometimes written with instead of , where <i>Ω</i><sub>0</sub>
-      is the {{17-21-109, solid angle}} of magnitude 1 sr.
+  - content: The formula is sometimes written with stem:[((c_1))/((pi omega_0))] instead
+      of stem:[((c_1))/(pi)], where stem:[Omega_0] is the solid angle of magnitude
+      1 sr.
     type: intensional
-  - content: |-
-      For a {{17-25-035, detector}} in a medium of {{17-24-109, refractive index}} <i>n</i>, the measured {{17-21-049, radiance}} is:
-      <i>n</i><sup>2</sup><i>L</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>, <i>T</i>).
+  - content: For a detector in a medium of refractive index stem:[n], the measured
+      radiance is stem:[n^2]stem:[L_(e,lambda)](stem:[lambda], stem:[T]).
     type: intensional
-  - content: Planck's law can also be expressed to give the {{17-21-029, spectral
-      distribution}} of {{17-21-080, radiant exitance}}, <i>M</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>,
-      <i>T</i>); the first factor in the formula is then <i>c</i><sub>1</sub> instead
-      of .
+  - content: Planck's law can also be expressed to give the spectral distribution
+      of radiant exitance, stem:[M_(e,lambda)](stem:[lambda], stem:[T]); the first
+      factor in the formula is then stem:[c_1] instead of stem:[((c_1))/(pi)].
     type: intensional
-  - content: Both quantities ({{17-21-049, radiance}} and {{17-21-080, radiant exitance}})
-      apply to the {{17-21-021, unpolarized radiation}} as emitted.
+  - content: Both quantities (radiance and radiant exitance) apply to the {{17-21-021,
+      unpolarized radiation}} as emitted.
     type: intensional
-  - content: For the up-to-date values of the {{17-21-108, Planck constant}}, <i>h</i>,
-      the speed of light in vacuum, <i>c</i><sub>0</sub>, and the Boltzmann constant,
-      <i>k</i>, see CODATA.
+  - content: For the up-to-date values of the Planck constant, stem:[h], the <<113-01-34,
+      speed of light in vacuum>>, stem:[c_0], and the Boltzmann constant, stem:[k],
+      see CODATA.
     type: intensional
   - content: This entry was numbered 845-04-05 in IEC 60050-845:1987.
     type: intensional
@@ -68,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-005
-id: 0a74d1cb-b8ee-580b-a404-5bf514227006
+id: fd2d32b4-c7c1-5104-9e00-51b61caed9ca

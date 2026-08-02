@@ -16,9 +16,8 @@ id: f5d02679-4673-542e-a7af-e5829a48cf7a
 ---
 data:
   definition:
-  - content: change in {{17-22-067, hue}} produced by changing the pulse duration
-      of a {{17-23-002, colour stimulus}} while keeping its {{17-23-052, chromaticity}}
-      and {{17-21-050, luminance}} constant
+  - content: change in hue produced by changing the pulse duration of a colour stimulus
+      while keeping its chromaticity and luminance constant
     type: intensional
   examples: []
   notes: []
@@ -34,4 +33,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-096
-id: 51e73da9-8b09-5f60-bf52-ca9ea561fb1b
+id: f8d8a7d7-c2fd-5365-9d59-e8e0380fd8bb

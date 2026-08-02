@@ -16,15 +16,15 @@ id: da49a896-9709-5ff7-b8a0-66fe7fa26ff8
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} averaged over a specified surface"
+  - content: illuminance averaged over a specified surface
     type: intensional
   examples: []
   notes:
   - content: When stating the average illuminance it is necessary to provide a clear
-      indication of the type of {{17-21-060, illuminance}} at the points of the surface,
-      i.e. horizontal, vertical, spherical, cylindrical or semi-cylindrical.
+      indication of the type of illuminance at the points of the surface, i.e. horizontal,
+      vertical, spherical, cylindrical or semi-cylindrical.
     type: intensional
-  - content: The average illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The average illuminance is expressed in lux (lx &amp;equals; lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-63 in CIE S 017:2011.
     type: intensional
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-155
-id: 42faf1d0-53ca-5e0a-814f-64f74cf4c0cf
+id: 149da7f6-7684-5da3-9558-a347f796655a

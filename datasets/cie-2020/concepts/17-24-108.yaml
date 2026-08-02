@@ -16,10 +16,10 @@ id: fd0cfb0d-3125-564c-a24e-e3f2e6147199
 ---
 data:
   definition:
-  - content: process by which the direction of propagation of an <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=121-11-63">electromagnetic
-      wave</a> is changed as a result of changes in its velocity of propagation in
-      passing through an optically non-homogeneous medium, or in crossing a surface
-      separating media with different {{17-24-109, refractive index}}es
+  - content: process by which the direction of propagation of an <<121-11-63, electromagnetic
+      wave>> is changed as a result of changes in its velocity of propagation in passing
+      through an optically non-homogeneous medium, or in crossing a surface separating
+      media with different refractive indexes
     type: intensional
   examples: []
   notes:
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-108
-id: 836213a8-8883-55ba-90be-75488bfb9193
+id: 9fae03f9-18f5-5737-b7d4-31aad90a5290

@@ -16,9 +16,9 @@ id: 8a54c368-7ff1-5e00-b3de-460f66d207f7
 ---
 data:
   definition:
-  - content: calculation method to predict {{17-21-060, illuminance}} at each point
-      on a calculation plane, using measured data of {{17-29-037, luminous intensity
-      distribution}} of a {{17-21-032, source}} or a {{17-30-001, luminaire}}
+  - content: calculation method to predict illuminance at each point on a calculation
+      plane, using measured data of luminous intensity distribution of a source or
+      a luminaire
     type: intensional
   examples: []
   notes:
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-063
-id: 44b891bb-e832-5968-8aea-5fbc00b13937
+id: 448fff73-9b85-583e-8d9b-cfff40ffb55f

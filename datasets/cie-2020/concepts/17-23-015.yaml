@@ -16,14 +16,13 @@ id: 106d583c-2e35-5bcd-b963-9aa2f02dffc5
 ---
 data:
   definition:
-  - content: difference between two {{17-23-002, colour stimulus}}, defined as the
-      distance between the points representing them in a specified {{17-23-041, colour
-      space}}
+  - content: difference between two colour stimuli, defined as the distance between
+      the points representing them in a specified colour space
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-23-077, CIE 1976 L*a*b* colour difference}}", "{{17-23-075,
-      CIE 1976 L*u*v* colour difference}}".
+  - content: See also "{{17-23-077, CIE 1976 L^*^a^*^b^*^ colour difference}}", "{{17-23-075,
+      CIE 1976 L^*^u^*^v^*^ colour difference}}".
     type: intensional
   sources:
   - origin:
@@ -38,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-015
-id: 8e482b14-7466-5229-bfaf-819b36148fc4
+id: 973e93b4-b38c-5fff-a29d-57e056940764

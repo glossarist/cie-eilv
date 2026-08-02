@@ -16,10 +16,9 @@ id: 64553445-8746-528a-949f-c1fb74043c8d
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} by means of {{17-30-001, luminaire}}s having
-      a distribution of {{17-21-045, luminous intensity}} such that the fraction of
-      the emitted {{17-21-039, luminous flux}} directly reaching the {{17-29-068,
-      working plane}}, assumed to be of infinite extent, is 0 % to 10 %"
+  - content: lighting by means of luminaires having a distribution of luminous intensity
+      such that the fraction of the emitted luminous flux directly reaching the working
+      plane, assumed to be of infinite extent, is 0 % to 10 %
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-018
-id: 9b49124a-d739-5a26-814f-1359d434fe6a
+id: 5aead70f-894d-528d-92d4-ada1cbf73acc

@@ -16,23 +16,22 @@ id: d592bfa9-3c22-5b80-9583-37c8781368d5
 ---
 data:
   definition:
-  - content: "{{17-22-042, object colour}} stimuli that correspond to objects whose
-      {{17-24-077, luminance factor}}s have maximum possible values for each {{17-23-052,
-      chromaticity}} when their spectral {{17-24-077, luminance factor}}s do not exceed
-      unity for any {{17-21-025, wavelength}}"
+  - content: object colour stimuli that correspond to objects whose luminance factors
+      have maximum possible values for each chromaticity when their spectral luminance
+      factors do not exceed unity for any wavelength
     type: intensional
   examples: []
   notes:
   - content: Optimal colour stimuli correspond, in general, to objects whose spectral
-      {{17-24-077, luminance factor}}s have values of either unity or zero, with not
-      more than two transitions between them.
+      luminance factors have values of either unity or zero, with not more than two
+      transitions between them.
     type: intensional
-  - content: The {{17-24-077, luminance factor}}s and {{17-23-053, chromaticity coordinates}}
-      of optimal colour stimuli define the boundaries of a {{17-23-043, colour solid}}
-      corresponding to non-fluorescent objects.
+  - content: The luminance factors and chromaticity coordinates of optimal colour
+      stimuli define the boundaries of a colour solid corresponding to non-fluorescent
+      objects.
     type: intensional
-  - content: For a given {{17-24-077, luminance factor}}, optimal colour stimuli define
-      the maximum {{17-23-064, purity}} possible for non-fluorescent objects.
+  - content: For a given luminance factor, optimal colour stimuli define the maximum
+      purity possible for non-fluorescent objects.
     type: intensional
   - content: See also "{{17-22-042, object colour}}", "{{17-23-002, colour stimulus}}".
     type: intensional
@@ -71,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-005
-id: 8517e17a-bb54-538a-a4aa-66e749607862
+id: 611b2c6a-6e06-5c11-ab01-71e841e65b8d

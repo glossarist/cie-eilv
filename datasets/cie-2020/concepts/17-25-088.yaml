@@ -16,22 +16,24 @@ id: ebe1941d-5b7e-513e-91b5-f2a8d482ac86
 ---
 data:
   definition:
-  - content: general principle that, in the absence of losses, the elementary {{17-21-038,
-      radiant flux}} or {{17-21-039, luminous flux}}, d<i>Φ</i>, between two elementary
-      areas d<i>A</i> and d<i>A</i>′ defining an elementary beam is proportional to
-      the elementary projected areas d<i>A</i>cos<i>θ</i> and d<i>A</i>′cos<i>θ </i>′
-      in the direction of the beam and inversely proportional to the squared distance,
-      <i>l</i>, between the areas.
+  - content: general principle that, in the absence of losses, the elementary radiant
+      flux or luminous flux, dstem:[Phi], between two elementary areas dstem:[A] and
+      dstem:[A]′ defining an elementary beam is proportional to the elementary projected
+      areas dstem:[A] cos stem:[theta] and dstem:[A]′ cos stem:[theta] ′ in the direction
+      of the beam and inversely proportional to the squared distance, stem:[l], between
+      the areas
     type: intensional
   examples: []
   notes:
   - content: |-
       The basic law of radiometry and photometry is expressed by
 
-      where the proportionality factor for this geometrical condition is equal to the {{17-21-049, radiance}} or {{17-21-050, luminance}}, respectively, within the elementary beam.
+      stem:[d Phi = L * ((d A cos theta * d A^( ' ) cos theta^( ' )))/((l^2))]
+
+      where the proportionality factor for this geometrical condition is equal to the radiance or luminance, respectively, within the elementary beam.
     type: intensional
-  - content: The basic law of radiometry and photometry is based on the {{17-21-047,
-      geometric extent}}.
+  - content: The basic law of radiometry and photometry is based on the geometric
+      extent.
     type: intensional
   - content: This entry was numbered 17-78 in CIE S 017:2011.
     type: intensional
@@ -52,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-088
-id: 6a185637-88d4-5969-9af4-ed00e84c2bef
+id: 8a9adb80-5ed9-5269-8ced-70307539a854

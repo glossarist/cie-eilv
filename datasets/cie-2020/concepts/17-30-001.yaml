@@ -17,11 +17,10 @@ id: 27a8e6be-e1f9-576d-89e3-b85d91092bfe
 data:
   definition:
   - content: apparatus which distributes, filters or transforms the light transmitted
-      from at least one {{17-21-032, source}} of {{17-21-002, optical radiation}}
-      and which includes, except the {{17-21-032, source}}s themselves, all the parts
-      necessary for fixing and protecting the {{17-21-032, source}}s and, where necessary,
-      circuit auxiliaries together with the means for connecting them to the power
-      supply
+      from at least one source of {{17-21-002, optical radiation}} and which includes,
+      except the sources themselves, all the parts necessary for fixing and protecting
+      the {{17-21-032, sources}} and, where necessary, circuit auxiliaries together
+      with the means for connecting them to the power supply
     type: intensional
   examples: []
   notes:
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-001
-id: 385e85cb-5945-573d-93b7-27e528ea7966
+id: 52514bbf-8a1d-5ebe-89b5-a993ec7297f7

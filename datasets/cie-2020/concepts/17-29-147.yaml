@@ -16,14 +16,14 @@ id: 3033c047-ff70-519a-970d-cb27090ccdaf
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-039, luminous flux}} of a lamp at a given time
-      in its operational life and the initial {{17-21-039, luminous flux}}
+  - content: quotient of the luminous flux of a lamp at a given time in its operational
+      life and the initial luminous flux
     type: intensional
   examples: []
   notes:
   - content: The lamp luminous flux maintenance factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-07-65 in IEC 60050-845:1987.
+  - content: This note applies to the French language only.
     type: intensional
   - content: This entry was numbered 17-636, 17-635, and 17-686 in CIE S 017:2011.
     type: intensional
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-147
-id: c05992dd-6e51-5b9f-b7da-c582bc9793fb
+id: 3eba6d22-4808-5089-8f86-10ed0f8ed330

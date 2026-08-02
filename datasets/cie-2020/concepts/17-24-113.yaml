@@ -22,14 +22,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A distinction is made between {{17-24-116, selective filter}}s and {{17-24-115,
-      non-selective filter}}s or neutral filters according to whether they do or do
-      not alter the {{17-21-030, relative spectral distribution}} of the radiation.
-      A {{17-24-116, selective filter}} that makes a significant change in the {{17-23-052,
-      chromaticity}} of the radiation is called a {{17-24-114, colour filter}}; one
-      that alters the {{17-21-029, spectral distribution}} but, because of {{17-23-006,
-      metamerism}}, transmits radiation of nearly the same {{17-23-052, chromaticity}}
-      as that of the incident radiation, can be called a "grey filter".
+  - content: A distinction is made between selective filters and non-selective filters
+      or neutral filters according to whether they do or do not alter the relative
+      spectral distribution, of the radiation. A selective filter that makes a significant
+      change in the chromaticity of the radiation is called a colour filter; one that
+      alters the {{17-21-029, spectral distribution}} but, because of metamerism,
+      transmits radiation of nearly the same chromaticity as that of the incident
+      radiation, can be called a grey filter.
     type: intensional
   - content: This entry was numbered 845-04-105 in IEC 60050-845:1987.
     type: intensional
@@ -60,4 +59,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-113
-id: ec73f512-c8a5-5ac2-8601-0fd371ef053e
+id: ab8c1ec4-790c-56b6-95a9-b481dec9d52f

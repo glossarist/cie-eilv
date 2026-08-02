@@ -16,9 +16,9 @@ id: 6e80696e-7e48-555d-84e3-184820e3f625
 ---
 data:
   definition:
-  - content: "{{17-24-001, emission}} of {{17-21-002, optical radiation}} when a substance
-      is exposed to any type of {{17-21-001, electromagnetic radiation}}, where the
-      emitted radiation generally appears within 10 ns after the {{17-24-020, excitation}}"
+  - content: emission of {{17-21-002, optical radiation}} when a substance is exposed
+      to any type of electromagnetic radiation, where the emitted radiation generally
+      appears within 10 ns after the excitation
     type: intensional
   examples: []
   notes:
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-023
-id: 695699e6-12a2-5eed-83cb-13455ac4e6fa
+id: 5b656180-cdf6-5a81-a3b8-7d20f611838d

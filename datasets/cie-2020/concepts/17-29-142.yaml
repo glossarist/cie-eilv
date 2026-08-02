@@ -17,9 +17,13 @@ id: cdebc1a5-2bc9-518e-a780-e4a52671c63d
 data:
   definition:
   - content: device designed to obstruct, reduce or diffuse solar radiation
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-09-105 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-1169 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-142
-id: d47245f7-a730-5e3d-9581-6a385664f68b
+id: 67f0981c-57cc-5fe4-8ef1-00bbaefb8503

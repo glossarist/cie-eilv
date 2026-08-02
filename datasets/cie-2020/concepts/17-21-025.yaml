@@ -22,23 +22,22 @@ data:
   examples: []
   notes:
   - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided
-      by the {{17-24-109, refractive index}} of the medium. In {{17-25-013, photometry}},
-      unless otherwise stated, values of wavelength are generally those in air. The
-      {{17-24-109, refractive index}} of standard air (for spectroscopy: <i>T</i>
-      = 15° C, <i>p</i> = 101 325 Pa) lies between 1,000 27 and 1,000 29 for {{17-21-003,
-      visible radiation}}.'
+      by the refractive index of the medium. In photometry, unless otherwise stated,
+      values of wavelength are generally those in air. The refractive index of standard
+      air (for spectroscopy: stem:[T] = 15 °C, stem:[p] = 101 325 Pa) lies between
+      1,000 27 and 1,000 29 for {{17-21-003, visible radiation}}.'
     type: intensional
-  - content: In some specific applications, such as {{17-24-023, fluorescence}} measurements,
-      the symbol <i>μ</i> is used for the wavelengths of {{17-24-020, excitation}}
-      radiation.
+  - content: In some specific applications, such as fluorescence measurements, the
+      symbol stem:[mu] is used for the wavelengths of excitation radiation.
     type: intensional
-  - content: "<i>λ</i> = <i>v</i> / ν, where <i>λ</i> is the wavelength in a medium,
-      <i>v</i> is the phase velocity in that medium and ν is the frequency."
+  - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength
+      in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is
+      the <<103-06-02, frequency>>.
     type: intensional
-  - content: The wavelength is expressed in metres (m) or decimal multiples and submultiples
-      of metre.
+  - content: The wavelength is expressed in metres (m) or decimal submultiples of
+      metre.
     type: intensional
-  - content: In {{17-21-002, optical radiation}} the units nanometre (nm) and micrometre
+  - content: In {{17-21-002, optical radiation}}, the units nanometre (nm) and micrometre
       (μm) are generally used.
     type: intensional
   - content: This entry was numbered 845-01-14 in IEC 60050-845:1987.
@@ -70,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-025
-id: 995fb2d4-b0d7-532a-b441-b77ef1b8318b
+id: cfde49ed-356a-56aa-9a40-146a350103ad

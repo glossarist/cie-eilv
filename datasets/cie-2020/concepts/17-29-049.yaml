@@ -16,9 +16,8 @@ id: 141140f4-4d03-5f96-a86c-2adf97e94090
 ---
 data:
   definition:
-  - content: quotient of the {{17-29-044, cumulative flux}} for the {{17-21-109, solid
-      angle}} under consideration and the {{17-29-047, downward flux}} of the {{17-27-001,
-      light source}}
+  - content: quotient of the cumulative flux for the solid angle under consideration
+      and the downward flux of the light source
     type: intensional
   examples: []
   notes:
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-049
-id: fe8967b6-af33-5da6-bd28-01185e7658a8
+id: 97e83a89-ad3e-5fc4-a37b-07e0e6709050

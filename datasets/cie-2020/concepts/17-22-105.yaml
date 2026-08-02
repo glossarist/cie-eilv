@@ -16,12 +16,12 @@ id: 15463c96-b901-5c93-96e5-c6f054b8cb88
 ---
 data:
   definition:
-  - content: "{{17-21-050, luminance}} that superimposes on the retinal image and
-      reduces the {{17-22-089, contrast}} by stray light in the eye"
+  - content: luminance that superimposes on the retinal image and reduces the contrast
+      by stray light in the eye
     type: intensional
   examples: []
   notes:
-  - content: The veiling luminance is expressed in candela per square metre (cd·m<sup>−2</sup>).
+  - content: The veiling luminance is expressed in candela per square metre (cd·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1395 in CIE S 017:2011.
     type: intensional
@@ -43,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-105
-id: 82bb2f66-044b-5b13-810f-08711467a367
+id: bca2e474-a900-5477-a578-ff3071b0ce06

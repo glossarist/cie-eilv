@@ -24,9 +24,9 @@ data:
   - content: The term "retinal burn" is generally used to describe a thermal retinal
       lesion (see "{{17-26-023, retinal thermal injury}}"); however, it is sometimes
       applied to a photochemical retinal lesion. More specific terms are also used
-      for a photochemical "burn," i.e. a "{{17-26-010, photic maculopathy}}" or "blue
-      light photoretinitis" (from blue-light-induced injuries), or for a {{17-26-023,
-      retinal thermal injury}}, a "chorioretinal thermal injury".
+      for a photochemical "burn", i.e. a "{{17-26-010, photic maculopathy}}" (from
+      blue-light-induced injuries), or for a retinal thermal injury, a "chorioretinal
+      thermal injury".
     type: intensional
   - content: This entry was numbered 17-1098 in CIE S 017:2011.
     type: intensional
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-022
-id: ade931a6-1608-5409-b26e-107202fb1ee8
+id: a2a2d833-42c2-5643-bbcd-938214813ee8

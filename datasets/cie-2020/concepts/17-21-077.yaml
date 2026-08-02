@@ -16,13 +16,15 @@ id: a4e41c4f-0229-58ab-8a56-0c1176d4bb7c
 ---
 data:
   definition:
-  - content: time integral of the {{17-21-055, cylindrical irradiance}}, <i>E</i><sub>e,c</sub>,
-      at a given point for a given direction, over a given duration, Δ<i>t</i>
+  - content: |-
+      time integral of the cylindrical irradiance, stem:[E_(e,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+
+      stem:[H_((e,c)) = underset((Delta t))( int ) E_(e,c) d t]
     type: intensional
   examples: []
   notes:
   - content: The radiant cylindrical exposure is expressed in joule per square metre
-      (J·m<sup>−2</sup> = W·s·m<sup>−2</sup>).
+      (J·m^−2^ = W·s·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-46 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-077
-id: 9d17ec68-8759-50ef-83aa-068d642ef2c3
+id: 5a5b8984-1b8c-591a-9987-eb43770e500e

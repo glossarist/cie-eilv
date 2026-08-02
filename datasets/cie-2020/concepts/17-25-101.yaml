@@ -17,8 +17,8 @@ id: d913a451-9fbd-5cf3-a642-973e87e598d2
 data:
   definition:
   - content: optical device which isolates a single narrow spectral band of {{17-21-002,
-      optical radiation}} from a broader spectral {{17-25-057, input}}, and for which
-      the centre {{17-21-025, wavelength}} of the transmitted radiation can be altered
+      optical radiation}} from a broader spectral input, and for which the centre
+      wavelength of the transmitted radiation can be altered
     type: intensional
   examples: []
   notes:
@@ -41,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-101
-id: ba5ed319-8522-51c3-9594-729eb4b1dbd2
+id: 55c145d9-5f0d-5375-a89f-8be0f7518fa6

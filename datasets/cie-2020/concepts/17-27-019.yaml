@@ -21,9 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The glow discharge is characterized by a considerable {{17-27-020, cathode
-      fall}} (typically 70 V or more) and by low current density at the cathode (some
-      10 A⋅m<sup>−2</sup>).
+  - content: The glow discharge is characterized by a considerable cathode fall (typically
+      70 V or more) and by low current density at the cathode (some 10 A·m^−2^).
     type: intensional
   - content: This entry was numbered 845-07-12 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-019
-id: 7e532223-7140-5097-a27c-0026cd8a3f8c
+id: '058b7d44-4035-55e0-a142-dbc30400c0b1'

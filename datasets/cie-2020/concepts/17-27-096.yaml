@@ -16,10 +16,9 @@ id: a7a4c0b8-fd36-58b6-b538-8db958968231
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} selected for testing ballasts which, when
-      associated with a {{17-28-046, reference ballast}}, has electrical characteristics
-      which are close to the {{17-27-100, rated value}}s as stated in the relevant
-      lamp standard"
+  - content: electric lamp selected for testing ballasts which, when associated with
+      a reference ballast, has electrical characteristics which are close to the rated
+      values as stated in the relevant lamp standard
     type: intensional
   examples: []
   notes:
@@ -50,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-096
-id: 3846ab04-df16-5ed2-a09a-36c33318bf5d
+id: fc69f800-4375-5a05-8c71-6b27439518b9

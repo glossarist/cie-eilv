@@ -16,14 +16,14 @@ id: 7ed3b6eb-5fd4-54f5-9f05-ac58a052e7fc
 ---
 data:
   definition:
-  - content: "{{17-26-003, actinic}} effect that occurs at the place where the {{17-21-041,
-      radiant energy}} responsible for the effect is absorbed"
+  - content: actinic effect that occurs at the place where the radiant energy responsible
+      for the effect is absorbed
     type: intensional
   examples: []
   notes:
-  - content: Conversion of 7-dehydrocholesterol to previtamin D3.
-    type: intensional
   - content: This entry was numbered 845-06-04 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-06-04, 845-06-04>> in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-084
-id: 6c554fd5-41a5-50fb-aacf-d426ebddcafa
+id: 84156379-0d9c-5e6b-ac82-d845db3f88d8

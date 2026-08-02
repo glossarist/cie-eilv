@@ -16,11 +16,11 @@ id: ce829049-0e05-5c63-ba96-98e493c704b9
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} on a vertical plane"
+  - content: illuminance on a vertical plane
     type: intensional
   examples: []
   notes:
-  - content: The vertical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The vertical illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1397 in CIE S 017:2011.
     type: intensional
@@ -44,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-062
-id: 67c749c1-47b4-5909-a813-81a449f8bd22
+id: a01fb4d4-5d1b-5b91-96c1-eb515b10c878

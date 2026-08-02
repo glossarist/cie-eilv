@@ -16,20 +16,20 @@ id: 980592ca-081b-5695-a42b-a21b1b68346b
 ---
 data:
   definition:
-  - content: artificial {{17-21-032, source}} specified by the CIE whose radiation
-      approximates a {{17-23-021, CIE standard illuminant}}
+  - content: artificial source specified by the CIE whose radiation approximates a
+      {{17-23-021, CIE standard illuminant}}
     type: intensional
   examples: []
   notes:
-  - content: Artificial sources representing {{17-23-019, CIE illuminant}}s are referred
-      to as "CIE sources".
+  - content: Artificial sources representing CIE illuminants are referred to as "CIE
+      sources".
     type: intensional
-  - content: See also "{{17-23-021, CIE standard illuminant}}".
+  - content: See also "CIE standard illuminant".
     type: intensional
-  - content: See also CIE 15 <i>Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO 11664-2/CIE S 014-2<i> Colorimetry – Part 2: CIE Standard
-      llluminants for Colorimetry</i>.'
+  - content: 'See also ISO 11664-2/CIE S 014-2, _Colorimetry – Part 2: CIE Standard
+      llluminants for Colorimetry_.'
     type: intensional
   - content: This entry was numbered 845-03-13 in IEC 60050-845:1987.
     type: intensional
@@ -57,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-022
-id: 834994d4-f62b-539c-b332-62c655048b34
+id: 914f2f0d-efde-5e37-a8fd-d64e3570ddb8

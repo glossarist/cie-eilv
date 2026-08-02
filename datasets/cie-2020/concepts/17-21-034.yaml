@@ -16,13 +16,13 @@ id: 9c218740-091c-592a-a4da-07042b037966
 ---
 data:
   definition:
-  - content: SI unit of {{17-21-109, solid angle}}
+  - content: SI unit of solid angle
     type: intensional
   examples: []
   notes:
-  - content: 1 sr is equal to the {{17-21-109, solid angle}} that, having its vertex
-      at the centre of a sphere, cuts off an area of the surface of the sphere equal
-      to the square of the radius of the sphere.
+  - content: 1 sr is equal to the solid angle that, having its vertex at the centre
+      of a sphere, cuts off an area of the surface of the sphere equal to the square
+      of the radius of the sphere.
     type: intensional
   - content: This entry was numbered 845-01-20 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-034
-id: 322df05d-c8e7-5258-9c48-bda484a3a7c3
+id: d9f01752-413c-530f-82dc-ea295723edf9

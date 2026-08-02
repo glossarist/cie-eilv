@@ -16,13 +16,12 @@ id: 8dc87307-79fb-5340-a7aa-7440760d8cda
 ---
 data:
   definition:
-  - content: device calibrated by reference to a {{17-25-002, secondary photometric
-      standard}} and typically used, on a day-to-day basis, for photometric measurements
+  - content: device calibrated by reference to a secondary photometric standard and
+      typically used, on a day-to-day basis, for photometric measurements
     type: intensional
   examples: []
   notes:
-  - content: Working photometric standards are typically photometers or {{17-27-001,
-      light source}}s.
+  - content: Working photometric standards are typically photometers or light sources.
     type: intensional
   - content: This entry was numbered 845-05-03 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-003
-id: 4be76608-dc4b-58ca-9752-3d181fb986d6
+id: 34a1d9c6-f168-530e-a7f3-57b7a170db92

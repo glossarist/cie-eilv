@@ -22,11 +22,11 @@ data:
   examples: []
   notes:
   - content: As the sum of the three chromaticity coordinates is equal to 1, two of
-      them are sufficient to define a {{17-23-052, chromaticity}}.
+      them are sufficient to define a chromaticity.
     type: intensional
   - content: In the CIE standard colorimetric systems, the chromaticity coordinates
-      are represented by the symbols <i>x</i>, <i>y</i>, <i>z</i> or <i>x</i><sub>10</sub>,
-      <i>y</i><sub>10</sub>, <i>z</i><sub>10</sub>.
+      are represented by the symbols stem:[x], stem:[y], stem:[z] or stem:[x_(10)],
+      stem:[y_(10)], stem:[z_(10)].
     type: intensional
   - content: The chromaticity coordinates have unit one.
     type: intensional
@@ -65,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-053
-id: cb53c01d-4ec8-5fb5-a6d9-9b6454ffbcbc
+id: 4b33c372-355c-50d9-a11f-dc4d4ce75689

@@ -17,12 +17,13 @@ id: 3230b83f-b3bc-555b-8806-9d6bb90804a7
 data:
   definition:
   - content: ideal observer whose colour-matching properties correspond to the {{17-23-047,
-      CIE colour-matching functions}} adopted by the CIE in 1964
+      CIE colour-matching functions}} stem:[bar x_((10)) ( lambda ) , bar y_((10))
+      ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
-  - content: 'See also ISO/CIE 11664-1<i> Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers</i>.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers_.'
     type: intensional
   - content: This entry was numbered 17-151 in CIE S 017:2011.
     type: intensional
@@ -43,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-050
-id: 7831b8cc-6957-5b42-bd62-a87b47faf28e
+id: f8908a59-b790-5535-9485-57d0fe6ba70c

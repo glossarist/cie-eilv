@@ -16,9 +16,8 @@ id: 99af64d9-b84c-5046-828b-89b33de544f2
 ---
 data:
   definition:
-  - content: model describing {{17-23-026, colour appearance}}, built from descriptors
-      of {{17-23-002, colour stimulus}} combined with the illuminating and viewing
-      environment
+  - content: model describing colour appearance, built from descriptors of colour
+      stimuli combined with the illuminating and viewing environment
     type: intensional
   examples: []
   notes:
@@ -41,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-027
-id: 6e42e988-9e8c-5ea4-8073-d3d23a194c7b
+id: 283de3e7-98c1-51f4-bdc3-37957a24fcb3

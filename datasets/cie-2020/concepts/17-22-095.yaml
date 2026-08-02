@@ -16,9 +16,8 @@ id: 39d16891-8425-55f8-bc05-5870a751ea8a
 ---
 data:
   definition:
-  - content: change in {{17-22-067, hue}} produced by changing the {{17-22-092, flicker}}
-      frequency of a {{17-23-002, colour stimulus}} while keeping its {{17-23-052,
-      chromaticity}} and {{17-21-050, luminance}} constant
+  - content: change in hue produced by changing the flicker frequency of a colour
+      stimulus while keeping its chromaticity and luminance constant
     type: intensional
   examples: []
   notes: []
@@ -34,4 +33,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-095
-id: b425898a-6369-5557-a6cf-56e40c53a8ac
+id: 95c2df0a-a105-58db-99d9-b25b078f8d77

@@ -16,9 +16,9 @@ id: 8941f53a-5432-5db0-9e5e-a20ce9685879
 ---
 data:
   definition:
-  - content: line in a {{17-23-054, chromaticity diagram}}, or the plane surface in
-      a tristimulus space, that represents {{17-23-030, additive mixture}}s of monochromatic
-      stimuli of {{17-21-025, wavelength}}s approximately 380 nm and 780 nm
+  - content: line in a chromaticity diagram, or the plane surface in a tristimulus
+      space, that represents additive mixtures of monochromatic stimuli of wavelengths
+      approximately 380 nm and 780 nm
     type: intensional
   examples: []
   notes:
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-058
-id: f47e56e3-20d2-511c-aa23-60f01ea23121
+id: b4a24e03-fd3a-5f4e-8170-696627485cc0

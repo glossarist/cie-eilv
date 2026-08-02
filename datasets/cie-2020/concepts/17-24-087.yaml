@@ -16,9 +16,10 @@ id: 0ebd46f6-b0c6-54ab-8db7-5a204b09ce92
 ---
 data:
   definition:
-  - content: integral of the {{17-24-083, spectral linear attenuation coefficient}},
-      <i>μ</i>(<i>x</i>, <i>λ</i>), of the medium between the points <i>x</i><sub>1</sub>
-      and <i>x</i><sub>2</sub>, as given by the equation
+  - content: |-
+      integral of the {{17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
+
+      stem:[delta ( lambda ) = int_((x_1))^((x_2)) mu ( x , lambda ) d x]
     type: intensional
   examples: []
   notes:
@@ -57,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-087
-id: 20f6eb19-633e-576e-9241-d017a32e9460
+id: 0703db4a-8c19-5bb7-97d4-4ff581cc26ff

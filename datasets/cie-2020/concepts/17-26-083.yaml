@@ -21,11 +21,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Control of plant growth by time-programmed {{17-29-001, lighting}}; {{17-29-001,
-      lighting}} of poultry to increase egg production; therapeutic treatment by means
-      of special lamps.
-    type: intensional
   - content: This entry was numbered 845-06-07 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-06-07, 845-06-07>> in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -44,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-083
-id: db3a71ae-a153-507b-8dbf-8bdcf10ae610
+id: 7518a0db-0f41-577a-abb8-699f9a083d9b

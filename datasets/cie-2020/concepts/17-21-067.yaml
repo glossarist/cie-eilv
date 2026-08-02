@@ -16,16 +16,18 @@ id: 17280bc1-cd99-5746-8ccf-1ee2e3088f22
 ---
 data:
   definition:
-  - content: time integral of {{17-21-049, radiance}}, <i>L</i><sub>e</sub>, over
-      a given duration, Δ<i>t</i>
+  - content: |-
+      time integral of radiance, stem:[L_e], over a given duration, stem:[Delta t]
+
+      stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]
     type: intensional
   examples: []
   notes:
-  - content: The corresponding photometric quantity is "{{17-21-068, luminance dose}}".
-      The corresponding quantity for photons is "{{17-21-070, photon radiance dose}}".
+  - content: The corresponding photometric quantity is "luminance dose". The corresponding
+      quantity for photons is "photon radiance dose".
     type: intensional
   - content: The radiance dose is expressed in joule per square metre per steradian
-      (J·m<sup>−2</sup>·sr<sup>−1</sup>).
+      (J·m^−2^·sr^−1^).
     type: intensional
   - content: This entry was numbered 17-1014 and 17-1319 in CIE S 017:2011.
     type: intensional
@@ -49,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-067
-id: 3048d545-17ab-5fa4-b447-48daba72577a
+id: 55991c24-46ec-59a1-9a02-040d73afba34

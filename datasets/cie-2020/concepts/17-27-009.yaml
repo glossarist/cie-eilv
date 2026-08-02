@@ -16,10 +16,10 @@ id: f26469ed-da2c-52f6-8912-d0ff7c27d51e
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} that cannot be dismantled without being
-      permanently damaged, incorporating {{17-28-048, control gear}}, and all additional
-      elements necessary for starting and stable operation of the {{17-27-001, light
-      source}}, designed for direct connection to the {{17-27-118, supply voltage}}"
+  - content: electric lamp that cannot be dismantled without being permanently damaged,
+      incorporating control gear, and all additional elements necessary for starting
+      and stable operation of the light source, designed for direct connection to
+      the supply voltage
     type: intensional
   examples: []
   notes: []
@@ -35,4 +35,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-009
-id: e0ead2be-cc98-54b9-836d-fffe8147079a
+id: 0ba83858-5aa4-5c26-971b-576600cf2fe7

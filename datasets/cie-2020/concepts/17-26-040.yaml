@@ -20,12 +20,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The {{17-26-041, circadian rhythm}} has a period of approximately 24
-      h.
-    type: intensional
   - content: Biological rhythms can be influenced by {{17-21-002, optical radiation}}.
     type: intensional
   - content: This entry was numbered 845-06-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-06-26, 845-06-26>> in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-89 in CIE S 017:2011.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-040
-id: e2adadfe-b412-507d-9e29-15c0d454cb16
+id: bfe0a7e2-b506-5ab5-a51e-4336b7e465fd

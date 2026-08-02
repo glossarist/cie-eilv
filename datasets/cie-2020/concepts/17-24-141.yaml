@@ -21,11 +21,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Transparency is distinct from {{17-24-131, clarity}} in that transparency
-      is related to the amount of light transmitted through a medium whereas {{17-24-131,
-      clarity}} relates to the ability to resolve an object that is seen through the
-      medium. Tinted glass is an example of a material that has low transparency but
-      high {{17-24-131, clarity}}.
+  - content: Transparency is distinct from clarity in that transparency is related
+      to the amount of light transmitted through a medium whereas clarity relates
+      to the ability to resolve an object that is seen through the medium. Tinted
+      glass is an example of a material that has low transparency but high clarity.
     type: intensional
   sources:
   - origin:
@@ -40,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-141
-id: 93efca3a-c37c-5ce7-bbcc-a3ae4d1702ab
+id: e4791b01-6a6b-5562-bd35-a1b12c4f27ea

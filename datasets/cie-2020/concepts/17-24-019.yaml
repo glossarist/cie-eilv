@@ -17,9 +17,13 @@ id: a79de088-28d7-5d58-9224-c230e49ed2e1
 data:
   definition:
   - content: discrete quantum state of energy of an atom, a molecule or an ion
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-04-16 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-385 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-019
-id: 2b1d7b20-a63c-541e-828d-f3f6cf11663a
+id: 918a8ae9-dae9-5414-9d35-3a7a07c9f42f

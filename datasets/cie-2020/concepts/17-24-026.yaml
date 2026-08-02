@@ -16,14 +16,14 @@ id: e0991166-461b-514c-8f13-d10d11b8fe8a
 ---
 data:
   definition:
-  - content: delayed {{17-24-001, emission}} of {{17-21-002, optical radiation}} which
-      appears 10 ns or longer after the {{17-24-020, excitation}}
+  - content: delayed emission of {{17-21-002, optical radiation}} which appears 10
+      ns or longer after the excitation
     type: intensional
   examples: []
   notes:
   - content: Technically, the term "phosphorescence" should be used only for the delayed
-      {{17-24-001, emission}} due to a "forbidden transition" from an excited triplet
-      state to a ground singlet state.
+      emission due to a "forbidden transition" from an excited triplet state to a
+      ground singlet state.
     type: intensional
   - content: This entry was numbered 845-04-23 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-026
-id: 446b6d0a-a7c8-55f4-9de4-d0b35532bc3d
+id: 1709b3e9-7157-58bd-87cd-46bed0f6f362

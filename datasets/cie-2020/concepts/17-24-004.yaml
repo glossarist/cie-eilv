@@ -17,14 +17,13 @@ id: 1f8f91d1-75a0-5cdc-a79c-68ba2279e984
 data:
   definition:
   - content: ideal {{17-24-003, thermal radiator}} that absorbs completely all incident
-      radiation, whatever the {{17-21-025, wavelength}}, the direction of incidence
-      or the polarization
+      radiation, whatever the wavelength, the direction of incidence or the polarization
     type: intensional
   examples: []
   notes:
-  - content: A Planckian radiator has, for any {{17-21-025, wavelength}} and any direction,
-      the maximum {{17-21-029, spectral distribution}} of {{17-21-049, radiance}}
-      for a {{17-24-003, thermal radiator}} in thermal equilibrium at a given temperature.
+  - content: A Planckian radiator has, for any wavelength and any direction, the maximum
+      {{17-21-029, spectral distribution}} of radiance for a thermal radiator in thermal
+      equilibrium at a given temperature.
     type: intensional
   - content: This entry was numbered 845-04-04 in IEC 60050-845:1987.
     type: intensional
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-004
-id: a466dca5-a75a-5627-aa95-4bd879e8c604
+id: e269a1c8-e336-5071-aa94-e7235fce4e87

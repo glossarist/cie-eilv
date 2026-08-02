@@ -16,18 +16,17 @@ id: 3702741b-4c22-55b4-a847-93fb15ac8996
 ---
 data:
   definition:
-  - content: effective {{17-21-071, radiant exposure}} with the spectral radiant exposure,
-      <i>H<sub>λ</sub></i>, spectrally weighted with the {{17-26-054, ultraviolet
-      hazard spectral weighting function}}, <i>S</i><sub>UV</sub>(<i>λ</i>)
+  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda],
+      spectrally weighted with the ultraviolet hazard spectral weighting function,
+      stem:[S_(UV)](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The {{17-21-025, wavelength}} range for ultraviolet hazard radiant exposure
-      is specified in ICNIRP-recommendations as <i>λ</i> = 180 nm to <i>λ</i> = 400
-      nm.
+  - content: The wavelength range for ultraviolet hazard radiant exposure is specified
+      in ICNIRP-recommendations as stem:[lambda_1] = 180 nm to stem:[lambda_2] = 400 nm.
     type: intensional
   - content: The ultraviolet hazard radiant exposure is expressed in joule per square
-      metre (J·m<sup>−2</sup>).
+      metre (J·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1362 in CIE S 017:2011.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-053
-id: e518b2b4-ff96-5942-b97d-8ec2f990c2c2
+id: a9e408f1-34a0-5d65-8d9d-9a51a2186ec9

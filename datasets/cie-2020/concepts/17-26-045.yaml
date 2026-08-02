@@ -16,9 +16,8 @@ id: 2a6ded83-4e2e-5256-a59a-80d6ebd48d34
 ---
 data:
   definition:
-  - content: law stating that {{17-26-034, effective dose}}s can be added to a total
-      {{17-26-034, effective dose}}, even if the {{17-26-064, dose response curve}}s
-      for different wavebands are different
+  - content: law stating that effective doses can be added to a total effective dose,
+      even if the dose response curves for different wavebands are different
     type: intensional
   examples: []
   notes:
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-045
-id: fa4f1978-a109-53a7-8ab4-2cd16af27362
+id: 13beb30c-617c-5168-9580-69844ec042f4

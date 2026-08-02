@@ -16,15 +16,14 @@ id: 1e291e74-30e3-53ff-81e9-341de241bf15
 ---
 data:
   definition:
-  - content: lowest {{17-21-050, luminance}} of a stimulus which enables it to be
-      perceived
+  - content: lowest luminance of a stimulus which enables it to be perceived
     type: intensional
   examples: []
   notes:
   - content: The value of the luminance threshold depends on field size, surround,
-      {{17-22-015, state of adaptation}}, methodology, and other viewing conditions.
+      state of adaptation, methodology, and other viewing conditions.
     type: intensional
-  - content: The luminance threshold is expressed in candela per square metre (cd·m<sup>−2</sup>).
+  - content: The luminance threshold is expressed in candela per square metre (cd·m^−2^).
     type: intensional
   - content: This entry was numbered 845-02-45 in IEC 60050-845:1987.
     type: intensional
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-087
-id: 63cdf89c-b328-5663-a76b-1052523b2759
+id: 4d025877-c426-5074-ae38-4fc81315d454

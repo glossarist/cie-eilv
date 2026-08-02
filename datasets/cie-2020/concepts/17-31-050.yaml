@@ -16,17 +16,17 @@ id: a5596f2e-8213-5b9a-a163-8924610ac205
 ---
 data:
   definition:
-  - content: "{{17-31-045, aeronautical ground light}} positioned on, or very close
-      to, a runway of an aerodrome to indicate the part of the runway intended for
-      the landing or take-off of aircraft"
+  - content: aeronautical ground light positioned on, or very close to, a runway of
+      an aerodrome to indicate the part of the runway intended for the landing or
+      take-off of aircraft
     type: intensional
   examples: []
   notes:
   - content: Runway centreline lights and runway edge lights indicate the centreline
-      and the edges of a runway respectively. Runway threshold lights and runway end
-      lights indicate the beginning and the end of the part of the runway intended
-      for the landing of aircraft respectively. Runway touchdown zone lights are {{17-31-049,
-      barrette}}s arranged in pairs symmetrically about the centreline of a runway,
+      and the edges of a runway, respectively. Runway threshold lights and runway
+      end lights indicate the beginning and the end of the part of the runway intended
+      for the landing of aircraft, respectively. Runway touchdown zone lights are
+      barrettes arranged in pairs symmetrically about the centreline of a runway,
       and between the two lines of runway edge lights, to indicate the portion of
       the runway where aircraft should first make contact on landing.
     type: intensional
@@ -56,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-050
-id: ed047593-3396-5d0d-aed4-9c33a9587ee3
+id: a1b5cc32-dc1d-5508-8a42-164f24ba9084

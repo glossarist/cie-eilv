@@ -16,9 +16,8 @@ id: 9375cc61-29e6-5df1-8127-c3e9de54a0f9
 ---
 data:
   definition:
-  - content: quotient of the {{17-22-089, contrast}} of a task under the {{17-27-010,
-      lighting system}} considered and the {{17-22-089, contrast}} of the same task
-      under reference {{17-29-001, lighting}}
+  - content: quotient of the contrast of a task under the lighting system considered
+      and the contrast of the same task under {{17-29-080, reference lighting}}
     type: intensional
   examples: []
   notes:
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-081
-id: 2745eff9-1d0c-5661-b874-3feb07557c48
+id: 1816dd68-dbd0-5300-9248-35d1c3340cd0

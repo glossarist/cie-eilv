@@ -15,12 +15,16 @@ status: valid
 id: ee9b3e40-6439-527c-83f8-b43805283818
 ---
 data:
-  definition:
+  definition: []
+  examples: []
   notes:
   - content: The term "laser" is an acronym for "light amplification by stimulated
       emission of radiation".
+    type: intensional
   - content: This entry was numbered 845-04-39 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-642 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-136
-id: b1293e5c-d34e-562c-bdf8-3c10269368c9
+id: 9d45a49b-d8a9-5cf7-96eb-29b0f4ac1f60

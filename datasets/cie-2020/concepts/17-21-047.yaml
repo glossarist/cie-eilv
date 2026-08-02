@@ -22,11 +22,15 @@ data:
   examples: []
   notes:
   - content: |-
-      Defining a ray as the confined radiation exchange between two subtended surface area elements d<i>A</i> and d<i>A</i>′ at distance <i>l</i>, with normal vectors and and orientation angles <i>θ</i> and <i>θ </i>′ with respect to a common optical axis, the geometric extent is equal to the action of all possible rays between both surface areas <i>A</i> and <i>A</i>′. This is expressed by the integral over the product of all projected area elements d<i>A </i>cos<i>θ</i> and d<i>A</i>′ cos<i>θ </i>′ weighted by the distance squared to account for the apparent size of the subtending surfaces areas:
+      Defining a ray as the confined radiation exchange between two subtended surface area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal vectors stem:[n_A] and stem:[n^( ' )_A] and orientation angles stem:[theta] and stem:[theta]′ with respect to a common optical axis, the geometric extent is equal to the action of all possible rays between both surface areas stem:[A] and stem:[A]′. This is expressed by the integral over the product of all projected area elements dstem:[A] cos stem:[theta] and dstem:[A]′ cos stem:[theta]′ weighted by the distance squared to account for the apparent size of the subtending surfaces areas:
+
+      stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( ' ))( int ) d A cos theta * d A^( ' ) cos theta^( ' ) = int d G]
 
       with
 
-      where d<i>Ω</i> and d<i>Ω</i> ′ are the {{17-21-109, solid angle}} elements defining the angular extent of d<i>A</i>′ from d<i>A</i> and d<i>A</i> from d<i>A</i>′ respectively.
+      stem:[d G \ = ((d A cos theta * d A^( ' ) cos theta^( ' )))/((l^2)) = d A cos Theta * d omega = d A^( ' ) cos theta^( ' ) * d omega^( ' ) = d G^( ' )]
+
+      where dstem:[Omega] and dstem:[Omega]′ are the solid angle elements defining the angular extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′ respectively.
     type: intensional
   - content: '"Single-pass" means that the term applies only for radiation transfer
       in a single defined direction. It does not apply to devices such as Fabry–Pérot
@@ -34,7 +38,7 @@ data:
     type: intensional
   - content: See also "{{17-21-048, optical extent}}".
     type: intensional
-  - content: The geometric extent is expressed in square metre times steradian (m<sup>2</sup>·sr).
+  - content: The geometric extent is expressed in square metre times steradian (m^2^·sr).
     type: intensional
   - content: This entry was numbered 845-01-33 in IEC 60050-845:1987.
     type: intensional
@@ -65,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-047
-id: 87ed2e3c-88ec-5b98-83cc-dd5160984a5a
+id: 89384f75-f094-5041-8e2e-66524798bfaf

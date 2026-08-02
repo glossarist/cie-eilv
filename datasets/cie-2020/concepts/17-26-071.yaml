@@ -16,8 +16,8 @@ id: 336fac54-15d4-5905-8943-065d01bdafa7
 ---
 data:
   definition:
-  - content: time difference between the end time, <i>t</i><sub>e</sub>, and the start
-      time, <i>t</i><sub>s</sub>, of an {{17-21-002, optical radiation}} exposure
+  - content: time difference between the end time, stem:[t_e], and the start time,
+      stem:[t_s], of an {{17-21-002, optical radiation}} exposure
     type: intensional
   examples: []
   notes:
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-071
-id: c4d767a1-b598-5746-87de-cc83ccd4371b
+id: d1ab0e96-b070-5a4e-842b-12bca6b162c2

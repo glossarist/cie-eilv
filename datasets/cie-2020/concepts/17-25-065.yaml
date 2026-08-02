@@ -16,9 +16,8 @@ id: 32679a4e-28ee-5476-b335-9896c8659484
 ---
 data:
   definition:
-  - content: time required for the change in {{17-25-035, detector}} {{17-25-058,
-      output}} to reach, after a step variation of a steady {{17-25-035, detector}}
-      {{17-25-057, input}}, a specified percentage of its final value
+  - content: time required for the change in detector output to reach, after a step
+      variation of a steady detector input, a specified percentage of its final value
     type: intensional
   examples: []
   notes:
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-065
-id: 825d2035-889c-5722-9986-a125e2aa97dc
+id: 67c74f94-e2c3-5bbf-bb8c-5f0e4f0850c3

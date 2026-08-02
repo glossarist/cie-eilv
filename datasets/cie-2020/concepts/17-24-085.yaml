@@ -16,15 +16,15 @@ id: 6c0df16c-5aa0-5093-9956-4c6be00a5ccd
 ---
 data:
   definition:
-  - content: relative decrease in {{17-21-038, radiant flux}} caused by {{17-24-081,
-      absorption}}, expressed by the relative density of the spectral radiant flux,
-      <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>), with respect to propagation
-      length, <i>l</i>, of a collimated beam at a point in an absorbing medium
+  - content: |-
+      relative decrease in radiant flux caused by absorption, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing medium
+
+      stem:[a ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]
     type: intensional
   examples: []
   notes:
   - content: The spectral linear absorption coefficient is expressed in metre to the
-      power minus one (m<sup>−1</sup>).
+      power minus one (m^−1^).
     type: intensional
   - content: This entry was numbered 845-04-78 in IEC 60050-845:1987.
     type: intensional
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-085
-id: 3c530f8a-11a7-5dee-8eb3-f84ff3b08dd3
+id: 02ca92f7-5ec0-5f4c-bb3e-37c1b8f86c0b

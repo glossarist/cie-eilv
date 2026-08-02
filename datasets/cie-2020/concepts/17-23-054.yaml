@@ -16,13 +16,13 @@ id: 65782db2-9017-5c92-89f3-da0907726fdb
 ---
 data:
   definition:
-  - content: plane diagram in which points specified by {{17-23-053, chromaticity
-      coordinates}} represent the chromaticities of {{17-23-002, colour stimulus}}
+  - content: plane diagram in which points specified by chromaticity coordinates represent
+      the chromaticities of colour stimuli
     type: intensional
   examples: []
   notes:
-  - content: In the CIE standard colorimetric systems, <i>y</i> is normally plotted
-      as ordinate and <i>x</i> as abscissa, to obtain an <i>x</i>, <i>y</i> chromaticity
+  - content: In the CIE standard colorimetric systems, stem:[y] is normally plotted
+      as ordinate and stem:[x] as abscissa, to obtain an stem:[x], stem:[y] chromaticity
       diagram.
     type: intensional
   - content: This entry was numbered 845-03-35 in IEC 60050-845:1987.
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-054
-id: 9e5f8a83-f9fa-571e-a2e8-7f073a083e08
+id: b592a3f5-d03f-5772-9fe2-67ae431b2e2c

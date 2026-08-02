@@ -16,21 +16,19 @@ id: c7201e21-5247-547d-9421-64257fcdb7f5
 ---
 data:
   definition:
-  - content: quotient of the sum of the areas of the {{17-29-068, working plane}}
-      and the plane of the {{17-30-001, luminaire}}s and the sum of the area of the
-      walls bounded by the {{17-29-068, working plane}} and the plane of the {{17-30-001,
-      luminaire}}s, used in the calculation of the {{17-29-069, utilization factor}}
-      or {{17-29-070, utilance}}
+  - content: quotient of the sum of the areas of the working plane and the plane of
+      the luminaires and the sum of the area of the walls bounded by the working plane
+      and the plane of the luminaires, used in the calculation of the utilization
+      factor or utilance
     type: intensional
   examples: []
   notes:
   - content: |-
       The room index is expressed by the formula
 
-      <sub>
+      stem:[K = ((a b))/((h ( a + b )))]
 
-
-      </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i> the {{17-29-186, mounting height}}, that is the distance between the {{17-29-068, working plane}} and the plane of the {{17-30-001, luminaire}}s.
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.
     type: intensional
   - content: See also "{{17-29-073, ceiling cavity index}}" and "{{17-29-075, floor
       cavity index}}".
@@ -66,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-071
-id: 85551bd0-cdb6-5055-a983-db46a00a959f
+id: 8ba1a040-c472-5454-9665-334cee7ba0b2

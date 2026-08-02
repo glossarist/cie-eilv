@@ -16,8 +16,8 @@ id: 7171a103-5fec-5669-a8a9-37d76825844c
 ---
 data:
   definition:
-  - content: spectral region from 380 nm to 1 400 nm within which the normal ocular
-      media transmit {{17-21-002, optical radiation}} to the {{17-22-001, retina}}
+  - content: spectral region from 380 nm to 1 400 nm within which the normal ocular
+      media transmit {{17-21-002, optical radiation}} to the retina
     type: intensional
   examples: []
   notes:
@@ -40,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-048
-id: 56dc1f6c-9329-5415-b50d-cdc0043ea1dd
+id: '0439a63e-d493-5e09-883a-dc5034008f34'

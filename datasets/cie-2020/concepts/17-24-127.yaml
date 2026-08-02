@@ -16,20 +16,22 @@ id: 9ff3fdc7-d0db-5413-9d8a-5ebf883e930b
 ---
 data:
   definition:
-  - content: cloudy {{17-22-019, appearance}} due to {{17-22-089, contrast}} reduction,
-      usually attributable to light {{17-24-049, scattering}}
+  - content: cloudy appearance due to contrast reduction, usually attributable to
+      light scattering
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Correlated measures in {{17-24-047, reflection}} are:
-      a) {{17-24-049, scattering}} of light at the glossy surface of a specimen responsible for the apparent reduction in {{17-22-089, contrast}} of objects viewed by {{17-24-047, reflection}} at the surface;
-      b) percentage of reflected light scattered by a specimen having a glossy surface so that its direction deviates more than a specified angle from the direction of {{17-24-052, regular reflection}}.
+  - content: Correlated measures in reflection are:<ol type="a">. scattering of light
+      at the glossy surface of a specimen responsible for the apparent reduction in
+      contrast of objects viewed by reflection at the surface;. percentage of reflected
+      light scattered by a specimen having a glossy surface so that its direction
+      deviates more than a specified angle from the direction of specular reflection.
     type: intensional
-  - content: |-
-      Correlated measures in {{17-24-048, transmission}} are:
-      a) {{17-24-049, scattering}} of light by a specimen responsible for the apparent reduction in {{17-22-089, contrast}} of objects viewed through it;
-      b) percentage of transmitted light that is scattered so that its direction deviates more than a specified angle from the direction of the incident beam.
+  - content: Correlated measures in transmission are:<ol type="a">. scattering of
+      light by a specimen responsible for the apparent reduction in contrast of objects
+      viewed through it;. percentage of transmitted light that is scattered so that
+      its direction deviates more than a specified angle from the direction of the
+      incident beam.
     type: intensional
   sources:
   - origin:
@@ -43,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-127
-id: a3785d24-9730-5e05-a559-ae55cc312a8c
+id: a34f301b-447b-5e54-8dc9-eb45dd59196b

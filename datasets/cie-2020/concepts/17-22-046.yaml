@@ -16,15 +16,13 @@ id: 744b5a7d-72d0-5ce9-b18c-b50e3b5ce43a
 ---
 data:
   definition:
-  - content: "{{17-22-040, colour}} perceived to belong to an area that appears to
-      be transmitting or diffusely reflecting light as a {{17-27-003, secondary light
-      source}}"
+  - content: colour perceived to belong to an area that appears to be transmitting
+      or diffusely reflecting light as a secondary light source
     type: intensional
   examples: []
   notes:
-  - content: "{{17-27-003, secondary light source}}s seen in their natural surroundings
-      normally exhibit the {{17-22-019, appearance}} of non-luminous colours in this
-      sense."
+  - content: Secondary light sources seen in their natural surroundings normally exhibit
+      the appearance of non-luminous colours in this sense.
     type: intensional
   - content: This entry was numbered 845-02-23 in IEC 60050-845:1987.
     type: intensional
@@ -52,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-046
-id: cd2defdb-0c81-5cb0-813e-b856f420d500
+id: c4f2984c-9491-5f50-a091-b3e3c0ac105b

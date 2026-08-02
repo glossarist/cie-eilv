@@ -16,8 +16,8 @@ id: ae2d221e-6378-5f8b-83a9-c696b22ea661
 ---
 data:
   definition:
-  - content: product of {{17-21-047, geometric extent}} and the squared {{17-24-109,
-      refractive index}} of a medium through which the beam propagates
+  - content: product of geometric extent and the squared refractive index of a medium
+      through which the beam propagates
     type: intensional
   examples: []
   notes:
@@ -26,7 +26,7 @@ data:
     type: intensional
   - content: See also "{{17-21-047, geometric extent}}".
     type: intensional
-  - content: The optical extent is expressed in square metre times steradian (m<sup>2</sup>·sr).
+  - content: The optical extent is expressed in square metre times steradian (m^2^·sr).
     type: intensional
   - content: This entry was numbered 17-845 in CIE S 017:2011.
     type: intensional
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-048
-id: d821962b-ab83-5b5c-9ef9-9f7807739b50
+id: 786b0c56-5a66-5e80-bb93-618917cb414e

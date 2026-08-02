@@ -17,28 +17,29 @@ id: 7e176bf8-e9b1-5901-a154-b8130aa7101b
 data:
   definition:
   - content: energy of electromagnetic waves weighted by the {{17-21-035, spectral
-      luminous efficiency}} multiplied by {{17-21-092, maximum luminous efficacy}}
-      of a specified photometric condition
+      luminous efficiency}} multiplied by maximum luminous efficacy of a specified
+      photometric condition
     type: intensional
   examples: []
   notes:
   - content: |-
-      Luminous energy for {{17-22-016, photopic vision}} is expressed by
-      <sub>
+      Luminous energy for photopic vision is expressed by
 
+      stem:[Q_v = K_m int_0^(oo) Q_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      </sub>where <i>Q</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral radiant energy at {{17-21-025, wavelength}} <i>λ</i>, <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}, and <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}.
+      where stem:[Q_(e,stem:[lambda])](stem:[lambda]) is the spectral radiant energy at wavelength stem:[lambda], stem:[V](stem:[lambda]) is spectral luminous efficiency, and stem:[K_m] is maximum luminous efficacy.
     type: intensional
   - content: The term "quantity of light" is no longer used.
     type: intensional
   - content: Luminous energy can be emitted, transferred or received.
     type: intensional
   - content: |-
-      Luminous energy can be expressed by the time integral of the {{17-21-039, luminous flux}}, <i>Φ</i><sub>v</sub>, over a given duration, Δ<i>t</i>
-      <sub>.</sub>
+      Luminous energy can be expressed by the time integral of the luminous flux, stem:[Phi_v], over a given duration, stem:[Delta t]:
+
+      stem:[Q_v = int_((Delta t)) Phi_v d t]
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-041, radiant energy}}".
-      The corresponding quantity for photons is "{{17-21-042, photon energy}}".
+  - content: The corresponding radiometric quantity is "radiant energy". The corresponding
+      quantity for photons is "photon energy".
     type: intensional
   - content: The luminous energy is expressed in lumen second (lm·s) or lumen hour
       (lm·h).
@@ -72,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-037
-id: 7bd0162a-a9b8-5447-b5a3-bb41554e76d3
+id: 74267d0e-f189-5543-a3c5-69849e1ef0bb

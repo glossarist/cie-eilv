@@ -16,16 +16,15 @@ id: 392f0b61-f33d-51cf-a1dd-f8553c359abc
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} capable of causing a {{17-22-083, visual
-      sensation}} directly"
+  - content: "{{17-21-002, optical radiation}} capable of causing a visual sensation
+      directly"
     type: intensional
   examples: []
   notes:
   - content: There are no precise limits for the spectral range of visible radiation
-      since they depend upon the amount of {{17-21-038, radiant flux}} reaching the
-      {{17-22-001, retina}} and the responsivity of the observer. The lower limit
-      is generally taken between 360 nm and 400 nm and the upper limit between 760
-      nm and 830 nm.
+      since they depend upon the amount of radiant flux reaching the retina and the
+      responsivity of the observer. The lower limit is generally taken between 360 nm
+      and 400 nm and the upper limit between 760 nm and 830 nm.
     type: intensional
   - content: This entry was numbered 845-01-03 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-003
-id: a9d83153-3e63-5985-a911-62da66545ffd
+id: 8e65e04b-8100-5934-94e6-0da52a5310e4

@@ -16,14 +16,13 @@ id: 7d8b2d97-7664-5b6c-8cc1-e8d2b0199197
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-050, luminance}}, <i>L</i><sub>v</sub>, of a
-      road surface and the {{17-21-062, vertical illuminance}}, <i>E</i><sub>v,v</sub>,
-      at a specific location in a tunnel
+  - content: quotient of the luminance, stem:[L_v]stem:[,] of a road surface and the
+      vertical illuminance, stem:[E_(v,v)], at a specific location in a tunnel
     type: intensional
   examples: []
   notes:
   - content: The contrast revealing coefficient is expressed in steradian to the power
-      minus one (sr<sup>−1</sup>).
+      minus one (sr^−1^).
     type: intensional
   - content: This entry was numbered 17-254 in CIE S 017:2011.
     type: intensional
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-098
-id: 7609aaed-a4aa-5dd0-b08a-c0b4fd2bae63
+id: 13ba09a4-e760-5cd5-b537-0937c5110b32

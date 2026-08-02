@@ -16,20 +16,19 @@ id: 985d0b66-e13d-5154-91fe-2c7ebaac31c1
 ---
 data:
   definition:
-  - content: change in {{17-22-067, hue}} produced by changing the {{17-21-050, luminance}}
-      (within the range of {{17-22-016, photopic vision}}) of a {{17-23-002, colour
-      stimulus}} while keeping its {{17-23-052, chromaticity}} constant
+  - content: change in {{17-22-067, hue}} produced by changing the luminance (within
+      the range of photopic vision) of a colour stimulus while keeping its chromaticity
+      constant
     type: intensional
   examples: []
   notes:
-  - content: With certain monochromatic stimuli, {{17-22-067, hue}} remains constant
-      over a wide range of luminances (for a given condition of {{17-22-012, adaptation}}).
-      The {{17-21-025, wavelength}}s of these stimuli are sometimes referred to as
-      "{{17-23-084, invariant wavelength}}s".
+  - content: With certain monochromatic stimuli, hue remains constant over a wide
+      range of luminances (for a given condition of adaptation). The wavelengths of
+      these stimuli are sometimes referred to as "invariant wavelengths".
     type: intensional
-  - content: With increasing intensity, below 510 nm {{17-22-067, hue}}s shift more
-      towards blue, and above 510 nm {{17-22-067, hue}}s shift more towards yellow
-      (reds become yellower with increasing {{17-22-059, brightness}}).
+  - content: With increasing intensity, below 510 nm hues shift more towards blue,
+      and above 510 nm hues shift more towards yellow (reds become yellower with increasing
+      brightness).
     type: intensional
   - content: This entry was numbered 845-02-39 in IEC 60050-845:1987.
     type: intensional
@@ -57,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-071
-id: c56d3e7e-f49f-5f64-88da-6e91ad1d4c81
+id: f37a3aed-ecb8-5925-ada3-d32dcc7fb272

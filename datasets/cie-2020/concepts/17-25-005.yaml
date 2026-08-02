@@ -20,8 +20,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The term "{{17-25-013, photometry}}" is sometimes used in a broader sense
-      covering radiometry, but this use is deprecated.
+  - content: The term "photometry" is sometimes used in a broader sense covering radiometry,
+      but this use is deprecated.
     type: intensional
   - content: This entry was numbered 845-05-05 in IEC 60050-845:1987.
     type: intensional
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-005
-id: e8b8f2cd-c712-567c-a90d-71f5c64c69da
+id: 2087c2e1-c2f5-556b-b01d-91b63ec05dec

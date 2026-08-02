@@ -16,11 +16,19 @@ id: f6dad33f-7145-53e5-8f13-7f4645b7c15b
 ---
 data:
   definition:
-  - content: 'reciprocal of the noise equivalent power, <i>Φ</i><sub>m</sub>:'
+  - content: |-
+      reciprocal of the noise equivalent power, stem:[Phi_m]
+
+      stem:[D = (1)/((Phi_m))]
+    type: intensional
+  examples: []
   notes:
-  - content: The detectivity is expressed in watt to the power minus one (W<sup>−1</sup>).
+  - content: The detectivity is expressed in watt to the power minus one (W^−1^).
+    type: intensional
   - content: This entry was numbered 845-05-65 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-295 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -47,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-072
-id: 67c35887-90fd-5ff2-95c4-6d4d137eb379
+id: b65901a5-953d-59e8-bcc4-9eacb2349c66

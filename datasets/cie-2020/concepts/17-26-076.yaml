@@ -17,21 +17,20 @@ id: e33a026a-70ec-550c-844d-863e1dfc9883
 data:
   definition:
   - content: real or virtual object that forms the smallest possible retinal image
-      (considering the {{17-22-086, accommodation}} range of the human eye) for a
-      given evaluation location of the retinal hazard
+      (considering the accommodation range of the human eye) for a given evaluation
+      location of the retinal hazard
     type: intensional
   examples: []
   notes:
-  - content: The {{17-22-086, accommodation}} range of the eye is assumed to be variable
-      from 100 mm to infinity. The location of the apparent source for a given viewing
-      position in the beam is that location to which the eye accommodates to produce
-      the most hazardous retinal {{17-21-053, irradiance}} condition.
+  - content: The accommodation range of the eye is assumed to be variable from 100 mm
+      to infinity. The location of the apparent source for a given viewing position
+      in the beam is that location to which the eye accommodates to produce the most
+      hazardous retinal irradiance condition.
     type: intensional
   - content: This definition is used to determine, for a given evaluation position,
-      the location of the apparent origin of {{17-27-136, laser}} radiation in the
-      {{17-21-025, wavelength}} range of 380 nm to 1 400 nm. In the limit of vanishing
-      divergence, i.e. in the case of a well-collimated beam, the location of the
-      apparent source goes to infinity.
+      the location of the apparent origin of laser radiation in the wavelength range
+      of 380 nm to 1 400 nm. In the limit of vanishing divergence, i.e. in the case
+      of a well-collimated beam, the location of the apparent source goes to infinity.
     type: intensional
   sources:
   - origin:
@@ -46,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-076
-id: 545718c9-19b5-58ac-a5d2-c618cee19f09
+id: 38dec32b-f9e1-5698-afcc-be676cb467d9

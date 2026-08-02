@@ -16,21 +16,19 @@ id: 734aad9b-fdd3-5b68-860b-3a4bb69a42c7
 ---
 data:
   definition:
-  - content: effective {{17-21-053, irradiance}} with the {{17-21-056, spectral irradiance}},
-      <i>E<sub>λ</sub></i>, spectrally weighted with the {{17-26-065, erythema spectral
-      weighting function}}, <i>s</i><sub>er</sub>(<i>λ</i>), normalized to 1 at its
-      maximum
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally
+      weighted with the erythema spectral weighting function, stem:[s_(er)](stem:[lambda]),
+      normalized to 1 at its maximum
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an {{17-26-027, action
-      spectrum}} is adopted for the {{17-26-003, actinic}} effect considered, and
-      that its maximum value is 1.
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the actinic effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which {{17-26-027, action spectrum}} is used,
-      as the unit is the same for any {{17-26-027, action spectrum}}.
+  - content: It is essential to specify which action spectrum is used, as the unit
+      is the same for any action spectrum.
     type: intensional
-  - content: The erythemal irradiance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+  - content: The erythemal irradiance is expressed in watt per square metre (W·m^−2^).
     type: intensional
   - content: This entry was numbered 17-403 in CIE S 017:2011.
     type: intensional
@@ -54,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-067
-id: f5565124-0367-567d-91f2-3cdbd7fa28a4
+id: a0ab8141-4c74-5ab0-8c30-323096f29fdf

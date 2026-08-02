@@ -16,15 +16,14 @@ id: 407dacf6-5fc9-55f0-9a4d-e751859353c8
 ---
 data:
   definition:
-  - content: assessment of the difference in {{17-22-019, appearance}} of two or more
-      parts of a field seen simultaneously or successively
+  - content: assessment of the difference in appearance of two or more parts of a
+      field seen simultaneously or successively
     type: intensional
   examples: []
   notes:
-  - content: Brightness contrast, lightness contrast, colour contrast, simultaneous
-      contrast, successive contrast
-    type: intensional
   - content: This entry was numbered 845-02-47 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-02-47, 845-02-47>> in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-251 in CIE S 017:2011.
     type: intensional
@@ -54,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-089
-id: 9d7153e9-b895-5dc7-94c7-100ecae6d39f
+id: e5b73272-dbc2-599d-944a-0a068344c430

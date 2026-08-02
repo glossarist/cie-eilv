@@ -16,10 +16,12 @@ id: 89a9175b-f734-5954-b502-489cd00ff57b
 ---
 data:
   definition:
-  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-05-07">IEV
-      113-05-07</a>
+  - content: See <<113-05-07, IEV 113-05-07>>
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-957 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -40,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-108
-id: 916df31f-99be-534c-8c6a-236dad053c90
+id: ba09e845-3c48-54c5-8efb-1df7aa04269a

@@ -17,20 +17,18 @@ id: c84a4df8-2541-5597-b0ab-adc2ca98b7b5
 data:
   definition:
   - content: quotient of five times the sum of the area of the walls bounded by the
-      {{17-29-068, working plane}} and the plane of the {{17-30-001, luminaire}}s
-      and the sum of the areas of the {{17-29-068, working plane}} and the plane of
-      the {{17-30-001, luminaire}}s, used in the calculation of the {{17-29-069, utilization
-      factor}} or {{17-29-070, utilance}}
+      working plane and the plane of the luminaires and the sum of the areas of the
+      working plane and the plane of the luminaires, used in the calculation of the
+      utilization factor or utilance
     type: intensional
   examples: []
   notes:
   - content: |-
       The room cavity ratio is expressed by the formula
 
-      <sub>
+      stem:[K = ((5 h ( a + b )))/((a b))]
 
-
-      </sub>where <i>a</i> and <i>b</i> are the dimensions of the sides of the room and <i>h</i> the {{17-29-186, mounting height}}, that is the distance between the {{17-29-068, working plane}} and the plane of the {{17-30-001, luminaire}}s.
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.
     type: intensional
   - content: See also "{{17-29-074, ceiling cavity ratio}}" and "{{17-29-076, floor
       cavity ratio}}".
@@ -59,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-072
-id: f51bb217-504b-563c-bcc3-033f30f194da
+id: efe806c2-3c24-5710-9fd0-f04816ab0f2f

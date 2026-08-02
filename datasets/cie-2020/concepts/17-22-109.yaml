@@ -16,19 +16,19 @@ id: 7da5bb97-feb5-5e27-954d-81c896e4b820
 ---
 data:
   definition:
-  - content: measure of the degree to which the psychophysical {{17-23-001, colour}}
-      of an object illuminated by the test {{17-23-018, illuminant}} conforms to that
-      of the same object illuminated by the {{17-22-108, reference illuminant}}, suitable
-      allowance having been made for the state of {{17-22-013, chromatic adaptation}}
+  - content: measure of the degree to which the psychophysical colour of an object
+      illuminated by the test illuminant conforms to that of the same object illuminated
+      by the reference illuminant, suitable allowance having been made for the state
+      of chromatic adaptation
     type: intensional
   examples: []
   notes:
-  - content: See also CIE 13 <i>Method of Measuring and Specifying Colour Rendering
-      of Light Sources</i>.
+  - content: See also CIE 13, _Method of Measuring and Specifying Colour Rendering
+      of Light Sources_.
     type: intensional
   - content: This entry was numbered 845-02-61 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-222 and 17-263 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-109
-id: 03eb66aa-02cc-586b-ad1d-dd835e8f061e
+id: 8c5baf65-7fe5-5aca-ac98-e946c67672f4

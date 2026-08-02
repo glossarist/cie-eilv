@@ -16,14 +16,16 @@ id: d6973da4-fe33-5692-879d-61a5802a9e43
 ---
 data:
   definition:
-  - content: quotient of the {{17-25-035, detector}} {{17-25-058, output}}, <i>Y</i>,
-      and the {{17-25-035, detector}} {{17-25-057, input}}, <i>X</i>
+  - content: |-
+      quotient of the detector output, stem:[Y], and the detector input, stem:[X]
+
+      stem:[s = (Y)/(X)]
     type: intensional
   examples: []
   notes:
-  - content: If the {{17-25-035, detector}} signal is <i>Y</i><sub>0</sub> in the
-      absence of {{17-25-057, input}}, and is <i>Y</i><sub>t</sub> when there is an
-      {{17-25-057, input}} <i>X</i>, the responsivity is .
+  - content: If the detector signal is stem:[Y_0] in the absence of input, and is
+      stem:[Y_t] when there is an input stem:[X], the responsivity is stem:[s = ((Y_t
+      - Y_0))/(X)].
     type: intensional
   - content: The term "sensitivity" is no longer used.
     type: intensional
@@ -57,4 +59,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-061
-id: cfabcac5-2f91-5e85-b52b-ac982d2bdb91
+id: abf1d81f-1a76-5588-a75d-4e749f6990ae

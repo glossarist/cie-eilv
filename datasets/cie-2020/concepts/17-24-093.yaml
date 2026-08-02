@@ -16,9 +16,8 @@ id: 495783e2-041d-5055-b6fc-1e48065ebb5d
 ---
 data:
   definition:
-  - content: "{{17-24-064, reflectance}} of a layer of a material that is of sufficient
-      thickness so that there is no change in {{17-24-064, reflectance}} with increase
-      in thickness"
+  - content: reflectance of a layer of a material that is of sufficient thickness
+      so that there is no change in reflectance with increase in thickness
     type: intensional
   examples: []
   notes:
@@ -54,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-093
-id: 665d9708-14a6-5dab-b23b-32cf87d49879
+id: 5c3f14d2-334f-58a1-962d-09f86139c2ba

@@ -16,12 +16,13 @@ id: c8a63b2c-bf20-5d9f-85e2-fd26cdf162ed
 ---
 data:
   definition:
-  - content: "{{17-29-155, average illuminance}} on a specified surface when the {{17-29-034,
-      lighting installation}} is new"
+  - content: average illuminance on a specified surface when the lighting installation
+      is new
     type: intensional
   examples: []
   notes:
-  - content: The initial average illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The initial average illuminance is expressed in lux (lx &amp;equals;
+      lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-582 in CIE S 017:2011.
     type: intensional
@@ -45,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-156
-id: 04b7dbc8-2861-56af-bf46-dcf426bd128b
+id: 12d539e1-1ff4-5527-893f-bfbe1f6f0fcf

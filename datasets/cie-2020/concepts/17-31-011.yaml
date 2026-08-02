@@ -16,9 +16,9 @@ id: 935d6271-cad3-574d-9b0e-3917d5d158ac
 ---
 data:
   definition:
-  - content: '{{17-31-008, rhythmic light}} in which every <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> of darkness (occultation) is of the same duration, and the total
-      duration of light in a period is clearly longer than the total duration of darkness'
+  - content: rhythmic light in which every time interval of darkness (occultation)
+      is of the same duration, and the total duration of light in a period is clearly
+      longer than the total duration of darkness
     type: intensional
   examples: []
   notes:
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-011
-id: 276f5f61-2e95-5537-bc9c-63f91656256a
+id: e734c41f-b055-5b2f-abaa-91a4f4f44340

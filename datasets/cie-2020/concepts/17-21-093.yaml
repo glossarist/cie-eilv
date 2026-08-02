@@ -16,8 +16,7 @@ id: '0495be68-f40c-5da3-83f5-b9e41c2e43e9'
 ---
 data:
   definition:
-  - content: defining constant of {{17-25-013, photometry}} which is equal to 683
-      lm·W<sup>−</sup><sup>1</sup>
+  - content: defining constant of photometry which is equal to 683 lm·W^−1^
     type: intensional
   examples: []
   notes:
@@ -39,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-093
-id: 43b022d8-5f6e-5760-ae92-a5ac513b51cb
+id: 81b9b4cc-c8f4-58e6-a9f4-032979a043ad

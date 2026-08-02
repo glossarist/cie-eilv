@@ -16,16 +16,18 @@ id: eac953c5-a036-5b2b-9274-6a885e8d5898
 ---
 data:
   definition:
-  - content: 'difference between two {{17-23-002, colour stimulus}}, defined as the
-      Euclidean distance between the points representing them in the {{17-23-076,
-      CIE 1976 L*a*b* colour space}} and calculated as:'
+  - content: "difference between two colour stimuli, defined as the Euclidean distance
+      between the points representing them in the {{17-23-076, CIE 1976 L*a*b* colour
+      space}} and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta
+      E_(ab)^* = ( Delta L_()^* )^2 + ( Delta a_()^* )^2 + ( Delta b_()^* )^2^(1 //
+      2)]"
     type: intensional
   examples: []
   notes:
-  - content: See also CIE 15 <i>Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO/CIE 11664-4<i> Colorimetry – Part 4: CIE 1976 L*a*b* Colour
-      Space</i>.'
+  - content: 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour
+      Space_.'
     type: intensional
   - content: This entry was numbered 845-03-57 in IEC 60050-845:1987.
     type: intensional
@@ -56,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-077
-id: 7901224b-2fe9-53ed-bb04-21d8b18339ae
+id: 4035dd0a-39c6-5226-a478-4a6cb403018d

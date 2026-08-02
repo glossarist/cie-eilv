@@ -16,13 +16,15 @@ id: 011d1b66-9445-5ea3-a592-cd5f9fb72a95
 ---
 data:
   definition:
-  - content: time integral of {{17-21-059, photon spherical irradiance}}, <i>E</i><sub>p,o</sub>,
-      at a given point over a given duration, Δ<i>t</i>
+  - content: |-
+      time integral of photon spherical irradiance, stem:[E_(p,o)], at a given point over a given duration, stem:[Delta t]
+
+      stem:[H_((p,o)) = underset((Delta t))( int ) E_(p,o) d t]
     type: intensional
   examples: []
   notes:
   - content: The photon spherical exposure is expressed in metre to the power minus
-      two (m<sup>−2</sup>).
+      two (m^−2^).
     type: intensional
   - content: This entry was numbered 17-933 in CIE S 017:2011.
     type: intensional
@@ -46,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-076
-id: ccfe104f-53a7-59da-8d35-53e1cdae2e95
+id: c2ffe983-916d-5e3c-b7b0-2959f092fc59

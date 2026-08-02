@@ -16,19 +16,22 @@ id: fb028811-42c7-5343-bd75-af5b93b969af
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} designed to withstand severe mechanical handling"
+  - content: luminaire designed to withstand severe mechanical handling
     type: intensional
   examples: []
   notes:
   - content: |-
       The luminaire can:
+
       – be permanently fixed, or
+
       – be temporarily fixed on a construction or stand, or
+
       – incorporate an integral stand or handle.
     type: intensional
   - content: Rough service luminaires are for use where normally rough circumstances
-      occur, or where temporary {{17-29-001, lighting}} is required, for example on
-      building sites, in engineering workshops and for similar applications.
+      occur, or where temporary lighting is required, for example on building sites,
+      in engineering workshops and for similar applications.
     type: intensional
   sources:
   - origin:
@@ -42,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-009
-id: 14ddbf5f-34f3-5579-bf4b-181ae616fca1
+id: 51c75129-aba1-5942-8fe1-a89ea92199a5

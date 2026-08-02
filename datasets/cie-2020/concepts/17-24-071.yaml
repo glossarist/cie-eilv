@@ -17,8 +17,9 @@ id: 0b3809b9-583b-5768-b482-2dfa5920a678
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {{17-24-064, reflectance}}, <i>ρ</i>
-      <i>D<sub>ρ</sub></i> = −log<sub>10</sub> <i>ρ</i>
+      logarithm to base 10 of the reciprocal of the reflectance, stem:[rho]
+
+      stem:[Drho] = −log~10~ stem:[rho]
     type: intensional
   examples: []
   notes:
@@ -53,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-071
-id: 55fdef65-6480-562d-96a2-c0b9f4b7dcda
+id: 4bc27453-200d-57ab-8312-625a74793117

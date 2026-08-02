@@ -16,24 +16,22 @@ id: ef771a74-b7b5-5ad3-b9f3-5c197fbf0fb8
 ---
 data:
   definition:
-  - content: effective {{17-21-049, radiance}} with the {{17-21-052, spectral radiance}},
-      <i>L<sub>λ</sub></i>, spectrally weighted with the {{17-26-049, retinal thermal
-      hazard spectral weighting function}}, <i>r</i>(<i>λ</i>)
+  - content: effective radiance with the spectral radiance, stem:[Llambda], spectrally
+      weighted with the retinal thermal hazard spectral weighting function, stem:[r](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The {{17-21-025, wavelength}} range for retinal thermal radiance is the
-      {{17-26-048, retinal hazard spectral region}}.
+  - content: The wavelength range for "retinal thermal radiance" is the "{{17-26-048,
+      retinal hazard spectral region}}".
     type: intensional
-  - content: This definition is based on the assumption that an {{17-26-027, action
-      spectrum}} is adopted for the effect considered, and that its maximum value
-      is 1.
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which {{17-26-027, action spectrum}} is used,
-      as the unit is the same for any {{17-26-027, action spectrum}}.
+  - content: It is essential to specify which action spectrum is used, as the unit
+      is the same for any action spectrum.
     type: intensional
   - content: The retinal thermal radiance is expressed in watt per square metre per
-      steradian (W⋅m<sup>−2</sup>·sr<sup>−1</sup>).
+      steradian (W·m^−2^·sr^−1^).
     type: intensional
   - content: This entry was numbered 17-1102 in CIE S 017:2011.
     type: intensional
@@ -57,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-050
-id: fb9d3c1b-e26e-505f-8444-ff434c9477c1
+id: e80093f4-5d0e-5d54-95b6-7a95341578e5

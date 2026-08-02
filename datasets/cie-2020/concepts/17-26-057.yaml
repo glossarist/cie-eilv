@@ -16,25 +16,23 @@ id: 82dbcb68-ea8b-52f5-819d-586ab59e7eba
 ---
 data:
   definition:
-  - content: effective photobiological {{17-21-049, radiance}} with the {{17-21-052,
-      spectral radiance}}, <i>L<sub>λ</sub></i>, spectrally weighted with the {{17-26-060,
-      blue light hazard spectral weighting function}}, <i>B</i>(<i>λ</i>)
+  - content: effective photobiological radiance with the spectral radiance, stem:[Llambda],
+      spectrally weighted with the blue light hazard spectral weighting function,
+      stem:[B](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The {{17-21-025, wavelength}} range for the blue light hazard radiance
-      is specified in ICNIRP-recommendations as <i>λ</i> = 300 nm to <i>λ</i> = 700
-      nm.
+  - content: The wavelength range for the blue light hazard radiance is specified
+      in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
     type: intensional
-  - content: This definition is based on the assumption that an {{17-26-027, action
-      spectrum}} is adopted for the {{17-26-003, actinic}} effect considered, and
-      that its maximum value is 1.
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the actinic effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which actinic {{17-26-027, action spectrum}}
-      is used, as the unit is the same for any {{17-26-027, action spectrum}}.
+  - content: It is essential to specify which actinic action spectrum is used, as
+      the unit is the same for any action spectrum.
     type: intensional
   - content: The blue light hazard radiance is expressed in watt per square metre
-      per steradian (W⋅m<sup>−2</sup>⋅sr<sup>−1</sup>).
+      per steradian (W·m^−2^·sr^−1^).
     type: intensional
   - content: This entry was numbered 17-99 in CIE S 017:2011.
     type: intensional
@@ -58,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-057
-id: d5a03d4e-bb09-5fd4-80fd-f46d20d58d80
+id: 22a5d112-8b71-554d-b697-6599c594ed4f

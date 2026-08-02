@@ -16,18 +16,16 @@ id: d0a19c4f-31b3-5955-a215-dc5ea213a8c0
 ---
 data:
   definition:
-  - content: effective {{17-21-053, irradiance}} with the {{17-21-056, spectral irradiance}},
-      <i>E<sub>λ</sub></i>, spectrally weighted with the {{17-26-054, ultraviolet
-      hazard spectral weighting function}}, <i>S</i><sub>UV</sub>(<i>λ</i>)
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally
+      weighted with the ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The {{17-21-025, wavelength}} range for ultraviolet hazard irradiance
-      is specified in ICNIRP-recommendations as <i>λ</i> = 180 nm to <i>λ</i> = 400
-      nm.
+  - content: The wavelength range for ultraviolet hazard irradiance is specified in
+      ICNIRP-recommendations as stem:[lambda] = 180 nm to stem:[lambda] = 400 nm.
     type: intensional
   - content: The ultraviolet hazard irradiance is expressed in watt per square metre
-      (W⋅m<sup>−2</sup>).
+      (W·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1361 in CIE S 017:2011.
     type: intensional
@@ -51,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-052
-id: '085c70ee-86ba-515e-a4aa-713f07c6cbe4'
+id: 20b06ce2-ed6a-539f-b1c8-e709740adfa2

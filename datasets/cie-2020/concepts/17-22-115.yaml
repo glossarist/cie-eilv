@@ -16,9 +16,9 @@ id: 412fad6d-56db-5b2f-beba-3ee6cd3f8255
 ---
 data:
   definition:
-  - content: change in the perceived {{17-22-040, colour}} of an object caused solely
-      by change of {{17-23-018, illuminant}} in the absence of any change in the observer's
-      state of {{17-22-013, chromatic adaptation}}
+  - content: change in the perceived colour of an object caused solely by change of
+      illuminant in the absence of any change in the observer's state of chromatic
+      adaptation
     type: intensional
   examples: []
   notes:
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-115
-id: 37e08607-72b0-551e-bf14-7e054318f552
+id: f0abeab3-b35b-5d8f-b13c-46f4b136e53a

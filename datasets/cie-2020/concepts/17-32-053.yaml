@@ -16,10 +16,9 @@ id: 0e17a368-382e-569b-9e6b-e13f1119e337
 ---
 data:
   definition:
-  - content: "{{17-32-050, image state}} associated with image data that represents
-      the {{17-23-041, colour space}} coordinates of the elements of a {{17-32-045,
-      hardcopy}} or {{17-32-046, softcopy}}, encompassing both original-referred image
-      data and output-referred image data"
+  - content: image state associated with image data that represents the colour space
+      coordinates of the elements of a {{17-32-045, hardcopy}} or {{17-32-046, softcopy}},
+      encompassing both original-referred image data and output-referred image data
     type: intensional
   examples: []
   notes:
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-053
-id: 6de9d5c1-0bf9-5efd-bec1-5307eccbba27
+id: 601d7e13-758c-52e8-9572-f3d65a4c1979

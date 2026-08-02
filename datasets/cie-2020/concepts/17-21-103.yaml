@@ -16,23 +16,25 @@ id: 7fa2dd02-f4dd-5579-a9e2-b9ba9d2867eb
 ---
 data:
   definition:
-  - content: "{{17-24-079, luminance coefficient}} multiplied by the cube of the cosine
-      of the {{17-25-078, angle of incidence}} of the light on a point on a surface"
+  - content: luminance coefficient multiplied by the cube of the cosine of the angle
+      of incidence of the light on a point on a surface
     type: intensional
   examples: []
   notes:
   - content: |-
       The reduced luminance coefficient can be expressed by the equation
-      <i>r</i> = <i>q</i> (cos<i>ε</i>)<sup>3
 
+      stem:[r] = stem:[q](cos stem:[epsilon])^3^
 
-      </sup>where <i>q</i> is the {{17-24-079, luminance coefficient}} in steradian to the power minus one (sr<sup>−1</sup>), and <i>ε</i> is the {{17-25-078, angle of incidence}} in degrees (°).
+      ^
+
+      where^ stem:[q] is the luminance coefficient in steradian to the power minus one (sr^−1^), and stem:[epsilon] is the angle of incidence in degree (°).
     type: intensional
-  - content: The {{17-25-079, angle of observation}}, <i>α</i>, affects the value
-      of <i>r</i>. By convention this angle is fixed at 1° for road lighting calculations.
+  - content: The angle of observation, stem:[alpha], affects the value of stem:[r].
+      By convention this angle is fixed at 1° for road lighting calculations.
     type: intensional
   - content: The reduced luminance coefficient is expressed in steradian to the power
-      minus one (sr<sup>−1</sup>).
+      minus one (sr^−1^).
     type: intensional
   - content: This entry was numbered 17-1046 in CIE S 017:2011.
     type: intensional
@@ -56,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-103
-id: cd8648a3-9209-5816-a3a5-faede0311df0
+id: 92771eaf-a5ea-5dd0-902f-790f00d41a14

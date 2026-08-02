@@ -16,10 +16,9 @@ id: 0b31e857-54d5-50ca-8bcd-b0bb46351ca6
 ---
 data:
   definition:
-  - content: "{{17-31-002, sign}} for the purpose of displaying one of a number of
-      {{17-31-127, legend}}s consisting of alphanumeric characters that can be used
-      in conjunction with {{17-31-132, symbol}}s or that can consist of {{17-31-132,
-      symbol}}s alone"
+  - content: sign for the purpose of displaying one of a number of legends consisting
+      of alphanumeric characters that can be used in conjunction with symbols or that
+      can consist of symbols alone
     type: intensional
   examples: []
   notes:
@@ -42,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-112
-id: f68cabdc-d597-5ba3-b06a-30da3ca90abf
+id: 9520b960-8b4f-5655-b114-0e329bd5478a

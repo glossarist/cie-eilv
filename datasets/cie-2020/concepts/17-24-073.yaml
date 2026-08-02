@@ -17,8 +17,9 @@ id: 90b0ac18-ff5b-53e5-86b6-d450244f4626
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {{17-24-070, reflectance factor}}, <i>R</i>
-      <i>D<sub>R</sub></i> = −log<sub>10</sub> <i>R</i>
+      logarithm to base 10 of the reciprocal of the reflectance factor, stem:[R]
+
+      stem:[DR] = −log~10~stem:[R]
     type: intensional
   examples: []
   notes:
@@ -53,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-073
-id: 49ac3354-bb43-50e3-8101-0df875744ce1
+id: 2d393ebd-a474-5ba1-9c76-cde410c6c933

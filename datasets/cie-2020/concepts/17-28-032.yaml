@@ -16,14 +16,14 @@ id: 69000931-bb57-565b-92d2-c6550984d953
 ---
 data:
   definition:
-  - content: "{{17-28-025, lampholder}} for building-in so designed that some parts
-      of the {{17-28-025, lampholder}} require additional means to fulfil the requirements
-      with regard to double or reinforced insulation"
+  - content: lampholder for building-in so designed that some parts of the lampholder
+      require additional means to fulfil the requirements with regard to double or
+      reinforced insulation
     type: intensional
   examples: []
   notes:
   - content: In some cases, the dimensions might be achieved only after mounting into
-      the {{17-30-001, luminaire}}.
+      the luminaire.
     type: intensional
   sources:
   - origin:
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-032
-id: 065ababb-9579-593f-8c66-000a976523c9
+id: 59fd51ba-a572-5a93-aa90-14ada4249b1e

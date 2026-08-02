@@ -16,12 +16,11 @@ id: 757996e2-6554-59df-98d4-5208fc6918ef
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} produced by {{17-29-105, daylight}} on a
-      horizontal surface on the Earth"
+  - content: illuminance produced by daylight on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes:
-  - content: The global horizontal illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The global horizontal illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-495 in CIE S 017:2011.
     type: intensional
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-132
-id: b8375d5f-d8d9-54cd-a38c-1f1c4e0aca2d
+id: 87a03182-3a33-5a3b-a7d2-8e662914c10c

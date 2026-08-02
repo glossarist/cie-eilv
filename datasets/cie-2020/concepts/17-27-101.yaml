@@ -16,13 +16,12 @@ id: a9d21631-68a5-5c54-a55d-68b75707ef49
 ---
 data:
   definition:
-  - content: total time for which an {{17-27-008, electric lamp}} has been operated
-      before it becomes useless, or is considered to be so according to specified
-      criteria
+  - content: total time for which an electric lamp has been operated before it becomes
+      useless, or is considered to be so according to specified criteria
     type: intensional
   examples: []
   notes:
-  - content: The life of an {{17-27-008, electric lamp}} is usually expressed in hours.
+  - content: The life of an electric lamp is usually expressed in hours.
     type: intensional
   - content: This entry was numbered 845-07-61 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-101
-id: a4222a4d-660b-571d-aab6-3719e85432f8
+id: cafa00b0-d028-5bf8-ad5f-077e6f42027d

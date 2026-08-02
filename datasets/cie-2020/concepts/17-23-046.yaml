@@ -17,19 +17,20 @@ id: a5bb8bea-f3bc-5482-a03a-e048f99a18ff
 data:
   definition:
   - content: system for determining the {{17-23-038, tristimulus values}} of any spectral
-      power distribution using the set of {{17-23-037, reference colour stimuli}}
-      [X<sub>10</sub>], [Y<sub>10</sub>], [Z<sub>10</sub>] and the three {{17-23-047,
-      CIE colour-matching functions}} adopted by the CIE in 1964
+      power distribution using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;,
+      &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching
+      functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10))
+      ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
-  - content: The CIE 1964 standard colorimetric system is applicable to centrally-viewed
-      fields of {{17-25-085, angular subtense}} greater than about 4° (0,07 rad).
+  - content: The CIE 1964 standard colorimetric system is applicable to centrally
+      viewed fields of angular subtense greater than about 4° (0,07 rad).
     type: intensional
   - content: When the CIE 1964 standard colorimetric system is used, all symbols that
       represent colorimetric measures are distinguished by use of the subscript 10.
     type: intensional
-  - content: See also CIE 15<i> Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
   - content: This entry was numbered 845-03-29 in IEC 60050-845:1987.
     type: intensional
@@ -60,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-046
-id: 9a4047bb-995a-54d1-a2c1-0ce5c28d35f5
+id: 50a2165b-4a5e-5cb4-828f-ee9310bc7ea6

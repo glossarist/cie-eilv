@@ -16,26 +16,24 @@ id: 1ef7b267-0725-5096-b06e-a8dc6101d3f7
 ---
 data:
   definition:
-  - content: quotient of the mean of the values of {{17-21-050, luminance}}, <i>L</i>,
-      measured at 20° and 70° (0,35 rad and 1,22 rad) and the {{17-21-050, luminance}}
-      measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated
-      normally
+  - content: |-
+      quotient of the mean of the values of luminance, stem:[L], measured at 20° and 70° (0,35 rad and 1,22 rad) and the luminance measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated normally
+
+      stem:[sigma = ((L ( 20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))]
     type: intensional
   examples: []
   notes:
   - content: The diffusion factor is intended to give an indication of the spatial
-      distribution of the diffused flux. It is equal to 1 for every isotropic {{17-30-039,
-      diffuser}}, whatever the value of the {{17-24-068, diffuse reflectance}} or
-      {{17-24-069, diffuse transmittance}}.
+      distribution of the diffused flux. It is equal to 1 for every isotropic diffuser,
+      whatever the value of the diffuse reflectance or diffuse transmittance.
     type: intensional
   - content: This way of defining the diffusion factor can be applied only to materials
-      for which the {{17-24-098, scattering indicatrix}} does not differ appreciably
-      from that of ordinary opal glasses.
+      for which the scattering indicatrix does not differ appreciably from that of
+      ordinary opal glasses.
     type: intensional
-  - content: For indicating the shape of the {{17-24-098, scattering indicatrix}}
-      it is recommended that the diffusion factor, <i>σ</i>, be used for strongly
-      diffusing materials, and the {{17-24-097, half-value angle}}, <i>γ</i>, for
-      poorly diffusing materials.
+  - content: For indicating the shape of the scattering indicatrix it is recommended
+      that the diffusion factor, stem:[sigma], be used for strongly diffusing materials,
+      and the half-value angle, stem:[gamma], for poorly diffusing materials.
     type: intensional
   - content: The diffusion factor has unit one.
     type: intensional
@@ -69,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-096
-id: 196e2a3d-4e46-5bf1-a6f8-84b6e3f296a7
+id: cc029e07-1cec-58af-9685-a81ed74e200a

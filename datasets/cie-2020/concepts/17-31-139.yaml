@@ -17,10 +17,14 @@ id: 2463d450-a405-5f8b-b9c3-748dce873f25
 data:
   definition:
   - content: direction at right angles to the axis of the road
+    type: intensional
+  examples: []
   notes:
-  - content: On a curved road the transverse direction is that of the radius of curvature
+  - content: On a curved road, the transverse direction is that of the radius of curvature
       at the point of interest on the road.
+    type: intensional
   - content: This entry was numbered 17-1341 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -39,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-139
-id: 66843f14-0881-5313-9221-ae78b79dcb5d
+id: 827605cb-3868-529e-a197-387f3672029d

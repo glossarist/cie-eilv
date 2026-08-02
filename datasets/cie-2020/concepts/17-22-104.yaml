@@ -16,17 +16,16 @@ id: 64347ffd-bd32-52e6-87e0-0b65a3eb15f1
 ---
 data:
   definition:
-  - content: "{{17-21-050, luminance}} that, when added by superposition to the {{17-21-050,
-      luminance}} of both the adapting background and the object, makes the {{17-22-087,
-      luminance threshold}} or the {{17-22-088, luminance difference threshold}} the
-      same under the two following conditions: (1) {{17-22-098, glare}} present, but
-      no additional {{17-21-050, luminance}}; (2) additional {{17-21-050, luminance}}
-      present, but no {{17-22-098, glare}}"
+  - content: 'luminance that, when added by superposition to the luminance of both
+      the adapting background and the object, makes the luminance threshold or the
+      luminance difference threshold the same under the two following conditions:
+      (1) glare present, but no additional luminance; (2) additional luminance present,
+      but no glare'
     type: intensional
   examples: []
   notes:
   - content: The equivalent veiling luminance is expressed in candela per square metre
-      (cd·m<sup>−2</sup>).
+      (cd·m^−2^).
     type: intensional
   - content: This entry was numbered 845-02-58 in IEC 60050-845:1987.
     type: intensional
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-104
-id: 3a984e18-949c-5177-a296-87617bc710f2
+id: e2a8ceb3-66fc-5a3a-8c34-f5a029b6800c

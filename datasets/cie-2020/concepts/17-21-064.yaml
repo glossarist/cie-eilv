@@ -17,14 +17,13 @@ id: d760202f-dd54-5e84-b91a-e6e0261a2e61
 data:
   definition:
   - content: |-
-      arithmetic mean of the {{17-21-062, vertical illuminance}}s, <i>E</i><sub>v,v</sub>, at a point in the range of azimuth angles <sub>
+      arithmetic mean of the vertical illuminances, stem:[E_(v,v)], at a point in the range of azimuth angles stem:[- (pi)/(2) &lt;= phi &lt;= (pi)/(2)]
 
-
-      </sub>
+      stem:[E_((v ,sc)) = (1)/(pi) int_((- (pi)/(2)))^(((pi)/(2))) E_((v ,v)) d phi]
     type: intensional
   examples: []
   notes:
-  - content: The semi-cylindrical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The semi-cylindrical illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1160 in CIE S 017:2011.
     type: intensional
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-064
-id: 6c5193e0-9ce4-5131-92cd-afc6508d3797
+id: e70e9866-dad0-525a-8b61-a689560056ad

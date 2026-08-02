@@ -17,9 +17,13 @@ id: 9e4c8f23-5949-59f9-a750-4357bb650e06
 data:
   definition:
   - content: surface or object emitting light by a transformation of energy
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-07-01 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-982 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-002
-id: b4d9aaba-1553-5384-8877-0c77398e6ba7
+id: bcf7a4e4-8b6d-5d50-a0d9-3bcc6e1963a2

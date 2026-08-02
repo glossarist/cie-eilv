@@ -16,17 +16,16 @@ id: 5213704a-4e00-569c-9725-5b7a4a8ddd9e
 ---
 data:
   definition:
-  - content: "{{17-21-049, radiance}} in a given direction that results from {{17-24-001,
-      emission}} at the surface of a photoluminescent medium under specified conditions
-      of {{17-21-099, irradiation}} compared to the {{17-21-049, radiance}} in the
-      same direction by the {{17-24-060, perfect reflecting diffuser}} identically
-      irradiated"
+  - content: radiance in a given direction that results from emission at the surface
+      of a photoluminescent medium under specified conditions of irradiation compared
+      to the radiance in the same direction by the perfect reflecting diffuser identically
+      irradiated
     type: intensional
   examples: []
   notes:
   - content: The luminescent radiance factor depends upon the spectral power distribution
-      of the {{17-21-099, irradiation}} and this quantity is typically specified for
-      a given {{17-23-019, CIE illuminant}} condition.
+      of the irradiation and this quantity is typically specified for a given CIE
+      illuminant condition.
     type: intensional
   - content: The luminescent radiance factor has unit one.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-100
-id: f68ced89-2b33-5cc3-b2f3-895412ccfcf1
+id: 831c9aae-10e3-503d-994b-42903b791642

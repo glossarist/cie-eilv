@@ -17,8 +17,8 @@ id: 5bda2e04-adb8-5898-bcf4-7ec6b35b210a
 data:
   definition:
   - content: mapping of image data representing measurements of a photographic negative
-      to output-referred image data representing the {{17-23-041, colour space}} coordinates
-      of the elements of a reproduction
+      to output-referred image data representing the colour space coordinates of the
+      elements of a reproduction
     type: intensional
   examples: []
   notes:
@@ -41,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-043
-id: 93a6c17a-0b0c-586f-89aa-0da28d882dc5
+id: 7aa7ffb7-2c26-5e91-a00d-a7dca23aeee8

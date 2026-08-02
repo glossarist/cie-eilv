@@ -16,21 +16,22 @@ id: dc77b0f8-5261-5759-aa90-868d6aac9267
 ---
 data:
   definition:
-  - content: mean value of {{17-21-060, illuminance}} on the outer curved surface
-      of a very small (real or imaginary) cylinder that is oriented vertically at
-      a point in space
+  - content: mean value of illuminance on the outer curved surface of a very small
+      (real or imaginary) cylinder that is oriented vertically at a point in space
     type: intensional
   examples: []
   notes:
   - content: |-
-      Cylindrical illuminance is sometimes also defined as the arithmetic mean of the {{17-21-062, vertical illuminance}}, <i>E</i><sub>v,v</sub>, at a point
+      Cylindrical illuminance is sometimes also defined as the arithmetic mean of the vertical illuminance stem:[E_(v,v)] at a point
 
-      where <i>E</i><sub>v,v</sub> is the {{17-21-062, vertical illuminance}} for an area element with its normal in the direction <i>φ</i>, and <i>φ</i> is the angle in the plane perpendicular to the axis of the cylinder.
+      stem:[E_((v ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((v ,v)) d phi]
+
+      where stem:[E_(v,v)] is the vertical illuminance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-055, cylindrical irradiance}}".
-      The corresponding quantity for photons is "{{17-21-069, photon cylindrical irradiance}}".
+  - content: The corresponding radiometric quantity is "cylindrical irradiance". The
+      corresponding quantity for photons is "photon cylindrical irradiance".
     type: intensional
-  - content: The cylindrical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The cylindrical illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-273 in CIE S 017:2011.
     type: intensional
@@ -54,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-063
-id: fda73e70-9182-5caf-9005-fde96d5f5564
+id: 3353f40a-a4af-5653-87b0-2a770a75b40b

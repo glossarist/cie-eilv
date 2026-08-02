@@ -17,8 +17,8 @@ id: f72e43da-c20a-57b2-8d3b-2da205a44e4d
 data:
   definition:
   - content: mapping of image data representing measurements of a photographic negative
-      to scene-referred image data representing estimates of the {{17-23-041, colour
-      space}} coordinates of the elements of the original scene
+      to scene-referred image data representing estimates of the colour space coordinates
+      of the elements of the original scene
     type: intensional
   examples: []
   notes:
@@ -41,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-044
-id: c450524d-6583-5bb8-a537-796e19b502e8
+id: 0da74894-12e8-558b-a3e4-acb9efac186f

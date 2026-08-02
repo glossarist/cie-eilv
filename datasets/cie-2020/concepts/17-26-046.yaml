@@ -16,14 +16,13 @@ id: 91d5e7c4-6331-5e5c-b566-c73af3faf40d
 ---
 data:
   definition:
-  - content: distance from a {{17-21-032, source}} at which the {{17-21-053, irradiance}}
-      equals the applicable {{17-26-072, exposure limit}} for the skin for the {{17-26-071,
-      exposure duration}}
+  - content: distance from a source at which the irradiance equals the applicable
+      exposure limit for the skin for the exposure duration
     type: intensional
   examples: []
   notes:
-  - content: Where the duration of exposure is not known, IEC 62471/CIE S 009<i> Photobiological
-      safety of lamp and lamp systems</i> applies a duration of 8 h.
+  - content: Where the duration of exposure is not known, IEC 62471/CIE S 009, _Photobiological
+      safety of lamp and lamp systems_ applies a duration of 8 h.
     type: intensional
   - content: The skin hazard distance is expressed in metres (m).
     type: intensional
@@ -46,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-046
-id: 39431c67-0ed6-5259-b002-2e0f61122725
+id: 398a82b2-3aca-5740-8740-55440ba4cbf8

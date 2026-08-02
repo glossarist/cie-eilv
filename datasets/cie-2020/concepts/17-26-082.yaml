@@ -20,10 +20,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Production of ozone in the atmosphere; {{17-26-078, photosynthesis}};
-      daylight vision.
-    type: intensional
   - content: This entry was numbered 845-06-06 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-06-06, 845-06-06>> in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -42,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-082
-id: 851de173-a3c2-5a1b-a38f-96e0b7ef08b7
+id: 18d033ac-7da2-58cf-b8ef-2c3402cd3ff8

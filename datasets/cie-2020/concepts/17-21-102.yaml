@@ -16,16 +16,16 @@ id: 3ccc2784-69c5-5867-b1ee-039525c89488
 ---
 data:
   definition:
-  - content: "{{17-21-050, luminance}} in a given direction that results from {{17-24-001,
-      emission}} at the surface of a photoluminescent medium under specified conditions
-      of illumination, compared to the {{17-21-050, luminance}} in the same direction
-      by the {{17-24-060, perfect reflecting diffuser}} identically illuminated"
+  - content: luminance in a given direction that results from emission at the surface
+      of a photoluminescent medium under specified conditions of illumination, compared
+      to the luminance in the same direction by the perfect reflecting diffuser identically
+      illuminated
     type: intensional
   examples: []
   notes:
   - content: The luminescent luminance factor depends upon the spectral power distribution
-      of the illumination and this quantity is typically specified for a given {{17-23-019,
-      CIE illuminant}} condition.
+      of the illumination and this quantity is typically specified for a given CIE
+      illuminant condition.
     type: intensional
   - content: The luminescent luminance factor has unit one.
     type: intensional
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-102
-id: 549df67c-a989-5247-8d31-74137f50cba6
+id: d0b277cf-97e1-58b1-af83-80d7b987924c

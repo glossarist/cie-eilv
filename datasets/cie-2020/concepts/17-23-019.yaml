@@ -16,12 +16,12 @@ id: 07d80215-3098-5855-95d2-467cc224b649
 ---
 data:
   definition:
-  - content: "{{17-23-018, illuminant}} as defined by the CIE"
+  - content: illuminant as defined by the CIE
     type: intensional
   examples: []
   notes:
   - content: CIE illuminant A and CIE illuminant D65 are also {{17-23-021, CIE standard
-      illuminant}}s.
+      illuminants}}.
     type: intensional
   sources:
   - origin:
@@ -35,4 +35,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-019
-id: cbc517e9-fa5b-5000-9781-4d02dec595da
+id: 41ccae66-c4a3-5dd3-aa5f-afcde7e97f00

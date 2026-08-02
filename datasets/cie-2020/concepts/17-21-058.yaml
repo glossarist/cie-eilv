@@ -17,17 +17,19 @@ id: 98bd80f3-8678-54e5-8f06-f42d962c2457
 data:
   definition:
   - content: |-
-      density of incident {{17-21-040, photon flux}} with respect to area at a point on a real or imaginary surface
+      density of incident photon flux with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>p</sub> is {{17-21-040, photon flux}} and <i>A</i> is the area on which the {{17-21-040, photon flux}} is incident
+      stem:[E_p = ((d Phi_p))/((d A))]
+
+      where stem:[Phi_p] is photon flux and stem:[A] is the area on which the photon flux is incident
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{{17-21-053, irradiance}}".
-      The corresponding photometric quantity is "{{17-21-060, illuminance}}".
+  - content: The corresponding radiometric quantity is "irradiance". The corresponding
+      photometric quantity is "illuminance".
     type: intensional
   - content: The photon irradiance is expressed in second to the power minus one per
-      square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+      square metre (s^−1^·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-39 in IEC 60050-845:1987.
     type: intensional
@@ -58,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-058
-id: 35c4c4a9-f755-52b4-9baa-9a963b4125ec
+id: f6c60126-0504-5153-8b0b-ccfe432de535

@@ -16,14 +16,13 @@ id: 581a5e48-1df6-5e8b-8f33-d8845a9f9c0c
 ---
 data:
   definition:
-  - content: state of the visual system after an {{17-22-012, adaptation}} process
-      has been completed
+  - content: state of the visual system after an adaptation process has been completed
     type: intensional
   examples: []
   notes:
   - content: The term "light adaptation" is used when the luminances of the stimuli
-      are of at least 10 cd·m<sup>−2</sup>, and the term "dark adaptation" is used
-      when the luminances of the stimuli are of less than a few hundredths of a cd·m<sup>−2</sup>.
+      are of at least 10 cd·m^−2^ and the term "dark adaptation" is used when the
+      luminances of the stimuli are of less than a few hundredths of a cd·m^−2^.
     type: intensional
   - content: This entry was numbered 17-20 in CIE S 017:2011.
     type: intensional
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-015
-id: a88c6bd1-9d43-5034-a630-8901ee913c20
+id: 87a30ca5-ce9f-50f9-825d-0ff3ab268e5f

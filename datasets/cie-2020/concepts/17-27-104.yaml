@@ -16,10 +16,10 @@ id: eda5d499-fde4-56e2-a4dd-d771d3799cef
 ---
 data:
   definition:
-  - content: length of time during which <i>X</i> % of the {{17-27-008, electric lamp}}s
-      subjected to a {{17-27-102, life test}} reach the end of their lives, the {{17-27-008,
-      electric lamp}}s being operated under specified conditions and the end of life
-      judged according to specified criteria
+  - content: length of time during which stem:[X] % of the electric lamps subjected
+      to a life test reach the end of their lives, the electric lamps being operated
+      under specified conditions and the end of life judged according to specified
+      criteria
     type: intensional
   examples: []
   notes:
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-104
-id: fc342e4d-04ad-5ab2-b926-74c62d1b95d3
+id: d1f17d75-d970-5c93-b8d7-917022265e4d

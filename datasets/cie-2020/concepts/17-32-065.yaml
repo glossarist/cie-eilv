@@ -16,13 +16,13 @@ id: 6abc87cc-6f40-5692-ba8d-a41b27a350ee
 ---
 data:
   definition:
-  - content: "{{17-23-041, colour space}} defined by the IEC"
+  - content: colour space defined by the IEC
     type: intensional
   examples: []
   notes:
-  - content: 'The sRGB colour space is defined in IEC 61966-2-1<i> Multimedia systems
+  - content: 'The sRGB colour space is defined in IEC 61966-2-1, _Multimedia systems
       and equipment – Colour measurement and management – Part 2-1: Colour management
-      – Default RGB colour space – sRGB</i>.'
+      – Default RGB colour space – sRGB_.'
     type: intensional
   - content: This entry was numbered 17-1254 in CIE S 017:2011.
     type: intensional
@@ -43,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-065
-id: 3e666080-c2d5-5da7-8a68-3abeaca6858b
+id: 7a87a1fe-0358-5130-b5bd-4ae1f9e16267

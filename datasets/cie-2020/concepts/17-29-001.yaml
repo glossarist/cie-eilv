@@ -17,9 +17,13 @@ id: 134f2c85-57fa-58a6-b762-71cdedd333f1
 data:
   definition:
   - content: application of light to a scene, objects, or their surroundings
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-09-01 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-559 and 17-674 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -45,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-001
-id: 82d0b252-e56f-5cae-8b3f-84ff418488fa
+id: d7284681-641f-5151-bd01-685faa383ac6

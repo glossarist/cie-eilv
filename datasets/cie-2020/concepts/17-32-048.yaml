@@ -16,18 +16,17 @@ id: a00c46e5-97c1-50fa-984b-34d4f865717e
 ---
 data:
   definition:
-  - content: file format and encoding used to store transforms that relate one {{17-32-006,
-      colour encoding}} with another, in a form defined by the International Color
-      Consortium (ICC)
+  - content: file format and encoding used to store transforms that relate one colour
+      encoding with another, in a form defined by the International Color Consortium
+      (ICC)
     type: intensional
   examples: []
   notes:
   - content: For example, the ICC file format can be used to store the transforms
-      used to convert device {{17-32-009, colour image data}} to colorimetrically
-      equivalent {{17-32-009, colour image data}}, encoded in one of the ICC profile
-      connection colour spaces, as part of a {{17-32-014, colour management}} system.
-      The ICC file format specifies a number of transforms to be in each ICC profile
-      file.
+      used to convert device colour image data to colorimetrically equivalent colour
+      image data, encoded in one of the ICC profile connection colour spaces, as part
+      of a colour management system. The ICC file format specifies a number of transforms
+      to be in each ICC profile file.
     type: intensional
   - content: This entry was numbered 17-544 and 17-547 in CIE S 017:2011.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-048
-id: 4d109b61-b04c-5415-b856-8fd7f58e862c
+id: ea3bcdc2-a61a-5fe1-ab9a-54b2a3ef3505

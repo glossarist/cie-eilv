@@ -16,19 +16,18 @@ id: a08ae884-c907-53ab-8c45-6eb8b8279605
 ---
 data:
   definition:
-  - content: "{{17-23-002, colour stimulus}} having the same {{17-23-052, chromaticity}}
-      as the {{17-23-081, adapted white}}"
+  - content: colour stimulus having the same chromaticity as the {{17-32-058, adopted
+      white}}
     type: intensional
   examples: []
   notes:
   - content: When stating that an image area is a colorimetric neutral, it is necessary
-      to designate the {{17-23-081, adapted white}}. For reflection hardcopies, the
-      {{17-23-081, adapted white}} is typically considered to be either the media
-      white or a perfectly diffuse reflecting surface illuminated by the {{17-27-001,
-      light source}}.
+      to designate the adopted white. For reflection {{17-32-045, hardcopies}}, the
+      adopted white is typically considered to be either the media white or a perfectly
+      diffuse reflecting surface illuminated by the light source.
     type: intensional
-  - content: The {{17-23-081, adapted white}} of colorimetric neutral can or cannot
-      correspond to the {{17-23-081, adapted white}} according to an observer.
+  - content: The adopted white of colorimetric neutral can or cannot correspond to
+      the {{17-23-081, adapted white}} according to an observer.
     type: intensional
   - content: This entry was numbered 17-194 in CIE S 017:2011.
     type: intensional
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-001
-id: 07d45f3c-27e9-59e1-a8a3-62ec14fddd2a
+id: f6b3c55e-ece9-52f3-b7ca-4a313983705f

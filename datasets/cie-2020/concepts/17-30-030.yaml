@@ -16,9 +16,8 @@ id: b4c6b854-3e54-5648-8e06-6676042ac494
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} using {{17-24-047, reflection}} and/or {{17-24-108,
-      refraction}} to increase the {{17-21-045, luminous intensity}} within a limited
-      {{17-21-109, solid angle}}"
+  - content: luminaire using reflection and/or refraction to increase the luminous
+      intensity within a limited solid angle
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-030
-id: 88cdfa3a-5909-5701-9cbd-9c5b321420b3
+id: a0685f2c-e220-5622-b906-be2304d4f657

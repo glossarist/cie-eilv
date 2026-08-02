@@ -16,19 +16,23 @@ id: 427a6f5e-fcc6-524c-9370-cd20c5acfd44
 ---
 data:
   definition:
-  - content: <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=192-01-03">system</a>
-      designed to provide {{17-29-001, lighting}}
+  - content: "<<192-01-03, system>> designed to provide {{17-29-001, lighting}}"
     type: intensional
   examples: []
   notes:
-  - content: |-
-      A lighting system can be dedicated to
-      a. the support of one or more specified {{17-22-084, visual task}}s under specified conditions considering other requirements such as human comfort, safety, the {{17-22-019, appearance}} of the surrounding environment and energy consumption;
-      b. the support of other than human tasks.
+  - content: A lighting system can be dedicated to<ol type="a">. the support of one
+      or more specified visual tasks under specified conditions considering other
+      requirements such as human comfort, safety, the appearance of the surrounding
+      environment and energy consumption;. the support of other than human tasks.
     type: intensional
-  - content: A lighting system can include a set of {{17-27-001, light source}}s,
-      other physical components, communication protocols, user interfaces, software
-      and networks to provide control and monitoring functions.
+  - content: |-
+      A lighting system can include a set of light sources, other physical components, communication protocols, user interfaces, software and networks to provide control and monitoring functions.
+
+      Note 3 to entry: The light source(s) and the related equipment can be integrated in a single item, e.g. an LED module, a lamp or a luminaire.
+
+      Note 4 to entry: A lighting system can be networked to provide central or remote control and monitoring functions.
+
+      Note 5 to entry: A lighting system can be connected to or integrated with other systems or devices.
     type: intensional
   - content: The {{17-27-001, light source}}(s) and the related equipment can be integrated
       in a single item, e.g. an {{17-27-058, LED module}}, a lamp or a {{17-30-001,
@@ -52,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-010
-id: 189a1560-57b1-5d5a-817b-bedaae136cdd
+id: 158ad589-b34a-5bf2-baf2-f1a3bd0913b5

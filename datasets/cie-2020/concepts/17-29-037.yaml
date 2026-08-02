@@ -16,13 +16,12 @@ id: c0e8628b-8c18-5aac-82d8-55e7e7aef26c
 ---
 data:
   definition:
-  - content: presentation, by means of curves or tables, of the values of the {{17-21-045,
-      luminous intensity}} of a {{17-21-032, source}} as a function of direction in
-      space
+  - content: presentation, by means of curves or tables, of the values of the luminous
+      intensity of a source as a function of direction in space
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-25-091, distribution curve}}" (17-25-091).
+  - content: See also "{{17-25-091, distribution curve}}".
     type: intensional
   - content: This entry was numbered 845-09-24 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-037
-id: df784142-292b-5be5-a52e-f97fb2edaea3
+id: '00692e4c-8c45-5c47-b4e9-c22bd3d0087f'

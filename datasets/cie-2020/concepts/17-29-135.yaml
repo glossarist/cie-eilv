@@ -18,11 +18,16 @@ data:
   definition:
   - content: solar irradiance incident on the outer limit of the Earth's atmosphere
       considering the whole solar spectrum
+    type: intensional
+  examples: []
   notes:
   - content: The extraterrestrial solar irradiance is expressed in watt per square
-      metre (W⋅m<sup>−2</sup>).
+      metre (W·m^−2^).
+    type: intensional
   - content: This entry was numbered 845-09-77 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-424 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -48,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-135
-id: 4ea98581-6b0f-563c-ab74-b42673ae37f5
+id: c76141d1-7ad1-56b6-8691-61a23ed35495

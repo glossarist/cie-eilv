@@ -16,22 +16,19 @@ id: 11a9a8c3-08d4-55d8-8605-0cfddef84247
 ---
 data:
   definition:
-  - content: 'function describing the change with direction of {{17-21-099, irradiation}},
-      (<i>θ</i><sub>i</sub>,<i>ϕ</i><sub>i</sub>), and direction of view, (<i>θ</i><sub>r</sub>,<i>ϕ</i><sub>r</sub>),
-      of the {{17-21-049, radiance}} of a surface element (<i>x</i><sub>r</sub>,<i>y</i><sub>r</sub>)
-      in a given direction of view at a given {{17-21-025, wavelength}} <i>λ</i>,
-      , with respect to the {{17-21-053, irradiance}} incident on the medium from
-      the given direction of {{17-21-099, irradiation}} at the given {{17-21-025,
-      wavelength}}, :'
+  - content: |-
+      function describing the change with direction of irradiation (stem:[theta_i],stem:[ϕ_i]) and direction of view (stem:[theta_r],stem:[ϕ_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
+
+      stem:[rho ( theta_i , varphi_i , theta_r , varphi_r , x_r , y_r , lambda ) = ((d L_r ( theta_r , varphi_r , x_r , y_r , lambda )))/((d E_i ( theta_i , varphi_i , lambda )))]
     type: intensional
   examples: []
   notes:
   - content: The bi-directional reflectance distribution function is expressed in
-      steradian to the power minus one (sr<sup>−1</sup>).
+      steradian to the power minus one (sr^−1^).
     type: intensional
   - content: See also "{{17-24-078, radiance coefficient}}".
     type: intensional
-  - content: This entry was numbered 17-87 and 17-109 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -53,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-089
-id: d9610be2-20d1-53b5-a02e-ba39074e3ed1
+id: d9006789-ee8b-5bc7-aed9-2c0f7226840b

@@ -16,20 +16,19 @@ id: 1a30533a-2613-5002-a08c-ec46278d7767
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-029, spectral distribution}} of {{17-21-049,
-      radiance}} due to {{17-24-023, fluorescence}} at {{17-21-025, wavelength}} <i>λ</i>
-      and the sum of the tabulated values of this distribution across the {{17-24-023,
-      fluorescence}} band
+  - content: quotient of the {{17-21-029, spectral distribution}} of radiance due
+      to fluorescence at wavelength stem:[lambda] and the sum of the tabulated values
+      of this distribution across the fluorescence band
     type: intensional
   examples: []
   notes:
-  - content: "{{17-24-023, fluorescence}} is understood to include both fluorescent
-      and phosphorescent phenomena with time constants short enough to be ignored
-      for the application."
+  - content: Fluorescence is understood to include both fluorescent and phosphorescent
+      phenomena with time constants short enough to be ignored for the application.
     type: intensional
   - content: |-
-      The relative spectral fluorescence distribution, <i>F</i>(<i>λ</i>), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, <i>Q</i>, for {{17-24-020, excitation}} at {{17-21-025, wavelength}}, <i>μ</i>, gives the {{17-21-101, bispectral luminescent radiance factor}}, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>), of a {{17-24-040, photoluminescent material}} according to:
-      <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>) = <i>F</i>(<i>λ</i>)⋅<i>Q</i>(<i>μ</i>)
+      The relative spectral fluorescence distribution, stem:[F](stem:[lambda]), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, stem:[Q], for excitation at wavelength, stem:[mu], gives the bispectral luminescent radiance factor, stem:[beta_(L,lambda)](stem:[mu]), of a {{17-24-040, photoluminescent material}} according to:
+
+      stem:[beta_(L,lambda)](stem:[mu]) = stem:[F](stem:[lambda])·stem:[Q](stem:[mu])
     type: intensional
   - content: The relative spectral fluorescence distribution has unit one.
     type: intensional
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-031
-id: 2a750c9c-d7f4-54d6-9bbb-b321d55295af
+id: ca7c2e08-e721-5865-b44c-5e6bacb8f158

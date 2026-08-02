@@ -16,11 +16,11 @@ id: 2b4f5f1a-71cf-541d-bbc6-c36315fab18e
 ---
 data:
   definition:
-  - content: reciprocal of the {{17-21-025, wavelength}}
+  - content: reciprocal of the wavelength
     type: intensional
   examples: []
   notes:
-  - content: The wavenumber is expressed in metre to the power minus one (m<sup>−1</sup>).
+  - content: The wavenumber is expressed in metre to the power minus one (m^−1^).
     type: intensional
   - content: This entry was numbered 845-01-15 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-026
-id: 550a0be4-1451-50ab-8943-b812c40bfb37
+id: 59e9560f-8b26-50e6-a1e0-809a1903a096

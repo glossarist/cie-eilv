@@ -16,20 +16,19 @@ id: 9ef6f99a-a925-572c-a55a-722ca49c7a81
 ---
 data:
   definition:
-  - content: standard observer whose {{17-23-039, colour-matching functions}} deviate
-      from those of the {{17-23-048, CIE standard colorimetric observer}} in a defined
-      manner
+  - content: standard observer whose colour-matching functions deviate from those
+      of the CIE standard colorimetric observer in a defined manner
     type: intensional
   examples: []
   notes:
-  - content: The defined deviations can be applied to the {{17-23-049, CIE 1931 standard
-      colorimetric observer}} or the {{17-23-050, CIE 1964 standard colorimetric observer}}.
+  - content: The defined deviations can be applied to the CIE 1931 standard colorimetric
+      observer or the CIE 1964 standard colorimetric observer.
     type: intensional
   - content: The use of the CIE standard deviate observer is intended to generate
       differences that are typical of those that occur when colour matches are made
       by different real observers whose colour vision is classified as normal.
     type: intensional
-  - content: 'See also CIE 80 <i>Special Metamerism Index: Change in Observer</i>.'
+  - content: 'See also CIE 80, _Special Metamerism Index: Change in Observer_.'
     type: intensional
   - content: This entry was numbered 17-166 in CIE S 017:2011.
     type: intensional
@@ -50,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-051
-id: 61655f60-a8c5-5e1d-a0cb-8b73496976c6
+id: 215bf2b8-da9f-528a-ab01-808344fd0905

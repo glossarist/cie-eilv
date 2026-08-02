@@ -16,12 +16,11 @@ id: 92b6a7b7-1c8f-522a-af3b-7f33ebf2ae8a
 ---
 data:
   definition:
-  - content: separated part of a wafer intended to perform as an {{17-27-050, LED}}
-      in a device
+  - content: separated part of a wafer intended to perform as an LED in a device
     type: intensional
   examples: []
   notes:
-  - content: A device can be an {{17-27-065, LED package}}.
+  - content: A device can be an LED package.
     type: intensional
   sources:
   - origin:
@@ -35,4 +34,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-051
-id: 99320632-1d7e-5413-a770-76b8605f8045
+id: 22791899-1635-54d3-8047-a8edef56420d

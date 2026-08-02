@@ -16,21 +16,23 @@ id: 168306fd-4459-5ef9-bc2a-19b72f6826ec
 ---
 data:
   definition:
-  - content: quotient of {{17-21-038, radiant flux}} weighted by the {{17-21-035,
-      spectral luminous efficiency}} and the corresponding {{17-21-038, radiant flux}}
-      for a specified photometric condition
+  - content: quotient of radiant flux weighted by the {{17-21-035, spectral luminous
+      efficiency}} and the corresponding radiant flux for a specified photometric
+      condition
     type: intensional
   examples: []
   notes:
   - content: The photometric condition should be specified (e.g. photopic, scotopic,
-      mesopic). If it is not specified, {{17-22-016, photopic vision}} is assumed
-      and the symbol <i>V</i> is used. For other photometric conditions the respective
-      symbol for identification shall be used.
+      mesopic). If it is not specified, photopic vision is assumed and the symbol
+      stem:[V] is used. For other photometric conditions, the respective symbol for
+      identification shall be used.
     type: intensional
   - content: |-
-      Luminous efficiency for {{17-22-016, photopic vision}} is expressed by
+      Luminous efficiency for photopic vision is expressed by
 
-      where <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i> is spectral radiant flux, <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}, <i>λ</i> is {{17-21-025, wavelength}}, <i>K</i> is {{17-21-090, luminous efficacy of radiation}}, and <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}.
+      stem:[V = ((int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda))/((int_0^(oo) Phi_((e , lambda)) ( lambda ) d lambda)) = (K)/((K_m))]
+
+      where stem:[Phi_(e,lambda)] is spectral radiant flux, stem:[V](stem:[lambda]) is spectral luminous efficiency, stem:[lambda] is wavelength, stem:[K] is luminous efficacy of radiation, and stem:[K_m] is maximum luminous efficacy.
     type: intensional
   - content: The luminous efficiency has unit one.
     type: intensional
@@ -67,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-094
-id: 03b6450a-78d0-5c93-9035-c8586d6c448c
+id: 2af2832c-f390-5bbe-b2ad-e9de8a722a11

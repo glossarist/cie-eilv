@@ -16,16 +16,15 @@ id: e056120f-acda-5c88-ab67-86d142f9cb69
 ---
 data:
   definition:
-  - content: relative decrease in {{17-21-038, radiant flux}} caused by {{17-24-081,
-      absorption}} and {{17-24-049, scattering}}, expressed by the relative density
-      of the spectral radiant flux, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i><sub>(</sub><i>λ</i><sub>)</sub>,
-      with respect to propagation length, <i>l</i>, of a collimated beam at a point
-      in an absorbing and {{17-24-049, scattering}} medium
+  - content: |-
+      relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
+
+      stem:[mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]
     type: intensional
   examples: []
   notes:
   - content: The spectral linear attenuation coefficient is expressed in metre to
-      the power minus one (m<sup>−1</sup>).
+      the power minus one (m^−1^).
     type: intensional
   - content: This entry was numbered 845-04-76 in IEC 60050-845:1987.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-083
-id: c3bdf499-36a2-5cd2-952b-97e384271c17
+id: aea1ab7d-462c-5958-b5e2-887707fb14ea

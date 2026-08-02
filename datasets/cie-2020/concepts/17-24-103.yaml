@@ -17,19 +17,21 @@ id: 4b0c0f84-a798-554e-bfd7-162ed77e8006
 data:
   definition:
   - content: |-
-      quotient of the {{17-24-102, coefficient of luminous intensity}}, <i>R</i>, of a plane retroreflective surface and its area, <i>A</i>
+      quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
 
-      where <i>I</i> is the {{17-21-045, luminous intensity}} of the {{17-24-100, retroreflector}} in the direction of observation and <i>E</i><sub>⊥</sub> is the {{17-21-060, illuminance}} at the {{17-24-100, retroreflector}} on a plane perpendicular to the direction of the incident light
+      stem:[R_A = (R)/(A) = ((I // E_( _|_ )))/(A)]
+
+      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_( _|_ )] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light
     type: intensional
   examples: []
   notes:
   - content: The coefficient of retroreflection is particularly suitable for describing
       materials in sheet form.
     type: intensional
-  - content: Formerly, the symbol <i>R</i>′ was used for this quantity.
+  - content: Formerly, the symbol stem:[R]′ was used for this quantity.
     type: intensional
   - content: The coefficient of retroreflection is expressed in candela per lux per
-      square metre (cd⋅lx<sup>−1</sup>⋅m<sup>−2</sup>).
+      square metre (cd·lx^−1^·m^−2^).
     type: intensional
   - content: This entry was numbered 845-04-97 in IEC 60050-845:1987.
     type: intensional
@@ -60,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-103
-id: 15acc2cd-efea-5734-b587-b390bf8e69ed
+id: d574ef9d-b773-585f-a0df-26294a719d4e

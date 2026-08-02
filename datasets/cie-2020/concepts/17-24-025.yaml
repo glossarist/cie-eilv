@@ -16,14 +16,13 @@ id: 3ba4f266-be01-54a6-bd46-71803f7b3b96
 ---
 data:
   definition:
-  - content: "{{17-24-022, photoluminescence}} whose radiation is located in a spectral
-      region of shorter {{17-21-025, wavelength}}s than that of the exciting radiation"
+  - content: photoluminescence whose radiation is located in a spectral region of
+      shorter wavelengths than that of the exciting radiation
     type: intensional
   examples: []
   notes:
   - content: Anti-Stokes luminescence happens, for instance, when the energy of the
-      emitted {{17-21-107, photon}}s originates from the {{17-24-081, absorption}}
-      of two exciting {{17-21-107, photon}}s.
+      emitted photons originates from the absorption of two exciting photons.
     type: intensional
   - content: This entry was numbered 845-04-22 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-025
-id: 5dee732f-c098-528d-b2a3-a24fd837a68b
+id: 54700be1-6716-5a03-91c2-9b7f425d3de8

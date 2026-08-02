@@ -16,18 +16,20 @@ id: 00c449a2-c32f-5b5c-b157-3d1f9c387b9f
 ---
 data:
   definition:
-  - content: mean value of {{17-21-058, photon irradiance}} on the outer curved surface
-      of a very small (real or imaginary) sphere at a point in space
+  - content: mean value of photon irradiance on the outer curved surface of a very
+      small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes:
   - content: |-
       The photon spherical irradiance can be expressed by
 
-      where <i>Ω</i> is {{17-21-109, solid angle}} and <i>L</i><sub>p</sub> is {{17-21-051, photon radiance}}.
+      stem:[E_((p ,o)) = underset((4 pi))( int ) L_p d omega]
+
+      where stem:[Omega] is solid angle and stem:[L_p] is photon radiance.
     type: intensional
   - content: The photon spherical irradiance is expressed in second to the power minus
-      one per square metre (s<sup>−1·</sup>m<sup>−2</sup>).
+      one per square metre (s^−1^·m^−2^).
     type: intensional
   - content: This entry was numbered 17-934 and 17-926 in CIE S 017:2011.
     type: intensional
@@ -51,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-059
-id: 6808faa7-fc91-5cdb-80cb-da6589679e27
+id: c8aa0ef3-7996-5290-b2fb-0212734fdf2c

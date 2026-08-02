@@ -16,10 +16,10 @@ id: 7a920116-99cc-5e18-88e6-a932c36d1359
 ---
 data:
   definition:
-  - content: "{{17-21-001, electromagnetic radiation}} in which the electric field
-      vector rotates at the radiation frequency, but varies in magnitude at a rate
-      equal to twice the radiation frequency with the terminal point of the electric
-      field vector describing an ellipse"
+  - content: electromagnetic radiation in which the electric field vector rotates
+      at the radiation frequency, but varies in magnitude at a rate equal to twice
+      the radiation frequency with the terminal point of the electric field vector
+      describing an ellipse
     type: intensional
   examples: []
   notes:
@@ -46,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-019
-id: 1425577b-e82e-5ab4-a32a-91d5a7cb078e
+id: 575c7537-c521-5f86-b8d8-d9d3b7fdeeec

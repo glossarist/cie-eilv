@@ -16,14 +16,14 @@ id: 9a0dbbcd-026c-55c9-a470-faa9a89c26e4
 ---
 data:
   definition:
-  - content: "{{17-23-041, colour space}} used to connect the source and destination
-      profiles in a {{17-32-014, colour management}} architecture"
+  - content: colour space used to connect the source and destination profiles in a
+      colour management architecture
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-32-049, ICC profile connection space}}".
+  - content: See also "{{17-21-029, ICC profile connection space}}".
     type: intensional
-  - content: This entry was numbered 17-987 and 17-868 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -45,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-047
-id: b009f08c-6225-5d4e-86e6-e97ef88b66fb
+id: 29eae5aa-ebb7-5c45-9c5a-760c76ce7dce

@@ -17,15 +17,18 @@ id: 3abb7d96-da58-5d49-9bcc-1ecbcf1f6fa7
 data:
   definition:
   - content: anomaly of vision in which there is a reduced ability to discriminate
-      between some or all {{17-22-040, colour}}s
+      between some or all colours
     type: intensional
   examples: []
   notes:
   - content: |-
       Types of defective colour vision include
-      – {{17-22-035, anomalous trichromatism}}: {{17-22-025, deuteranomaly}}, {{17-22-030, protanomaly}} and {{17-22-033, tritanomaly}};
-      – {{17-22-027, dichromatism}}: {{17-22-026, deuteranopia}}, {{17-22-031, protanopia}} and {{17-22-034, tritanopia}};
-      – {{17-22-028, monochromatism}}.
+
+      – anomalous trichromatism: deuteranomaly, protanomaly and tritanomaly;
+
+      – dichromatism: deuteranopia, protanopia and tritanopia;
+
+      – monochromatism.
     type: intensional
   - content: This entry was numbered 845-02-13 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-023
-id: 63798d52-99f6-51b8-a2ef-3b1ca5eedf1f
+id: 55efa321-074e-50bc-af6a-658e5389d64a

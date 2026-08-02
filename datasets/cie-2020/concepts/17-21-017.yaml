@@ -18,10 +18,15 @@ data:
   definition:
   - content: radiation whose electromagnetic field, which is transversal, is oriented
       in defined directions
+    type: intensional
+  examples: []
   notes:
   - content: The polarization can be linear, elliptic or circular.
+    type: intensional
   - content: This entry was numbered 845-01-10 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-966 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -44,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-017
-id: 2564f18f-5bd4-5023-94a0-fb7ee3db9ba1
+id: 6b62ff12-ed22-50db-9a6c-7af648084d09

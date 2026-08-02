@@ -16,10 +16,10 @@ id: ceae1af7-c2ed-507e-9f13-c7acabd7d396
 ---
 data:
   definition:
-  - content: angle between two imaginary lines in a plane through the {{17-27-076,
-      optical beam axis}}, such that these lines pass through the centre of the front
-      face of the device and through points at which the {{17-21-045, luminous intensity}}
-      is 50 % of the {{17-27-078, centre beam intensity}}
+  - content: angle between two imaginary lines in a plane through the optical beam
+      axis, such that these lines pass through the centre of the front face of the
+      device and through points at which the luminous intensity is 50 % of the centre
+      beam intensity
     type: intensional
   examples: []
   notes:
@@ -39,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-077
-id: ce3422f5-3161-5d7f-92c8-052e7b808006
+id: 457f6dff-d464-55f9-a499-0cb2b4eafc15

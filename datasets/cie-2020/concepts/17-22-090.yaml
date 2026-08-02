@@ -16,16 +16,14 @@ id: 9f87b7cc-b299-5b17-95b1-0000c114423e
 ---
 data:
   definition:
-  - content: reciprocal of the least perceptible {{17-22-091, luminance contrast}},
-      usually expressed as <i>L</i>/Δ<i>L</i><sub>th</sub>, where <i>L</i> is the
-      {{17-29-151, average luminance}} and Δ<i>L</i><sub>th</sub> is the {{17-22-088,
-      luminance difference threshold}}
+  - content: reciprocal of the least perceptible luminance contrast, usually expressed
+      as stem:[L]/stem:[Delta L_(th)], where stem:[L] is the average luminance and
+      stem:[Delta L_(th)] is the luminance difference threshold
     type: intensional
   examples: []
   notes:
-  - content: The value of <i>S</i><sub>c</sub> depends on a number of factors including
-      the {{17-21-050, luminance}}, the viewing conditions and the {{17-22-015, state
-      of adaptation}}.
+  - content: The value of stem:[S_c] depends on a number of factors including the
+      luminance, the viewing conditions and the state of adaptation.
     type: intensional
   - content: The contrast sensitivity has unit one.
     type: intensional
@@ -58,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-090
-id: 1654bbf5-2fc6-5a34-a249-9a3bd39e3d87
+id: d73342a4-0dc2-52d2-a0b3-439661b2b0bd

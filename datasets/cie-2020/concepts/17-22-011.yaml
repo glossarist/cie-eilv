@@ -16,16 +16,14 @@ id: '090f1a9e-395d-5de0-ba74-c75177bdf1fd'
 ---
 data:
   definition:
-  - content: "{{17-21-050, luminance}} of a {{17-21-032, source}} which, when viewed
-      with the natural pupil, produces the same {{17-22-010, conventional retinal
-      illuminance}} as that {{17-21-032, source}} viewed with a specified artificial
-      pupil"
+  - content: luminance of a source which, when viewed with the natural pupil, produces
+      the same conventional retinal illuminance as that source viewed with a specified
+      artificial pupil
     type: intensional
   examples: []
   notes:
   - content: The natural pupil luminance is expressed in candela (cd), candela per
-      square metre times square millimetre (cd⋅m<sup>−2</sup>⋅mm<sup>2</sup>), or
-      troland.
+      square metre times square millimetre (cd·m^−2^·mm^2^), or {{17-22-038, troland}}.
     type: intensional
   - content: This entry was numbered 17-802 in CIE S 017:2011.
     type: intensional
@@ -46,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-011
-id: 9e63ef71-d03a-5e32-ba6a-50e22c8ced47
+id: 12a59f84-ba0b-553f-95cd-b6187659ec09

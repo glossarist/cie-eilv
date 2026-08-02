@@ -16,11 +16,10 @@ id: 2968259f-8ed1-53bb-a4a9-5274fc405120
 ---
 data:
   definition:
-  - content: spectrophotometric mode of measurement, where a means of {{17-21-025,
-      wavelength}} separation ({{17-25-101, monochromator}}, bandpass filters/wedge)
-      precedes the sample and the total (reflected or transmitted plus fluoresced)
-      {{17-21-038, radiant flux}} leaving the sample is measured by the {{17-25-035,
-      detector}} at the stated monochromatic {{17-21-025, wavelength}}
+  - content: spectrophotometric mode of measurement, where a means of wavelength separation
+      (monochromator, bandpass filters/wedge) precedes the sample and the total (reflected
+      or transmitted plus fluoresced) radiant flux leaving the sample is measured
+      by the detector at the stated monochromatic wavelength
     type: intensional
   examples: []
   notes:
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-100
-id: 0fc0b9c0-cb1c-5b0d-a65e-621fe2f25024
+id: 278818fa-c5d7-5b27-9742-4f91cc305316

@@ -16,15 +16,13 @@ id: 78572e73-3b7d-5600-8dad-7871a2313ccd
 ---
 data:
   definition:
-  - content: angular distribution of the receiver {{17-25-061, responsivity}} with
-      respect to the centre of the {{17-25-114, sampling aperture}} on the sample
-      being measured
+  - content: angular distribution of the receiver responsivity with respect to the
+      centre of the sampling aperture on the sample being measured
     type: intensional
   examples: []
   notes:
-  - content: The {{17-25-092, influx geometry}} and efflux geometry together specify
-      the geometric nature of the measurement for {{17-24-064, reflectance}} and {{17-24-065,
-      transmittance}} measurements.
+  - content: The influx geometry and efflux geometry together specify the geometric
+      nature of the measurement for reflectance and transmittance measurements.
     type: intensional
   - content: This entry was numbered 17-362 in CIE S 017:2011.
     type: intensional
@@ -45,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-093
-id: 43903fe8-7ec2-5ec9-811e-c341b41d8b49
+id: 687c46e2-8fb9-5128-a482-26f0beaa1811

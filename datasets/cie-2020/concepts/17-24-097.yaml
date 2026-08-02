@@ -16,16 +16,15 @@ id: be1aac6a-2927-54cd-a991-2a4899cf4869
 ---
 data:
   definition:
-  - content: "{{17-25-079, angle of observation}} at which the {{17-21-050, luminance}}
-      has half the value of the {{17-21-050, luminance}} of the diffused light at
-      the angle of 0°, with perpendicular incidence of the light"
+  - content: angle of observation at which the luminance has half the value of the
+      luminance of the diffused light at the angle of 0°, with perpendicular incidence
+      of the light
     type: intensional
   examples: []
   notes:
-  - content: For indicating the shape of the {{17-24-098, scattering indicatrix}}
-      it is recommended that the {{17-24-096, diffusion factor}}, <i>σ</i>, be used
-      for strongly diffusing materials, and the half-value angle, <i>γ</i>, for poorly
-      diffusing materials.
+  - content: For indicating the shape of the scattering indicatrix it is recommended
+      that the diffusion factor, stem:[sigma], be used for strongly diffusing materials,
+      and the half-value angle, stem:[gamma], for poorly diffusing materials.
     type: intensional
   - content: The half-value angle is expressed in radian (rad) or degree (°).
     type: intensional
@@ -59,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-097
-id: a4a0fbb9-4054-52ab-b40b-5a696d670db0
+id: 6da549a9-9a40-5032-a031-12d1d881da10

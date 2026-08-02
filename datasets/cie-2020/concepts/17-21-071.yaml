@@ -17,21 +17,23 @@ id: ede6eb3b-ad36-5ee3-ba2d-14509f878fa2
 data:
   definition:
   - content: |-
-      density of incident {{17-21-041, radiant energy}} with respect to area at a point on a real or imaginary surface
+      density of incident radiant energy with respect to area at a point on a real or imaginary surface
 
-      where <i>Q</i><sub>e</sub> is {{17-21-041, radiant energy}} and <i>A</i> is the area on which the {{17-21-041, radiant energy}} is incident
+      stem:[H_e = ((d Q_e))/((d A))]
+
+      where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident
     type: intensional
   examples: []
   notes:
   - content: The quantity "radiant exposure" defined here must not be confused with
       the quantity named "exposure" which is used in the field of X- and γ-rays, the
-      unit of which is coulomb per kilogram (C·kg<sup>−1</sup>).
+      unit of which is coulomb per kilogram (C·kg^−1^).
     type: intensional
-  - content: The corresponding photometric quantity is "{{17-21-072, luminous exposure}}".
-      The corresponding quantity for photons is "{{17-21-073, photon exposure}}".
+  - content: The corresponding photometric quantity is "luminous exposure". The corresponding
+      quantity for photons is "photon exposure".
     type: intensional
-  - content: The radiant exposure is expressed in joule per square metre (J·m<sup>−2</sup>
-      = W·s·m<sup>−2</sup>).
+  - content: The radiant exposure is expressed in joule per square metre (J·m^−2^ =
+      W·s·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-42 in IEC 60050-845:1987.
     type: intensional
@@ -62,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-071
-id: 19f9b866-8793-5e44-aa9a-8e58adb01081
+id: 9950425c-3e9c-558a-b25a-ca22c0badf52

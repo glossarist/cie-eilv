@@ -16,8 +16,7 @@ id: 16cdd158-81be-581b-8c56-1bb1e9603753
 ---
 data:
   definition:
-  - content: "{{17-24-011, non-selective thermal radiator}} whose {{17-24-009, emissivity}}
-      is less than 1"
+  - content: non-selective thermal radiator whose emissivity is less than 1
     type: intensional
   examples: []
   notes:
@@ -47,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-012
-id: bb2a3f3d-8585-505d-a0ac-da871fb80d62
+id: 523b10b6-e61c-5f3b-840f-f5bff477942e

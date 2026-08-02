@@ -16,11 +16,10 @@ id: 53c6b931-f792-5cc4-b99d-9a66c54f3963
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-060, illuminance}} at a point on a given plane
-      due to the light received directly and indirectly from a sky of assumed or known
-      {{17-21-050, luminance}} distribution and the {{17-21-060, illuminance}} on
-      a horizontal plane due to an unobstructed hemisphere of this sky, where the
-      contribution of direct {{17-29-103, sunlight}} to both {{17-21-060, illuminance}}s
+  - content: quotient of the illuminance at a point on a given plane due to the light
+      received directly and indirectly from a sky of assumed or known luminance distribution
+      and the illuminance on a horizontal plane due to an unobstructed hemisphere
+      of this sky, where the contribution of direct sunlight to both illuminances
       is excluded
     type: intensional
   examples: []
@@ -28,7 +27,7 @@ data:
   - content: Glazing, dirt effects, etc. are included.
     type: intensional
   - content: When calculating the {{17-29-001, lighting}} of interiors, the contribution
-      of direct {{17-29-103, sunlight}} has to be considered separately.
+      of direct sunlight has to be considered separately.
     type: intensional
   - content: The daylight factor has unit one.
     type: intensional
@@ -61,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-121
-id: 5650f0e6-3687-5d02-bc3b-9b08d61ece1f
+id: 11bcabd7-8659-54cf-add0-6896ceeac2e5

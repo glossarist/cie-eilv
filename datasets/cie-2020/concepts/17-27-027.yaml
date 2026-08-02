@@ -16,15 +16,14 @@ id: 553b608f-49af-5d9e-89c1-156d047c27b6
 ---
 data:
   definition:
-  - content: "{{17-27-024, discharge lamp}} in which the light-producing arc is stabilized
-      by wall temperature and the arc has a {{17-28-006, bulb}} wall loading in excess
-      of 3 W·cm<sup>−2</sup>"
+  - content: discharge lamp in which the light-producing arc is stabilized by wall
+      temperature and the arc has a bulb wall loading in excess of 3 W·cm^−2^
     type: intensional
   examples: []
   notes:
-  - content: High-intensity discharge lamps include groups of {{17-27-024, discharge
-      lamp}}s known as {{17-27-028, high-pressure mercury lamp}}s, {{17-27-033, metal
-      halide lamp}}s and {{17-27-031, high-pressure sodium lamp}}s.
+  - content: High-intensity discharge lamps include groups of discharge lamps known
+      as {{17-27-028, high-pressure mercury lamps}}, {{17-27-033, metal halide lamps}}
+      and {{17-27-031, high-pressure sodium lamps}}.
     type: intensional
   - content: This entry was numbered 845-07-19 in IEC 60050-845:1987.
     type: intensional
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-027
-id: 2b712396-c446-5541-8506-356fa21f977c
+id: eda3cad0-2487-5387-9516-fbd840c5ade5

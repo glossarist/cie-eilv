@@ -16,9 +16,8 @@ id: 661f495e-3c51-5d65-8331-28c326bf7218
 ---
 data:
   definition:
-  - content: "{{17-25-035, detector}} of {{17-21-002, optical radiation}} whose {{17-25-063,
-      spectral responsivity}} is independent of {{17-21-025, wavelength}} over the
-      spectral range considered"
+  - content: detector of {{17-21-002, optical radiation}} whose spectral responsivity
+      is independent of wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-037
-id: 1e8554d3-70ef-5975-9b05-2a679a3b25ee
+id: 6ed6111b-3c29-5ad8-903f-ad3a34303d38

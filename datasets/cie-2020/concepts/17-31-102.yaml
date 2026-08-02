@@ -17,11 +17,11 @@ id: a679bd30-abe5-55b5-a462-c9c602803aa7
 data:
   definition:
   - content: light-emitting or reflective or transmissive component which forms the
-      smallest active part of the {{17-31-002, sign}} face
+      smallest active part of the sign face
     type: intensional
   examples: []
   notes:
-  - content: An element can comprise more than one {{17-24-013, emitter}}.
+  - content: An element can comprise more than one emitter.
     type: intensional
   - content: See also "{{17-32-060, pixel}}".
     type: intensional
@@ -45,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-102
-id: 6b99863d-a0c4-5e47-a9ad-d0359b5844b6
+id: 8c79a0bb-94d8-5afb-b6aa-8187579789b7

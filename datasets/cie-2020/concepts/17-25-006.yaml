@@ -17,9 +17,13 @@ id: 47f206c5-c021-5268-97f6-8cb966ca3f7f
 data:
   definition:
   - content: instrument for measuring radiometric quantities
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-05-06 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-1031 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-006
-id: 74a0b6a9-bd76-5f00-874b-56abebaa675d
+id: 100fb558-1657-5fed-a28a-c3a47fd55de1

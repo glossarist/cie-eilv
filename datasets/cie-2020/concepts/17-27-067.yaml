@@ -16,8 +16,8 @@ id: b95a0a08-7220-5beb-9e3d-33aaf21edb56
 ---
 data:
   definition:
-  - content: set of {{17-27-051, LED die}}s or {{17-27-065, LED package}}s characterized
-      by a common bin
+  - content: set of LED dies or LED packages characterized by a common {{17-27-066,
+      bin}}
     type: intensional
   examples: []
   notes: []
@@ -34,4 +34,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-067
-id: b4575877-03f3-5287-bf5e-3bc3d3190737
+id: a0ee2d03-7e59-51d7-ad75-037c479f7f03

@@ -16,9 +16,8 @@ id: 00d4fca8-1d6e-57b6-a094-73eb4e945fb0
 ---
 data:
   definition:
-  - content: "{{17-21-025, wavelength}} of a certain {{17-23-011, monochromatic stimulus}},
-      the {{17-22-067, hue}} of which remains constant over a wide range of values
-      of {{17-21-050, luminance}} for a given condition of {{17-22-012, adaptation}}"
+  - content: wavelength of a certain monochromatic stimulus, the hue of which remains
+      constant over a wide range of values of luminance for a given condition of adaptation
     type: intensional
   examples: []
   notes:
@@ -43,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-084
-id: 3e98c467-850d-5c4c-8843-ae24903934e6
+id: 5e37c762-2e51-5c19-94ef-0ec495362c13

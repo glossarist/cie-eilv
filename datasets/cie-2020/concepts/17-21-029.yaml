@@ -16,34 +16,33 @@ id: 1ec7e689-b3aa-5ee4-a460-077294156f5c
 ---
 data:
   definition:
-  - content: density of a radiant or luminous or photon quantity, <i>X</i>(<i>λ</i>),
-      with respect to {{17-21-025, wavelength}}, <i>λ</i>, at the {{17-21-025, wavelength}}
-      <i>λ</i>
+  - content: |-
+      density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
+
+      stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]
     type: intensional
   examples: []
   notes:
   - content: The term "spectral distribution" is to be preferred to the equivalent
-      term "spectral concentration" when dealing with the function <i>X<sub>λ</sub></i>(<i>λ</i>)
-      over a range of {{17-21-025, wavelength}}s, not at a particular {{17-21-025,
-      wavelength}}.
+      term "spectral concentration" when dealing with the function stem:[Xlambda](stem:[lambda])
+      over a range of wavelengths, not at a particular wavelength.
     type: intensional
-  - content: Usually <i>X<sub>λ</sub></i> is also a function of <i>λ</i> and in this
-      case, in order to stress this, can be written <i>X<sub>λ</sub></i>(<i>λ</i>)
+  - content: Usually stem:[Xlambda] is also a function of stem:[lambda] and in this
+      case, in order to stress this, can be written stem:[Xlambda](stem:[lambda])
       without any change of meaning.
     type: intensional
-  - content: The spectral distribution of {{17-21-038, radiant flux}} is expressed
-      in watt per nanometre (W⋅nm<sup>−1</sup>), the spectral distribution of {{17-21-039,
-      luminous flux}} is expressed in lumen per nanometre (lm·nm<sup>−1</sup>), the
-      spectral distribution of {{17-21-040, photon flux}} is expressed in nanometre
-      to the power minus one (nm<sup>−1</sup>). The units of spectral distributions
+  - content: The spectral distribution of radiant flux is expressed in watt per nanometre
+      (W·nm^−1^), the spectral distribution of luminous flux is expressed in lumen
+      per nanometre (lm·nm^−1^), the spectral distribution of photon flux is expressed
+      in nanometre to the power minus one (nm^−1^). The units of spectral distributions
       of other quantities are expressed accordingly.
     type: intensional
-  - content: The quantity <i>X</i> can also be expressed as a function of frequency,
-      <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, etc.; the corresponding symbols
-      are <i>X</i>(<i>ν</i>), <i>X</i>(<i>σ</i>), etc. and the corresponding densities
-      with respect to frequency, <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, etc.
-      are <i>X<sub>ν</sub></i>, <i>X<sub>σ</sub></i>, etc., in which case the expression
-      of units will also change accordingly.
+  - content: The quantity stem:[X] can also be expressed as a function of <<103-06-02,
+      frequency>>, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
+      symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and the corresponding
+      densities with respect to frequency, stem:[nu], wavenumber, stem:[sigma], etc.
+      are stem:[Xnu], stem:[Xsigma], etc., in which case the expression of units will
+      also change accordingly.
     type: intensional
   - content: This entry was numbered 845-01-17 in IEC 60050-845:1987.
     type: intensional
@@ -74,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-029
-id: d9346d08-d0fd-5d88-9c0b-a01a45f40231
+id: c0119715-f908-5d09-b3ae-68f26731871f

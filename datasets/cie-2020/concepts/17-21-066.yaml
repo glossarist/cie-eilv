@@ -16,28 +16,29 @@ id: d9c00688-4e4a-5755-bd18-6291938f991a
 ---
 data:
   definition:
-  - content: mean value of {{17-21-060, illuminance}} on the outer curved surface
-      of a very small (real or imaginary) sphere at a point in space
+  - content: mean value of illuminance on the outer curved surface of a very small
+      (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes:
   - content: |-
       The spherical illuminance can be expressed by
 
-      where <i>Ω</i> is {{17-21-109, solid angle}} and <i>L</i><sub>v</sub> is {{17-21-050, luminance}}.
+      stem:[E_((v,o)) = underset((4 pi))( int ) L_v d omega]
+
+      where stem:[Omega] is solid angle and stem:[L_v] is luminance.
     type: intensional
-  - content: The spherical illuminance is the quotient of the {{17-21-039, luminous
-      flux}} of all the light incident on the outer surface of an infinitely small
-      sphere centred at the given point and the area of the diametrical cross-section
-      of that sphere.
+  - content: The spherical illuminance is the quotient of the luminous flux of all
+      the light incident on the outer surface of an infinitely small sphere centred
+      at the given point and the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities "{{17-21-054, spherical irradiance}}", <i>E</i><sub>e,o</sub>,
+  - content: The analogous quantities "{{17-21-054, spherical irradiance}}", stem:[E_(e,o)],
       and "{{17-21-059, photon spherical irradiance}}" (also termed "photon fluence
-      rate"), <i>E</i><sub>p,o</sub>, are defined in a similar way, replacing {{17-21-050,
-      luminance}}, <i>L</i><sub>v</sub>, by {{17-21-049, radiance}}, <i>L</i><sub>e</sub>,
-      and {{17-21-051, photon radiance}}, <i>L</i><sub>p</sub>, respectively.
+      rate"), stem:[E_(p,o)], are defined in a similar way, replacing {{17-21-050,
+      luminance}}, stem:[L_v], by {{17-21-049, radiance}}, stem:[L_e], and photon
+      radiance, stem:[L_p], respectively.
     type: intensional
-  - content: The spherical illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The spherical illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1244 in CIE S 017:2011.
     type: intensional
@@ -61,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-066
-id: c0230754-d93d-5a42-863b-5f7cf6c60216
+id: 6b32ec28-1f0c-57b2-b498-5c053cc67c58

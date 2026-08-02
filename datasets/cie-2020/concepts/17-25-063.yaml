@@ -16,10 +16,10 @@ id: 4ffcfa30-ad61-551c-a090-aafe36b6f83b
 ---
 data:
   definition:
-  - content: quotient of the {{17-25-058, output}}, d<i>Y</i>(<i>λ</i>), and the monochromatic
-      {{17-25-057, input}}, d<i>X</i><sub>e</sub>(<i>λ</i>) = <i>X</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>)
-      d<i>λ</i>, in the {{17-21-025, wavelength}} interval, d<i>λ</i>, as a function
-      of the {{17-21-025, wavelength}}, <i>λ</i>
+  - content: |-
+      quotient of the output, dstem:[Y](stem:[lambda]), and the monochromatic input, dstem:[X_e](stem:[lambda]) = stem:[X_(e,lambda)](stem:[lambda]) dstem:[lambda], in the wavelength interval, dstem:[lambda], as a function of the wavelength, stem:[lambda]
+
+      stem:[s ( lambda ) = ((d Y ( lambda )))/((d X_e ( lambda )))]
     type: intensional
   examples: []
   notes:
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-063
-id: 886b05db-6351-5e2d-8147-32b5826136d0
+id: 9f7072ee-9a90-501e-8b10-7442f3116d7e

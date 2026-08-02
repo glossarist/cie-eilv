@@ -16,16 +16,15 @@ id: 83a318cc-0f0e-5db6-a9c7-a0a16bc95c11
 ---
 data:
   definition:
-  - content: SI unit of {{17-21-050, luminance}}
+  - content: SI unit of luminance
     type: intensional
   examples: []
   notes:
   - content: 'The unit nit (symbol: nt) is no longer in use.'
     type: intensional
-  - content: |-
-      Other non-SI units of {{17-21-050, luminance}}:
-      metric: lambert (symbol: L), 1 L = cd⋅m<sup>−2</sup>;
-      non-metric: footlambert (symbol: fL), 1 fL = 3,426 cd⋅m<sup>−2</sup>.
+  - content: "Other non-SI units of luminance:<ul style=\"list-style-type:none;\">\r\n*
+      metric: lambert (symbol: L), stem:[1 L = ((1 0^4))/(pi) cd * m^(- 2)];\n* non-metric:
+      footlambert (symbol: fL), 1 fL = 3,426 cd·m^−2^.\r\n\r\n"
     type: intensional
   - content: This entry was numbered 845-01-53 in IEC 60050-845:1987.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-086
-id: 880b10f8-330e-5e84-9e96-0699fd59bc1c
+id: b9fc64ff-eb9a-5a43-a918-9a9af77647e0

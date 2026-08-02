@@ -16,8 +16,8 @@ id: 995d9b2d-0f1b-5ed3-8504-8712a0a94586
 ---
 data:
   definition:
-  - content: "{{17-25-049, thermal detector}} of {{17-21-002, optical radiation}}
-      that can compare {{17-21-038, radiant flux}} directly with electric power"
+  - content: thermal detector of {{17-21-002, optical radiation}} that can compare
+      radiant flux directly with electric power
     type: intensional
   examples: []
   notes:
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-050
-id: a524a1d0-3e88-55fd-9d33-0e39623f8ad6
+id: 2454fcba-e91d-5725-9f93-69ae84dfa190

@@ -16,13 +16,12 @@ id: 6d341912-d626-5746-a353-c8e589693ff0
 ---
 data:
   definition:
-  - content: vision by the normal eye in which {{17-22-002, cones}} are the principal
-      active photoreceptors
+  - content: vision by the normal eye in which cones are the principal active photoreceptors
     type: intensional
   examples: []
   notes:
   - content: Photopic vision normally occurs when the eye is adapted to levels of
-      {{17-21-050, luminance}} of at least 5 cd·m<sup>−2</sup>.
+      luminance of at least 5 cd·m^−2^.
     type: intensional
   - content: Colour perception is typical of photopic vision.
     type: intensional
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-016
-id: 88e1c011-a0d1-55c0-8b5e-14c7374222d2
+id: d18f8ee6-f3aa-5a12-8fdf-29109955ac81

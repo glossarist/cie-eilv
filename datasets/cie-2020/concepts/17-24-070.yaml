@@ -16,10 +16,10 @@ id: 3708523b-7630-5878-816e-b824e3d18bc0
 ---
 data:
   definition:
-  - content: quotient of the flux reflected in the directions delimited by a given
-      cone with apex at a surface element, <i>Φ</i><sub>n</sub>, and the flux reflected
-      in the same directions by a {{17-24-060, perfect reflecting diffuser}} identically
-      irradiated or illuminated, <i>Φ</i><sub>d </sub>
+  - content: |-
+      quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
+
+      stem:[R = ((Phi_n))/((Phi_d))]
     type: intensional
   examples: []
   notes:
@@ -29,23 +29,21 @@ data:
       distribution.
     type: intensional
   - content: The reflectance factor is also defined spectrally and is called spectral
-      reflectance factor, <i>R</i>(<i>λ</i>).
+      reflectance factor, stem:[R](stem:[lambda]).
     type: intensional
-  - content: The ideal isotropic (Lambertian) diffuser with {{17-24-064, reflectance}}
-      or {{17-24-065, transmittance}} equal to 1 is called a perfect diffuser.
+  - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance
+      equal to 1 is called a perfect diffuser.
     type: intensional
   - content: For regularly reflecting surfaces that are irradiated or illuminated
-      by a beam of small {{17-21-109, solid angle}}, the reflectance factor can be
-      much larger than 1 if the cone includes the mirror image of the {{17-21-032,
-      source}}.
+      by a beam of small solid angle, the reflectance factor can be much larger than
+      1 if the cone includes the mirror image of the source.
     type: intensional
-  - content: If the {{17-21-109, solid angle}} of the cone approaches 2π sr, the reflectance
-      factor approaches the {{17-24-064, reflectance}} for the same conditions of
-      {{17-21-099, irradiation}}.
+  - content: If the solid angle of the cone approaches 2π sr, the reflectance factor
+      approaches the reflectance for the same conditions of irradiation.
     type: intensional
-  - content: If the {{17-21-109, solid angle}} of the cone approaches 0 sr, the reflectance
-      factor approaches the {{17-24-075, radiance factor}} or {{17-24-077, luminance
-      factor}} for the same conditions of {{17-21-099, irradiation}}.
+  - content: If the solid angle of the cone approaches 0 sr, the reflectance factor
+      approaches the radiance factor or luminance factor for the same conditions of
+      irradiation.
     type: intensional
   - content: The reflectance factor has unit one.
     type: intensional
@@ -78,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-070
-id: e3d19931-fd25-50ee-83f5-752a31866fcf
+id: 943d8c8a-aab3-546b-9a21-053b58801d52

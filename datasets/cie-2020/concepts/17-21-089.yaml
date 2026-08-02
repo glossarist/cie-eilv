@@ -17,18 +17,20 @@ id: 446833b8-5eff-5c12-94a2-66c7924d86e7
 data:
   definition:
   - content: |-
-      quotient of the emitted {{17-21-039, luminous flux}} and the power consumed
+      quotient of the emitted luminous flux and the power consumed
 
-      where <i>Φ</i><sub>v</sub> is {{17-21-039, luminous flux}} and <i>P</i> is the power consumed by the {{17-27-001, light source}}
+      stem:[eta_v = ((Phi_v))/(P)]
+
+      where stem:[Phi_v] is luminous flux and stem:[P] is the power consumed by the light source
     type: intensional
   examples: []
   notes:
   - content: It has to be specified whether or not the power dissipated by auxiliary
-      equipment such as {{17-28-044, ballast}}s, if any, is included in the power
-      consumed by the {{17-27-001, light source}}.
+      equipment such as ballasts, if any, is included in the power consumed by the
+      light source.
     type: intensional
-  - content: The luminous efficacy of a {{17-27-001, light source}} is expressed in
-      lumen per watt (lm·W<sup>−1</sup>).
+  - content: The luminous efficacy of a light source is expressed in lumen per watt
+      (lm·W^−1^).
     type: intensional
   - content: This entry was numbered 845-01-55 in IEC 60050-845:1987.
     type: intensional
@@ -60,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-089
-id: a8122bf8-305a-5f8a-be6c-d1e17c7c061d
+id: 43adf6ff-9555-5067-a7ea-3a5a87669f8c

@@ -16,12 +16,11 @@ id: afd0dab7-cd57-54c4-8b27-6359b361fe72
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} produced by {{17-29-104, skylight}} on a
-      horizontal surface on the Earth"
+  - content: illuminance produced by skylight on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes:
-  - content: The diffuse horizontal illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The diffuse horizontal illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-302 and 17-1192 in CIE S 017:2011.
     type: intensional
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-131
-id: 43cac1c7-cbf0-554b-a8e0-0181b338570e
+id: 113cfb0a-58c3-5b87-b037-f3c0442b4c2f

@@ -16,14 +16,13 @@ id: 76901810-879e-5faa-8ab6-5018a391af9c
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} intended by the manufacturer to be fully or
-      partly recessed into a mounting surface"
+  - content: luminaire intended by the manufacturer to be fully or partly recessed
+      into a mounting surface
     type: intensional
   examples: []
   notes:
-  - content: The term applies both to {{17-30-001, luminaire}}s for operation in enclosed
-      cavities and to {{17-30-001, luminaire}}s for mounting through a surface such
-      as a suspended ceiling.
+  - content: The term applies both to luminaires for operation in enclosed cavities
+      and to luminaires for mounting through a surface such as a suspended ceiling.
     type: intensional
   - content: This entry was numbered 845-10-12 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-018
-id: 46b1e1af-9f9a-5136-8f38-9892e37d3270
+id: b5dd83f6-343a-5c2d-af57-6fcd5b747f12

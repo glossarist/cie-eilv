@@ -16,7 +16,7 @@ id: e28ebce8-bb14-5e9f-bee2-fb559291ee4e
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} based on LED technology"
+  - content: electric lamp based on LED technology
     type: intensional
   examples: []
   notes:
@@ -24,7 +24,7 @@ data:
       or a {{17-27-056, semi-integrated LED lamp}} (LEDsi lamp), or a {{17-27-057,
       non-integrated LED lamp}} (LEDni lamp).
     type: intensional
-  - content: LED lamps can incorporate at least one {{17-27-058, LED module}}.
+  - content: LED lamps can incorporate at least one LED module.
     type: intensional
   sources:
   - origin:
@@ -38,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-054
-id: 4d2d86d4-d6aa-567c-a090-fe67747381f4
+id: 6d6bd8d9-520c-5058-a62c-3cf65e270319

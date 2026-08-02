@@ -17,17 +17,19 @@ id: abcff186-aa09-5ff8-9455-5271f2072193
 data:
   definition:
   - content: |-
-      density of exiting {{17-21-040, photon flux}} with respect to area at a point on a real or imaginary surface
+      density of exiting photon flux with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>p</sub> is {{17-21-040, photon flux}} and <i>A</i> is the area from which the {{17-21-040, photon flux}} leaves
+      stem:[M_p = ((d Phi_p))/((d A))]
+
+      where stem:[Phi_p] is photon flux and stem:[A] is the area from which the photon flux leaves
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "{{17-21-080, radiant exitance}}".
-      The corresponding photometric quantity is "{{17-21-081, luminous exitance}}".
+  - content: The corresponding radiometric quantity is "radiant exitance". The corresponding
+      photometric quantity is "luminous exitance".
     type: intensional
   - content: The photon exitance is expressed in second to the power minus one per
-      square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+      square metre (s^−1^·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-49 in IEC 60050-845:1987.
     type: intensional
@@ -58,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-082
-id: e8b16ff9-beb8-5215-966e-1ac0a9471d1d
+id: '089ecb5a-c74a-5a4d-84aa-c99af89a0d66'

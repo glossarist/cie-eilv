@@ -17,9 +17,11 @@ id: 64d92950-b169-5a51-bbb7-3f6af85ca3aa
 data:
   definition:
   - content: |-
-      complex value where the real part is the {{17-24-109, refractive index}} and the imaginary part is related to the {{17-24-110, spectral absorption index}}
+      complex value where the real part is the refractive index and the imaginary part is related to the spectral absorption index
 
-      where <i>n</i>(<i>λ</i>) is the {{17-24-109, refractive index}} at {{17-21-025, wavelength}} <i>λ</i>, <i>κ</i>(<i>λ</i>) is the {{17-24-110, spectral absorption index}} and .
+      stem:[hat n ( lambda ) = n ( lambda ) - i kappa ( lambda )]
+
+      where where stem:[n](stem:[lambda]) is the refractive index at wavelength stem:[lambda], stem:[kappa](stem:[lambda]) is the spectral absorption index and stem:[i = sqrt(- 1)]
     type: intensional
   examples: []
   notes:
@@ -51,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-111
-id: 5a745915-7c60-597d-9d7c-80fb55dc585f
+id: e6739115-c684-570b-b062-40a76cf14e5c

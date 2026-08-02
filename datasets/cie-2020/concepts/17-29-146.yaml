@@ -16,26 +16,26 @@ id: e378aa60-41c9-538b-bf96-59fe484cef18
 ---
 data:
   definition:
-  - content: quotient of {{17-21-060, illuminance}} produced by the {{17-29-034, lighting
-      installation}} after a certain <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> and the {{17-21-060, illuminance}} produced by the installation
+  - content: quotient of illuminance produced by the lighting installation after a
+      certain <<113-01-10, time interval>> and the illuminance produced by the installation
       when new
     type: intensional
   examples: []
   notes:
-  - content: The term "light loss factor" is no longer used.
+  - content: The English term "light loss factor" and the French term "facteur de
+      perte de lumière" are no longer used.
     type: intensional
-  - content: The term "depreciation factor" was formerly used to designate the reciprocal
-      of the above quotient.
+  - content: The English term "depreciation factor" and the French term "facteur de
+      dépréciation" were formerly used to designate the reciprocal of the above quotient.
     type: intensional
   - content: The maintenance factor takes into account light losses caused by dirt
-      accumulation on {{17-30-001, luminaire}}s and room surfaces (in interiors) or
-      other relevant surfaces (in exteriors, where appropriate), and the decrease
-      in the {{17-21-039, luminous flux}} of lamps.
+      accumulation on luminaires and room surfaces (in interiors) or other relevant
+      surfaces (in exteriors, where appropriate), and the decrease in the luminous
+      flux of lamps.
     type: intensional
   - content: The maintenance factor has unit one.
     type: intensional
-  - content: This entry was numbered 17-753 and 17-774 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -58,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-146
-id: 54fbffe7-0c45-56cf-8772-bd20f9282a11
+id: 8e66f126-ab2f-5c6a-93fe-745cf4f91859

@@ -18,9 +18,13 @@ data:
   definition:
   - content: superposition of coherent waves, capable of locally producing a diminution
       or reinforcement of the amplitudes of the resulting wave
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-01-12 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-593 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-023
-id: 17c9666a-18a0-5509-ae8f-e4ad9d5645e5
+id: 2f5e208a-72e0-5271-b84b-0d412adc2334

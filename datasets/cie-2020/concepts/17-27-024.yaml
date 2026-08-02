@@ -16,17 +16,17 @@ id: 967a035f-ced4-5eea-8be6-37b88bf03fd2
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} in which the light is produced, directly
-      or indirectly, by an {{17-27-018, electric discharge}} through a gas, a metal
-      vapour or a mixture of several gases and vapours"
+  - content: electric lamp in which the light is produced, directly or indirectly,
+      by an {{17-27-018, electric discharge}} through a gas, a metal vapour or a mixture
+      of several gases and vapours
     type: intensional
   examples: []
   notes:
   - content: According to whether the light is mainly produced in a gas or in a metal
       vapour, discharge lamps can be categorized as gaseous discharge lamps, for example
       xenon lamps, neon lamps, helium lamps, nitrogen lamps or carbon dioxide lamps,
-      or as metal vapour lamps, such as {{17-27-033, metal halide lamp}}s, {{17-27-028,
-      high-pressure mercury lamp}}s or {{17-27-031, high-pressure sodium lamp}}s.
+      or as metal vapour lamps, such as {{17-27-033, metal halide lamps}}, {{17-27-028,
+      high-pressure mercury lamps}} or {{17-27-031, high-pressure sodium lamps}}.
     type: intensional
   - content: This entry was numbered 845-07-17 in IEC 60050-845:1987.
     type: intensional
@@ -54,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-024
-id: 2fca1c15-a31d-5549-93f8-08970f5d5061
+id: 003dcbc1-e399-58c3-9111-9ff42e375447

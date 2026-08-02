@@ -16,14 +16,14 @@ id: 13c8bd5e-306e-5815-b40a-f1df4d8985f3
 ---
 data:
   definition:
-  - content: "{{17-27-001, light source}} designed to be replaced by an ordinary person
-      or a qualified person"
+  - content: light source designed to be replaced by an ordinary person or a qualified
+      person
     type: intensional
   examples: []
   notes:
-  - content: When incorporated into a {{17-30-001, luminaire}}, a replaceable light
-      source can be classified as replaceable, non-user replaceable or non-replaceable
-      depending on the {{17-30-001, luminaire}} design.
+  - content: When incorporated into a luminaire, a replaceable light source can be
+      classified as replaceable, non-user replaceable or non-replaceable depending
+      on the luminaire design.
     type: intensional
   sources:
   - origin:
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-005
-id: 21e6e4d2-f74d-58b4-88f3-9dbb722f5684
+id: fe7a5652-f0ed-5ec9-8d4c-0fe5599412cf

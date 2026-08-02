@@ -16,9 +16,9 @@ id: 23e8d89b-f49c-5de2-8f11-2277e86d9209
 ---
 data:
   definition:
-  - content: two {{17-23-002, colour stimulus}} for which it is possible to reproduce
-      the {{17-23-038, tristimulus values}} of a specified {{17-23-009, achromatic
-      stimulus}} by a suitable {{17-23-030, additive mixture}} of these two stimuli
+  - content: two colour stimuli for which it is possible to reproduce the {{17-23-038,
+      tristimulus values}} of a specified achromatic stimulus by a suitable additive
+      mixture of these two stimuli
     type: intensional
   examples: []
   notes:
@@ -57,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-013
-id: 2264eacb-363e-58d7-9a9c-5ff68e4d5df5
+id: 1539d912-8153-513d-afdd-8083322216c3

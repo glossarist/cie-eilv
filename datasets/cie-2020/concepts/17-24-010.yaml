@@ -16,8 +16,8 @@ id: 47e0b36a-82fc-5a2a-b870-2c39e49fae83
 ---
 data:
   definition:
-  - content: "{{17-24-003, thermal radiator}} whose spectral {{17-24-009, emissivity}}
-      varies with {{17-21-025, wavelength}} over the spectral range considered"
+  - content: thermal radiator whose spectral emissivity varies with wavelength over
+      the spectral range considered
     type: intensional
   examples: []
   notes:
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-010
-id: '090cc79f-a7cc-5f79-b7c0-6c119fdc9e29'
+id: c4338825-3ec2-5262-8834-de42713f234f

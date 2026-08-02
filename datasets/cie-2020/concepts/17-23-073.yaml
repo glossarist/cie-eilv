@@ -16,19 +16,22 @@ id: 8a9414ad-1210-5e02-a6be-9c0ccd750452
 ---
 data:
   definition:
-  - content: |-
-      uniform chromaticity scale diagram produced by plotting in rectangular coordinates <i>v</i>′ against <i>u</i>′, quantities defined by the equations:
-      <i>u</i>′ = 4 <i>X</i> / (<i>X</i> + 15<i>Y</i> + 3<i>Z</i>) = 4<i>x</i> / (−2<i>x</i> + 12<i>y</i> + 3)
-      <i>v</i>′ = 9 <i>Y</i> / (<i>X</i> + 15<i>Y</i> + 3<i>Z</i>) = 9<i>y</i> / (−2<i>x</i> +12<i>y</i> + 3)
-      where <i>X</i>, <i>Y</i>, <i>Z</i> are the {{17-23-038, tristimulus values}} in the CIE 1931 or 1964 standard colorimetric systems, and <i>x</i>, <i>y</i> are the corresponding {{17-23-053, chromaticity coordinates}} of the {{17-23-002, colour stimulus}} considered
+  - content: "uniform chromaticity scale diagram produced by plotting in rectangular
+      coordinates stem:[v]′ against stem:[u]′, quantities defined by the equations:<ul
+      style=\"list-style-type:none;\">* stem:[u]′ = 4 stem:[X] / (stem:[X] + 15stem:[Y]
+      + 3stem:[Z]) = 4stem:[x] / (−2stem:[x] + 12stem:[y] + 3) * stem:[v]′ = 9 stem:[Y]
+      / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (−2stem:[x] +12stem:[y]
+      + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the {{17-23-038, tristimulus
+      values}} in the CIE 1931 or 1964 standard colorimetric systems, and stem:[x],
+      stem:[y] are the corresponding chromaticity coordinates of the colour stimulus
+      considered"
     type: intensional
   examples: []
   notes:
   - content: 'The CIE 1976 uniform-chromaticity-scale diagram is a modification of,
-      and supersedes, the {{17-23-079, CIE 1960 uniform-chromaticity-scale diagram}}
-      in which <i>v</i> was plotted against <i>u</i> in rectangular coordinates. The
-      relationships between the two pairs of coordinates are: <i>u</i>′ = <i>u</i>;
-      <i>v</i>′ = 1,5 <i>v</i>.'
+      and supersedes, the CIE 1960 uniform-chromaticity-scale diagram in which stem:[v]
+      was plotted against stem:[u] in rectangular coordinates. The relationships between
+      the two pairs of coordinates are: stem:[u]′ = stem:[u]; stem:[v]′ = 1,5 stem:[v].'
     type: intensional
   - content: This entry was numbered 845-03-53 in IEC 60050-845:1987.
     type: intensional
@@ -59,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-073
-id: ab967d0b-15a9-5e29-9803-93195e26e501
+id: ba813cd2-4ba6-5585-bf2a-b79b2f639eeb

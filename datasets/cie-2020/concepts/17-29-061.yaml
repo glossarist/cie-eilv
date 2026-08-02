@@ -16,13 +16,13 @@ id: a1b03ba1-0549-55d4-8ff0-1d84a2d98e84
 ---
 data:
   definition:
-  - content: quotient of the sum of the individual total output fluxes of the {{17-30-001,
-      luminaire}}s of an installation and the floor area
+  - content: quotient of the sum of the individual total output fluxes of the luminaires
+      of an installation and the floor area
     type: intensional
   examples: []
   notes:
   - content: The installation flux density is expressed in lumen per square metre
-      (lm·m<sup>−2</sup>).
+      (lm·m^−2^).
     type: intensional
   - content: This entry was numbered 845-09-48 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-061
-id: 1a000fb5-46f1-5d7c-b447-71268c3725a8
+id: 19d6091e-f957-5f9e-913a-30431c0ac4bf

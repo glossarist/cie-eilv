@@ -16,13 +16,13 @@ id: 16c7f395-d5ca-5d65-9925-01942307b1bb
 ---
 data:
   definition:
-  - content: "{{17-31-004, signal light}} carried on a vehicle to indicate the presence
-      of the vehicle when parked"
+  - content: signal light carried on a vehicle to indicate the presence of the vehicle
+      when parked
     type: intensional
   examples: []
   notes:
-  - content: A {{17-31-069, front position light}} or {{17-31-070, rear position light}}
-      can sometimes be used as a front parking light or rear parking light respectively.
+  - content: A front position light or rear position light can sometimes be used as
+      a front parking light or rear parking light respectively.
     type: intensional
   - content: This entry was numbered 845-11-75 in IEC 60050-845:1987.
     type: intensional
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-071
-id: 31c5a191-8718-51f3-bc3f-60f6c5f5b0ba
+id: f1225e90-88af-5d4e-9092-5163fba7f1b9

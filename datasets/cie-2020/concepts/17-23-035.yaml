@@ -16,11 +16,10 @@ id: c017b0e2-2b07-5bce-9e6f-5b6577103fa2
 ---
 data:
   definition:
-  - content: empirical law stating that if two {{17-23-002, colour stimulus}}, A and
-      B, are perceived to be of equal {{17-22-059, brightness}} and two other {{17-23-002,
-      colour stimulus}}, C and D, are perceived to be of equal {{17-22-059, brightness}},
-      then the {{17-23-030, additive mixture}}s of A with C and B with D will also
-      be perceived to be of equal {{17-22-059, brightness}}
+  - content: empirical law stating that if two colour stimuli, A and B, are perceived
+      to be of equal brightness and two other colour stimuli, C and D, are perceived
+      to be of equal brightness, then the additive mixtures of A with C and B with
+      D will also be perceived to be of equal brightness
     type: intensional
   examples: []
   notes:
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-035
-id: af301d34-c897-5649-bbad-44a01566e389
+id: f879b4f1-d030-5a2e-95f6-ef824a304f40

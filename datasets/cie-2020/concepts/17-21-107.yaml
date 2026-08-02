@@ -16,9 +16,9 @@ id: a20e4c3b-2146-5513-83ab-1705a586cbff
 ---
 data:
   definition:
-  - content: quantum of {{17-21-001, electromagnetic radiation}} considered as a particle
-      of energy <i>hν</i>, where <i>h</i> is the {{17-21-108, Planck constant}} and
-      <i>ν</i> the frequency of the radiation
+  - content: quantum of electromagnetic radiation considered as a particle of energy
+      stem:[hnu], where stem:[h] is the Planck constant and stem:[nu] the <<103-06-02,
+      frequency>> of the radiation
     type: intensional
   examples: []
   notes:
@@ -43,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-107
-id: 8afed37f-84cd-5b77-bddf-4d7d2c77b312
+id: 1bf071c1-e81a-5692-82e5-d7df255a2002

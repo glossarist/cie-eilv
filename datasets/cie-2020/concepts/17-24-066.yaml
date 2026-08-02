@@ -21,9 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: "{{17-24-064, reflectance}}, <i>ρ</i>, is the sum of regular reflectance,
-      <i>ρ</i><sub>r</sub>, and {{17-24-068, diffuse reflectance}}, <i>ρ</i><sub>d</sub>:<sub>
-      </sub><i>ρ</i> = <i>ρ</i><sub>r</sub> + <i>ρ</i><sub>d</sub>."
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r],
+      and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The regular reflectance has unit one.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-066
-id: 60167ce4-b22b-5fb2-a0ba-c575eefe0c3a
+id: 98e0cfc6-a454-5ba1-b9cd-3368bea8fea0

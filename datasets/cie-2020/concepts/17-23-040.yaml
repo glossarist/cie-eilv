@@ -16,22 +16,24 @@ id: 1da3b63c-881f-50b0-b5a5-d7db16582320
 ---
 data:
   definition:
-  - content: algebraic or vector representation of the match of two {{17-23-002, colour
-      stimulus}}, of which, for instance, one can be an {{17-23-030, additive mixture}}
-      of three {{17-23-037, reference colour stimuli}}
+  - content: |-
+      algebraic or vector representation of the match of two colour stimuli, of which, for instance, one can be an additive mixture of three reference colour stimuli
+
+
+
+      In this equation, the sign "≡" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus stem:[R]&amp;lsqb;R&amp;rsqb; means stem:[R] units of stimulus &amp;lsqb;R&amp;rsqb;, and the sign "+" means an additive mixture of colour stimuli. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.
     type: intensional
   examples: []
   notes:
-  - content: |-
-      [C] ≡ <i>X</i>[X] + <i>Y</i>[Y] + <i>Z</i>[Z]
-      In this equation, the sign "≡" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus <i>R</i>[R] means <i>R</i> units of stimulus [R], and the sign "+" means an {{17-23-030, additive mixture}} of {{17-23-002, colour stimulus}}. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.
-    type: intensional
-  - content: 'The reference stimuli are represented as [R], [G] and [B] in which case
-      the sign "≡", read as "matches", should be used. As an alternative, the colour
-      equation can be written using boldface Roman letters when the equal sign "=",
-      read as "equals" should be used: C = <i>X</i>X + <i>Y</i>Y + <i>Z</i>Z.'
+  - content: 'The reference stimuli are represented as &amp;lsqb;R&amp;rsqb;, &amp;lsqb;G&amp;rsqb;
+      and &amp;lsqb;B&amp;rsqb; in which case the sign "≡", read as "matches" should
+      be used. As an alternative, the colour equation can be written using boldface
+      Roman letters when the equal sign "&amp;equals;", read as "equals" should be
+      used: *C* = stem:[X]*X* + stem:[Y]*Y* + stem:[Z]*Z*'
     type: intensional
   - content: This entry was numbered 845-03-24 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-03-24, 845-03-24>> in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-209 in CIE S 017:2011.
     type: intensional
@@ -57,4 +59,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-040
-id: 1dadd60d-7a94-56db-a610-4d831748dd5d
+id: cc6c5d8c-8991-5831-a420-0c6fb281f5df

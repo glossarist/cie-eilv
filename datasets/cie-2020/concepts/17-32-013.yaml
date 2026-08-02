@@ -16,22 +16,21 @@ id: e7877f40-f141-526a-b61a-2ab30abb4f33
 ---
 data:
   definition:
-  - content: digital encoding of {{17-23-001, colour}} values, together with any information
-      necessary to interpret properly the {{17-23-001, colour}} values such as the
-      {{17-32-050, image state}}, the intended image viewing environment and the {{17-32-062,
-      reference medium}}
+  - content: digital encoding of colour values, together with any information necessary
+      to interpret properly the colour values such as the image state, the intended
+      image viewing environment and the reference medium
     type: intensional
   examples: []
   notes:
   - content: In some cases the intended image viewing environment will be explicitly
       defined for the colour image encoding. In other cases, the intended image viewing
-      environment, i.e. details of the {{17-32-050, image state}}, can be specified
-      on an image-by-image basis using metadata associated with the digital image.
+      environment, i.e. details of the image state, can be specified on an image-by-image
+      basis using metadata associated with the digital image.
     type: intensional
-  - content: Some colour image encodings will indicate particular {{17-32-062, reference
-      medium}} characteristics, such as a reflection print with a specified density
-      range. In other cases the {{17-32-062, reference medium}} will be not applicable,
-      such as with a scene-referred encoding, or will be specified using image metadata.
+  - content: Some colour image encodings will indicate particular reference medium
+      characteristics, such as a reflection print with a specified density range.
+      In other cases the reference medium will be not applicable, such as with a scene-referred
+      encoding, or will be specified using image metadata.
     type: intensional
   - content: Colour image encodings are not limited to pictorial digital images that
       originate from an original scene, but are also applicable to digital images
@@ -57,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-013
-id: 26fd90d1-e100-593e-8c5e-99677fbd9b2d
+id: b519febc-27cb-527f-ac95-d44c0c078937

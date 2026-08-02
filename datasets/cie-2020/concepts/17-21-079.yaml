@@ -16,13 +16,15 @@ id: 84ab85b3-b8f0-57ed-8722-c6c73b8b5d8f
 ---
 data:
   definition:
-  - content: time integral of the {{17-21-069, photon cylindrical irradiance}}, <i>E</i><sub>p,c</sub>,
-      at a given point for a given direction, over a given duration, Δ<i>t</i>
+  - content: |-
+      time integral of the photon cylindrical irradiance, stem:[E_(p,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+
+      stem:[H_((p,c)) = underset((Delta t))( int ) E_(p,c) d t]
     type: intensional
   examples: []
   notes:
   - content: The photon cylindrical exposure is expressed in metre to the power minus
-      two (m<sup>−2</sup>).
+      two (m^−2^).
     type: intensional
   - content: This entry was numbered 17-920 in CIE S 017:2011.
     type: intensional
@@ -46,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-079
-id: d5154541-e9ca-52e2-a786-cd77bae5b9e5
+id: a63963ef-4ff1-5040-8126-c3afdf0cba0d

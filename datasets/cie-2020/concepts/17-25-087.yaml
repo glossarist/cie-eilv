@@ -16,13 +16,12 @@ id: b501a832-a791-5033-aa39-e30977927aac
 ---
 data:
   definition:
-  - content: total angle within which the {{17-21-060, illuminance}} on a plane normal
-      to the axis of a beam exceeds 10 % of the maximum {{17-21-060, illuminance}}
+  - content: total angle within which the illuminance on a plane normal to the axis
+      of a beam exceeds 10 % of the maximum illuminance
     type: intensional
   examples: []
   notes:
-  - content: Sometimes the beam spread is calculated at 50 % of the maximum {{17-21-060,
-      illuminance}}.
+  - content: Sometimes the beam spread is calculated at 50 % of the maximum illuminance.
     type: intensional
   - content: This entry was numbered 17-85 in CIE S 017:2011.
     type: intensional
@@ -43,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-087
-id: 402ca40d-67f9-50f1-bc8e-ad560a80fb95
+id: 8019dec9-b75a-514b-9435-e5989891eb6f

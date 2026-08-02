@@ -16,16 +16,15 @@ id: 0df9b435-2671-5a01-9321-dfcfd3e4bd2d
 ---
 data:
   definition:
-  - content: amounts of the {{17-23-037, reference colour stimuli}}, in a given {{17-23-036,
-      trichromatic system}}, required to match the {{17-23-001, colour}} of the stimulus
-      considered
+  - content: amounts of the reference colour stimuli, in a given trichromatic system,
+      required to match the colour of the stimulus considered
     type: intensional
   examples: []
   notes:
   - content: In the CIE standard colorimetric systems, the tristimulus values are
-      represented, for example, by the symbols <i>R</i>, <i>G</i>, <i>B</i>; <i>X</i>,
-      <i>Y</i>, <i>Z</i>; <i>R</i><sub>10</sub>, <i>G</i><sub>10</sub>, <i>B</i><sub>10</sub>
-      or <i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>.
+      represented, for example, by the symbols stem:[R], stem:[G], stem:[B]; stem:[X],
+      stem:[Y], stem:[Z]; stem:[R_(10)], stem:[G_(10)], stem:[B_(10)] or stem:[X_(10)],
+      stem:[Y_(10)], stem:[Z_(10)].
     type: intensional
   - content: This entry was numbered 845-03-22 in IEC 60050-845:1987.
     type: intensional
@@ -63,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-038
-id: 546488a4-2768-5684-b54e-0be657cebba0
+id: 2eccb32a-4ef0-5b58-904a-9047003a771f

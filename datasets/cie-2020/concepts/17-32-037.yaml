@@ -17,18 +17,18 @@ id: 16816e74-6881-546e-ae34-0fb74c835963
 data:
   definition:
   - content: display technology that modulates the light from a backlight to make
-      a grey scale image and uses red, green, and blue {{17-24-114, colour filter}}s
-      to make a colour image
+      a grey scale image and uses red, green, and blue colour filters to make a colour
+      image
     type: intensional
   examples: []
   notes:
   - content: The modulator consists of a liquid crystal layer that can change the
-      polarization of the light and two (in most cases crossed) {{17-24-014, polarizer}}s
-      that block the light from the backlight in the off state.
+      polarization of the light and two (in most cases crossed) polarizers that block
+      the light from the backlight in the off state.
     type: intensional
   - content: This entry was numbered 845-04-99 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-685 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-037
-id: d3e8ff2d-b6e3-5f06-a1b8-bbcd96b041fb
+id: 121f54eb-ee84-5bd5-b591-609649ca624b

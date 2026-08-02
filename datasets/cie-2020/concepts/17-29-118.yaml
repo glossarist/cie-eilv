@@ -16,11 +16,15 @@ id: a3c302ef-550c-522d-b12a-38dfb8cfaad4
 ---
 data:
   definition:
-  - content: duration within a given <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> during which the Sun is above an even, unobscured horizon
+  - content: duration within a given time interval during which the Sun is above an
+      even, unobscured horizon
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-09-94 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-58 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-118
-id: f0dbcdc8-9ed6-59d4-901c-ec6877ce1c05
+id: f8963a31-88a3-5e65-890f-45644610a16b

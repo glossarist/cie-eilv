@@ -16,11 +16,10 @@ id: 3848aec9-0bd1-5acf-853d-0a8ca0a6ae56
 ---
 data:
   definition:
-  - content: quotient of the {{17-29-047, downward flux}} of a {{17-30-001, luminaire}},
-      measured under specified practical conditions with its own lamps and equipment,
-      and the sum of the individual {{17-21-039, luminous flux}}es of the same lamps
-      when operated outside the {{17-30-001, luminaire}} with the same equipment,
-      under specified conditions
+  - content: quotient of the downward flux of a luminaire, measured under specified
+      practical conditions with its own lamps and equipment, and the sum of the individual
+      luminous fluxes of the same lamps when operated outside the luminaire with the
+      same equipment, under specified conditions
     type: intensional
   examples: []
   notes:
@@ -28,7 +27,7 @@ data:
     type: intensional
   - content: This entry was numbered 845-09-40 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-352 and 17-344 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-053
-id: 18407495-7dac-5c23-b290-d23c6deec40e
+id: e0a3a4fa-ba34-507f-a9f9-8fcc2f1bfa7f
