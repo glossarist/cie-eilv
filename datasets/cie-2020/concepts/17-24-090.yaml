@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-090
   type: authoritative
+- id: 845-04-83
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-83
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-83
+  type: authoritative
 status: valid
 id: d693a77a-f4c5-57ee-bdb9-7a3d0b9ee232
 ---
@@ -25,7 +32,7 @@ data:
   notes:
   - content: The spectral absorbance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-83 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-83, 845-04-83}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1207 and 17-1216 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-1207 and 17-1216
     type: authoritative
+  - id: 845-04-83
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-83
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-83
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-090
-id: 31718479-2981-5b16-8e95-6a739e10f3dc
+id: 7ee7c200-6c7e-5c06-b446-e4fd528527a8

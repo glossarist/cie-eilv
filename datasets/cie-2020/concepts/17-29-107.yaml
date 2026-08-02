@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-107
   type: authoritative
+- id: 845-09-87
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-87
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-87
+  type: authoritative
 status: valid
 id: e655ad83-8d54-5ae7-8f6b-d32a154aa939
 ---
@@ -33,7 +40,7 @@ data:
     type: intensional
   - content: The total turbidity factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-87 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-87, 845-09-87}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1324 in CIE S 017:2011.
     type: intensional
@@ -52,6 +59,13 @@ data:
         source: CIE S 017:2011
         id: 17-1324
     type: authoritative
+  - id: 845-09-87
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-87
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-87
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-107
-id: a386546f-9e24-5e90-b2bc-be06c3173d0e
+id: b914015a-d8ad-5c51-87fc-6de38d2fb2fe

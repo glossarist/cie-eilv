@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-050
   type: authoritative
+- id: 845-02-27
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-27
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-27
+  type: authoritative
 status: valid
 id: 74410032-6e1f-5365-bd4c-928111240ab3
 ---
@@ -24,7 +31,7 @@ data:
       contradistinction to white, grey or black. The adjective "coloured" usually
       refers to chromatic colour.
     type: intensional
-  - content: This entry was numbered 845-02-27 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-27, 845-02-27}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-141 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-141
     type: authoritative
+  - id: 845-02-27
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-27
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-27
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-050
-id: 8822eea7-f418-5ed1-9235-71c29efc49e9
+id: e9c4655f-0b27-568e-93ca-bfac973e964c

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-039
   type: authoritative
+- id: 845-02-17
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-17
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-17
+  type: authoritative
 status: valid
 id: 29ba2d66-6691-5959-8f65-221d7f539e3c
 ---
@@ -24,7 +31,7 @@ data:
   - content: Light is normally, but not always, perceived as a result of the action
       of a light stimulus on the visual system.
     type: intensional
-  - content: This entry was numbered 845-02-17 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-17, 845-02-17}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-659 (1.) in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
       ref:
         source: CIE S 017:2011
         id: 17-659 (1.)
+    type: authoritative
+  - id: 845-02-17
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-17
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-17
     type: authoritative
   terms:
   - type: expression
@@ -61,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-039
-id: 8555aba9-aed5-5e55-95dc-d4091ddd64c9
+id: d1c2bf93-0006-5b11-be28-1707cf0bc5d4

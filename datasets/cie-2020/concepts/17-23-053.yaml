@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-053
   type: authoritative
+- id: 845-03-33
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-33
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-33
+  type: authoritative
 status: valid
 id: 0b6caf59-e5ad-5613-9e1f-4060228ce7cb
 ---
@@ -30,7 +37,7 @@ data:
     type: intensional
   - content: The chromaticity coordinates have unit one.
     type: intensional
-  - content: This entry was numbered 845-03-33 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-33, 845-03-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-145 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-145
     type: authoritative
+  - id: 845-03-33
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-33
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-33
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -65,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-053
-id: 4b33c372-355c-50d9-a11f-dc4d4ce75689
+id: ddc799cb-2699-5403-b006-3318251b43c8

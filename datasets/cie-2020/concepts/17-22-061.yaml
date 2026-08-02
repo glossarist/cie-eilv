@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-061
   type: authoritative
+- id: 845-02-29
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-29
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-29
+  type: authoritative
 status: valid
 id: c2953849-e424-5dc4-8506-5222aa71beb8
 ---
@@ -25,7 +32,7 @@ data:
       as "bright" or "dim", whereas surface colours are described as "light" or "dark".
       However, this distinction is not universal.'
     type: intensional
-  - content: This entry was numbered 845-02-29 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-29, 845-02-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-110 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-110
     type: authoritative
+  - id: 845-02-29
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-29
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-29
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-061
-id: 8638616f-887c-52e7-a785-bb84b54bdb77
+id: 5880956c-84ad-57b4-a9b6-52e0dec560ce

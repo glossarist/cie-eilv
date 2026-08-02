@@ -11,16 +11,30 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-083
   type: authoritative
+- id: 112-02-10
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 112-02-10
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=112-02-10
+  type: authoritative
+- id: 845-01-50
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-50
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-50
+  type: authoritative
 status: valid
 id: 786dcb5b-bf28-50a1-b39b-5eab4a425760
 ---
 data:
   definition:
-  - content: See <<112-02-10, IEV 112-02-10>>
+  - content: See {{cite:112-02-10, IEV 112-02-10}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 845-01-50 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-50, 845-01-50}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-117 in CIE S 017:2011.
     type: intensional
@@ -39,6 +53,20 @@ data:
         source: CIE S 017:2011
         id: 17-117
     type: authoritative
+  - id: 112-02-10
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 112-02-10
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=112-02-10
+    type: authoritative
+  - id: 845-01-50
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-50
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-50
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-083
-id: '09c60516-6e05-5f74-b6dd-3631e5da292f'
+id: 2cdd70b9-334c-586a-b321-dca351a3e68e

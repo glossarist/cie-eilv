@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-003
   type: authoritative
+- id: 845-10-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-02
+  type: authoritative
 status: valid
 id: 7bf60d4e-fba5-5d02-b6a6-2b2c42526a2c
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: The symmetry can refer to an axis or to a plane.
     type: intensional
-  - content: This entry was numbered 845-10-02 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-02, 845-10-02}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1294 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-1294
     type: authoritative
+  - id: 845-10-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-003
-id: 28ca7147-5de5-577a-8102-91996246206f
+id: 52238f9c-5147-5d1b-8a84-c93266b2bd56

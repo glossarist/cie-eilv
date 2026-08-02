@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-122
   type: authoritative
+- id: 845-09-98
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-98
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-98
+  type: authoritative
 status: valid
 id: 344472a8-6912-55d3-bb5d-acef997b9d67
 ---
@@ -29,7 +36,7 @@ data:
     type: intensional
   - content: The sky component of daylight factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-98 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-98, 845-09-98}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1189 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-1189
     type: authoritative
+  - id: 845-09-98
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-98
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-98
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-122
-id: 1aa42eb4-8338-5ecd-958a-32c2bb54559b
+id: 2230de06-0773-5d60-baaa-70a7038024ca

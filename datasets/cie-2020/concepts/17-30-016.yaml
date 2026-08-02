@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-016
   type: authoritative
+- id: 845-10-11
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-11
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-11
+  type: authoritative
 status: valid
 id: 3a5568d3-0efa-54e7-aea5-b5bfeacc7e60
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: An example of the adjustment means is a suspension with pulleys, or counterweights.
     type: intensional
-  - content: This entry was numbered 845-10-11 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-11, 845-10-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1111 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-1111
     type: authoritative
+  - id: 845-10-11
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-11
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-11
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-016
-id: b43cfc2e-5764-5a1a-a99d-fde43c54fb20
+id: 48391b4e-ff2b-5b29-85f0-325eee9a206a

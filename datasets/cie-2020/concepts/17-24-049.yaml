@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-049
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-04-44
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-44
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-44
+  type: authoritative
 status: valid
 id: 4bdb655d-aef2-5ea4-a9d9-1036bc17f8be
 ---
@@ -18,7 +32,7 @@ data:
   definition:
   - content: process by which the spatial distribution of a beam of radiation is changed
       when it is deviated in many directions by a surface or by a medium, without
-      change in <<103-06-02, frequency>> of its monochromatic components
+      change in {{cite:103-06-02, frequency}} of its monochromatic components
     type: intensional
   examples: []
   notes:
@@ -29,7 +43,7 @@ data:
   - content: The frequency is unchanged only if there is no Doppler effect due to
       the motion of the materials from which the radiation is returned.
     type: intensional
-  - content: This entry was numbered 845-04-44 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-44, 845-04-44}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1139 and 17-311 in CIE S 017:2011.
     type: intensional
@@ -48,6 +62,20 @@ data:
         source: CIE S 017:2011
         id: 17-1139 and 17-311
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-04-44
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-44
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-44
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-049
-id: 33f21d41-eab1-5f64-9ab3-a254fe40d1c2
+id: 51148613-3e07-56ae-8699-e914a47544cd

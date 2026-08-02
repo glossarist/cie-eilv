@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-121
   type: authoritative
+- id: 845-09-97
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-97
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-97
+  type: authoritative
 status: valid
 id: 53c6b931-f792-5cc4-b99d-9a66c54f3963
 ---
@@ -31,7 +38,7 @@ data:
     type: intensional
   - content: The daylight factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-97 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-97, 845-09-97}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-279 in CIE S 017:2011.
     type: intensional
@@ -50,6 +57,13 @@ data:
         source: CIE S 017:2011
         id: 17-279
     type: authoritative
+  - id: 845-09-97
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-97
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-97
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -60,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-121
-id: 11bcabd7-8659-54cf-add0-6896ceeac2e5
+id: e14ed902-efd7-58de-a476-f8b9f5853d17

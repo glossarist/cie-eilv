@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-061
   type: authoritative
+- id: 845-09-48
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-48
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-48
+  type: authoritative
 status: valid
 id: a1b03ba1-0549-55d4-8ff0-1d84a2d98e84
 ---
@@ -24,7 +31,7 @@ data:
   - content: The installation flux density is expressed in lumen per square metre
       (lm·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-09-48 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-48, 845-09-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-586 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-586
     type: authoritative
+  - id: 845-09-48
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-48
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-48
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-061
-id: 19d6091e-f957-5f9e-913a-30431c0ac4bf
+id: c605c31d-2da3-5573-a07e-b2bc7e785f0d

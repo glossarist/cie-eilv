@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-003
   type: authoritative
+- id: 845-03-03
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-03
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-03
+  type: authoritative
 status: valid
 id: 8bbd7f70-3098-5355-8b99-5827ef7bee0f
 ---
@@ -29,7 +36,7 @@ data:
       or the spectral radiance factor, stem:[beta](stem:[lambda]), or the spectral
       transmittance, stem:[tau](stem:[lambda]), depending on the application.
     type: intensional
-  - content: This entry was numbered 845-03-03 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-03, 845-03-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-230 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-230
     type: authoritative
+  - id: 845-03-03
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-03
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-03
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-003
-id: 4fac6fe7-4b84-5f23-b668-919ce8295882
+id: 93ccc43d-1714-50f5-b4d8-5c50e0092111

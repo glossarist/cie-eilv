@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-029
   type: authoritative
+- id: 845-06-16
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-16
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-16
+  type: authoritative
 status: valid
 id: b12df2a2-78d6-57b6-b026-0a0d746336a1
 ---
@@ -26,7 +33,7 @@ data:
   - content: See also "{{17-26-065, erythema spectral weighting function}}", "{{17-26-069,
       standard erythema dose}}".
     type: intensional
-  - content: This entry was numbered 845-06-16 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-16, 845-06-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-405 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-405
     type: authoritative
+  - id: 845-06-16
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-16
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-16
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-029
-id: 9224d9cd-47d4-5363-b50c-205b0e40275f
+id: ab62d251-0435-5541-b3d5-476bc08c04df

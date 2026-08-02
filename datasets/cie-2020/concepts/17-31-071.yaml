@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-071
   type: authoritative
+- id: 845-11-75
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-75
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-75
+  type: authoritative
 status: valid
 id: 16c7f395-d5ca-5d65-9925-01942307b1bb
 ---
@@ -24,7 +31,7 @@ data:
   - content: A front position light or rear position light can sometimes be used as
       a front parking light or rear parking light respectively.
     type: intensional
-  - content: This entry was numbered 845-11-75 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-75, 845-11-75}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-862 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-862
     type: authoritative
+  - id: 845-11-75
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-75
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-75
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-071
-id: f1225e90-88af-5d4e-9092-5163fba7f1b9
+id: be85107e-7260-5dcb-8b43-8927147800d3

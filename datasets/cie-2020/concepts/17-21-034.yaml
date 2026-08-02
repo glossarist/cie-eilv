@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-034
   type: authoritative
+- id: 845-01-20
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-20
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-20
+  type: authoritative
 status: valid
 id: 9c218740-091c-592a-a4da-07042b037966
 ---
@@ -24,7 +31,7 @@ data:
       of a sphere, cuts off an area of the surface of the sphere equal to the square
       of the radius of the sphere.
     type: intensional
-  - content: This entry was numbered 845-01-20 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-20, 845-01-20}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1266 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1266
     type: authoritative
+  - id: 845-01-20
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-20
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-20
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-034
-id: d9f01752-413c-530f-82dc-ea295723edf9
+id: 10e783d8-429d-566b-b9dd-6be503b1c403

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-047
   type: authoritative
+- id: 845-03-30
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-30
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-30
+  type: authoritative
 status: valid
 id: 94f3aa63-ab65-5db0-a1f1-53565ab6ae58
 ---
@@ -32,7 +39,7 @@ data:
   - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
       Observers_.'
     type: intensional
-  - content: This entry was numbered 845-03-30 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-30, 845-03-30}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-163 in CIE S 017:2011.
     type: intensional
@@ -51,6 +58,13 @@ data:
         source: CIE S 017:2011
         id: 17-163
     type: authoritative
+  - id: 845-03-30
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-30
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-30
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-047
-id: fe988cf7-c165-502e-8304-c872b982b587
+id: 2e8cbf41-ba23-5db8-a0b7-899f7e41533b

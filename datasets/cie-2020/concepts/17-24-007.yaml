@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-007
   type: authoritative
+- id: 113-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+  type: authoritative
+- id: 845-04-07
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-07
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-07
+  type: authoritative
 status: valid
 id: 588b34aa-e230-57fb-afc3-431da8bbfa4e
 ---
@@ -27,12 +41,12 @@ data:
   notes:
   - content: The Stefan-Boltzmann constant can be calculated by stem:[sigma = ((2
       pi^5 k^4))/((15 h^3 c_0^2))] where stem:[h] is the Planck constant, stem:[c_0]
-      is the <<113-01-34, speed of light in vacuum>>, and stem:[k] is the Boltzmann
+      is the {{cite:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann
       constant.
     type: intensional
   - content: For the value of the Stefan-Boltzmann constant, stem:[sigma,] see CODATA.
     type: intensional
-  - content: This entry was numbered 845-04-07 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-07, 845-04-07}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1265 in CIE S 017:2011.
     type: intensional
@@ -51,6 +65,20 @@ data:
         source: CIE S 017:2011
         id: 17-1265
     type: authoritative
+  - id: 113-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+    type: authoritative
+  - id: 845-04-07
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-07
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-07
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-007
-id: 98f9019f-d925-5e1e-8815-8738e2d8cce1
+id: cb907fb4-ee34-5484-b619-8874cac85ea7

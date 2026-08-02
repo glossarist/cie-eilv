@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-051
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
 status: valid
 id: 42969c7f-a473-5641-b407-6b29d118f155
 ---
@@ -18,7 +25,7 @@ data:
   definition:
   - content: mains or battery-supplied AC/DC to AC invertor including stabilizing
       elements for starting and operating at least one fluorescent lamp, generally
-      at high <<103-06-02, frequency>> for emergency lighting
+      at high {{cite:103-06-02, frequency}} for emergency lighting
     type: intensional
   examples: []
   notes: []
@@ -26,6 +33,13 @@ data:
   - origin:
       ref:
         source: CIE S 017:2020
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   terms:
   - type: expression
@@ -35,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-051
-id: a99c44c9-32d9-59e5-ae30-76b54d04d452
+id: 91c7e55c-10c5-51d3-b44e-d4887be3e159

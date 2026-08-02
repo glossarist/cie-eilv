@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-017
   type: authoritative
+- id: 845-07-10
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-10
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-10
+  type: authoritative
 status: valid
 id: 8a412ef5-192f-53b7-9ebb-799cb26c03d6
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: Iodine lamps belong to this category.
     type: intensional
-  - content: This entry was numbered 845-07-10 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-10, 845-07-10}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1353 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1353
     type: authoritative
+  - id: 845-07-10
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-10
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-10
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-017
-id: d76d2f3e-ed6e-5b99-b8e1-1d6bf40598c0
+id: 87874c1f-14fa-5b67-8c1a-01782e8c62eb

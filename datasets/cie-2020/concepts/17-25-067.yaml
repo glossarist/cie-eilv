@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-067
   type: authoritative
+- id: 845-05-60
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-60
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-60
+  type: authoritative
 status: valid
 id: 8e74c963-567b-5c57-b72b-ad8fb806757b
 ---
@@ -27,7 +34,7 @@ data:
     type: intensional
   - content: The rise time is expressed in seconds (s).
     type: intensional
-  - content: This entry was numbered 845-05-60 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-60, 845-05-60}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1112 in CIE S 017:2011.
     type: intensional
@@ -46,6 +53,13 @@ data:
         source: CIE S 017:2011
         id: 17-1112
     type: authoritative
+  - id: 845-05-60
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-60
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-60
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-067
-id: 31a2ded5-c11f-5ca0-bacf-202e1449642d
+id: '0352187c-b07c-5808-ada7-ba286e5899dd'

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-038
   type: authoritative
+- id: 845-10-33
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-33
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-33
+  type: authoritative
 status: valid
 id: 0f95987f-4b13-5313-afd8-f140f80e38e8
 ---
@@ -24,7 +31,7 @@ data:
   - content: Besides reflection, a reflector can also have a slight diffusion and
       absorption effect.
     type: intensional
-  - content: This entry was numbered 845-10-33 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-33, 845-10-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1069 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1069
     type: authoritative
+  - id: 845-10-33
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-33
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-33
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-038
-id: b967b8a4-d8f1-574f-82fc-23b5b7b5a65f
+id: 274c6707-1e75-555f-b903-4d8d7b21fa10

@@ -11,13 +11,21 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-149
   type: authoritative
+- id: 113-01-08
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-08
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
+  type: authoritative
 status: valid
 id: a486356f-905e-59f4-8c14-4f95b96d9ada
 ---
 data:
   definition:
   - content: fraction of the total number of lamps which continue to operate at a
-      given <<113-01-08, instant>> under defined conditions and the switching frequency
+      given {{cite:113-01-08, instant}} under defined conditions and the switching
+      frequency
     type: intensional
   examples: []
   notes:
@@ -35,6 +43,13 @@ data:
         source: CIE S 017:2011
         id: 17-637 and 17-703
     type: authoritative
+  - id: 113-01-08
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-08
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-149
-id: f0c55087-a1ca-588d-aca1-b2e67eb479c5
+id: 3f76c658-67c8-575f-8b53-ba899b9f9c21

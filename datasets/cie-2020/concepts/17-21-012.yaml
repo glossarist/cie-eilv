@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-012
   type: authoritative
+- id: 845-01-06
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-06
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-06
+  type: authoritative
 status: valid
 id: a332bdb6-66c9-5128-87ed-f74f79be66d1
 ---
@@ -24,7 +31,7 @@ data:
   - content: The term "light" is sometimes used for {{17-21-002, optical radiation}}
       extending outside the visible range, but this usage is not recommended.
     type: intensional
-  - content: This entry was numbered 845-01-06 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-06, 845-01-06}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-659 (2.) in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-659 (2.)
     type: authoritative
+  - id: 845-01-06
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-06
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-06
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-012
-id: eeb5ba0f-b82a-5104-ab27-6ce836f52331
+id: dc4ea129-4a51-5202-b119-16df9b1bb39f

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-047
   type: authoritative
+- id: 845-09-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-34
+  type: authoritative
 status: valid
 id: 22979d94-add4-5e63-a5c0-4a3fb59c930a
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The downward flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered 845-09-34 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-34, 845-09-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-350 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-350
     type: authoritative
+  - id: 845-09-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-34
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-047
-id: 10abb710-8784-542c-a5e0-955fba4b708d
+id: bc5184b2-f94a-5e98-ac59-39b344df43d8

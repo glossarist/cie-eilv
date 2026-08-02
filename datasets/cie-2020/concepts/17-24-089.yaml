@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-089
   type: authoritative
+- id: 845-04-82
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-82
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-82
+  type: authoritative
 status: valid
 id: a3f01ff3-e57c-5a86-acb5-ab6bedd8ce6a
 ---
@@ -28,7 +35,7 @@ data:
     type: intensional
   - content: The spectral internal absorptance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-82 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-82, 845-04-82}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1214 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1214
     type: authoritative
+  - id: 845-04-82
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-82
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-82
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-089
-id: 4879b477-c3f5-5a52-b197-e64d70e03f5d
+id: fa2d7778-c60b-5ebb-89ed-966b6c1ae06e

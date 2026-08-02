@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-075
   type: authoritative
+- id: 845-04-68
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-68
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-68
+  type: authoritative
 status: valid
 id: f3e23620-88b0-5333-a813-d9088f7fad8b
 ---
@@ -42,7 +49,7 @@ data:
     type: intensional
   - content: The radiance factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-68 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-68, 845-04-68}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1015 in CIE S 017:2011.
     type: intensional
@@ -61,6 +68,13 @@ data:
         source: CIE S 017:2011
         id: 17-1015
     type: authoritative
+  - id: 845-04-68
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-68
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-68
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -71,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-075
-id: 8f393f08-2ae6-5372-b23b-ca4ede12e740
+id: e7443ca5-e38a-587d-a2e2-eafc40e97dc9

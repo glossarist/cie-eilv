@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-038
   type: authoritative
+- id: 845-11-40
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-40
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-40
+  type: authoritative
 status: valid
 id: 2758bb1c-ed18-5cef-adf2-bd6a466e5bff
 ---
@@ -23,7 +30,7 @@ data:
   - content: A preferred-channel mark is a lateral mark that is used to indicate a
       preferred course at a point where a choice of courses exists.
     type: intensional
-  - content: This entry was numbered 845-11-40 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-40, 845-11-40}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-644 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-644
     type: authoritative
+  - id: 845-11-40
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-40
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-40
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-038
-id: 5a0553f2-9fae-5501-8cf8-26fb6fc45da4
+id: 9bccc52c-3419-5439-9d78-3eb73847f76e

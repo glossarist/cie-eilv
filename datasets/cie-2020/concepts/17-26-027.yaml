@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-027
   type: authoritative
+- id: 845-06-14
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-14
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-14
+  type: authoritative
 status: valid
 id: fa6690d5-27ea-5715-9633-4a3bd3f1367f
 ---
@@ -27,7 +34,7 @@ data:
       1 at the wavelength of "maximum action", i.e. where the smallest dose suffices
       to induce the required effect.
     type: intensional
-  - content: This entry was numbered 845-06-14 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-14, 845-06-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-17 and 17-1232 in CIE S 017:2011.
     type: intensional
@@ -46,6 +53,13 @@ data:
         source: CIE S 017:2011
         id: 17-17 and 17-1232
     type: authoritative
+  - id: 845-06-14
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-14
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-14
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-027
-id: 24b4c729-46ff-5983-88e0-d2b29e7783fd
+id: d32166e8-3ae0-5109-9583-95bf2ef6c296

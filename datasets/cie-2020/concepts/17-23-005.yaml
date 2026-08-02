@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-005
   type: authoritative
+- id: 845-03-40
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-40
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-40
+  type: authoritative
 status: valid
 id: d592bfa9-3c22-5b80-9583-37c8781368d5
 ---
@@ -35,7 +42,7 @@ data:
     type: intensional
   - content: See also "{{17-22-042, object colour}}", "{{17-23-002, colour stimulus}}".
     type: intensional
-  - content: This entry was numbered 845-03-40 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-40, 845-03-40}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-851 in CIE S 017:2011.
     type: intensional
@@ -54,6 +61,13 @@ data:
         source: CIE S 017:2011
         id: 17-851
     type: authoritative
+  - id: 845-03-40
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-40
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-40
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -70,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-005
-id: 611b2c6a-6e06-5c11-ab01-71e841e65b8d
+id: 5561ebe3-bc90-5dec-b07a-8209f7861655

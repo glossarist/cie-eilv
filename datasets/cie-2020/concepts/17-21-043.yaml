@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-043
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-29
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-29
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-29
+  type: authoritative
 status: valid
 id: 20639442-3ff1-59af-bea0-3a2febcef0d8
 ---
@@ -21,7 +35,7 @@ data:
 
       stem:[N_p = ((Q_e))/((h nu))]
 
-      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the <<103-06-02, frequency>> of the corresponding electromagnetic wave
+      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the {{cite:103-06-02, frequency}} of the corresponding electromagnetic wave
     type: intensional
   examples: []
   notes:
@@ -32,7 +46,7 @@ data:
     type: intensional
   - content: The photon number has unit one.
     type: intensional
-  - content: This entry was numbered 845-01-29 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-29, 845-01-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-930 and 17-829 in CIE S 017:2011.
     type: intensional
@@ -51,6 +65,20 @@ data:
         source: CIE S 017:2011
         id: 17-930 and 17-829
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-29
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-29
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-29
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,4 +89,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-043
-id: f686dffe-2cb1-5bc0-8a4c-d9498be8b957
+id: 6660b9cf-f53e-582f-959a-899195a85c0e

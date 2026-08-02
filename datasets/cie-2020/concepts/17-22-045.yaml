@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-045
   type: authoritative
+- id: 845-02-22
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-22
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-22
+  type: authoritative
 status: valid
 id: 1739020f-a186-55ed-acab-223c0bcc54a3
 ---
@@ -25,7 +32,7 @@ data:
   - content: Primary light sources seen in their natural surroundings normally exhibit
       the appearance of luminous colours in this sense.
     type: intensional
-  - content: This entry was numbered 845-02-22 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-22, 845-02-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-727 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-727
     type: authoritative
+  - id: 845-02-22
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-22
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-22
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-045
-id: 2b1cfb27-8884-55b4-b53a-2fe09ceabb06
+id: 1b2c22e5-736f-5c46-8719-b28b2ad8d021

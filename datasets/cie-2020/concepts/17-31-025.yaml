@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-025
   type: authoritative
+- id: 845-11-27
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-27
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-27
+  type: authoritative
 status: valid
 id: bd60d3c1-0a84-5652-a309-8e2be4c74179
 ---
@@ -37,7 +44,7 @@ data:
 
       stem:[E_v = ((I_v))/((d^2)) ( 0,05^(d // v) )].
     type: intensional
-  - content: This entry was numbered 845-11-27 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-27, 845-11-27}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-34 in CIE S 017:2011.
     type: intensional
@@ -56,6 +63,13 @@ data:
         source: CIE S 017:2011
         id: 17-34
     type: authoritative
+  - id: 845-11-27
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-27
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-27
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -63,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-025
-id: bf135199-5cb8-540d-bd53-5b8502ad9986
+id: e43bfad7-0d9c-56be-9645-c800b9af7344

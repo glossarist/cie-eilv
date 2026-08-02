@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-028
   type: authoritative
+- id: 845-10-23
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-23
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-23
+  type: authoritative
 status: valid
 id: 1eecc920-aef8-5911-9ef7-9ad8213c0c4e
 ---
@@ -24,7 +31,7 @@ data:
   - content: Examples of the integral electric source are a dry battery, an accumulator,
       and a manual generator.
     type: intensional
-  - content: This entry was numbered 845-10-23 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-23, 845-10-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1320 and 17-442 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1320 and 17-442
     type: authoritative
+  - id: 845-10-23
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-23
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-23
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-028
-id: 043fd57e-b0ee-5c27-8998-edcb8ed6c00e
+id: 808929fc-0fc8-503a-b3f9-e515f499a982

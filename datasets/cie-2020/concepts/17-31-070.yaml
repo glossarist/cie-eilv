@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-070
   type: authoritative
+- id: 845-11-74
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-74
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-74
+  type: authoritative
 status: valid
 id: c5c87ce6-a76c-5632-a1f7-f9001fe3a149
 ---
@@ -24,7 +31,7 @@ data:
   - content: A rear position light can also, particularly if paired with an identical
       light, provide an indication of the width of the vehicle.
     type: intensional
-  - content: This entry was numbered 845-11-74 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-74, 845-11-74}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1040 and 17-1298 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1040 and 17-1298
     type: authoritative
+  - id: 845-11-74
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-74
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-74
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-070
-id: 8856ae8f-a5c5-579d-bc97-bfd7a9919a58
+id: ee62d3ab-db57-5889-8f0d-cedab2b99516

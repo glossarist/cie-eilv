@@ -4,14 +4,14 @@
   "version": "0.1.0",
   "description": "CIE International Lighting Vocabulary (CIE S 017:2020) Glossarist Concept Browser dataset",
   "scripts": {
-    "generate": "npx concept-browser generate",
+    "generate": "npx concept-browser generate && node scripts/install-favicons.mjs",
     "dev": "npm run generate && NODE_PATH=node_modules/@glossarist/concept-browser/node_modules node_modules/@glossarist/concept-browser/node_modules/.bin/vite --config node_modules/@glossarist/concept-browser/vite.config.ts",
-    "build": "npx concept-browser build",
+    "build": "npx concept-browser build && node scripts/install-favicons.mjs",
     "smoke": "node scripts/smoke.mjs",
     "preview": "NODE_PATH=node_modules/@glossarist/concept-browser/node_modules node_modules/@glossarist/concept-browser/node_modules/.bin/vite preview --config node_modules/@glossarist/concept-browser/vite.config.ts"
   },
   "dependencies": {
-    "@glossarist/concept-browser": "0.7.112"
+    "@glossarist/concept-browser": "0.7.115"
   },
   "devDependencies": {
     "playwright": "^1.40.0"

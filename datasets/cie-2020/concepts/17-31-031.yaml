@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-031
   type: authoritative
+- id: 845-11-33
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-33
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-33
+  type: authoritative
 status: valid
 id: af40cbca-5624-52ae-9b3d-e09e0d3dfb4e
 ---
@@ -24,7 +31,7 @@ data:
   - content: A direction light can also indicate an arc of the horizon to each side
       by dissimilar characters.
     type: intensional
-  - content: This entry was numbered 845-11-33 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-33, 845-11-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-326 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-326
     type: authoritative
+  - id: 845-11-33
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-33
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-33
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-031
-id: fd0e693d-cc93-572b-8e4c-a0e77810f28c
+id: 1752c2d1-fe1e-5fec-bfbf-3a45d37e8d37

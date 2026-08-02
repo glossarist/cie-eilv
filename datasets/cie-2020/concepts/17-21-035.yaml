@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-035
   type: authoritative
+- id: 845-01-22
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-22
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-22
+  type: authoritative
 status: valid
 id: c738c988-846c-5314-8308-d22522b2df6e
 ---
@@ -80,7 +87,7 @@ data:
     type: intensional
   - content: The spectral luminous efficiency has unit one.
     type: intensional
-  - content: This entry was numbered 845-01-22 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-22, 845-01-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1222 in CIE S 017:2011.
     type: intensional
@@ -99,6 +106,13 @@ data:
         source: CIE S 017:2011
         id: 17-1222
     type: authoritative
+  - id: 845-01-22
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-22
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-22
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -113,4 +127,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-035
-id: f6b696ce-950d-5d1c-b4d0-90d59a689160
+id: a36cf89a-f85b-5d50-831a-401a37cd95d5

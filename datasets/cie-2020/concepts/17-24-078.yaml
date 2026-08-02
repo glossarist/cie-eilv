@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-078
   type: authoritative
+- id: 845-04-70
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-70
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-70
+  type: authoritative
 status: valid
 id: 5ee8b634-58b0-5ca8-925d-06b1aa9fcdcf
 ---
@@ -32,7 +39,7 @@ data:
   - content: The radiance coefficient is expressed in steradian to the power minus
       one (sr^−1^).
     type: intensional
-  - content: This entry was numbered 845-04-70 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-70, 845-04-70}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1013 in CIE S 017:2011.
     type: intensional
@@ -51,6 +58,13 @@ data:
         source: CIE S 017:2011
         id: 17-1013
     type: authoritative
+  - id: 845-04-70
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-70
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-70
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-078
-id: 20cc7e26-4dec-5b51-9878-98b4a439f7ff
+id: 3889a126-fc34-5817-9715-a81a99d4a263

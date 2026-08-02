@@ -11,14 +11,21 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-150
   type: authoritative
+- id: 113-01-10
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-10
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
+  type: authoritative
 status: valid
 id: 4013f6e3-42d6-56bc-a2aa-e040e90aca8f
 ---
 data:
   definition:
   - content: quotient of the light reflected by the surfaces of a room after a certain
-      <<113-01-10, time interval>> and light reflected when the installation is considered
-      conventionally as new
+      {{cite:113-01-10, time interval}} and light reflected when the installation
+      is considered conventionally as new
     type: intensional
   examples: []
   notes:
@@ -40,6 +47,13 @@ data:
         source: CIE S 017:2011
         id: 17-1122 and 17-1125
     type: authoritative
+  - id: 113-01-10
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-10
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-150
-id: bf9cac86-af36-52de-abab-48de7b821727
+id: 32a5ee72-670a-5b74-9390-d6b487aad1c6

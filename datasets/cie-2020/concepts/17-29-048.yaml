@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-048
   type: authoritative
+- id: 845-09-35
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-35
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-35
+  type: authoritative
 status: valid
 id: a76c793e-9f08-51f9-81ea-de2cf2d70ea4
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The upward flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered 845-09-35 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-35, 845-09-35}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1378 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1378
     type: authoritative
+  - id: 845-09-35
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-35
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-35
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-048
-id: 4b1c1732-ab9e-5192-bd55-83c84791aa28
+id: 8e10f025-c656-5e3f-b90e-d793f69a6780

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-079
   type: authoritative
+- id: 845-09-60
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-60
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-60
+  type: authoritative
 status: valid
 id: cdb213c2-6c33-5b8d-b17e-a561b9746d87
 ---
@@ -24,7 +31,7 @@ data:
   - content: The area can be either the whole area of the working plane in an interior
       or the working areas.
     type: intensional
-  - content: This entry was numbered 845-09-60 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-60, 845-09-60}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1166 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1166
     type: authoritative
+  - id: 845-09-60
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-60
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-60
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-079
-id: 717f7b12-fe8e-5f4f-9790-1db17746da01
+id: 527fcc9e-7456-5987-98cd-55452f452e9e

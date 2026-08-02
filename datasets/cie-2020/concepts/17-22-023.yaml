@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-023
   type: authoritative
+- id: 845-02-13
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-13
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-13
+  type: authoritative
 status: valid
 id: 3abb7d96-da58-5d49-9bcc-1ecbcf1f6fa7
 ---
@@ -30,7 +37,7 @@ data:
 
       – monochromatism.
     type: intensional
-  - content: This entry was numbered 845-02-13 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-13, 845-02-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-287 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-287
     type: authoritative
+  - id: 845-02-13
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-13
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-13
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-023
-id: 55efa321-074e-50bc-af6a-658e5389d64a
+id: db05d630-013f-576a-97d1-dbf6d5c20e55

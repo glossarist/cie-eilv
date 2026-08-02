@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-049
   type: authoritative
+- id: 845-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-34
+  type: authoritative
 status: valid
 id: 590adb18-f116-590e-a3e0-db3ea191fb6e
 ---
@@ -65,7 +72,7 @@ data:
     type: intensional
   - content: The radiance is expressed in watt per square metre per steradian (W·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered 845-01-34 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-34, 845-01-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1012 in CIE S 017:2011.
     type: intensional
@@ -84,6 +91,13 @@ data:
         source: CIE S 017:2011
         id: 17-1012
     type: authoritative
+  - id: 845-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-34
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -94,4 +108,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-049
-id: 13a08ae8-5b38-5c88-adc9-2f24baac9ef2
+id: e027bf51-0e16-5fc8-b988-4f4173e8f456

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-073
   type: authoritative
+- id: 845-03-53
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-53
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-53
+  type: authoritative
 status: valid
 id: 8a9414ad-1210-5e02-a6be-9c0ccd750452
 ---
@@ -33,7 +40,7 @@ data:
       was plotted against stem:[u] in rectangular coordinates. The relationships between
       the two pairs of coordinates are: stem:[u]′ = stem:[u]; stem:[v]′ = 1,5 stem:[v].'
     type: intensional
-  - content: This entry was numbered 845-03-53 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-53, 845-03-53}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-162 and 17-161 in CIE S 017:2011.
     type: intensional
@@ -52,6 +59,13 @@ data:
         source: CIE S 017:2011
         id: 17-162 and 17-161
     type: authoritative
+  - id: 845-03-53
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-53
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-53
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-073
-id: ba813cd2-4ba6-5585-bf2a-b79b2f639eeb
+id: af8626ca-03f9-55cb-9510-537a17e582c1

@@ -11,14 +11,21 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-107
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
 status: valid
 id: a20e4c3b-2146-5513-83ab-1705a586cbff
 ---
 data:
   definition:
   - content: quantum of electromagnetic radiation considered as a particle of energy
-      stem:[hnu], where stem:[h] is the Planck constant and stem:[nu] the <<103-06-02,
-      frequency>> of the radiation
+      stem:[hnu], where stem:[h] is the Planck constant and stem:[nu] the {{cite:103-06-02,
+      frequency}} of the radiation
     type: intensional
   examples: []
   notes:
@@ -36,6 +43,13 @@ data:
         source: CIE S 017:2011
         id: 17-918
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-107
-id: 1bf071c1-e81a-5692-82e5-d7df255a2002
+id: 23bc6b57-3c6d-5a05-9d3b-cc31fd3628c5

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-076
   type: authoritative
+- id: 845-03-56
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-56
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-56
+  type: authoritative
 status: valid
 id: c43708fd-3d0b-52ac-8f20-d868a44c24c8
 ---
@@ -51,7 +58,7 @@ data:
   - content: 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour
       Space_.'
     type: intensional
-  - content: This entry was numbered 845-03-56 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-56, 845-03-56}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-157 and 17-173 in CIE S 017:2011.
     type: intensional
@@ -70,6 +77,13 @@ data:
         source: CIE S 017:2011
         id: 17-157 and 17-173
     type: authoritative
+  - id: 845-03-56
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-56
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-56
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -80,4 +94,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-076
-id: 23f100ab-06ec-5d41-b343-b0fc13c1e9e1
+id: 727fa061-c917-5c50-a48c-2872e3115b35

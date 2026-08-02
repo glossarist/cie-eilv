@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-085
   type: authoritative
+- id: 845-04-78
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-78
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-78
+  type: authoritative
 status: valid
 id: 6c0df16c-5aa0-5093-9956-4c6be00a5ccd
 ---
@@ -26,7 +33,7 @@ data:
   - content: The spectral linear absorption coefficient is expressed in metre to the
       power minus one (m^−1^).
     type: intensional
-  - content: This entry was numbered 845-04-78 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-78, 845-04-78}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1219 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-1219
     type: authoritative
+  - id: 845-04-78
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-78
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-78
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-085
-id: 02ca92f7-5ec0-5f4c-bb3e-37c1b8f86c0b
+id: 329eb84b-3f8c-5c14-ba7e-ef6105b9cfd7

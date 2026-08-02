@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-046
   type: authoritative
+- id: 845-08-36
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-08-36
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-36
+  type: authoritative
 status: valid
 id: a9b91a41-e297-5a22-b4e0-0ab74045f1b3
 ---
@@ -30,7 +37,7 @@ data:
       ratio that is relatively uninfluenced by variations in current, temperature
       and magnetic surroundings.
     type: intensional
-  - content: This entry was numbered 845-08-36 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-08-36, 845-08-36}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1047 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-1047
     type: authoritative
+  - id: 845-08-36
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-08-36
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-36
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-046
-id: 7bf2fcb3-05f2-5d98-95cd-af2ff7837eaf
+id: 23aba23c-aff3-510a-b301-f31188eca280

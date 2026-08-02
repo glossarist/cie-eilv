@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-068
   type: authoritative
+- id: 845-03-50
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-50
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-50
+  type: authoritative
 status: valid
 id: 5922eed0-cf27-5f01-b20c-42c2ec08923a
 ---
@@ -45,7 +52,7 @@ data:
     type: intensional
   - content: The correlated colour temperature is expressed in kelvin (K).
     type: intensional
-  - content: This entry was numbered 845-03-50 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-50, 845-03-50}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -64,6 +71,13 @@ data:
         source: CIE S 017:2011
         id: 17-258 and 17-130
     type: authoritative
+  - id: 845-03-50
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-50
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-50
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -74,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-068
-id: 2a60865f-8787-5ee4-8bdf-56728b148505
+id: a3832289-b735-5eeb-a289-37abb2bdb14e

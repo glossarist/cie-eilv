@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-004
   type: authoritative
+- id: 845-10-03
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-03
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-03
+  type: authoritative
 status: valid
 id: 1c2d45a3-eadb-5935-8722-1810b4ca84e2
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: The asymmetry can refer to an axis or to a plane.
     type: intensional
-  - content: This entry was numbered 845-10-03 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-03, 845-10-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-59 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-59
     type: authoritative
+  - id: 845-10-03
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-03
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-03
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-004
-id: 3454f659-e085-5b28-a6ba-0b599c12cef2
+id: 25d84ac9-c9b1-5f60-99ed-53ee730942be

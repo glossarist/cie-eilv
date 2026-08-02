@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-066
   type: authoritative
+- id: 845-02-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-34
+  type: authoritative
 status: valid
 id: ccb073e7-5d81-59c5-a24f-820fd4ae706b
 ---
@@ -25,7 +32,7 @@ data:
   - content: For related colours, a change in lightness can also occur when the purity
       is increased while keeping the luminance factor of the colour stimulus constant.
     type: intensional
-  - content: This entry was numbered 845-02-34 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-34, 845-02-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-531 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-531
     type: authoritative
+  - id: 845-02-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-34
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-066
-id: ee5dd819-bcdc-59f2-8861-07e1d9308485
+id: b9d9f03b-6b9c-5691-b3c0-dcb382079a6a

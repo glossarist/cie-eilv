@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-066
   type: authoritative
+- id: 845-04-60
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-60
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-60
+  type: authoritative
 status: valid
 id: 1c142a36-29ac-58b9-b6a3-62f6bfbd7f2d
 ---
@@ -26,7 +33,7 @@ data:
     type: intensional
   - content: The regular reflectance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-60 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-60, 845-04-60}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1076 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-1076
     type: authoritative
+  - id: 845-04-60
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-60
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-60
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-066
-id: 98e0cfc6-a454-5ba1-b9cd-3368bea8fea0
+id: 50f24da8-db5e-5642-83ec-e3aeccdfe365

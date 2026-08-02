@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-039
   type: authoritative
+- id: 845-10-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-34
+  type: authoritative
 status: valid
 id: 2e4cf715-03c9-5a87-8e11-b52cbbac93e2
 ---
@@ -29,7 +36,7 @@ data:
   - content: Besides scattering, a diffuser can also have a slight reflection and
       absorption effect.
     type: intensional
-  - content: This entry was numbered 845-10-34 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-34, 845-10-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-310 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-310
     type: authoritative
+  - id: 845-10-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-34
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-039
-id: 12d51218-6dc1-518c-a80a-fc2a8e05c9ec
+id: f3d5214d-a369-5171-a800-05700a3cb140

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-001
   type: authoritative
+- id: 845-27-004
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-27-004
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-27-004
+  type: authoritative
 status: valid
 id: e9bc2402-3b20-5fd6-bd2f-2d59dc46d4fe
 ---
@@ -23,12 +30,19 @@ data:
   - content: A light source can be self-emitting (primary light source) or non-self-emitting
       (secondary light source).
     type: intensional
-  - content: See also Note 1 to entry of IEV 845-27-004.
+  - content: See also Note 1 to entry of IEV {{cite:845-27-004, 845-27-004}}.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2020
+    type: authoritative
+  - id: 845-27-004
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-27-004
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-27-004
     type: authoritative
   terms:
   - type: expression
@@ -37,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-001
-id: b8d8e30f-eb6b-59d6-87aa-848c37464ed5
+id: b39d848c-7533-52fa-ac5d-6807a8dcda5f

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-046
   type: authoritative
+- id: 845-02-23
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-23
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-23
+  type: authoritative
 status: valid
 id: 744b5a7d-72d0-5ce9-b18c-b50e3b5ce43a
 ---
@@ -24,7 +31,7 @@ data:
   - content: Secondary light sources seen in their natural surroundings normally exhibit
       the appearance of non-luminous colours in this sense.
     type: intensional
-  - content: This entry was numbered 845-02-23 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-23, 845-02-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-818 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-818
     type: authoritative
+  - id: 845-02-23
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-23
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-23
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-046
-id: c4f2984c-9491-5f50-a091-b3e3c0ac105b
+id: 86626625-3790-5540-9687-eaba83b47ef7

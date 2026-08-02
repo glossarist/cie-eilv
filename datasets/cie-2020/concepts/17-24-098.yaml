@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-098
   type: authoritative
+- id: 845-04-91
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-91
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-91
+  type: authoritative
 status: valid
 id: a9fab205-b35a-57b3-85ee-e384a2201e37
 ---
@@ -30,7 +37,7 @@ data:
   - content: The term "indicatrix" is often used to denote, instead of the surface,
       the curve obtained in a similar manner in a plane normal to the element concerned.
     type: intensional
-  - content: This entry was numbered 845-04-91 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-91, 845-04-91}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-572 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-572
     type: authoritative
+  - id: 845-04-91
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-91
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-91
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -60,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-098
-id: b3783a40-a54d-5904-8f52-faa7627ae3cf
+id: 6d95f6cc-5dac-54fe-82dc-8e7fbb4a0ab7

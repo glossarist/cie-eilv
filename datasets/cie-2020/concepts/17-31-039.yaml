@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-039
   type: authoritative
+- id: 845-11-41
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-41
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-41
+  type: authoritative
 status: valid
 id: 977b973b-eab0-5132-a358-a930ad90b82b
 ---
@@ -23,7 +30,7 @@ data:
   - content: A preferred-channel light is a lateral light that is used to indicate
       a preferred course at a point where a choice of courses exists.
     type: intensional
-  - content: This entry was numbered 845-11-41 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-41, 845-11-41}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-643 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-643
     type: authoritative
+  - id: 845-11-41
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-41
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-41
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-039
-id: 49943814-8c72-55c1-a939-c0b822fce2e6
+id: dc59a27e-8ce0-5ce5-a5a1-a7dc4c4d35d0

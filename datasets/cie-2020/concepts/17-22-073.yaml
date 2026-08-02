@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-073
   type: authoritative
+- id: 845-02-41
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-41
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-41
+  type: authoritative
 status: valid
 id: 191e6261-235a-5488-abc6-421dbf333078
 ---
@@ -25,7 +32,7 @@ data:
       constant saturation for all luminance levels, except when the brightness is
       very high.
     type: intensional
-  - content: This entry was numbered 845-02-41 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-41, 845-02-41}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1136 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-1136
     type: authoritative
+  - id: 845-02-41
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-41
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-41
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-073
-id: afec1634-adef-5f00-932c-42994ba3e966
+id: a59665b9-9b7e-5c32-8830-8ff3f0b41c88

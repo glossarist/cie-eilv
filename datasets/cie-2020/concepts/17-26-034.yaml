@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-034
   type: authoritative
+- id: 845-06-22
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-22
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-22
+  type: authoritative
 status: valid
 id: e52688fe-d6c6-55ec-9381-07580602573a
 ---
@@ -28,7 +35,7 @@ data:
     type: intensional
   - content: The effective dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-06-22 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-22, 845-06-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-359 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-359
     type: authoritative
+  - id: 845-06-22
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-22
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-22
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-034
-id: 277f5927-1dde-56a4-a29b-084062f1f1e4
+id: 43c17c10-fc67-5bbc-9a46-e9521193b4db

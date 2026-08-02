@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-063
   type: authoritative
+- id: 845-11-64
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-64
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-64
+  type: authoritative
 status: valid
 id: af6af551-bda0-598d-8062-7cbcb612d25b
 ---
@@ -23,7 +30,7 @@ data:
   - content: A bollard can be internally illuminated and can incorporate a regulatory
       traffic sign.
     type: intensional
-  - content: This entry was numbered 845-11-64 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-64, 845-11-64}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-104 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-104
     type: authoritative
+  - id: 845-11-64
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-64
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-64
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-063
-id: f18fc494-9bc7-5523-b7e5-fe507f12e2b7
+id: 0b5da670-1e2d-5581-942c-24b5da56d6f8

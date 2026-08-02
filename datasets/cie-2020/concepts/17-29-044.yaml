@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-044
   type: authoritative
+- id: 845-09-31
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-31
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-31
+  type: authoritative
 status: valid
 id: 8b9fd6d9-e936-57ff-a086-e0047f08f065
 ---
@@ -27,7 +34,7 @@ data:
       radiant flux instead of luminous flux and in that case is expressed in watt
       (W).
     type: intensional
-  - content: This entry was numbered 845-09-31 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-31, 845-09-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-267 in CIE S 017:2011.
     type: intensional
@@ -46,6 +53,13 @@ data:
         source: CIE S 017:2011
         id: 17-267
     type: authoritative
+  - id: 845-09-31
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-31
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-31
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-044
-id: '09a69598-af00-5548-9e81-37dcface1015'
+id: 02a20053-a032-5b15-900b-87352b6edaa4

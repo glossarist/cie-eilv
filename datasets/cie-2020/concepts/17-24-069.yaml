@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-069
   type: authoritative
+- id: 845-04-63
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-63
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-63
+  type: authoritative
 status: valid
 id: c725d6da-a462-5c74-9913-77ad4d6762a6
 ---
@@ -26,7 +33,7 @@ data:
     type: intensional
   - content: The diffuse transmittance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-63 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-63, 845-04-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-308 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-308
     type: authoritative
+  - id: 845-04-63
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-63
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-63
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-069
-id: 7ee6b8b2-9d78-52ba-a9b3-ffe56ac63c2c
+id: 906b98b6-f033-549e-92ac-9be3c19575f1

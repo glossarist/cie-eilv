@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-068
   type: authoritative
+- id: 845-06-24
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-24
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-24
+  type: authoritative
 status: valid
 id: e117cd4f-27d6-55b8-80ef-80d1243b14ad
 ---
@@ -34,7 +41,7 @@ data:
     type: intensional
   - content: The minimal erythema dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-06-24 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-24, 845-06-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-782 and 17-759 in CIE S 017:2011.
     type: intensional
@@ -53,6 +60,13 @@ data:
         source: CIE S 017:2011
         id: 17-782 and 17-759
     type: authoritative
+  - id: 845-06-24
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-24
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-24
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -63,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-068
-id: 35aba48d-e564-5d8b-b102-ba06122c206b
+id: 259ca2fe-29a5-5bdf-99b7-0baaf347ad66

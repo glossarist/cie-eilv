@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-136
   type: authoritative
+- id: 845-04-39
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-39
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-39
+  type: authoritative
 status: valid
 id: ee9b3e40-6439-527c-83f8-b43805283818
 ---
@@ -21,7 +28,7 @@ data:
   - content: The term "laser" is an acronym for "light amplification by stimulated
       emission of radiation".
     type: intensional
-  - content: This entry was numbered 845-04-39 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-39, 845-04-39}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-642 in CIE S 017:2011.
     type: intensional
@@ -40,6 +47,13 @@ data:
         source: CIE S 017:2011
         id: 17-642
     type: authoritative
+  - id: 845-04-39
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-39
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-39
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-136
-id: 9d45a49b-d8a9-5cf7-96eb-29b0f4ac1f60
+id: cf763aa9-93b7-54ab-9fc2-9c29db7d1cd0

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-049
   type: authoritative
+- id: 845-02-26
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-26
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-26
+  type: authoritative
 status: valid
 id: c5afdb3a-bf61-58ff-91f3-ad5f6c5c132a
 ---
@@ -23,7 +30,7 @@ data:
   - content: The colour names white, grey and black or, for transmitting objects,
       colourless and neutral are commonly used in relation to achromatic colour.
     type: intensional
-  - content: This entry was numbered 845-02-26 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-26, 845-02-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-11 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-11
     type: authoritative
+  - id: 845-02-26
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-26
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-26
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-049
-id: ad6c6a4b-afde-5c05-be83-bc0f632b7c3d
+id: 17989375-26a7-5de0-8745-e659a7f9389a

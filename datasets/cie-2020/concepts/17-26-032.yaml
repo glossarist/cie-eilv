@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-032
   type: authoritative
+- id: 845-06-19
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-19
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-19
+  type: authoritative
 status: valid
 id: 1878111a-d948-5058-b2b3-d4d25df0e856
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: Bactericidal radiation is primarily UV-C radiation.
     type: intensional
-  - content: This entry was numbered 845-06-19 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-19, 845-06-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-72, 17-491, and 17-775 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-72, 17-491, and 17-775
     type: authoritative
+  - id: 845-06-19
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-19
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-19
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-032
-id: ff84c6ab-d1ea-5c33-86c2-6919c2783808
+id: 3733b934-9be0-58b6-b357-8529c5d61e12

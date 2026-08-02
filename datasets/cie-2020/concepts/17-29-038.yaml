@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-038
   type: authoritative
+- id: 845-09-25
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-25
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-25
+  type: authoritative
 status: valid
 id: 3c338124-4ca3-5d4b-9ab5-1a626cfc9ee2
 ---
@@ -25,7 +32,7 @@ data:
       in the sense of the term "rotationally symmetrical luminous intensity distribution".
       This usage is to be discouraged.
     type: intensional
-  - content: This entry was numbered 845-09-25 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-25, 845-09-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1295 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-1295
     type: authoritative
+  - id: 845-09-25
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-25
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-25
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-038
-id: 427a346a-7045-51ed-9393-351a03930c8b
+id: 6499cde3-3ac9-56fd-8b6c-bc83406558f8

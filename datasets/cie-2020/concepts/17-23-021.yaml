@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-021
   type: authoritative
+- id: 845-03-12
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-12
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-12
+  type: authoritative
 status: valid
 id: 790ea3ef-dbcb-5b62-bc25-dc3270274cfa
 ---
@@ -32,9 +39,9 @@ data:
   - content: Illuminants B, C and other {{17-23-020, daylight illuminants}}, previously
       denoted as "standard illuminants", should now be termed "{{17-23-019, CIE illuminants}}".
     type: intensional
-  - content: This entry was numbered 845-03-12 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered <<845-03-12, 845-03-12>> in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-168 in CIE S 017:2011.
     type: intensional
@@ -53,6 +60,13 @@ data:
         source: CIE S 017:2011
         id: 17-168
     type: authoritative
+  - id: 845-03-12
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-12
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-12
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -60,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-021
-id: d17c5630-cbb9-5464-b129-a8b4417f212d
+id: ef697bd2-1853-5343-856d-8d6223eaec89

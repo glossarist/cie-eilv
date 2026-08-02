@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-018
   type: authoritative
+- id: 845-10-12
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-12
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-12
+  type: authoritative
 status: valid
 id: 76901810-879e-5faa-8ab6-5018a391af9c
 ---
@@ -24,7 +31,7 @@ data:
   - content: The term applies both to luminaires for operation in enclosed cavities
       and to luminaires for mounting through a surface such as a suspended ceiling.
     type: intensional
-  - content: This entry was numbered 845-10-12 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-12, 845-10-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1042 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1042
     type: authoritative
+  - id: 845-10-12
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-12
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-12
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-018
-id: b5dd83f6-343a-5c2d-af57-6fcd5b747f12
+id: aa8a3fff-9e7e-5834-a11a-1b591c5ecd5b

@@ -11,14 +11,21 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-146
   type: authoritative
+- id: 113-01-10
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-10
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
+  type: authoritative
 status: valid
 id: e378aa60-41c9-538b-bf96-59fe484cef18
 ---
 data:
   definition:
   - content: quotient of illuminance produced by the lighting installation after a
-      certain <<113-01-10, time interval>> and the illuminance produced by the installation
-      when new
+      certain {{cite:113-01-10, time interval}} and the illuminance produced by the
+      installation when new
     type: intensional
   examples: []
   notes:
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-753 and 17-774
     type: authoritative
+  - id: 113-01-10
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-10
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-146
-id: 8e66f126-ab2f-5c6a-93fe-745cf4f91859
+id: 2367805a-e40f-5c76-bdd4-2c48570ea0c0

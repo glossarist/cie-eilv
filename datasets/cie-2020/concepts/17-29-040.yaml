@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-040
   type: authoritative
+- id: 845-09-27
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-27
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-27
+  type: authoritative
 status: valid
 id: 26714ea9-f3da-5f2d-8c63-5a42dec84587
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The mean spherical luminous intensity is expressed in candela (cd).
     type: intensional
-  - content: This entry was numbered 845-09-27 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-27, 845-09-27}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-758 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-758
     type: authoritative
+  - id: 845-09-27
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-27
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-27
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-040
-id: '06492adb-a66d-5d5c-9575-e01ea0e2979b'
+id: 3570f116-0f4b-5487-9bc4-348e384802ba

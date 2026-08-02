@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-060
   type: authoritative
+- id: 845-09-47
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-47
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-47
+  type: authoritative
 status: valid
 id: e81ecead-379b-5944-877c-0b49f7e6dcf6
 ---
@@ -24,7 +31,7 @@ data:
   - content: The installed lamp flux density is expressed in lumen per square metre
       (lm·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-09-47 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-47, 845-09-47}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-588 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-588
     type: authoritative
+  - id: 845-09-47
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-47
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-47
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-060
-id: 034c32cd-5ef4-58af-9ae1-d77a9a79a2c2
+id: a90aa795-6ffb-57a0-9914-adee6689ddb9

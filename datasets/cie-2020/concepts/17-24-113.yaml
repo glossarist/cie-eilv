@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-113
   type: authoritative
+- id: 845-04-105
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-105
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-105
+  type: authoritative
 status: valid
 id: 7c19ab50-11cc-533c-b52e-8abe6cde250c
 ---
@@ -30,7 +37,7 @@ data:
       transmits radiation of nearly the same chromaticity as that of the incident
       radiation, can be called a grey filter.
     type: intensional
-  - content: This entry was numbered 845-04-105 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-105, 845-04-105}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-434 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-434
     type: authoritative
+  - id: 845-04-105
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-105
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-105
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -59,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-113
-id: ab8c1ec4-790c-56b6-95a9-b481dec9d52f
+id: b1a6de74-9ddd-5023-be65-e69f440adeb7

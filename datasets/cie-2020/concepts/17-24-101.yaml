@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-101
   type: authoritative
+- id: 845-04-95
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-95
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-95
+  type: authoritative
 status: valid
 id: 18fb1fc9-99a5-57f3-bd77-017ea2f0d1a6
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: The entrance angle is expressed in radian (rad) or degree (°).
     type: intensional
-  - content: This entry was numbered 845-04-95 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-95, 845-04-95}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-386 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-386
     type: authoritative
+  - id: 845-04-95
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-95
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-95
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-101
-id: 380594b3-633c-57b2-9853-b7c380a27954
+id: 1d3ec374-0399-5498-8411-e94603fa2d9e

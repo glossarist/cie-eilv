@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-148
   type: authoritative
+- id: 845-11-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-02
+  type: authoritative
 status: valid
 id: 021cd564-2aef-5c5f-b16d-8ab9518acd2d
 ---
@@ -24,7 +31,7 @@ data:
   - content: The term "light signal" is sometimes used for an object or apparatus
       that emits a light signal, but this usage is not recommended (see "signal light").
     type: intensional
-  - content: This entry was numbered 845-11-02 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-02, 845-11-02}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -36,6 +43,13 @@ data:
         source: IEC 60050-845:1987
         id: 845-11-02
     type: authoritative
+  - id: 845-11-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-148
-id: 746ed5ec-0087-5bb8-96c1-bfbc80416d85
+id: 3ee4c71c-8e47-5317-a447-23127f32b78f

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-044
   type: authoritative
+- id: 845-08-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-08-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-34
+  type: authoritative
 status: valid
 id: 2fbd71ac-9bb2-5b91-a631-e064d941fdcc
 ---
@@ -28,7 +35,7 @@ data:
       current, to prevent cold starting, to reduce stroboscopic effect, to correct
       the power factor and to suppress radio interference.
     type: intensional
-  - content: This entry was numbered 845-08-34 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-08-34, 845-08-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-73 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-73
     type: authoritative
+  - id: 845-08-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-08-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-34
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-044
-id: c9a1148d-90ca-554f-8e0a-f25cd0f0a9be
+id: c12153c7-ec81-5d09-ac82-bff6af00fcdc

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-081
   type: authoritative
+- id: 845-01-48
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-48
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-48
+  type: authoritative
 status: valid
 id: 4ac7ce64-da91-5fc2-9e0d-0715f53527aa
 ---
@@ -39,7 +46,7 @@ data:
     type: intensional
   - content: The luminous exitance is expressed in lumen per square metre (lm·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-48 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-48, 845-01-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-735 in CIE S 017:2011.
     type: intensional
@@ -58,6 +65,13 @@ data:
         source: CIE S 017:2011
         id: 17-735
     type: authoritative
+  - id: 845-01-48
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-48
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-48
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,4 +82,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-081
-id: 421584c4-cd2b-520e-86cc-537549c7da68
+id: a401905e-f27c-55a1-a564-ad4ba887ceea

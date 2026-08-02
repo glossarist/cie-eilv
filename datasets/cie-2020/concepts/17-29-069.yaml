@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-069
   type: authoritative
+- id: 845-09-51
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-51
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-51
+  type: authoritative
 status: valid
 id: ddbc5544-60e5-5b2e-bdaf-455be16cd7f2
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The utilization factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-51 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-51, 845-09-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1383 and 17-183 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1383 and 17-183
     type: authoritative
+  - id: 845-09-51
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-51
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-51
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-069
-id: 1ee4cb2d-7b5d-5c0b-ac6a-dfa1fcd6f951
+id: 544b328e-e18f-5a59-8e86-f6161ed3d061

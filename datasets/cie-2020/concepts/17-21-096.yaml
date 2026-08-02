@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-096
   type: authoritative
+- id: 845-01-59
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-59
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-59
+  type: authoritative
 status: valid
 id: 0ee77593-8a01-5f87-aec9-ed4e23ae2d06
 ---
@@ -26,7 +33,7 @@ data:
     type: intensional
   - content: The point brilliance is expressed in lux (lx = lm·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-59 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-59, 845-01-59}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-962 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-962
     type: authoritative
+  - id: 845-01-59
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-59
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-59
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-096
-id: fb6f7eff-a11a-5e62-93d4-5b89df3f6e57
+id: f9cce1f9-d244-5384-b837-468f8bb3b929

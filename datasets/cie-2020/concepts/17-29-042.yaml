@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-042
   type: authoritative
+- id: 845-09-29
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-29
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-29
+  type: authoritative
 status: valid
 id: 8d8c8644-f045-5702-a3e3-a9f39c13d08c
 ---
@@ -25,7 +32,7 @@ data:
     type: intensional
   - content: See also "{{17-25-091, distribution curve}}".
     type: intensional
-  - content: This entry was numbered 845-09-29 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-29, 845-09-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-619 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-619
     type: authoritative
+  - id: 845-09-29
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-29
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-29
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-042
-id: fe5f5182-71e9-585b-90ad-e7d27505ec98
+id: b4e52965-6a0d-57e2-bafa-ad3a4f02e0c6

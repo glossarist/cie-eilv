@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-091
   type: authoritative
+- id: 845-04-84
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-84
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-84
+  type: authoritative
 status: valid
 id: 27e8ee2d-1f7e-5e3f-9a5d-ba5f453dea54
 ---
@@ -25,7 +32,7 @@ data:
   notes:
   - content: The Napierian spectral absorbance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-84 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-84, 845-04-84}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-798 and 17-800 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-798 and 17-800
     type: authoritative
+  - id: 845-04-84
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-84
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-84
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-091
-id: 03162205-7c52-580e-885c-50f2947997ba
+id: 9fe758fd-1ba2-5a5e-b882-e05390da310f
