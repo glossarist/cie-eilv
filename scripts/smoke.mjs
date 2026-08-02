@@ -15,7 +15,14 @@ import http from 'http';
 import fs from 'fs';
 import path from 'path';
 
-const BASE_PATH = (process.env.BASE_PATH || '/').replace(/\/+$/, '') || '';
+// Auto-detect BASE_PATH from the source site-config.yml, unless overridden.
+let configBasePath = '';
+try {
+  const yml = fs.readFileSync(path.resolve(process.cwd(), 'site-config.yml'), 'utf-8');
+  const m = yml.match(/^base_path:\s*(\S+)/m);
+  if (m) configBasePath = m[1].replace(/['"]/g, '').replace(/\/+$/, '');
+} catch {}
+const BASE_PATH = (process.env.BASE_PATH || configBasePath || '/').replace(/\/+$/, '') || '';
 const DIST = path.resolve(process.cwd(), 'dist');
 
 if (!fs.existsSync(DIST)) {
