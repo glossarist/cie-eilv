@@ -16,12 +16,11 @@ id: 20d41332-7de0-56f2-a92c-3abbd20490d7
 ---
 data:
   definition:
-  - content: solar {{17-21-060, illuminance}} incident on the outer limit of the Earth's
-      atmosphere
+  - content: solar illuminance incident on the outer limit of the Earth's atmosphere
     type: intensional
   examples: []
   notes:
-  - content: The extraterrestrial solar illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The extraterrestrial solar illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-423 in CIE S 017:2011.
     type: intensional
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-130
-id: 72480e40-9f00-543e-85b7-28fe06e8ebd7
+id: 4bdd1b17-ff10-557d-b621-54a1be3e4894

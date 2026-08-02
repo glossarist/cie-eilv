@@ -16,10 +16,9 @@ id: 1b17b518-35a1-57fb-9b8b-f56e9ecb5aa2
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} that cannot easily be moved from one place
-      to another, either because the fixing is such that the {{17-30-001, luminaire}}
-      can only be removed with the aid of a tool, or because it is intended for use
-      out of arm's reach"
+  - content: luminaire that cannot easily be moved from one place to another, either
+      because the fixing is such that the luminaire can only be removed with the aid
+      of a tool, or because it is intended for use out of <<195-06-12, arm's reach>>
     type: intensional
   examples: []
   notes:
@@ -39,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-013
-id: ff9fd87c-40e4-5776-b816-cb99b6db39bf
+id: 65626d09-f0bc-5af9-a7dd-6f42544521bb

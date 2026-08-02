@@ -16,25 +16,29 @@ id: 24ac9f61-26a5-53f7-ae92-fdcc7256cf79
 ---
 data:
   definition:
-  - content: single electric component comprising principally at least one {{17-27-051,
-      LED die}}
+  - content: single electric component comprising principally at least one LED die
     type: intensional
   examples: []
   notes:
-  - content: An LED package does not include the {{17-28-057, control unit of the
-      control gear}}, does not include a {{17-28-015, cap}}, is not connected directly
-      to the {{17-27-118, supply voltage}} and does not include active electronic
-      components.
+  - content: An LED package does not include the control unit of the control gear,
+      does not include a cap, is not connected directly to the supply voltage and
+      does not include active electronic components.
     type: intensional
-  - content: An LED package is a discrete component and part of the {{17-27-058, LED
-      module}} or {{17-27-054, LED lamp}}.
+  - content: An LED package is a discrete component and part of the LED module or
+      LED lamp.
     type: intensional
   - content: |-
       An LED package can include one or more of the following:
-      • optical elements;
-      • light converters (phosphors);
-      • thermal, mechanical, and electric interfaces;
-      • components to address ESD concerns.
+
+
+
+      * optical elements;
+
+      * light converters (phosphors);
+
+      * thermal, mechanical, and electric interfaces;
+
+      * components to address ESD concerns.
     type: intensional
   sources:
   - origin:
@@ -48,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-065
-id: b005d65a-c730-5aa6-9dd6-cc4362258f01
+id: 38c30b4f-9215-5764-a3f4-14bec7b98c5e

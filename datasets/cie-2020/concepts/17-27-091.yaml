@@ -16,14 +16,13 @@ id: 1e7cc9da-8acc-5477-bb74-a29f9eed59d3
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} that radiates especially strongly in the
-      ultraviolet, the {{17-21-003, visible radiation}} produced, if any, not being
-      of direct interest"
+  - content: electric lamp that radiates especially strongly in the ultraviolet, the
+      {{17-21-003, visible radiation}} produced, if any, not being of direct interest
     type: intensional
   examples: []
   notes:
   - content: There are several types of ultraviolet lamp used for photobiological,
-      photochemical, and biomedical purposes.
+      photochemical and biomedical purposes.
     type: intensional
   - content: This entry was numbered 845-07-52 in IEC 60050-845:1987.
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-091
-id: 5fcbde02-43f3-5b18-a8b5-ecc13bbd7661
+id: a37ed878-405d-58d0-a7f0-fe0824b39c7d

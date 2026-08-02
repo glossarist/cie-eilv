@@ -16,11 +16,10 @@ id: 1de56f31-9af1-5402-bf9e-de66a6cc76db
 ---
 data:
   definition:
-  - content: "{{17-32-050, image state}} associated with {{17-32-009, colour image
-      data}} that represent the {{17-23-041, colour space}} coordinates of the elements
-      of a two-dimensional {{17-32-045, hardcopy}} or {{17-32-046, softcopy}}, typically
-      produced by scanning artwork, photographic transparencies or prints, or photomechanical
-      or other reproductions"
+  - content: image state associated with colour image data that represent the colour
+      space coordinates of the elements of a two-dimensional {{17-32-045, hardcopy}}
+      or {{17-32-046, softcopy}}, typically produced by scanning artwork, photographic
+      transparencies or prints, or photomechanical or other reproductions
     type: intensional
   examples: []
   notes:
@@ -28,24 +27,23 @@ data:
       it implies that the object is in an original-referred image state. For example,
       original-referred image data are image data in an original-referred image state.
     type: intensional
-  - content: Original-referred image data are related to the {{17-23-041, colour space}}
-      coordinates of the original, typically measured in accordance with ISO 13655<i>
-      Graphic technology – Spectral measurement and colorimetric computation for graphic
-      arts images</i>, and do not include any additional {{17-32-066, veiling glare}}
-      or other flare.
+  - content: Original-referred image data are related to the colour space coordinates
+      of the original, typically measured in accordance with ISO 13655, _Graphic technology
+      – Spectral measurement and colorimetric computation for graphic arts images_,
+      and do not include any additional veiling glare or other flare.
     type: intensional
   - content: The characteristics of original-referred image data that most generally
       distinguish them from scene-referred image data are that they are referred to
-      a 2-dimensional surface, and the illumination incident on the 2- dimensional
+      a 2-dimensional surface, and the illumination incident on the 2-dimensional
       surface is assumed to be uniform (or the image data corrected for any non-uniformity
       in the illumination).
     type: intensional
   - content: There are classes of originals that produce original-referred image data
       with different characteristics. Examples include various types of artwork, photographic
-      prints, photographic transparencies, emissive displays. When selecting a {{17-32-017,
-      colour re-rendering}} algorithm, it is usually necessary to know the class of
-      the original in order to determine the appropriate {{17-32-017, colour re-rendering}}
-      to be applied. For example, a colorimetric intent is generally applied to artwork,
+      prints, photographic transparencies, and emissive displays. When selecting a
+      colour re-rendering algorithm, it is usually necessary to know the class of
+      the original in order to determine the appropriate colour re-rendering to be
+      applied. For example, a colorimetric intent is generally applied to artwork,
       while different perceptual algorithms are applied to produce photographic prints
       from transparencies, or newsprint reproductions from photographic prints. In
       some cases the assumed viewing conditions are also different between the original
@@ -54,9 +52,8 @@ data:
     type: intensional
   - content: In a few cases, it can be desirable to introduce slight colorimetric
       errors in the production of original-referred image data, for example to make
-      the gamut of the original more closely fit the {{17-23-041, colour space}},
-      or because of the way the image data were captured (such as a Status A densitometry-based
-      scanner).
+      the gamut of the original more closely fit the colour space, or because of the
+      way the image data were captured (such as a Status A densitometry-based scanner).
     type: intensional
   - content: This entry was numbered 17-564 in CIE S 017:2011.
     type: intensional
@@ -77,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-051
-id: 960c3436-5903-5835-9908-e68e10be954a
+id: b972a592-2fb9-5191-87a0-662b2fc07f8b

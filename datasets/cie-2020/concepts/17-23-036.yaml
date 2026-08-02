@@ -16,9 +16,9 @@ id: f9ea05b5-ad7f-5fd6-b7ab-4977eebb2830
 ---
 data:
   definition:
-  - content: system for specifying {{17-23-002, colour stimulus}} in terms of {{17-23-038,
-      tristimulus values}}, based on matching {{17-23-001, colour}}s by {{17-23-030,
-      additive mixture}} of three suitably chosen {{17-23-037, reference colour stimuli}}
+  - content: system for specifying colour stimuli in terms of {{17-23-038, tristimulus
+      values}}, based on matching colours by additive mixture of three suitably chosen
+      reference colour stimuli
     type: intensional
   examples: []
   notes:
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-036
-id: 46c24c92-6840-5e1d-9ac1-522bc20e00f3
+id: 8586b510-f471-58d1-8e47-a985afdfa4cb

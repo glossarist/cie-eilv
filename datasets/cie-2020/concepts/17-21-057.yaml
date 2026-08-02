@@ -16,12 +16,12 @@ id: cc41504e-cf99-5c23-8079-ddf02568f4d7
 ---
 data:
   definition:
-  - content: integrated {{17-21-049, radiance}} either on any surface from its half
-      space or in any point from the whole space
+  - content: integrated radiance either on any surface from its half space or in any
+      point from the whole space
     type: intensional
   examples: []
   notes:
-  - content: The scalar irradiance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+  - content: The scalar irradiance is expressed in watt per square metre (W·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1138 in CIE S 017:2011.
     type: intensional
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-057
-id: f6643e41-b20d-5f55-a495-3cea1195592f
+id: ec405488-5ba3-5733-a717-aae7f69722c6

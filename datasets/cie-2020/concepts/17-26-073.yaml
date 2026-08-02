@@ -19,14 +19,16 @@ data:
   - content: quantity developed for the public domain, for weather forecasting and
       climatology, which quantifies the erythemal potential (or sunburning power)
       of the ambient solar {{17-21-008, ultraviolet radiation}}, but could also be
-      applied to other {{17-21-032, source}}s
+      applied to other sources
     type: intensional
   examples: []
   notes:
   - content: |-
-      The International Global UV Index, <i>I</i><sub>UV</sub>, is defined by the formula:
+      The International Global UV Index, stem:[I_(UV)], is defined by the formula:
 
-      where <i>E<sub>λ</sub></i>(<i>λ</i>) is the solar {{17-21-056, spectral irradiance}} expressed in W⋅m<sup>−2</sup>⋅nm<sup>−1</sup> at {{17-21-025, wavelength}} <i>λ</i>, <i>s</i><sub>er</sub>(<i>λ</i>) is the {{17-26-065, erythema spectral weighting function}}, and <i>k</i><sub>er</sub> is a constant equal to 40 m<sup>2</sup>⋅W<sup>−1</sup>.
+      stem:[I_((uv)) = k_((er)) int_((250 nm))^((400 nm)) E_(lambda) ( lambda ) s_((er)) ( lambda ) d lambda]
+
+      where stem:[Elambda](stem:[lambda]) is the solar spectral irradiance expressed in W·m^−2^·nm^−1^ at wavelength stem:[lambda], stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, and stem:[k_(er)] is a constant equal to 40 m^2^·W^−1^.
     type: intensional
   - content: The global UV index has unit one.
     type: intensional
@@ -49,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-073
-id: 30368a21-8e95-57e9-ad10-70f5331365d6
+id: '048a821b-b283-5b52-be41-39ac05f64847'

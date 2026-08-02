@@ -16,10 +16,9 @@ id: 0cf08e28-07b1-59df-8cac-1ad3f0f1502f
 ---
 data:
   definition:
-  - content: locus of points in a {{17-23-054, chromaticity diagram}} that represents
-      the chromaticities of phases of {{17-29-105, daylight}} given by the CIE formulae
-      for {{17-23-020, daylight illuminant}}s (D illuminants) with different {{17-23-068,
-      correlated colour temperature}}s
+  - content: locus of points in a chromaticity diagram that represents the chromaticities
+      of phases of daylight given by the CIE formulae for daylight illuminants (D
+      illuminants) with different correlated colour temperatures
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-060
-id: b7cadcde-ab9f-5900-9813-80fa5601cebb
+id: 4c5276fb-39bf-5dbc-b565-4efb12796fb3

@@ -16,20 +16,29 @@ id: 749f40b3-e479-59c8-bb81-1c936cd652fa
 ---
 data:
   definition:
-  - content: quotient of the speed of light in vacuum and the speed of light in a
-      medium
+  - content: quotient of the <<113-01-34, speed of light in vacuum>> and the speed
+      of light in a medium
+    type: intensional
+  examples: []
   notes:
-  - content: The value of the refractive index can depend on the frequency, polarization,
-      and direction.
-  - content: The refractive index is expressed by <i>n</i> = <i>c</i><sub>0</sub>/<i>c,</i>
-      where <i>c</i><sub>0</sub> is the speed of light in vacuum and <i>c</i> is the
-      speed of light in the medium.
-  - content: See also "complex refractive index".
-  - content: The refractivity is expressed by <i>n</i>−1, where <i>n</i> is refractive
+  - content: The value of the refractive index can depend on the <<103-06-02, frequency>>,
+      polarization, and direction.
+    type: intensional
+  - content: The refractive index is expressed by stem:[n] = stem:[c_0]/stem:[c,]
+      where stem:[c_0] is the speed of light in vacuum and stem:[c] is the speed of
+      light in the medium.
+    type: intensional
+  - content: See also "{{17-24-111, complex refractive index}}.
+    type: intensional
+  - content: The refractivity is expressed by stem:[n] − 1, where stem:[n] is refractive
       index.
+    type: intensional
   - content: The refractive index has unit one.
+    type: intensional
   - content: This entry was numbered 845-04-101 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-1074 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -55,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-109
-id: 721c47a1-9003-5810-a866-af03f12f63ca
+id: 54f7637e-d2ac-556f-9f22-87811d456fb3

@@ -18,9 +18,13 @@ data:
   definition:
   - content: two or more marks positioned to indicate a leading line, or navigational
       course, in the direction in which they can be seen in vertical alignment
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-11-34 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-647 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-032
-id: b384978d-9f7c-5f26-9ade-0553e88b3932
+id: 447b4f9c-7212-5e64-ad3d-b57c2a032a45

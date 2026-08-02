@@ -16,8 +16,8 @@ id: 8dc24285-c080-5ed6-9755-28e316b24807
 ---
 data:
   definition:
-  - content: set of {{17-31-127, legend}}s to be displayed on a {{17-31-002, sign}}
-      which are implemented by the configuration of the {{17-31-002, sign}}'s hardware
+  - content: set of legends to be displayed on a sign which are implemented by the
+      configuration of the sign's hardware
     type: intensional
   examples: []
   notes:
@@ -41,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-119
-id: e0e9e118-7cf8-5b38-971c-d19d1a651341
+id: 27a8438c-f5ef-56b1-a070-305a853be1ba

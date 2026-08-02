@@ -17,25 +17,26 @@ id: 76cd934c-4652-531a-a35d-6dea5567450b
 data:
   definition:
   - content: system for determining the {{17-23-038, tristimulus values}} of any spectral
-      power distribution using the set of {{17-23-037, reference colour stimuli}}
-      [X], [Y], [Z] and the three {{17-23-047, CIE colour-matching functions}} adopted
+      power distribution using the set of reference colour stimuli &amp;lsqb;X&amp;rsqb;,
+      &amp;lsqb;Y&amp;rsqb;, &amp;lsqb;Z&amp;rsqb; and the three CIE colour-matching
+      functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] adopted
       by the CIE in 1931
     type: intensional
   examples: []
   notes:
-  - content: is identical to <i>V</i>(<i>λ</i>) and hence the {{17-23-038, tristimulus
-      values}} <i>Y</i> are proportional to values of {{17-21-050, luminance}}.
+  - content: stem:[bar y ( lambda )] is identical to stem:[V](stem:[lambda]) and hence
+      the tristimulus values stem:[Y] are proportional to values of luminance.
     type: intensional
   - content: The CIE 1931 standard colorimetric system is applicable to centrally
-      viewed fields of {{17-25-085, angular subtense}} between about 1° and about
-      4° (0,017 rad and 0,07 rad).
+      viewed fields of angular subtense between about 1° and about 4° (0,017 rad and
+      0,07 rad).
     type: intensional
   - content: The CIE 1931 standard colorimetric system can be derived from the CIE
       1931 RGB colorimetric system using a transformation based on a set of three
       linear equations. The CIE 1931 RGB system is based on three real monochromatic
       reference stimuli.
     type: intensional
-  - content: See also CIE 15<i> Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
   - content: This entry was numbered 845-03-28 in IEC 60050-845:1987.
     type: intensional
@@ -66,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-045
-id: 51d5a8e9-8304-5a30-a596-acca48d4def6
+id: 372b2844-e6c3-5afd-bd2c-84160766d9e7

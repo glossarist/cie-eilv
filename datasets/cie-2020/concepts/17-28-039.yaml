@@ -17,9 +17,13 @@ id: b6e1ac48-66b6-53a7-a87a-d1b14d9b6c76
 data:
   definition:
   - content: material deposited on a metal electrode to promote the emission of electrons
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-08-29 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-381 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-039
-id: a9d56aaf-6d1b-5275-ad78-67e0a55c50f9
+id: 24e79d86-490d-5fd4-b33b-680eb8186e37

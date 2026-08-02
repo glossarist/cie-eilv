@@ -16,13 +16,13 @@ id: 5e998648-16a6-5ff3-b7eb-a201bb4f3356
 ---
 data:
   definition:
-  - content: "{{17-21-053, irradiance}} produced by {{17-29-101, global solar radiation}}
-      on a horizontal surface on the Earth"
+  - content: irradiance produced by global solar radiation on a horizontal surface
+      on the Earth
     type: intensional
   examples: []
   notes:
   - content: The global horizontal irradiance is expressed in watt per square metre
-      (W⋅m<sup>−2</sup>).
+      (W·m^−2^).
     type: intensional
   - content: This entry was numbered 17-496 in CIE S 017:2011.
     type: intensional
@@ -46,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-137
-id: 93165857-17dd-516f-b00a-d1a97a82828e
+id: 34a3a25d-52cc-5ccc-a62c-5b1c45fde6fa

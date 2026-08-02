@@ -16,32 +16,27 @@ id: a81d878d-0990-5640-aa84-b550d724b724
 ---
 data:
   definition:
-  - content: characteristic of {{17-22-082, visual perception}} that can be described
-      by attributes of {{17-22-067, hue}}, {{17-22-059, brightness}} (or {{17-22-063,
-      lightness}}) and {{17-22-072, colourfulness}} (or {{17-22-073, saturation}}
-      or {{17-22-074, chroma}})
+  - content: characteristic of visual perception that can be described by attributes
+      of hue, brightness (or lightness) and colourfulness (or saturation or chroma)
     type: intensional
   examples: []
   notes:
-  - content: Perceived colour depends on the {{17-21-029, spectral distribution}}
-      of the {{17-23-002, colour stimulus}}, on the size, shape, structure and surround
-      of the stimulus area, on the {{17-22-015, state of adaptation}} of the observer's
-      visual system, and on the observer's experience of the prevailing and similar
-      situations of observation.
+  - content: Perceived colour depends on the spectral distribution of the colour stimulus,
+      on the size, shape, structure and surround of the stimulus area, on the state
+      of adaptation of the observer's visual system, and on the observer's experience
+      of the prevailing and similar situations of observation.
     type: intensional
-  - content: Perceived colour can appear in several modes of {{17-22-058, colour appearance}}.
-      The names for various modes of {{17-22-019, appearance}} are intended to distinguish
-      among qualitative and geometric differences of colour perceptions. Some of the
-      more important terms of the modes of {{17-22-058, colour appearance}} are given
-      in "{{17-22-042, object colour}}", "{{17-22-043, surface colour}}" and "{{17-22-044,
-      aperture colour}}". Other modes of {{17-22-058, colour appearance}} include
-      film colour, {{17-22-054, volume colour}}, illuminant colour, body colour, and
-      Ganzfeld colour. Each of these modes of {{17-22-058, colour appearance}} can
-      be further qualified by adjectives to describe combinations of colour or their
-      spatial and temporal relationships. Other terms that relate to qualitative differences
-      among colours perceived in various modes of {{17-22-058, colour appearance}}
-      are given in "{{17-22-045, luminous colour}}", "{{17-22-046, non-luminous colour}}",
-      "{{17-22-047, related colour}}" and "{{17-22-048, unrelated colour}}".
+  - content: Perceived colour can appear in several modes of colour appearance. The
+      names for various modes of appearance are intended to distinguish among qualitative
+      and geometric differences of colour perceptions. Some of the more important
+      terms of the modes of colour appearance are given in "object colour", "surface
+      colour" and "aperture colour". Other modes of colour appearance include film
+      colour, volume colour, illuminant colour, body colour, and Ganzfeld colour.
+      Each of these modes of colour appearance can be further qualified by adjectives
+      to describe combinations of colour or their spatial and temporal relationships.
+      Other terms that relate to qualitative differences among colours perceived in
+      various modes of colour appearance are given in "luminous colour", "non-luminous
+      colour", "related colour" and "unrelated colour".
     type: intensional
   - content: This entry was numbered 845-02-18 in IEC 60050-845:1987.
     type: intensional
@@ -73,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-040
-id: da4acf45-4fb4-523e-b7f3-f40d2f604914
+id: 86a98142-7347-51d6-9b88-977f13715ce9

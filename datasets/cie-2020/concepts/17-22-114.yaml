@@ -16,8 +16,7 @@ id: e2a1bee0-15c1-57c1-b209-a1e2bb2d0244
 ---
 data:
   definition:
-  - content: combined {{17-22-112, illuminant colorimetric shift}} and {{17-22-113,
-      adaptive colorimetric shift}}
+  - content: combined illuminant colorimetric shift and adaptive colorimetric shift
     type: intensional
   examples: []
   notes:
@@ -47,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-114
-id: ae08bea1-50fa-56de-a67c-aab7c3e823d5
+id: bea19650-ac4a-5c92-a91c-3f8149414920

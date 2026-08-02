@@ -16,16 +16,15 @@ id: 872f5fbc-2eff-5219-b5aa-1de575adb932
 ---
 data:
   definition:
-  - content: first part of the open road directly after the {{17-31-094, exit portal}}
-      of a {{17-31-081, road tunnel}}
+  - content: first part of the open road directly after the exit portal of a road
+      tunnel
     type: intensional
   examples: []
   notes:
-  - content: The parting zone is not a part of the {{17-31-081, road tunnel}}, but
-      it is closely related to the {{17-31-081, road tunnel}} {{17-29-001, lighting}}.
-      The parting zone begins at the {{17-31-094, exit portal}}. It is advised that
-      the length of the parting zone is equal to 2 times the stopping distance. A
-      length of more than 200 m is not necessary.
+  - content: The parting zone is not a part of the road tunnel, but it is closely
+      related to the road tunnel lighting. The parting zone begins at the exit portal.
+      It is advised that the length of the parting zone is equal to 2 times the stopping
+      distance. A length of more than 200 m is not necessary.
     type: intensional
   - content: This entry was numbered 17-863 in CIE S 017:2011.
     type: intensional
@@ -47,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-085
-id: ff0aa814-9e16-5a52-821e-dac268f28fc0
+id: f68059c4-ee1b-51b7-8afd-34c2b225c374

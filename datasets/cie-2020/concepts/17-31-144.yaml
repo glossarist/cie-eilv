@@ -16,18 +16,18 @@ id: 24b3fbc0-5673-52dd-8c34-488411e6f076
 ---
 data:
   definition:
-  - content: "{{17-29-155, average illuminance}} on strips, which are adjacent to
-      the edges of both sides of the carriageway, to the {{17-29-155, average illuminance}}
-      on the adjacent strips in the carriageway"
+  - content: average illuminance on strips, which are adjacent to the edges of both
+      sides of the carriageway, to the average illuminance on the adjacent strips
+      in the carriageway
     type: intensional
   examples: []
   notes:
   - content: Specific requirements regarding the width of the strips are defined in
-      CIE 140 <i>Road Lighting Calculations</i>.
+      CIE 140, _Road Lighting Calculations_.
     type: intensional
   - content: The surround ratio has unit one.
     type: intensional
-  - content: This entry was numbered 17-1286 and 17-1253 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-144
-id: 76c97719-c6ce-5b72-8a49-9001da8b0993
+id: 1fe8fffe-7287-5bfb-be2d-cdb33ad33d23

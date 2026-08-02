@@ -16,14 +16,13 @@ id: c5785ec5-cfe1-5e8c-ab54-82d5a24216a4
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-049, radiance}} of a {{17-24-003, thermal radiator}}
-      in a given direction and the {{17-21-049, radiance}} of a {{17-24-004, Planckian
-      radiator}} at the same temperature
+  - content: quotient of the radiance of a thermal radiator in a given direction and
+      the radiance of a Planckian radiator at the same temperature
     type: intensional
   examples: []
   notes:
-  - content: The symbols <i>θ</i>, <i>φ</i> are chosen here as an example of the angular
-      coordinates defining the given direction.
+  - content: The symbols stem:[theta], stem:[phi] are chosen here as an example of
+      the angular coordinates defining the given direction.
     type: intensional
   - content: The directional emissivity has unit one.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-008
-id: 27d112de-80e9-5fb6-92d8-6fc20793f595
+id: e77027c9-98e8-592f-855d-84bc0e3b6bdc

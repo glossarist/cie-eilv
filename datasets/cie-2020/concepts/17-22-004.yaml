@@ -16,13 +16,11 @@ id: f7ece2e0-041f-51c6-866c-a956f8a3d2dc
 ---
 data:
   definition:
-  - content: location in the centre of the {{17-22-001, retina}} that contains a photostable
-      pigment
+  - content: location in the centre of the retina that contains a photostable pigment
     type: intensional
   examples: []
   notes:
-  - content: The location includes the {{17-22-006, fovea}} and appears yellow in
-      {{17-22-040, colour}}.
+  - content: The location includes the fovea and appears yellow in colour.
     type: intensional
   - content: See also "{{17-22-006, fovea}}".
     type: intensional
@@ -55,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-004
-id: 6008a801-cbe0-5187-a8c2-ded0b20f77a5
+id: cf31cee4-c639-5aa0-9082-4e1c99a1acfc

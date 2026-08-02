@@ -16,14 +16,14 @@ id: 9ae7c79c-8ddd-5854-ac39-c3b302a298ff
 ---
 data:
   definition:
-  - content: "{{17-22-067, hue}} that can be described as a combination of two {{17-22-068,
-      unique hue}}s"
+  - content: "{{17-22-067, hue}} that can be described as a combination of two unique
+      hues"
     type: intensional
   examples: []
   notes:
-  - content: Orange is yellowish-red or reddish-yellow; violet is reddish-blue.
-    type: intensional
   - content: This entry was numbered 845-02-37 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-02-37, 845-02-37>> in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-88 in CIE S 017:2011.
     type: intensional
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-069
-id: 52298053-cc70-585f-9dfa-45fdcae74885
+id: ce72ae96-4cc8-56f0-857e-a29015118ed3

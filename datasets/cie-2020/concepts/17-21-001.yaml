@@ -16,11 +16,14 @@ id: 75f7950d-afaf-5939-b801-d11287665f24
 ---
 data:
   definition:
-  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=702-02-07">IEV
-      702-02-07</a>
+  - content: See <<702-02-07, IEV 702-02-07>>
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-01-01 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-370 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -44,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-001
-id: 53e93353-ce7c-5270-b95f-c259623e23a2
+id: b620e506-fbf2-5db0-8cc3-837bd09c37a2

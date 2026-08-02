@@ -18,8 +18,11 @@ data:
   definition:
   - content: relationship between the digital code values provided to an output device
       and the equivalent neutral densities produced by the device
+    type: intensional
+  examples: []
   notes:
-  - content: This entry was numbered 17-373 and 17-389 in CIE S 017:2011.
+  - content: This note applies to the French language only.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -40,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-041
-id: 8c261c53-c531-5196-b6eb-31bf59c222de
+id: cf9d1af6-9bd6-52e8-8366-7800e907e7cc

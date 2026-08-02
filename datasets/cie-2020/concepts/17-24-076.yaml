@@ -17,14 +17,15 @@ id: c90ea20c-d7ec-525d-8094-b5071000f3bd
 data:
   definition:
   - content: |-
-      sum of the reflected spectral radiance factor, <i>β</i><sub>R</sub>(<i>λ</i>), and the luminescent spectral radiance factor, <i>β</i><sub>L</sub>(<i>λ</i>)
-      <i>β</i><sub>T</sub>(<i>λ</i>) = <i>β</i><sub>R</sub>(<i>λ</i>) + <i>β</i><sub>L</sub>(<i>λ</i>)
+      sum of the reflected spectral radiance factor, stem:[beta_R](stem:[lambda]), and the luminescent spectral radiance factor, stem:[beta_L](stem:[lambda])
+
+      stem:[beta_T](stem:[lambda]) = stem:[beta_R](stem:[lambda]) + stem:[beta_L](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: For {{17-24-023, fluorescence}} colorimetric applications, it is implicit
-      that the quantity used in the colorimetric calculations is the total radiance
-      factor, and it is common to omit the subscript T.
+  - content: For fluorescence colorimetric applications, it is implicit that the quantity
+      used in the colorimetric calculations is the total radiance factor, and it is
+      common to omit the subscript T.
     type: intensional
   - content: The total spectral radiance factor has unit one.
     type: intensional
@@ -43,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-076
-id: 710fb241-0a10-597c-b358-94842c72103c
+id: 0b5a7c0d-7b4e-54c1-ae17-f7aa18a3139c

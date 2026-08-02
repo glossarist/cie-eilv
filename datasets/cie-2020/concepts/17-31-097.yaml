@@ -16,14 +16,14 @@ id: 9db19b7b-cadc-510c-80e5-d886d048a4fb
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} design technique where the light equally falls
-      on objects in directions with and against the traffic"
+  - content: lighting design technique where the light equally falls on objects in
+      directions with and against the traffic
     type: intensional
   examples: []
   notes:
-  - content: Symmetric lighting is characterized by using {{17-30-001, luminaire}}s
-      that show a {{17-29-037, luminous intensity distribution}} that is symmetric
-      in relation to the plane normal to the direction of the traffic.
+  - content: Symmetric lighting is characterized by using luminaires that show a luminous
+      intensity distribution that is symmetric in relation to the plane normal to
+      the direction of the traffic.
     type: intensional
   - content: See also "{{17-31-095, pro-beam lighting}}", "{{17-31-096, counter-beam
       lighting}}".
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-097
-id: d600f97f-6025-556b-83a3-63324376c5a6
+id: 624ae239-6a1f-5813-aefe-2601611b0c98

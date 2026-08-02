@@ -16,17 +16,19 @@ id: fdad52ea-dee7-5fa9-9cf4-890b5663971c
 ---
 data:
   definition:
-  - content: quotient of absorbed {{17-21-038, radiant flux}}, <i>Φ</i><sub>a</sub>,
-      and incident {{17-21-038, radiant flux}}, <i>Φ</i><sub>m</sub>
+  - content: |-
+      quotient of absorbed radiant flux, stem:[Phi_a], and incident radiant flux, stem:[Phi_m]
+
+      stem:[alpha = ((Phi_a))/((Phi_m))]
     type: intensional
   examples: []
   notes:
-  - content: The absorptance is also defined spectrally in terms of {{17-21-025, wavelength}},
-      in which case, "spectral" is added before the quantity name.
+  - content: The absorptance is also defined spectrally in terms of wavelength, in
+      which case, "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, <i>α</i> + <i>ρ</i> + <i>τ</i> = 1 except
-      when {{17-21-017, polarized radiation}} is observed, where <i>ρ</i> is {{17-24-064,
-      reflectance}} and <i>τ</i> is {{17-24-065, transmittance}}.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] =
+      1 except when {{17-21-017, polarized radiation}} is observed, where stem:[rho]
+      is reflectance and stem:[tau] is transmittance.
     type: intensional
   - content: The absorptance has unit one.
     type: intensional
@@ -59,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-082
-id: 4e6a4532-b1b8-5f71-91db-d947948a750d
+id: a7846b12-435d-59f7-a565-adee5282d22d

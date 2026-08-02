@@ -16,17 +16,17 @@ id: f56964a7-e54d-5186-8875-a8436528f0ac
 ---
 data:
   definition:
-  - content: standardized unit of measure of {{17-26-029, erythemal radiation}}
+  - content: standardized unit of measure of erythemal radiation
     type: intensional
   examples: []
   notes:
-  - content: One standard erythema dose (1 SED) is equivalent to an {{17-26-066, erythemal
-      dose}} of 100 J·m<sup>−2</sup>.
+  - content: One standard erythema dose (1 SED) is equivalent to an erythemal radiant
+      exposure of 100 J·m^−2^.
     type: intensional
   - content: See also "{{17-26-068, minimal erythema dose}}".
     type: intensional
-  - content: See also ISO/CIE 17166<i> Erythema Reference Action Spectrum and Standard
-      Erythema Dose</i>.
+  - content: See also ISO/CIE 17166, _Erythema Reference Action Spectrum and Standard
+      Erythema Dose_.
     type: intensional
   - content: This entry was numbered 17-1255 and 17-1151 in CIE S 017:2011.
     type: intensional
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-069
-id: 0b8b75f8-43c7-5615-869a-c9642c6bbe2d
+id: 6d0f4c50-772d-5be8-bc6b-acc20b162833

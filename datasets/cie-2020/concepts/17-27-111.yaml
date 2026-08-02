@@ -16,8 +16,8 @@ id: c2a820f5-c331-5191-8b00-9381c44dea2c
 ---
 data:
   definition:
-  - content: "{{17-27-110, ambient temperature}} related to the performance of a {{17-27-001,
-      light source}} or a {{17-30-001, luminaire}} with a {{17-27-001, light source}}"
+  - content: ambient temperature related to the performance of a light source or a
+      luminaire with a light source
     type: intensional
   examples: []
   notes:
@@ -35,4 +35,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-111
-id: a05c7588-c61d-511b-b113-49691c16d2c5
+id: bd3a4d50-1795-582d-9462-2816abdc2a5a

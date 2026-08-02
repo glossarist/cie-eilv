@@ -16,21 +16,22 @@ id: 2438dec1-844b-5928-bbb6-fe5fb3092414
 ---
 data:
   definition:
-  - content: mean value of {{17-21-053, irradiance}} on the outer curved surface of
-      a very small (real or imaginary) cylinder that is oriented vertically at a point
-      in space
+  - content: mean value of irradiance on the outer curved surface of a very small
+      (real or imaginary) cylinder that is oriented vertically at a point in space
     type: intensional
   examples: []
   notes:
   - content: |-
-      Cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical irradiance <i>E</i><sub>e,v</sub> at a point
+      Cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical irradiance stem:[E_(e,v)] at a point
 
-      where <i>E</i><sub>e,v</sub> is the vertical irradiance for an area element with its normal in the direction <i>φ</i>, and <i>φ</i> is the angle in the plane perpendicular to the axis of the cylinder.
+      stem:[E_((e ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((e ,v)) d phi]
+
+      where stem:[E_(e,v)] is the vertical irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.
     type: intensional
-  - content: The corresponding photometric quantity is "{{17-21-063, cylindrical illuminance}}".
-      The corresponding quantity for photons is "{{17-21-069, photon cylindrical irradiance}}".
+  - content: The corresponding photometric quantity is "cylindrical illuminance".
+      The corresponding quantity for photons is "photon cylindrical irradiance".
     type: intensional
-  - content: The cylindrical irradiance is expressed in watt per square metre (W·m<sup>−2</sup>).
+  - content: The cylindrical irradiance is expressed in watt per square metre (W·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-41 in IEC 60050-845:1987.
     type: intensional
@@ -61,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-055
-id: db58a1e3-464c-5fb7-ba19-13c7f001e88f
+id: 66747790-c145-5a62-ba55-fbad68837c1e

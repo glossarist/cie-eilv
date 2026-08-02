@@ -16,25 +16,25 @@ id: 27009075-6133-5b18-9b7b-c2d511fe9d2d
 ---
 data:
   definition:
-  - content: digital encoding of a {{17-23-041, colour space}}, including the specification
-      of a digital encoding method, and an encoding range
+  - content: digital encoding of a colour space, including the specification of a
+      digital encoding method, and an encoding range
     type: intensional
   examples: []
   notes:
-  - content: 'Multiple colour space encodings can be defined based on a single {{17-23-041,
-      colour space}} where the different colour space encodings have different digital
-      encoding methods and/or encoding ranges. (For example, 8-bit sRGB in accordance
-      with IEC 61966-2-1 <i>Multimedia systems and equipment – Colour measurement
-      and management – Part 2‑1: Colour management – Default RGB colour space – sRGB</i>
-      and 16-bit scRGB in accordance with IEC 61966-2-2 <i>Multimedia systems and
-      equipment - Colour measurement and management – Part 2-2: Colour management
-      – Extended RGB colour space – scRGB</i> are different colour space encodings
-      based on a particular RGB colour space.)'
+  - content: 'Multiple colour space encodings can be defined based on a single colour
+      space where the different colour space encodings have different digital encoding
+      methods and/or encoding ranges. (For example, 8-bit sRGB in accordance with
+      IEC 61966-2-1, _Multimedia systems and equipment – Colour measurement and management
+      – Part 2-1: Colour management – Default RGB colour space – sRGB_ and 16-bit
+      scRGB in accordance with IEC 61966-2-2, _Multimedia systems and equipment –
+      Colour measurement and management – Part 2-2: Colour management – Extended RGB
+      colour space – scRGB_ are different colour space encodings based on a particular
+      RGB colour space.)'
     type: intensional
   - content: A colour space encoding is defined with a number of colour channels,
-      each channel corresponding to one dimension of the {{17-23-041, colour space}}.
-      Encoded colour channel data values indicate a position along the corresponding
-      dimension in the geometric {{17-23-041, colour space}} representation.
+      each channel corresponding to one dimension of the colour space. Encoded colour
+      channel data values indicate a position along the corresponding dimension in
+      the geometric colour space representation.
     type: intensional
   - content: This entry was numbered 17-227 in CIE S 017:2011.
     type: intensional
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-018
-id: 3d5e911b-6116-591b-b8a2-12683ffe9995
+id: cf560ea2-124b-5612-a610-fa8b02a2e13f

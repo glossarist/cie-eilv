@@ -17,11 +17,16 @@ id: c5c17f0b-7d20-54c0-9ef2-1f4b4d51b021
 data:
   definition:
   - content: maximum allowed value given by the CIE Glare Rating system
+    type: intensional
+  examples: []
   notes:
-  - content: See also CIE 112-1994 <i>Glare Evaluation System for Use within Outdoor
-      Sports- and Area Lighting</i>.
+  - content: See also CIE 112-1994, _Glare Evaluation System for Use within Outdoor
+      Sports- and Area Lighting_.
+    type: intensional
   - content: The glare rating limit has unit one.
-  - content: This entry was numbered 17-494 and 17-510 in CIE S 017:2011.
+    type: intensional
+  - content: This note applies to the French language only.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-106
-id: 70c03060-912f-5438-b078-e6520658d7bd
+id: 7ed28357-de39-5987-b632-79603b75a19c

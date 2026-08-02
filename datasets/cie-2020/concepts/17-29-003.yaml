@@ -16,12 +16,13 @@ id: d912b84d-ff4c-5da6-9b8e-cd890ba05134
 ---
 data:
   definition:
-  - content: art, science and design of {{17-29-001, lighting}} in general, and development
-      of systems for producing, directing, controlling or applying light in particular
+  - content: art, science and design of lighting in general, and development of systems
+      for producing, directing, controlling or applying light in particular
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-558 in CIE S 017:2011.
+  - content: In French, the term “éclairagisme” has a different meaning in technology
+      (see {{17-29-002, IEV 845-29-002}}).
     type: intensional
   sources:
   - origin:
@@ -40,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-003
-id: e32a5e54-1c45-5fdb-a863-3b5d7ebb62fb
+id: 6558a0d3-f6d3-5daa-83f4-93748d2f926b

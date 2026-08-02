@@ -16,15 +16,13 @@ id: d5dc1586-082d-5f46-8e72-d27d07610e85
 ---
 data:
   definition:
-  - content: attribute of a {{17-32-013, colour image encoding}} indicating the kind
-      of image condition inherent in {{17-32-009, colour image data}} values prepared
-      and represented in that encoding
+  - content: attribute of a colour image encoding indicating the kind of image condition
+      inherent in colour image data values prepared and represented in that encoding
     type: intensional
   examples: []
   notes:
-  - content: "{{17-32-009, colour image data}} are referred to a particular image
-      condition through image capture, digitization, {{17-22-107, colour rendering}}
-      and {{17-32-017, colour re-rendering}} processes."
+  - content: Colour image data are referred to a particular image condition through
+      image capture, digitization, colour rendering and colour re-rendering processes.
     type: intensional
   - content: Typical image states are scene-referred, original-referred, output-referred
       and picture-referred.
@@ -48,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-050
-id: 16803be6-c48e-5219-bb0e-f019e0cf148b
+id: 653ac868-ff4f-5c99-8a8d-ff647c25b714

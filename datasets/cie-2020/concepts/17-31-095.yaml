@@ -16,21 +16,20 @@ id: 3f3d897e-92ad-58ea-8dfa-76b33acfe69d
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} design technique where the light falls on objects
-      in the same direction as the traffic"
+  - content: lighting design technique where the light falls on objects in the same
+      direction as the traffic
     type: intensional
   examples: []
   notes:
-  - content: Pro-beam lighting is characterized by using {{17-30-001, luminaire}}s
-      that show a {{17-29-037, luminous intensity distribution}} that is asymmetric
-      in relation to the C90-C270 plane (the plane normal to the direction of the
-      traffic), where the maximum {{17-21-045, luminous intensity}} is aimed in the
-      same direction as the direction of the traffic.
+  - content: Pro-beam lighting is characterized by using luminaires that show a luminous
+      intensity distribution that is asymmetric in relation to the C90-C270 plane
+      (the plane normal to the direction of the traffic), where the maximum luminous
+      intensity is aimed in the same direction as the direction of the traffic.
     type: intensional
   - content: See also "{{17-31-097, symmetric lighting}}", "{{17-31-096, counter-beam
       lighting}}".
     type: intensional
-  - content: This entry was numbered 17-986 and 17-867 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-095
-id: 652e38a8-bfbe-59fb-8c85-1a0dd2f55910
+id: beb683da-ad7a-5dcb-bb05-7c3ed032ea54

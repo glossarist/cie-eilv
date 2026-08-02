@@ -17,15 +17,11 @@ id: d1adbc62-c3b3-575d-bebe-7e136bb70ba0
 data:
   definition:
   - content: quotient of the flux transmitted by a specimen in a given optical system
-      and the flux transmitted when the specimen is removed from the {{17-25-114,
-      sampling aperture}}
+      and the flux transmitted when the specimen is removed from the sampling aperture
     type: intensional
   examples: []
   notes:
-  - content: Comparison of the radiation penetrating a slide situated in a {{17-30-030,
-      projector}} and reaching a screen to the radiation when the slide is removed
-      from the {{17-30-030, projector}} and only an empty slide mount is in the {{17-30-030,
-      projector}}.
+  - content: The transmittance factor has unit one.
     type: intensional
   - content: The transmittance factor has unit one.
     type: intensional
@@ -51,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-074
-id: 88810772-4b14-56f7-abf2-d91e7d6a736a
+id: 9423d458-59ee-5750-bd81-4896d66aa172

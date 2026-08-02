@@ -16,10 +16,9 @@ id: 33e9afb0-24df-5d20-b5e8-488328af3d53
 ---
 data:
   definition:
-  - content: identifier that can be a word, {{17-31-132, symbol}}, or other group
-      of characters used to identify a file, a storage medium, an element defined
-      in a computer program, or a specific item in a document such as a spreadsheet
-      or a chart
+  - content: identifier that can be a word, symbol, or other group of characters used
+      to identify a file, a storage medium, an element defined in a computer program,
+      or a specific item in a document such as a spreadsheet or a chart
     type: intensional
   examples: []
   notes:
@@ -42,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-130
-id: a52ae70d-0584-596b-95e4-a971527d630d
+id: 926133e8-9184-5ec9-97b7-6ad45174a0ea

@@ -18,13 +18,17 @@ data:
   definition:
   - content: relationship between the log of the input levels and the corresponding
       digital output levels for an opto-electronic digital image capture system
+    type: intensional
+  examples: []
   notes:
   - content: If the input log exposure points are very finely spaced and the output
       noise is small compared to the quantization interval, the opto-electronic conversion
       function can have a step-like character. Such behaviour is an artefact of the
       quantization process and should be removed by using an appropriate smoothing
       algorithm or by fitting a smooth curve to the data.
-  - content: This entry was numbered 17-852 and 17-839 in CIE S 017:2011.
+    type: intensional
+  - content: This note applies to the French language only.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -45,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-059
-id: 4fb849bb-3b92-5b84-941d-d7f27461ec67
+id: f39729c5-93d7-5197-adaf-1c2b789f1592

@@ -17,11 +17,14 @@ id: a486356f-905e-59f4-8c14-4f95b96d9ada
 data:
   definition:
   - content: fraction of the total number of lamps which continue to operate at a
-      given <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-08">instant</a>
-      under defined conditions and the switching frequency
+      given <<113-01-08, instant>> under defined conditions and the switching frequency
+    type: intensional
+  examples: []
   notes:
   - content: The lamp survival factor has unit one.
-  - content: This entry was numbered 17-637 and 17-703 in CIE S 017:2011.
+    type: intensional
+  - content: This note applies to the French language only.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-149
-id: c95a5314-ff30-58a8-8cdd-67fee1541b96
+id: f0c55087-a1ca-588d-aca1-b2e67eb479c5

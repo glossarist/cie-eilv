@@ -16,7 +16,12 @@ id: d0fd2a5c-8662-5fbb-931c-28f9afe22a23
 ---
 data:
   definition:
-  - content: unwanted light that forms part of the measurement
+  - content: |-
+      unwanted light that forms part of the measurement
+
+
+
+      Light that reaches the detector which is at a wavelength other than the wavelength intended to be measured.
     type: intensional
   examples: []
   notes:
@@ -44,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-116
-id: 6494627d-2aab-585c-ba94-afb8a91e32f7
+id: 172e6197-ef44-5b18-baf0-8b0f114eb87f

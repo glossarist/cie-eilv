@@ -17,10 +17,15 @@ id: 408988f5-2429-5ca4-a5b0-bebb95f44548
 data:
   definition:
   - content: difference in electric potential due to the space charge near the cathode
+    type: intensional
+  examples: []
   notes:
   - content: The cathode fall is expressed in volt (V).
+    type: intensional
   - content: This entry was numbered 845-07-13 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-127 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -46,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-020
-id: 077db455-8b40-50e9-b348-7eb128b16ab8
+id: 7c99ee94-df56-535f-8680-96deda0a201a

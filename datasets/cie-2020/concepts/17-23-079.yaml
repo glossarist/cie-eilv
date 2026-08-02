@@ -16,13 +16,13 @@ id: 13b81e4c-943b-5ee6-91f1-8be2f6d46aab
 ---
 data:
   definition:
-  - content: "{{17-23-072, uniform-chromaticity-scale diagram}} produced by plotting
-      in rectangular coordinates <i>v</i> against <i>u</i>"
+  - content: uniform-chromaticity-scale diagram produced by plotting in rectangular
+      coordinates stem:[v] against stem:[u]
     type: intensional
   examples: []
   notes:
   - content: The CIE 1960 uniform-chromaticity-scale diagram is substantially used
-      for the determination of {{17-23-068, correlated colour temperature}}.
+      for the determination of correlated colour temperature.
     type: intensional
   - content: The {{17-23-073, CIE 1976 uniform-chromaticity-scale diagram}} is a modified
       version of the CIE 1960 uniform-chromaticity-scale diagram, which is equivalent
@@ -44,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-079
-id: 7a8933a2-a02e-5c1f-bf38-589a8b25204f
+id: bb415222-81ad-56b4-aa68-21bae54b2d19

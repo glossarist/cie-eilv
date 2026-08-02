@@ -17,14 +17,16 @@ id: fa3ab610-f997-5459-bf90-e131765dcc6c
 data:
   definition:
   - content: |-
-      quotient of the natural (Napierian) logarithm of the reciprocal of the {{17-24-088, spectral internal transmittance}}, <i>τ</i><sub>i </sub>(<i>λ</i>), of a layer of the medium and the length, <i>l</i>, of the path of a beam of radiation traversing that layer
+      quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
 
-      where <i>A</i><sub>n</sub>(<i>λ</i>) is {{17-24-091, Napierian spectral absorbance}}.
+      stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l) ln(10) = ((A_n ( lambda )))/(l)]
+
+      where stem:[A_n](stem:[lambda]) is Napierian spectral absorbance.
     type: intensional
   examples: []
   notes:
   - content: The Napierian spectral absorption coefficient is expressed in metre to
-      the power minus one (m<sup>−1</sup>).
+      the power minus one (m^−1^).
     type: intensional
   - content: This entry was numbered 845-04-85 in IEC 60050-845:1987.
     type: intensional
@@ -56,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-092
-id: 8a5bc385-6ae6-503a-854c-0e0a3aea51dc
+id: 5f2cea77-4c40-5dad-95b3-1aff9af78e0a

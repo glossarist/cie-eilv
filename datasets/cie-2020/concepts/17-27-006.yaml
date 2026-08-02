@@ -16,16 +16,14 @@ id: 529038bb-5c94-5b85-b690-0e831c12e102
 ---
 data:
   definition:
-  - content: "{{17-27-001, light source}} designed to be a non-replaceable part of
-      the {{17-30-001, luminaire}}"
+  - content: light source designed to be a non-replaceable part of the luminaire
     type: intensional
   examples: []
   notes:
   - content: An integral light source is always non-replaceable. A non-replaceable
       light source is not always an integral light source.
     type: intensional
-  - content: The non-replaceability can be the result of the {{17-30-001, luminaire}}
-      design.
+  - content: The non-replaceability can be the result of the luminaire design.
     type: intensional
   sources:
   - origin:
@@ -39,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-006
-id: e583a2fe-1c0b-5ab9-9813-1d1b4908ba4b
+id: 855d7c19-c12b-5a99-9589-45059e88ed87

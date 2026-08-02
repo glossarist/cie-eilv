@@ -16,9 +16,8 @@ id: 0116ec2f-5fa0-5d57-8518-9d5ec55d75d4
 ---
 data:
   definition:
-  - content: distance from a {{17-21-032, source}} within which the {{17-21-049, radiance}}
-      or {{17-21-053, irradiance}} for a given {{17-26-071, exposure duration}} exceeds
-      the applicable {{17-26-072, exposure limit}}
+  - content: distance from a source within which the radiance or irradiance for a
+      given exposure duration exceeds the applicable exposure limit
     type: intensional
   examples: []
   notes:
@@ -43,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-047
-id: 6f21a75e-b8fb-58f0-86b2-d47fe11d3026
+id: ce56f12a-a68d-5ee6-9b64-b3e7185ff78d

@@ -17,8 +17,8 @@ id: 9d1258ca-605d-5eda-81b0-e14149640766
 data:
   definition:
   - content: measurement of quantities referring to radiation as evaluated according
-      to a given {{17-21-035, spectral luminous efficiency}}, e.g. <i>V</i>(<i>λ</i>)
-      or <i>V</i>′(<i>λ</i>)
+      to a given {{17-21-035, spectral luminous efficiency}}, e.g. stem:[V](stem:[lambda])
+      or stem:[V]′(stem:[lambda])
     type: intensional
   examples: []
   notes:
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-013
-id: d2fb69d2-4f7d-5965-bce1-e8089bc0b761
+id: 59e16dd0-391c-579f-970c-1b017e401ab0

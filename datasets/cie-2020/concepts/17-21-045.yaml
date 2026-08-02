@@ -17,30 +17,33 @@ id: 71f65e1a-1d98-5700-a3b8-b51b0153bac8
 data:
   definition:
   - content: |-
-      density of {{17-21-039, luminous flux}} with respect to {{17-21-109, solid angle}} in a specified direction
-      <sub>
+      density of luminous flux with respect to solid angle in a specified direction
 
+      stem:[I_v = ((d Phi_v))/((d omega))]
 
-      </sub>where <i>Φ</i><sub>v</sub> is the {{17-21-039, luminous flux}} emitted in a specified direction, and <i>Ω</i> is the {{17-21-109, solid angle}} containing that direction
+      where stem:[Phi_v] is the luminous flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction
     type: intensional
   examples: []
   notes:
-  - content: For practical realization of the quantity, the {{17-21-032, source}}
-      is approximated by a {{17-21-033, point source}}.
+  - content: For practical realization of the quantity, the source is approximated
+      by a {{17-21-033, point source}}.
     type: intensional
   - content: |-
-      The distribution of the luminous intensities as a function of the direction of {{17-24-001, emission}}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the {{17-21-039, luminous flux}}, <i>Φ</i><sub>v</sub>, within a certain {{17-21-109, solid angle}}, <i>Ω</i>, of a {{17-21-032, source}}:
-      ..
-    type: intensional
-  - content: |-
-      Luminous intensity can be derived from the spectral {{17-21-044, radiant intensity}} distribution by
+      The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
 
-      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>I</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral radiant intensity at {{17-21-025, wavelength}} <i>λ</i>, and <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}.
+      stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-044, radiant intensity}}".
-      The corresponding quantity for photons is "{{17-21-046, photon intensity}}".
+  - content: |-
+      Luminous intensity can be derived from the spectral radiant intensity distribution by
+
+      stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+      where stem:[K_m] is maximum luminous efficacy, stem:[I_(e,stem:[lambda])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}}.
     type: intensional
-  - content: The luminous intensity is expressed in candela (cd = lm·sr<sup>−1</sup>).
+  - content: The corresponding radiometric quantity is "radiant intensity". The corresponding
+      quantity for photons is "photon intensity".
+    type: intensional
+  - content: The luminous intensity is expressed in candela (cd = lm·sr^−1^).
     type: intensional
   - content: This entry was numbered 845-01-31 in IEC 60050-845:1987.
     type: intensional
@@ -71,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-045
-id: 67e3c469-2d1a-5630-959d-3e52cf1ac6ba
+id: 42ca1114-2a30-5d3c-acee-1f2682ff2cbe

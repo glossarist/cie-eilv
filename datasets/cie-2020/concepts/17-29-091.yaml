@@ -16,14 +16,19 @@ id: 0d76001a-e418-5677-9833-254a803d8fe4
 ---
 data:
   definition:
-  - content: quotient of the flux, <i>Φ</i><sub>i</sub>, indirectly reaching a surface
-      in a cavity, and the primary flux, <i>Φ</i><sub>o </sub>, directly received
-      by another surface, the flux <i>Φ</i><sub>i</sub> resulting from the interreflection
-      undergone by the flux <i>Φ</i><sub>o</sub>
+  - content: quotient of the flux, stem:[Phi_i], indirectly reaching a surface in
+      a cavity, and the primary flux, stem:[Phi_o], directly received by another surface,
+      the flux stem:[Phi_i] resulting from the interreflection undergone by the flux
+      stem:[Phi_o]
+    type: intensional
+  examples: []
   notes:
   - content: The interreflection ratio has unit one.
+    type: intensional
   - content: This entry was numbered 845-09-75 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-600 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -46,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-091
-id: 69cac76b-5d92-5a59-8cfd-16d4f0d25ff6
+id: 89d954de-1343-54b3-b2e5-eb234b39a554

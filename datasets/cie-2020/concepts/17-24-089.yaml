@@ -23,8 +23,8 @@ data:
   examples: []
   notes:
   - content: For a given layer the spectral internal absorptance depends on the path
-      length of the radiation in the layer, and hence, in particular, on the {{17-25-078,
-      angle of incidence}}.
+      length of the radiation in the layer, and hence, in particular, on the angle
+      of incidence.
     type: intensional
   - content: The spectral internal absorptance has unit one.
     type: intensional
@@ -58,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-089
-id: 89978ce5-cdd4-520e-bcc0-becad4e5b64e
+id: 4879b477-c3f5-5a52-b197-e64d70e03f5d

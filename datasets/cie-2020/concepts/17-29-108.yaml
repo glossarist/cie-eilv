@@ -16,19 +16,18 @@ id: 3bb5fa92-643d-5335-8720-3b6d4ab49e4e
 ---
 data:
   definition:
-  - content: quotient of the vertical {{17-29-106, optical thickness}} of a real turbid
-      atmosphere and the vertical {{17-29-106, optical thickness}} of the pure and
-      dry atmosphere (Rayleigh atmosphere), related to the visible part of the solar
-      spectrum
+  - content: quotient of the vertical optical thickness of a real turbid atmosphere
+      and the vertical optical thickness of the pure and dry atmosphere (Rayleigh
+      atmosphere), related to the visible part of the solar spectrum
     type: intensional
   examples: []
   notes:
   - content: |-
       The luminous turbidity factor can be expressed by
-      <sub>
 
+      stem:[T_v = ((- ln ( E_((vs)) // E_v )))/((a_v m))]
 
-      </sub>where <i>E</i><sub>vs</sub> is the direct-beam {{17-21-060, illuminance}} on a horizontal surface (at the ground), <i>E</i><sub>v</sub> is the extraterrestrial {{17-21-061, horizontal illuminance}}, <i>a</i><sub>v</sub> is the {{17-21-106, luminous extinction coefficient}}, and <i>m</i> is the {{17-29-109, relative optical air mass}}.
+      where stem:[E_(vs)] is the direct-beam illuminance on a horizontal surface (at the ground), stem:[E_v] is the extraterrestrial horizontal illuminance, stem:[a_v] is the luminous extinction coefficient, and stem:[m] is the relative optical air mass.
     type: intensional
   - content: The luminous turbidity factor has unit one.
     type: intensional
@@ -54,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-108
-id: ac9bb80d-73e7-50f0-8508-412ee824ee16
+id: 7b7fbee4-8e47-52bb-a966-bf8adadefa3f

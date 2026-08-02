@@ -16,13 +16,12 @@ id: 4b5d59a2-4ec5-5991-bc92-310672a83d9d
 ---
 data:
   definition:
-  - content: "{{17-21-053, irradiance}} produced by the extraterrestrial {{17-29-096,
-      solar radiation}} on a surface perpendicular to the Sun's rays at mean Sun-Earth
-      distance"
+  - content: irradiance produced by the extraterrestrial solar radiation on a surface
+      perpendicular to the Sun's rays at mean Sun-Earth distance
     type: intensional
   examples: []
   notes:
-  - content: The solar constant is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+  - content: The solar constant is expressed in watt per square metre (W·m^−2^).
     type: intensional
   - content: This entry was numbered 845-09-78 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-097
-id: 35a58c46-db69-5d93-a05a-209cf123ed09
+id: 9d273b8f-a8ad-5608-bb5f-fb2bdb287838

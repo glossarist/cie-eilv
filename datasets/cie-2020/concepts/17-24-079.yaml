@@ -19,16 +19,18 @@ data:
   - content: |-
       quotient of the {{17-21-050, luminance}} at a surface element of a medium in a given direction and the {{17-21-060, illuminance}} on the medium
 
-      where <i>L</i><sub>v</sub> is {{17-21-050, luminance}} and <i>E</i><sub>v</sub> is {{17-21-060, illuminance}}
+      stem:[q_v = ((L_v))/((E_v))]
+
+      where stem:[L_v] is luminance and stem:[E_v] is illuminance
     type: intensional
   examples: []
   notes:
-  - content: The {{17-25-089, bi-directional reflectance distribution function}} (BRDF)
-      is similar to the luminance coefficient except that it is defined for directional
-      incident radiation.
+  - content: The bi-directional reflectance distribution function (BRDF) is similar
+      to the luminance coefficient except that it is defined for directional incident
+      radiation.
     type: intensional
   - content: The luminance coefficient is expressed in steradian to the power minus
-      one (sr<sup>−1</sup>).
+      one (sr^−1^).
     type: intensional
   - content: This entry was numbered 845-04-71 in IEC 60050-845:1987.
     type: intensional
@@ -59,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-079
-id: cd836c29-ce65-5159-b0b0-ec0d8a9245eb
+id: 56e8755e-2a1a-5c2a-95c2-4488ecf10938

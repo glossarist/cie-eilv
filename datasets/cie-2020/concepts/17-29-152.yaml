@@ -16,13 +16,13 @@ id: 901392fa-0ee0-5a5e-a2b2-28ee08644032
 ---
 data:
   definition:
-  - content: "{{17-29-151, average luminance}} of a specified surface when the {{17-29-034,
-      lighting installation}} is new"
+  - content: average luminance of a specified surface when the lighting installation
+      is new
     type: intensional
   examples: []
   notes:
   - content: The initial average luminance is expressed in candela per square metre
-      (cd·m<sup>−2</sup>).
+      (cd·m^−2^).
     type: intensional
   - content: This entry was numbered 17-583 in CIE S 017:2011.
     type: intensional
@@ -46,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-152
-id: 75c59761-ff14-5cfa-b802-156a72f5d4f4
+id: 5fb49430-f072-5085-825e-2443134121cd

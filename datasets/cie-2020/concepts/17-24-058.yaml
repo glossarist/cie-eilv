@@ -16,10 +16,9 @@ id: c0b9a912-c2fe-5ba2-91a2-881f871b393b
 ---
 data:
   definition:
-  - content: "{{17-24-054, diffuse reflection}} in which the spatial distribution
-      of the reflected radiation is such that the {{17-21-049, radiance}} or {{17-21-050,
-      luminance}} is the same in all directions in the hemisphere into which the radiation
-      is reflected"
+  - content: diffuse reflection in which the spatial distribution of the reflected
+      radiation is such that the radiance or luminance is the same in all directions
+      in the hemisphere into which the radiation is reflected
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-058
-id: e66403cd-f8a3-5693-918a-586763fae81d
+id: 01a4f306-0d61-53e9-ae65-1def4576691c

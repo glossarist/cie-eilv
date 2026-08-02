@@ -19,21 +19,26 @@ data:
   - content: |-
       change in {{17-21-037, luminous energy}} with time
 
-      where <i>Q</i><sub>v</sub> is the {{17-21-037, luminous energy}} emitted, transferred or received, and <i>t</i> is time
+      stem:[Phi_v = ((d Q_v))/((d t))]
+
+      where stem:[Q_v] is the luminous energy emitted, transferred or received, and stem:[t] is time
     type: intensional
   examples: []
   notes:
   - content: |-
-      Luminous flux is a quantity derived from the {{17-21-038, radiant flux}}, <i>Φ</i><sub>e</sub>, by evaluating the radiation according to its action upon the {{17-21-036, CIE standard photometric observer}}. Luminous flux can be derived from the spectral radiant flux distribution by
+      Luminous flux is a quantity derived from the radiant flux, stem:[Phi_e], by evaluating the radiation according to its action upon the {{17-21-036, CIE standard photometric observer}}. Luminous flux can be derived from the spectral radiant flux distribution by
 
-      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>Φ</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is spectral radiant flux, <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}} and <i>λ</i> is {{17-21-025, wavelength}}.
+      stem:[Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+      where stem:[K_m] is maximum luminous efficacy, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}} and stem:[lambda] is wavelength.
     type: intensional
   - content: |-
-      The distribution of the luminous intensities as a function of the direction of {{17-24-001, emission}}, e.g. given by the polar angles (<i>ϑ</i>, <i>φ</i>), is used to determine the luminous flux, <i>Φ</i><sub>v</sub>, within a certain {{17-21-109, solid angle}}, <i>Ω</i>, of a {{17-21-032, source}}:
-      .
+      The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
+
+      stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-038, radiant flux}}".
-      The corresponding quantity for photons is "{{17-21-040, photon flux}}".
+  - content: The corresponding radiometric quantity is "radiant flux". The corresponding
+      quantity for photons is "photon flux".
     type: intensional
   - content: The luminous flux is expressed in lumen (lm).
     type: intensional
@@ -66,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-039
-id: 487a0db9-57d2-5d0c-8bfe-594bf46fcecc
+id: f65daa3e-32d1-5dcc-9336-0f516be22dc5

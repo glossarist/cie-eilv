@@ -19,9 +19,13 @@ data:
   - content: deviation of the direction of propagation of radiation, determined by
       the wave nature of radiation, and occurring when the radiation passes the edge
       of an obstacle
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-01-13 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-301 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -44,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-024
-id: 413bb674-c673-5404-8e37-0084e43dee76
+id: 6703a748-98d7-5ef3-9593-e4e520181543

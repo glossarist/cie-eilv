@@ -17,8 +17,7 @@ id: '058f0f8d-0900-5b87-8e0a-a731e4fee1c6'
 data:
   definition:
   - content: medium that transmits no apparent radiation in the spectral range of
-      interest due to {{17-24-081, absorption}} or diffusion of the incident radiation
-      flux
+      interest due to absorption or diffusion of the incident radiation flux
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-121
-id: 440cf76d-1c8d-58c2-9911-05ee1d456d51
+id: e8f66bcd-c9d6-53e7-8d9b-10fa33dccf42

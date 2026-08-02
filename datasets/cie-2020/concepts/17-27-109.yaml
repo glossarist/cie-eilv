@@ -16,13 +16,13 @@ id: 38b5d9bb-e7f0-5746-b2c9-207e4848fca8
 ---
 data:
   definition:
-  - content: time that is required to obtain a stable photometric {{17-25-058, output}}
-      and electrical power consumption, with a constant electrical {{17-25-057, input}}
+  - content: time that is required to obtain a stable photometric output and electrical
+      power consumption, with a constant electrical input
     type: intensional
   examples: []
   notes:
-  - content: A {{17-30-001, luminaire}} integrated with a {{17-27-001, light source}},
-      such as an {{17-30-056, LED luminaire}}, is covered.
+  - content: A luminaire integrated with a light source, such as an LED luminaire,
+      is covered.
     type: intensional
   sources:
   - origin:
@@ -36,4 +36,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-109
-id: 427b3a89-ef0b-56cf-b4c0-a764c1c505c5
+id: 0b3656ca-3ee1-5c38-ae56-0f500ba4c43a

@@ -17,15 +17,14 @@ id: 1275c26d-b42c-528d-9bf9-3013c1420d27
 data:
   definition:
   - content: |-
-      quotient of the {{17-25-063, spectral responsivity}}, <i>s</i>(<i>λ</i>), of the {{17-25-035, detector}} at {{17-21-025, wavelength}}, <i>λ</i>, and a specified reference value, <i>s</i><sub>m</sub><sub>
+      quotient of the spectral responsivity, stem:[s](stem:[lambda]), of the detector at wavelength, stem:[lambda], and a specified reference value, stem:[s_m]
 
-
-      </sub>
+      stem:[s_r ( lambda ) = ((s ( lambda )))/((s_m))]
     type: intensional
   examples: []
   notes:
-  - content: The specified reference value, <i>s</i><sub>m</sub>, can be an average
-      value, a maximum value or an arbitrarily chosen value of <i>s</i>(<i>λ</i>).
+  - content: The specified reference value, stem:[s_m], can be an average value, a
+      maximum value or an arbitrarily chosen value of stem:[s](stem:[lambda]).
     type: intensional
   - content: The relative spectral responsivity has unit one.
     type: intensional
@@ -59,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-064
-id: 99790eb8-ec24-515c-8418-654dcddeaae5
+id: a60e18d4-cfef-56a8-bc6c-ef939bdc9f3b

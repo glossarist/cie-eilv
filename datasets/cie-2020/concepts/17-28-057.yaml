@@ -16,17 +16,16 @@ id: 17d0da17-6898-5bc9-acd3-c1562b337b4c
 ---
 data:
   definition:
-  - content: electronic device, being part of the {{17-28-048, control gear}}, designed
-      for controlling the electric energy to the {{17-27-053, LED light source}}
+  - content: electronic device, being part of the control gear, designed for controlling
+      the electric energy to the LED light source
     type: intensional
   examples: []
   notes:
   - content: The purpose of controlling the electric energy can be colour mixing,
-      responding to depreciating {{17-21-039, luminous flux}}, and other features.
+      responding to depreciating luminous flux, and other features.
     type: intensional
-  - content: In {{17-27-060, semi-integrated LED module}}s, the control unit of the
-      {{17-28-048, control gear}} is part of the {{17-27-058, LED module}} and separate
-      from the {{17-28-056, power supply of the control gear}}.
+  - content: In LEDsi modules, the control unit of the control gear is part of the
+      LED module and separate from the power supply of the control gear.
     type: intensional
   sources:
   - origin:
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-057
-id: 5ff25144-9fe3-5faf-82a7-41d591667a38
+id: 07dff683-61fe-510f-9ec1-c83804c3b3c6

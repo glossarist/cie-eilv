@@ -16,14 +16,14 @@ id: ef11f1e6-d629-551e-aff8-e389ad0f7f89
 ---
 data:
   definition:
-  - content: "{{17-21-015, spectrum}} of radiation whose {{17-21-029, spectral distribution}}
-      of a radiometric quantity as a function of {{17-21-025, wavelength}} is constant
-      throughout the visible region"
+  - content: spectrum of radiation whose {{17-21-029, spectral distribution}} of a
+      radiometric quantity as a function of wavelength is constant throughout the
+      visible region
     type: intensional
   examples: []
   notes:
   - content: The radiation of the equi-energy spectrum is sometimes regarded as an
-      {{17-23-018, illuminant}}, in which case it is denoted by the symbol E.
+      illuminant, in which case it is denoted by the symbol E.
     type: intensional
   - content: This entry was numbered 845-03-14 in IEC 60050-845:1987.
     type: intensional
@@ -54,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-023
-id: c658a11c-59b6-5198-a69b-b866f6da3213
+id: f6d227f3-4f47-585f-98e2-8e4e86383fb0

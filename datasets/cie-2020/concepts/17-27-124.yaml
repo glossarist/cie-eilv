@@ -16,17 +16,16 @@ id: '0480577f-2753-5fb3-b6fb-79f4c1cbf964'
 ---
 data:
   definition:
-  - content: electrical power consumed by the device in {{17-27-125, standby mode}}
+  - content: electrical power consumed by the device in standby mode
     type: intensional
   examples: []
   notes:
   - content: Standby power is typically expressed in milliwatt (mW).
     type: intensional
-  - content: For {{17-29-010, emergency lighting}} {{17-30-001, luminaire}}s, standby
-      power does not include the charging power.
+  - content: For emergency lighting luminaires, standby power does not include the
+      charging power.
     type: intensional
-  - content: The device can be a {{17-30-001, luminaire}}, {{17-28-048, control gear}},
-      etc.
+  - content: The device can be a luminaire, control gear, etc.
     type: intensional
   sources:
   - origin:
@@ -40,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-124
-id: 829c3216-c20f-5ef9-9991-840a9ee124ff
+id: dbdd9605-30d8-504b-a2df-444483f336e4

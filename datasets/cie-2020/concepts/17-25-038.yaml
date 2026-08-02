@@ -16,12 +16,11 @@ id: e75af9b2-05d8-5d48-8428-647df4af2413
 ---
 data:
   definition:
-  - content: "{{17-25-035, detector}} of {{17-21-002, optical radiation}} which utilizes
-      the interaction between radiation and matter resulting in the {{17-24-081, absorption}}
-      of {{17-21-107, photon}}s and the consequent liberation of electrons from their
-      states, thereby generating an electric potential or current, or causing a change
-      in electrical resistance, but excluding electrical phenomena caused by temperature
-      changes"
+  - content: detector of {{17-21-002, optical radiation}} which utilizes the interaction
+      between radiation and matter resulting in the absorption of photons and the
+      consequent liberation of electrons from their states, thereby generating an
+      electric potential or current, or causing a change in electrical resistance,
+      but excluding electrical phenomena caused by temperature changes
     type: intensional
   examples: []
   notes:
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-038
-id: 3a713ba6-00a4-55a8-8537-a9321c5dcf58
+id: 707eb4e1-65fb-58ae-918b-e5d68e3eb6a9

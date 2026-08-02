@@ -17,8 +17,9 @@ id: d693a77a-f4c5-57ee-bdb9-7a3d0b9ee232
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {{17-24-088, spectral internal transmittance}}, <i>τ</i><sub>i </sub>(<i>λ</i>)
-      <i>A</i><sub>i</sub>(<i>λ</i>) = −log<sub>10</sub> <i>τ</i><sub>i </sub>(<i>λ</i>)
+      logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
+
+      stem:[A_i](stem:[lambda]) = −log~10~ stem:[tau_i](stem:[lambda])
     type: intensional
   examples: []
   notes:
@@ -54,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-090
-id: 93bda0ce-7da1-5b1c-b06a-0018635d23c6
+id: 31718479-2981-5b16-8e95-6a739e10f3dc

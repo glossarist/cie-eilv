@@ -19,14 +19,19 @@ data:
   - content: angle subtended at the point of incidence by a given ray in the viewing
       direction and the specular direction defined by the incident ray and the surface
       normal
+    type: intensional
+  examples: []
   notes:
   - content: The incident and viewing rays, the surface normal and the specular direction
       all lie in a common plane.
-  - content: The aspecular angle is calculated as the difference between the viewing
-      direction and the specular direction and is understood to be positive when it
-      lies between the specular direction and the incident (illuminating) ray (see
-      the figure below).
-  - content: The aspecular angle is measured in radians (rad) or degrees (°).
+    type: intensional
+  - content: |-
+      The aspecular angle is calculated as the difference between the viewing direction and the specular direction and is understood to be positive when it lies between the specular direction and the incident (illuminating) ray (see the figure below).
+
+      image::/assets/images/parts/845/845-25-081-en.png[]
+    type: intensional
+  - content: The aspecular angle is measured in radian (rad) or degree (°).
+    type: intensional
   sources:
   - origin:
       ref:
@@ -39,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-081
-id: b57b3780-43b7-58f2-aa4d-1c7d5d4800eb
+id: f7eb179b-3437-5cde-b4db-5b213581f8ff

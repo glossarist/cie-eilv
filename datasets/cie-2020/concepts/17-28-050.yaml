@@ -16,9 +16,9 @@ id: 457c02a9-0df4-576b-a4f2-8e846c90bf6e
 ---
 data:
   definition:
-  - content: "{{17-28-048, control gear}} which operates the {{17-27-008, electric
-      lamp}} only in emergency mode or test mode and supports neither arc power control
-      commands nor corresponding configuration commands"
+  - content: control gear which operates the electric lamp only in emergency mode
+      or test mode and supports neither arc power control commands nor corresponding
+      configuration commands
     type: intensional
   examples: []
   notes: []
@@ -34,4 +34,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-050
-id: 4d94ec7a-95be-576f-b4f1-09eca4958312
+id: '008490ce-6d43-5403-a03d-9df7caa32984'

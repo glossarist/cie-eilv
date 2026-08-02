@@ -16,21 +16,18 @@ id: 67995dfe-004f-5971-ae19-1885f7da68f6
 ---
 data:
   definition:
-  - content: unit inserted between the <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=151-13-75">power
-      supply</a> and at least one {{17-27-001, light source}}, which serves to supply
-      the {{17-27-001, light source}}(s) with its (their) rated voltage or rated current,
-      and which can consist of one or more separate components
+  - content: unit inserted between the <<151-13-75, power supply>> and at least one
+      light source, which serves to supply the light source(s) with its (their) rated
+      voltage or rated current, and which can consist of one or more separate components
     type: intensional
   examples: []
   notes:
   - content: A control gear can include means for igniting, dimming, correcting the
       power factor and suppressing radio interference, and further control functions.
     type: intensional
-  - content: A control gear can consist of a <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=151-13-75">power
-      supply</a> and a control unit.
+  - content: A control gear can consist of a power supply and a control unit.
     type: intensional
-  - content: A control gear can be partly or totally integrated in the {{17-27-001,
-      light source}}.
+  - content: A control gear can be partly or totally integrated in the light source.
     type: intensional
   - content: The terms "control gear" and "controlgear" are interchangeable. In IEC
       standards, the term "controlgear" is commonly used.
@@ -51,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-048
-id: a104516a-b26c-51cc-99f0-f904782703c5
+id: a6b47205-559f-58d7-aed5-7bee105ed9b7

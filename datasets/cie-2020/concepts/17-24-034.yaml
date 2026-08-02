@@ -16,16 +16,15 @@ id: fad985ad-0b74-53cc-b689-68b9e8c2ca59
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-038, radiant flux}} of the radiation emitted
-      by a {{17-24-040, photoluminescent material}} and the {{17-21-038, radiant flux}}
-      of the radiation absorbed by that material
+  - content: quotient of the radiant flux of the radiation emitted by a {{17-24-040,
+      photoluminescent material}} and the radiant flux of the radiation absorbed by
+      that material
     type: intensional
   examples: []
   notes:
   - content: The term "photoluminescence radiant yield" is also used for the elementary
       process with a similar meaning, namely the quotient of the energy of the emitted
-      {{17-21-107, photon}} and the energy of the absorbed {{17-21-107, photon}} which
-      gave rise to it.
+      photon and the energy of the absorbed photon which gave rise to it.
     type: intensional
   - content: The photoluminescence radiant yield has unit one.
     type: intensional
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-034
-id: b7a4acc7-3262-54ec-be62-32b6abaff3e1
+id: 2bb2e002-684b-511b-a0e9-2f3eab1403cd

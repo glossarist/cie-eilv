@@ -16,13 +16,12 @@ id: e2de866d-ce7f-5990-9529-49ed94a337eb
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} containing in the same {{17-28-006, bulb}}
-      the {{17-28-038, arc tube}} of a mercury vapour lamp and an {{17-27-011, incandescent
-      lamp}} filament connected in series"
+  - content: electric lamp containing in the same bulb the arc tube of a mercury vapour
+      lamp and an incandescent lamp filament connected in series
     type: intensional
   examples: []
   notes:
-  - content: The {{17-28-006, bulb}} can be diffusing or coated with phosphors.
+  - content: The bulb can be diffusing or coated with phosphors.
     type: intensional
   - content: This entry was numbered 845-07-21 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-029
-id: accc6b4e-8f68-5e3c-bed1-8c64993803dc
+id: f0498c30-7dbc-5107-b9e2-39527716e7d6

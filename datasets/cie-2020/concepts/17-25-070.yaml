@@ -16,8 +16,8 @@ id: 5ad1126a-b1eb-5d15-8c01-2046a26ae318
 ---
 data:
   definition:
-  - content: "{{17-25-069, noise-equivalent input}} when the quantity that the {{17-25-035,
-      detector}} is being used to measure or detect is {{17-21-038, radiant flux}}"
+  - content: noise-equivalent input when the quantity that the detector is being used
+      to measure or detect is radiant flux
     type: intensional
   examples: []
   notes:
@@ -25,7 +25,7 @@ data:
     type: intensional
   - content: This entry was numbered 845-05-63 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-816 and 17-808 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-070
-id: 833aed2f-5c35-555b-b4c4-d0f77d0a94c3
+id: 148bc21d-0eea-55a9-8b50-fb9f4022161e

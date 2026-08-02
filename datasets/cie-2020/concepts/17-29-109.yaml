@@ -16,9 +16,10 @@ id: de219543-d5ca-533b-839e-5d93696c5129
 ---
 data:
   definition:
-  - content: quotient of the {{17-29-106, optical thickness}} of the atmosphere at
-      angle <i>ε</i> to the vertical, <i>δ</i> (<i>ε</i>), and the vertical {{17-29-106,
-      optical thickness}}, <i>δ</i> (0°), of the atmosphere
+  - content: |-
+      quotient of the {{17-29-106, optical thickness}} of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
+
+      stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]
     type: intensional
   examples: []
   notes:
@@ -27,11 +28,14 @@ data:
   - content: |-
       Several equations are available to express this concept. Usually the Kasten–Young formula is used:
 
-      where <i>γ</i><sub>s</sub> (= 90° − <i>ε</i>) is solar altitude (complementary angle of zenith angle, <i>ε</i>) in degrees.
+      stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(- 1 , 636 4)))]
+
+      where stem:[gamma_s] (= 90° − stem:[epsilon]) is solar altitude (complementary angle of zenith angle, stem:[epsilon]) in degree.
     type: intensional
   - content: |-
-      When the curvature of the atmosphere and atmospheric {{17-24-108, refraction}} are neglected:
-      .
+      When the curvature of the atmosphere and atmospheric refraction are neglected:
+
+      stem:[m = (1)/((cos epsilon))].
     type: intensional
   - content: The relative optical air mass has unit one.
     type: intensional
@@ -64,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-109
-id: bf948bed-33a4-514f-808b-685769b85bdb
+id: 9f37821b-f773-55df-a7a8-93f80d55f4c8

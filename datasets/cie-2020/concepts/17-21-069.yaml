@@ -16,22 +16,24 @@ id: 6a5de837-6b14-5b70-9531-66d45d976a52
 ---
 data:
   definition:
-  - content: mean value of {{17-21-058, photon irradiance}} on the outer curved surface
-      of a very small (real or imaginary) cylinder that is oriented vertically at
-      a point in space
+  - content: mean value of photon irradiance on the outer curved surface of a very
+      small (real or imaginary) cylinder that is oriented vertically at a point in
+      space
     type: intensional
   examples: []
   notes:
   - content: |-
-      Photon cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical {{17-21-058, photon irradiance}}, <i>E</i><sub>p,v</sub>, at a point
+      Photon cylindrical irradiance is sometimes also defined as the arithmetic mean of the vertical photon irradiance, stem:[E_(p,v)], at a point
 
-      where <i>E</i><sub>p,v</sub> is the vertical {{17-21-058, photon irradiance}} for an area element with its normal in the direction <i>φ</i>, and <i>φ </i>is the angle in the plane perpendicular to the axis of the cylinder.
+      stem:[E_((p ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((p ,v)) d phi]
+
+      where stem:[E_(p,v)] is the vertical photon irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-055, cylindrical irradiance}}".
-      The corresponding photometric quantity is "{{17-21-063, cylindrical illuminance}}".
+  - content: The corresponding radiometric quantity is "cylindrical irradiance". The
+      corresponding photometric quantity is "cylindrical illuminance".
     type: intensional
   - content: The photon cylindrical irradiance is expressed in second to the power
-      minus one per square metre (s<sup>−1</sup>·m<sup>−2</sup>).
+      minus one per square metre (s^−1^·m^−2^).
     type: intensional
   - content: This entry was numbered 17-921 in CIE S 017:2011.
     type: intensional
@@ -55,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-069
-id: 51c0e6ff-cfeb-535e-aea6-d6985fe65b95
+id: '034458cd-a10f-5e86-a304-59ea819c43f3'

@@ -17,10 +17,14 @@ id: 2d286bc4-5ae8-5b5a-b431-04c9a0cae0be
 data:
   definition:
   - content: phenomenon of change in a physical property of a propagating wave as
-      a function of its frequency
+      a function of its <<103-06-02, frequency>>
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-04-104 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-334 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-112
-id: 88de0d96-4bb4-521a-aeea-3e2e36200100
+id: 38bc8969-5045-52bc-82b7-aa96f78a6864

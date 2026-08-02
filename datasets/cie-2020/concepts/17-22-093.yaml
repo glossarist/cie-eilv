@@ -16,8 +16,8 @@ id: 4761eced-6b14-5756-bc1c-2a746e1a8b63
 ---
 data:
   definition:
-  - content: for a given set of conditions, the frequency of alternation of stimuli
-      above which {{17-22-092, flicker}} is not perceptible
+  - content: for a given set of conditions, the <<103-06-02, frequency>> of alternation
+      of stimuli above which flicker is not perceptible
     type: intensional
   examples: []
   notes:
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-093
-id: 61b2d079-44aa-51f3-87c4-68eab10889cc
+id: 16132b3c-f1bd-5a7e-8eee-dbff6901caca

@@ -17,23 +17,24 @@ id: 92eb8d61-97ed-54c3-95d9-0cb883a26d14
 data:
   definition:
   - content: "{{17-23-038, tristimulus values}} of monochromatic stimuli of equal
-      {{17-21-038, radiant flux}}"
+      radiant flux"
     type: intensional
   examples: []
   notes:
   - content: See also "{{17-23-032, colour-matching coefficients}}".
     type: intensional
-  - content: The colour-matching functions can be used to calculate the {{17-23-038,
-      tristimulus values}} of a {{17-23-002, colour stimulus}} from its {{17-23-003,
-      colour stimulus function}}s <i>φ<sub>λ</sub></i>(<i>λ</i>).
+  - content: The colour-matching functions can be used to calculate the tristimulus
+      values of a colour stimulus from its colour stimulus functions stem:[philambda](stem:[lambda]).
     type: intensional
-  - content: See also CIE 15<i> Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO/CIE 11664-1<i> Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers</i>.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers_.'
     type: intensional
-  - content: In the CIE standard colorimetric systems, the colour-matching functions
-      are represented by the symbols and .
+  - content: |-
+      In the CIE standard colorimetric systems, the colour-matching functions are represented by the symbols stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )]
+
+      and stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )].
     type: intensional
   - content: This entry was numbered 845-03-23 in IEC 60050-845:1987.
     type: intensional
@@ -71,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-039
-id: '0838265c-4055-56ae-b69d-4d5cc62cbb35'
+id: 45b15f25-7c21-5100-80c1-1c6a0d0795e6

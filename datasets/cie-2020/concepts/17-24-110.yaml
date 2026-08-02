@@ -16,8 +16,10 @@ id: 1c0ecb4b-e599-5142-afba-31a28c64ac06
 ---
 data:
   definition:
-  - content: where <i>a</i>(<i>λ</i>) is the {{17-24-085, spectral linear absorption
-      coefficient}}
+  - content: |-
+      stem:[kappa ( lambda ) = (lambda)/((4 pi)) a ( lambda )]
+
+      where stem:[a](stem:[lambda]) is the spectral linear absorption coefficient
     type: intensional
   examples: []
   notes:
@@ -53,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-110
-id: 07d91b6a-2e19-5b36-8ef8-3166bb816a2e
+id: 3202e18b-b430-5aee-b30c-6790986d8539

@@ -16,9 +16,8 @@ id: 37184a5b-a5cf-5ac1-a7e8-5fcda48f3d5a
 ---
 data:
   definition:
-  - content: angle that the {{17-25-098, first axis}} of the {{17-30-001, luminaire}}
-      makes with the nadir of the {{17-30-001, luminaire}}, when the {{17-25-112,
-      tilt during measurement}} is 0°
+  - content: angle that the first axis of the luminaire makes with the nadir of the
+      luminaire, when the tilt during measurement is 0°
     type: intensional
   examples: []
   notes:
@@ -47,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-111
-id: 1202efad-04ed-5940-8048-551f348a8565
+id: 047e9803-6b47-53da-9ada-15f8c583d0e8

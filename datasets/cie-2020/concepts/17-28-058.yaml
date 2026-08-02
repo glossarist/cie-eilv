@@ -16,8 +16,11 @@ id: b0d79c24-6969-53f0-afff-09c0e2a5142f
 ---
 data:
   definition:
-  - content: unit for the electronic conversion of AC supply at one frequency to an
-      AC supply at another frequency
+  - content: unit for the electronic conversion of AC supply at one <<103-06-02, frequency>>
+      to an AC supply at another frequency
+    type: intensional
+  examples: []
+  notes: []
   sources:
   - origin:
       ref:
@@ -30,4 +33,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-058
-id: 795c0199-e62c-5715-8d82-7a92579ea8a8
+id: ece3e351-6114-542d-982d-9dd98e59f74a

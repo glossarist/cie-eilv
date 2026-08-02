@@ -17,14 +17,13 @@ id: be1abec6-f2aa-535b-b3e0-1e10080243de
 data:
   definition:
   - content: angle a chosen reference direction makes with the vertical plane through
-      a given point on a road surface and the {{17-25-098, first axis}} of a {{17-30-001,
-      luminaire}}, when the {{17-30-001, luminaire}} is at its {{17-25-112, tilt during
-      measurement}}
+      a given point on a road surface and the first axis of a luminaire, when the
+      luminaire is at its tilt during measurement
     type: intensional
   examples: []
   notes:
-  - content: to entry:<i> </i>The reference direction for a straight road is by convention
-      the {{17-31-138, longitudinal direction}}.
+  - content: The reference direction for a straight road is by convention the longitudinal
+      direction.
     type: intensional
   - content: The installation azimuth is expressed in radian (rad) or degree (°).
     type: intensional
@@ -51,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-140
-id: a2d3e779-8907-556a-8ee2-4f3e3d9028f9
+id: 3530b5ea-6003-536a-8b84-c61dd64344de

@@ -21,9 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: "{{17-24-065, transmittance}}, <i>τ</i>, is the sum of {{17-24-067, regular
-      transmittance}}, <i>τ</i><sub>r</sub>, and diffuse transmittance, <i>τ</i><sub>d</sub>:<sub>
-      </sub><i>τ</i> = <i>τ</i><sub>r</sub> + <i>τ</i><sub>d</sub>."
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r],
+      and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   - content: The diffuse transmittance has unit one.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-069
-id: ec472ae6-f4ef-588f-a896-83f922036a2c
+id: 7ee6b8b2-9d78-52ba-a9b3-ffe56ac63c2c

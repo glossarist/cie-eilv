@@ -16,15 +16,14 @@ id: 90a59c69-7a31-534a-b0e0-f4d3c56b0004
 ---
 data:
   definition:
-  - content: "{{17-27-004, electric light source}} provided with at least one {{17-28-015,
-      cap}}"
+  - content: electric light source provided with at least one cap
     type: intensional
   examples: []
   notes:
   - content: For products that have the same physical characteristics as electric
-      lamps for {{17-29-007, general lighting}}, but that are built to emit {{17-21-002,
-      optical radiation}} mainly in the IR or UV spectrum, the term "IR lamp" or "UV
-      lamp" is often used.
+      lamps for general lighting, but that are built to emit {{17-21-002, optical
+      radiation}} mainly in the IR or UV spectrum, the term "IR lamp" or "UV lamp"
+      is often used.
     type: intensional
   - content: In IEC standards, "lamp" is commonly used with the same meaning.
     type: intensional
@@ -40,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-008
-id: b24ebf09-7767-5ae1-8ad7-75a852a6875d
+id: 486acc4f-d8fc-5b2a-b607-1e6fbed683e3

@@ -16,14 +16,13 @@ id: 636ba5d0-0b9e-5025-83e1-ba263e041fad
 ---
 data:
   definition:
-  - content: special case of the {{17-25-104, photometric distance law}} where the
-      surface is perpendicular to the direction of illumination and the relationship
-      becomes
+  - content: special case of the photometric distance law where the surface is perpendicular
+      to the direction of illumination and the relationship becomes stem:[E = (I)/((d^2))]
     type: intensional
   examples: []
   notes:
-  - content: For radiometric {{17-21-032, source}}s the equivalent term is "radiometric
-      inverse square law".
+  - content: For radiometric sources the equivalent term is "radiometric inverse square
+      law".
     type: intensional
   - content: This entry was numbered 17-913 in CIE S 017:2011.
     type: intensional
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-105
-id: 97a41a94-4a7a-5c5f-b293-0dc979ef1aa1
+id: 129a24eb-c8c8-5afe-9a0a-60db4793d189

@@ -17,11 +17,16 @@ id: 0dd15b5f-04da-5681-96b6-74914c335d50
 data:
   definition:
   - content: projection apparatus with optics designed to give even field illumination
-      of slides and, with a suitable objective lens, well defined projection of detail
+      of slides and, with a suitable objective lens, well-defined projection of detail
+    type: intensional
+  examples: []
   notes:
   - content: The slides can be of stationary or moving-effects type.
+    type: intensional
   - content: This entry was numbered 845-10-47 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-361 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -44,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-052
-id: fe65a52d-e76b-5b55-b263-99363d48068e
+id: 28ec918a-346a-54b5-8f4f-4ad134d662dd

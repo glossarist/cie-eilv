@@ -16,10 +16,9 @@ id: 2b7589e4-0c18-502f-bff6-bd1beaf03a52
 ---
 data:
   definition:
-  - content: direction of the maximum {{17-21-045, luminous intensity}} from a {{17-30-033,
-      floodlight}} or, where there is no unique maximum, the direction of the origin
-      to which the {{17-29-037, luminous intensity distribution}} of a {{17-30-033,
-      floodlight}} is referred
+  - content: direction of the maximum luminous intensity from a floodlight or, where
+      there is no unique maximum, the direction of the origin to which the luminous
+      intensity distribution of a floodlight
     type: intensional
   examples: []
   notes:
@@ -43,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-182
-id: a4e92048-20be-580c-b323-548c7634e7bc
+id: d2a4233c-e3a0-5c31-9e1e-b5fab57cabb4

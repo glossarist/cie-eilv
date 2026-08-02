@@ -16,20 +16,20 @@ id: 71f62d56-568c-5372-bf14-7a94b0463602
 ---
 data:
   definition:
-  - content: "{{17-21-054, spherical irradiance}} spectrally weighted with a stated
-      photobiological {{17-26-027, action spectrum}}"
+  - content: spherical irradiance spectrally weighted with a stated photobiological
+      action spectrum
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an {{17-26-027, action
-      spectrum}} is adopted for the photobiological effect considered, and that its
-      maximum value is 1.
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the photobiological effect considered, and that its maximum value
+      is 1.
     type: intensional
-  - content: It is essential to specify which {{17-26-027, action spectrum}} is used,
-      as the unit is the same for any {{17-26-027, action spectrum}}.
+  - content: It is essential to specify which action spectrum is used, as the unit
+      is the same for any action spectrum.
     type: intensional
   - content: The photobiological fluence rate is expressed in watt per square metre
-      (W⋅m<sup>−2</sup>).
+      (W·m^−2^).
     type: intensional
   - content: This entry was numbered 17-884 in CIE S 017:2011.
     type: intensional
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-039
-id: cd86338a-f9e2-5c48-962e-b292af8d8d8d
+id: 07b718d9-a2fe-55ed-9358-f23ab892f933

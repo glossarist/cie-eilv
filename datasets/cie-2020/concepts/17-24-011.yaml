@@ -16,9 +16,8 @@ id: dfb9c635-0c8e-57a6-a283-e8d5ada3b769
 ---
 data:
   definition:
-  - content: "{{17-24-003, thermal radiator}} whose spectral {{17-24-009, emissivity}}
-      is constant with respect to {{17-21-025, wavelength}} over the spectral range
-      considered"
+  - content: thermal radiator whose spectral emissivity is constant with respect to
+      wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-011
-id: 301a1ab3-f709-50f6-b182-a96f4fb70ae6
+id: 328071db-92e0-5747-bd83-68f4d18a4cea

@@ -19,11 +19,15 @@ data:
   - content: radiation that exhibits no preferential directional property in a plane
       normal to the direction of propagation of the radiation, the direction and phase
       of the electric field vector being randomly distributed
+    type: intensional
+  examples: []
   notes:
-  - content: 'to entry: A beam of unpolarized radiation can be regarded as being composed
-      of two components of equal amplitude but with orthogonal states of polarization,
-      the two components being unrelated in phase.'
+  - content: A beam of unpolarized radiation can be regarded as being composed of
+      two components of equal amplitude but with orthogonal states of polarization,
+      the two components being unrelated in phase.
+    type: intensional
   - content: This entry was numbered 17-1375 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -41,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-021
-id: 0cb150a6-083c-5dd7-a5a5-5f863a031873
+id: 9c4746bd-676c-5833-a607-d69b65e3aa86

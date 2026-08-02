@@ -16,10 +16,10 @@ id: ac39c4e0-2712-5929-9f18-10c8e4eb8976
 ---
 data:
   definition:
-  - content: logarithm to base 10 of the quotient of the {{17-21-050, luminance}}
-      of the {{17-23-081, adapted white}} of a scene or original, <i>Y</i><sub>adopted
-      white</sub>, and the {{17-21-050, luminance}} of a measured area of the scene
-      or original, <i>Y</i><sub>measured area</sub>
+  - content: |-
+      logarithm to base 10 of the quotient of the luminance of the {{17-32-058, adopted white}} of a scene or original, stem:[Y_(adopted white)], and the luminance of a measured area of the scene or original, stem:[Y_(measured area)]
+
+      stem:[D_v = (log)_((10)) ((Y_((adopted white))))/((Y_((measured area))))]
     type: intensional
   examples: []
   notes:
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-125
-id: 155cab2b-b4f8-57c3-8668-708c426af60a
+id: 61b025b7-0fcc-5a33-8b1d-3202633cd4e6

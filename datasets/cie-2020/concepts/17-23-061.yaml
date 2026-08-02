@@ -16,15 +16,15 @@ id: 59040e20-b1ad-5796-a494-18c7bc17847c
 ---
 data:
   definition:
-  - content: surface in tristimulus space that represents the locus of {{17-23-002,
-      colour stimulus}} of zero {{17-21-050, luminance}}
+  - content: surface in tristimulus space that represents the locus of colour stimuli
+      of zero luminance
     type: intensional
   examples: []
   notes:
   - content: The alychne passes through the origin of the space. It intersects any
-      {{17-23-054, chromaticity diagram}} in a straight line which is also called
-      the alychne; this line lies wholly outside the domain of chromaticities bounded
-      by the {{17-23-056, spectrum locus}} and the {{17-23-058, purple boundary}}.
+      chromaticity diagram in a straight line which is also called the alychne; this
+      line lies wholly outside the domain of chromaticities bounded by the spectrum
+      locus and the purple boundary.
     type: intensional
   - content: This entry was numbered 845-03-43 in IEC 60050-845:1987.
     type: intensional
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-061
-id: 9dda70c7-b2d4-5386-8897-038fdd9b7b77
+id: aa3f62bb-5a3e-5fdd-b142-df64b1cc7e6b

@@ -16,10 +16,9 @@ id: fc611d9a-3e87-52f4-bc3f-3bb3c92c506a
 ---
 data:
   definition:
-  - content: device for the visual appraisal or measurement of the {{17-23-001, colour}}
-      of materials or surfaces that provides {{17-21-056, spectral irradiance}} approximating
-      a {{17-23-021, CIE standard illuminant}} representing a phase of {{17-29-105,
-      daylight}}
+  - content: device for the visual appraisal or measurement of the colour of materials
+      or surfaces that provides spectral irradiance approximating a {{17-23-021, CIE
+      standard illuminant}} representing a phase of daylight
     type: intensional
   examples: []
   notes: []
@@ -35,4 +34,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-025
-id: 9da69b76-baa2-5e87-9687-7f39855d9e88
+id: 8ee35e3e-d15d-5ce9-9668-d431b15d8d92

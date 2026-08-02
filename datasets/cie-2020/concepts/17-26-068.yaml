@@ -16,23 +16,23 @@ id: e117cd4f-27d6-55b8-80ef-80d1243b14ad
 ---
 data:
   definition:
-  - content: "{{17-26-035, actinic dose}}, using the {{17-26-065, erythema spectral
-      weighting function}}, that produces a just noticeable {{17-26-028, actinic erythema}}
-      on a single individual's previously unexposed skin"
+  - content: actinic dose, using the erythema spectral weighting function, that produces
+      a just noticeable actinic erythema on a single individual's previously unexposed
+      skin
     type: intensional
   examples: []
   notes:
   - content: 'The minimal erythema dose is a subjective measure based on the reddening
       of the skin; it depends on many variables, e.g. individual sensitivity to {{17-21-008,
-      ultraviolet radiation}}, radiometric characteristics of the {{17-21-032, source}},
-      skin pigmentation, anatomic site, elapsed time between {{17-21-099, irradiation}}
-      and observation of the reddening (typical value: 24 h). Since the minimal erythema
-      dose varies with each individual, the use of this quantity should be reserved
-      solely for observational studies in humans and other animals.'
+      ultraviolet radiation}}, radiometric characteristics of the source, skin pigmentation,
+      anatomic site, elapsed time between irradiation and observation of the reddening
+      (typical value: 24 h). Since the minimal erythema dose varies with each individual,
+      the use of this quantity should be reserved solely for observational studies
+      in humans and other animals.'
     type: intensional
   - content: See also "{{17-26-069, standard erythema dose}}".
     type: intensional
-  - content: The minimal erythema dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+  - content: The minimal erythema dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
   - content: This entry was numbered 845-06-24 in IEC 60050-845:1987.
     type: intensional
@@ -63,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-068
-id: f8134195-6ebf-521b-8d99-311a47854897
+id: 35aba48d-e564-5d8b-b102-ba06122c206b

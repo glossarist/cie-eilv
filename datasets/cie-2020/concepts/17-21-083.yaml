@@ -16,11 +16,14 @@ id: 786dcb5b-bf28-50a1-b39b-5eab4a425760
 ---
 data:
   definition:
-  - content: See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=112-02-10">IEV
-      112-02-10</a>
+  - content: See <<112-02-10, IEV 112-02-10>>
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-01-50 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-117 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -46,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-083
-id: 25414313-ad9c-56dc-967f-0047271d7163
+id: '09c60516-6e05-5f74-b6dd-3631e5da292f'

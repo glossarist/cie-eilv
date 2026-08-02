@@ -18,9 +18,13 @@ data:
   definition:
   - content: marker post used as one of a series to indicate the line of the edge
       of a carriageway
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-11-66 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-289 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-064
-id: 18f71599-0edf-5127-8076-7c2f79aa377b
+id: 7d5f3788-1bb5-5fe1-ac43-52318a2f5211

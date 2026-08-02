@@ -21,10 +21,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Veiling glare lightens and reduces the {{17-22-089, contrast}} of the
-      darker parts of an image.
+  - content: Veiling glare lightens and reduces the contrast of the darker parts of
+      an image.
     type: intensional
-  - content: Formerly the term "ambient flare" was used, but this term is deprecated.
+  - content: Formerly the English term "ambient flare" and the French term "lumière
+      parasite ambiante" were used, but these terms are deprecated.
     type: intensional
   - content: This entry was numbered 17-1394 in CIE S 017:2011.
     type: intensional
@@ -49,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-066
-id: 4a68e922-de8c-519e-a8f7-93e1833882ab
+id: adc1f767-eec8-5362-8b21-cffa80de57ad

@@ -16,10 +16,10 @@ id: 7f8667e2-bb07-58bb-8376-2765447c9923
 ---
 data:
   definition:
-  - content: 'completely overcast sky for which the quotient of its {{17-21-050, luminance}},
-      <i>L<sub>γ</sub></i>, in the direction at an angle, <i>γ</i>, above the horizon
-      and its {{17-21-050, luminance}}, <i>L</i><sub>z</sub>, at the zenith is given
-      by the relation:'
+  - content: |-
+      completely overcast sky for which the quotient of its luminance, stem:[Lgamma], in the direction at an angle, stem:[gamma], above the horizon and its luminance, stem:[L_z], at the zenith is given by the relation
+
+      stem:[((L_(gamma)))/((L_z)) = ((1 + 2 sin gamma))/(3)]
     type: intensional
   examples: []
   notes:
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-111
-id: 70a46044-f127-532d-99b4-6c45f3a10595
+id: d47c5685-c21b-5d39-bf39-fc7e5b4869bd

@@ -17,23 +17,24 @@ id: a1cb1e3f-98d6-522f-854c-a9adf0b46ee8
 data:
   definition:
   - content: |-
-      product of the {{17-21-108, Planck constant}} and frequency
-      <i>Q</i><sub>p</sub> = <i>h</i>⋅<i>ν</i>
-      where <i>h</i> is the {{17-21-108, Planck constant}} and <i>ν</i> is the frequency of the corresponding electromagnetic wave
+      product of the Planck constant and <<103-06-02, frequency>>
+
+      stem:[Q_p] = stem:[h]·stem:[nu]
+
+      where stem:[h] is the Planck constant and stem:[nu] is the frequency of the corresponding electromagnetic wave
     type: intensional
   examples: []
   notes:
   - content: Photon energy can be emitted, transferred or received.
     type: intensional
-  - content: The energy of {{17-21-014, monochromatic radiation}}, <i>Q</i><sub>PF</sub>,
-      by a {{17-21-040, photon flux}} of {{17-21-107, photon}}s of frequency <i>ν</i>
-      is equal to the {{17-21-043, photon number}}, <i>N</i><sub>p</sub>, times the
-      photon energy (<i>Q</i><sub>PF</sub> = <i>N</i><sub>p</sub>·<i>h</i>·<i>ν</i>).
+  - content: The energy of {{17-21-014, monochromatic radiation}}, stem:[Q_(PF)],
+      by a photon flux of photons of frequency stem:[nu] is equal to the photon number,
+      stem:[N_p], times the photon energy (stem:[Q_(PF)] = stem:[N_p]·stem:[h]·stem:[nu]).
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-041, radiant energy}}".
-      The corresponding photometric quantity is "{{17-21-037, luminous energy}}".
+  - content: The corresponding radiometric quantity is "radiant energy". The corresponding
+      photometric quantity is "{{17-21-037, luminous energy}}".
     type: intensional
-  - content: The photon energy is expressed in joule (J = W·s).
+  - content: The photon energy is expressed in joule (J = W·s).
     type: intensional
   sources:
   - origin:
@@ -50,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-042
-id: 957d8ddc-3701-511a-bb82-fda9d3f55875
+id: 5e739d95-9ae1-5279-b892-d73ed8790039

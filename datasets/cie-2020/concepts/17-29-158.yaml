@@ -16,12 +16,12 @@ id: 51a59b3a-ef5c-50a3-9597-8396387ebeb2
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} due to the light received directly from {{17-27-002,
-      primary light source}}s or {{17-30-001, luminaire}}s"
+  - content: illuminance due to the light received directly from primary light sources
+      or luminaires
     type: intensional
   examples: []
   notes:
-  - content: The direct illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The direct illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-318 in CIE S 017:2011.
     type: intensional
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-158
-id: b9dd5661-6cf9-529f-9c3e-b957c3f7f96f
+id: f87c798a-7f37-579d-a346-8b487c9a7208

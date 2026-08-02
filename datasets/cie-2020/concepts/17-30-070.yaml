@@ -16,9 +16,8 @@ id: 5559c737-6f74-59fd-a149-ea8a62c4c4b9
 ---
 data:
   definition:
-  - content: "{{17-30-060, mine luminaire}} connected to an electric network by means
-      of the open magnetic circuit of a transformer that is an integral part of the
-      {{17-30-001, luminaire}}"
+  - content: mine luminaire connected to an electric network by means of the open
+      magnetic circuit of a transformer that is an integral part of the luminaire
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-070
-id: ee69b237-9ac7-50d6-bc14-0856afc7d8e2
+id: 48db0b27-d6ae-55d2-bb4a-aae685d48727

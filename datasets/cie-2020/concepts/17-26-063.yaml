@@ -16,22 +16,23 @@ id: 0a41dc11-59fe-54f3-b144-7576e5f741bf
 ---
 data:
   definition:
-  - content: quotient of {{17-26-055, blue light hazard}} weighted {{17-21-038, radiant
-      flux}} and {{17-21-038, radiant flux}}
+  - content: |-
+      quotient of blue light hazard weighted radiant flux and radiant flux
+
+      stem:[eta_B = ((int Phi_((e , lambda)) ( lambda ) B ( lambda ) d lambda))/((int Phi_((e , lambda)) ( lambda ) d lambda))]
     type: intensional
   examples: []
   notes:
-  - content: The blue light hazard efficiency of radiation, <i>η</i><sub>B</sub>,
-      is related to the {{17-26-061, blue light hazard efficacy of luminous radiation}},
-      <i>K</i><sub>B,v</sub>, through <i>η</i><sub>B</sub> = <i>K</i>⋅<i>K</i><sub>B,v</sub>,
-      where <i>K</i> is {{17-21-090, luminous efficacy of radiation}}, and to the
-      {{17-26-062, blue light hazard factor of luminous radiation}}, <i>α</i><sub>B,v</sub>,
-      through <i>η</i><sub>B</sub> = <i>V</i>⋅<i>α</i><sub>B,v</sub>, where <i>V</i>
-      is {{17-21-094, luminous efficiency}} of radiation.
+  - content: The blue light hazard efficiency of radiation, stem:[eta_B], is related
+      to the blue light hazard efficacy of luminous radiation, stem:[K_(B,v)], through
+      stem:[eta_B] = stem:[K·K_(B,v)], where stem:[K] is luminous efficacy of radiation,
+      and to the blue light hazard factor of luminous radiation, stem:[alpha_(B,v)],
+      through stem:[eta_B] = stem:[V·alpha_(B,v)], where stem:[V] is luminous efficiency
+      of radiation.
     type: intensional
-  - content: For some applications it might be necessary to state both, blue light
-      hazard efficiency of radiation, <i>η</i><sub>B</sub>, and {{17-26-061, blue
-      light hazard efficacy of luminous radiation}}, <i>K</i><sub>B,v</sub>.
+  - content: For some applications it might be necessary to state both blue light
+      hazard efficiency of radiation, stem:[eta_B], and blue light hazard efficacy
+      of luminous radiation, stem:[K_(B,v)].
     type: intensional
   - content: The blue light hazard efficiency of radiation has unit one.
     type: intensional
@@ -50,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-063
-id: cea3778d-6ebd-5bf1-a379-1b0ac18df0e0
+id: e665e5eb-2ac0-5657-a570-3af7fa29b1b1

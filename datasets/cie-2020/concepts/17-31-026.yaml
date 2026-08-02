@@ -16,10 +16,9 @@ id: acf1f0c3-54af-5d08-9b11-980c0c60b41e
 ---
 data:
   definition:
-  - content: greatest distance at which a given {{17-31-004, signal light}} can be
-      recognized in any particular circumstances, as limited only by the {{17-31-017,
-      atmospheric transmissivity}} and by the {{17-31-024, threshold of illuminance}}
-      at the eye of the observer
+  - content: greatest distance at which a given signal light can be recognized in
+      any particular circumstances, as limited only by the atmospheric transmissivity
+      and by the threshold of illuminance at the eye of the observer
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-026
-id: 2791afda-9208-51b3-b755-9b16cf15aaf2
+id: 0ccb17b5-32a2-5d1d-aa72-3961c2dc78bb

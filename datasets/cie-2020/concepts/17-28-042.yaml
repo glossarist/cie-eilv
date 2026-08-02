@@ -16,16 +16,15 @@ id: 3b2a87a8-b850-53ae-ba3d-42f5becbd1b5
 ---
 data:
   definition:
-  - content: device, usually for {{17-27-034, fluorescent lamp}}s, which is used for
-      the purpose of starting the {{17-27-024, discharge lamp}} by providing the necessary
-      preheating of the cathode and, in combination with the series inductance of
-      the {{17-28-044, ballast}}, causes a voltage surge applied to the {{17-27-024,
-      discharge lamp}}
+  - content: device, usually for fluorescent lamps, which is used for the purpose
+      of starting the discharge lamp by providing the necessary preheating of the
+      cathode and, in combination with the series inductance of the ballast, causes
+      a voltage surge applied to the discharge lamp
     type: intensional
   examples: []
   notes:
-  - content: The starter element that releases the {{17-27-116, starting voltage}}
-      pulse can be either triggered or non-triggered.
+  - content: The starter element that releases the starting voltage pulse can be either
+      triggered or non-triggered.
     type: intensional
   - content: This entry was numbered 845-08-32 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-042
-id: '01571947-0ead-51e2-92a7-2619439ad6dd'
+id: 4cd9b14a-1c6f-5206-9a3e-7576b7b3520a

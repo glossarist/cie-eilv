@@ -16,15 +16,15 @@ id: 5fef468a-fdb4-52e3-a113-f847fa5d6d67
 ---
 data:
   definition:
-  - content: "{{17-21-099, irradiation}} of reflecting materials at 45° to the normal,
-      at one azimuth angle"
+  - content: irradiation of reflecting materials at 45° to the normal, at one azimuth
+      angle
     type: intensional
   examples: []
   notes:
   - content: Forty-five degree directional geometry emphasizes texture and directionality.
     type: intensional
   - content: The "x" in the synonym indicates that the azimuthal direction of the
-      incident beam is in the <i>x</i> direction on the {{17-25-110, reference plane}}.
+      incident beam is in the stem:[x] direction on the reference plane.
     type: intensional
   - content: This entry was numbered 17-470 in CIE S 017:2011.
     type: intensional
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-097
-id: 9d851dfa-72e2-5975-8050-0b4b237a3c32
+id: 7998499f-5385-59c8-b09f-298a42f5ebea

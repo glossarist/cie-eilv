@@ -16,28 +16,33 @@ id: c076596b-f210-5ffe-acda-ec54bab86531
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} for which the {{17-21-025, wavelength}}s
-      are longer than those for {{17-21-003, visible radiation}}"
+  - content: "{{17-21-002, optical radiation}} for which the wavelengths are longer
+      than those for {{17-21-003, visible radiation}}"
     type: intensional
   examples: []
   notes:
   - content: |-
-      For infrared radiation, the range between 780 nm and 1 mm is commonly subdivided into:
-      {{17-21-005, IR-A}}: 780 nm to 1 400 nm, or 0,78 μm to 1,4 μm;
-      {{17-21-006, IR-B}}: 1,4 μm to 3,0 μm;
-      {{17-21-007, IR-C}}: 3 μm to 1 mm.
+      For infrared radiation, the range between 780 nm and 1 mm is commonly subdivided into:
+
+
+
+      * IR-A: 780 nm to 1 400 nm, or 0,78 μm to 1,4 μm;
+
+      * IR-B: 1,4 μm to 3,0 μm;
+
+      * IR-C: 3 μm to 1 mm.
     type: intensional
-  - content: A precise border between visible radiation and infrared radiation cannot
-      be defined because {{17-22-083, visual sensation}} at {{17-21-025, wavelength}}s
-      greater than 780 nm can be experienced.
+  - content: A precise border between "visible radiation" and "infrared radiation"
+      cannot be defined because visual sensation at wavelengths greater than 780 nm
+      can be experienced.
     type: intensional
   - content: In some applications the infrared spectrum has also been divided into
-      "near", "middle", and "far" infrared; however, the borders necessarily vary
+      "near," "middle," and "far" infrared; however, the borders necessarily vary
       with the application.
     type: intensional
-  - content: This entry was numbered 845-01-04 in IEC 60050-845:1987.
+  - content: This entry was numbered 845-01-04 in IEC 60050-845:1987
     type: intensional
-  - content: This entry was numbered 17-580 and 17-610 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -64,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-004
-id: 4c01d64f-55d6-5eae-8112-2f0aaa41d32f
+id: b4d8d274-6576-5bdf-af8d-a4f64275d2b8

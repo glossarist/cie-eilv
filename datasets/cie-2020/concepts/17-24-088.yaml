@@ -22,9 +22,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For a given layer the spectral internal transmittance depends on the
+  - content: For a given layer, the spectral internal transmittance depends on the
       path length of the radiation in the layer, and hence, in particular, on the
-      {{17-25-078, angle of incidence}}.
+      angle of incidence.
     type: intensional
   - content: The spectral internal transmittance has unit one.
     type: intensional
@@ -58,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-088
-id: aed66716-4ca1-5937-bfc3-2c3505a6b3eb
+id: 5504adfd-4d7b-5e85-9377-3d35ccdefcde

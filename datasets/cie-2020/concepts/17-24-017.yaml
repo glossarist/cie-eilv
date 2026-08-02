@@ -17,37 +17,39 @@ id: 4ed70b6e-d1a7-51dc-893d-6c8c0e46a1cf
 data:
   definition:
   - content: |-
-      temperature of the {{17-24-004, Planckian radiator}} whose {{17-21-030, relative spectral distribution}}, <i>S</i>(<i>λ</i>), is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of <i>a</i> and <i>T</i>:
+      temperature of the Planckian radiator whose {{17-21-030, relative spectral distribution}}, stem:[S](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
 
-      where <i>λ</i> is the {{17-21-025, wavelength}}, <i>S</i><sub>t</sub>(<i>λ</i>) is the {{17-21-030, relative spectral distribution}} of the radiation being considered, <i>S</i><sub>b</sub>(<i>λ</i>, <i>T</i>) is the {{17-21-030, relative spectral distribution}} of the {{17-24-004, Planckian radiator}} at temperature <i>T</i>, and <i>a</i> is a scaling factor
+      stem:[int_((lambda_1))^((lambda_2)) 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
+
+      where stem:[lambda] is the wavelength, stem:[S_t](stem:[lambda]) is the {{17-21-030, relative spectral distribution}} of the radiation being considered, stem:[S_b](stem:[lambda], stem:[T]) is the relative spectral distribution of the Planckian radiator at temperature stem:[T], and stem:[a] is a scaling factor
     type: intensional
   examples: []
   notes:
   - content: |-
-      The scaling factor <i>a</i> is chosen to make the quotient <sub> </sub>equal to unity at a convenient {{17-21-025, wavelength}} which, in {{17-25-013, photometry}} and {{17-25-014, colorimetry}} is typically 560 nm.
-      with , where <i>c</i><sub>2</sub> is the second radiation constant.
+      The scaling factor stem:[a] is chosen to make the quotient stem:[((S_t ( lambda )))/((S_b ( lambda , T )))] equal to unity at a convenient wavelength which, in photometry and colorimetry is typically 560 nm.
+
+      stem:[S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))]
+
+      with stem:[P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)], where stem:[c_2] is the second radiation constant.
     type: intensional
   - content: Distribution temperature is a meaningful characteristic for radiators
       having a {{17-21-030, relative spectral distribution}} similar to that of a
-      {{17-24-004, Planckian radiator}}, but only if calculated for an expanded {{17-21-025,
-      wavelength}} range and for radiation whose {{17-21-029, spectral distribution}}
-      of {{17-21-038, radiant flux}} is a continuous function of {{17-21-025, wavelength}}
-      in that range.
+      Planckian radiator, but only if calculated for an expanded wavelength range
+      and for radiation whose {{17-21-029, spectral distribution}} of radiant flux
+      is a continuous function of wavelength in that range.
     type: intensional
-  - content: In {{17-25-013, photometry}} and {{17-25-014, colorimetry}} the {{17-21-025,
-      wavelength}} range set by <i>λ</i><sub>1</sub> and <i>λ</i><sub>2</sub> is the
-      visible spectral range, and in these cases the range from at least <i>λ</i><sub>1</sub>
-      = 400 nm to <i>λ</i><sub>2</sub> = 750 nm is recommended.
+  - content: In photometry and colorimetry the wavelength range set by stem:[lambda_1]
+      and stem:[lambda_2] is the visible spectral range, and in these cases the range
+      from at least stem:[lambda_1] = 400 nm to stem:[lambda_2] = 750 nm is recommended.
     type: intensional
   - content: In practice, the integral is replaced by a summation. For {{17-27-011,
-      incandescent lamp}}s, equally spaced {{17-21-025, wavelength}} intervals of
-      10 nm will usually suffice. All values in the summation are treated with equal
-      weight.
+      incandescent lamps}}, equally spaced wavelength intervals of 10 nm will usually
+      suffice. All values in the summation are treated with equal weight.
     type: intensional
   - content: The distribution temperature is expressed in kelvin (K).
     type: intensional
-  - content: For further information, see CIE 114-1994<i> CIE Collection in Photometry
-      and Radiometry – 114/4 Distribution Temperature and Ratio Temperature</i>.
+  - content: For further information, see CIE 114-1994, _CIE Collection in Photometry
+      and Radiometry – 114/4 Distribution Temperature and Ratio Temperature_.
     type: intensional
   - content: This entry was numbered 845-04-14 in IEC 60050-845:1987.
     type: intensional
@@ -79,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-017
-id: 6136704c-ceb5-5e9d-a321-703dd9fe3a81
+id: a5457770-f9dc-5ba5-87cb-16b00a6e3376

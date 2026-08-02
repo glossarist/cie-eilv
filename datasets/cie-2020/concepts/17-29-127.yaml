@@ -16,13 +16,13 @@ id: d4147103-f145-523f-93d7-fe217a5b7a98
 ---
 data:
   definition:
-  - content: "{{17-21-050, luminance}} of a sky element"
+  - content: luminance of a sky element
     type: intensional
   examples: []
   notes:
-  - content: '{{17-21-050, luminance}} at the zenith is called "zenith luminance".'
+  - content: Luminance at the zenith is called "zenith luminance".
     type: intensional
-  - content: The sky luminance is expressed in candela per square metre (cd·m<sup>−2</sup>).
+  - content: The sky luminance is expressed in candela per square metre (cd·m^−2^).
     type: intensional
   - content: This entry was numbered 17-1193 in CIE S 017:2011.
     type: intensional
@@ -46,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-127
-id: 26bbe7de-9a32-5ef7-bdc4-38de0274396d
+id: b9330889-58f5-58e0-9ab7-9ae5d8cb11fb

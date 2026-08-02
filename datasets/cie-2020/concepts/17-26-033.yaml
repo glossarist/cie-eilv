@@ -16,14 +16,13 @@ id: 7868f407-88b4-516f-a211-b33d8bdb8b8e
 ---
 data:
   definition:
-  - content: "{{17-21-071, radiant exposure}}, when used in photochemistry, {{17-26-024,
-      phototherapy}} and {{17-26-008, photobiology}}"
+  - content: radiant exposure, when used in photochemistry, phototherapy and photobiology
     type: intensional
   examples: []
   notes:
   - content: See also "{{17-26-034, effective dose}}".
     type: intensional
-  - content: The dose is expressed in joule per square metre (J·m<sup>−2</sup>).
+  - content: The dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
   - content: This entry was numbered 845-06-21 in IEC 60050-845:1987.
     type: intensional
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-033
-id: 993e7879-7fdd-50f9-a969-c7cad806c901
+id: bab917c2-640c-5fd0-bdba-e3f18a10d1f3

@@ -16,31 +16,33 @@ id: f716b76f-6d57-5f41-bf61-a8c8e4809ab7
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-038, radiant flux}} or {{17-21-039, luminous
-      flux}} <i>Φ</i><sub>2</sub> (or <i>Φ</i><sub>1</sub>)<sub> </sub>that surface
-      S<sub>1</sub> (or S<sub>2</sub>) sends to surface S<sub>2</sub> (or S<sub>1</sub>)
-      and the {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}}
-      <i>M</i><sub>1 </sub>(or <i>M</i><sub>2</sub>)
+  - content: |-
+      quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}} stem:[M_1] (or stem:[M_2])
+
+      stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]
     type: intensional
   examples: []
   notes:
   - content: |-
-      Since <i>M</i> = π<i>L</i>, and in the particular case where all points on S<sub>1</sub> are seen from all points on S<sub>2</sub><sub> </sub>
+      Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
 
-      where <i>l</i> is the distance between the elements of areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> on the surfaces S<sub>1</sub> and S<sub>2</sub>, <i>G</i> is the {{17-21-047, geometric extent}} of the beam delimited by the boundaries of S<sub>1</sub> and S<sub>2</sub>, and <i>θ</i><sub>1</sub> and <i>θ</i><sub>2 </sub>are the angles between the surface normals of the two elementary areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> respectively and the line joining the two elementary areas.
+      stem:[g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G]
+
+      where stem:[l] is the distance between the elements of areas dstem:[A_1] and dstem:[A_2] on the surfaces S~1~ and S~2~, stem:[G] is the geometric extent of the beam delimited by the boundaries of S~1~ and S~2~, and stem:[theta_1] and stem:[theta_2] are the angles between the surface normals of the two elementary areas dstem:[A_1] and dstem:[A_2] respectively and the line joining the two elementary areas.
     type: intensional
   - content: |-
-      For two elementary areas d<i>A</i><sub>1</sub> and d<i>A</i><sub>2
+      For two elementary areas dA~1~ and dA~2~
 
+      stem:[d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2]
 
-      </sub>
-      where d<i>Ω</i><sub>1</sub> (or d<i>Ω</i><sub>2</sub>) is the {{17-21-109, solid angle}} which the area d<i>A</i><sub>2</sub> (or d<i>A</i><sub>1</sub>) subtends from the centre of d<i>A</i><sub>1</sub> (or d<i>A</i><sub>2</sub>).
+      where dstem:[Omega_1] (or dstem:[Omega_2]) is the solid angle which the area dstem:[A_2] (or dstem:[A_1]) subtends from the centre of dstem:[A_1] (or dstem:[A_2]).
     type: intensional
   - content: |-
-      The {{17-21-049, radiance}} or {{17-21-050, luminance}} <i>L</i> of the beam delimited by the boundaries of d<i>A</i><sub>1</sub> and d<i>A</i><sub>2</sub> is
-      .
+      The radiance or luminance stem:[L] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
+
+      stem:[L = (1)/(pi) ((d Phi))/((d g))].
     type: intensional
-  - content: The mutual exchange coefficient is expressed in square metre (m<sup>2</sup>).
+  - content: The mutual exchange coefficient is expressed in square metre (m^2^).
     type: intensional
   - content: This entry was numbered 845-09-71 in IEC 60050-845:1987.
     type: intensional
@@ -72,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-092
-id: c451259a-97be-50f7-9083-18af32fe0bf5
+id: 91b0b4c6-bb2a-52f9-ac1a-3edf3b151a86

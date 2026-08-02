@@ -16,10 +16,10 @@ id: a533818e-e723-5d56-9133-0f88ff581a0b
 ---
 data:
   definition:
-  - content: where <i>Φ</i><sub>e</sub> is the {{17-21-038, radiant flux}} of a collimated
-      beam entering the upper limit layers of the atmosphere at an angle <i>ε</i>
-      to the vertical, and is the attenuated {{17-21-038, radiant flux}} of that beam
-      reaching the surface of the Earth
+  - content: |-
+      stem:[delta ( epsilon ) = - ln ((Phi^( ' )_e))/((Phi_e))]
+
+      where stem:[Phi_e] is the radiant flux of a collimated beam entering the upper limit layers of the atmosphere at an angle stem:[epsilon] to the vertical, and stem:[Phi^( ' )_e] is the attenuated radiant flux of that beam reaching the surface of the Earth
     type: intensional
   examples: []
   notes:
@@ -57,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-106
-id: ccb5705f-a896-5e05-954f-dc01ecea55e6
+id: 235e1085-8296-5f71-a45c-18c980999de7

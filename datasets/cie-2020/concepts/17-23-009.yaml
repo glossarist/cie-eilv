@@ -16,16 +16,15 @@ id: ae814059-3012-548f-8daf-4c31873c27c8
 ---
 data:
   definition:
-  - content: stimulus that, under the prevailing conditions of {{17-22-012, adaptation}},
-      gives rise to an {{17-22-049, achromatic colour}}
+  - content: stimulus that, under the prevailing conditions of adaptation, gives rise
+      to an achromatic colour
     type: intensional
   examples: []
   notes:
-  - content: In the {{17-25-014, colorimetry}} of {{17-22-042, object colour}}s, the
-      {{17-23-002, colour stimulus}} produced by the {{17-24-060, perfect reflecting
-      diffuser}} or {{17-24-061, perfect transmitting diffuser}} is usually considered
-      to be an achromatic stimulus for all {{17-21-032, source}}s, except for those
-      that appear to be highly chromatic.
+  - content: In the colorimetry of object colours, the colour stimulus produced by
+      the perfect reflecting diffuser or perfect transmitting diffuser is usually
+      considered to be an achromatic stimulus for all sources, except for those that
+      appear to be highly chromatic.
     type: intensional
   - content: This entry was numbered 845-03-06 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-009
-id: ffd6f2bf-7db8-5819-a7e7-b192b2115c65
+id: 25edd632-eccc-5d56-900e-c5251fb97c95

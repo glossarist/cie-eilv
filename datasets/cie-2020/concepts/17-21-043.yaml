@@ -17,15 +17,18 @@ id: 20639442-3ff1-59af-bea0-3a2febcef0d8
 data:
   definition:
   - content: |-
-      quotient of {{17-21-041, radiant energy}} and {{17-21-042, photon energy}}
+      quotient of radiant energy and photon energy
 
-      where <i>Q</i><sub>e</sub> is {{17-21-041, radiant energy}}, <i>h</i> is the {{17-21-108, Planck constant}}, and is the frequency of the corresponding electromagnetic wave
+      stem:[N_p = ((Q_e))/((h nu))]
+
+      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the <<103-06-02, frequency>> of the corresponding electromagnetic wave
     type: intensional
   examples: []
   notes:
   - content: |-
-      Photon number can also be expressed by the time integral of the {{17-21-040, photon flux}}, <i>Φ</i><sub>p</sub>, over a given duration, Δ<i>t</i>:
-      <sub>.</sub>
+      Photon number can also be expressed by the time integral of the photon flux, stem:[Phi_p], over a given duration, stem:[Delta t]:
+
+      stem:[N_p = int_((Delta t)) Phi_p d t]
     type: intensional
   - content: The photon number has unit one.
     type: intensional
@@ -58,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-043
-id: 580e4fd8-7281-550f-bd42-9dd08617db67
+id: f686dffe-2cb1-5bc0-8a4c-d9498be8b957

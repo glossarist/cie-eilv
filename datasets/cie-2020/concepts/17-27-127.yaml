@@ -17,17 +17,22 @@ id: 6d1e37aa-2bd4-5977-8c04-85b1c4ddc768
 data:
   definition:
   - content: |-
-      ratio of the absolute value of the fundamental active power <i>P</i><sub>1</sub> to the fundamental apparent power <i>S</i><sub>1
+      ratio of the absolute value of the fundamental active power stem:[P_1] to the fundamental apparent power stem:[S_1]
 
-
-      </sub><i>λ</i><sub>1</sub>= |<i>P</i><sub>1</sub>| / <i>S</i><sub>1</sub>
+      stem:[lambda_1] = |stem:[P_1]| / stem:[S_1]
+    type: intensional
+  examples: []
   notes:
   - content: |-
       The fundamental power factor is also given by:
-      <i>λ</i><sub>1</sub> =|cos<i>φ</i><sub>1</sub>|
+
+      stem:[lambda_1] = |cos stem:[phi_1]|
+    type: intensional
   - content: The fundamental power factor only refers to fundamental quantities.
+    type: intensional
   - content: The fundamental power factor is sometimes called displacement factor
       or displacement power factor.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-127
-id: 5b99c8cb-93be-514d-9da7-1678717215ed
+id: a92916ce-570a-5fb8-9df2-187f75e1fa62

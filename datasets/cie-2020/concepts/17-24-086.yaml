@@ -16,13 +16,15 @@ id: b26d6215-86ce-5bde-83f3-e3a25b21215f
 ---
 data:
   definition:
-  - content: quotient of the {{17-24-083, spectral linear attenuation coefficient}},
-      <i>μ</i>(<i>λ</i>), and the mass density, <i>ρ</i>, of the medium
+  - content: |-
+      quotient of the {{17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
+
+      stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_(())))]
     type: intensional
   examples: []
   notes:
   - content: The spectral mass attenuation coefficient is expressed in square metre
-      per kilogram (m<sup>2</sup>·kg<sup>−1</sup>).
+      per kilogram (m^2^·kg^−1^).
     type: intensional
   - content: This entry was numbered 845-04-79 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-086
-id: e2f37de2-c301-52f2-895c-fcaeb2c93059
+id: cb09b8c8-7df1-5860-996e-b0f880ce5e4e

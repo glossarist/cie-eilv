@@ -16,8 +16,7 @@ id: baeeffeb-5938-5983-9191-21f87939688c
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} for which {{17-29-105, daylight}} is the {{17-27-001,
-      light source}}"
+  - content: lighting for which daylight is the light source
     type: intensional
   examples: []
   notes:
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-031
-id: 8866418a-6232-51d7-8a9c-ca23a12969f1
+id: b13a195c-cd24-5781-b3ec-4898b99822c3

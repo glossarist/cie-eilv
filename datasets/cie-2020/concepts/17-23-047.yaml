@@ -16,8 +16,10 @@ id: 94f3aa63-ab65-5db0-a1f1-53565ab6ae58
 ---
 data:
   definition:
-  - content: functions in the {{17-23-045, CIE 1931 standard colorimetric system}}
-      or in the {{17-23-046, CIE 1964 standard colorimetric system}}
+  - content: functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda
+      )] in the CIE 1931 standard colorimetric system or stem:[bar x_((10)) ( lambda
+      ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] in the CIE 1964 standard
+      colorimetric system
     type: intensional
   examples: []
   notes:
@@ -25,10 +27,10 @@ data:
       CIE 1931 standard colorimetric observer}}" and "{{17-23-050, CIE 1964 standard
       colorimetric observer}}".
     type: intensional
-  - content: See also CIE 15<i> Colorimetry</i>.
+  - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO/CIE 11664-1<i> Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers</i>.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers_.'
     type: intensional
   - content: This entry was numbered 845-03-30 in IEC 60050-845:1987.
     type: intensional
@@ -65,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-047
-id: 85ca577a-6403-53cf-ad5d-10c6353162b7
+id: fe988cf7-c165-502e-8304-c872b982b587

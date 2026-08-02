@@ -16,8 +16,8 @@ id: ef67d4ad-a5f6-5e2d-9b15-2d1905b13719
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} incorporating {{17-27-001, light source}}(s)
-      that operate with a no-load voltage over 1 000 V but not exceeding 10 000 V"
+  - content: luminaire incorporating light source(s) that operate with a no-load voltage
+      over 1 000 V but not exceeding 10 000 V
     type: intensional
   examples: []
   notes: []
@@ -33,4 +33,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-055
-id: e0201903-a8d5-59b7-8cea-bd526c368536
+id: ccba2e9d-7693-5d9f-b34e-1b32fd83a072

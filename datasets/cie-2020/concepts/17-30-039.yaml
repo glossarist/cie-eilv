@@ -16,18 +16,18 @@ id: 2e4cf715-03c9-5a87-8e11-b52cbbac93e2
 ---
 data:
   definition:
-  - content: device predominantly using {{17-24-049, scattering}} to alter the spatial
-      distribution of radiation from a {{17-21-032, source}}
+  - content: device predominantly using scattering to alter the spatial distribution
+      of radiation from a {{17-21-032, source}}
     type: intensional
   examples: []
   notes:
   - content: If all the radiation reflected or transmitted by the diffuser is scattered
-      with no {{17-24-052, regular reflection}} or {{17-24-053, regular transmission}},
-      the diffuser is said to be completely diffusing, independent of whether or not
-      the {{17-24-047, reflection}} or {{17-24-048, transmission}} is isotropic.
+      with no regular reflection or regular transmission, the diffuser is said to
+      be completely diffusing, independent of whether or not the reflection or transmission
+      is isotropic.
     type: intensional
-  - content: Besides {{17-24-049, scattering}}, a diffuser can also have a slight
-      {{17-24-047, reflection}} and {{17-24-081, absorption}} effect.
+  - content: Besides scattering, a diffuser can also have a slight reflection and
+      absorption effect.
     type: intensional
   - content: This entry was numbered 845-10-34 in IEC 60050-845:1987.
     type: intensional
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-039
-id: a5ccb23f-0fb9-5111-be34-6eaffedb9237
+id: 12d51218-6dc1-518c-a80a-fc2a8e05c9ec

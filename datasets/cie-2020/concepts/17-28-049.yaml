@@ -16,10 +16,9 @@ id: ac5d0c70-4a40-501f-a8fb-7058fbf76d84
 ---
 data:
   definition:
-  - content: "{{17-28-048, control gear}} that operates the {{17-27-008, electric
-      lamp}} at all times, no matter whether the mains is present or not, but which
-      supports neither arc power control commands nor corresponding configuration
-      commands"
+  - content: control gear that operates the electric lamp at all times, no matter
+      whether the mains is present or not, but which supports neither arc power control
+      commands nor corresponding configuration commands
     type: intensional
   examples: []
   notes: []
@@ -35,4 +34,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-049
-id: d016ed20-9873-5b41-b252-57a28614fb0e
+id: 040eb6f0-c547-5f47-bfcf-32e5d7eb76eb

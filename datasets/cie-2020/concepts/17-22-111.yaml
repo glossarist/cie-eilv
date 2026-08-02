@@ -16,13 +16,13 @@ id: 42e9896a-3579-579c-97ac-9dd65e6a07d9
 ---
 data:
   definition:
-  - content: mean of the {{17-22-110, CIE 1974 special colour rendering index}} for
-      a specified set of eight test colour samples
+  - content: mean of the CIE 1974 special colour rendering indices for a specified
+      set of eight test colour samples
     type: intensional
   examples: []
   notes:
-  - content: See also CIE 13<i> Method of Measuring and Specifying Colour Rendering
-      of Light Sources</i>.
+  - content: See also CIE 13, _Method of Measuring and Specifying Colour Rendering
+      of Light Sources_.
     type: intensional
   - content: This entry was numbered 845-02-63 in IEC 60050-845:1987.
     type: intensional
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-111
-id: a5ba4f80-232c-510a-8fe6-646ee81330f7
+id: 3983e21f-075e-5711-9136-20f2da73b770

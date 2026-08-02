@@ -16,9 +16,9 @@ id: 71f23036-bb91-5062-858a-0e3fa71e5546
 ---
 data:
   definition:
-  - content: "{{17-21-001, electromagnetic radiation}} at {{17-21-025, wavelength}}s
-      between the region of transition to X-rays (<i>λ</i> ≈ 1 nm) and the region
-      of transition to radio waves (<i>λ</i> ≈ 1 mm)"
+  - content: electromagnetic radiation at wavelengths between the region of transition
+      to X-rays (stem:[lambda] ≈ 1 nm) and the region of transition to radio waves
+      (stem:[lambda] ≈ 1 mm)
     type: intensional
   examples: []
   notes:
@@ -48,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-002
-id: 4a7fe37c-c563-5fc8-825c-36310a1ad587
+id: 35e97257-44f4-55e5-b7f1-b6a12ba85dd5

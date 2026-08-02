@@ -16,15 +16,16 @@ id: 19fc40ec-8a90-5faf-8aa6-5b29781a7c76
 ---
 data:
   definition:
-  - content: equipment for {{17-29-001, lighting}} or its control
+  - content: equipment for lighting or its control
     type: intensional
   examples: []
   notes:
   - content: See also "{{17-29-003, illuminating engineering}}".
     type: intensional
-  - content: This entry was numbered 845-09-02 in IEC 60050-845:1987.
+  - content: In French, the term “éclairagisme” has a different meaning in engineering
+      (see {{17-29-003, IEV 845-29-003}}).
     type: intensional
-  - content: This entry was numbered 17-679 in CIE S 017:2011.
+  - content: This entry was numbered 845-09-02 in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -48,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-002
-id: 18f8e034-f805-5fdb-9ca1-57dc6226fc73
+id: 5dfd4861-1257-54b0-92b7-e0a2267af922

@@ -17,18 +17,20 @@ id: 72500378-b756-5a84-bb69-0f5e179fec32
 data:
   definition:
   - content: |-
-      change in {{17-21-041, radiant energy}} with time
+      change in radiant energy with time
 
-      where <i>Q</i><sub>e</sub> is the {{17-21-041, radiant energy}} emitted, transferred or received, and <i>t </i>is time
+      stem:[Phi_e = ((d Q_e))/((d t))]
+
+      where stem:[Q_e] is the radiant energy emitted, transferred or received, and stem:[t] is time
     type: intensional
   examples: []
   notes:
-  - content: The corresponding photometric quantity is "{{17-21-039, luminous flux}}".
-      The corresponding quantity for photons is "{{17-21-040, photon flux}}".
+  - content: The corresponding photometric quantity is "luminous flux". The corresponding
+      quantity for photons is "photon flux".
     type: intensional
   - content: The term "radiant flux" is the preferred term for most radiometric applications,
-      with the notable exception of {{17-27-136, laser}} radiometry where the term
-      "radiant power" is more commonly used.
+      with the notable exception of laser radiometry where the term "radiant power"
+      is more commonly used.
     type: intensional
   - content: The radiant flux is expressed in watt (W).
     type: intensional
@@ -61,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-038
-id: 4a236414-40e4-5e63-820f-23a2cd9ae00a
+id: be5f4432-11e4-5a02-b73a-a6d44ac7e1e1

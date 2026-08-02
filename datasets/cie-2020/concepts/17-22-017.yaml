@@ -16,17 +16,16 @@ id: bdfc1923-7d49-59f3-8c1d-3e5c77c0503b
 ---
 data:
   definition:
-  - content: vision by the normal eye in which {{17-22-003, rods}} are the principal
-      active photoreceptors
+  - content: vision by the normal eye in which rods are the principal active photoreceptors
     type: intensional
   examples: []
   notes:
   - content: Scotopic vision normally occurs when the eye is adapted to levels of
-      {{17-21-050, luminance}} of less than 0,005 cd·m<sup>−2</sup>.
+      luminance of less than 0,005 cd·m^−2^.
     type: intensional
-  - content: In comparison with {{17-22-016, photopic vision}}, scotopic vision is
-      characterized by the lack of colour perception and by a shift of the visual
-      sensitivity function towards shorter {{17-21-025, wavelength}}s.
+  - content: In comparison with photopic vision, scotopic vision is characterized
+      by the lack of colour perception and by a shift of the visual sensitivity function
+      towards shorter wavelengths.
     type: intensional
   - content: This entry was numbered 845-02-10 in IEC 60050-845:1987.
     type: intensional
@@ -54,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-017
-id: 8c91dcf2-bb00-538d-89f5-50983ec11594
+id: be2d3cd5-5dd0-524d-af11-e1c23cce9fc4

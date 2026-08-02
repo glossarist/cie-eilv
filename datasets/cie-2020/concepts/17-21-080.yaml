@@ -17,20 +17,21 @@ id: 4fea71e7-74d5-5128-acad-69534fc8b1c0
 data:
   definition:
   - content: |-
-      density of exiting {{17-21-038, radiant flux}} with respect to area at a point on a real or imaginary surface
+      density of exiting radiant flux with respect to area at a point on a real or imaginary surface
 
-      where <i>Φ</i><sub>e</sub> is {{17-21-038, radiant flux}} and <i>A</i> is the area from which the {{17-21-038, radiant flux}} leaves
+      stem:[M_e = ((d Phi_e))/((d A))]
+
+      where stem:[Phi_e] is radiant flux and stem:[A] is the area from which the radiant flux leaves
     type: intensional
   examples: []
   notes:
-  - content: For Planckian radiation, <i>M</i><sub>e</sub> = <i>σ</i> <i>T</i><sup>4</sup>
-      where <i>σ</i> is the Stefan–Boltzmann constant and <i>T</i> is thermodynamic
-      temperature.
+  - content: For Planckian radiation, stem:[M_e] = stem:[sigmaT^4] where stem:[sigma]
+      is the Stefan-Boltzmann constant and stem:[T] is thermodynamic temperature.
     type: intensional
-  - content: The corresponding photometric quantity is "{{17-21-081, luminous exitance}}".
-      The corresponding photon quantity is "{{17-21-082, photon exitance}}".
+  - content: The corresponding photometric quantity is "luminous exitance". The corresponding
+      photon quantity is "photon exitance".
     type: intensional
-  - content: The radiant exitance is expressed in watt per square metre (W⋅m<sup>−2</sup>).
+  - content: The radiant exitance is expressed in watt per square metre (W·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-47 in IEC 60050-845:1987.
     type: intensional
@@ -61,4 +62,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-080
-id: ff97c843-3492-51f3-a742-907400f46f81
+id: ebfb36a7-381d-5f6c-8457-49b68243a0a0

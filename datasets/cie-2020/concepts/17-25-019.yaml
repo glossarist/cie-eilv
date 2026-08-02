@@ -17,9 +17,13 @@ id: c18996af-de93-531c-b182-76d428d2e966
 data:
   definition:
   - content: instrument for measuring photometric quantities
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-05-15 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-909 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-019
-id: 7b015c5c-d72c-5a14-a099-2c7fa56c8c13
+id: 916eb856-0825-53d6-9b97-ce592af126fd

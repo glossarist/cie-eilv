@@ -16,9 +16,10 @@ id: db422997-df51-5a89-84c7-f37c81914002
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-080, radiant exitance}} of a radiator, <i>M</i><sub>e</sub>,
-      and the {{17-21-080, radiant exitance}} of a {{17-24-004, Planckian radiator}}
-      at the same temperature, <i>M</i><sub>b</sub>
+  - content: |-
+      quotient of the radiant exitance of a radiator, stem:[M_e], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
+
+      stem:[epsilon = ((M_e))/((M_b))]
     type: intensional
   examples: []
   notes:
@@ -53,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-009
-id: ca51f633-edf7-5447-9c28-ddf580b5f086
+id: 7373c37c-e38e-5c6f-a7a6-67cf8d107921

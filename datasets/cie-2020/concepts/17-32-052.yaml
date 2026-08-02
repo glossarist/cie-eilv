@@ -16,10 +16,9 @@ id: b25f83d4-f2ea-56b5-b611-a685633850d7
 ---
 data:
   definition:
-  - content: "{{17-32-050, image state}} associated with image data that represents
-      the {{17-23-041, colour space}} coordinates of the elements of an image that
-      has undergone {{17-22-107, colour rendering}} appropriate for a specified real
-      or virtual output device and viewing conditions"
+  - content: image state associated with image data that represents the colour space
+      coordinates of the elements of an image that has undergone colour rendering
+      appropriate for a specified real or virtual output device and viewing conditions
     type: intensional
   examples: []
   notes:
@@ -34,8 +33,8 @@ data:
     type: intensional
   - content: Output-referred image data can become the starting point for a subsequent
       reproduction process. For example, sRGB output-referred image data are frequently
-      considered to be the starting point for the {{17-32-017, colour re-rendering}}
-      performed by a printer designed to receive sRGB image data.
+      considered to be the starting point for the colour re-rendering performed by
+      a printer designed to receive sRGB image data.
     type: intensional
   - content: This entry was numbered 17-565 in CIE S 017:2011.
     type: intensional
@@ -56,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-052
-id: 3ac75801-0bae-5c90-812f-e8e8da6fe2dd
+id: c9d39114-0081-5795-8b6b-33f40a9ea9d1

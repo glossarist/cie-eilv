@@ -16,14 +16,13 @@ id: 417f9537-8cd2-56d1-a8f7-e7e8fd887cdc
 ---
 data:
   definition:
-  - content: ratio of the maximum {{17-21-045, luminous intensity}} of the {{17-30-001,
-      luminaire}}, generally a {{17-30-030, projector}}, to the {{17-29-040, mean
-      spherical luminous intensity}} of its lamp
+  - content: ratio of the maximum luminous intensity of the luminaire, generally a
+      {{17-30-030, projector}}, to the mean spherical luminous intensity of its lamp
     type: intensional
   examples: []
   notes:
   - content: In certain countries, the definition of the magnification ratio varies
-      according to the types of {{17-30-001, luminaire}}s or lamps.
+      according to the types of luminaires or lamps.
     type: intensional
   - content: The magnification ratio has unit one.
     type: intensional
@@ -54,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-056
-id: c5a1c270-9708-5718-9c04-4472652fa90c
+id: 4fe67c56-95a1-5005-a5a0-8fbae7114738

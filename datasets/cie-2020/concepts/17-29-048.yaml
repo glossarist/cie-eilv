@@ -16,8 +16,8 @@ id: a76c793e-9f08-51f9-81ea-de2cf2d70ea4
 ---
 data:
   definition:
-  - content: "{{17-29-044, cumulative flux}} for the {{17-21-109, solid angle}} 2π
-      sr, above the horizontal plane passing through the {{17-27-001, light source}}"
+  - content: cumulative flux for the solid angle 2π sr, above the horizontal plane
+      passing through the light source
     type: intensional
   examples: []
   notes:
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-048
-id: 29b1a95e-afd3-517b-a8c1-987583b6aa3e
+id: 4b1c1732-ab9e-5192-bd55-83c84791aa28

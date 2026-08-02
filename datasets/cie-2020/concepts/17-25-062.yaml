@@ -16,10 +16,10 @@ id: bb4e7e9f-2b2c-5506-b469-bf84392efb98
 ---
 data:
   definition:
-  - content: quotient of the {{17-25-061, responsivity}}, <i>s</i>(<i>Z</i>), when
-      the {{17-25-035, detector}} is irradiated with radiation, <i>Z</i>, and the
-      {{17-25-061, responsivity}}, <i>s</i>(<i>N</i>), when it is irradiated with
-      a reference radiation, <i>N</i>
+  - content: |-
+      quotient of the responsivity, stem:[s](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
+
+      stem:[s_r = ((s ( Z )))/((s ( N )))]
     type: intensional
   examples: []
   notes:
@@ -55,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-062
-id: 0624fdbd-48b1-503d-acf6-ded8a12055b9
+id: 3bf88aaa-6156-513c-970a-4b3eb3a96556

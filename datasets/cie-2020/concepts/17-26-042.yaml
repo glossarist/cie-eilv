@@ -18,9 +18,13 @@ data:
   definition:
   - content: natural or artificial cycle of light and darkness to which living organisms
       can be exposed
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-06-27 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-936 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-042
-id: 7d684029-3946-5839-b8a9-1f0d649efd87
+id: be9b8f83-e574-5219-b3ed-2b64ca0ef098

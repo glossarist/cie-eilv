@@ -21,12 +21,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The normalized action spectrum is the {{17-21-025, wavelength}} dependence
-      of the inverse of the {{17-26-033, dose}} of {{17-21-014, monochromatic radiation}}
-      required to induce a certain (biologic) response; the action spectrum is commonly
-      normalized to a value of 1 at the {{17-21-025, wavelength}} of "maximum action",
-      i.e. where the smallest {{17-26-033, dose}} suffices to induce the required
-      effect.
+  - content: The normalized action spectrum is the wavelength dependence of the inverse
+      of the dose of {{17-21-014, monochromatic radiation}} required to induce a certain
+      (biologic) response; the action spectrum is commonly normalized to a value of
+      1 at the wavelength of "maximum action", i.e. where the smallest dose suffices
+      to induce the required effect.
     type: intensional
   - content: This entry was numbered 845-06-14 in IEC 60050-845:1987.
     type: intensional
@@ -57,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-027
-id: 966b7052-edff-587b-aca9-9bbe13658c18
+id: 24b4c729-46ff-5983-88e0-d2b29e7783fd

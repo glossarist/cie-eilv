@@ -16,15 +16,16 @@ id: f7b57043-d501-5199-8436-d4ea8f5e145b
 ---
 data:
   definition:
-  - content: physical arrangement of contiguous {{17-25-035, detector}} elements to
-      sense locally resolved signals
+  - content: physical arrangement of contiguous detector elements to sense locally
+      resolved signals
     type: intensional
   examples: []
   notes:
-  - content: CCD array, photodiode array, CMOS array.
-    type: intensional
   - content: A typical application of an array detector is to sense the local resolved
-      output of a {{17-25-107, polychromator}}.
+      output of a polychromator.
+    type: intensional
+  - content: In some cases, optical components can form a part of the array as in,
+      for example, a fibre optics faceplate coupled array detector.
     type: intensional
   - content: In some cases, optical components can form a part of the array as in,
       for example, a fibre optics faceplate coupled array detector.
@@ -48,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-051
-id: cab2b6dc-f159-5072-945c-b832106f34e2
+id: a7e8e28b-ece4-5722-8d2d-62ea87f9791a

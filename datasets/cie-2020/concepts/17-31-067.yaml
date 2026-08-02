@@ -16,14 +16,14 @@ id: b9b308a6-6ced-5b23-9d3a-5f13ad9b9fcd
 ---
 data:
   definition:
-  - content: "{{17-31-065, headlight}} designed to illuminate without causing undue
-      {{17-22-098, glare}} to people in front of the vehicle carrying it, particularly
-      to the drivers of approaching vehicles"
+  - content: headlight designed to illuminate without causing undue glare to people
+      in front of the vehicle carrying it, particularly to the drivers of approaching
+      vehicles
     type: intensional
   examples: []
   notes:
-  - content: The {{17-31-065, headlight}}s as defined in "{{17-31-066, main-beam headlight}}"
-      and "dipped-beam headlight" can be provided by a single lighting device.
+  - content: The headlights as defined in "main-beam headlight" and "dipped-beam headlight"
+      can be provided by a single lighting device.
     type: intensional
   - content: This entry was numbered 845-11-71 in IEC 60050-845:1987.
     type: intensional
@@ -54,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-067
-id: 4e6c8a91-94cd-5939-9ea9-6a58641a23d4
+id: a3edaf2e-9dbd-5f39-a6ce-fd9dd728fea6

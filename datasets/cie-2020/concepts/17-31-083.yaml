@@ -16,14 +16,13 @@ id: 5fc9d4b5-34ce-5b54-ba22-2d600770db90
 ---
 data:
   definition:
-  - content: first part of a {{17-31-081, road tunnel}}, directly after the {{17-31-093,
-      entrance portal}}
+  - content: first part of a road tunnel, directly after the entrance portal
     type: intensional
   examples: []
   notes:
-  - content: The threshold zone starts either at the beginning of the {{17-31-081,
-      road tunnel}} or at the beginning of the sun screen when a sun screen is installed.
-      The length of the threshold zone is at least equal to the stopping distance.
+  - content: The threshold zone starts either at the beginning of the road tunnel
+      or at the beginning of the sun screen when a sun screen is installed. The length
+      of the threshold zone is at least equal to the stopping distance.
     type: intensional
   - content: This entry was numbered 17-1314 in CIE S 017:2011.
     type: intensional
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-083
-id: 8091affa-d00f-5d61-a2c7-d58f79351ef8
+id: cce28f32-f8e0-58de-9648-9f400f37e10e

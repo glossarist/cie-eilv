@@ -26,16 +26,14 @@ data:
     type: intensional
   - content: The output of an LED is a function of its physical construction, the
       material from which the LED is constructed and the exciting current. The optical
-      {{17-24-001, emission}} can be in the ultraviolet, visible, or infrared {{17-21-025,
-      wavelength}} regions.
+      emission can be in the ultraviolet, visible, or infrared wavelength regions.
     type: intensional
-  - content: The term "LED" represents the {{17-27-051, LED die}} (or chip), or {{17-27-065,
-      LED package}}. It is also used as part of a compound term, e.g. "LED technology",
-      "LED television".
+  - content: The term "LED" represents the LED die (or chip), or LED package. It is
+      also used as part of a compound term, e.g. "LED technology", "LED television".
     type: intensional
   - content: The term "LED" shall not be used as an adjective for reporting product
       performance as for example "LED luminous flux", "LED colour rendering" or "LED
-      lifetime". Instead use for example "luminous flux of the LED package", "colour
+      lifetime". Instead, use for example "luminous flux of the LED package", "colour
       rendering of the LED module" or "lifetime of the LED lamp".
     type: intensional
   - content: This entry was numbered 845-04-40 in IEC 60050-845:1987.
@@ -67,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-050
-id: 7082a96d-c042-5cc3-bf48-47054735379b
+id: 8aa60146-15fb-594e-92d8-9edcb51c6bb7

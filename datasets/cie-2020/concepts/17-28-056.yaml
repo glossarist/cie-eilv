@@ -16,15 +16,14 @@ id: da8080da-4d5c-54b5-9a42-1ebcd8e4b177
 ---
 data:
   definition:
-  - content: electronic device, being part of the {{17-28-048, control gear}}, capable
-      of controlling current, voltage or power within design limits, containing no
-      additional LED control capabilities
+  - content: electronic device, being part of the control gear, capable of controlling
+      current, voltage or power within design limits, containing no additional LED
+      control capabilities
     type: intensional
   examples: []
   notes:
-  - content: For {{17-27-060, semi-integrated LED module}}s, the power supply of the
-      {{17-28-048, control gear}} is separate from the {{17-27-058, LED module}} on
-      a distant location.
+  - content: For LEDsi modules, the power supply of the control gear is separate from
+      the LED module on a distant location.
     type: intensional
   - content: The energy source of a power supply can be either a battery or the power
       supply system.
@@ -42,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-056
-id: 2176db72-eb06-5653-b082-127c6f96704b
+id: 3a007936-d8a4-5be3-b690-962038261956

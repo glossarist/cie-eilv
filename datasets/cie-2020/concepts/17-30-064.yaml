@@ -17,10 +17,15 @@ id: cfe38a03-5499-5803-a0c2-4ae960c6e7fa
 data:
   definition:
   - content: lamp used for detection of methane and oxygen deficiency in mine air
+    type: intensional
+  examples: []
   notes:
   - content: A mine safety lamp is usually a flame lamp.
+    type: intensional
   - content: This entry was numbered 845-10-53 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-780 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-064
-id: e6416aa4-5355-5642-9b6b-68ff0416de5e
+id: beaed116-046c-5758-a734-d5f9b5777b31

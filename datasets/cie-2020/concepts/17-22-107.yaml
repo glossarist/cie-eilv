@@ -16,9 +16,8 @@ id: 475c5ff8-57d6-57d2-9050-6f87d45f42a6
 ---
 data:
   definition:
-  - content: effect of an {{17-23-018, illuminant}} on the perceived {{17-22-040,
-      colour}} of objects by conscious or subconscious comparison with their perceived
-      {{17-22-040, colour}} under a {{17-22-108, reference illuminant}}
+  - content: effect of an illuminant on the perceived colour of objects by conscious
+      or subconscious comparison with their perceived colour under a reference illuminant
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-107
-id: a9bc5dfb-0989-50fc-aff4-fe536acb3c59
+id: b5364af6-6d77-535a-bc63-6865872d3e5d

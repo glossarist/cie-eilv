@@ -16,12 +16,12 @@ id: b60b6d20-5417-5ee1-ac29-0d7ffebe8fc1
 ---
 data:
   definition:
-  - content: locus of points on a surface where the {{17-21-060, illuminance}} has
-      the same value
+  - content: locus of points on a surface where the illuminance has the same value
     type: intensional
   examples: []
   notes:
-  - content: The terms "isolux curve" and "isolux line" are no longer in use.
+  - content: The English terms "isolux curve" and "isolux line", and the French term
+      "courbe isolux" are no longer in use.
     type: intensional
   - content: This entry was numbered 845-09-57 in IEC 60050-845:1987.
     type: intensional
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-078
-id: f028ca27-3b68-532a-ab37-df98e14968ae
+id: 4ee024cf-cc2b-5547-a255-92f34ccb5f52

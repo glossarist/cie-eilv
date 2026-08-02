@@ -15,11 +15,13 @@ status: valid
 id: 25fa6d42-133e-563a-8607-5165599099f7
 ---
 data:
-  definition:
+  definition: []
+  examples: []
   notes:
-  - content: <a href="#visible_radiation">visible radiation</a> entering the eye and
-      producing a sensation of light
   - content: This entry was numbered 845-01-21 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered <<845-01-21, 845-01-21>> in IEC 60050-845:1987.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-125
-id: bf582319-4bf0-54eb-947a-cffa7b46ba05
+id: 0af291a1-9a62-59ac-9587-0b221d478253

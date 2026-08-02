@@ -19,21 +19,25 @@ data:
   - content: |-
       density of incident {{17-21-037, luminous energy}} with respect to area at a point on a real or imaginary surface
 
-      where <i>Q</i><sub>v</sub> is {{17-21-037, luminous energy}} and <i>A</i> is the area on which the {{17-21-037, luminous energy}} is incident
+      stem:[H_v = ((d Q_v))/((d A))]
+
+      where stem:[Q_v] is luminous energy and stem:[A] is the area on which the luminous energy is incident
     type: intensional
   examples: []
   notes:
   - content: The term "light exposure" is no longer used.
     type: intensional
   - content: |-
-      Luminous exposure can be derived from the spectral {{17-21-071, radiant exposure}} distribution by
+      Luminous exposure can be derived from the spectral radiant exposure distribution by
 
-      where <i>K</i><sub>m</sub> is {{17-21-092, maximum luminous efficacy}}, <i>H</i><sub>e,</sub><i><sub>λ</sub></i>(<i>λ</i>) is the spectral {{17-21-071, radiant exposure}} at {{17-21-025, wavelength}} <i>λ</i> and <i>V</i>(<i>λ</i>) is {{17-21-035, spectral luminous efficiency}}. Integral limits can be confined depending on the {{17-25-063, spectral responsivity}} of the {{17-25-035, detector}}s used as a sensor.
+      stem:[H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+      where stem:[K_m] is maximum luminous efficacy, stem:[H_(e,lambda)](stem:[lambda]) is the spectral radiant exposure at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}}. Integral limits can be confined depending on the spectral {{17-25-061, responsivity}} of the detectors used as a sensor.
     type: intensional
-  - content: The corresponding radiometric quantity is "{{17-21-071, radiant exposure}}".
-      The corresponding quantity for photons is "{{17-21-073, photon exposure}}"
+  - content: The corresponding radiometric quantity is "radiant exposure". The corresponding
+      quantity for photons is "photon exposure"
     type: intensional
-  - content: The luminous exposure is expressed in lux second (lx⋅s = lm·s·m<sup>−2</sup>).
+  - content: The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
     type: intensional
   - content: This entry was numbered 845-01-43 in IEC 60050-845:1987.
     type: intensional
@@ -64,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-072
-id: 70de37f0-6a39-5ac9-84ec-f9d67f8ee0b8
+id: 01d4fdbf-cdfd-572b-8b9f-81cdd195c35a

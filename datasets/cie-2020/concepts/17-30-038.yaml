@@ -16,13 +16,13 @@ id: 0f95987f-4b13-5313-afd8-f140f80e38e8
 ---
 data:
   definition:
-  - content: device predominantly using {{17-24-047, reflection}} to alter the spatial
-      distribution of radiation from a {{17-21-032, source}}
+  - content: device predominantly using reflection to alter the spatial distribution
+      of radiation from a {{17-21-032, source}}
     type: intensional
   examples: []
   notes:
-  - content: Besides {{17-24-047, reflection}}, a reflector can also have a slight
-      diffusion and {{17-24-081, absorption}} effect.
+  - content: Besides reflection, a reflector can also have a slight diffusion and
+      absorption effect.
     type: intensional
   - content: This entry was numbered 845-10-33 in IEC 60050-845:1987.
     type: intensional
@@ -50,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-038
-id: f0533206-40d0-54fc-8c6b-403a1b7bd9f7
+id: b967b8a4-d8f1-574f-82fc-23b5b7b5a65f

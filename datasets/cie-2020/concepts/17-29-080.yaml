@@ -16,8 +16,8 @@ id: 68d5fa82-0817-52fc-916f-1e4618891258
 ---
 data:
   definition:
-  - content: perfectly diffuse and unpolarized {{17-29-001, lighting}} by {{17-23-021,
-      CIE standard illuminant}} A of a task in a surround
+  - content: perfectly diffuse and unpolarized lighting by CIE standard illuminant
+      A of a task in a surround
     type: intensional
   examples: []
   notes:
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-080
-id: '048de0cd-5f2c-5462-89ee-92d9a3956b09'
+id: 394865ef-b61a-52b0-970d-416e242a1148

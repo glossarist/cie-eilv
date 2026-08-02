@@ -17,12 +17,12 @@ id: b36e5b68-7b81-510a-97c3-2f700a2bfa54
 data:
   definition:
   - content: function representing the normalized spectral sensitivity of the human
-      eye due to {{17-26-085, retinal thermal hazard}}s
+      eye due to retinal thermal hazards
     type: intensional
   examples: []
   notes:
-  - content: The {{17-21-025, wavelength}} range for the retinal thermal hazard spectral
-      weighting function is the {{17-26-048, retinal hazard spectral region}}.
+  - content: The wavelength range for the retinal thermal hazard spectral weighting
+      function is the "{{17-26-048, retinal hazard spectral region}}".
     type: intensional
   - content: This entry was numbered 17-1100 in CIE S 017:2011.
     type: intensional
@@ -46,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-049
-id: 6874465c-03c5-56dd-a289-199c27b887b4
+id: 5052b0a9-a18a-55b7-89b4-75e4a55646e5

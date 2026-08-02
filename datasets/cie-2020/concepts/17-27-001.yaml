@@ -20,10 +20,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A light source can be self-emitting ({{17-27-002, primary light source}})
-      or non-self-emitting ({{17-27-003, secondary light source}}).
+  - content: A light source can be self-emitting (primary light source) or non-self-emitting
+      (secondary light source).
     type: intensional
-  - content: See also Note 1 to entry of 17-27-004.
+  - content: See also Note 1 to entry of IEV 845-27-004.
     type: intensional
   sources:
   - origin:
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-001
-id: fe203fd2-0c87-59ba-b478-6e522c9e7530
+id: b8d8e30f-eb6b-59d6-87aa-848c37464ed5

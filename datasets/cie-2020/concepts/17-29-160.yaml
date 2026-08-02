@@ -16,8 +16,7 @@ id: b0bfffda-1565-58da-bcc2-eb0d76c6960f
 ---
 data:
   definition:
-  - content: quotient of minimum {{17-21-060, illuminance}} and {{17-29-155, average
-      illuminance}} on a surface
+  - content: quotient of minimum illuminance and average illuminance on a surface
     type: intensional
   examples: []
   notes:
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-160
-id: 4ae48d83-f275-5f72-9ee1-e64bd374ede4
+id: b8b13519-1448-5a67-ae40-99bdd8292c08

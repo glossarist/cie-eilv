@@ -16,9 +16,9 @@ id: 55e6507e-b380-5341-a83d-0515ec127e8e
 ---
 data:
   definition:
-  - content: property of a quantity, <i>X</i>, pertaining to {{17-21-001, electromagnetic
-      radiation}} that indicates that the quantity referred to is the spectral distribution
-      of <i>X</i>
+  - content: property of a quantity, stem:[X], pertaining to electromagnetic radiation
+      that indicates that the quantity referred to is the {{17-21-029, spectral distribution}}
+      of stem:[X]
     type: intensional
   examples: []
   notes:
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-028
-id: 46f85e50-ebf1-5bfe-b1d0-93cc5e8531c1
+id: eb8107b2-f9e1-5e76-9e29-a7e12cca0fd3

@@ -16,11 +16,10 @@ id: 602e59a1-d65c-572b-a19c-1eb0321b58f2
 ---
 data:
   definition:
-  - content: quotient of the total {{17-21-043, photon number}} of all {{17-21-025,
-      wavelength}}s emitted from a specimen by a fluorescent process for an {{17-24-020,
-      excitation}} at {{17-21-025, wavelength}} <i>μ</i>, and the {{17-21-043, photon
-      number}} of {{17-21-025, wavelength}} <i>μ</i> reflected from the {{17-24-060,
-      perfect reflecting diffuser}} identically irradiated and viewed
+  - content: quotient of the total photon number of all wavelengths emitted from a
+      specimen by a fluorescent process for an excitation at wavelength stem:[mu],
+      and the photon number of wavelength stem:[mu] reflected from the perfect reflecting
+      diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-043
-id: 8207c669-1e98-566d-9ea2-bd8f4a6f6c67
+id: 0a846158-f9cd-5431-989b-9adc30066f4a

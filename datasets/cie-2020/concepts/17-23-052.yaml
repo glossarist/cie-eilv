@@ -16,9 +16,8 @@ id: 9de7e880-d446-5988-983a-80de44da97a4
 ---
 data:
   definition:
-  - content: property of a {{17-23-002, colour stimulus}} defined by its {{17-23-053,
-      chromaticity coordinates}}, or by its {{17-23-062, dominant wavelength}} or
-      {{17-23-063, complementary wavelength}} and {{17-23-064, purity}} taken together
+  - content: property of a colour stimulus defined by its chromaticity coordinates,
+      or by its dominant or complementary wavelength and purity taken together
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-052
-id: 5e0a1536-8d3f-556d-b3a3-45628cfdb26c
+id: df05fca4-5663-573b-a956-6e30dbe5cb74

@@ -16,8 +16,8 @@ id: 2c881f33-9477-5c7a-b367-4aace7437e36
 ---
 data:
   definition:
-  - content: "{{17-27-008, electric lamp}} designed to emit UV-A radiation and very
-      little {{17-21-003, visible radiation}}"
+  - content: electric lamp designed to emit {{17-21-009, UV-A}} radiation and very
+      little {{17-21-003, visible radiation}}
     type: intensional
   examples: []
   notes:
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-085
-id: 6f704a0d-d743-51c4-970e-9d1377f23963
+id: 3d647afd-20cb-5b12-ad16-bcc127a4086b

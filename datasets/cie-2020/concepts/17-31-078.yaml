@@ -18,9 +18,13 @@ data:
   definition:
   - content: lighting device carried on a vehicle to illuminate the number plate,
       or registration plate, or licence plate, at the rear of the vehicle
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-11-81 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-830, 17-1041, and 17-655 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -46,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-078
-id: 53c90e26-6721-5bfd-8e71-d6ad2be4459a
+id: 168073ae-0742-5db7-97aa-1e69f9105911

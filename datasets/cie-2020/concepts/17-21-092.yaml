@@ -22,16 +22,18 @@ data:
   examples: []
   notes:
   - content: The photometric condition should be specified (e.g. photopic, scotopic,
-      mesopic). If it is not specified, {{17-22-016, photopic vision}} is assumed
-      and the symbol <i>K</i><sub>m</sub> is used. For other photometric conditions
-      the respective symbol for identification shall be used.
+      mesopic). If it is not specified, photopic vision is assumed and the symbol
+      stem:[K_m] is used. For other photometric conditions, the respective symbol
+      for identification shall be used.
     type: intensional
   - content: |-
-      The value of maximum luminous efficacy for {{17-22-016, photopic vision}} is calculated by
+      The value of maximum luminous efficacy for photopic vision is calculated by
 
-      where <i>V</i>(<i>λ</i>) is the {{17-21-035, spectral luminous efficiency}} for {{17-22-016, photopic vision}} and <i>λ</i><sub>cd</sub> is the {{17-21-025, wavelength}} in air corresponding to the frequency 540 × 10<sup>12</sup> Hz specified in the definition of the SI unit candela.
+      stem:[K_m = ((683))/((V ( lambda_((cd)) ))) cd * sr * W^(- 1) tildetilde 683 \ lm * W^(- 1)]
+
+      where stem:[V](stem:[lambda]) is the {{17-21-035, spectral luminous efficiency}} for photopic vision and stem:[lambda_(cd)] is the wavelength in air corresponding to the <<103-06-02, frequency>> 540 × 10^12^ Hz specified in the definition of the SI unit candela.
     type: intensional
-  - content: The maximum luminous efficacy is expressed in lumen per watt (lm⋅W<sup>−1</sup>).
+  - content: The maximum luminous efficacy is expressed in lumen per watt (lm·W^−1^).
     type: intensional
   sources:
   - origin:
@@ -52,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-092
-id: cbbd859d-a53d-5f4e-8663-3fe87cfde5ed
+id: 20e11f43-dcbe-5d9b-9e9f-885c4f030162

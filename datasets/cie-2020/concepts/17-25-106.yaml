@@ -18,8 +18,8 @@ data:
   definition:
   - content: spectrophotometric mode of measurement where the specimen is illuminated
       by undispersed light and the total (reflected or transmitted plus fluoresced)
-      {{17-21-038, radiant flux}} leaving the specimen is analysed {{17-21-025, wavelength}}
-      by {{17-21-025, wavelength}} by the {{17-25-035, detector}}
+      radiant flux leaving the specimen is analysed wavelength by wavelength by the
+      detector
     type: intensional
   examples: []
   notes:
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-106
-id: '083de941-6482-594a-9d88-eb892d39d1c4'
+id: 6b659918-7598-5ab1-b6ab-d5ad6a9a3d1d

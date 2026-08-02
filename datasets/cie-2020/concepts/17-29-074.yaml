@@ -17,15 +17,18 @@ id: cd6c4070-9071-51ef-b4b0-dd7cebdcabec
 data:
   definition:
   - content: quotient of five times the sum of the area of the walls bounded by the
-      ceiling and the plane of the {{17-30-001, luminaire}}s and the sum of the areas
-      of the ceiling and the plane of the {{17-30-001, luminaire}}s, used in the calculation
-      of the {{17-29-069, utilization factor}} or {{17-29-070, utilance}}
+      ceiling and the plane of the luminaires and the sum of the areas of the ceiling
+      and the plane of the luminaires, used in the calculation of the utilization
+      factor or utilance
     type: intensional
   examples: []
   notes:
-  - content: The ceiling cavity ratio is given by the formula where <i>a</i> and <i>b</i>
-      are the dimensions of the sides of the room and <i>h</i><sub>c</sub> is the
-      distance from the ceiling to the plane of the {{17-30-001, luminaire}}s.
+  - content: |-
+      The ceiling cavity ratio is given by the formula
+
+      stem:[K_c = ((5 h_c ( a + b )))/((a b))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_c] is the distance from the ceiling to the plane of the luminaires.
     type: intensional
   - content: See also "{{17-29-076, floor cavity ratio}}" and "{{17-29-072, room cavity
       ratio}}".
@@ -54,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-074
-id: f415278e-5c29-5a8c-8eea-519fd343e7c7
+id: f13904ac-1fd9-5e9c-9aab-3e975ab7762c

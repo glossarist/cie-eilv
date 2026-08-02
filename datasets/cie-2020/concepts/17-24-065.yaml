@@ -16,21 +16,22 @@ id: 950f14b8-2c46-5724-8f8c-4d8acc080a5e
 ---
 data:
   definition:
-  - content: quotient of transmitted {{17-21-038, radiant flux}}, <i>Φ</i><sub>t</sub>,
-      and incident {{17-21-038, radiant flux}}, <i>Φ</i><sub>m </sub>
+  - content: |-
+      quotient of transmitted radiant flux, stem:[Phi_t], and incident radiant flux, stem:[Phi_m]
+
+      stem:[tau = ((Phi_t))/((Phi_m))]
     type: intensional
   examples: []
   notes:
-  - content: Transmittance is also defined spectrally in terms of {{17-21-025, wavelength}},
-      in which case, "spectral" is added before the quantity name.
+  - content: Transmittance is also defined spectrally in terms of wavelength, in which
+      case "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, <i>α</i> + <i>ρ</i> + <i>τ</i> = 1 except
-      when {{17-21-017, polarized radiation}} is observed, where <i>α</i> is absorptance
-      and <i>ρ</i> is {{17-24-064, reflectance}}.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] =
+      1 except when {{17-21-017, polarized radiation}} is observed, where stem:[alpha]
+      is absorptance and stem:[rho] is reflectance.
     type: intensional
-  - content: 'Transmittance, <i>τ</i>, is the sum of {{17-24-067, regular transmittance}},
-      <i>τ</i><sub>r</sub>, and {{17-24-069, diffuse transmittance}}, <i>τ</i><sub>d</sub>:
-      <i>τ</i> = <i>τ</i><sub>r</sub> + <i>τ</i><sub>d</sub>.'
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r],
+      and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   - content: The transmittance has unit one.
     type: intensional
@@ -63,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-065
-id: 9a6f5d43-5e56-584b-a8ec-1961282d8024
+id: e621b2e7-9732-5eb8-92a0-ecee79bbd1d0

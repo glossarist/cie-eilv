@@ -16,9 +16,8 @@ id: 2c82c7ae-3162-5d61-b84f-106247b03c1b
 ---
 data:
   definition:
-  - content: "{{17-21-032, source}} having a constant but not necessarily known output,
-      against which a {{17-27-095, standard lamp}} and a {{17-21-032, source}} under
-      test are successively compared"
+  - content: source having a constant but not necessarily known output, against which
+      a standard lamp and a source under test are successively compared
     type: intensional
   examples: []
   notes:
@@ -48,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-004
-id: 15cb0001-cd96-572d-9297-9e2c1376fec3
+id: db7e1e5e-edfa-5296-8c54-ee08cab27ce8

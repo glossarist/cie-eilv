@@ -16,9 +16,9 @@ id: 437e1e7c-7101-5eff-b16d-be70231d0fe5
 ---
 data:
   definition:
-  - content: "{{17-30-001, luminaire}} containing a {{17-27-001, light source}} and
-      an optical system for directing light of the correct angular distribution into
-      the input aperture of a {{17-29-161, hollow light guide}}"
+  - content: luminaire containing a light source and an optical system for directing
+      light of the correct angular distribution into the input aperture of a hollow
+      light guide
     type: intensional
   examples: []
   notes:
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-167
-id: c8dcb5db-a6fa-5743-910a-62e95443b12c
+id: 3f52c7c9-e272-57be-9043-2f8647206c5b

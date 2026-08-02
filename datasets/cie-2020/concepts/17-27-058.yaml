@@ -16,21 +16,20 @@ id: a1666bb4-2b21-5e09-b8d3-497b645c8c97
 ---
 data:
   definition:
-  - content: "{{17-27-053, LED light source}} having either at least one {{17-28-021,
-      printed circuit board cap}} or no {{17-28-015, cap}}, and incorporating at least
-      one {{17-27-065, LED package}}"
+  - content: LED light source having either at least one PCB cap or no cap, and incorporating
+      at least one LED package
     type: intensional
   examples: []
   notes:
   - content: An LED module can be an {{17-27-059, integrated LED module}} (LEDi module),
-      a {{17-27-060, semi-integrated LED module}} (LEDsi module) or a {{17-27-061,
+      a {{17-27-060, semi-integrated LED module}} (LEDsi module) (IEV) or a {{17-27-061,
       non-integrated LED module}} (LEDni module).
     type: intensional
-  - content: An LED module is usually designed to be part of an {{17-27-054, LED lamp}}
-      or an {{17-30-056, LED luminaire}}.
+  - content: An LED module is usually designed to be part of an LED lamp or an LED
+      luminaire.
     type: intensional
   - content: 'An LED module can include one or more of the following: electric, optical,
-      mechanical, and thermal components, interfaces and {{17-28-048, control gear}}.'
+      mechanical, and thermal components, interfaces and control gear.'
     type: intensional
   sources:
   - origin:
@@ -44,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-058
-id: 3ece13a0-af9e-548f-ad9d-c2baf9044ca7
+id: 0a1eeab6-d9ca-592e-8a86-c7ccef005661

@@ -16,30 +16,32 @@ id: d7cdc2da-e069-5763-8ef0-42ad2aba5542
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} for which the {{17-21-025, wavelength}}s
-      are shorter than those for {{17-21-003, visible radiation}}"
+  - content: "{{17-21-002, optical radiation}} for which the wavelengths are shorter
+      than those for {{17-21-003, visible radiation}}"
     type: intensional
   examples: []
   notes:
   - content: |-
-      The range between 100 nm and 400 nm is commonly subdivided into:
-      {{17-21-009, UV-A}}: 315 nm to 400 nm;
-      {{17-21-010, UV-B}}: 280 nm to 315 nm;
-      {{17-21-011, UV-C}}: 100 nm to 280 nm.
+      The range between 100 nm and 400 nm is commonly subdivided into:
+
+      * UV-A: 315 nm to 400 nm;
+
+      * UV-B: 280 nm to 315 nm;
+
+      * UV-C: 100 nm to 280 nm.
     type: intensional
-  - content: A precise border between "ultraviolet radiation" and "{{17-21-003, visible
-      radiation}}" cannot be defined, because {{17-22-083, visual sensation}} at {{17-21-025,
-      wavelength}}s shorter than 400 nm is noted for very {{17-22-061, bright}} {{17-21-032,
-      source}}s.
+  - content: A precise border between ultraviolet radiation and visible radiation
+      cannot be defined, because visual sensation at wavelengths shorter than 400 nm
+      is noted for very bright sources.
     type: intensional
   - content: In some applications the ultraviolet spectrum has also been divided into
       "far," "vacuum," and "near" ultraviolet; however, the borders necessarily vary
-      with the application (e.g. in meteorology, optical design, photochemistry, thermal
-      physics).
+      with the application (e.g. in meteorology, optical design, photochemistry, and
+      thermal physics).
     type: intensional
   - content: This entry was numbered 845-01-05 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1367, 17-1389 and 17-1388 in CIE S 017:2011.
+  - content: This note applies to the French language only.
     type: intensional
   sources:
   - origin:
@@ -66,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-008
-id: 90c04f2f-2298-558b-845b-53e718678c4b
+id: c4e1b4c0-4b08-5aa2-a9c5-580222629c8a

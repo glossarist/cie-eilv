@@ -17,10 +17,12 @@ id: de032fdd-eb8e-5b25-a955-b46917a02bbd
 data:
   definition:
   - content: fraction of the population that lost the ability to perform a required
-      function in a specified <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a>
+      function in a specified time interval
+    type: intensional
+  examples: []
   notes:
   - content: Failure fraction has unit one.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-106
-id: a57a3b8e-4eff-5442-a497-2f5cfbbb8d22
+id: 753030e5-fadd-5d3a-b30a-bda690a164b1

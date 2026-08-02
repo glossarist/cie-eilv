@@ -16,12 +16,12 @@ id: 2b8005f9-1277-5e4a-b12f-b67277e7bc67
 ---
 data:
   definition:
-  - content: spectrally different {{17-23-002, colour stimulus}} that have the same
-      {{17-23-038, tristimulus values}} in a specified colorimetric system
+  - content: spectrally different colour stimuli that have the same {{17-23-038, tristimulus
+      values}} in a specified colorimetric system
     type: intensional
   examples: []
   notes:
-  - content: The corresponding property is called "{{17-23-006, metamerism}}".
+  - content: The corresponding property is called "metamerism".
     type: intensional
   - content: This entry was numbered 845-03-05 in IEC 60050-845:1987.
     type: intensional
@@ -61,4 +61,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-008
-id: 10805e4c-6d5f-5fd8-8c8c-29d09e21217f
+id: 318a1cb8-c211-54f1-9c59-913d55b18e73

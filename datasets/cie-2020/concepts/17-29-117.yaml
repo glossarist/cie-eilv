@@ -16,10 +16,9 @@ id: a6c0fd37-6409-5f41-8fbb-2848d98f687e
 ---
 data:
   definition:
-  - content: duration within a given <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=113-01-10">time
-      interval</a> during which the {{17-21-053, irradiance}} from {{17-29-099, direct
-      solar radiation}} on a plane normal to the sun direction is equal to or greater
-      than 120 W·m<sup>−2</sup>
+  - content: duration within a given time interval during which the irradiance from
+      direct solar radiation on a plane normal to the sun direction is equal to or
+      greater than 120 W·m^−2^
     type: intensional
   examples: []
   notes:
@@ -52,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-117
-id: e3798dae-1ee5-53f7-936a-c55702c61655
+id: 57412ff7-41a2-5c96-879a-187b5f95b0c3

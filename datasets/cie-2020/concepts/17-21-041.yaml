@@ -16,24 +16,24 @@ id: '072878e3-a27f-567c-8e79-f0856e009618'
 ---
 data:
   definition:
-  - content: energy emitted, transferred or received in form of electromagnetic waves
+  - content: energy emitted, transferred or received in the form of electromagnetic
+      waves
     type: intensional
   examples: []
   notes:
   - content: |-
-      Radiant energy can be expressed by the time integral of {{17-21-038, radiant flux}}, <i>Φ</i><sub>e</sub>, over a given duration, Δ<i>t</i>:<i>
+      Radiant energy can be expressed by the time integral of radiant flux, stem:[Phi_e], over a given duration, stem:[Delta t]:
 
-
-      </i><sub>.</sub>
+      stem:[Q_e = int_((Delta t)) Phi_e d t]
     type: intensional
-  - content: Radiant energy is expressed as a function of {{17-21-025, wavelength}},
-      <i>λ</i>, as a function of frequency, <i>ν</i>, or as a function of {{17-21-026,
-      wavenumber}}, <i>σ</i>.
+  - content: Radiant energy is expressed as a function of wavelength, stem:[lambda],
+      as a function of <<103-06-02, frequency>>, stem:[nu], or as a function of {{17-21-026,
+      wavenumber}}, stem:[sigma].
     type: intensional
   - content: The corresponding photometric quantity is "{{17-21-037, luminous energy}}".
-      The corresponding quantity for photons is "{{17-21-042, photon energy}}".
+      The corresponding quantity for photons is "photon energy".
     type: intensional
-  - content: The radiant energy is expressed in joule (J = W·s).
+  - content: The radiant energy is expressed in joule (J = W·s).
     type: intensional
   - content: This entry was numbered 845-01-27 in IEC 60050-845:1987.
     type: intensional
@@ -64,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-041
-id: dc874efb-dc5d-5da2-a0fc-bd6dae3eefab
+id: de285d3a-6fac-51ae-8617-ee4750617fe6

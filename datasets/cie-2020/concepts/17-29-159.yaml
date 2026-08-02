@@ -16,12 +16,12 @@ id: 7924f4e4-6f5f-51e4-856b-69e6fde164f7
 ---
 data:
   definition:
-  - content: "{{17-21-060, illuminance}} produced by multiple {{17-24-047, reflection}}s
-      from internal and/or external surfaces"
+  - content: illuminance produced by multiple reflections from internal and/or external
+      surfaces
     type: intensional
   examples: []
   notes:
-  - content: The indirect illuminance is expressed in lux (lx = lm·m<sup>−2</sup>).
+  - content: The indirect illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional
   - content: This entry was numbered 17-574 in CIE S 017:2011.
     type: intensional
@@ -42,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-159
-id: 84e26db8-47b1-5ff6-959e-41c771477d21
+id: 306f486b-c3b4-5395-b4c7-561cda3bd097

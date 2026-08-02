@@ -16,9 +16,8 @@ id: 86015a3c-f3a8-5396-8b98-6f5d982c6996
 ---
 data:
   definition:
-  - content: "{{17-25-035, detector}} of {{17-21-002, optical radiation}} whose {{17-25-063,
-      spectral responsivity}} varies with {{17-21-025, wavelength}} over the spectral
-      range considered"
+  - content: detector of {{17-21-002, optical radiation}} whose spectral responsivity
+      varies with wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-036
-id: 21e66645-acf4-56ac-b25e-c9756e2ea317
+id: c39e3d98-18c0-5958-b201-700589c6f5fc

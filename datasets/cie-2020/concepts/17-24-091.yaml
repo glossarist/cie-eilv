@@ -17,8 +17,9 @@ id: 27e8ee2d-1f7e-5e3f-9a5d-ba5f453dea54
 data:
   definition:
   - content: |-
-      natural (Napierian) logarithm of the reciprocal of the {{17-24-088, spectral internal transmittance}}, <i>τ</i><sub>i </sub>(<i>λ</i>)
-      <i>A</i><sub>n</sub>(<i>λ</i>) = <i>B</i>(<i>λ</i>) = − ln <i>τ</i><sub>i </sub>(<i>λ</i>)
+      natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
+
+      stem:[A_n](stem:[lambda]) = stem:[B](stem:[lambda]) = − ln stem:[tau_i](stem:[lambda])
     type: intensional
   examples: []
   notes:
@@ -54,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-091
-id: 6e68fe22-1701-5480-8bac-252194b76045
+id: 03162205-7c52-580e-885c-50f2947997ba

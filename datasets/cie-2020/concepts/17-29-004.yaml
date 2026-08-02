@@ -18,9 +18,13 @@ data:
   definition:
   - content: sum total of physical conditions of light in a scene that has the potential
       to influence human vision
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 845-09-03 in IEC 60050-845:1987.
+    type: intensional
   - content: This entry was numbered 17-734 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -43,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-004
-id: 875e7008-597d-5a92-a603-07e56eb5f2c7
+id: a83e1fe1-4e8a-50be-acea-be98c3325a44

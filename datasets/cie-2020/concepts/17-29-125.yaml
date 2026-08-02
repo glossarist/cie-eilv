@@ -17,13 +17,14 @@ id: 8e04990b-4eed-53d0-86bb-7bae1bff2ba8
 data:
   definition:
   - content: quotient of the quantity of heat penetrating into an interior through
-      the glazing and the solar {{17-21-041, radiant energy}} incident on that glazing
+      the glazing and the solar radiant energy incident on that glazing
     type: intensional
   examples: []
   notes:
   - content: |-
-      The solar factor is the sum of two quantities: the radiant transmittance, <i>τ</i><sub>e</sub>, of the glazing and the quantity equal to the quotient of the convected and radiated heat gain from the glazing into the interior, <i>Q</i><sub>2</sub>, and the solar {{17-21-041, radiant energy}}, <i>Q</i><sub>1</sub>, incident on the glazing:
-      <i>g</i> = <i>τ</i><sub>e</sub> + <i>Q</i><sub>2</sub> / <i>Q</i><sub>1</sub>.
+      The solar factor is the sum of two quantities: the radiant transmittance, stem:[tau_e], of the glazing and the quantity equal to the quotient of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], and the solar radiant energy, stem:[Q_1], incident on the glazing:
+
+      stem:[g] = stem:[tau_e] + stem:[Q_2] / stem:[Q_1]
     type: intensional
   - content: The solar factor has unit one.
     type: intensional
@@ -57,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-125
-id: df70e3b1-b0ca-5935-b98b-a83127d2e106
+id: 9b1b7fd6-2fd7-5be9-8fe6-386009d74108

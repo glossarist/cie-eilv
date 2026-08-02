@@ -17,10 +17,9 @@ id: 2ee48f31-6fc0-58da-9113-03ad36c3800a
 data:
   definition:
   - content: |-
-      logarithm to base 10 of the reciprocal of the {{17-24-065, transmittance}}, <i>τ</i> <i>
+      logarithm to base 10 of the reciprocal of the transmittance, stem:[tau]
 
-
-      D<sub>τ</sub></i> = −log<sub>10</sub> <i>τ</i>
+      stem:[Dtau] = −log~10~stem:[tau]
     type: intensional
   examples: []
   notes:
@@ -55,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-072
-id: 95f57e4e-68fd-5cee-9185-e34fad72362d
+id: a9267e5b-6ba6-5276-8fba-15b77aea1e28

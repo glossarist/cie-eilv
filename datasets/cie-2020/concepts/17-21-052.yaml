@@ -16,13 +16,15 @@ id: 8dd03764-a3ba-50b9-a685-27fb7f44c9a6
 ---
 data:
   definition:
-  - content: density of {{17-21-049, radiance}}, <i>L</i><sub>e</sub>(<i>λ</i>), with
-      respect to {{17-21-025, wavelength}}, <i>λ</i>
+  - content: |-
+      density of radiance, stem:[L_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+
+      stem:[L_((e , lambda)) = ((d L_e ( lambda )))/((d lambda))]
     type: intensional
   examples: []
   notes:
   - content: The spectral radiance is expressed in watt per square metre per nanometre
-      per steradian (W⋅m<sup>−2</sup>·nm<sup>−1</sup>·sr<sup>−1</sup>).
+      per steradian (W·m^−2^·nm^−1^·sr^−1^).
     type: intensional
   - content: This entry was numbered 17-1228 in CIE S 017:2011.
     type: intensional
@@ -46,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-052
-id: 8637cefa-5336-5c42-bda6-f487c268cd38
+id: 687581c9-e4f2-5cd8-af30-29783420acac

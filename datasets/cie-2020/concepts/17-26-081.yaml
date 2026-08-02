@@ -16,16 +16,16 @@ id: 8f90109e-59a7-5b49-9e80-15a81146341e
 ---
 data:
   definition:
-  - content: law stating that the total {{17-21-071, radiant exposure}} required to
-      elicit a given photobiological or photochemical response is independent of the
-      duration over which the exposure occurs
+  - content: law stating that the total radiant exposure required to elicit a given
+      photobiological or photochemical response is independent of the duration over
+      which the exposure occurs
     type: intensional
   examples: []
   notes:
   - content: The Bunsen–Roscoe law generally holds only over a given limited range
-      of {{17-26-071, exposure duration}}s. Reciprocity failure can occur due to repair
-      mechanisms, recombination effects over long periods, or {{17-21-107, photon}}
-      saturation for extremely short periods.
+      of exposure durations. Reciprocity failure can occur due to repair mechanisms,
+      recombination effects over long periods, or photon saturation for extremely
+      short periods.
     type: intensional
   - content: This entry was numbered 17-114 and 17-1045 in CIE S 017:2011.
     type: intensional
@@ -49,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-081
-id: e752d02c-241a-5741-acb0-48db8a5ffbf1
+id: a36869ba-4c31-570e-b620-e308cf590b0c

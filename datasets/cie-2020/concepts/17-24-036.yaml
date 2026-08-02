@@ -16,9 +16,8 @@ id: 7d3578c5-11d8-54f7-8bad-c41707bea7f6
 ---
 data:
   definition:
-  - content: "{{17-21-029, spectral distribution}} of incident {{17-21-038, radiant
-      flux}} or {{17-21-040, photon flux}} that produces {{17-24-021, luminescence}}
-      at a specified {{17-24-001, emission}} wavelength"
+  - content: "{{17-21-029, spectral distribution}} of incident radiant flux or photon
+      flux that produces luminescence at a specified emission wavelength"
     type: intensional
   examples: []
   notes:
@@ -49,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-036
-id: 26cf0b84-773c-5019-be3b-a6d5ed243c05
+id: 4892e59e-f03b-5aeb-a43f-e2fc8b0d09a6

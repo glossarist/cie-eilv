@@ -17,10 +17,9 @@ id: a9fab205-b35a-57b3-85ee-e384a2201e37
 data:
   definition:
   - content: representation in space, in the form of a surface expressed in polar
-      coordinates, of the angular distribution of (relative) {{17-21-044, radiant
-      intensity}} or {{17-21-045, luminous intensity}} or of (relative) {{17-21-049,
-      radiance}} or {{17-21-050, luminance}} of an element of the surface of a medium
-      that diffuses by {{17-24-047, reflection}} or {{17-24-048, transmission}}
+      coordinates, of the angular distribution of (relative) radiant intensity or
+      luminous intensity or of (relative) radiance or luminance of an element of the
+      surface of a medium that diffuses by reflection or transmission
     type: intensional
   examples: []
   notes:
@@ -61,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-098
-id: 13e5171a-ef4d-5c21-82c4-707be0d5ccbf
+id: b3783a40-a54d-5904-8f52-faa7627ae3cf

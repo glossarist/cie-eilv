@@ -16,15 +16,14 @@ id: ccdcd767-a0e8-57e0-8ca3-cb169a3b86b5
 ---
 data:
   definition:
-  - content: "{{17-21-025, wavelength}} of the {{17-23-011, monochromatic stimulus}}
-      that, when additively mixed in suitable proportions with the specified {{17-23-009,
-      achromatic stimulus}}, matches the {{17-23-002, colour stimulus}} considered
-      in the CIE 1931 <i>x</i>, <i>y</i> chromaticity diagram"
+  - content: wavelength of the monochromatic stimulus that, when additively mixed
+      in suitable proportions with the specified achromatic stimulus, matches the
+      colour stimulus considered in the CIE 1931 stem:[x], stem:[y] chromaticity diagram
     type: intensional
   examples: []
   notes:
   - content: In the case of purple stimuli, the dominant wavelength is replaced by
-      the {{17-23-063, complementary wavelength}}.
+      the complementary wavelength.
     type: intensional
   - content: The dominant wavelength is expressed in nanometre (nm).
     type: intensional
@@ -58,4 +57,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-062
-id: 4086ae28-1082-5683-8a9e-9969f4ec8b9c
+id: fe252693-93d6-5682-8ea0-c167583fdc62

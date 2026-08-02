@@ -16,10 +16,9 @@ id: e2ace782-3832-5d11-a3d1-c45ccc97151a
 ---
 data:
   definition:
-  - content: ratio of the {{17-21-039, luminous flux}} of an {{17-27-004, electric
-      light source}} at a given time in its operational life to its initial {{17-21-039,
-      luminous flux}}, the {{17-27-004, electric light source}} being operated under
-      specified conditions
+  - content: ratio of the luminous flux of an electric light source at a given time
+      in its operational life to its initial luminous flux, the electric light source
+      being operated under specified conditions
     type: intensional
   examples: []
   notes:
@@ -45,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-114
-id: 3e2ff458-bfb7-50c6-a214-10180eacec40
+id: 62695473-106d-572b-ae21-8e25a4569c4f
