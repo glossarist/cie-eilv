@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-082
   type: authoritative
+- id: 845-09-63
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-63
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-63
+  type: authoritative
 status: valid
 id: dc69ce86-e06f-5452-aba5-834234246aee
 ---
@@ -24,7 +31,7 @@ data:
   notes:
   - content: The ballast lumen factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-63 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-63, 845-09-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-74 and 17-95
     type: authoritative
+  - id: 845-09-63
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-63
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-63
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-082
-id: 1a44b8f6-31e0-5496-a0b8-88aba63fbfe3
+id: 5ededc04-9582-549a-885c-1fc6b973f5fe

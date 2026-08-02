@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-146
   type: authoritative
+- id: 705-04-04
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 705-04-04
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
+  type: authoritative
 status: valid
 id: 9da57c87-576f-5e85-a0de-180ed471d811
 ---
@@ -18,7 +25,7 @@ data:
   definition:
   - content: quotient of the luminance of a field and the illuminance on the plane
       of that field, for a {{17-29-020, diffused lighting}} and an observation direction
-      forming a <<705-04-04, grazing angle>> with the road surface
+      forming a {{cite:705-04-04, grazing angle}} with the road surface
     type: intensional
   examples: []
   notes:
@@ -37,6 +44,13 @@ data:
         source: CIE S 017:2011
         id: 17-713
     type: authoritative
+  - id: 705-04-04
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 705-04-04
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,4 +58,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-146
-id: 20e19808-40cd-5263-8193-fbbe0bb544af
+id: 40700b11-0a33-5cab-b40d-96099accac0e

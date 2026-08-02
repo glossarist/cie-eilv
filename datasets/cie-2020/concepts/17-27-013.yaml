@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-013
   type: authoritative
+- id: 845-07-06
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-06
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-06
+  type: authoritative
 status: valid
 id: 5cfe7c72-917f-527e-a0d8-68edbdc842da
 ---
@@ -23,7 +30,7 @@ data:
   - content: For the shapes of filament, see "{{17-28-003, straight filament}}", "{{17-28-004,
       single-coil filament}}" and "{{17-28-005, coiled-coil filament}}".
     type: intensional
-  - content: This entry was numbered 845-07-06 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-06, 845-07-06}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-764 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-764
     type: authoritative
+  - id: 845-07-06
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-06
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-06
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-013
-id: 7f2a37c9-4a50-52bd-9269-168119fe91a8
+id: 8c19f246-ffac-542f-81a2-d1ea58c100a6

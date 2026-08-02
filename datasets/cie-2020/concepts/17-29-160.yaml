@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-160
   type: authoritative
+- id: 845-09-58
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-58
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-58
+  type: authoritative
 status: valid
 id: b0bfffda-1565-58da-bcc2-eb0d76c6960f
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: The illuminance uniformity has unit one.
     type: intensional
-  - content: This entry was numbered 845-09-58 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-58, 845-09-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-552 and 17-1372 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-552 and 17-1372
     type: authoritative
+  - id: 845-09-58
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-58
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-58
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-160
-id: b8b13519-1448-5a67-ae40-99bdd8292c08
+id: 705c9ccc-77fb-59c4-838d-a1e9dfb1ed71

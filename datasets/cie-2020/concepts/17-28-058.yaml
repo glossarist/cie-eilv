@@ -11,13 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-058
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
 status: valid
 id: b0d79c24-6969-53f0-afff-09c0e2a5142f
 ---
 data:
   definition:
-  - content: unit for the electronic conversion of AC supply at one <<103-06-02, frequency>>
-      to an AC supply at another frequency
+  - content: unit for the electronic conversion of AC supply at one {{cite:103-06-02,
+      frequency}} to an AC supply at another frequency
     type: intensional
   examples: []
   notes: []
@@ -26,6 +33,13 @@ data:
       ref:
         source: CIE S 017:2020
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -33,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-058
-id: ece3e351-6114-542d-982d-9dd98e59f74a
+id: 0f17a2e0-8ed7-51cd-92a4-56470e36c25f

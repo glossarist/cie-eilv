@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-003
   type: authoritative
+- id: 845-05-03
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-03
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-03
+  type: authoritative
 status: valid
 id: 8dc87307-79fb-5340-a7aa-7440760d8cda
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: Working photometric standards are typically photometers or light sources.
     type: intensional
-  - content: This entry was numbered 845-05-03 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-03, 845-05-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1442 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1442
     type: authoritative
+  - id: 845-05-03
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-03
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-03
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-003
-id: 34a1d9c6-f168-530e-a7f3-57b7a170db92
+id: 6cd3d9d0-e6b2-513c-9132-01308068cf90

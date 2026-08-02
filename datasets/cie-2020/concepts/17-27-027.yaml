@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-027
   type: authoritative
+- id: 845-07-19
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-19
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-19
+  type: authoritative
 status: valid
 id: 553b608f-49af-5d9e-89c1-156d047c27b6
 ---
@@ -25,7 +32,7 @@ data:
       as {{17-27-028, high-pressure mercury lamps}}, {{17-27-033, metal halide lamps}}
       and {{17-27-031, high-pressure sodium lamps}}.
     type: intensional
-  - content: This entry was numbered 845-07-19 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-19, 845-07-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-534 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-534
     type: authoritative
+  - id: 845-07-19
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-19
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-19
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-027
-id: eda3cad0-2487-5387-9516-fbd840c5ade5
+id: 548b5282-06a4-57da-9057-d94461d1e3d5

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-022
   type: authoritative
+- id: 845-03-13
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-13
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-13
+  type: authoritative
 status: valid
 id: 980592ca-081b-5695-a42b-a21b1b68346b
 ---
@@ -31,7 +38,7 @@ data:
   - content: 'See also ISO 11664-2/CIE S 014-2, _Colorimetry – Part 2: CIE Standard
       llluminants for Colorimetry_.'
     type: intensional
-  - content: This entry was numbered 845-03-13 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-13, 845-03-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-171 in CIE S 017:2011.
     type: intensional
@@ -50,6 +57,13 @@ data:
         source: CIE S 017:2011
         id: 17-171
     type: authoritative
+  - id: 845-03-13
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-13
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-13
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-022
-id: 914f2f0d-efde-5e37-a8fd-d64e3570ddb8
+id: 2790593e-9fd0-54b7-be76-8ea84246d6f1

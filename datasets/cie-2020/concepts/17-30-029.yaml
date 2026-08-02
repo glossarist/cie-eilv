@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-029
   type: authoritative
+- id: 845-10-24
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-24
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-24
+  type: authoritative
 status: valid
 id: 18539b3c-5d3e-5c8a-be8c-f89d19d12d2d
 ---
@@ -30,7 +37,7 @@ data:
     type: intensional
   - content: A lighting chain can incorporate control devices (e.g. flasher units).
     type: intensional
-  - content: This entry was numbered 845-10-24 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-24, 845-10-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-675 and 17-678 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-675 and 17-678
     type: authoritative
+  - id: 845-10-24
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-24
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-24
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -59,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-029
-id: 8e9bcb9a-bbe2-559d-b323-3f707c0c159f
+id: 85702c52-cc7e-5351-b35b-96fe7e937a47

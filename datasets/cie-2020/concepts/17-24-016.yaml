@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-016
   type: authoritative
+- id: 845-04-13
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-13
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-13
+  type: authoritative
 status: valid
 id: 3f1e9058-c386-5728-8d10-823cd1803724
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The radiance temperature is expressed in kelvin (K).
     type: intensional
-  - content: This entry was numbered 845-04-13 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-13, 845-04-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1016 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1016
     type: authoritative
+  - id: 845-04-13
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-13
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-13
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-016
-id: 836ef0c0-e386-5a9d-8495-e8e2302dbf2c
+id: 62317066-b579-5c72-919e-a5d929ea5c62

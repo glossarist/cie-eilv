@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-027
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-16
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-16
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-16
+  type: authoritative
 status: valid
 id: 68b01dfb-11a5-5faf-853b-2d3cf77c27ad
 ---
@@ -22,12 +36,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The quantity stem:[X] can also be expressed as a function of <<103-06-02,
-      frequency>>, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
+  - content: The quantity stem:[X] can also be expressed as a function of {{cite:103-06-02,
+      frequency}}, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
       symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and stem:[Xnu],
       stem:[Xsigma], etc. See also "{{17-21-029, spectral distribution}}".
     type: intensional
-  - content: This entry was numbered 845-01-16 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-16, 845-01-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1206 in CIE S 017:2011.
     type: intensional
@@ -46,6 +60,20 @@ data:
         source: CIE S 017:2011
         id: 17-1206
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-16
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-16
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-16
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,4 +89,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-027
-id: c29943f2-e13b-5b55-9dd7-0017a992a5b9
+id: d0b77ca4-05bf-54c8-896e-87338bcf9a40

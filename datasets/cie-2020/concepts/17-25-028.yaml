@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-028
   type: authoritative
+- id: 845-05-24
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-24
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-24
+  type: authoritative
 status: valid
 id: a4e4c842-6cad-519b-9d58-ca9f203da9c1
 ---
@@ -32,7 +39,7 @@ data:
       systems to provide a source with good spatial uniformity and with an angular
       distribution of radiance or luminance that is close to Lambert's cosine law.
     type: intensional
-  - content: This entry was numbered 845-05-24 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-24, 845-05-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-591 and 17-1358 in CIE S 017:2011.
     type: intensional
@@ -51,6 +58,13 @@ data:
         source: CIE S 017:2011
         id: 17-591 and 17-1358
     type: authoritative
+  - id: 845-05-24
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-24
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-24
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-028
-id: 84e9219b-0492-5fd7-99a4-7149d5578415
+id: 78c58808-c3da-5297-9e44-94a37f185de9

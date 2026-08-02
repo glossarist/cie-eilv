@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-036
   type: authoritative
+- id: 845-02-14
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-14
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-14
+  type: authoritative
 status: valid
 id: 781aedbe-5ee1-5ca0-976e-f30bdb6b3726
 ---
@@ -28,7 +35,7 @@ data:
       the spectral luminous efficiencies change, the wavelength of maximum efficiency
       being displaced towards the shorter wavelengths.
     type: intensional
-  - content: This entry was numbered 845-02-14 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-14, 845-02-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1003 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1003
     type: authoritative
+  - id: 845-02-14
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-14
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-14
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-036
-id: 0bee0726-2ae4-5154-add5-469eb4b2acd7
+id: a19ffdbe-2c51-55ae-80f9-2cb3f26fe77c

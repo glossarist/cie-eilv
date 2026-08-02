@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-039
   type: authoritative
+- id: 845-01-25
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-25
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-25
+  type: authoritative
 status: valid
 id: 76b4f567-ebe2-5054-a5d4-4c35c61d4fad
 ---
@@ -42,7 +49,7 @@ data:
     type: intensional
   - content: The luminous flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered 845-01-25 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-25, 845-01-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-738 in CIE S 017:2011.
     type: intensional
@@ -61,6 +68,13 @@ data:
         source: CIE S 017:2011
         id: 17-738
     type: authoritative
+  - id: 845-01-25
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-25
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-25
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -71,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-039
-id: f65daa3e-32d1-5dcc-9336-0f516be22dc5
+id: 9c9c4076-2bbb-5368-aef0-3471ea75a074

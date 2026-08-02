@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-047
   type: authoritative
+- id: 845-05-42
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-42
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-42
+  type: authoritative
 status: valid
 id: d73232fa-2292-500b-8ef1-934fc4805873
 ---
@@ -27,7 +34,7 @@ data:
     type: intensional
   - content: See also "{{17-25-109, quantum counter}}".
     type: intensional
-  - content: This entry was numbered 845-05-42 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-42, 845-05-42}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-822 in CIE S 017:2011.
     type: intensional
@@ -46,6 +53,13 @@ data:
         source: CIE S 017:2011
         id: 17-822
     type: authoritative
+  - id: 845-05-42
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-42
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-42
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-047
-id: 812d4a29-ede7-5685-a850-f78dc986993e
+id: 72dcb395-7263-54ec-bbc1-b463ef3644d5

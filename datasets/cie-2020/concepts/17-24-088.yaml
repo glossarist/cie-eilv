@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-088
   type: authoritative
+- id: 845-04-81
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-81
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-81
+  type: authoritative
 status: valid
 id: 95bea9a9-6235-5b6f-885b-9394de2ce8da
 ---
@@ -28,7 +35,7 @@ data:
     type: intensional
   - content: The spectral internal transmittance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-81 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-81, 845-04-81}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1215 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1215
     type: authoritative
+  - id: 845-04-81
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-81
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-81
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-088
-id: 5504adfd-4d7b-5e85-9377-3d35ccdefcde
+id: 67249e51-c1a8-5f39-abd6-fd6ac52a418e

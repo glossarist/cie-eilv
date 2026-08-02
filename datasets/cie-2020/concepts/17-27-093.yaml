@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-093
   type: authoritative
+- id: 845-07-54
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-54
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-54
+  type: authoritative
 status: valid
 id: 1f5b7278-b57f-5278-9d40-666bcfffd64c
 ---
@@ -23,7 +30,7 @@ data:
   - content: A spectroscopic lamp can be used with filters to obtain {{17-21-014,
       monochromatic radiation}}.
     type: intensional
-  - content: This entry was numbered 845-07-54 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-54, 845-07-54}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1237 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1237
     type: authoritative
+  - id: 845-07-54
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-54
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-54
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-093
-id: 976f6ffb-59f9-5e77-a35c-8c8ab9082044
+id: 1ad483d0-a2e5-5eb5-ade1-a316050caa07

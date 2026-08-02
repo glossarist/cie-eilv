@@ -11,12 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-041
   type: authoritative
+- id: 103-06-01
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-01
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-01
+  type: authoritative
 status: valid
 id: 6151fb23-55d5-593c-91fb-ce509e513d72
 ---
 data:
   definition:
-  - content: biological rhythm with a <<103-06-01, period>> of approximately 24 h
+  - content: biological rhythm with a {{cite:103-06-01, period}} of approximately
+      24 h
     type: intensional
   examples: []
   notes:
@@ -32,6 +40,13 @@ data:
         source: CIE S 017:2011
         id: 17-176
     type: authoritative
+  - id: 103-06-01
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-01
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-01
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -39,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-041
-id: 8ec27e0c-4699-5df8-9c09-8ddf86dbdc59
+id: 143ba1e3-4824-535c-9697-6fda691d1aa1

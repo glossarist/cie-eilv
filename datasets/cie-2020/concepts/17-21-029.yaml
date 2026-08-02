@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-029
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-17
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-17
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-17
+  type: authoritative
 status: valid
 id: 1ec7e689-b3aa-5ee4-a460-077294156f5c
 ---
@@ -37,14 +51,14 @@ data:
       in nanometre to the power minus one (nm^−1^). The units of spectral distributions
       of other quantities are expressed accordingly.
     type: intensional
-  - content: The quantity stem:[X] can also be expressed as a function of <<103-06-02,
-      frequency>>, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
+  - content: The quantity stem:[X] can also be expressed as a function of {{cite:103-06-02,
+      frequency}}, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
       symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and the corresponding
       densities with respect to frequency, stem:[nu], wavenumber, stem:[sigma], etc.
       are stem:[Xnu], stem:[Xsigma], etc., in which case the expression of units will
       also change accordingly.
     type: intensional
-  - content: This entry was numbered 845-01-17 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-17, 845-01-17}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1213 and 17-1212 in CIE S 017:2011.
     type: intensional
@@ -63,6 +77,20 @@ data:
         source: CIE S 017:2011
         id: 17-1213 and 17-1212
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-17
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-17
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-17
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -73,4 +101,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-029
-id: c0119715-f908-5d09-b3ae-68f26731871f
+id: 1e790657-6ab9-5312-b906-0d45a54e2102

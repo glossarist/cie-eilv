@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-005
   type: authoritative
+- id: 845-05-05
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-05
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-05
+  type: authoritative
 status: valid
 id: 517892e8-0cd6-5902-b411-bfd6b3a6dcde
 ---
@@ -23,7 +30,7 @@ data:
   - content: The term "photometry" is sometimes used in a broader sense covering radiometry,
       but this use is deprecated.
     type: intensional
-  - content: This entry was numbered 845-05-05 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-05, 845-05-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1032 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1032
     type: authoritative
+  - id: 845-05-05
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-05
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-05
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-005
-id: 2087c2e1-c2f5-556b-b01d-91b63ec05dec
+id: f6aff199-f9ed-5ad3-a303-61597b3b1663

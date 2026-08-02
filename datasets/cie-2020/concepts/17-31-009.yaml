@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-009
   type: authoritative
+- id: 845-11-11
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-11
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-11
+  type: authoritative
 status: valid
 id: e0cee2f4-dd0e-5ab0-a40f-c281257e6dc7
 ---
@@ -26,7 +33,7 @@ data:
   - content: The term "eclipse" is used for the interval of darkness between two successive
       distinct appearances of light.
     type: intensional
-  - content: This entry was numbered 845-11-11 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-11, 845-11-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-441 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-441
     type: authoritative
+  - id: 845-11-11
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-11
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-11
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-009
-id: 20fa4cf7-b5df-5410-bb5e-b34a43002676
+id: 40dc6e85-8187-565e-bc17-8068bd7322a2

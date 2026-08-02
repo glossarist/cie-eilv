@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-038
   type: authoritative
+- id: 845-02-16
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-16
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-16
+  type: authoritative
 status: valid
 id: 798c7398-4e9d-572a-9fe0-dd62b7e91d3e
 ---
@@ -26,7 +33,7 @@ data:
       of the limiting pupil, natural or artificial, by the luminance of the surface
       in candela per square metre.
     type: intensional
-  - content: This entry was numbered 845-02-16 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-16, 845-02-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1349 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-1349
     type: authoritative
+  - id: 845-02-16
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-16
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-16
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-038
-id: 9a0b1cb8-80c4-5e7a-b965-2e731b9fa55b
+id: 62b63810-b3e9-5ba2-9dd3-b818da8d2b5e

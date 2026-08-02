@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-074
   type: authoritative
+- id: 845-01-45
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-45
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-45
+  type: authoritative
 status: valid
 id: f87a0b7e-6ce9-53d8-83c1-28c3bfac5eb9
 ---
@@ -37,7 +44,7 @@ data:
   - content: The radiant spherical exposure is expressed in joule per square metre
       (J·m^−2^ = W·s·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-45 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-45, 845-01-45}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1028 in CIE S 017:2011.
     type: intensional
@@ -56,6 +63,13 @@ data:
         source: CIE S 017:2011
         id: 17-1028
     type: authoritative
+  - id: 845-01-45
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-45
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-45
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-074
-id: 0aaebbdc-a3d8-5c78-88fb-5fb11e74449d
+id: a5a4b9ef-808b-5545-9a5c-d9e0bd152bfc

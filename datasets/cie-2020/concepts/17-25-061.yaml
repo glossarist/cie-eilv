@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-061
   type: authoritative
+- id: 845-05-54
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-54
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-54
+  type: authoritative
 status: valid
 id: d6973da4-fe33-5692-879d-61a5802a9e43
 ---
@@ -29,7 +36,7 @@ data:
     type: intensional
   - content: The term "sensitivity" is no longer used.
     type: intensional
-  - content: This entry was numbered 845-05-54 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-54, 845-05-54}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1094 and 17-1163 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-1094 and 17-1163
     type: authoritative
+  - id: 845-05-54
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-54
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-54
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -59,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-061
-id: abf1d81f-1a76-5588-a75d-4e749f6990ae
+id: 99a102e1-0266-507a-b46a-4f442f33ef0b

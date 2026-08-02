@@ -11,14 +11,21 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-123
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
 status: valid
 id: dd82e2c8-ede9-5764-b06d-b13d53d77766
 ---
 data:
   definition:
   - content: total power dissipated by control gear and light source(s) in combination,
-      at rated supply voltage and <<103-06-02, frequency>> of the control gear with
-      the highest rated output load
+      at rated supply voltage and {{cite:103-06-02, frequency}} of the control gear
+      with the highest rated output load
     type: intensional
   examples: []
   notes:
@@ -29,6 +36,13 @@ data:
       ref:
         source: CIE S 017:2020
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -36,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-123
-id: 0fe9c015-e3d1-5896-aec4-5c1f3e60c6fe
+id: 3e66c943-e004-5e33-a5ab-2bd1885c5c9b

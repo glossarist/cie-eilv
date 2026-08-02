@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-068
   type: authoritative
+- id: 845-04-62
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-62
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-62
+  type: authoritative
 status: valid
 id: 0fd9a3e0-9de0-55d2-8a4b-b9894732cedb
 ---
@@ -26,7 +33,7 @@ data:
     type: intensional
   - content: The diffuse reflectance has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-62 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-62, 845-04-62}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-304 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-304
     type: authoritative
+  - id: 845-04-62
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-62
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-62
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-068
-id: fc633608-8c91-5052-856b-bcb322da005e
+id: 77273ebc-f545-542a-acaa-d1a55a93da1f

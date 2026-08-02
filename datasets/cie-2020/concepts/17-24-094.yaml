@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-094
   type: authoritative
+- id: 845-04-87
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-87
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-87
+  type: authoritative
 status: valid
 id: 41ff98fa-dc00-5399-b082-68d77dd36740
 ---
@@ -29,7 +36,7 @@ data:
     type: intensional
   - content: The spectral transmissivity has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-87 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-87, 845-04-87}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1231 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-1231
     type: authoritative
+  - id: 845-04-87
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-87
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-87
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -59,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-094
-id: '0328368d-34f9-51be-8010-a7d8ba1c66cf'
+id: b150495d-2b25-5ab3-b2e7-5a43d43cd43f

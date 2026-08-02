@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-073
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-05-66
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-66
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-66
+  type: authoritative
 status: valid
 id: ca7cdf3c-3f93-54e3-8634-451df7b8c74f
 ---
@@ -26,14 +40,15 @@ data:
   examples: []
   notes:
   - content: The concept "normalized detectivity" is realistic only if the responsivity
-      and noise output of the detector are <<103-06-02, frequency>> independent throughout
-      the frequency range under consideration and if the noise equivalent input varies
-      as the square root of the detector area; this is not always the case.
+      and noise output of the detector are {{cite:103-06-02, frequency}} independent
+      throughout the frequency range under consideration and if the noise equivalent
+      input varies as the square root of the detector area; this is not always the
+      case.
     type: intensional
   - content: The normalized detectivity is expressed in metre hertz to the power one
       half per watt (m·Hz^1/2^·W^−1^).
     type: intensional
-  - content: This entry was numbered 845-05-66 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-66, 845-05-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-827 in CIE S 017:2011.
     type: intensional
@@ -52,6 +67,20 @@ data:
         source: CIE S 017:2011
         id: 17-827
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-05-66
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-66
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-66
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -63,4 +92,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-073
-id: 6a29c154-0b78-59ec-b972-169a2446912f
+id: 43e4ac8a-5efa-5b7f-9d9d-e63330b25ad0

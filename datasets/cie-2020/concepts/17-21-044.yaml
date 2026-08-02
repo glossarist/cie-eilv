@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-044
   type: authoritative
+- id: 845-01-30
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-30
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-30
+  type: authoritative
 status: valid
 id: 64a9fb28-1ac7-5033-9c74-8b0d4f18d10b
 ---
@@ -37,7 +44,7 @@ data:
     type: intensional
   - content: The radiant intensity is expressed in watt per steradian (W·sr^−1^).
     type: intensional
-  - content: This entry was numbered 845-01-30 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-30, 845-01-30}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1026 in CIE S 017:2011.
     type: intensional
@@ -56,6 +63,13 @@ data:
         source: CIE S 017:2011
         id: 17-1026
     type: authoritative
+  - id: 845-01-30
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-30
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-30
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-044
-id: 0ba722b5-fb07-5d7c-adb8-c5564b2c9303
+id: e9ffc2df-ef47-57ad-b077-143641a2248b

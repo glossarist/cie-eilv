@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-062
   type: authoritative
+- id: 845-11-63
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-63
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-63
+  type: authoritative
 status: valid
 id: e1743a5a-2f45-5cfd-86b7-229e58da5f2c
 ---
@@ -23,7 +30,7 @@ data:
   - content: A three-colour set, with red, yellow/amber and green lights, is the common
       arrangement for the regulation of vehicular traffic.
     type: intensional
-  - content: This entry was numbered 845-11-63 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-63, 845-11-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1330 and 17-1328 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1330 and 17-1328
     type: authoritative
+  - id: 845-11-63
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-63
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-63
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-062
-id: 272227a7-0da9-53ec-8353-682c3c5e9aed
+id: 6a0052cc-ea08-517a-83a0-1df443c7d1a6

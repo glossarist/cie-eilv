@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-010
   type: authoritative
+- id: 845-10-08
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-08
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-08
+  type: authoritative
 status: valid
 id: ff3fac83-9db2-50d7-ba01-2165da931a61
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: An adjustable luminaire can be fixed or portable.
     type: intensional
-  - content: This entry was numbered 845-10-08 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-08, 845-10-08}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-26 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-26
     type: authoritative
+  - id: 845-10-08
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-08
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-08
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-010
-id: 8e16e675-db75-5731-8410-1151594d43d5
+id: 9ead9920-cc41-5a43-bade-b05b8c66dfd4

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-002
   type: authoritative
+- id: 845-09-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-02
+  type: authoritative
 status: valid
 id: 19fc40ec-8a90-5faf-8aa6-5b29781a7c76
 ---
@@ -25,7 +32,7 @@ data:
   - content: In French, the term “éclairagisme” has a different meaning in engineering
       (see {{17-29-003, IEV 845-29-003}}).
     type: intensional
-  - content: This entry was numbered 845-09-02 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-02, 845-09-02}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-679
     type: authoritative
+  - id: 845-09-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-02
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-002
-id: 5dfd4861-1257-54b0-92b7-e0a2267af922
+id: 0e90e47e-f6aa-5005-95fb-5e7d57abe66f

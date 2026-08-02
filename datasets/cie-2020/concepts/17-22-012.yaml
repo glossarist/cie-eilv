@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-012
   type: authoritative
+- id: 845-02-07
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-07
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-07
+  type: authoritative
 status: valid
 id: f59cbf7b-08a1-5950-8df1-6c398d3986a9
 ---
@@ -25,7 +32,7 @@ data:
   - content: Adaptation to specific spatial frequencies, orientations, sizes, etc.
       is recognized as being included in this definition.
     type: intensional
-  - content: This entry was numbered 845-02-07 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-07, 845-02-07}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-18 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-18
     type: authoritative
+  - id: 845-02-07
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-07
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-07
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-012
-id: e01c6782-1c59-5d54-b9c1-eee64722f644
+id: 2e80b49d-e03f-5abd-9f32-f7f0e28dc397

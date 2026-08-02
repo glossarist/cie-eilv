@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-087
   type: authoritative
+- id: 845-02-45
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-45
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-45
+  type: authoritative
 status: valid
 id: 1e291e74-30e3-53ff-81e9-341de241bf15
 ---
@@ -25,7 +32,7 @@ data:
     type: intensional
   - content: The luminance threshold is expressed in candela per square metre (cd·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-02-45 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-45, 845-02-45}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-720 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-720
     type: authoritative
+  - id: 845-02-45
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-45
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-45
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-087
-id: 4d025877-c426-5074-ae38-4fc81315d454
+id: dd830e3d-ca1c-5f9f-91f6-b999ee8243ce

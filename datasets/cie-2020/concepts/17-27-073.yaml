@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-073
   type: authoritative
+- id: 845-07-40
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-40
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-40
+  type: authoritative
 status: valid
 id: b9d79624-300b-5224-bd7d-49c5101a1f9d
 ---
@@ -24,7 +31,7 @@ data:
   - content: The term "projector lamp" includes various types of electric lamp such
       as floodlight lamps, spotlight lamps, and studio lamps.
     type: intensional
-  - content: This entry was numbered 845-07-40 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-40, 845-07-40}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-991 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-991
     type: authoritative
+  - id: 845-07-40
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-40
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-40
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-073
-id: 32fa3445-670d-56eb-87fb-3755181d2bf7
+id: 5c0912a5-75cc-5611-b133-ba088ceeeb1f

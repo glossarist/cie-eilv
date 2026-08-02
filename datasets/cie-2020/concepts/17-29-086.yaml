@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-086
   type: authoritative
+- id: 845-09-66
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-66
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-66
+  type: authoritative
 status: valid
 id: a2aec6d7-bbe3-5b47-bfc7-895a1f7bee4c
 ---
@@ -22,7 +29,7 @@ data:
   notes:
   - content: The spacing is expressed in metres (m).
     type: intensional
-  - content: This entry was numbered 845-09-66 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-66, 845-09-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1203 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
         source: CIE S 017:2011
         id: 17-1203
     type: authoritative
+  - id: 845-09-66
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-66
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-66
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-086
-id: cf7dfab7-2ccf-5e93-96be-e135784b449d
+id: 43858d2e-8f25-54fd-abdb-eba74c420bc0

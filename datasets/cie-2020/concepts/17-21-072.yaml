@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-072
   type: authoritative
+- id: 845-01-43
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-43
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-43
+  type: authoritative
 status: valid
 id: d2d27080-e4e6-5d71-98b8-dd0f9422c30e
 ---
@@ -39,7 +46,7 @@ data:
     type: intensional
   - content: The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-43 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-43, 845-01-43}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-736 in CIE S 017:2011.
     type: intensional
@@ -58,6 +65,13 @@ data:
         source: CIE S 017:2011
         id: 17-736
     type: authoritative
+  - id: 845-01-43
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-43
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-43
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,4 +82,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-072
-id: 01d4fdbf-cdfd-572b-8b9f-81cdd195c35a
+id: 5cb476e0-d575-58e3-bde7-a3a9e706800a

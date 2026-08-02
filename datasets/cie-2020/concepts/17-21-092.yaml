@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-092
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
 status: valid
 id: 3ac4b4ad-9bea-55b4-870e-65da995c3a7f
 ---
@@ -31,7 +38,7 @@ data:
 
       stem:[K_m = ((683))/((V ( lambda_((cd)) ))) cd * sr * W^(- 1) tildetilde 683 \ lm * W^(- 1)]
 
-      where stem:[V](stem:[lambda]) is the {{17-21-035, spectral luminous efficiency}} for photopic vision and stem:[lambda_(cd)] is the wavelength in air corresponding to the <<103-06-02, frequency>> 540 × 10^12^ Hz specified in the definition of the SI unit candela.
+      where stem:[V](stem:[lambda]) is the {{17-21-035, spectral luminous efficiency}} for photopic vision and stem:[lambda_(cd)] is the wavelength in air corresponding to the {{cite:103-06-02, frequency}} 540 × 10^12^ Hz specified in the definition of the SI unit candela.
     type: intensional
   - content: The maximum luminous efficacy is expressed in lumen per watt (lm·W^−1^).
     type: intensional
@@ -39,6 +46,13 @@ data:
   - origin:
       ref:
         source: CIE S 017:2020
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   terms:
   - type: expression
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-092
-id: 20e11f43-dcbe-5d9b-9e9f-885c4f030162
+id: 3a7c59cf-2b65-541d-a4f5-dfa7e83eb05b

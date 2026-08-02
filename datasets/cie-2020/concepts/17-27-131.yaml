@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-131
   type: authoritative
+- id: 845-07-72
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-72
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-72
+  type: authoritative
 status: valid
 id: e487ffaf-c6b8-5a7f-89f4-ef4b634f782c
 ---
@@ -25,7 +32,7 @@ data:
       can be part of the ballast and provides the heating current. In certain circuits,
       this low voltage is automatically decreased after the arc has struck.
     type: intensional
-  - content: This entry was numbered 845-07-72 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-72, 845-07-72}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-860 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-860
     type: authoritative
+  - id: 845-07-72
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-72
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-72
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-131
-id: c3303935-90d6-5241-af2d-1502bfc4dc7c
+id: 79aaef10-8276-513f-bdd7-6dd77b70e576

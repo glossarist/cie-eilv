@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-006
   type: authoritative
+- id: 845-02-05
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-05
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-05
+  type: authoritative
 status: valid
 id: ac80a25b-9afd-569d-a4a1-60a490bd7f7a
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The fovea subtends an angle of about 0,087 rad (5°) in the field of vision.
     type: intensional
-  - content: This entry was numbered 845-02-05 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-05, 845-02-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-471 and 17-472 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-471 and 17-472
     type: authoritative
+  - id: 845-02-05
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-05
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-05
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-006
-id: 1db24930-abb8-5f26-8c54-b64ea0490a0a
+id: afe9234d-ebfd-5ad6-af2d-1fa89f6b8f19

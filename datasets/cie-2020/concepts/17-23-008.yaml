@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-008
   type: authoritative
+- id: 845-03-05
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-05
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-05
+  type: authoritative
 status: valid
 id: 2b8005f9-1277-5e4a-b12f-b67277e7bc67
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: The corresponding property is called "metamerism".
     type: intensional
-  - content: This entry was numbered 845-03-05 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-05, 845-03-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-768 and 17-771 in CIE S 017:2011.
     type: intensional
@@ -41,6 +48,13 @@ data:
       ref:
         source: CIE S 017:2011
         id: 17-768 and 17-771
+    type: authoritative
+  - id: 845-03-05
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-05
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-05
     type: authoritative
   terms:
   - type: expression
@@ -61,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-008
-id: 318a1cb8-c211-54f1-9c59-913d55b18e73
+id: 1eaa74cc-a346-5386-916a-f30af6af12b1

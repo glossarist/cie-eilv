@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-045
   type: authoritative
+- id: 845-03-28
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-28
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-28
+  type: authoritative
 status: valid
 id: 76cd934c-4652-531a-a35d-6dea5567450b
 ---
@@ -38,7 +45,7 @@ data:
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: This entry was numbered 845-03-28 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-28, 845-03-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-150 in CIE S 017:2011.
     type: intensional
@@ -57,6 +64,13 @@ data:
         source: CIE S 017:2011
         id: 17-150
     type: authoritative
+  - id: 845-03-28
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-28
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-28
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-045
-id: 372b2844-e6c3-5afd-bd2c-84160766d9e7
+id: 9f23ddf1-a95a-5e0d-a555-61a62ccdeebb

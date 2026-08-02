@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-041
   type: authoritative
+- id: 845-09-28
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-28
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-28
+  type: authoritative
 status: valid
 id: 353fe9be-91b8-55ab-a9f1-70328153e1d4
 ---
@@ -25,7 +32,7 @@ data:
   - content: The English terms "isocandela curve" and "isocandela line", and the French
       term "courbe isocandela" are no longer in use.
     type: intensional
-  - content: This entry was numbered 845-09-28 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-28, 845-09-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-618, 17-620, 17-613, and 17-615 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-618, 17-620, 17-613, and 17-615
     type: authoritative
+  - id: 845-09-28
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-28
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-28
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-041
-id: b93b0ce9-9f82-5b2f-8a8b-489a117351a8
+id: d5865ee4-be09-54fa-a2dd-6ae67638c192

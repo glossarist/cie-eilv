@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-064
   type: authoritative
+- id: 845-03-46
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-46
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-46
+  type: authoritative
 status: valid
 id: 39110608-0cc5-57f3-8098-9b8548261f9d
 ---
@@ -28,7 +35,7 @@ data:
   - content: The proportions can be measured in various ways (see "{{17-23-065, colorimetric
       purity}}" and "{{17-23-065, excitation purity}}").
     type: intensional
-  - content: This entry was numbered 845-03-46 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-46, 845-03-46}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1002 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1002
     type: authoritative
+  - id: 845-03-46
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-46
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-46
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-064
-id: 76141394-71b1-5a73-a1ea-78de7dee4eb2
+id: e9479cde-e24a-57cb-bc06-a8a8db746a2c

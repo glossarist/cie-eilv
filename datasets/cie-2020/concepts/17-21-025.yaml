@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-025
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-14
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-14
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-14
+  type: authoritative
 status: valid
 id: c2681e26-6bf6-5613-861c-2368509f7a86
 ---
@@ -32,7 +46,7 @@ data:
     type: intensional
   - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength
       in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is
-      the <<103-06-02, frequency>>.
+      the {{cite:103-06-02, frequency}}.
     type: intensional
   - content: The wavelength is expressed in metres (m) or decimal submultiples of
       metre.
@@ -40,7 +54,7 @@ data:
   - content: In {{17-21-002, optical radiation}}, the units nanometre (nm) and micrometre
       (μm) are generally used.
     type: intensional
-  - content: This entry was numbered 845-01-14 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-14, 845-01-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1426 in CIE S 017:2011.
     type: intensional
@@ -59,6 +73,20 @@ data:
         source: CIE S 017:2011
         id: 17-1426
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-14
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-14
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-14
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,4 +97,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-025
-id: cfde49ed-356a-56aa-9a40-146a350103ad
+id: a3c2b499-18a0-58df-8f8f-069ce8696953

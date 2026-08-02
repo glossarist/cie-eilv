@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-010
   type: authoritative
+- id: 845-03-07
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-07
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-07
+  type: authoritative
 status: valid
 id: 9622ae29-1cf7-5aaa-98ba-41cabb99cf32
 ---
@@ -24,7 +31,7 @@ data:
   - content: In the colorimetry of object colours, stimuli having values of purity
       greater than 0 are usually considered to be chromatic stimuli.
     type: intensional
-  - content: This entry was numbered 845-03-07 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-07, 845-03-07}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-143 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-143
     type: authoritative
+  - id: 845-03-07
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-07
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-07
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-010
-id: fb350856-1f73-569e-864e-49c797766132
+id: 27561839-bd3d-5ac5-9a06-3162569a9545

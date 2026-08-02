@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-091
   type: authoritative
+- id: 845-07-52
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-52
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-52
+  type: authoritative
 status: valid
 id: 1e7cc9da-8acc-5477-bb74-a29f9eed59d3
 ---
@@ -24,7 +31,7 @@ data:
   - content: There are several types of ultraviolet lamp used for photobiological,
       photochemical and biomedical purposes.
     type: intensional
-  - content: This entry was numbered 845-07-52 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-52, 845-07-52}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1364 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1364
     type: authoritative
+  - id: 845-07-52
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-52
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-52
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-091
-id: a37ed878-405d-58d0-a7f0-fe0824b39c7d
+id: dde68b79-6f4d-5556-82b9-3fa7e4148f7f

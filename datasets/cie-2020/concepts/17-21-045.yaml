@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-045
   type: authoritative
+- id: 845-01-31
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-31
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-31
+  type: authoritative
 status: valid
 id: 71f65e1a-1d98-5700-a3b8-b51b0153bac8
 ---
@@ -45,7 +52,7 @@ data:
     type: intensional
   - content: The luminous intensity is expressed in candela (cd = lm·sr^−1^).
     type: intensional
-  - content: This entry was numbered 845-01-31 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-31, 845-01-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-739 in CIE S 017:2011.
     type: intensional
@@ -64,6 +71,13 @@ data:
         source: CIE S 017:2011
         id: 17-739
     type: authoritative
+  - id: 845-01-31
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-31
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-31
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -74,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-045
-id: 42ca1114-2a30-5d3c-acee-1f2682ff2cbe
+id: 935de96e-fe83-51c3-9262-3bfc96ad7d20

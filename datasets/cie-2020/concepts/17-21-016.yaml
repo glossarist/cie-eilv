@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-016
   type: authoritative
+- id: 845-01-09
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-09
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-09
+  type: authoritative
 status: valid
 id: e8dd7bc9-9120-50c0-8c42-d32ca245e07e
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: A spectral line is often observed as a sharp feature in a spectrum.
     type: intensional
-  - content: This entry was numbered 845-01-09 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-09, 845-01-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1218 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-1218
     type: authoritative
+  - id: 845-01-09
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-09
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-09
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-016
-id: d02864d4-9076-54f3-a380-5ca3032abc5c
+id: 6703d663-e7f5-5b12-912e-1397cbc0b3f9

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-005
   type: authoritative
+- id: 845-06-05
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-05
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-05
+  type: authoritative
 status: valid
 id: 68b6a387-0de3-5aee-9a62-f91250879477
 ---
@@ -24,9 +31,9 @@ data:
   - content: The distinction between direct and indirect actinic effect mainly applies
       to biological changes.
     type: intensional
-  - content: This entry was numbered 845-06-05 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-05, 845-06-05}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered <<845-06-05, 845-06-05>> in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-05, 845-06-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-15 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-15
     type: authoritative
+  - id: 845-06-05
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-05
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-05
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-005
-id: 2cc2ef49-6a6f-5c4b-9932-53a28cb8b22d
+id: df8e429c-77ad-543f-b47e-16eb43acc062

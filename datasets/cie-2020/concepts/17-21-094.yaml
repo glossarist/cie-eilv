@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-094
   type: authoritative
+- id: 845-01-57
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-57
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-57
+  type: authoritative
 status: valid
 id: 168306fd-4459-5ef9-bc2a-19b72f6826ec
 ---
@@ -36,7 +43,7 @@ data:
     type: intensional
   - content: The luminous efficiency has unit one.
     type: intensional
-  - content: This entry was numbered 845-01-57 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-57, 845-01-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-731 in CIE S 017:2011.
     type: intensional
@@ -55,6 +62,13 @@ data:
         source: CIE S 017:2011
         id: 17-731
     type: authoritative
+  - id: 845-01-57
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-57
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-57
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-094
-id: 2af2832c-f390-5bbe-b2ad-e9de8a722a11
+id: 1e108483-ab4c-5927-aaf5-61d949050990

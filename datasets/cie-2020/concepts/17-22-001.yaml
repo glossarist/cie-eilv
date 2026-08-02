@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-001
   type: authoritative
+- id: 845-02-01
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-01
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-01
+  type: authoritative
 status: valid
 id: 67699fca-1210-55bf-bce8-4efaa1f90845
 ---
@@ -28,7 +35,7 @@ data:
       retinal ganglion cells (ipRGCs), which play a role in controlling circadian
       and neuro-endocrine systems.'
     type: intensional
-  - content: This entry was numbered 845-02-01 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-01, 845-02-01}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1097 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1097
     type: authoritative
+  - id: 845-02-01
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-01
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-01
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-001
-id: cce76c5c-482e-5841-aa23-de3773637cf2
+id: e7da3987-76f2-5697-a61e-40c4f560144e

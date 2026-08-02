@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-025
   type: authoritative
+- id: 845-04-22
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-22
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-22
+  type: authoritative
 status: valid
 id: 3ba4f266-be01-54a6-bd46-71803f7b3b96
 ---
@@ -24,7 +31,7 @@ data:
   - content: Anti-Stokes luminescence happens, for instance, when the energy of the
       emitted photons originates from the absorption of two exciting photons.
     type: intensional
-  - content: This entry was numbered 845-04-22 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-22, 845-04-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-45 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-45
     type: authoritative
+  - id: 845-04-22
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-22
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-22
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-025
-id: 54700be1-6716-5a03-91c2-9b7f425d3de8
+id: 85019b53-6215-5b00-b887-28879ee99908

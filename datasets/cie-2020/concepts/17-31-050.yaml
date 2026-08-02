@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-050
   type: authoritative
+- id: 845-11-53
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-53
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-53
+  type: authoritative
 status: valid
 id: a5596f2e-8213-5b9a-a163-8924610ac205
 ---
@@ -30,7 +37,7 @@ data:
       and between the two lines of runway edge lights, to indicate the portion of
       the runway where aircraft should first make contact on landing.
     type: intensional
-  - content: This entry was numbered 845-11-53 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-53, 845-11-53}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1129 in CIE S 017:2011.
     type: intensional
@@ -49,6 +56,13 @@ data:
         source: CIE S 017:2011
         id: 17-1129
     type: authoritative
+  - id: 845-11-53
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-53
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-53
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-050
-id: a1b5cc32-dc1d-5508-8a42-164f24ba9084
+id: 0f84e33e-d778-5e12-b0e7-6407c9e66a23

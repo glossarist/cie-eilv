@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-023
   type: authoritative
+- id: 845-03-14
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-14
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-14
+  type: authoritative
 status: valid
 id: ef11f1e6-d629-551e-aff8-e389ad0f7f89
 ---
@@ -25,7 +32,7 @@ data:
   - content: The radiation of the equi-energy spectrum is sometimes regarded as an
       illuminant, in which case it is denoted by the symbol E.
     type: intensional
-  - content: This entry was numbered 845-03-14 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-14, 845-03-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-393 and 17-390 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-393 and 17-390
     type: authoritative
+  - id: 845-03-14
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-14
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-14
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-023
-id: f6d227f3-4f47-585f-98e2-8e4e86383fb0
+id: 30fd2d52-3a9a-5aca-b2c3-f396aab92252

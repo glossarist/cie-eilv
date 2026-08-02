@@ -11,15 +11,30 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-095
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-58
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-58
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-58
+  type: authoritative
 status: valid
 id: ae13402c-8ff2-50b2-90d0-afc188f7cd62
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of <<103-06-02, frequency>>
-      540 × 10^12^ Hz has the same brightness as the field considered under the specified
-      photometric conditions of measurement, where the comparison field must have
-      a specified size and shape which can be different from that of the field considered
+  - content: luminance of a comparison field in which radiation of {{cite:103-06-02,
+      frequency}} 540 × 10^12^ Hz has the same brightness as the field considered
+      under the specified photometric conditions of measurement, where the comparison
+      field must have a specified size and shape which can be different from that
+      of the field considered
     type: intensional
   examples: []
   notes:
@@ -32,7 +47,7 @@ data:
     type: intensional
   - content: The equivalent luminance is expressed in candela per square metre (cd·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-58 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-58, 845-01-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-397 in CIE S 017:2011.
     type: intensional
@@ -51,6 +66,20 @@ data:
         source: CIE S 017:2011
         id: 17-397
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-58
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-58
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-58
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,4 +91,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-095
-id: 1edfdc9a-27c9-5f0f-b2fd-bcb346951443
+id: 79b0ae3c-e0af-51e9-a944-316fae22a20c

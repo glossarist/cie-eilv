@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-31-055
   type: authoritative
+- id: 845-11-56
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-11-56
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-56
+  type: authoritative
 status: valid
 id: 1d665570-f463-5d7e-8300-742efccd564e
 ---
@@ -24,7 +31,7 @@ data:
   - content: A wing bar can be paired symmetrically with a similar wing bar on the
       opposite side of the runway.
     type: intensional
-  - content: This entry was numbered 845-11-56 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-56, 845-11-56}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1437 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-1437
     type: authoritative
+  - id: 845-11-56
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-11-56
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-56
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-055
-id: c5c11633-befe-512a-bbfb-7fbf8b162930
+id: ee3094c1-d36e-5182-82e7-6b79a6fb9025

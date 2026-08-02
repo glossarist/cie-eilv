@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-115
   type: authoritative
+- id: 845-07-66
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-66
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-66
+  type: authoritative
 status: valid
 id: fb7377d1-667f-5545-8c38-a1053f7bf170
 ---
@@ -29,7 +36,7 @@ data:
   - content: The amplitude of fluctuation of the luminous flux has unit one and is
       usually expressed in per cent (%).
     type: intensional
-  - content: This entry was numbered 845-07-66 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-66, 845-07-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-39 in CIE S 017:2011.
     type: intensional
@@ -48,6 +55,13 @@ data:
         source: CIE S 017:2011
         id: 17-39
     type: authoritative
+  - id: 845-07-66
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-66
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-66
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-115
-id: 12d864b0-4e98-5628-bd52-f2262c50a0a8
+id: cff337a3-8380-5000-b4e1-1f73ab85c735

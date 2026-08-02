@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-096
   type: authoritative
+- id: 845-04-89
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-89
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-89
+  type: authoritative
 status: valid
 id: 1ef7b267-0725-5096-b06e-a8dc6101d3f7
 ---
@@ -37,7 +44,7 @@ data:
     type: intensional
   - content: The diffusion factor has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-89 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-89, 845-04-89}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-312 in CIE S 017:2011.
     type: intensional
@@ -56,6 +63,13 @@ data:
         source: CIE S 017:2011
         id: 17-312
     type: authoritative
+  - id: 845-04-89
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-89
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-89
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-096
-id: cc029e07-1cec-58af-9685-a81ed74e200a
+id: d481fdf1-dff4-5c4a-b754-7ef6ff9b8bda

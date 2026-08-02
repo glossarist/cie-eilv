@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-30-011
   type: authoritative
+- id: 845-10-09
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-10-09
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-09
+  type: authoritative
 status: valid
 id: e768dc16-5f89-5fbf-8a65-4f77fb2d068c
 ---
@@ -26,7 +33,7 @@ data:
       screw, a clip or a hook so that they can easily be removed from their support
       by hand, are considered to be portable luminaires.
     type: intensional
-  - content: This entry was numbered 845-10-09 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-09, 845-10-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-970 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-970
     type: authoritative
+  - id: 845-10-09
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-10-09
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-09
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-011
-id: 53b2ab56-0b38-5e4f-8433-3a4eca7d05ea
+id: 7199505f-7f8d-509a-8f5d-210b10b87889

@@ -11,17 +11,31 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-112
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-04-104
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-104
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-104
+  type: authoritative
 status: valid
 id: 2d286bc4-5ae8-5b5a-b431-04c9a0cae0be
 ---
 data:
   definition:
   - content: phenomenon of change in a physical property of a propagating wave as
-      a function of its <<103-06-02, frequency>>
+      a function of its {{cite:103-06-02, frequency}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 845-04-104 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-104, 845-04-104}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-334 in CIE S 017:2011.
     type: intensional
@@ -40,6 +54,20 @@ data:
         source: CIE S 017:2011
         id: 17-334
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-04-104
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-104
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-104
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-112
-id: 38bc8969-5045-52bc-82b7-aa96f78a6864
+id: bab8f4c7-3808-5abb-aebe-63c4fd1eb51b

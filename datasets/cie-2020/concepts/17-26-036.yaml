@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-036
   type: authoritative
+- id: 845-06-25
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-25
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-25
+  type: authoritative
 status: valid
 id: 0704c48e-37ee-5836-b9a7-e15c56ba6668
 ---
@@ -27,7 +34,7 @@ data:
     type: intensional
   - content: The dose rate is expressed in watt per square metre (W·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-06-25 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-25, 845-06-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-347 in CIE S 017:2011.
     type: intensional
@@ -46,6 +53,13 @@ data:
         source: CIE S 017:2011
         id: 17-347
     type: authoritative
+  - id: 845-06-25
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-25
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-25
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-036
-id: 442a2a12-821f-536d-82c4-fa981dd02644
+id: 3583fc4b-8406-5fde-9849-7f441316473d

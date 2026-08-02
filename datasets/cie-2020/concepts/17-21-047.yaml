@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-047
   type: authoritative
+- id: 845-01-33
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-33
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-33
+  type: authoritative
 status: valid
 id: b9e2daa2-cbea-5e15-8de7-86a89a369cfe
 ---
@@ -40,7 +47,7 @@ data:
     type: intensional
   - content: The geometric extent is expressed in square metre times steradian (m^2^·sr).
     type: intensional
-  - content: This entry was numbered 845-01-33 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-33, 845-01-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-489 in CIE S 017:2011.
     type: intensional
@@ -59,6 +66,13 @@ data:
         source: CIE S 017:2011
         id: 17-489
     type: authoritative
+  - id: 845-01-33
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-33
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-33
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -69,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-047
-id: 89384f75-f094-5041-8e2e-66524798bfaf
+id: 393624b6-1ae2-5637-ac0e-d62d416e6f0c

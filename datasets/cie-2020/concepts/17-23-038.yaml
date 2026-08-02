@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-038
   type: authoritative
+- id: 845-03-22
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-22
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-22
+  type: authoritative
 status: valid
 id: 0df9b435-2671-5a01-9321-dfcfd3e4bd2d
 ---
@@ -26,7 +33,7 @@ data:
       stem:[Y], stem:[Z]; stem:[R_(10)], stem:[G_(10)], stem:[B_(10)] or stem:[X_(10)],
       stem:[Y_(10)], stem:[Z_(10)].
     type: intensional
-  - content: This entry was numbered 845-03-22 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-22, 845-03-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1345 in CIE S 017:2011.
     type: intensional
@@ -45,6 +52,13 @@ data:
         source: CIE S 017:2011
         id: 17-1345
     type: authoritative
+  - id: 845-03-22
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-22
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-22
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-038
-id: 2eccb32a-4ef0-5b58-904a-9047003a771f
+id: 0af95a2c-c9ec-5566-9eef-52dbc95e970b

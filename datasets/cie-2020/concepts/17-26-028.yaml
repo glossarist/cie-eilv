@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-26-028
   type: authoritative
+- id: 845-06-15
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-06-15
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-15
+  type: authoritative
 status: valid
 id: 90bd9382-1735-555b-97c7-e0c946960290
 ---
@@ -23,7 +30,7 @@ data:
   notes:
   - content: Non-actinic erythema can be caused by various chemical or physical agents.
     type: intensional
-  - content: This entry was numbered 845-06-15 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-15, 845-06-15}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-399 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-399
     type: authoritative
+  - id: 845-06-15
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-06-15
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-15
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-028
-id: c34372f3-38a5-5408-bae8-da353661020d
+id: 9516bd13-49b6-534b-a30f-7e03d796be15

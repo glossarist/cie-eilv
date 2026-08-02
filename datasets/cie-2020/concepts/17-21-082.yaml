@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-082
   type: authoritative
+- id: 845-01-49
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-49
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-49
+  type: authoritative
 status: valid
 id: abcff186-aa09-5ff8-9455-5271f2072193
 ---
@@ -31,7 +38,7 @@ data:
   - content: The photon exitance is expressed in second to the power minus one per
       square metre (s^−1^·m^−2^).
     type: intensional
-  - content: This entry was numbered 845-01-49 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-49, 845-01-49}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-923 in CIE S 017:2011.
     type: intensional
@@ -50,6 +57,13 @@ data:
         source: CIE S 017:2011
         id: 17-923
     type: authoritative
+  - id: 845-01-49
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-49
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-49
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -60,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-082
-id: '089ecb5a-c74a-5a4d-84aa-c99af89a0d66'
+id: 9994ee59-b82b-529b-a105-3eef327d77e9

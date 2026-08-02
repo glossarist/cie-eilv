@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-018
   type: authoritative
+- id: 845-07-11
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-11
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-11
+  type: authoritative
 status: valid
 id: deb25ec5-7851-5162-825c-9c5d859f1804
 ---
@@ -24,7 +31,7 @@ data:
   - content: The electric discharge results in the emission of electromagnetic radiation
       which plays an essential part in all its applications in lighting.
     type: intensional
-  - content: This entry was numbered 845-07-11 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-11, 845-07-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-331 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-331
     type: authoritative
+  - id: 845-07-11
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-11
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-11
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-018
-id: 4372da00-8da0-5906-8434-6f0a018795f5
+id: ee2f819d-8abb-574e-9a3c-e857ab50fa4c

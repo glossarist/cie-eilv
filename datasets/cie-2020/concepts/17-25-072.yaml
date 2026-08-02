@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-072
   type: authoritative
+- id: 845-05-65
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-65
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-65
+  type: authoritative
 status: valid
 id: f6dad33f-7145-53e5-8f13-7f4645b7c15b
 ---
@@ -25,7 +32,7 @@ data:
   notes:
   - content: The detectivity is expressed in watt to the power minus one (W^−1^).
     type: intensional
-  - content: This entry was numbered 845-05-65 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-65, 845-05-65}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-295 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-295
     type: authoritative
+  - id: 845-05-65
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-65
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-65
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-072
-id: b65901a5-953d-59e8-bcc4-9eacb2349c66
+id: 7657e9a8-2d8e-5baf-b9d3-c9007a5fc87d

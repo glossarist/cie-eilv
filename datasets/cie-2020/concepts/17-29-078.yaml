@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-078
   type: authoritative
+- id: 845-09-57
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-57
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-57
+  type: authoritative
 status: valid
 id: b60b6d20-5417-5ee1-ac29-0d7ffebe8fc1
 ---
@@ -23,7 +30,7 @@ data:
   - content: The English terms "isolux curve" and "isolux line", and the French term
       "courbe isolux" are no longer in use.
     type: intensional
-  - content: This entry was numbered 845-09-57 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-57, 845-09-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-616, 17-617, 17-622, and 17-623 in CIE S 017:2011.
     type: intensional
@@ -42,6 +49,13 @@ data:
         source: CIE S 017:2011
         id: 17-616, 17-617, 17-622, and 17-623
     type: authoritative
+  - id: 845-09-57
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-57
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-57
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-078
-id: 4ee024cf-cc2b-5547-a255-92f34ccb5f52
+id: b3a2c38a-d39f-5010-86e8-7929a24cff4e

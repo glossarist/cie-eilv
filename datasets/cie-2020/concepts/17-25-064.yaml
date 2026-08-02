@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-064
   type: authoritative
+- id: 845-05-57
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-57
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-57
+  type: authoritative
 status: valid
 id: 1275c26d-b42c-528d-9bf9-3013c1420d27
 ---
@@ -28,7 +35,7 @@ data:
     type: intensional
   - content: The relative spectral responsivity has unit one.
     type: intensional
-  - content: This entry was numbered 845-05-57 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-57, 845-05-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1085 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-1085
     type: authoritative
+  - id: 845-05-57
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-57
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-57
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -58,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-064
-id: a60e18d4-cfef-56a8-bc6c-ef939bdc9f3b
+id: d5d48a8a-f759-51c3-bcc0-150821c01e6c

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-22-040
   type: authoritative
+- id: 845-02-18
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-02-18
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-18
+  type: authoritative
 status: valid
 id: a81d878d-0990-5640-aa84-b550d724b724
 ---
@@ -38,7 +45,7 @@ data:
       various modes of colour appearance are given in "luminous colour", "non-luminous
       colour", "related colour" and "unrelated colour".
     type: intensional
-  - content: This entry was numbered 845-02-18 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-18, 845-02-18}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-198 and 17-190 in CIE S 017:2011.
     type: intensional
@@ -57,6 +64,13 @@ data:
         source: CIE S 017:2011
         id: 17-198 and 17-190
     type: authoritative
+  - id: 845-02-18
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-02-18
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-18
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -68,4 +82,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-040
-id: 86a98142-7347-51d6-9b88-977f13715ce9
+id: a5bf3c82-d27b-5c88-b208-c49236c58225

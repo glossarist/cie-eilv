@@ -11,14 +11,22 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-048
   type: authoritative
+- id: 151-13-75
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 151-13-75
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-13-75
+  type: authoritative
 status: valid
 id: 67995dfe-004f-5971-ae19-1885f7da68f6
 ---
 data:
   definition:
-  - content: unit inserted between the <<151-13-75, power supply>> and at least one
-      light source, which serves to supply the light source(s) with its (their) rated
-      voltage or rated current, and which can consist of one or more separate components
+  - content: unit inserted between the {{cite:151-13-75, power supply}} and at least
+      one light source, which serves to supply the light source(s) with its (their)
+      rated voltage or rated current, and which can consist of one or more separate
+      components
     type: intensional
   examples: []
   notes:
@@ -37,6 +45,13 @@ data:
       ref:
         source: CIE S 017:2020
     type: authoritative
+  - id: 151-13-75
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 151-13-75
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-13-75
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-048
-id: a6b47205-559f-58d7-aed5-7bee105ed9b7
+id: 5d1a1967-24d6-5f01-a54b-e241d777d734

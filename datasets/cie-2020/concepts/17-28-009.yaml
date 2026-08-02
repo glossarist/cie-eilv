@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-28-009
   type: authoritative
+- id: 845-08-09
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-08-09
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-09
+  type: authoritative
 status: valid
 id: 78e0dfe9-eea9-51ea-a3ff-dbfd99b928dc
 ---
@@ -20,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 845-08-09 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-08-09, 845-08-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-841 in CIE S 017:2011.
     type: intensional
@@ -39,6 +46,13 @@ data:
         source: CIE S 017:2011
         id: 17-841
     type: authoritative
+  - id: 845-08-09
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-08-09
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-09
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -46,4 +60,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-009
-id: 9209190c-61c5-5258-ba1a-5cc4c0a6d17e
+id: 24d89d09-7dd3-53cc-85b1-ce5d9a2819e4

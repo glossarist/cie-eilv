@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-24-009
   type: authoritative
+- id: 845-04-09
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-04-09
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-09
+  type: authoritative
 status: valid
 id: db422997-df51-5a89-84c7-f37c81914002
 ---
@@ -25,7 +32,7 @@ data:
   notes:
   - content: The emissivity has unit one.
     type: intensional
-  - content: This entry was numbered 845-04-09 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-09, 845-04-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-382 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-382
     type: authoritative
+  - id: 845-04-09
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-04-09
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-09
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-009
-id: 7373c37c-e38e-5c6f-a7a6-67cf8d107921
+id: 900b7ba8-6f7d-5268-b58b-a325bd148dfe

@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-25-034
   type: authoritative
+- id: 845-05-30
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-05-30
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-30
+  type: authoritative
 status: valid
 id: 2d02be1d-f400-5520-89ba-cf8487a9204a
 ---
@@ -24,7 +31,7 @@ data:
   - content: The geometric relationship between the influx and efflux beams should
       be specified.
     type: intensional
-  - content: This entry was numbered 845-05-30 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-30, 845-05-30}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-501 in CIE S 017:2011.
     type: intensional
@@ -43,6 +50,13 @@ data:
         source: CIE S 017:2011
         id: 17-501
     type: authoritative
+  - id: 845-05-30
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-05-30
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-30
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-034
-id: 789a7f13-2a19-51a0-9835-32ef982ef474
+id: 268ed77b-e453-574d-ba30-23e8c8177637

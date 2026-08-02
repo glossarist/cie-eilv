@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-054
   type: authoritative
+- id: 845-03-35
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-35
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-35
+  type: authoritative
 status: valid
 id: 65782db2-9017-5c92-89f3-da0907726fdb
 ---
@@ -25,7 +32,7 @@ data:
       as ordinate and stem:[x] as abscissa, to obtain an stem:[x], stem:[y] chromaticity
       diagram.
     type: intensional
-  - content: This entry was numbered 845-03-35 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-35, 845-03-35}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-147 in CIE S 017:2011.
     type: intensional
@@ -44,6 +51,13 @@ data:
         source: CIE S 017:2011
         id: 17-147
     type: authoritative
+  - id: 845-03-35
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-35
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-35
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-054
-id: b592a3f5-d03f-5772-9fe2-67ae431b2e2c
+id: ce239cfb-3799-5373-bb5d-9970958a7e9d

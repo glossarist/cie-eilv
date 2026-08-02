@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-051
   type: authoritative
+- id: 845-01-36
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-36
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-36
+  type: authoritative
 status: valid
 id: e8e95d3a-48a0-5ad6-ba87-a8fb7c5c7a5f
 ---
@@ -67,7 +74,7 @@ data:
   - content: The photon radiance is expressed in second to the power minus one per
       square metre per steradian (s^−1^·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered 845-01-36 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-36, 845-01-36}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-931 in CIE S 017:2011.
     type: intensional
@@ -86,6 +93,13 @@ data:
         source: CIE S 017:2011
         id: 17-931
     type: authoritative
+  - id: 845-01-36
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-36
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-36
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -96,4 +110,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-051
-id: 384cf5b7-8455-5717-8d71-6ffae982fd3a
+id: ecac4b65-0cd5-57a0-8197-1bf7df6a1a15

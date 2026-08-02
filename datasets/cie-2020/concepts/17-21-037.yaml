@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-037
   type: authoritative
+- id: 845-01-28
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-28
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-28
+  type: authoritative
 status: valid
 id: 7e176bf8-e9b1-5901-a154-b8130aa7101b
 ---
@@ -44,7 +51,7 @@ data:
   - content: The luminous energy is expressed in lumen second (lm·s) or lumen hour
       (lm·h).
     type: intensional
-  - content: This entry was numbered 845-01-28 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-28, 845-01-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-733 and 17-1007 in CIE S 017:2011.
     type: intensional
@@ -63,6 +70,13 @@ data:
         source: CIE S 017:2011
         id: 17-733 and 17-1007
     type: authoritative
+  - id: 845-01-28
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-28
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-28
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -73,4 +87,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-037
-id: 74267d0e-f189-5543-a3c5-69849e1ef0bb
+id: 2434c5c8-d049-57e5-a255-abe430f1fa7f

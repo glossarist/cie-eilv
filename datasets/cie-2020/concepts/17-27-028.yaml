@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-27-028
   type: authoritative
+- id: 845-07-20
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-07-20
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-20
+  type: authoritative
 status: valid
 id: e2fc5659-2f42-580c-998d-f65af9062dfd
 ---
@@ -28,7 +35,7 @@ data:
       partly by a layer of phosphors excited by the {{17-21-008, ultraviolet radiation}}
       of the discharge.
     type: intensional
-  - content: This entry was numbered 845-07-20 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-20, 845-07-20}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-535 in CIE S 017:2011.
     type: intensional
@@ -47,6 +54,13 @@ data:
         source: CIE S 017:2011
         id: 17-535
     type: authoritative
+  - id: 845-07-20
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-07-20
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-20
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-028
-id: 9d9250ad-d0ab-54ed-9e44-935e14f86391
+id: 40c3b597-a0cc-5a6a-a377-2952c21a4203

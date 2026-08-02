@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-29-092
   type: authoritative
+- id: 845-09-71
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-09-71
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-71
+  type: authoritative
 status: valid
 id: f716b76f-6d57-5f41-bf61-a8c8e4809ab7
 ---
@@ -44,7 +51,7 @@ data:
     type: intensional
   - content: The mutual exchange coefficient is expressed in square metre (m^2^).
     type: intensional
-  - content: This entry was numbered 845-09-71 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-71, 845-09-71}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-797 in CIE S 017:2011.
     type: intensional
@@ -63,6 +70,13 @@ data:
         source: CIE S 017:2011
         id: 17-797
     type: authoritative
+  - id: 845-09-71
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-09-71
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-71
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -74,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-092
-id: 91b0b4c6-bb2a-52f9-ac1a-3edf3b151a86
+id: bd285f6c-809f-55d0-9612-cbf1ae36ecca

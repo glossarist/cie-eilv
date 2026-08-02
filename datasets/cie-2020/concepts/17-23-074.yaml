@@ -11,6 +11,13 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-23-074
   type: authoritative
+- id: 845-03-54
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-03-54
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-54
+  type: authoritative
 status: valid
 id: 6323dc37-d5a7-5e18-af07-16c129d26087
 ---
@@ -48,7 +55,7 @@ data:
   - content: 'See also ISO/CIE 11664-5, _Colorimetry – Part 5: CIE 1976 L*u*v* Colour
       Space and u'', v'' Uniform Chromaticity Scale Diagram_.'
     type: intensional
-  - content: This entry was numbered 845-03-54 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-54, 845-03-54}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-159 and 17-175 in CIE S 017:2011.
     type: intensional
@@ -67,6 +74,13 @@ data:
         source: CIE S 017:2011
         id: 17-159 and 17-175
     type: authoritative
+  - id: 845-03-54
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-03-54
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-54
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -77,4 +91,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-074
-id: d29a979d-3d3a-5943-8765-4cf6d01a22a6
+id: 1717629b-6a05-5147-9a8d-a56c48e8e4db

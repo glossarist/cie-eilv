@@ -11,6 +11,20 @@ sources:
       source: CIE S 017:2020
     link: https://cie.co.at/eilvterm/17-21-041
   type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 845-01-27
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 845-01-27
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-27
+  type: authoritative
 status: valid
 id: '072878e3-a27f-567c-8e79-f0856e009618'
 ---
@@ -27,15 +41,15 @@ data:
       stem:[Q_e = int_((Delta t)) Phi_e d t]
     type: intensional
   - content: Radiant energy is expressed as a function of wavelength, stem:[lambda],
-      as a function of <<103-06-02, frequency>>, stem:[nu], or as a function of {{17-21-026,
-      wavenumber}}, stem:[sigma].
+      as a function of {{cite:103-06-02, frequency}}, stem:[nu], or as a function
+      of {{17-21-026, wavenumber}}, stem:[sigma].
     type: intensional
   - content: The corresponding photometric quantity is "{{17-21-037, luminous energy}}".
       The corresponding quantity for photons is "photon energy".
     type: intensional
   - content: The radiant energy is expressed in joule (J = W·s).
     type: intensional
-  - content: This entry was numbered 845-01-27 in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-27, 845-01-27}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1019 in CIE S 017:2011.
     type: intensional
@@ -54,6 +68,20 @@ data:
         source: CIE S 017:2011
         id: 17-1019
     type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 845-01-27
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 845-01-27
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-27
+    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -64,4 +92,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-041
-id: de285d3a-6fac-51ae-8617-ee4750617fe6
+id: 5bb93b32-037d-5dcc-b49a-20ca8a5597bb
