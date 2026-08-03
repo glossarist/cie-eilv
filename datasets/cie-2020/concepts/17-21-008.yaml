@@ -14,6 +14,10 @@ related:
   ref:
     source: CIE S 017:2011
     id: 17-1388
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1367
 sources:
 - origin:
     ref:
@@ -91,4 +95,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-008
-id: 64235483-897e-5e4f-9942-e232e769b4fe
+id: 5c64777c-a86f-52ab-aa6c-d5a377aa7aad
