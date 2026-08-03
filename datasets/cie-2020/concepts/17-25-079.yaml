@@ -5,6 +5,11 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-41
 sources:
 - origin:
     ref:
@@ -18,9 +23,13 @@ data:
   definition:
   - content: angle that the viewing direction makes with the normal of the surface
       being viewed
+    type: intensional
+  examples: []
   notes:
   - content: The angle of observation is expressed in radian (rad) or degree (°).
+    type: intensional
   - content: This entry was numbered 17-41 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -41,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-079
-id: c19dc15f-c96a-525f-9e40-ba49e5ca94b4
+id: b921d3e6-fb7e-5307-b878-9a3974be927d

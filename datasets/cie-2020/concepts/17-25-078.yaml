@@ -5,6 +5,11 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-40
 sources:
 - origin:
     ref:
@@ -17,9 +22,13 @@ id: a190c5b7-4ebc-5930-b04d-c7d89fba13eb
 data:
   definition:
   - content: angle that a light path makes with the normal to the plane of incidence
+    type: intensional
+  examples: []
   notes:
   - content: The angle of incidence is expressed in radian (rad) or degree (°).
+    type: intensional
   - content: This entry was numbered 17-40 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -40,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-078
-id: 2cfcecfa-c0d4-5a66-8cbe-8090b8146a5d
+id: f13ae195-9f2f-5cfd-b74f-114c452175ef

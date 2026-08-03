@@ -5,6 +5,11 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-414
 sources:
 - origin:
     ref:
@@ -48,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-070
-id: 7e976af3-881b-5253-a85e-2a07bb8787d7
+id: 1be1cde1-6c3b-54fd-ba31-fa4676bb87f7

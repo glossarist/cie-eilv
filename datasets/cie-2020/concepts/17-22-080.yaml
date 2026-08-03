@@ -5,6 +5,11 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1408
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: part of an external scene that is perceived when an observer gazes at
       some point in the scene
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1408 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-080
-id: 7a52f57f-efed-5dd2-954b-04f8429dfb57
+id: 47997476-c251-5b27-9865-9bdf3047b596

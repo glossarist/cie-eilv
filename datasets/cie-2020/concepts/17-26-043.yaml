@@ -5,6 +5,11 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-937
 sources:
 - origin:
     ref:
@@ -19,8 +24,11 @@ data:
   - content: response of organisms to the length of night and day periods, and the
       change in these periods with the natural progression of the seasons or the manipulation
       of day length with artificial light
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-937 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -38,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-043
-id: d62c6f4d-5f6f-555e-a1cc-211757bcdd50
+id: 5e8e94bd-2421-50bb-99cc-fcf52eacc6da

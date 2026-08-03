@@ -5,6 +5,11 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-339
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: multimedia equipment using transmissive- or reflective-type liquid crystal
       display to present visual information from analogue and digital inputs
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-339 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-038
-id: 32ca1749-74bf-51ae-8200-dcf860d94654
+id: 30ee9c12-95b6-525b-95c1-8b2d52b5e79b

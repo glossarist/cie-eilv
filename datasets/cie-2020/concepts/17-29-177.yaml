@@ -5,6 +5,11 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-669
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: a52be52d-5bb6-5536-a3a6-8cccba9c8d95
 data:
   definition:
   - content: sum total of all adverse effects of artificial light
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-669 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-177
-id: ae575bae-8b6e-53b4-9026-f33fefd3cc85
+id: f02f1d78-ad6f-5fa1-b39d-f30481908cc8

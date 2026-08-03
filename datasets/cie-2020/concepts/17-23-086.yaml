@@ -5,6 +5,11 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-997
 sources:
 - origin:
     ref:
@@ -15,9 +20,11 @@ status: valid
 id: e70596c9-d16e-575e-8934-92712a5ae0fc
 ---
 data:
-  definition:
+  definition: []
+  examples: []
   notes:
   - content: This entry was numbered 17-997 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -35,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-086
-id: aaab14da-a386-527c-b10e-df708759b3c1
+id: 36377d2d-f988-5668-8ed7-f124295c9466

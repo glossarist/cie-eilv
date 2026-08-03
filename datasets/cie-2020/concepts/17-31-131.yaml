@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1038
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: 7b29e224-9e65-53cf-b819-0e390f266991
 data:
   definition:
   - content: measure to characterize the ease of reading
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1038 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-131
-id: 57c724bd-0df0-5221-bdfb-8a1504186af0
+id: 054d7474-8f8f-5fda-853e-8fe7ffcdb17e

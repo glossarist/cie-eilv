@@ -5,6 +5,11 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-313
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: 1f35932a-c078-5d91-b27e-d5131b98a596
 data:
   definition:
   - content: system that records and/or produces images using digital data
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-313 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-021
-id: 6d93e2d9-7471-519a-b635-d0fbe0c1fbf2
+id: 88beb312-f12f-5df9-9569-c02ef520eba1

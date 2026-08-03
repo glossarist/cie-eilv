@@ -5,6 +5,11 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-596
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: 013e5825-ee55-5667-8c9c-153b99df6aaf
 data:
   definition:
   - content: sky conditions that are in between overcast sky and clear sky
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-596 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-115
-id: 41c7bcf6-bbfe-5d5b-b0f8-f037ff67c97a
+id: 7906d39d-786d-5b04-a2a7-985d656e3805
