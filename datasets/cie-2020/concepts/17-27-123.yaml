@@ -24,7 +24,7 @@ id: dd82e2c8-ede9-5764-b06d-b13d53d77766
 data:
   definition:
   - content: total power dissipated by control gear and light source(s) in combination,
-      at rated supply voltage and {{cite:103-06-02, frequency}} of the control gear
+      at rated supply voltage and {{bib:103-06-02, frequency}} of the control gear
       with the highest rated output load
     type: intensional
   examples: []

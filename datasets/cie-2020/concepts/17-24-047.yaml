@@ -36,7 +36,7 @@ id: c0fdc774-b543-5f76-9efd-6dc811883640
 data:
   definition:
   - content: process by which radiation is returned by a surface or a medium, without
-      change in the {{cite:103-06-02, frequency}} of its monochromatic components
+      change in the {{bib:103-06-02, frequency}} of its monochromatic components
     type: intensional
   examples: []
   notes:
@@ -47,7 +47,7 @@ data:
   - content: The frequency is unchanged only if there is no Doppler effect due to
       the motion of the materials from which the radiation is returned.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-42, 845-04-42}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-04-42, 845-04-42}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1065 in CIE S 017:2011.
     type: intensional

@@ -41,12 +41,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The quantity stem:[X] can also be expressed as a function of {{cite:103-06-02,
+  - content: The quantity stem:[X] can also be expressed as a function of {{bib:103-06-02,
       frequency}}, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
       symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and stem:[Xnu],
       stem:[Xsigma], etc. See also "{{17-21-029, spectral distribution}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-01-16, 845-01-16}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-01-16, 845-01-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1206 in CIE S 017:2011.
     type: intensional

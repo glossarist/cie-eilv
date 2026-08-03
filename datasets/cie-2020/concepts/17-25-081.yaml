@@ -35,7 +35,7 @@ data:
   - content: |-
       The aspecular angle is calculated as the difference between the viewing direction and the specular direction and is understood to be positive when it lies between the specular direction and the incident (illuminating) ray (see the figure below).
 
-      image::/assets/images/parts/845/{{cite:845-25-081, 845-25-081}}-en.png[]
+      image::/assets/images/parts/845/{{bib:845-25-081, 845-25-081}}-en.png[]
     type: intensional
   - content: The aspecular angle is measured in radian (rad) or degree (°).
     type: intensional

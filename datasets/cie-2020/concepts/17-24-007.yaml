@@ -46,12 +46,12 @@ data:
   notes:
   - content: The Stefan-Boltzmann constant can be calculated by stem:[sigma = ((2
       pi^5 k^4))/((15 h^3 c_0^2))] where stem:[h] is the Planck constant, stem:[c_0]
-      is the {{cite:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann
+      is the {{bib:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann
       constant.
     type: intensional
   - content: For the value of the Stefan-Boltzmann constant, stem:[sigma,] see CODATA.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-07, 845-04-07}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-04-07, 845-04-07}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1265 in CIE S 017:2011.
     type: intensional

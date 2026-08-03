@@ -39,12 +39,12 @@ id: 4761eced-6b14-5756-bc1c-2a746e1a8b63
 ---
 data:
   definition:
-  - content: for a given set of conditions, the {{cite:103-06-02, frequency}} of alternation
+  - content: for a given set of conditions, the {{bib:103-06-02, frequency}} of alternation
       of stimuli above which flicker is not perceptible
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-02-50, 845-02-50}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-02-50, 845-02-50}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-264 and 17-480 in CIE S 017:2011.
     type: intensional

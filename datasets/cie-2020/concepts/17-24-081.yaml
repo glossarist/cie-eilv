@@ -35,11 +35,11 @@ id: 520d60a6-8287-5c8a-aef3-5d75e280f14b
 ---
 data:
   definition:
-  - content: See {{cite:705-02-07, IEV 705-02-07}}
+  - content: See {{bib:705-02-07, IEV 705-02-07}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-04-74, 845-04-74}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-04-74, 845-04-74}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-6 in CIE S 017:2011.
     type: intensional

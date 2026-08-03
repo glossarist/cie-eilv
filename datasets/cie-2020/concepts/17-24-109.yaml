@@ -42,12 +42,12 @@ id: 749f40b3-e479-59c8-bb81-1c936cd652fa
 ---
 data:
   definition:
-  - content: quotient of the {{cite:113-01-34, speed of light in vacuum}} and the
-      speed of light in a medium
+  - content: quotient of the {{bib:113-01-34, speed of light in vacuum}} and the speed
+      of light in a medium
     type: intensional
   examples: []
   notes:
-  - content: The value of the refractive index can depend on the {{cite:103-06-02,
+  - content: The value of the refractive index can depend on the {{bib:103-06-02,
       frequency}}, polarization, and direction.
     type: intensional
   - content: The refractive index is expressed by stem:[n] = stem:[c_0]/stem:[c,]
@@ -61,7 +61,7 @@ data:
     type: intensional
   - content: The refractive index has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-101, 845-04-101}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-04-101, 845-04-101}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1074 in CIE S 017:2011.
     type: intensional
