@@ -34,7 +34,7 @@ data:
   notes:
   - content: The cathode fall is expressed in volt (V).
     type: intensional
-  - content: This entry was numbered {{bib:845-07-13, 845-07-13}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-13, 845-07-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-127 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-020
-id: f21119da-ebff-59a3-9040-6bb50b8c7b76
+id: 8a6a987e-44a4-56a4-a954-d125a1076cc1

@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The irradiance is expressed in watt per square metre (W·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-37, 845-01-37}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-37, 845-01-37}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-608 in CIE S 017:2011.
     type: intensional
@@ -78,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-053
-id: 332d7ffd-fc21-541c-a95a-42a06519ae1f
+id: 01afaae2-fbb8-5d9b-8d6b-e312298b164a

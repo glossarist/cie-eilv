@@ -35,7 +35,7 @@ data:
   notes:
   - content: The suspension factor has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-69, 845-09-69}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-69, 845-09-69}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1289 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-089
-id: 6b62a12d-84d0-548d-8a99-84472ee149df
+id: 50774c4a-b959-58e3-8897-8c2374755a68

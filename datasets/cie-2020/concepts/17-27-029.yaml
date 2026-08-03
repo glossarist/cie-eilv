@@ -35,7 +35,7 @@ data:
   notes:
   - content: The bulb can be diffusing or coated with phosphors.
     type: intensional
-  - content: This entry was numbered {{bib:845-07-21, 845-07-21}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-21, 845-07-21}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-94 in CIE S 017:2011.
     type: intensional
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-029
-id: d6b5cc47-2f71-5cc1-8a89-02243a28a625
+id: 68097dcf-5795-5d76-b765-d376ff81bbc4

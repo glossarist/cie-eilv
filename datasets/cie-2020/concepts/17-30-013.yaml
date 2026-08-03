@@ -25,7 +25,8 @@ data:
   definition:
   - content: luminaire that cannot easily be moved from one place to another, either
       because the fixing is such that the luminaire can only be removed with the aid
-      of a tool, or because it is intended for use out of {{bib:195-06-12, arm's reach}}
+      of a tool, or because it is intended for use out of {{cite:195-06-12, arm's
+      reach}}
     type: intensional
   examples: []
   notes:
@@ -52,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-013
-id: fb9b3741-51af-5ae3-80db-1a6cd1079020
+id: e23f3812-d29f-550c-b8e5-d8844ee33107

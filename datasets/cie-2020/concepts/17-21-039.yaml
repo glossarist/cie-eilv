@@ -54,7 +54,7 @@ data:
     type: intensional
   - content: The luminous flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-25, 845-01-25}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-25, 845-01-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-738 in CIE S 017:2011.
     type: intensional
@@ -90,4 +90,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-039
-id: 9c9c4076-2bbb-5368-aef0-3471ea75a074
+id: 404d608d-63cd-5b44-8c7a-2ea8ed75ddab

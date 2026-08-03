@@ -48,7 +48,7 @@ data:
     type: intensional
   - content: The configuration factor has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-72, 845-09-72}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-72, 845-09-72}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-246 in CIE S 017:2011.
     type: intensional
@@ -85,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-093
-id: 47989624-4ca2-574d-90d8-9bc1a1a65e7d
+id: c6bb1f80-c8d1-5fad-96b5-d3e0d5148c91

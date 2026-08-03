@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: The contrast sensitivity has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-02-48, 845-02-48}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-48, 845-02-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-255 in CIE S 017:2011.
     type: intensional
@@ -75,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-090
-id: c678ecbf-e458-5b32-9b3b-98db27cab215
+id: c27f0fe6-1e6c-5f95-b3b8-18296e7c8cef

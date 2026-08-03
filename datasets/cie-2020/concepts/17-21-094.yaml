@@ -48,7 +48,7 @@ data:
     type: intensional
   - content: The luminous efficiency has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-01-57, 845-01-57}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-57, 845-01-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-731 in CIE S 017:2011.
     type: intensional
@@ -88,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-094
-id: 1e108483-ab4c-5927-aaf5-61d949050990
+id: 66a1d206-8843-5397-916b-cbff841dc368

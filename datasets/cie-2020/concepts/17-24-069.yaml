@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The diffuse transmittance has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-63, 845-04-63}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-63, 845-04-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-308 in CIE S 017:2011.
     type: intensional
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-069
-id: 906b98b6-f033-549e-92ac-9be3c19575f1
+id: bfdece15-ea7c-5e0c-95e1-5e0149d2a822

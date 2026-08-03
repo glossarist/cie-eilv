@@ -37,7 +37,7 @@ data:
   - content: Fluorescence is due to an "allowed" transition generally from an excited
       singlet state to a ground singlet state.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-20, 845-04-20}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-20, 845-04-20}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-456 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-023
-id: 64e86ae8-a924-5f1e-b250-b047fe352943
+id: 3486617e-b564-5475-ae3e-e98326148e6e

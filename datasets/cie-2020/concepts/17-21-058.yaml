@@ -43,7 +43,7 @@ data:
   - content: The photon irradiance is expressed in second to the power minus one per
       square metre (s^−1^·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-39, 845-01-39}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-39, 845-01-39}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-929 in CIE S 017:2011.
     type: intensional
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-058
-id: 7c8f5845-f870-5ed4-a4c0-587ac6089097
+id: 31b706f0-b73d-5fc5-a476-ec25db04019d

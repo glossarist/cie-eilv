@@ -43,7 +43,7 @@ data:
   notes:
   - content: Bactericidal radiation is primarily UV-C radiation.
     type: intensional
-  - content: This entry was numbered {{bib:845-06-19, 845-06-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-19, 845-06-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-72, 17-491, and 17-775 in CIE S 017:2011.
     type: intensional
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-032
-id: 3733b934-9be0-58b6-b357-8529c5d61e12
+id: 6f37e646-0eda-5a4d-9cf9-dea0040b9b9a

@@ -35,7 +35,7 @@ data:
   notes:
   - content: The life of an electric lamp is usually expressed in hours.
     type: intensional
-  - content: This entry was numbered {{bib:845-07-61, 845-07-61}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-61, 845-07-61}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-656 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-101
-id: ff26be1c-c624-533b-aa92-88bcd31adc6a
+id: 5f43d040-2de1-5ac0-832e-b62ffd0de21c

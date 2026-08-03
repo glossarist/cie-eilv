@@ -37,7 +37,7 @@ data:
   notes:
   - content: The emissivity has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-09, 845-04-09}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-09, 845-04-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-382 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-009
-id: 900b7ba8-6f7d-5268-b58b-a325bd148dfe
+id: 5d7f51f6-f009-5ade-9897-eb0214d3cff6

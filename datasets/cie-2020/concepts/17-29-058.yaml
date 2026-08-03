@@ -35,7 +35,7 @@ data:
   notes:
   - content: The indirect flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered {{bib:845-09-45, 845-09-45}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-45, 845-09-45}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-573 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-058
-id: 365b857a-29e7-5e7d-8482-98aec8df86af
+id: 7a9e1a13-300d-5f79-a5c4-90edfa7b3da4

@@ -38,7 +38,7 @@ data:
   - content: For visual signalling, the light source has to be rendered recognizable,
       and hence a higher threshold of illuminance is to be expected.
     type: intensional
-  - content: This entry was numbered {{bib:845-11-26, 845-11-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-11-26, 845-11-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1313 in CIE S 017:2011.
     type: intensional
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-024
-id: 8809d9ea-fff4-58ff-baf4-aef70be15732
+id: ced47612-6ec4-5f2b-b0cd-3edd114cbffa

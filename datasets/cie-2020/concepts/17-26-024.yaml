@@ -37,7 +37,7 @@ data:
       agents have been added as part of the treatment, or are endogenous in the tissue
       being targeted.
     type: intensional
-  - content: This entry was numbered {{bib:845-06-12, 845-06-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-12, 845-06-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-945 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-024
-id: aa449819-eaea-5414-ab9c-d0d070856514
+id: e52e98b7-64a6-560a-acf6-31de0581dc74

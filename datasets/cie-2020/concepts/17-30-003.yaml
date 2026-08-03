@@ -34,7 +34,7 @@ data:
   notes:
   - content: The symmetry can refer to an axis or to a plane.
     type: intensional
-  - content: This entry was numbered {{bib:845-10-02, 845-10-02}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-02, 845-10-02}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1294 in CIE S 017:2011.
     type: intensional
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-003
-id: 52238f9c-5147-5d1b-8a84-c93266b2bd56
+id: dbce9463-b403-5d69-a9ce-851775d664df

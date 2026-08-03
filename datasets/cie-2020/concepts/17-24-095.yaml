@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The spectral absorptivity has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-88, 845-04-88}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-88, 845-04-88}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1209 in CIE S 017:2011.
     type: intensional
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-095
-id: d32f6e8e-b2d4-5516-a77c-8ca74aa4c1ec
+id: 9d280978-01d8-5dbf-84e7-1373f90fe2f6

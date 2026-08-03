@@ -37,7 +37,7 @@ data:
   notes:
   - content: The interreflection ratio has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-75, 845-09-75}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-75, 845-09-75}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-600 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-091
-id: 33b035ce-d458-592a-9091-d093e6b5b4ae
+id: 6e528def-5881-52be-ac59-9368f3bff797

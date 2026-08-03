@@ -47,7 +47,7 @@ data:
     type: intensional
   - content: The reflectance has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-58, 845-04-58}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-58, 845-04-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1058 in CIE S 017:2011.
     type: intensional
@@ -83,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-064
-id: 6ab52db1-142b-5e53-ac15-02694f0036ef
+id: 8f836e50-0b52-5781-8552-0d306432b2e0

@@ -37,7 +37,7 @@ data:
   notes:
   - content: The relative spectral distribution has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-01-18, 845-01-18}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-18, 845-01-18}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1084 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-030
-id: 4e44ffa5-3d2c-5776-8c7d-ef9463a53dd7
+id: 7901ecc4-35e2-5cf4-b818-d0507e632916

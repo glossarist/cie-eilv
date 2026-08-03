@@ -37,7 +37,7 @@ data:
       colours, of a given luminance factor, colourfulness usually increases as the
       luminance is raised, except when the brightness is very high.
     type: intensional
-  - content: This entry was numbered {{bib:845-02-40, 845-02-40}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-40, 845-02-40}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-233 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-072
-id: ee5b54d3-8478-5c98-8654-31a68ce622bd
+id: 5ddb0a21-9040-5c01-a4b8-d48feed3f753

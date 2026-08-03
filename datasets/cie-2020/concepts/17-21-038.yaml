@@ -50,7 +50,7 @@ data:
     type: intensional
   - content: The radiant flux is expressed in watt (W).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-24, 845-01-24}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-24, 845-01-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1025 and 17-1027 in CIE S 017:2011.
     type: intensional
@@ -86,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-038
-id: 50eb12e0-e139-595c-8a2b-4836413d5a98
+id: 2360e2fd-eddf-5415-afef-a65fd3ac3c4e

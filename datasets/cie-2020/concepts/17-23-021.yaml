@@ -44,9 +44,9 @@ data:
   - content: Illuminants B, C and other {{17-23-020, daylight illuminants}}, previously
       denoted as "standard illuminants", should now be termed "{{17-23-019, CIE illuminants}}".
     type: intensional
-  - content: This entry was numbered {{bib:845-03-12, 845-03-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{bib:845-03-12, 845-03-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-168 in CIE S 017:2011.
     type: intensional
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-021
-id: ef697bd2-1853-5343-856d-8d6223eaec89
+id: 817e82f2-acca-59f5-8a09-c88c42cae44c

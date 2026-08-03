@@ -34,9 +34,9 @@ data:
   notes:
   - content: Biological rhythms can be influenced by {{17-21-002, optical radiation}}.
     type: intensional
-  - content: This entry was numbered {{bib:845-06-26, 845-06-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-26, 845-06-26}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{bib:845-06-26, 845-06-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-26, 845-06-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-89 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-040
-id: 824e95fc-45b9-5d24-aa02-b2ffa0966541
+id: 8fb70b6e-7296-5493-874c-39d83a0a6f0a

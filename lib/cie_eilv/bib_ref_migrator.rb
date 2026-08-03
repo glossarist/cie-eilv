@@ -11,6 +11,7 @@ module CieEilv
   # in note/definition text to {{cite:NNN-NN-NN, NNN-NN-NN}}.
   class BibRefMigrator
     BIB_REF_RE = /<<([^,>]+),\s*([^>]+)>>/.freeze
+    BIB_MENTION_RE = /\{\{bib:([^,}]+)(?:,\s*([^}]+))?\}\}/.freeze
     IEV_ID_RE = /(?<![\w{-])((?!17-)\d{2,3}-\d{2,3}-\d{2,4})(?![\w}])/m.freeze
     EXISTING_LINK_RE = /(\{\{[^}]+\}\})/.freeze
 
@@ -52,6 +53,15 @@ module CieEilv
           result = result.gsub(BIB_REF_RE) do
             id = Regexp.last_match(1).strip
             display = Regexp.last_match(2).strip
+            cite_ids << id
+            "{{cite:#{id}, #{display}}}"
+          end
+
+          # Convert {{bib:id, display}} → {{cite:id, display}}
+          # IEV entries are concepts, not bibliography records
+          result = result.gsub(BIB_MENTION_RE) do
+            id = Regexp.last_match(1).strip
+            display = Regexp.last_match(2)&.strip || id
             cite_ids << id
             "{{cite:#{id}, #{display}}}"
           end

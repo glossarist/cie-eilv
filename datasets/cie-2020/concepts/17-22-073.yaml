@@ -37,7 +37,7 @@ data:
       constant saturation for all luminance levels, except when the brightness is
       very high.
     type: intensional
-  - content: This entry was numbered {{bib:845-02-41, 845-02-41}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-41, 845-02-41}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1136 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-073
-id: a59665b9-9b7e-5c32-8830-8ff3f0b41c88
+id: 238f944c-7b28-5f98-aca0-a963ddb74d3e

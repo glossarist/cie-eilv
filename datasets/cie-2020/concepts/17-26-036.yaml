@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: The dose rate is expressed in watt per square metre (W·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-06-25, 845-06-25}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-25, 845-06-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-347 in CIE S 017:2011.
     type: intensional
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-036
-id: 3583fc4b-8406-5fde-9849-7f441316473d
+id: 5dbe0e83-6ef2-559e-9007-5ed844ceca73

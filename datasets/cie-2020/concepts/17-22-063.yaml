@@ -35,7 +35,7 @@ data:
   notes:
   - content: Only related colours exhibit lightness.
     type: intensional
-  - content: This entry was numbered {{bib:845-02-31, 845-02-31}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-02-31, 845-02-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-680 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-063
-id: 779cbb90-b0c6-5a45-b5ce-8a5e8419f323
+id: 2ce9d79f-f706-59e7-9505-30732b351e0e

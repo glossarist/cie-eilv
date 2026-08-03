@@ -35,7 +35,7 @@ data:
   notes:
   - content: The starting voltage is expressed in volt (V).
     type: intensional
-  - content: This entry was numbered {{bib:845-07-67, 845-07-67}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-67, 845-07-67}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1264 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-116
-id: eb4b96e8-7609-5865-aa5c-e1c1fef6a310
+id: d5923322-e03b-585a-a765-834ff208cc0f

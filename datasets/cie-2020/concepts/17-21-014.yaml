@@ -35,8 +35,8 @@ id: 8f24f44c-8049-5af2-bd5b-a37f6b6f970a
 ---
 data:
   definition:
-  - content: radiation characterized by a single {{bib:103-06-02, frequency}} or a
-      single wavelength
+  - content: radiation characterized by a single {{cite:103-06-02, frequency}} or
+      a single wavelength
     type: intensional
   examples: []
   notes:
@@ -47,7 +47,7 @@ data:
       of frequencies or wavelengths that can be described by stating a single frequency
       or wavelength.
     type: intensional
-  - content: This entry was numbered {{bib:845-01-07, 845-01-07}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-07, 845-01-07}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-788 in CIE S 017:2011.
     type: intensional
@@ -87,4 +87,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-014
-id: 7d68727b-4b4e-5d2e-8eb3-fe2d2dc65487
+id: bd8f3e14-1104-5631-8d88-ce09a388c37b

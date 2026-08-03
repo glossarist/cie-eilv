@@ -37,7 +37,7 @@ data:
   notes:
   - content: The time constant is expressed in seconds (s).
     type: intensional
-  - content: This entry was numbered {{bib:845-05-59, 845-05-59}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-59, 845-05-59}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1318 in CIE S 017:2011.
     type: intensional
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-066
-id: 7ca46f81-cb31-572e-be91-76c6ff895fea
+id: 9112017d-6321-59ec-93fc-f9ffdcb012a8

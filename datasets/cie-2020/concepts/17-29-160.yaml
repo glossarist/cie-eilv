@@ -38,7 +38,7 @@ data:
   notes:
   - content: The illuminance uniformity has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-58, 845-09-58}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-58, 845-09-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-552 and 17-1372 in CIE S 017:2011.
     type: intensional
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-160
-id: 705c9ccc-77fb-59c4-838d-a1e9dfb1ed71
+id: c23cae65-a51e-51b3-9c78-9634e2b9dd1b

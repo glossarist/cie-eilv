@@ -77,7 +77,7 @@ data:
     type: intensional
   - content: The radiance is expressed in watt per square metre per steradian (W·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-34, 845-01-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-34, 845-01-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1012 in CIE S 017:2011.
     type: intensional
@@ -113,4 +113,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-049
-id: e027bf51-0e16-5fc8-b988-4f4173e8f456
+id: 833be5cd-59ab-582a-9899-b14b732fd4dc

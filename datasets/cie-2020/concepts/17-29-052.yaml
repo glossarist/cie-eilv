@@ -48,7 +48,7 @@ data:
     type: intensional
   - content: The light output ratio has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-39, 845-09-39}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-39, 845-09-39}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -85,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-052
-id: eebbbed1-f1e5-5358-bc3f-5248407f8f9f
+id: a54e91f2-13f9-576d-885e-b278c0e0718a

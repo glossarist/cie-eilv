@@ -40,7 +40,7 @@ data:
     type: intensional
   - content: The spectral internal absorptance has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-82, 845-04-82}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-82, 845-04-82}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1214 in CIE S 017:2011.
     type: intensional
@@ -77,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-089
-id: fa2d7778-c60b-5ebb-89ed-966b6c1ae06e
+id: 1cfe1615-2441-59c9-87d6-ae877d56004b

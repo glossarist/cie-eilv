@@ -36,7 +36,7 @@ data:
     type: intensional
   - content: The dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-06-21, 845-06-21}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-21, 845-06-21}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-346 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-033
-id: 7b0e59b8-a611-5d62-8d11-29940deefcd9
+id: 1da76ef4-3909-5c6b-b034-bb4c43730b2a

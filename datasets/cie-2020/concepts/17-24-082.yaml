@@ -44,7 +44,7 @@ data:
     type: intensional
   - content: The absorptance has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-75, 845-04-75}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-75, 845-04-75}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-5 in CIE S 017:2011.
     type: intensional
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-082
-id: '0916f13f-6e6e-51ee-a194-13c41455fd9d'
+id: 7d951e4d-18f6-5319-9388-7448c4292495

@@ -51,7 +51,7 @@ data:
     type: intensional
   - content: The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-43, 845-01-43}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-43, 845-01-43}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-736 in CIE S 017:2011.
     type: intensional
@@ -87,4 +87,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-072
-id: 5cb476e0-d575-58e3-bde7-a3a9e706800a
+id: 86d44588-d11d-588c-94b9-b82dae717fb3

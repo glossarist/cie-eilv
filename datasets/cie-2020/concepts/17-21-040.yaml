@@ -56,14 +56,14 @@ data:
       flux can be expressed by stem:[Phi_p = int_0^(oo) ((d Phi_e ( lambda )))/((d
       lambda)) * (lambda)/((h c_0)) d lambda = int_0^(oo) ((d Phi_e ( nu )))/((d nu))
       * (1)/((h nu)) d nu], where stem:[h] is Planck's constant and stem:[c_0] is
-      the {{bib:113-01-34, speed of light in vacuum}}.
+      the {{cite:113-01-34, speed of light in vacuum}}.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant flux". The corresponding
       photometric quantity is "luminous flux".
     type: intensional
   - content: The photon flux is expressed in second to the power minus one (s^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-26, 845-01-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-26, 845-01-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-927 in CIE S 017:2011.
     type: intensional
@@ -106,4 +106,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-040
-id: 7f60cf84-28e7-5088-ac0c-70ae9dbb446f
+id: 716ea7f3-a42b-5b29-bddf-4503269e4760

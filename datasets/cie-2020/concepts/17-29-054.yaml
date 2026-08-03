@@ -34,7 +34,7 @@ data:
   notes:
   - content: The downward flux fraction has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-41, 845-09-41}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-41, 845-09-41}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-351 in CIE S 017:2011.
     type: intensional
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-054
-id: ab12904f-098a-567a-983b-d0e977b80965
+id: cbde1c6c-bfb1-5f41-8b2e-3a6c9a59624e

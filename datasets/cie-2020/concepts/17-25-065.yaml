@@ -35,7 +35,7 @@ data:
   notes:
   - content: The response time is expressed in seconds (s).
     type: intensional
-  - content: This entry was numbered {{bib:845-05-58, 845-05-58}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-58, 845-05-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1093 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-065
-id: 3ba50118-53a5-5ead-b631-cab100c6e4fd
+id: f11271cf-9eb0-5716-9a64-8d89e15c30da

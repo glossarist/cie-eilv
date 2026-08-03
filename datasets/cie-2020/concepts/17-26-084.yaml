@@ -28,9 +28,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{bib:845-06-04, 845-06-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-04, 845-06-04}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{bib:845-06-04, 845-06-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-06-04, 845-06-04}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -56,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-084
-id: a99d43de-4a26-570b-8f5a-654bf837a2fb
+id: 82e79f46-5b67-575c-946b-9c734c0e66b6

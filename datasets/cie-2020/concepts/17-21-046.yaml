@@ -48,7 +48,7 @@ data:
   - content: The photon intensity is expressed in second to the power minus one times
       steradian to the power minus one (s^−1^·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-32, 845-01-32}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-32, 845-01-32}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-928 in CIE S 017:2011.
     type: intensional
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-046
-id: 4d372421-5db2-58aa-839a-7b1a3531f401
+id: e12f9415-c2b8-5c32-a07e-061242751d45

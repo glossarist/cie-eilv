@@ -43,7 +43,7 @@ data:
     type: intensional
   - content: The optical thickness has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-86, 845-09-86}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-86, 845-09-86}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-850 and 17-844 in CIE S 017:2011.
     type: intensional
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-106
-id: c05e4da2-f87a-5dc6-a018-fa8351ad10ae
+id: 67998270-b075-5bc7-84b8-4e92aa1b16c0
