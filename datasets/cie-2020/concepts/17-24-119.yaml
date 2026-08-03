@@ -19,7 +19,7 @@ sources:
 - id: 845-04-108
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-108
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-108
   type: authoritative
@@ -36,7 +36,7 @@ data:
   - content: Objects can be seen distinctly through a medium which is transparent
       in the visible region, if the geometric form of the medium is suitable.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-108, 845-04-108}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-108, 845-04-108}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1340 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-108
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-04-108
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-108
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-108
     type: authoritative
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-119
-id: aeb45145-8c66-5c67-9269-60ea7efeeebd
+id: 12521cb0-e9f0-594b-b260-87a6110d0c88

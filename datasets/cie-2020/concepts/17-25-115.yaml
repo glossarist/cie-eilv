@@ -27,16 +27,16 @@ data:
   definition:
   - content: factor by which the readings of a physical photometer can be multiplied
       in order to correct for the error caused by differences between the relative
-      spectral responsivity of the photometer and the {{17-21-035, spectral luminous
-      efficiency}} for photopic vision, stem:[V](stem:[lambda]), that it is intended
-      to simulate when the photometer is used to measure a source having a {{17-21-030,
-      relative spectral distribution}} different from that of the source with which
-      the photometer was calibrated
+      spectral responsivity of the photometer and the {{concept:cie-2020:17-21-035,
+      spectral luminous efficiency}} for photopic vision, stem:[V](stem:[lambda]),
+      that it is intended to simulate when the photometer is used to measure a source
+      having a {{concept:cie-2020:17-21-030, relative spectral distribution}} different
+      from that of the source with which the photometer was calibrated
     type: intensional
   examples: []
   notes:
   - content: |-
-      Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to {{17-23-021, CIE standard illuminant}} A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
+      Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to {{concept:cie-2020:17-23-021, CIE standard illuminant}} A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
 
       stem:[F^( * ) = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)( int ) S ( lambda ) s_((rel)) ( lambda ) d lambda)) ((underset(lambda)( int ) S_A ( lambda ) s_((rel)) ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda ) V ( lambda ) d lambda))]
 

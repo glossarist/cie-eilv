@@ -19,7 +19,7 @@ sources:
 - id: 845-02-63
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-63
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-63
   type: authoritative
@@ -36,7 +36,7 @@ data:
   - content: See also CIE 13, _Method of Measuring and Specifying Colour Rendering
       of Light Sources_.
     type: intensional
-  - content: This entry was numbered {{cite:845-02-63, 845-02-63}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-63, 845-02-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-154 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-63
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-02-63
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-63
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-63
     type: authoritative
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-111
-id: 2f358532-6014-5c9a-8853-7c4939fb283b
+id: 5f794163-b2f8-5cf9-8100-69ad235a766e

@@ -19,7 +19,7 @@ sources:
 - id: 845-08-33
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-08-33
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-33
   type: authoritative
@@ -37,7 +37,7 @@ data:
   - content: The element that releases the starting voltage pulse can be either triggered
       or non-triggered.
     type: intensional
-  - content: This entry was numbered {{cite:845-08-33, 845-08-33}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-08-33, 845-08-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-549 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-08-33
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-08-33
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-08-33
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-33
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-043
-id: 8e7571ba-c130-5e9c-b4f7-d07d7c71b270
+id: 926aa77f-a95d-53a7-8bcf-9e99ec4497e1

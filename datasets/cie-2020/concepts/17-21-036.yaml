@@ -19,7 +19,7 @@ sources:
 - id: 845-01-23
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-23
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-23
   type: authoritative
@@ -29,17 +29,17 @@ id: 4db71ac9-078c-5bdc-a473-2395f48c225c
 data:
   definition:
   - content: ideal observer having a relative spectral responsivity curve that conforms
-      to the {{17-21-035, spectral luminous efficiency}} function for photopic vision,
-      stem:[V](stem:[lambda]), or to the function for scotopic vision, stem:[V]′(stem:[lambda]),
-      and that complies with the summation law implied in the definition of luminous
-      flux
+      to the {{concept:cie-2020:17-21-035, spectral luminous efficiency}} function
+      for photopic vision, stem:[V](stem:[lambda]), or to the function for scotopic
+      vision, stem:[V]′(stem:[lambda]), and that complies with the summation law implied
+      in the definition of luminous flux
     type: intensional
   examples: []
   notes:
   - content: See also ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry – The CIE System
       of Physical Photometry_.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-23, 845-01-23}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-23, 845-01-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-170 in CIE S 017:2011.
     type: intensional
@@ -50,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-23
     type: authoritative
   - origin:
@@ -61,7 +61,7 @@ data:
   - id: 845-01-23
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-23
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-23
     type: authoritative
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-036
-id: eacb1f9b-43ee-50b4-8506-5db5d9af0b11
+id: 9ef19885-fecf-51c2-9e78-8680ff7aa048

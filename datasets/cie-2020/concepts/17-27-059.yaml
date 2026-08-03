@@ -16,9 +16,9 @@ id: 565e0ad1-447c-5aed-a9e9-9b574c5b3958
 ---
 data:
   definition:
-  - content: "{{17-27-058, LED module}}, incorporating control gear and any additional
-      elements necessary for stable operation of the light source, designed for direct
-      connection to the supply voltage"
+  - content: "{{concept:cie-2020:17-27-058, LED module}}, incorporating control gear
+      and any additional elements necessary for stable operation of the light source,
+      designed for direct connection to the supply voltage"
     type: intensional
   examples: []
   notes: []
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-059
-id: cc294167-4482-588e-9ebc-97397a04a4fb
+id: d8d721d3-8779-57e6-8072-448ae25f2e98

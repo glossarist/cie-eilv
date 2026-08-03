@@ -21,7 +21,7 @@ id: 33023731-04a5-5d20-9ba4-61a3c116fb5a
 ---
 data:
   definition:
-  - content: material which exhibits fluorescence as the result of exposure to {{17-21-002,
+  - content: material which exhibits fluorescence as the result of exposure to {{concept:cie-2020:17-21-002,
       optical radiation}}
     type: intensional
   examples: []
@@ -31,8 +31,8 @@ data:
       and re-radiate some of this energy at longer wavelengths, producing narrow bands
       of emission in the visible region.
     type: intensional
-  - content: See also "{{17-24-040, photoluminescent material}}", "{{17-22-055, daylight
-      fluorescent colour}}".
+  - content: See also "{{concept:cie-2020:17-24-040, photoluminescent material}}",
+      "{{concept:cie-2020:17-22-055, daylight fluorescent colour}}".
     type: intensional
   - content: This entry was numbered 17-458 in CIE S 017:2011.
     type: intensional

@@ -23,7 +23,7 @@ sources:
 - id: 845-03-11
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-11
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-11
   type: authoritative
@@ -32,12 +32,12 @@ id: 6f4de293-bacc-5a4a-9684-2ad310c62ee5
 ---
 data:
   definition:
-  - content: illuminant having the same or nearly the same {{17-21-030, relative spectral
-      distribution}} of the radiant flux as a phase of daylight
+  - content: illuminant having the same or nearly the same {{concept:cie-2020:17-21-030,
+      relative spectral distribution}} of the radiant flux as a phase of daylight
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-03-11, 845-03-11}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-11, 845-03-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-281 and 17-275 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-11
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-03-11
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-11
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-11
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-020
-id: 8ddb4815-35a7-5131-8611-51d3215b1d97
+id: 6d2cf079-941b-51ba-8f66-790fc7daf1f8

@@ -19,7 +19,7 @@ sources:
 - id: 845-01-48
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-48
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-48
   type: authoritative
@@ -42,16 +42,16 @@ data:
 
       stem:[M_v = K_m int_0^(oo) M_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[M_(e,lambda)](stem:[lambda]) is the spectral radiant exitance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}}.
+      where stem:[K_m] is maximum luminous efficacy, stem:[M_(e,lambda)](stem:[lambda]) is the spectral radiant exitance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.
 
-      Integral limits can be confined depending on the spectral {{17-25-061, responsivity}} of the detectors used as a sensor.
+      Integral limits can be confined depending on the spectral {{concept:cie-2020:17-25-061, responsivity}} of the detectors used as a sensor.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant exitance". The corresponding
       quantity for photons is "photon exitance".
     type: intensional
   - content: The luminous exitance is expressed in lumen per square metre (lm·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-48, 845-01-48}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-48, 845-01-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-735 in CIE S 017:2011.
     type: intensional
@@ -62,7 +62,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-48
     type: authoritative
   - origin:
@@ -73,7 +73,7 @@ data:
   - id: 845-01-48
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-48
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-48
     type: authoritative
@@ -87,4 +87,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-081
-id: 8a82f0b2-1b53-50c4-91f4-779362dd73b1
+id: a401905e-f27c-55a1-a564-ad4ba887ceea

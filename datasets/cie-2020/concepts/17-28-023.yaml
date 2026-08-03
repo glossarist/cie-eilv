@@ -23,7 +23,7 @@ sources:
 - id: 845-08-22
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-08-22
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-22
   type: authoritative
@@ -32,13 +32,13 @@ id: 36641ef2-2381-5230-a080-09b17ab037d5
 ---
 data:
   definition:
-  - content: piece of metal, insulated from the shell of the {{17-28-015, cap}}, which
-      is connected to one of the lead-in wires and provides connection to the power
-      supply
+  - content: piece of metal, insulated from the shell of the {{concept:cie-2020:17-28-015,
+      cap}}, which is connected to one of the lead-in wires and provides connection
+      to the power supply
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-08-22, 845-08-22}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-08-22, 845-08-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-249 and 17-425 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-08-22
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-08-22
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-08-22
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-22
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-023
-id: 378417d1-8423-5646-9332-2123ec862cfb
+id: 7ea5ba25-11f7-5340-a07c-abb96934aec4

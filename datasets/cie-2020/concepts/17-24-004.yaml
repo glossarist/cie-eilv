@@ -23,7 +23,7 @@ sources:
 - id: 845-04-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-04
   type: authoritative
@@ -32,16 +32,17 @@ id: 1f8f91d1-75a0-5cdc-a79c-68ba2279e984
 ---
 data:
   definition:
-  - content: ideal {{17-24-003, thermal radiator}} that absorbs completely all incident
-      radiation, whatever the wavelength, the direction of incidence or the polarization
+  - content: ideal {{concept:cie-2020:17-24-003, thermal radiator}} that absorbs completely
+      all incident radiation, whatever the wavelength, the direction of incidence
+      or the polarization
     type: intensional
   examples: []
   notes:
   - content: A Planckian radiator has, for any wavelength and any direction, the maximum
-      {{17-21-029, spectral distribution}} of radiance for a thermal radiator in thermal
-      equilibrium at a given temperature.
+      {{concept:cie-2020:17-21-029, spectral distribution}} of radiance for a thermal
+      radiator in thermal equilibrium at a given temperature.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-04, 845-04-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-04, 845-04-04}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-960 and 17-93 in CIE S 017:2011.
     type: intensional
@@ -52,7 +53,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-04
     type: authoritative
   - origin:
@@ -63,7 +64,7 @@ data:
   - id: 845-04-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-04
     type: authoritative
@@ -77,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-004
-id: 11ce009a-d894-5059-8ee8-338eae655227
+id: 9b6dab8e-7c8c-55ab-857a-796a16517f4d

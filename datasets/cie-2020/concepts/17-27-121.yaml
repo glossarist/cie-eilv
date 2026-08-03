@@ -18,7 +18,7 @@ data:
   definition:
   - content: calculated or measured amount of weighted net energy actually used or
       estimated to meet different needs associated with a standardized operation of
-      a {{17-27-010, lighting system}}
+      a {{concept:cie-2020:17-27-010, lighting system}}
     type: intensional
   examples: []
   notes: []
@@ -35,4 +35,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-121
-id: 57f590a9-5780-56fd-998d-8afbd0b0b514
+id: bc23bf42-78ca-57e6-8416-9f73afd8541d

@@ -19,7 +19,7 @@ sources:
 - id: 845-02-29
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-29
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-29
   type: authoritative
@@ -32,12 +32,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The adjectives "{{17-22-061, bright}}" and "{{17-22-064, light}}" principally
-      have the same meaning, but usually have different applications: lights are described
-      as "bright" or "dim", whereas surface colours are described as "light" or "dark".
-      However, this distinction is not universal.'
+  - content: 'The adjectives "{{concept:cie-2020:17-22-061, bright}}" and "{{concept:cie-2020:17-22-064,
+      light}}" principally have the same meaning, but usually have different applications:
+      lights are described as "bright" or "dim", whereas surface colours are described
+      as "light" or "dark". However, this distinction is not universal.'
     type: intensional
-  - content: This entry was numbered {{cite:845-02-29, 845-02-29}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-29, 845-02-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-110 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-29
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-02-29
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-29
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-29
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-061
-id: 4e9b0875-bb40-591f-81a1-997db58586bd
+id: 5880956c-84ad-57b4-a9b6-52e0dec560ce

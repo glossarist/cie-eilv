@@ -25,7 +25,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The colour space white point can or cannot correspond to the {{17-23-081,
+  - content: The colour space white point can or cannot correspond to the {{concept:cie-2020:17-23-081,
       adapted white}} point and/or the reference medium white point for a colour image
       encoding.
     type: intensional

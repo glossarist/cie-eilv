@@ -19,7 +19,7 @@ sources:
 - id: 845-09-10
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-10
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-10
   type: authoritative
@@ -28,12 +28,12 @@ id: ab359f40-964f-59f5-b27e-c0928ecb5c9e
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} provided for use when the power supply to the
-      normal electric lighting fails"
+  - content: "{{concept:cie-2020:17-29-001, lighting}} provided for use when the power
+      supply to the normal electric lighting fails"
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-09-10, 845-09-10}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-10, 845-09-10}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-377 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-10
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-09-10
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-10
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-10
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-010
-id: 14ca33dd-484b-5a90-b230-076cdaabf1e6
+id: 47bfc802-724b-5f7e-9188-926bbae8f8ca

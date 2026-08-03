@@ -19,7 +19,7 @@ sources:
 - id: 845-09-69
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-69
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-69
   type: authoritative
@@ -35,7 +35,7 @@ data:
   notes:
   - content: The suspension factor has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-69, 845-09-69}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-69, 845-09-69}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1289 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-69
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-09-69
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-69
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-69
     type: authoritative
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-089
-id: 50774c4a-b959-58e3-8897-8c2374755a68
+id: 6b62a12d-84d0-548d-8a99-84472ee149df

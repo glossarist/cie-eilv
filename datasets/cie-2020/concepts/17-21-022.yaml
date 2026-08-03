@@ -19,7 +19,7 @@ sources:
 - id: 845-01-11
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-11
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-11
   type: authoritative
@@ -28,12 +28,12 @@ id: d983e12d-70e8-57fc-9f6d-805a99a90cd5
 ---
 data:
   definition:
-  - content: "{{17-21-014, monochromatic radiation}} whose electromagnetic oscillations
-      maintain a constant phase difference from one position to another"
+  - content: "{{concept:cie-2020:17-21-014, monochromatic radiation}} whose electromagnetic
+      oscillations maintain a constant phase difference from one position to another"
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-01-11, 845-01-11}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-11, 845-01-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-185 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-11
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-01-11
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-11
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-11
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-022
-id: 6f6af4d3-8896-5b06-8c23-7119ab45e3f1
+id: 06d5b608-1937-5ac9-a161-fe9b4c940761

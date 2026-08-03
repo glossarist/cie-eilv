@@ -23,7 +23,7 @@ sources:
 - id: 845-05-45
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-45
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-45
   type: authoritative
@@ -32,12 +32,12 @@ id: 995d9b2d-0f1b-5ed3-8504-8712a0a94586
 ---
 data:
   definition:
-  - content: thermal detector of {{17-21-002, optical radiation}} that can compare
-      radiant flux directly with electric power
+  - content: thermal detector of {{concept:cie-2020:17-21-002, optical radiation}}
+      that can compare radiant flux directly with electric power
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-45, 845-05-45}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-45, 845-05-45}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-4 and 17-1157 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-45
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-05-45
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-45
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-45
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-050
-id: 43147fd4-3824-5589-83b0-294510744ecd
+id: 9541d420-3b17-5b98-8b31-00c3453810ef

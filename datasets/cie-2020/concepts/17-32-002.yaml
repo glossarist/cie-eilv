@@ -27,8 +27,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The information about viewing conditions includes the {{17-32-033, adopted
-      white point}}.
+  - content: The information about viewing conditions includes the {{concept:cie-2020:17-32-033,
+      adopted white point}}.
     type: intensional
   - content: This entry was numbered 17-52 in CIE S 017:2011.
     type: intensional

@@ -19,7 +19,7 @@ sources:
 - id: 845-01-25
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-25
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-25
   type: authoritative
@@ -29,7 +29,7 @@ id: 76b4f567-ebe2-5054-a5d4-4c35c61d4fad
 data:
   definition:
   - content: |-
-      change in {{17-21-037, luminous energy}} with time
+      change in {{concept:cie-2020:17-21-037, luminous energy}} with time
 
       stem:[Phi_v = ((d Q_v))/((d t))]
 
@@ -38,11 +38,11 @@ data:
   examples: []
   notes:
   - content: |-
-      Luminous flux is a quantity derived from the radiant flux, stem:[Phi_e], by evaluating the radiation according to its action upon the {{17-21-036, CIE standard photometric observer}}. Luminous flux can be derived from the spectral radiant flux distribution by
+      Luminous flux is a quantity derived from the radiant flux, stem:[Phi_e], by evaluating the radiation according to its action upon the {{concept:cie-2020:17-21-036, CIE standard photometric observer}}. Luminous flux can be derived from the spectral radiant flux distribution by
 
       stem:[Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}} and stem:[lambda] is wavelength.
+      where stem:[K_m] is maximum luminous efficacy, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}} and stem:[lambda] is wavelength.
     type: intensional
   - content: |-
       The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
@@ -54,7 +54,7 @@ data:
     type: intensional
   - content: The luminous flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-25, 845-01-25}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-25, 845-01-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-738 in CIE S 017:2011.
     type: intensional
@@ -65,7 +65,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-25
     type: authoritative
   - origin:
@@ -76,7 +76,7 @@ data:
   - id: 845-01-25
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-25
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-25
     type: authoritative
@@ -90,4 +90,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-039
-id: 404d608d-63cd-5b44-8c7a-2ea8ed75ddab
+id: 9c9c4076-2bbb-5368-aef0-3471ea75a074

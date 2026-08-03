@@ -19,7 +19,7 @@ sources:
 - id: 845-05-53
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-53
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-53
   type: authoritative
@@ -29,11 +29,11 @@ id: 753b6f15-ada8-5cf3-98bb-91d03c1b4aa3
 data:
   definition:
   - content: output current of a photoelectric detector in the absence of incident
-      {{17-21-002, optical radiation}}
+      {{concept:cie-2020:17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-53, 845-05-53}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-53, 845-05-53}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-277 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-53
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-05-53
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-53
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-53
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-060
-id: e67f9c62-42af-5aa2-913b-57ac306fef15
+id: 03ff02dc-2963-5393-bb59-470a0eae33b5

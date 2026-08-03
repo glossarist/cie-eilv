@@ -25,9 +25,9 @@ id: 35f02bbb-5a2a-52f6-86f8-1a91bcfd3f14
 ---
 data:
   definition:
-  - content: function representing the spectral dependence of the ability of {{17-21-008,
-      ultraviolet radiation}} to produce just perceptible {{17-26-028, actinic erythema}}
-      in human skin
+  - content: function representing the spectral dependence of the ability of {{concept:cie-2020:17-21-008,
+      ultraviolet radiation}} to produce just perceptible {{concept:cie-2020:17-26-028,
+      actinic erythema}} in human skin
     type: intensional
   examples: []
   notes:

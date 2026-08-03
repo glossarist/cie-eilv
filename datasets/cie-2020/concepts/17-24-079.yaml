@@ -19,7 +19,7 @@ sources:
 - id: 845-04-71
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-71
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-71
   type: authoritative
@@ -29,7 +29,7 @@ id: 9a7d366b-da06-59cd-803d-8503d98aa21d
 data:
   definition:
   - content: |-
-      quotient of the {{17-21-050, luminance}} at a surface element of a medium in a given direction and the {{17-21-060, illuminance}} on the medium
+      quotient of the {{concept:cie-2020:17-21-050, luminance}} at a surface element of a medium in a given direction and the {{concept:cie-2020:17-21-060, illuminance}} on the medium
 
       stem:[q_v = ((L_v))/((E_v))]
 
@@ -44,7 +44,7 @@ data:
   - content: The luminance coefficient is expressed in steradian to the power minus
       one (sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-04-71, 845-04-71}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-71, 845-04-71}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-712 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-71
     type: authoritative
   - origin:
@@ -66,7 +66,7 @@ data:
   - id: 845-04-71
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-71
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-71
     type: authoritative
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-079
-id: 7a229e61-f9d4-51fe-b66d-c8cf6eefc6b7
+id: d208544a-f6c5-54af-ba38-1e6e8dc6f0b6

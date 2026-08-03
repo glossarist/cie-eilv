@@ -17,7 +17,7 @@ id: 743fa6b6-e56b-5eb7-9744-fbb2ffc82b10
 data:
   definition:
   - content: ratio of the luminous output of a source evaluated according to the CIE
-      scotopic {{17-21-035, spectral luminous efficiency}}, stem:[V′](stem:[lambda]),
+      scotopic {{concept:cie-2020:17-21-035, spectral luminous efficiency}}, stem:[V′](stem:[lambda]),
       to the luminous output evaluated according to the CIE photopic spectral luminous
       efficiency, stem:[V](stem:[lambda])
     type: intensional
@@ -28,7 +28,7 @@ data:
 
       stem:[R_((SP)) = ((K^( ' )_m int_0^(oo) S ( lambda ) V^( ' ) ( lambda ) d lambda))/((K_m int_0^(oo) S ( lambda ) V ( lambda ) d lambda))]
 
-      where stem:[K]′~m~ ≈ 1 700 lm·W^−1^ is the maximum luminous efficacy for scotopic vision, stem:[K_m] ≈ 683 lm·W^−1^ is the maximum luminous efficacy for photopic vision, stem:[S](stem:[lambda]) is the {{17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.
+      where stem:[K]′~m~ ≈ 1 700 lm·W^−1^ is the maximum luminous efficacy for scotopic vision, stem:[K_m] ≈ 683 lm·W^−1^ is the maximum luminous efficacy for photopic vision, stem:[S](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.
     type: intensional
   - content: The S/P ratio has unit one.
     type: intensional
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-113
-id: 4e67f75e-8d44-51b0-a9af-f3acaf538806
+id: 0eb696e9-5396-59dc-a774-d64576aba8f7

@@ -21,9 +21,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: An LED module can be an {{17-27-059, integrated LED module}} (LEDi module),
-      a {{17-27-060, semi-integrated LED module}} (LEDsi module) (IEV) or a {{17-27-061,
-      non-integrated LED module}} (LEDni module).
+  - content: An LED module can be an {{concept:cie-2020:17-27-059, integrated LED
+      module}} (LEDi module), a {{concept:cie-2020:17-27-060, semi-integrated LED
+      module}} (LEDsi module) (IEV) or a {{concept:cie-2020:17-27-061, non-integrated
+      LED module}} (LEDni module).
     type: intensional
   - content: An LED module is usually designed to be part of an LED lamp or an LED
       luminaire.
@@ -43,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-058
-id: 0a1eeab6-d9ca-592e-8a86-c7ccef005661
+id: 0b35c79a-233c-5000-88eb-5a58c074aea6

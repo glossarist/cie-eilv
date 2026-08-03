@@ -19,7 +19,7 @@ sources:
 - id: 845-11-60
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-11-60
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-60
   type: authoritative
@@ -28,15 +28,16 @@ id: 4c00d3c7-4b03-556d-9655-5e6b607bd8e7
 ---
 data:
   definition:
-  - content: "{{17-30-030, projector}} carried on an aircraft for illuminating the
-      ground in front of the aircraft while it is landing or taking off"
+  - content: "{{concept:cie-2020:17-30-030, projector}} carried on an aircraft for
+      illuminating the ground in front of the aircraft while it is landing or taking
+      off"
     type: intensional
   examples: []
   notes:
   - content: The projector can also be used to provide highly conspicuous light while
       the aircraft is making an approach to land.
     type: intensional
-  - content: This entry was numbered {{cite:845-11-60, 845-11-60}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-60, 845-11-60}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-640 in CIE S 017:2011.
     type: intensional
@@ -47,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-11-60
     type: authoritative
   - origin:
@@ -58,7 +59,7 @@ data:
   - id: 845-11-60
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-11-60
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-60
     type: authoritative
@@ -69,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-059
-id: 993bc6ef-103d-5331-a362-a0dc87edd031
+id: 2afd52c2-0e7d-5da4-843f-f9aed79fe65e

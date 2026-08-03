@@ -21,7 +21,8 @@ id: f848c22b-2db7-5b86-9a99-06babebb0fc8
 ---
 data:
   definition:
-  - content: carcinogenesis resulting from exposure to {{17-21-008, ultraviolet radiation}}
+  - content: carcinogenesis resulting from exposure to {{concept:cie-2020:17-21-008,
+      ultraviolet radiation}}
     type: intensional
   examples: []
   notes:

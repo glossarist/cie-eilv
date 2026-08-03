@@ -19,7 +19,7 @@ sources:
 - id: 845-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-02
   type: authoritative
@@ -28,12 +28,12 @@ id: c213b2ba-03e3-5e2b-bc49-ee69a21909f1
 ---
 data:
   definition:
-  - content: property of {{17-21-002, optical radiation}} that enables it to cause
-      photochemical changes on certain living or non-living materials
+  - content: property of {{concept:cie-2020:17-21-002, optical radiation}} that enables
+      it to cause photochemical changes on certain living or non-living materials
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-06-02, 845-06-02}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-02, 845-06-02}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-16 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-02
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-02
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-002
-id: e4dba987-f013-5889-bcbc-36d3b61f18ec
+id: '068fc38f-1139-56e3-96ea-7187bd3b3d25'

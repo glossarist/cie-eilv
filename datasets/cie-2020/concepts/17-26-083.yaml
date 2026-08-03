@@ -14,7 +14,7 @@ sources:
 - id: 845-06-07
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-07
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-07
   type: authoritative
@@ -23,14 +23,14 @@ id: 8a0d4d47-d42d-578b-82f5-ebde8cf028be
 ---
 data:
   definition:
-  - content: photochemical change caused by artificially produced {{17-21-002, optical
-      radiation}} under controlled conditions
+  - content: photochemical change caused by artificially produced {{concept:cie-2020:17-21-002,
+      optical radiation}} under controlled conditions
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-06-07, 845-06-07}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-07, 845-06-07}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-07, 845-06-07}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-07, 845-06-07}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -39,13 +39,13 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-07
     type: authoritative
   - id: 845-06-07
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-07
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-07
     type: authoritative
@@ -56,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-083
-id: 388f20af-731a-55cd-bc6f-7200f7d45e03
+id: 931f324f-2ac8-58bb-b9fa-0de4e92ffeb6

@@ -19,7 +19,7 @@ sources:
 - id: 845-01-30
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-30
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-30
   type: authoritative
@@ -37,7 +37,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The definition holds strictly only for a {{17-21-033, point source}}.
+  - content: The definition holds strictly only for a {{concept:cie-2020:17-21-033,
+      point source}}.
     type: intensional
   - content: |-
       The distribution of the radiant intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the radiant flux, stem:[Phi_e], within a certain solid angle, stem:[Omega], of a source:
@@ -49,7 +50,7 @@ data:
     type: intensional
   - content: The radiant intensity is expressed in watt per steradian (W·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-30, 845-01-30}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-30, 845-01-30}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1026 in CIE S 017:2011.
     type: intensional
@@ -60,7 +61,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-30
     type: authoritative
   - origin:
@@ -71,7 +72,7 @@ data:
   - id: 845-01-30
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-30
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-30
     type: authoritative
@@ -85,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-044
-id: 88f9bf7a-704f-5ef2-b138-a1ba88f9d4a4
+id: e9ffc2df-ef47-57ad-b077-143641a2248b

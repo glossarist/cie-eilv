@@ -27,8 +27,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Sky glow comprises the following separate components: {{17-29-180, natural
-      sky glow}} and {{17-29-179, man-made sky glow}}.'
+  - content: 'Sky glow comprises the following separate components: {{concept:cie-2020:17-29-180,
+      natural sky glow}} and {{concept:cie-2020:17-29-179, man-made sky glow}}.'
     type: intensional
   - content: This entry was numbered 17-1191 in CIE S 017:2011.
     type: intensional

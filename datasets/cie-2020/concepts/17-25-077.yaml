@@ -26,8 +26,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The field of view should not be confused with the {{17-25-085, angular
-      subtense}} of the apparent source, stem:[alpha].
+  - content: The field of view should not be confused with the {{concept:cie-2020:17-25-085,
+      angular subtense}} of the apparent source, stem:[alpha].
     type: intensional
   - content: A plane angle is sometimes used to describe a circular symmetric solid
       angle field of view.

@@ -19,7 +19,7 @@ sources:
 - id: 845-22-094
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-22-094
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-22-094
   type: authoritative
@@ -33,20 +33,20 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The above-average luminous energy is the {{17-21-037, luminous energy}}
-      calculated from the amount that the instantaneous luminous flux exceeds the
-      average luminous flux. When the instantaneous luminous flux is less than the
-      average luminous flux, the above-average luminous energy is zero, i.e. it does
-      not add negatively.
+  - content: The above-average luminous energy is the {{concept:cie-2020:17-21-037,
+      luminous energy}} calculated from the amount that the instantaneous luminous
+      flux exceeds the average luminous flux. When the instantaneous luminous flux
+      is less than the average luminous flux, the above-average luminous energy is
+      zero, i.e. it does not add negatively.
     type: intensional
   - content: "For the region under the curve of a graph of the instantaneous luminous
       flux versus time, the flicker index is equivalent to the ratio of the area above
       the average luminous flux to the total area. This is expressed mathematically
       as stem:[I_F = ((A_1))/((A_1 + A_2))], where stem:[A_1] is the area above the
       average luminous flux and stem:[A_2] is the area below the average luminous
-      flux as indicated in the following figure:\n\nimage::/assets/images/parts/845/{{cite:845-22-094,
-      845-22-094}}-en.png usemap=\"#{{cite:845-22-094, 845-22-094}}-en\"[]\r\n<map
-      name=\"{{cite:845-22-094, 845-22-094}}-en\">\n\n<area target=\"_self\" alt=\"luminous
+      flux as indicated in the following figure:\n\nimage::/assets/images/parts/845/{{cite:IEV:845-22-094,
+      845-22-094}}-en.png usemap=\"#{{cite:IEV:845-22-094, 845-22-094}}-en\"[]\r\n<map
+      name=\"{{cite:IEV:845-22-094, 845-22-094}}-en\">\n\n<area target=\"_self\" alt=\"luminous
       flux\" title=\"luminous flux\" href=\"IEV845-21-039\" coords=\"7,90,22,11\"
       shape=\"rect\">\n\n<area target=\"_self\" alt=\"time\" title=\"time\" href=\"IEV113-01-03\"
       coords=\"466,182,503,198\" shape=\"rect\">\n\n<area target=\"_self\" alt=\"period\"
@@ -83,7 +83,7 @@ data:
   - id: 845-22-094
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-22-094
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-22-094
     type: authoritative
@@ -98,4 +98,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-094
-id: 4ebfa5fa-43a3-5b41-acee-18e0400c2b89
+id: a98fffe4-d434-53f2-b002-2397ce8b78b0

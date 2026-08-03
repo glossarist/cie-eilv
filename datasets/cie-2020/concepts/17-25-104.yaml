@@ -22,7 +22,7 @@ id: 11c850ed-c7b0-5709-b9c7-3df7c67ff924
 data:
   definition:
   - content: |-
-      law relating the illuminance, stem:[E], on a real or imaginary surface to the luminous intensity, stem:[I], of an illuminating {{17-21-033, point source}} whereby
+      law relating the illuminance, stem:[E], on a real or imaginary surface to the luminous intensity, stem:[I], of an illuminating {{concept:cie-2020:17-21-033, point source}} whereby
 
       stem:[E = ((I cos theta))/((d^2))]
 

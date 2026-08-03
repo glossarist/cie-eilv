@@ -21,7 +21,7 @@ id: 48da8a69-b239-5f9c-8cc3-22617b1f1dbd
 ---
 data:
   definition:
-  - content: colour image from an output device or a reflective or transparent {{17-32-045,
+  - content: colour image from an output device or a reflective or transparent {{concept:cie-2020:17-32-045,
       hardcopy}} to be measured, in which the device control values are kept constant
       within the image area
     type: intensional

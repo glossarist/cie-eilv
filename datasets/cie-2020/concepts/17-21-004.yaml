@@ -23,7 +23,7 @@ sources:
 - id: 845-01-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-04
   type: authoritative
@@ -32,8 +32,8 @@ id: c076596b-f210-5ffe-acda-ec54bab86531
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} for which the wavelengths are longer
-      than those for {{17-21-003, visible radiation}}"
+  - content: "{{concept:cie-2020:17-21-002, optical radiation}} for which the wavelengths
+      are longer than those for {{concept:cie-2020:17-21-003, visible radiation}}"
     type: intensional
   examples: []
   notes:
@@ -56,7 +56,7 @@ data:
       "near," "middle," and "far" infrared; however, the borders necessarily vary
       with the application.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-04, 845-01-04}} in IEC 60050-845:1987
+  - content: This entry was numbered {{cite:IEV:845-01-04, 845-01-04}} in IEC 60050-845:1987
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -67,7 +67,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-04
     type: authoritative
   - origin:
@@ -78,7 +78,7 @@ data:
   - id: 845-01-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-04
     type: authoritative
@@ -92,4 +92,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-004
-id: 5256944f-ff14-5b95-9779-26a227ea98e6
+id: 2fac7a84-d591-5e20-9dce-8c9625eb781b

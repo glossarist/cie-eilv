@@ -23,7 +23,7 @@ sources:
 - id: 845-03-53
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-53
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-53
   type: authoritative
@@ -37,10 +37,10 @@ data:
       style=\"list-style-type:none;\">* stem:[u]′ = 4 stem:[X] / (stem:[X] + 15stem:[Y]
       + 3stem:[Z]) = 4stem:[x] / (−2stem:[x] + 12stem:[y] + 3) * stem:[v]′ = 9 stem:[Y]
       / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (−2stem:[x] +12stem:[y]
-      + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the {{17-23-038, tristimulus
-      values}} in the CIE 1931 or 1964 standard colorimetric systems, and stem:[x],
-      stem:[y] are the corresponding chromaticity coordinates of the colour stimulus
-      considered"
+      + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the {{concept:cie-2020:17-23-038,
+      tristimulus values}} in the CIE 1931 or 1964 standard colorimetric systems,
+      and stem:[x], stem:[y] are the corresponding chromaticity coordinates of the
+      colour stimulus considered"
     type: intensional
   examples: []
   notes:
@@ -49,7 +49,7 @@ data:
       was plotted against stem:[u] in rectangular coordinates. The relationships between
       the two pairs of coordinates are: stem:[u]′ = stem:[u]; stem:[v]′ = 1,5 stem:[v].'
     type: intensional
-  - content: This entry was numbered {{cite:845-03-53, 845-03-53}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-53, 845-03-53}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-162 and 17-161 in CIE S 017:2011.
     type: intensional
@@ -60,7 +60,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-53
     type: authoritative
   - origin:
@@ -71,7 +71,7 @@ data:
   - id: 845-03-53
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-53
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-53
     type: authoritative
@@ -85,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-073
-id: f34152a4-f50a-5edd-8550-41d435905417
+id: af8626ca-03f9-55cb-9510-537a17e582c1

@@ -19,7 +19,7 @@ sources:
 - id: 845-01-15
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-15
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-15
   type: authoritative
@@ -34,7 +34,7 @@ data:
   notes:
   - content: The wavenumber is expressed in metre to the power minus one (m^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-15, 845-01-15}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-15, 845-01-15}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1425 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-15
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-01-15
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-15
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-15
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-026
-id: 6585d839-5185-5c3d-b5fd-e7be6a0c6258
+id: 6b563bb7-9b67-5815-8681-b6e1db1b9cb0

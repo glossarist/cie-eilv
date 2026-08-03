@@ -19,7 +19,7 @@ sources:
 - id: 845-10-29
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-10-29
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-29
   type: authoritative
@@ -43,7 +43,7 @@ data:
   - content: In public lighting, distinction is made between full-cut-off luminaires,
       semi-cut-off luminaires and non-cut-off luminaires.
     type: intensional
-  - content: This entry was numbered {{cite:845-10-29, 845-10-29}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-10-29, 845-10-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-269 in CIE S 017:2011.
     type: intensional
@@ -54,7 +54,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-10-29
     type: authoritative
   - origin:
@@ -65,7 +65,7 @@ data:
   - id: 845-10-29
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-10-29
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-29
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-034
-id: 3292ef74-af67-5508-82cc-39a7f2e7d8ff
+id: 2312f479-2119-52f1-a689-b89581a36d0f

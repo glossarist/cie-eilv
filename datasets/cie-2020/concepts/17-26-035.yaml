@@ -19,7 +19,7 @@ sources:
 - id: 845-06-23
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-23
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-23
   type: authoritative
@@ -45,7 +45,7 @@ data:
     type: intensional
   - content: The actinic dose is expressed in joule per square metre (J·m^−2^)
     type: intensional
-  - content: This entry was numbered {{cite:845-06-23, 845-06-23}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-23, 845-06-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-14 in CIE S 017:2011.
     type: intensional
@@ -56,7 +56,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-23
     type: authoritative
   - origin:
@@ -67,7 +67,7 @@ data:
   - id: 845-06-23
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-23
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-23
     type: authoritative
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-035
-id: 5d674756-524e-5630-b729-36679f69b3de
+id: 8e91d6a6-7c4b-5655-8a4e-1e6a9ceb076b

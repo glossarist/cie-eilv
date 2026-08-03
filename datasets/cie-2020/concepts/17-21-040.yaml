@@ -19,14 +19,14 @@ sources:
 - id: 113-01-34
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-34
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
   type: authoritative
 - id: 845-01-26
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-26
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-26
   type: authoritative
@@ -45,7 +45,7 @@ data:
   examples: []
   notes:
   - content: |-
-      Photon flux, stem:[Phi_p], is related to radiant flux, stem:[Phi_e], of {{17-21-014, monochromatic radiation}} by
+      Photon flux, stem:[Phi_p], is related to radiant flux, stem:[Phi_e], of {{concept:cie-2020:17-21-014, monochromatic radiation}} by
 
       stem:[Phi_p = ((Phi_e))/((h nu))]
 
@@ -56,14 +56,14 @@ data:
       flux can be expressed by stem:[Phi_p = int_0^(oo) ((d Phi_e ( lambda )))/((d
       lambda)) * (lambda)/((h c_0)) d lambda = int_0^(oo) ((d Phi_e ( nu )))/((d nu))
       * (1)/((h nu)) d nu], where stem:[h] is Planck's constant and stem:[c_0] is
-      the {{cite:113-01-34, speed of light in vacuum}}.
+      the {{cite:IEV:113-01-34, speed of light in vacuum}}.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant flux". The corresponding
       photometric quantity is "luminous flux".
     type: intensional
   - content: The photon flux is expressed in second to the power minus one (s^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-26, 845-01-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-26, 845-01-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-927 in CIE S 017:2011.
     type: intensional
@@ -74,7 +74,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-26
     type: authoritative
   - origin:
@@ -85,14 +85,14 @@ data:
   - id: 113-01-34
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
     type: authoritative
   - id: 845-01-26
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-26
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-26
     type: authoritative
@@ -106,4 +106,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-040
-id: 716ea7f3-a42b-5b29-bddf-4503269e4760
+id: 7f60cf84-28e7-5088-ac0c-70ae9dbb446f

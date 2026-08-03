@@ -19,7 +19,7 @@ sources:
 - id: 845-09-77
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-77
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-77
   type: authoritative
@@ -36,7 +36,7 @@ data:
   - content: The extraterrestrial solar irradiance is expressed in watt per square
       metre (W·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-09-77, 845-09-77}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-77, 845-09-77}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-424 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-77
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-09-77
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-77
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-77
     type: authoritative
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-135
-id: c5577a7f-250f-59fe-aa51-cc5ccc193cbf
+id: '0738ff29-621c-5376-a25a-1d1c7089073e'

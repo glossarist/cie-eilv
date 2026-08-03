@@ -25,9 +25,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: CIE stem:[XYZ] {{17-23-038, tristimulus values}} are colorimetric coordinates,
-      as are stem:[RGB] values that have an exact and invertible mathematical relationship
-      to CIE stem:[XYZ] tristimulus values.
+  - content: CIE stem:[XYZ] {{concept:cie-2020:17-23-038, tristimulus values}} are
+      colorimetric coordinates, as are stem:[RGB] values that have an exact and invertible
+      mathematical relationship to CIE stem:[XYZ] tristimulus values.
     type: intensional
   - content: This entry was numbered 17-193 in CIE S 017:2011.
     type: intensional

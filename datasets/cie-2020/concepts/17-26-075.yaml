@@ -26,7 +26,8 @@ id: 97cad04a-5adc-5c87-9559-8ccb02bceaa6
 data:
   definition:
   - content: measurement of the protective quality of a fabric sample against solar
-      {{17-21-008, ultraviolet radiation}}, determined by in-vitro testing
+      {{concept:cie-2020:17-21-008, ultraviolet radiation}}, determined by in-vitro
+      testing
     type: intensional
   examples: []
   notes:

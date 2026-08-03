@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-01-16
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-16
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-16
   type: authoritative
@@ -36,17 +36,18 @@ id: 68b01dfb-11a5-5faf-853b-2d3cf77c27ad
 data:
   definition:
   - content: property of a quantity, stem:[X], pertaining to electromagnetic radiation
-      that indicates that stem:[X] is a function of the {{17-21-025, wavelength}},
-      stem:[lambda]
+      that indicates that stem:[X] is a function of the {{concept:cie-2020:17-21-025,
+      wavelength}}, stem:[lambda]
     type: intensional
   examples: []
   notes:
-  - content: The quantity stem:[X] can also be expressed as a function of {{cite:103-06-02,
-      frequency}}, stem:[nu], {{17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding
-      symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and stem:[Xnu],
-      stem:[Xsigma], etc. See also "{{17-21-029, spectral distribution}}".
+  - content: The quantity stem:[X] can also be expressed as a function of {{cite:IEV:103-06-02,
+      frequency}}, stem:[nu], {{concept:cie-2020:17-21-026, wavenumber}}, stem:[sigma],
+      etc.; the corresponding symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]),
+      etc. and stem:[Xnu], stem:[Xsigma], etc. See also "{{concept:cie-2020:17-21-029,
+      spectral distribution}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-01-16, 845-01-16}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-16, 845-01-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1206 in CIE S 017:2011.
     type: intensional
@@ -57,7 +58,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-16
     type: authoritative
   - origin:
@@ -68,14 +69,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-01-16
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-16
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-16
     type: authoritative
@@ -94,4 +95,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-027
-id: 6d70344a-08e8-55f6-bae6-58af027cd683
+id: d0b77ca4-05bf-54c8-896e-87338bcf9a40

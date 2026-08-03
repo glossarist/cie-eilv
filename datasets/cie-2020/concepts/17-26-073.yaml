@@ -23,8 +23,8 @@ data:
   definition:
   - content: quantity developed for the public domain, for weather forecasting and
       climatology, which quantifies the erythemal potential (or sunburning power)
-      of the ambient solar {{17-21-008, ultraviolet radiation}}, but could also be
-      applied to other sources
+      of the ambient solar {{concept:cie-2020:17-21-008, ultraviolet radiation}},
+      but could also be applied to other sources
     type: intensional
   examples: []
   notes:

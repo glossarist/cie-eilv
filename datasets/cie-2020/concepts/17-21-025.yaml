@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-01-14
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-14
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-14
   type: authoritative
@@ -44,22 +44,22 @@ data:
       by the refractive index of the medium. In photometry, unless otherwise stated,
       values of wavelength are generally those in air. The refractive index of standard
       air (for spectroscopy: stem:[T] = 15 °C, stem:[p] = 101 325 Pa) lies between
-      1,000 27 and 1,000 29 for {{17-21-003, visible radiation}}.'
+      1,000 27 and 1,000 29 for {{concept:cie-2020:17-21-003, visible radiation}}.'
     type: intensional
   - content: In some specific applications, such as fluorescence measurements, the
       symbol stem:[mu] is used for the wavelengths of excitation radiation.
     type: intensional
   - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength
       in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is
-      the {{cite:103-06-02, frequency}}.
+      the {{cite:IEV:103-06-02, frequency}}.
     type: intensional
   - content: The wavelength is expressed in metres (m) or decimal submultiples of
       metre.
     type: intensional
-  - content: In {{17-21-002, optical radiation}}, the units nanometre (nm) and micrometre
-      (μm) are generally used.
+  - content: In {{concept:cie-2020:17-21-002, optical radiation}}, the units nanometre
+      (nm) and micrometre (μm) are generally used.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-14, 845-01-14}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-14, 845-01-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1426 in CIE S 017:2011.
     type: intensional
@@ -70,7 +70,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-14
     type: authoritative
   - origin:
@@ -81,14 +81,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-01-14
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-14
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-14
     type: authoritative
@@ -102,4 +102,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-025
-id: 9a86f3c4-795d-5dcc-9d80-452bf2b310bf
+id: a3c2b499-18a0-58df-8f8f-069ce8696953

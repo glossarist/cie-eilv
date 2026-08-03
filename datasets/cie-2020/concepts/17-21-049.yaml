@@ -19,7 +19,7 @@ sources:
 - id: 845-01-34
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-34
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-34
   type: authoritative
@@ -38,7 +38,7 @@ data:
   examples: []
   notes:
   - content: |-
-      In a practical sense, the definition of radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{17-21-033, point sources}}, each of which has a specific radiant intensity, stem:[I_e], in the specified direction. The radiance of the surface is then the integral of these radiance elements over the whole surface.
+      In a practical sense, the definition of radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{concept:cie-2020:17-21-033, point sources}}, each of which has a specific radiant intensity, stem:[I_e], in the specified direction. The radiance of the surface is then the integral of these radiance elements over the whole surface.
 
       The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of radiant intensity with projected area) and could alternatively be rewritten in terms of the average radiant intensity, stem:[bar I_e], as:
 
@@ -59,11 +59,11 @@ data:
       area, stem:[A]·cos stem:[alpha], and solid angle, stem:[Omega]: stem:[Phi_e
       = ​ ∬ L_e * cos alpha d A d omega].'
     type: intensional
-  - content: Since the {{17-21-048, optical extent}}, expressed by stem:[G·n^2], where
-      stem:[G] is geometric extent and stem:[n] is refractive index, is invariant,
-      the quantity expressed by stem:[L_e]stem:[·n^(−2)] is also invariant along the
-      path of the beam if the losses by absorption, reflection and diffusion are taken
-      as 0. That quantity is called "basic radiance".
+  - content: Since the {{concept:cie-2020:17-21-048, optical extent}}, expressed by
+      stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive
+      index, is invariant, the quantity expressed by stem:[L_e]stem:[·n^(−2)] is also
+      invariant along the path of the beam if the losses by absorption, reflection
+      and diffusion are taken as 0. That quantity is called "basic radiance".
     type: intensional
   - content: |-
       The equation in the definition can also be described as a function of radiant flux, stem:[Phi_e]. In this case, it is mathematically interpreted as a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[phi]) with respect to projected area, stem:[A]·cos stem:[alpha], and solid angle, stem:[Omega]:
@@ -77,7 +77,7 @@ data:
     type: intensional
   - content: The radiance is expressed in watt per square metre per steradian (W·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-34, 845-01-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-34, 845-01-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1012 in CIE S 017:2011.
     type: intensional
@@ -88,7 +88,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-34
     type: authoritative
   - origin:
@@ -99,7 +99,7 @@ data:
   - id: 845-01-34
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-34
     type: authoritative
@@ -113,4 +113,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-049
-id: 833be5cd-59ab-582a-9899-b14b732fd4dc
+id: e027bf51-0e16-5fc8-b988-4f4173e8f456

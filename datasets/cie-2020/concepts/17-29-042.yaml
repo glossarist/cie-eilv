@@ -19,7 +19,7 @@ sources:
 - id: 845-09-29
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-29
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-29
   type: authoritative
@@ -35,9 +35,9 @@ data:
   - content: The English term "isocandela diagram" and the French term "diagramme
       isocandela" are no longer in use.
     type: intensional
-  - content: See also "{{17-25-091, distribution curve}}".
+  - content: See also "{{concept:cie-2020:17-25-091, distribution curve}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-09-29, 845-09-29}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-29, 845-09-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-619 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-29
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-09-29
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-29
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-29
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-042
-id: c6fe48e9-6736-555c-ab60-2e0e80e250f2
+id: b4e52965-6a0d-57e2-bafa-ad3a4f02e0c6

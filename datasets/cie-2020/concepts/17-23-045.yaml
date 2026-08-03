@@ -19,7 +19,7 @@ sources:
 - id: 845-03-28
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-28
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-28
   type: authoritative
@@ -28,11 +28,11 @@ id: 76cd934c-4652-531a-a35d-6dea5567450b
 ---
 data:
   definition:
-  - content: system for determining the {{17-23-038, tristimulus values}} of any spectral
-      power distribution using the set of reference colour stimuli &amp;lsqb;X&amp;rsqb;,
-      &amp;lsqb;Y&amp;rsqb;, &amp;lsqb;Z&amp;rsqb; and the three CIE colour-matching
-      functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] adopted
-      by the CIE in 1931
+  - content: system for determining the {{concept:cie-2020:17-23-038, tristimulus
+      values}} of any spectral power distribution using the set of reference colour
+      stimuli &amp;lsqb;X&amp;rsqb;, &amp;lsqb;Y&amp;rsqb;, &amp;lsqb;Z&amp;rsqb;
+      and the three CIE colour-matching functions stem:[bar x ( lambda ) , bar y (
+      lambda ) , bar z ( lambda )] adopted by the CIE in 1931
     type: intensional
   examples: []
   notes:
@@ -50,7 +50,7 @@ data:
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: This entry was numbered {{cite:845-03-28, 845-03-28}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-28, 845-03-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-150 in CIE S 017:2011.
     type: intensional
@@ -61,7 +61,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-28
     type: authoritative
   - origin:
@@ -72,7 +72,7 @@ data:
   - id: 845-03-28
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-28
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-28
     type: authoritative
@@ -86,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-045
-id: cb209bc9-7910-5f85-b331-fe78e56bca86
+id: 9f23ddf1-a95a-5e0d-a555-61a62ccdeebb

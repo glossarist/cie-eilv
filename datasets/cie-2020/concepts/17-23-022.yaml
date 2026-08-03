@@ -19,7 +19,7 @@ sources:
 - id: 845-03-13
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-13
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-13
   type: authoritative
@@ -29,7 +29,7 @@ id: 980592ca-081b-5695-a42b-a21b1b68346b
 data:
   definition:
   - content: artificial source specified by the CIE whose radiation approximates a
-      {{17-23-021, CIE standard illuminant}}
+      {{concept:cie-2020:17-23-021, CIE standard illuminant}}
     type: intensional
   examples: []
   notes:
@@ -43,7 +43,7 @@ data:
   - content: 'See also ISO 11664-2/CIE S 014-2, _Colorimetry – Part 2: CIE Standard
       llluminants for Colorimetry_.'
     type: intensional
-  - content: This entry was numbered {{cite:845-03-13, 845-03-13}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-13, 845-03-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-171 in CIE S 017:2011.
     type: intensional
@@ -54,7 +54,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-13
     type: authoritative
   - origin:
@@ -65,7 +65,7 @@ data:
   - id: 845-03-13
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-13
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-13
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-022
-id: 9bcaae7c-43d0-5673-acf6-3f4214111216
+id: 2790593e-9fd0-54b7-be76-8ea84246d6f1

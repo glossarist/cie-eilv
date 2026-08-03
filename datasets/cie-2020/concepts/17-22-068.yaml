@@ -23,7 +23,7 @@ sources:
 - id: 845-02-36
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-36
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-36
   type: authoritative
@@ -32,8 +32,8 @@ id: 2988a41e-73fd-5f9a-bcad-994b997abbda
 ---
 data:
   definition:
-  - content: "{{17-22-067, hue}} that cannot be further described by the use of hue
-      names other than its own"
+  - content: "{{concept:cie-2020:17-22-067, hue}} that cannot be further described
+      by the use of hue names other than its own"
     type: intensional
   examples: []
   notes:
@@ -42,9 +42,9 @@ data:
 
       Note 2 to entry added: A "unique hue" is sometimes referred to as an "elementary hue".
     type: intensional
-  - content: This entry was numbered {{cite:845-02-36, 845-02-36}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-36, 845-02-36}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-02-36, 845-02-36}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-36, 845-02-36}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1373 and 17-1374 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-36
     type: authoritative
   - origin:
@@ -66,7 +66,7 @@ data:
   - id: 845-02-36
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-36
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-36
     type: authoritative
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-068
-id: d00929a8-57f4-5b1b-bcee-f93585e6d441
+id: 9e6c5783-c462-59c8-8f58-2220ede89bc3

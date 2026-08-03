@@ -31,7 +31,8 @@ data:
       or artificial pupil.
     type: intensional
   - content: The conventional retinal illuminance is expressed in candela (cd), candela
-      per square metre times square millimetre (cd·m^−2^·mm^2^), or {{17-22-038, troland}}.
+      per square metre times square millimetre (cd·m^−2^·mm^2^), or {{concept:cie-2020:17-22-038,
+      troland}}.
     type: intensional
   - content: This entry was numbered 17-256 in CIE S 017:2011.
     type: intensional

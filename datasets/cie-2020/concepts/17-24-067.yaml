@@ -19,7 +19,7 @@ sources:
 - id: 845-04-61
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-61
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-61
   type: authoritative
@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The regular transmittance has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-61, 845-04-61}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-61, 845-04-61}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1079 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-61
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-04-61
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-61
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-61
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-067
-id: 42ab8269-289d-5259-b10f-84c06ed07154
+id: 006cd74d-86a5-5a79-b489-c60cd768825c

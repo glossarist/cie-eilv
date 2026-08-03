@@ -19,7 +19,7 @@ sources:
 - id: 845-07-19
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-19
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-19
   type: authoritative
@@ -34,10 +34,11 @@ data:
   examples: []
   notes:
   - content: High-intensity discharge lamps include groups of discharge lamps known
-      as {{17-27-028, high-pressure mercury lamps}}, {{17-27-033, metal halide lamps}}
-      and {{17-27-031, high-pressure sodium lamps}}.
+      as {{concept:cie-2020:17-27-028, high-pressure mercury lamps}}, {{concept:cie-2020:17-27-033,
+      metal halide lamps}} and {{concept:cie-2020:17-27-031, high-pressure sodium
+      lamps}}.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-19, 845-07-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-19, 845-07-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-534 in CIE S 017:2011.
     type: intensional
@@ -48,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-19
     type: authoritative
   - origin:
@@ -59,7 +60,7 @@ data:
   - id: 845-07-19
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-19
     type: authoritative
@@ -73,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-027
-id: 951030dc-44f7-58c7-9f70-fe393ec777f1
+id: 548b5282-06a4-57da-9057-d94461d1e3d5

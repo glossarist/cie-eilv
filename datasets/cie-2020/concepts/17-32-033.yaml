@@ -27,11 +27,11 @@ data:
   notes:
   - content: A white point used by a colour appearance model is an adopted white point.
     type: intensional
-  - content: The adopted white point can or cannot be the {{17-23-081, adapted white}}
-      point, and one of the most common applications of an adopted white point is
-      to achieve an optimally reproduced device white. For example, an adopted white
-      point corresponding to a given medium can be used in place of an adapted white
-      point in order that no colorants are used to create a white.
+  - content: The adopted white point can or cannot be the {{concept:cie-2020:17-23-081,
+      adapted white}} point, and one of the most common applications of an adopted
+      white point is to achieve an optimally reproduced device white. For example,
+      an adopted white point corresponding to a given medium can be used in place
+      of an adapted white point in order that no colorants are used to create a white.
     type: intensional
   - content: The concept of adopted white point applies to both colour appearance
       models and reproduction models.

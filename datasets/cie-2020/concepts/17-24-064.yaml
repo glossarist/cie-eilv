@@ -19,7 +19,7 @@ sources:
 - id: 845-04-58
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-58
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-58
   type: authoritative
@@ -39,15 +39,15 @@ data:
       case, "spectral" is added before the quantity name.
     type: intensional
   - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] =
-      1 except when {{17-21-017, polarized radiation}} is observed, where stem:[alpha]
-      is absorptance and stem:[tau] is transmittance.
+      1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed,
+      where stem:[alpha] is absorptance and stem:[tau] is transmittance.
     type: intensional
   - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r],
       and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The reflectance has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-58, 845-04-58}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-58, 845-04-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1058 in CIE S 017:2011.
     type: intensional
@@ -58,7 +58,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-58
     type: authoritative
   - origin:
@@ -69,7 +69,7 @@ data:
   - id: 845-04-58
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-58
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-58
     type: authoritative
@@ -83,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-064
-id: 8f836e50-0b52-5781-8552-0d306432b2e0
+id: 6ab52db1-142b-5e53-ac15-02694f0036ef

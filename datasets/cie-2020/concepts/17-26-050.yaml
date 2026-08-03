@@ -26,7 +26,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The wavelength range for "retinal thermal radiance" is the "{{17-26-048,
+  - content: The wavelength range for "retinal thermal radiance" is the "{{concept:cie-2020:17-26-048,
       retinal hazard spectral region}}".
     type: intensional
   - content: This definition is based on the assumption that an action spectrum is

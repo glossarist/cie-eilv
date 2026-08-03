@@ -19,7 +19,7 @@ sources:
 - id: 845-09-46
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-46
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-46
   type: authoritative
@@ -35,7 +35,7 @@ data:
   notes:
   - content: The direct ratio has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-46, 845-09-46}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-46, 845-09-46}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-320 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-46
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-09-46
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-46
     type: authoritative
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-059
-id: ad51fea0-d001-5069-a62a-119e25cc3586
+id: 4f3ac30b-ffdb-5a23-a276-631483dc398f

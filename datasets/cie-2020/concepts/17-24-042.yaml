@@ -18,7 +18,8 @@ data:
   definition:
   - content: quotient of the integrated value of the radiant flux of all wavelengths
       emitted by fluorescence (fluorescence band) and the radiant excitation power
-      irradiating the {{17-24-041, fluorescent material}} for a given excitation wavelength
+      irradiating the {{concept:cie-2020:17-24-041, fluorescent material}} for a given
+      excitation wavelength
     type: intensional
   examples: []
   notes:
@@ -48,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-042
-id: d4d813a6-c9e1-5125-a7d4-3a4c16b86ccb
+id: b4094bec-917d-50c7-bbaf-eb01e9476593

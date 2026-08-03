@@ -19,7 +19,7 @@ sources:
 - id: 845-09-43
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-43
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-43
   type: authoritative
@@ -29,7 +29,8 @@ id: 417f9537-8cd2-56d1-a8f7-e7e8fd887cdc
 data:
   definition:
   - content: ratio of the maximum luminous intensity of the luminaire, generally a
-      {{17-30-030, projector}}, to the mean spherical luminous intensity of its lamp
+      {{concept:cie-2020:17-30-030, projector}}, to the mean spherical luminous intensity
+      of its lamp
     type: intensional
   examples: []
   notes:
@@ -38,7 +39,7 @@ data:
     type: intensional
   - content: The magnification ratio has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-43, 845-09-43}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-43, 845-09-43}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-748 in CIE S 017:2011.
     type: intensional
@@ -49,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-43
     type: authoritative
   - origin:
@@ -60,7 +61,7 @@ data:
   - id: 845-09-43
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-43
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-43
     type: authoritative
@@ -72,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-056
-id: 96e7b7b5-58ed-5222-ac4d-ce03b7303c66
+id: 69ff04b9-a0ef-5282-b9c2-5a9b4297a0f8

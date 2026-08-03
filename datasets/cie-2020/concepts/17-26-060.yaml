@@ -23,8 +23,8 @@ data:
   definition:
   - content: function representing the relative spectral sensitivity of the human
       eye to blue light hazards, based upon the relative spectral effectiveness of
-      {{17-21-002, optical radiation}} to induce retinal photochemical injury (e.g.
-      photic maculopathy)
+      {{concept:cie-2020:17-21-002, optical radiation}} to induce retinal photochemical
+      injury (e.g. photic maculopathy)
     type: intensional
   examples: []
   notes:

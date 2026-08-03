@@ -23,7 +23,7 @@ sources:
 - id: 845-03-50
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-50
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-50
   type: authoritative
@@ -33,9 +33,9 @@ id: 5922eed0-cf27-5f01-b20c-42c2ec08923a
 data:
   definition:
   - content: temperature of a Planckian radiator having the chromaticity nearest the
-      chromaticity associated with the given {{17-21-029, spectral distribution}}
-      on a modified 1976 UCS diagram where stem:[u^( ' ) , (2)/(3) v^( ' )] are the
-      coordinates of the Planckian locus and the test stimulus
+      chromaticity associated with the given {{concept:cie-2020:17-21-029, spectral
+      distribution}} on a modified 1976 UCS diagram where stem:[u^( ' ) , (2)/(3)
+      v^( ' )] are the coordinates of the Planckian locus and the test stimulus
     type: intensional
   examples: []
   notes:
@@ -61,7 +61,7 @@ data:
     type: intensional
   - content: The correlated colour temperature is expressed in kelvin (K).
     type: intensional
-  - content: This entry was numbered {{cite:845-03-50, 845-03-50}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-50, 845-03-50}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -72,7 +72,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-50
     type: authoritative
   - origin:
@@ -83,7 +83,7 @@ data:
   - id: 845-03-50
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-50
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-50
     type: authoritative
@@ -97,4 +97,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-068
-id: 60b740c4-dcbd-507c-b75e-4eb02e688b7c
+id: a3832289-b735-5eeb-a289-37abb2bdb14e

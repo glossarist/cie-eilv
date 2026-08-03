@@ -19,7 +19,7 @@ sources:
 - id: 845-05-51
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-51
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-51
   type: authoritative
@@ -36,7 +36,7 @@ data:
       or chemical, e.g. in a photographic film or an actinometer, or mechanical, e.g.
       in a Golay detector.
     type: intensional
-  - content: This entry was numbered {{cite:845-05-51, 845-05-51}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-51, 845-05-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-856 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-51
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-05-51
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-51
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-058
-id: 8ecebbe7-558e-5c14-8ecd-b0bccbcc6eec
+id: f906d9b2-981b-522b-b08e-f5cf3cf47e30

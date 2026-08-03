@@ -23,7 +23,7 @@ sources:
 - id: 113-01-08
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-08
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
   type: authoritative
@@ -32,7 +32,7 @@ id: f689883b-7c40-5eed-a23f-5dab1cb5e1e1
 ---
 data:
   definition:
-  - content: quotient of the efficiency of a luminaire at a given {{cite:113-01-08,
+  - content: quotient of the efficiency of a luminaire at a given {{cite:IEV:113-01-08,
       instant}} and the initial efficiency value
     type: intensional
   examples: []
@@ -57,7 +57,7 @@ data:
   - id: 113-01-08
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-08
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
     type: authoritative
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-148
-id: 8d6eb6ab-a569-51b5-9707-5a5aae03981a
+id: 9bfd4113-1d4a-5d82-94e9-30bf1d05f79b

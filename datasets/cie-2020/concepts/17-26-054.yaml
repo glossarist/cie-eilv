@@ -22,8 +22,8 @@ id: 0a9224a7-a54b-5b5a-bfd5-6d7805d2ddb0
 data:
   definition:
   - content: weighting function that combines the normalized spectral sensitivities
-      of the human eye and skin to {{17-21-008, ultraviolet radiation}} for radiation
-      protection purposes
+      of the human eye and skin to {{concept:cie-2020:17-21-008, ultraviolet radiation}}
+      for radiation protection purposes
     type: intensional
   examples: []
   notes:

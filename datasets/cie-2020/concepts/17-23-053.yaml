@@ -19,7 +19,7 @@ sources:
 - id: 845-03-33
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-33
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-33
   type: authoritative
@@ -28,7 +28,7 @@ id: 0b6caf59-e5ad-5613-9e1f-4060228ce7cb
 ---
 data:
   definition:
-  - content: coordinates expressing the quotients of each of a set of three {{17-23-038,
+  - content: coordinates expressing the quotients of each of a set of three {{concept:cie-2020:17-23-038,
       tristimulus values}} and their sum
     type: intensional
   examples: []
@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The chromaticity coordinates have unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-33, 845-03-33}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-33, 845-03-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-145 in CIE S 017:2011.
     type: intensional
@@ -53,7 +53,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-33
     type: authoritative
   - origin:
@@ -64,7 +64,7 @@ data:
   - id: 845-03-33
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-33
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-33
     type: authoritative
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-053
-id: 8eec7846-6a28-5feb-a59a-9992a4197bd1
+id: ddc799cb-2699-5403-b006-3318251b43c8

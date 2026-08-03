@@ -19,21 +19,21 @@ sources:
 - id: 113-01-34
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-34
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
   type: authoritative
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-04-101
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-101
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-101
   type: authoritative
@@ -42,26 +42,26 @@ id: 749f40b3-e479-59c8-bb81-1c936cd652fa
 ---
 data:
   definition:
-  - content: quotient of the {{cite:113-01-34, speed of light in vacuum}} and the
-      speed of light in a medium
+  - content: quotient of the {{cite:IEV:113-01-34, speed of light in vacuum}} and
+      the speed of light in a medium
     type: intensional
   examples: []
   notes:
-  - content: The value of the refractive index can depend on the {{cite:103-06-02,
+  - content: The value of the refractive index can depend on the {{cite:IEV:103-06-02,
       frequency}}, polarization, and direction.
     type: intensional
   - content: The refractive index is expressed by stem:[n] = stem:[c_0]/stem:[c,]
       where stem:[c_0] is the speed of light in vacuum and stem:[c] is the speed of
       light in the medium.
     type: intensional
-  - content: See also "{{17-24-111, complex refractive index}}.
+  - content: See also "{{concept:cie-2020:17-24-111, complex refractive index}}.
     type: intensional
   - content: The refractivity is expressed by stem:[n] − 1, where stem:[n] is refractive
       index.
     type: intensional
   - content: The refractive index has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-101, 845-04-101}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-101, 845-04-101}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1074 in CIE S 017:2011.
     type: intensional
@@ -72,7 +72,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-101
     type: authoritative
   - origin:
@@ -83,21 +83,21 @@ data:
   - id: 113-01-34
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
     type: authoritative
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-04-101
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-101
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-101
     type: authoritative
@@ -111,4 +111,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-109
-id: 367ff59a-7ba4-5bbc-830f-607667438aa8
+id: 5bb2cf31-e8fb-5667-b3cb-66f398bc394f

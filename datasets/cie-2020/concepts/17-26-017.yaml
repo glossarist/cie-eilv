@@ -22,7 +22,7 @@ id: 53a8c7d5-2900-52d6-86d2-49e1aec4ca6d
 data:
   definition:
   - content: inflammatory response of the cornea and conjunctiva following exposure
-      to {{17-21-008, ultraviolet radiation}}
+      to {{concept:cie-2020:17-21-008, ultraviolet radiation}}
     type: intensional
   examples: []
   notes:

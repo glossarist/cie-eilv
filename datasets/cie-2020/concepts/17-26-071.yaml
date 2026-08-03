@@ -26,7 +26,7 @@ id: 336fac54-15d4-5905-8943-065d01bdafa7
 data:
   definition:
   - content: time difference between the end time, stem:[t_e], and the start time,
-      stem:[t_s], of an {{17-21-002, optical radiation}} exposure
+      stem:[t_s], of an {{concept:cie-2020:17-21-002, optical radiation}} exposure
     type: intensional
   examples: []
   notes:

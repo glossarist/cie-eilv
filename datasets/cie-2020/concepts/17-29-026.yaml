@@ -17,7 +17,8 @@ id: d390c02f-2f62-5ded-b46e-05e7979e7246
 data:
   definition:
   - content: type of lighting that uses semiconductor LEDs, organic LEDs (OLEDs),
-      polymer LEDs (PLEDs) or laser diodes as sources of {{17-29-001, lighting}}
+      polymer LEDs (PLEDs) or laser diodes as sources of {{concept:cie-2020:17-29-001,
+      lighting}}
     type: intensional
   examples: []
   notes: []
@@ -36,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-026
-id: 239eab0b-a20f-5ce7-afe0-ea06e1e380b6
+id: f179ab3b-a07b-5667-b35d-7012f61783ee

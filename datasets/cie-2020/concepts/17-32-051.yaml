@@ -22,9 +22,10 @@ id: 1de56f31-9af1-5402-bf9e-de66a6cc76db
 data:
   definition:
   - content: image state associated with colour image data that represent the colour
-      space coordinates of the elements of a two-dimensional {{17-32-045, hardcopy}}
-      or {{17-32-046, softcopy}}, typically produced by scanning artwork, photographic
-      transparencies or prints, or photomechanical or other reproductions
+      space coordinates of the elements of a two-dimensional {{concept:cie-2020:17-32-045,
+      hardcopy}} or {{concept:cie-2020:17-32-046, softcopy}}, typically produced by
+      scanning artwork, photographic transparencies or prints, or photomechanical
+      or other reproductions
     type: intensional
   examples: []
   notes:

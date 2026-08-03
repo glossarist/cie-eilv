@@ -19,7 +19,7 @@ sources:
 - id: 845-03-44
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-44
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-44
   type: authoritative
@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: The dominant wavelength is expressed in nanometre (nm).
     type: intensional
-  - content: This entry was numbered {{cite:845-03-44, 845-03-44}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-44, 845-03-44}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-345 in CIE S 017:2011.
     type: intensional
@@ -50,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-44
     type: authoritative
   - origin:
@@ -61,7 +61,7 @@ data:
   - id: 845-03-44
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-44
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-44
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-062
-id: 360e21c4-6ee7-54b9-9260-91d0c5d5755c
+id: 60e7ae96-31f0-50ac-aa5b-d6ead65ece34

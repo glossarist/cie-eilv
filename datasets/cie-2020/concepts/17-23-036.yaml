@@ -19,7 +19,7 @@ sources:
 - id: 845-03-20
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-20
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-20
   type: authoritative
@@ -28,13 +28,13 @@ id: f9ea05b5-ad7f-5fd6-b7ab-4977eebb2830
 ---
 data:
   definition:
-  - content: system for specifying colour stimuli in terms of {{17-23-038, tristimulus
-      values}}, based on matching colours by additive mixture of three suitably chosen
-      reference colour stimuli
+  - content: system for specifying colour stimuli in terms of {{concept:cie-2020:17-23-038,
+      tristimulus values}}, based on matching colours by additive mixture of three
+      suitably chosen reference colour stimuli
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-03-20, 845-03-20}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-20, 845-03-20}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1343 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-20
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-03-20
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-20
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-20
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-036
-id: cfb6293e-014c-592d-be39-0cb55516f9b8
+id: 5dc26491-b9bf-59e5-aa9e-ce828e0751c3

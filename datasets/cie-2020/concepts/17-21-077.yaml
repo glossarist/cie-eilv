@@ -19,7 +19,7 @@ sources:
 - id: 845-01-46
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-46
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-46
   type: authoritative
@@ -38,7 +38,7 @@ data:
   - content: The radiant cylindrical exposure is expressed in joule per square metre
       (J·m^−2^ = W·s·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-46, 845-01-46}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-46, 845-01-46}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1017 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-46
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-01-46
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-46
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-077
-id: 76edb520-f09d-5c9a-92d8-ef2ba5862eee
+id: a47f00ee-2525-5eed-9409-b324bce8317f

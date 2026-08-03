@@ -23,7 +23,7 @@ sources:
 - id: 845-11-49
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-11-49
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-49
   type: authoritative
@@ -40,7 +40,7 @@ data:
   notes:
   - content: The term "obstruction light" is no longer used.
     type: intensional
-  - content: This entry was numbered {{cite:845-11-49, 845-11-49}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-49, 845-11-49}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-833 and 17-835 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-11-49
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-11-49
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-11-49
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-49
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-046
-id: bab86de3-c2ae-5659-b05b-2b3560a0e71f
+id: b3de7a4d-5b39-536a-b17b-cf2b6308794f

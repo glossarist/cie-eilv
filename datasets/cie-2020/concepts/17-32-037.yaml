@@ -19,7 +19,7 @@ sources:
 - id: 845-04-99
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-99
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-99
   type: authoritative
@@ -38,7 +38,7 @@ data:
       polarization of the light and two (in most cases crossed) polarizers that block
       the light from the backlight in the off state.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-99, 845-04-99}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-99, 845-04-99}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-99
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-04-99
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-99
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-99
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-037
-id: e52a8b27-cdcd-5024-8eba-7e5e54f56d9a
+id: daf2f3bc-4365-5105-b2e7-c38772d4bf62

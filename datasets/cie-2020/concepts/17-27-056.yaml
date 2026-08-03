@@ -16,8 +16,9 @@ id: a80da890-0c41-52ce-aa35-5e651564ab7e
 ---
 data:
   definition:
-  - content: "{{17-27-054, LED lamp}} that carries the control unit of the control
-      gear, and is operated by the separated power supply of the control gear"
+  - content: "{{concept:cie-2020:17-27-054, LED lamp}} that carries the control unit
+      of the control gear, and is operated by the separated power supply of the control
+      gear"
     type: intensional
   examples: []
   notes: []
@@ -36,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-056
-id: 89500714-22a3-5f39-84a3-4aee83bb80ec
+id: 26ae2595-1a64-5bab-b794-b7a2be79333f

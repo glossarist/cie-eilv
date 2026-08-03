@@ -16,11 +16,12 @@ id: dde12731-8f44-5fe9-8056-79242e66ff7b
 ---
 data:
   definition:
-  - content: radiation within the spectral range of {{17-21-003, visible radiation}}
+  - content: radiation within the spectral range of {{concept:cie-2020:17-21-003,
+      visible radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Sometimes, the term "light" is also used in physics as a synonym of {{17-21-002,
+  - content: Sometimes, the term "light" is also used in physics as a synonym of {{concept:cie-2020:17-21-002,
       optical radiation}}, covering the spectral range from 100 nm to 1 mm and sometimes
       even covering the X-ray spectral range. This misuse of the term ‘'light'' should
       be avoided.
@@ -45,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-013
-id: f9d12005-daae-5b2f-b19e-69f10ebd57b5
+id: d93529dc-c59d-5824-9a2d-23b21d3bd7a2

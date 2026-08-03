@@ -19,7 +19,7 @@ sources:
 - id: 845-09-88
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-88
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-88
   type: authoritative
@@ -29,13 +29,13 @@ id: de219543-d5ca-533b-839e-5d93696c5129
 data:
   definition:
   - content: |-
-      quotient of the {{17-29-106, optical thickness}} of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
+      quotient of the {{concept:cie-2020:17-29-106, optical thickness}} of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
 
       stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-29-106, optical thickness}}".
+  - content: See also "{{concept:cie-2020:17-29-106, optical thickness}}".
     type: intensional
   - content: |-
       Several equations are available to express this concept. Usually the Kasten–Young formula is used:
@@ -51,7 +51,7 @@ data:
     type: intensional
   - content: The relative optical air mass has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-88, 845-09-88}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-88, 845-09-88}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1082 in CIE S 017:2011.
     type: intensional
@@ -62,7 +62,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-88
     type: authoritative
   - origin:
@@ -73,7 +73,7 @@ data:
   - id: 845-09-88
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-88
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-88
     type: authoritative
@@ -87,4 +87,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-109
-id: b7c99472-667a-5760-8142-0c2bfba7ac89
+id: 46721cf2-c5e8-57a8-80f3-0363be8f015b

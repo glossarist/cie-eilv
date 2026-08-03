@@ -19,7 +19,7 @@ sources:
 - id: 845-11-72
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-11-72
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-72
   type: authoritative
@@ -28,13 +28,13 @@ id: '01827d9a-ca6f-50df-b93e-519e06799e35'
 ---
 data:
   definition:
-  - content: "{{17-30-030, projector}} carried on a vehicle for illuminating the way
-      ahead in poor visibility, and usually positioned so as to moderate the amount
-      of light returned by scattering to the driver"
+  - content: "{{concept:cie-2020:17-30-030, projector}} carried on a vehicle for illuminating
+      the way ahead in poor visibility, and usually positioned so as to moderate the
+      amount of light returned by scattering to the driver"
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-11-72, 845-11-72}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-72, 845-11-72}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-477 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-11-72
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-11-72
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-11-72
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-72
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-068
-id: 1f8e8e8e-1fe1-57c0-a2b6-f2be25cdac66
+id: 89a6d28e-117f-517c-aad4-b196adc04a24

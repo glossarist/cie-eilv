@@ -19,7 +19,7 @@ sources:
 - id: 113-01-10
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-10
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
   type: authoritative
@@ -28,7 +28,7 @@ id: f4c0882a-b430-5cd2-a49f-1f5328a1b9cc
 ---
 data:
   definition:
-  - content: "{{cite:113-01-10, time interval}} during which stricter requirements
+  - content: "{{cite:IEV:113-01-10, time interval}} during which stricter requirements
       for the control of obtrusive light apply"
     type: intensional
   examples: []
@@ -48,7 +48,7 @@ data:
   - id: 113-01-10
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-10
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
     type: authoritative
@@ -59,4 +59,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-175
-id: 895907d6-3f0f-50ac-bc73-af3b20030394
+id: 29e96caa-77e3-5569-8961-816c271c10a8

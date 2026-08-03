@@ -21,12 +21,13 @@ data:
 
       stem:[a_((B ,v)) = ((int Phi_((e , lambda)) ( lambda ) * B ( lambda ) * d lambda))/((int Phi_((e , lambda)) ( lambda ) * V ( lambda ) * d lambda))]
 
-      where stem:[lambda] is wavelength, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[B](stem:[lambda]) is the blue light hazard spectral weighting function, and stem:[V](stem:[lambda]) is the CIE {{17-21-035, spectral luminous efficiency}} function for photopic vision
+      where stem:[lambda] is wavelength, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[B](stem:[lambda]) is the blue light hazard spectral weighting function, and stem:[V](stem:[lambda]) is the CIE {{concept:cie-2020:17-21-035, spectral luminous efficiency}} function for photopic vision
     type: intensional
   examples: []
   notes:
-  - content: Luminous radiation refers to {{17-21-002, optical radiation}} weighted
-      with the CIE spectral luminous efficiency function for photopic vision, stem:[V](stem:[lambda]).
+  - content: Luminous radiation refers to {{concept:cie-2020:17-21-002, optical radiation}}
+      weighted with the CIE spectral luminous efficiency function for photopic vision,
+      stem:[V](stem:[lambda]).
     type: intensional
   - content: The use of this term is only reasonable if parts of the optical radiation
       are in the visible range and thus stem:[int Phi_((e , lambda)) ( lambda ) *
@@ -49,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-062
-id: 53d7fc8b-7d34-568b-b6a4-6b50fa4c07e7
+id: f79f7025-f4f5-5a49-be31-f06366f5300c

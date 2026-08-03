@@ -27,7 +27,7 @@ sources:
 - id: 845-01-05
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-05
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-05
   type: authoritative
@@ -36,8 +36,8 @@ id: d7cdc2da-e069-5763-8ef0-42ad2aba5542
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} for which the wavelengths are shorter
-      than those for {{17-21-003, visible radiation}}"
+  - content: "{{concept:cie-2020:17-21-002, optical radiation}} for which the wavelengths
+      are shorter than those for {{concept:cie-2020:17-21-003, visible radiation}}"
     type: intensional
   examples: []
   notes:
@@ -59,7 +59,7 @@ data:
       with the application (e.g. in meteorology, optical design, photochemistry, and
       thermal physics).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-05, 845-01-05}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-05, 845-01-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -70,7 +70,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-05
     type: authoritative
   - origin:
@@ -81,7 +81,7 @@ data:
   - id: 845-01-05
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-05
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-05
     type: authoritative
@@ -95,4 +95,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-008
-id: aed09391-9ef5-5a61-a65c-ca32c0e83fe4
+id: 64235483-897e-5e4f-9942-e232e769b4fe

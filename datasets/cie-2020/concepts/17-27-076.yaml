@@ -14,7 +14,7 @@ sources:
 - id: 845-27-076
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-27-076
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-27-076
   type: authoritative
@@ -31,7 +31,7 @@ data:
   - content: |-
       The optical beam axis is not necessarily the same as the lamp axis through the lamp cap or the lamp axis normal to a reference plane. The following figure illustrates the relation between the optical beam axis, the mechanical/geometrical axis, the peak intensity and the centre beam intensity.
 
-      image::/assets/images/parts/845/{{cite:845-27-076, 845-27-076}}-en.png[]
+      image::/assets/images/parts/845/{{cite:IEV:845-27-076, 845-27-076}}-en.png[]
     type: intensional
   sources:
   - origin:
@@ -41,7 +41,7 @@ data:
   - id: 845-27-076
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-27-076
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-27-076
     type: authoritative
@@ -52,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-076
-id: bb386b5f-41fc-5100-b701-db4e503468c1
+id: d767f71e-fbe3-5a39-96ea-357cf0e8e838

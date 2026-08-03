@@ -22,8 +22,8 @@ id: 55e6507e-b380-5341-a83d-0515ec127e8e
 data:
   definition:
   - content: property of a quantity, stem:[X], pertaining to electromagnetic radiation
-      that indicates that the quantity referred to is the {{17-21-029, spectral distribution}}
-      of stem:[X]
+      that indicates that the quantity referred to is the {{concept:cie-2020:17-21-029,
+      spectral distribution}} of stem:[X]
     type: intensional
   examples: []
   notes:

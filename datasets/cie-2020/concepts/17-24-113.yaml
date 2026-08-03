@@ -19,7 +19,7 @@ sources:
 - id: 845-04-105
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-105
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-105
   type: authoritative
@@ -29,8 +29,8 @@ id: 7c19ab50-11cc-533c-b52e-8abe6cde250c
 data:
   definition:
   - content: regularly transmitting device used to modify the absolute flux level
-      (radiant or luminous) or {{17-21-030, relative spectral distribution}}, or both,
-      of the radiation passing through it
+      (radiant or luminous) or {{concept:cie-2020:17-21-030, relative spectral distribution}},
+      or both, of the radiation passing through it
     type: intensional
   examples: []
   notes:
@@ -38,11 +38,11 @@ data:
       or neutral filters according to whether they do or do not alter the relative
       spectral distribution, of the radiation. A selective filter that makes a significant
       change in the chromaticity of the radiation is called a colour filter; one that
-      alters the {{17-21-029, spectral distribution}} but, because of metamerism,
-      transmits radiation of nearly the same chromaticity as that of the incident
-      radiation, can be called a grey filter.
+      alters the {{concept:cie-2020:17-21-029, spectral distribution}} but, because
+      of metamerism, transmits radiation of nearly the same chromaticity as that of
+      the incident radiation, can be called a grey filter.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-105, 845-04-105}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-105, 845-04-105}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-434 in CIE S 017:2011.
     type: intensional
@@ -53,7 +53,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-105
     type: authoritative
   - origin:
@@ -64,7 +64,7 @@ data:
   - id: 845-04-105
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-105
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-105
     type: authoritative
@@ -78,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-113
-id: '080c2031-390f-528e-a978-5e1b7ec36241'
+id: b1a6de74-9ddd-5023-be65-e69f440adeb7

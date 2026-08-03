@@ -19,7 +19,7 @@ sources:
 - id: 845-10-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-10-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-04
   type: authoritative
@@ -33,9 +33,9 @@ data:
   examples: []
   notes:
   - content: In contrast with wide angle luminaires, the term "narrow angle luminaire"
-      is not defined since practically these are {{17-30-030, projectors}}.
+      is not defined since practically these are {{concept:cie-2020:17-30-030, projectors}}.
     type: intensional
-  - content: This entry was numbered {{cite:845-10-04, 845-10-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-10-04, 845-10-04}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1434 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-10-04
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-10-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-10-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-04
     type: authoritative
@@ -68,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-005
-id: e2c9dac6-f490-55aa-8096-af0a90864255
+id: 5a8f7c65-d45c-5d57-8a0e-26e96460b207

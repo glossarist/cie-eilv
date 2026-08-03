@@ -19,7 +19,7 @@ sources:
 - id: 845-01-22
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-22
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-22
   type: authoritative
@@ -84,15 +84,15 @@ data:
       Vision_).
     type: intensional
   - content: |-
-      Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full {{17-21-002, optical radiation}} spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_(e,lambda)](stem:[lambda]) is expressed by
+      Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full {{concept:cie-2020:17-21-002, optical radiation}} spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_(e,lambda)](stem:[lambda]) is expressed by
 
       stem:[Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      where stem:[K_m] ≈ 683 lm·W^−1^ (see also "{{17-21-092, maximum luminous efficacy}}").
+      where stem:[K_m] ≈ 683 lm·W^−1^ (see also "{{concept:cie-2020:17-21-092, maximum luminous efficacy}}").
     type: intensional
   - content: The spectral luminous efficiency has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-22, 845-01-22}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-22, 845-01-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1222 in CIE S 017:2011.
     type: intensional
@@ -103,7 +103,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-22
     type: authoritative
   - origin:
@@ -114,7 +114,7 @@ data:
   - id: 845-01-22
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-22
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-22
     type: authoritative
@@ -132,4 +132,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-035
-id: 85deea25-88b5-5c4f-b7ea-9a92d36740d5
+id: a36cf89a-f85b-5d50-831a-401a37cd95d5

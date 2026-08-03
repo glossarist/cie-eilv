@@ -36,7 +36,7 @@ data:
   - content: It is essential to specify which actinic action spectrum is used, as
       the unit is the same for any action spectrum.
     type: intensional
-  - content: See also "{{17-21-067, radiance dose}}".
+  - content: See also "{{concept:cie-2020:17-21-067, radiance dose}}".
     type: intensional
   - content: The blue light hazard radiance dose is expressed in joule per square
       metre per steradian (J·m^−2^·sr^−1^).

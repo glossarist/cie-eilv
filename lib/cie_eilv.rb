@@ -27,6 +27,7 @@ module CieEilv
   autoload :MathNormalizer,   "cie_eilv/math_normalizer"
   autoload :BibRefMigrator,   "cie_eilv/bib_ref_migrator"
   autoload :SupersedesLinker, "cie_eilv/supersedes_linker"
+  autoload :MentionMigrator,  "cie_eilv/mention_migrator"
   autoload :Auditor,          "cie_eilv/auditor"
   autoload :Archive2011,      "cie_eilv/archive_2011"
 end

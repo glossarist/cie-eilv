@@ -26,7 +26,8 @@ id: 463f7e9d-e5e0-54aa-8544-abe3eaaefb15
 data:
   definition:
   - content: factor describing the protective quality of a sunscreen against solar
-      {{17-21-008, ultraviolet radiation}}, normally determined by in vivo testing
+      {{concept:cie-2020:17-21-008, ultraviolet radiation}}, normally determined by
+      in vivo testing
     type: intensional
   examples: []
   notes:

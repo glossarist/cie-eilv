@@ -16,8 +16,8 @@ id: 4939cb0d-4f87-5cf7-a508-42b7b0554576
 ---
 data:
   definition:
-  - content: "{{17-27-058, LED module}} which needs a separate control circuitry or
-      control gear to operate"
+  - content: "{{concept:cie-2020:17-27-058, LED module}} which needs a separate control
+      circuitry or control gear to operate"
     type: intensional
   examples: []
   notes:
@@ -40,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-061
-id: ad0b202c-d501-5371-b410-77097fc9ca6c
+id: 73b07e48-889c-58d3-a69c-b4dc61d03169

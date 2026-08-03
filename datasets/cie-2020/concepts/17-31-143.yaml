@@ -21,9 +21,9 @@ id: 34685ce6-09e6-5bea-afc8-797fb4587f1b
 ---
 data:
   definition:
-  - content: quotient of minimum {{17-21-060, illuminance}} and maximum illuminance
-      on a surface, or of minimum {{17-21-050, luminance}} and maximum luminance of
-      a surface
+  - content: quotient of minimum {{concept:cie-2020:17-21-060, illuminance}} and maximum
+      illuminance on a surface, or of minimum {{concept:cie-2020:17-21-050, luminance}}
+      and maximum luminance of a surface
     type: intensional
   examples: []
   notes:

@@ -19,7 +19,7 @@ sources:
 - id: 845-09-62
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-62
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-62
   type: authoritative
@@ -29,13 +29,14 @@ id: 9375cc61-29e6-5df1-8127-c3e9de54a0f9
 data:
   definition:
   - content: quotient of the contrast of a task under the lighting system considered
-      and the contrast of the same task under {{17-29-080, reference lighting}}
+      and the contrast of the same task under {{concept:cie-2020:17-29-080, reference
+      lighting}}
     type: intensional
   examples: []
   notes:
   - content: The contrast rendering factor has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-62, 845-09-62}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-62, 845-09-62}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-253 in CIE S 017:2011.
     type: intensional
@@ -46,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-62
     type: authoritative
   - origin:
@@ -57,7 +58,7 @@ data:
   - id: 845-09-62
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-62
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-62
     type: authoritative
@@ -69,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-081
-id: 6127c213-6ad8-5cbb-9238-bdabac7c7427
+id: 79e68e78-3d29-5347-bc67-d037d5fed40f

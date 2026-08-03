@@ -23,7 +23,7 @@ sources:
 - id: 845-02-15
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-15
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-15
   type: authoritative
@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The Stiles–Crawford effect is predominantly present for cone vision.
     type: intensional
-  - content: This entry was numbered {{cite:845-02-15, 845-02-15}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-15, 845-02-15}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1268 and 17-327 in CIE S 017:2011.
     type: intensional
@@ -53,7 +53,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-15
     type: authoritative
   - origin:
@@ -64,7 +64,7 @@ data:
   - id: 845-02-15
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-15
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-15
     type: authoritative
@@ -78,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-037
-id: 9aff399d-f7e6-58c4-8f75-484bf352c307
+id: f2fd6760-28f5-5b1b-9139-cd4ae7c4fd66

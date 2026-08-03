@@ -19,7 +19,7 @@ sources:
 - id: 845-08-24
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-08-24
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-24
   type: authoritative
@@ -29,12 +29,12 @@ id: 02fbd429-7fda-5d22-a371-0dd0fe6b8ba3
 data:
   definition:
   - content: device that holds the electric lamp in position, usually by having the
-      {{17-28-015, cap}} inserted in it, in which case it also provides the means
-      of connecting the electric lamp to the power supply
+      {{concept:cie-2020:17-28-015, cap}} inserted in it, in which case it also provides
+      the means of connecting the electric lamp to the power supply
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-08-24, 845-08-24}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-08-24, 845-08-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-639 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-08-24
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-08-24
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-08-24
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-24
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-025
-id: 476a7e7c-8680-54e1-99fc-17fc29f9b28a
+id: 77dd8a3f-fec0-515c-a5dc-464c4376b9b2

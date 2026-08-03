@@ -19,14 +19,14 @@ sources:
 - id: 121-11-63
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 121-11-63
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=121-11-63
   type: authoritative
 - id: 845-04-100
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-100
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-100
   type: authoritative
@@ -35,14 +35,14 @@ id: fd0cfb0d-3125-564c-a24e-e3f2e6147199
 ---
 data:
   definition:
-  - content: process by which the direction of propagation of an {{cite:121-11-63,
+  - content: process by which the direction of propagation of an {{cite:IEV:121-11-63,
       electromagnetic wave}} is changed as a result of changes in its velocity of
       propagation in passing through an optically non-homogeneous medium, or in crossing
       a surface separating media with different refractive indexes
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-04-100, 845-04-100}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-100, 845-04-100}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1073 in CIE S 017:2011.
     type: intensional
@@ -53,7 +53,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-100
     type: authoritative
   - origin:
@@ -64,14 +64,14 @@ data:
   - id: 121-11-63
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 121-11-63
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=121-11-63
     type: authoritative
   - id: 845-04-100
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-100
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-100
     type: authoritative
@@ -83,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-108
-id: cb6fa0e0-40be-5ebd-9138-aa1ffd6cb05a
+id: 906d22cb-ef70-5ab3-b580-ca287ec82024

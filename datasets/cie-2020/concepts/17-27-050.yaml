@@ -19,7 +19,7 @@ sources:
 - id: 845-04-40
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-40
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-40
   type: authoritative
@@ -28,7 +28,7 @@ id: 1a7eb9ca-a194-5efa-8109-8836fec70d7b
 ---
 data:
   definition:
-  - content: solid-state device embodying a p-n junction, emitting incoherent {{17-21-002,
+  - content: solid-state device embodying a p-n junction, emitting incoherent {{concept:cie-2020:17-21-002,
       optical radiation}} when excited by an electric current
     type: intensional
   examples: []
@@ -48,7 +48,7 @@ data:
       lifetime". Instead, use for example "luminous flux of the LED package", "colour
       rendering of the LED module" or "lifetime of the LED lamp".
     type: intensional
-  - content: This entry was numbered {{cite:845-04-40, 845-04-40}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-40, 845-04-40}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-662 in CIE S 017:2011.
     type: intensional
@@ -59,7 +59,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-40
     type: authoritative
   - origin:
@@ -70,7 +70,7 @@ data:
   - id: 845-04-40
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-40
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-40
     type: authoritative
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-050
-id: 34e82e7f-48e5-5787-8484-684156751df5
+id: 5b85e3de-67ca-5d01-854b-187767a4eb60

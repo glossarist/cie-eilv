@@ -23,7 +23,7 @@ sources:
 - id: 845-03-57
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-57
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-57
   type: authoritative
@@ -33,10 +33,10 @@ id: eac953c5-a036-5b2b-9274-6a885e8d5898
 data:
   definition:
   - content: "difference between two colour stimuli, defined as the Euclidean distance
-      between the points representing them in the {{17-23-076, CIE 1976 L*a*b* colour
-      space}} and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta
-      E_(ab)^* = ( Delta L_()^* )^2 + ( Delta a_()^* )^2 + ( Delta b_()^* )^2^(1 //
-      2)]"
+      between the points representing them in the {{concept:cie-2020:17-23-076, CIE
+      1976 L*a*b* colour space}} and calculated as:\r\n<ul style=\"list-style-type:none;\">*
+      stem:[Delta E_(ab)^* = ( Delta L_()^* )^2 + ( Delta a_()^* )^2 + ( Delta b_()^*
+      )^2^(1 // 2)]"
     type: intensional
   examples: []
   notes:
@@ -45,7 +45,7 @@ data:
   - content: 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour
       Space_.'
     type: intensional
-  - content: This entry was numbered {{cite:845-03-57, 845-03-57}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-57, 845-03-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-156 and 17-172 in CIE S 017:2011.
     type: intensional
@@ -56,7 +56,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-57
     type: authoritative
   - origin:
@@ -67,7 +67,7 @@ data:
   - id: 845-03-57
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-57
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-57
     type: authoritative
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-077
-id: 9ec45c59-c017-5ab6-8201-6200f70dce57
+id: d5a60331-75f6-5ed3-90db-b50e6f4f23e1

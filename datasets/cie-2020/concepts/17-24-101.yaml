@@ -19,7 +19,7 @@ sources:
 - id: 845-04-95
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-95
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-95
   type: authoritative
@@ -34,7 +34,7 @@ data:
   notes:
   - content: The entrance angle is expressed in radian (rad) or degree (°).
     type: intensional
-  - content: This entry was numbered {{cite:845-04-95, 845-04-95}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-95, 845-04-95}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-386 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-95
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-04-95
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-95
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-95
     type: authoritative
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-101
-id: 100bd0b5-84ca-526b-90b4-febdc7d8af20
+id: 1d3ec374-0399-5498-8411-e94603fa2d9e

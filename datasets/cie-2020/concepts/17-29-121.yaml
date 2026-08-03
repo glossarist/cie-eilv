@@ -19,7 +19,7 @@ sources:
 - id: 845-09-97
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-97
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-97
   type: authoritative
@@ -38,12 +38,12 @@ data:
   notes:
   - content: Glazing, dirt effects, etc. are included.
     type: intensional
-  - content: When calculating the {{17-29-001, lighting}} of interiors, the contribution
-      of direct sunlight has to be considered separately.
+  - content: When calculating the {{concept:cie-2020:17-29-001, lighting}} of interiors,
+      the contribution of direct sunlight has to be considered separately.
     type: intensional
   - content: The daylight factor has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-97, 845-09-97}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-97, 845-09-97}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-279 in CIE S 017:2011.
     type: intensional
@@ -54,7 +54,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-97
     type: authoritative
   - origin:
@@ -65,7 +65,7 @@ data:
   - id: 845-09-97
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-97
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-97
     type: authoritative
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-121
-id: 6ff71ffe-1941-54d2-ad11-0f75f770bd59
+id: e14ed902-efd7-58de-a476-f8b9f5853d17

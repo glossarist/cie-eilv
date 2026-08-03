@@ -16,8 +16,8 @@ id: db912eec-823e-5ceb-8209-500c3c70046c
 ---
 data:
   definition:
-  - content: product of {{17-21-035, spectral luminous efficiency}} and maximum luminous
-      efficacy for a specified photometric condition
+  - content: product of {{concept:cie-2020:17-21-035, spectral luminous efficiency}}
+      and maximum luminous efficacy for a specified photometric condition
     type: intensional
   examples: []
   notes:
@@ -54,4 +54,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-091
-id: 7ccfa385-f8b0-56b2-94ff-afab2ac5e446
+id: e9379db6-eaf2-5790-9308-634e1699f151

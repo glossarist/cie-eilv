@@ -19,7 +19,7 @@ sources:
 - id: 845-03-29
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-29
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-29
   type: authoritative
@@ -28,11 +28,11 @@ id: a5bb8bea-f3bc-5482-a03a-e048f99a18ff
 ---
 data:
   definition:
-  - content: system for determining the {{17-23-038, tristimulus values}} of any spectral
-      power distribution using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;,
-      &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching
-      functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10))
-      ( lambda )] adopted by the CIE in 1964
+  - content: system for determining the {{concept:cie-2020:17-23-038, tristimulus
+      values}} of any spectral power distribution using the set of reference colour
+      stimuli &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb;
+      and the three CIE colour-matching functions stem:[bar x_((10)) ( lambda ) ,
+      bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
@@ -44,7 +44,7 @@ data:
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: This entry was numbered {{cite:845-03-29, 845-03-29}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-29, 845-03-29}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-152 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-29
     type: authoritative
   - origin:
@@ -66,7 +66,7 @@ data:
   - id: 845-03-29
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-29
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-29
     type: authoritative
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-046
-id: 7d87e89b-4e0a-5762-91ff-b4f8fa68de5f
+id: 2b2f0897-a0a9-5588-9694-edaeea1290b1

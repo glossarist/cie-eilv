@@ -21,8 +21,9 @@ id: 7b44cade-79d9-5967-99c2-6f931ab787c5
 ---
 data:
   definition:
-  - content: part of the {{17-29-178, sky glow}} that is attributable to radiation
-      from celestial sources and luminescent processes in the Earth's upper atmosphere
+  - content: part of the {{concept:cie-2020:17-29-178, sky glow}} that is attributable
+      to radiation from celestial sources and luminescent processes in the Earth's
+      upper atmosphere
     type: intensional
   examples: []
   notes:

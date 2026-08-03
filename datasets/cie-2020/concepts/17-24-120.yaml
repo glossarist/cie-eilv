@@ -19,7 +19,7 @@ sources:
 - id: 845-04-109
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-109
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-109
   type: authoritative
@@ -28,12 +28,13 @@ id: 197a9494-3407-5e8c-8176-15bc02f82a44
 ---
 data:
   definition:
-  - content: medium that transmits {{17-21-003, visible radiation}} largely by diffuse
-      transmission, so that objects are seen indistinctly through it
+  - content: medium that transmits {{concept:cie-2020:17-21-003, visible radiation}}
+      largely by diffuse transmission, so that objects are seen indistinctly through
+      it
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-04-109, 845-04-109}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-109, 845-04-109}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1335 in CIE S 017:2011.
     type: intensional
@@ -44,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-109
     type: authoritative
   - origin:
@@ -55,7 +56,7 @@ data:
   - id: 845-04-109
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-109
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-109
     type: authoritative
@@ -66,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-120
-id: 408d0949-5a43-5d67-abd1-73a67f676962
+id: 68fa71a5-a399-599d-857e-819a8a5c266f

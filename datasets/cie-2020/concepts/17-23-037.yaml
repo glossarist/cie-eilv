@@ -19,7 +19,7 @@ sources:
 - id: 845-03-21
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-21
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-21
   type: authoritative
@@ -41,7 +41,7 @@ data:
       &amp;lsqb;R~10~&amp;rsqb;, &amp;lsqb;G~10~&amp;rsqb;, &amp;lsqb;B~10~&amp;rsqb;
       or &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb;.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-21, 845-03-21}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-21, 845-03-21}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1048 in CIE S 017:2011.
     type: intensional
@@ -52,7 +52,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-21
     type: authoritative
   - origin:
@@ -63,7 +63,7 @@ data:
   - id: 845-03-21
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-21
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-21
     type: authoritative
@@ -83,4 +83,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-037
-id: c796b7ca-bf1a-59b3-8cb5-0670b42de2fc
+id: b1559da5-0299-564d-9d78-e6864aa6048e

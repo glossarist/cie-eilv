@@ -19,7 +19,7 @@ sources:
 - id: 845-03-48
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-48
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-48
   type: authoritative
@@ -54,7 +54,7 @@ data:
     type: intensional
   - content: The excitation purity has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-48, 845-03-48}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-48, 845-03-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-408 in CIE S 017:2011.
     type: intensional
@@ -65,7 +65,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-48
     type: authoritative
   - origin:
@@ -76,7 +76,7 @@ data:
   - id: 845-03-48
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-48
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-48
     type: authoritative
@@ -90,4 +90,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-066
-id: c44a8af5-dd7a-5a2b-985c-96a12216e732
+id: 287271bf-1b94-5611-b4f6-dae62ec69c59

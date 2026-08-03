@@ -19,7 +19,7 @@ sources:
 - id: 845-11-22
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-11-22
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-22
   type: authoritative
@@ -45,7 +45,7 @@ data:
       where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of stem:[d] measured with stem:[d_0] as "unit".
     type: intensional
   - content: |-
-      Taking into account the relationship between atmospheric transmissivity, stem:[T], and meteorological optical range, stem:[v], given in Note 2 to entry of "{{17-31-018, meteorological optical range}}", Koschmieder's law can be also written as
+      Taking into account the relationship between atmospheric transmissivity, stem:[T], and meteorological optical range, stem:[v], given in Note 2 to entry of "{{concept:cie-2020:17-31-018, meteorological optical range}}", Koschmieder's law can be also written as
 
       stem:[C_d = C_0 ( 0,05^(d // v) )]
     type: intensional
@@ -53,7 +53,7 @@ data:
       luminance of the object and the luminance of the background, and the luminance
       of the background.
     type: intensional
-  - content: This entry was numbered {{cite:845-11-22, 845-11-22}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-22, 845-11-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-629 in CIE S 017:2011.
     type: intensional
@@ -64,7 +64,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-11-22
     type: authoritative
   - origin:
@@ -75,7 +75,7 @@ data:
   - id: 845-11-22
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-11-22
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-22
     type: authoritative
@@ -86,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-020
-id: 9e8f55c4-01e3-59b3-a9ff-f0783bf8cbf1
+id: 62dc3e68-d77d-5191-8405-8e682657ac55

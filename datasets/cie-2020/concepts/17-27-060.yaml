@@ -16,8 +16,9 @@ id: 1e801748-e971-5891-9df0-9a450a922614
 ---
 data:
   definition:
-  - content: "{{17-27-058, LED module}} that carries the control unit of the control
-      gear, and is operated by the separated power supply of the control gear"
+  - content: "{{concept:cie-2020:17-27-058, LED module}} that carries the control
+      unit of the control gear, and is operated by the separated power supply of the
+      control gear"
     type: intensional
   examples: []
   notes: []
@@ -36,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-060
-id: 1fa10f2c-0dcd-508c-89ea-c2d12b63cd80
+id: 1c8e33a0-ec02-5a82-8635-9de23d7265bf
