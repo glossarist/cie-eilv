@@ -1,0 +1,42 @@
+data:
+  identifier: 17-1397
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-062
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162528/http://eilv.cie.co.at/term/1397
+  type: authoritative
+status: valid
+id: ed93c13c-b1a0-52c3-9b84-e37033df9b4f
+---
+data:
+  definition:
+  - content: illuminance on a vertical plane
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vertical illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,v; Ev
+  language_code: eng
+  annotations: []
+termid: 17-1397
+id: e800d0d6-7bb3-53c3-9f37-7d82790a7c08
