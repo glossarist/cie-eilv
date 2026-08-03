@@ -27,7 +27,7 @@ data:
   examples: []
   notes:
   - content: The wavelength range for the retinal thermal hazard spectral weighting
-      function is the "{{17-26-048, retinal hazard spectral region}}".
+      function is the "{{concept:cie-2020:17-26-048, retinal hazard spectral region}}".
     type: intensional
   - content: This entry was numbered 17-1100 in CIE S 017:2011.
     type: intensional

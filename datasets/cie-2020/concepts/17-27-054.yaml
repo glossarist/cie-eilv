@@ -20,9 +20,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: An LED lamp can be an {{17-27-055, integrated LED lamp}} (LEDi lamp),
-      or a {{17-27-056, semi-integrated LED lamp}} (LEDsi lamp), or a {{17-27-057,
-      non-integrated LED lamp}} (LEDni lamp).
+  - content: An LED lamp can be an {{concept:cie-2020:17-27-055, integrated LED lamp}}
+      (LEDi lamp), or a {{concept:cie-2020:17-27-056, semi-integrated LED lamp}} (LEDsi
+      lamp), or a {{concept:cie-2020:17-27-057, non-integrated LED lamp}} (LEDni lamp).
     type: intensional
   - content: LED lamps can incorporate at least one LED module.
     type: intensional
@@ -38,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-054
-id: 6d6bd8d9-520c-5058-a62c-3cf65e270319
+id: 1ed3738d-234c-5dda-bf5d-fd709ee21b92

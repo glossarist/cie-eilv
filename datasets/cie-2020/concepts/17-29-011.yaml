@@ -19,7 +19,7 @@ sources:
 - id: 845-09-11
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-11
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-11
   type: authoritative
@@ -28,13 +28,13 @@ id: 9a82b81e-93a2-5084-865f-3f7d6ae31051
 ---
 data:
   definition:
-  - content: that part of emergency lighting that provides {{17-29-001, lighting}}
-      of escape routes, open areas and high-risk areas when normal lighting fails,
-      as well as guidance markings whenever the escape routes are occupied
+  - content: that part of emergency lighting that provides {{concept:cie-2020:17-29-001,
+      lighting}} of escape routes, open areas and high-risk areas when normal lighting
+      fails, as well as guidance markings whenever the escape routes are occupied
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-09-11, 845-09-11}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-11, 845-09-11}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-406 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-11
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-09-11
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-11
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-11
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-011
-id: 9d0348fe-c589-5171-abf0-70bdc9191086
+id: 8d143a41-0ca7-5ab4-a69f-a2bc5d829ffc

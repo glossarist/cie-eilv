@@ -23,7 +23,7 @@ sources:
 - id: 113-01-10
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-10
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
   type: authoritative
@@ -33,7 +33,7 @@ id: 4013f6e3-42d6-56bc-a2aa-e040e90aca8f
 data:
   definition:
   - content: quotient of the light reflected by the surfaces of a room after a certain
-      {{cite:113-01-10, time interval}} and light reflected when the installation
+      {{cite:IEV:113-01-10, time interval}} and light reflected when the installation
       is considered conventionally as new
     type: intensional
   examples: []
@@ -59,7 +59,7 @@ data:
   - id: 113-01-10
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-10
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-150
-id: 1650d671-a363-5c4d-af10-b9ce38d5ea65
+id: 32a5ee72-670a-5b74-9390-d6b487aad1c6

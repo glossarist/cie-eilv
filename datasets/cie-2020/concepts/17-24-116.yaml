@@ -21,8 +21,8 @@ id: bc373961-cf88-5ce8-980e-bbade851d024
 ---
 data:
   definition:
-  - content: filter that alters the {{17-21-030, relative spectral distribution}}
-      of the radiation
+  - content: filter that alters the {{concept:cie-2020:17-21-030, relative spectral
+      distribution}} of the radiation
     type: intensional
   examples: []
   notes:

@@ -31,8 +31,8 @@ data:
   examples: []
   notes:
   - content: |-
-      Light that reaches the {{17-25-035, detector}} from directions other than the desired path from the {{17-21-032, source}} to the {{17-25-035, detector}}, e.g. light scattered from walls, ceilings or optical components within the measuring system.
-      Light that reaches the {{17-25-035, detector}} which is at a {{17-21-025, wavelength}} other than the {{17-21-025, wavelength}} intended to be measured.
+      Light that reaches the {{concept:cie-2020:17-25-035, detector}} from directions other than the desired path from the {{concept:cie-2020:17-21-032, source}} to the {{concept:cie-2020:17-25-035, detector}}, e.g. light scattered from walls, ceilings or optical components within the measuring system.
+      Light that reaches the {{concept:cie-2020:17-25-035, detector}} which is at a {{concept:cie-2020:17-21-025, wavelength}} other than the {{concept:cie-2020:17-21-025, wavelength}} intended to be measured.
     type: intensional
   - content: This entry was numbered 17-1273 in CIE S 017:2011.
     type: intensional

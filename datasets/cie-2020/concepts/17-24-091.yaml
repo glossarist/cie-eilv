@@ -23,7 +23,7 @@ sources:
 - id: 845-04-84
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-84
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-84
   type: authoritative
@@ -41,7 +41,7 @@ data:
   notes:
   - content: The Napierian spectral absorbance has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-84, 845-04-84}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-84, 845-04-84}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-798 and 17-800 in CIE S 017:2011.
     type: intensional
@@ -52,7 +52,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-84
     type: authoritative
   - origin:
@@ -63,7 +63,7 @@ data:
   - id: 845-04-84
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-84
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-84
     type: authoritative
@@ -78,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-091
-id: 46c6c475-aa33-5ee2-b77e-91b43774014b
+id: 9fe758fd-1ba2-5a5e-b882-e05390da310f

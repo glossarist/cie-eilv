@@ -23,7 +23,7 @@ sources:
 - id: 845-09-51
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-51
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-51
   type: authoritative
@@ -39,7 +39,7 @@ data:
   notes:
   - content: The utilization factor has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-51, 845-09-51}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-51, 845-09-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1383 and 17-183 in CIE S 017:2011.
     type: intensional
@@ -50,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-51
     type: authoritative
   - origin:
@@ -61,7 +61,7 @@ data:
   - id: 845-09-51
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-51
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-069
-id: 69c4a4b5-f9e6-5adb-a8ed-601524da3b3f
+id: 544b328e-e18f-5a59-8e86-f6161ed3d061

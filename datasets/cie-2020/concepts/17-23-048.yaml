@@ -21,8 +21,8 @@ id: 91d5c86b-3ca0-5618-baa3-c7a0a9f3e98a
 ---
 data:
   definition:
-  - content: standard colorimetric observer defined by the {{17-23-047, CIE colour-matching
-      functions}}
+  - content: standard colorimetric observer defined by the {{concept:cie-2020:17-23-047,
+      CIE colour-matching functions}}
     type: intensional
   examples: []
   notes:

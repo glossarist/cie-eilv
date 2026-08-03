@@ -19,7 +19,7 @@ sources:
 - id: 845-07-46
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-46
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-46
   type: authoritative
@@ -28,14 +28,14 @@ id: 2c881f33-9477-5c7a-b367-4aace7437e36
 ---
 data:
   definition:
-  - content: electric lamp designed to emit {{17-21-009, UV-A}} radiation and very
-      little {{17-21-003, visible radiation}}
+  - content: electric lamp designed to emit {{concept:cie-2020:17-21-009, UV-A}} radiation
+      and very little {{concept:cie-2020:17-21-003, visible radiation}}
     type: intensional
   examples: []
   notes:
   - content: A black light lamp is generally mercury discharge or fluorescent.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-46, 845-07-46}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-46, 845-07-46}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-92 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-46
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-07-46
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-46
     type: authoritative
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-085
-id: 5b52942b-1545-5144-8524-6382e2671aa3
+id: 5641ef0f-e594-527f-80d9-e205af079b48

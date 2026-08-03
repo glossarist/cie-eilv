@@ -19,7 +19,7 @@ sources:
 - id: 845-07-52
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-52
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-52
   type: authoritative
@@ -29,14 +29,15 @@ id: 1e7cc9da-8acc-5477-bb74-a29f9eed59d3
 data:
   definition:
   - content: electric lamp that radiates especially strongly in the ultraviolet, the
-      {{17-21-003, visible radiation}} produced, if any, not being of direct interest
+      {{concept:cie-2020:17-21-003, visible radiation}} produced, if any, not being
+      of direct interest
     type: intensional
   examples: []
   notes:
   - content: There are several types of ultraviolet lamp used for photobiological,
       photochemical and biomedical purposes.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-52, 845-07-52}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-52, 845-07-52}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1364 in CIE S 017:2011.
     type: intensional
@@ -47,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-52
     type: authoritative
   - origin:
@@ -58,7 +59,7 @@ data:
   - id: 845-07-52
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-52
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-52
     type: authoritative
@@ -69,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-091
-id: f20094f7-7d29-5ba9-b07b-419132e16e67
+id: dde68b79-6f4d-5556-82b9-3fa7e4148f7f

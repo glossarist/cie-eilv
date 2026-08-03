@@ -19,7 +19,7 @@ sources:
 - id: 845-02-38
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-38
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-38
   type: authoritative
@@ -28,12 +28,12 @@ id: 93f34315-c7a2-53ea-8bab-371236473393
 ---
 data:
   definition:
-  - content: change in {{17-22-067, hue}} produced by decreasing the purity of a colour
-      stimulus while keeping its dominant wavelength constant
+  - content: change in {{concept:cie-2020:17-22-067, hue}} produced by decreasing
+      the purity of a colour stimulus while keeping its dominant wavelength constant
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-02-38, 845-02-38}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-38, 845-02-38}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-38
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-02-38
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-38
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-38
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-070
-id: dbfc0d01-3f3e-52b5-be35-69b049be1d16
+id: b7eeda7d-47fc-5e8d-84f8-936a84b3d580

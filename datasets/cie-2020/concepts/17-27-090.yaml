@@ -19,7 +19,7 @@ sources:
 - id: 845-07-51
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-51
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-51
   type: authoritative
@@ -29,11 +29,12 @@ id: 27903aec-c7c0-513e-ace9-4a62efc7fbf1
 data:
   definition:
   - content: electric lamp that radiates especially strongly in the infrared, the
-      {{17-21-003, visible radiation}} produced, if any, not being of direct interest
+      {{concept:cie-2020:17-21-003, visible radiation}} produced, if any, not being
+      of direct interest
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-07-51, 845-07-51}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-51, 845-07-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-579 in CIE S 017:2011.
     type: intensional
@@ -44,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-51
     type: authoritative
   - origin:
@@ -55,7 +56,7 @@ data:
   - id: 845-07-51
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-51
     type: authoritative
@@ -66,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-090
-id: ef5faaab-296d-56b7-92e6-f08c8b0ca18b
+id: 37a56eee-119e-527e-b680-caa579df9924

@@ -21,9 +21,9 @@ data:
   examples: []
   notes:
   - content: For products that have the same physical characteristics as electric
-      lamps for general lighting, but that are built to emit {{17-21-002, optical
-      radiation}} mainly in the IR or UV spectrum, the term "IR lamp" or "UV lamp"
-      is often used.
+      lamps for general lighting, but that are built to emit {{concept:cie-2020:17-21-002,
+      optical radiation}} mainly in the IR or UV spectrum, the term "IR lamp" or "UV
+      lamp" is often used.
     type: intensional
   - content: In IEC standards, "lamp" is commonly used with the same meaning.
     type: intensional
@@ -39,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-008
-id: 486acc4f-d8fc-5b2a-b607-1e6fbed683e3
+id: 902ef361-bbfb-5649-a213-178917d4acea

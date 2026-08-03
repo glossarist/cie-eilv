@@ -19,7 +19,7 @@ sources:
 - id: 845-05-50
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-50
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-50
   type: authoritative
@@ -28,12 +28,12 @@ id: '082d664f-056d-5966-81d5-ff3eca1a6a42'
 ---
 data:
   definition:
-  - content: radiometric or photometric quantity to which a detector of {{17-21-002,
+  - content: radiometric or photometric quantity to which a detector of {{concept:cie-2020:17-21-002,
       optical radiation}} is responding
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-50, 845-05-50}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-50, 845-05-50}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-584 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-50
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-05-50
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-50
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-50
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-057
-id: 20757a25-7c1d-5ee7-80dd-d38e146ad16a
+id: 0b806b9f-6a7d-5e2c-b962-7fd5c3ed592a

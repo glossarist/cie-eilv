@@ -19,7 +19,7 @@ sources:
 - id: 845-06-15
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-15
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-15
   type: authoritative
@@ -29,13 +29,13 @@ id: 90bd9382-1735-555b-97c7-e0c946960290
 data:
   definition:
   - content: reddening of the skin caused by the actinic effect of solar radiation
-      or artificial {{17-21-002, optical radiation}}
+      or artificial {{concept:cie-2020:17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
   - content: Non-actinic erythema can be caused by various chemical or physical agents.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-15, 845-06-15}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-15, 845-06-15}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-399 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-15
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-06-15
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-15
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-15
     type: authoritative
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-028
-id: 065e9faa-a532-564a-babc-238501905701
+id: 9516bd13-49b6-534b-a30f-7e03d796be15

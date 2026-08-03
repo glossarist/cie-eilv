@@ -27,7 +27,7 @@ sources:
 - id: 845-11-70
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-11-70
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-70
   type: authoritative
@@ -44,7 +44,7 @@ data:
   - content: The headlights as defined in "main-beam headlight" and "dipped-beam headlight"
       can be provided by a single lighting device.
     type: intensional
-  - content: This entry was numbered {{cite:845-11-70, 845-11-70}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-70, 845-11-70}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-527, 17-525, and 17-524 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-11-70
     type: authoritative
   - origin:
@@ -66,7 +66,7 @@ data:
   - id: 845-11-70
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-11-70
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-70
     type: authoritative
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-066
-id: 96d98ad6-8751-5a3a-acca-1cd27f70f457
+id: c9ecfcba-2dae-5622-83e8-7024528023ca

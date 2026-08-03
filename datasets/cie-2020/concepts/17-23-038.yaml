@@ -19,7 +19,7 @@ sources:
 - id: 845-03-22
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-22
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-22
   type: authoritative
@@ -38,7 +38,7 @@ data:
       stem:[Y], stem:[Z]; stem:[R_(10)], stem:[G_(10)], stem:[B_(10)] or stem:[X_(10)],
       stem:[Y_(10)], stem:[Z_(10)].
     type: intensional
-  - content: This entry was numbered {{cite:845-03-22, 845-03-22}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-22, 845-03-22}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1345 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-22
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-03-22
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-22
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-22
     type: authoritative
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-038
-id: 9c7be167-4f24-5a30-bd5f-86a6e0743735
+id: 0af95a2c-c9ec-5566-9eef-52dbc95e970b

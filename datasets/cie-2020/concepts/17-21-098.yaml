@@ -25,7 +25,8 @@ id: 46fd3923-b15e-5bf3-a015-b01f47b42055
 ---
 data:
   definition:
-  - content: "{{17-21-033, point source}} which emits uniformly in all directions"
+  - content: "{{concept:cie-2020:17-21-033, point source}} which emits uniformly in
+      all directions"
     type: intensional
   examples: []
   notes:

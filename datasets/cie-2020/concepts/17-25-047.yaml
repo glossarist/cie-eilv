@@ -19,7 +19,7 @@ sources:
 - id: 845-05-42
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-42
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-42
   type: authoritative
@@ -28,18 +28,18 @@ id: d73232fa-2292-500b-8ef1-934fc4805873
 ---
 data:
   definition:
-  - content: detector of {{17-21-002, optical radiation}} whose quantum efficiency
-      is independent of wavelength over the spectral range considered
+  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} whose quantum
+      efficiency is independent of wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
-  - content: Quantum efficiency can refer to {{17-25-074, external quantum efficiency}}
-      or {{17-25-076, internal quantum efficiency}}. If not explicitly stated, external
-      quantum efficiency is assumed.
+  - content: Quantum efficiency can refer to {{concept:cie-2020:17-25-074, external
+      quantum efficiency}} or {{concept:cie-2020:17-25-076, internal quantum efficiency}}.
+      If not explicitly stated, external quantum efficiency is assumed.
     type: intensional
-  - content: See also "{{17-25-109, quantum counter}}".
+  - content: See also "{{concept:cie-2020:17-25-109, quantum counter}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-05-42, 845-05-42}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-42, 845-05-42}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-822 in CIE S 017:2011.
     type: intensional
@@ -50,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-42
     type: authoritative
   - origin:
@@ -61,7 +61,7 @@ data:
   - id: 845-05-42
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-42
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-42
     type: authoritative
@@ -75,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-047
-id: 752e0fd6-c706-56ff-9a17-fd4ea4386833
+id: 72dcb395-7263-54ec-bbc1-b463ef3644d5

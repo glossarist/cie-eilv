@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-05-19
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-19
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-19
   type: authoritative
@@ -37,13 +37,14 @@ data:
   definition:
   - content: visual photometer in which the observer sees either an undivided field
       illuminated successively, or two adjacent fields illuminated alternately, by
-      two sources to be compared, the {{cite:103-06-02, frequency}} of alteration
-      being conveniently chosen so that it is above the {{17-22-093, critical flicker
-      frequency}} for colours but below the fusion frequency for brightness
+      two sources to be compared, the {{cite:IEV:103-06-02, frequency}} of alteration
+      being conveniently chosen so that it is above the {{concept:cie-2020:17-22-093,
+      critical flicker frequency}} for colours but below the fusion frequency for
+      brightness
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-19, 845-05-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-19, 845-05-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-445 in CIE S 017:2011.
     type: intensional
@@ -54,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-19
     type: authoritative
   - origin:
@@ -65,14 +66,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-05-19
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-19
     type: authoritative
@@ -83,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-023
-id: ead04d16-58b6-59bc-97c4-9f17971e852d
+id: 5d7e94a5-ca48-511e-ac8d-95b238f7afcf

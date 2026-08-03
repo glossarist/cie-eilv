@@ -23,7 +23,8 @@ data:
   definition:
   - content: programme according to which the maintenance operations of luminaire
       cleaning, room surface cleaning and lamp replacement are scheduled to be carried
-      out when the illuminance decreases to the {{17-29-145, maintained lighting value}}
+      out when the illuminance decreases to the {{concept:cie-2020:17-29-145, maintained
+      lighting value}}
     type: intensional
   examples: []
   notes:

@@ -19,7 +19,7 @@ sources:
 - id: 845-09-71
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-71
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-71
   type: authoritative
@@ -29,7 +29,7 @@ id: f716b76f-6d57-5f41-bf61-a8c8e4809ab7
 data:
   definition:
   - content: |-
-      quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the {{17-21-080, radiant exitance}} or {{17-21-081, luminous exitance}} stem:[M_1] (or stem:[M_2])
+      quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the {{concept:cie-2020:17-21-080, radiant exitance}} or {{concept:cie-2020:17-21-081, luminous exitance}} stem:[M_1] (or stem:[M_2])
 
       stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]
     type: intensional
@@ -56,7 +56,7 @@ data:
     type: intensional
   - content: The mutual exchange coefficient is expressed in square metre (m^2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-09-71, 845-09-71}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-71, 845-09-71}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-797 in CIE S 017:2011.
     type: intensional
@@ -67,7 +67,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-71
     type: authoritative
   - origin:
@@ -78,7 +78,7 @@ data:
   - id: 845-09-71
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-71
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-71
     type: authoritative
@@ -93,4 +93,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-092
-id: ab84cac1-56d6-5299-a7d0-2a4f34cacbe4
+id: bd285f6c-809f-55d0-9612-cbf1ae36ecca

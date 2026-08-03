@@ -23,7 +23,7 @@ sources:
 - id: 845-07-34
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-34
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-34
   type: authoritative
@@ -39,7 +39,7 @@ data:
   notes:
   - content: Certain mercury vapour lamps and xenon lamps are types of short-arc lamp.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-34, 845-07-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-34, 845-07-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1174 and 17-238 in CIE S 017:2011.
     type: intensional
@@ -50,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-34
     type: authoritative
   - origin:
@@ -61,7 +61,7 @@ data:
   - id: 845-07-34
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-34
     type: authoritative
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-045
-id: b6dc80b5-947c-5a63-af1d-8176434577d9
+id: 5637293a-7c31-5f5b-a1ff-dcda45bbf4b4

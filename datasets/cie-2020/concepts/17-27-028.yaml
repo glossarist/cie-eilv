@@ -19,7 +19,7 @@ sources:
 - id: 845-07-20
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-20
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-20
   type: authoritative
@@ -28,19 +28,19 @@ id: e2fc5659-2f42-580c-998d-f65af9062dfd
 ---
 data:
   definition:
-  - content: "{{17-27-027, high-intensity discharge lamp}} in which the major portion
-      of the light is produced, directly or indirectly, by radiation from mercury
-      operating at a partial pressure in excess of 100 kPa"
+  - content: "{{concept:cie-2020:17-27-027, high-intensity discharge lamp}} in which
+      the major portion of the light is produced, directly or indirectly, by radiation
+      from mercury operating at a partial pressure in excess of 100 kPa"
     type: intensional
   examples: []
   notes:
   - content: The term "high-pressure mercury lamp" includes clear lamps, phosphor-coated
-      (mercury fluorescent) lamps and {{17-27-029, blended lamps}}. In a fluorescent
-      mercury discharge lamp, the light is produced partly by the mercury vapour and
-      partly by a layer of phosphors excited by the {{17-21-008, ultraviolet radiation}}
-      of the discharge.
+      (mercury fluorescent) lamps and {{concept:cie-2020:17-27-029, blended lamps}}.
+      In a fluorescent mercury discharge lamp, the light is produced partly by the
+      mercury vapour and partly by a layer of phosphors excited by the {{concept:cie-2020:17-21-008,
+      ultraviolet radiation}} of the discharge.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-20, 845-07-20}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-20, 845-07-20}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-535 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-20
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-07-20
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-20
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-20
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-028
-id: 0d208e19-b17c-55ff-8df1-23afe7682fb8
+id: 40c3b597-a0cc-5a6a-a377-2952c21a4203

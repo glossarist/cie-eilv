@@ -18,7 +18,7 @@ data:
   definition:
   - content: quotient of the total radiant flux of all wavelengths emitted by the
       fluorescent process for an excitation wavelength and the total radiant excitation
-      power irradiating the {{17-24-041, fluorescent material}}
+      power irradiating the {{concept:cie-2020:17-24-041, fluorescent material}}
     type: intensional
   examples: []
   notes:
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-088
-id: c64c80f6-096d-5054-a913-3550a60891c2
+id: adba99de-27c7-5ba0-bee7-1b07e50e4d8e

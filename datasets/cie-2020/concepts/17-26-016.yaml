@@ -21,8 +21,8 @@ id: 2d9fa1c2-17e6-589b-98c2-d1662ded7668
 ---
 data:
   definition:
-  - content: study of the effects of {{17-21-002, optical radiation}} upon the immune
-      system
+  - content: study of the effects of {{concept:cie-2020:17-21-002, optical radiation}}
+      upon the immune system
     type: intensional
   examples: []
   notes:

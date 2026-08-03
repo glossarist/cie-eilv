@@ -21,10 +21,10 @@ id: c3bf7a83-2e71-5be0-bf7c-3e549d8ff535
 ---
 data:
   definition:
-  - content: detector of {{17-21-002, optical radiation}} which utilizes the interaction
-      between radiation and matter resulting in the absorption of photons with the
-      consequent initiation of an elementary event for each photon absorbed, thereby
-      generating an output proportional to the photon number involved
+  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} which utilizes
+      the interaction between radiation and matter resulting in the absorption of
+      photons with the consequent initiation of an elementary event for each photon
+      absorbed, thereby generating an output proportional to the photon number involved
     type: intensional
   examples: []
   notes:

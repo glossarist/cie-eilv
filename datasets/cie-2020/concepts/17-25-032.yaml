@@ -19,7 +19,7 @@ sources:
 - id: 845-05-28
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-28
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-28
   type: authoritative
@@ -32,7 +32,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-28, 845-05-28}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-28, 845-05-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1022 in CIE S 017:2011.
     type: intensional
@@ -43,7 +43,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-28
     type: authoritative
   - origin:
@@ -54,7 +54,7 @@ data:
   - id: 845-05-28
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-28
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-28
     type: authoritative
@@ -65,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-032
-id: d3fd5db7-6921-5a2f-992b-b3043179d830
+id: c08b8bc9-1a78-5c0f-bb53-3dda7e01da6b

@@ -19,7 +19,7 @@ sources:
 - id: 845-01-31
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-31
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-31
   type: authoritative
@@ -38,7 +38,7 @@ data:
   examples: []
   notes:
   - content: For practical realization of the quantity, the source is approximated
-      by a {{17-21-033, point source}}.
+      by a {{concept:cie-2020:17-21-033, point source}}.
     type: intensional
   - content: |-
       The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
@@ -50,14 +50,14 @@ data:
 
       stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[I_(e,stem:[lambda])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{17-21-035, spectral luminous efficiency}}.
+      where stem:[K_m] is maximum luminous efficacy, stem:[I_(e,stem:[lambda])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant intensity". The corresponding
       quantity for photons is "photon intensity".
     type: intensional
   - content: The luminous intensity is expressed in candela (cd = lm·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-31, 845-01-31}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-31, 845-01-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-739 in CIE S 017:2011.
     type: intensional
@@ -68,7 +68,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-31
     type: authoritative
   - origin:
@@ -79,7 +79,7 @@ data:
   - id: 845-01-31
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-31
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-31
     type: authoritative
@@ -93,4 +93,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-045
-id: 66bd4173-6657-5d05-b7b1-009455b7d45b
+id: 935de96e-fe83-51c3-9262-3bfc96ad7d20

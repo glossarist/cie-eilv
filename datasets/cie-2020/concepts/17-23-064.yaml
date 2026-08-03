@@ -19,7 +19,7 @@ sources:
 - id: 845-03-46
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-46
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-46
   type: authoritative
@@ -37,10 +37,10 @@ data:
   - content: In the case of purple stimuli, the monochromatic stimulus is replaced
       by a stimulus whose chromaticity is represented by a point on the purple boundary.
     type: intensional
-  - content: The proportions can be measured in various ways (see "{{17-23-065, colorimetric
-      purity}}" and "{{17-23-065, excitation purity}}").
+  - content: The proportions can be measured in various ways (see "{{concept:cie-2020:17-23-065,
+      colorimetric purity}}" and "{{concept:cie-2020:17-23-065, excitation purity}}").
     type: intensional
-  - content: This entry was numbered {{cite:845-03-46, 845-03-46}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-46, 845-03-46}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1002 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-46
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-03-46
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-46
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-064
-id: 409ea524-687b-5b7c-8a56-6adc44b1ee16
+id: e9479cde-e24a-57cb-bc06-a8a8db746a2c

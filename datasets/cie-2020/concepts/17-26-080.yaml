@@ -22,8 +22,9 @@ id: 826ef073-231d-577d-807a-fea1fd504ede
 data:
   definition:
   - content: process whereby 7‑dehydrocholesterol, precursor of vitamin D3, produces
-      previtamin D3 by absorbing 240 nm to 315 nm {{17-21-008, ultraviolet radiation}}
-      and moreover changes it to vitamin D3 through a thermal isomerization process
+      previtamin D3 by absorbing 240 nm to 315 nm {{concept:cie-2020:17-21-008, ultraviolet
+      radiation}} and moreover changes it to vitamin D3 through a thermal isomerization
+      process
     type: intensional
   examples: []
   notes:

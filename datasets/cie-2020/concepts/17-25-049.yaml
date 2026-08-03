@@ -19,7 +19,7 @@ sources:
 - id: 845-05-44
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-44
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-44
   type: authoritative
@@ -28,12 +28,13 @@ id: 8838ae2f-47f1-5cc3-91f0-add58a19efbe
 ---
 data:
   definition:
-  - content: detector of {{17-21-002, optical radiation}} in which a measurable physical
-      effect is produced by the heating of the part that absorbs radiation
+  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} in which
+      a measurable physical effect is produced by the heating of the part that absorbs
+      radiation
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-44, 845-05-44}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-44, 845-05-44}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1303 in CIE S 017:2011.
     type: intensional
@@ -44,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-44
     type: authoritative
   - origin:
@@ -55,7 +56,7 @@ data:
   - id: 845-05-44
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-44
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-44
     type: authoritative
@@ -70,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-049
-id: a89a1029-5917-5be8-8015-13f2a367192f
+id: a967fa7b-3176-531c-83ff-d85af32d7309

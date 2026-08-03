@@ -23,7 +23,7 @@ sources:
 - id: 113-01-10
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-10
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
   type: authoritative
@@ -33,8 +33,8 @@ id: e378aa60-41c9-538b-bf96-59fe484cef18
 data:
   definition:
   - content: quotient of illuminance produced by the lighting installation after a
-      certain {{cite:113-01-10, time interval}} and the illuminance produced by the
-      installation when new
+      certain {{cite:IEV:113-01-10, time interval}} and the illuminance produced by
+      the installation when new
     type: intensional
   examples: []
   notes:
@@ -66,7 +66,7 @@ data:
   - id: 113-01-10
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-10
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
     type: authoritative
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-146
-id: 85126003-0621-5825-8649-9764327e74de
+id: 2367805a-e40f-5c76-bdd4-2c48570ea0c0

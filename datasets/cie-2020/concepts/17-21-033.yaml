@@ -19,7 +19,7 @@ sources:
 - id: 845-01-19
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-19
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-19
   type: authoritative
@@ -34,10 +34,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A point source which emits uniformly in all directions is called a {{17-21-098,
+  - content: A point source which emits uniformly in all directions is called a {{concept:cie-2020:17-21-098,
       uniform point source}} or an isotropic point source.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-19, 845-01-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-19, 845-01-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-964 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-19
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-01-19
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-19
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-033
-id: 8b94a443-0061-546a-bfe2-f8c998ef2e72
+id: 7728522a-4ad6-56bb-9443-3941570db4c0

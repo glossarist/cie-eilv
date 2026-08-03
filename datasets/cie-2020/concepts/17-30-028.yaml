@@ -23,7 +23,7 @@ sources:
 - id: 845-10-23
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-10-23
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-23
   type: authoritative
@@ -40,7 +40,7 @@ data:
   - content: Examples of the integral electric source are a dry battery, an accumulator,
       and a manual generator.
     type: intensional
-  - content: This entry was numbered {{cite:845-10-23, 845-10-23}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-10-23, 845-10-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1320 and 17-442 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-10-23
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-10-23
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-10-23
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-23
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-028
-id: 6c09b59c-ad1d-5e82-ace9-c24785b222ef
+id: 808929fc-0fc8-503a-b3f9-e515f499a982

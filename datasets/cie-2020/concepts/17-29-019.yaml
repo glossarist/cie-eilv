@@ -19,7 +19,7 @@ sources:
 - id: 845-09-19
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-19
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-19
   type: authoritative
@@ -28,12 +28,12 @@ id: 22bad5e8-8327-5062-aabf-97c891af3a04
 ---
 data:
   definition:
-  - content: "{{17-29-001, lighting}} in which the light on the working plane or on
-      an object is incident predominantly from a particular direction"
+  - content: "{{concept:cie-2020:17-29-001, lighting}} in which the light on the working
+      plane or on an object is incident predominantly from a particular direction"
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-09-19, 845-09-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-19, 845-09-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-329 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-19
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-09-19
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-19
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-019
-id: 6c8160c3-7c18-50a1-a933-fcd2d75cca1d
+id: cc199494-1a3d-562e-8dfd-d7fc2b5158e2

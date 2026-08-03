@@ -19,7 +19,7 @@ sources:
 - id: 845-10-01
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-10-01
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-01
   type: authoritative
@@ -29,14 +29,15 @@ id: 27a8e6be-e1f9-576d-89e3-b85d91092bfe
 data:
   definition:
   - content: apparatus which distributes, filters or transforms the light transmitted
-      from at least one source of {{17-21-002, optical radiation}} and which includes,
-      except the sources themselves, all the parts necessary for fixing and protecting
-      the {{17-21-032, sources}} and, where necessary, circuit auxiliaries together
-      with the means for connecting them to the power supply
+      from at least one source of {{concept:cie-2020:17-21-002, optical radiation}}
+      and which includes, except the sources themselves, all the parts necessary for
+      fixing and protecting the {{concept:cie-2020:17-21-032, sources}} and, where
+      necessary, circuit auxiliaries together with the means for connecting them to
+      the power supply
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-10-01, 845-10-01}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-10-01, 845-10-01}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-707 in CIE S 017:2011.
     type: intensional
@@ -47,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-10-01
     type: authoritative
   - origin:
@@ -58,7 +59,7 @@ data:
   - id: 845-10-01
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-10-01
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-01
     type: authoritative
@@ -69,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-001
-id: d22456ba-ff58-5511-a246-a4c996afd870
+id: 1202d439-c688-58ea-ae42-2c8e0773cb58

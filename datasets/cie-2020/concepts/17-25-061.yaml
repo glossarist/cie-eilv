@@ -23,7 +23,7 @@ sources:
 - id: 845-05-54
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-54
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-54
   type: authoritative
@@ -45,7 +45,7 @@ data:
     type: intensional
   - content: The term "sensitivity" is no longer used.
     type: intensional
-  - content: This entry was numbered {{cite:845-05-54, 845-05-54}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-54, 845-05-54}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1094 and 17-1163 in CIE S 017:2011.
     type: intensional
@@ -56,7 +56,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-54
     type: authoritative
   - origin:
@@ -67,7 +67,7 @@ data:
   - id: 845-05-54
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-54
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-54
     type: authoritative
@@ -82,4 +82,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-061
-id: c7c3d019-db0c-527c-b3ba-842fef7a5d88
+id: 99a102e1-0266-507a-b46a-4f442f33ef0b

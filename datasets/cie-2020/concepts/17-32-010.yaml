@@ -22,13 +22,13 @@ id: 29f736a5-d231-5a33-8f06-8dc25d3cb278
 data:
   definition:
   - content: defined and documented original-referred colour image data representing
-      the colorimetric coordinates of the colour elements of a two-dimensional {{17-32-045,
+      the colorimetric coordinates of the colour elements of a two-dimensional {{concept:cie-2020:17-32-045,
       hardcopy}} produced by scanning artwork, photographic transparencies or prints,
       or photomechanical or other reproductions
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-32-051, original-referred image state}}".
+  - content: See also "{{concept:cie-2020:17-32-051, original-referred image state}}".
     type: intensional
   - content: This entry was numbered 17-214 in CIE S 017:2011.
     type: intensional

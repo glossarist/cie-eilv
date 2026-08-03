@@ -23,7 +23,7 @@ sources:
 - id: 845-06-24
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-24
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-24
   type: authoritative
@@ -39,18 +39,18 @@ data:
   examples: []
   notes:
   - content: 'The minimal erythema dose is a subjective measure based on the reddening
-      of the skin; it depends on many variables, e.g. individual sensitivity to {{17-21-008,
+      of the skin; it depends on many variables, e.g. individual sensitivity to {{concept:cie-2020:17-21-008,
       ultraviolet radiation}}, radiometric characteristics of the source, skin pigmentation,
       anatomic site, elapsed time between irradiation and observation of the reddening
       (typical value: 24 h). Since the minimal erythema dose varies with each individual,
       the use of this quantity should be reserved solely for observational studies
       in humans and other animals.'
     type: intensional
-  - content: See also "{{17-26-069, standard erythema dose}}".
+  - content: See also "{{concept:cie-2020:17-26-069, standard erythema dose}}".
     type: intensional
   - content: The minimal erythema dose is expressed in joule per square metre (J·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-06-24, 845-06-24}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-24, 845-06-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-782 and 17-759 in CIE S 017:2011.
     type: intensional
@@ -61,7 +61,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-24
     type: authoritative
   - origin:
@@ -72,7 +72,7 @@ data:
   - id: 845-06-24
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-24
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-24
     type: authoritative
@@ -86,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-068
-id: 48e04046-c336-5b99-985e-3a2c36d5fda9
+id: 259ca2fe-29a5-5bdf-99b7-0baaf347ad66

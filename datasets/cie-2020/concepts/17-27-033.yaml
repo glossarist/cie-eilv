@@ -19,7 +19,7 @@ sources:
 - id: 845-07-25
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-25
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-25
   type: authoritative
@@ -36,7 +36,7 @@ data:
   notes:
   - content: The term "metal halide lamp" includes clear and coated electric lamps.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-25, 845-07-25}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-25, 845-07-25}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-765 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-25
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-07-25
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-25
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-25
     type: authoritative
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-033
-id: 55c7ca9b-5eb2-561e-9b67-1b98dc4fc9a0
+id: 455e9c92-34ea-5c55-9fc5-7ab0b303d1e2

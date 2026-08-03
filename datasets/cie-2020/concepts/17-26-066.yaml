@@ -40,8 +40,8 @@ data:
   - content: It is essential to specify which action spectrum is used, as the unit
       is the same for any action spectrum.
     type: intensional
-  - content: See also "{{17-26-068, minimal erythema dose}}", "{{17-26-069, standard
-      erythema dose}}".
+  - content: See also "{{concept:cie-2020:17-26-068, minimal erythema dose}}", "{{concept:cie-2020:17-26-069,
+      standard erythema dose}}".
     type: intensional
   - content: The erythemal dose is expressed in joule per square metre (J·m^−2^).
     type: intensional

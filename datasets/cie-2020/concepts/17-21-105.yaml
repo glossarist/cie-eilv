@@ -28,8 +28,8 @@ data:
   examples: []
   notes:
   - content: The reflected luminance factor for a spectrally non-neutral surface depends
-      upon the {{17-21-030, relative spectral distribution}} of the illumination.
-      This quantity has to be specified.
+      upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the
+      illumination. This quantity has to be specified.
     type: intensional
   - content: The reflected luminance factor has unit one.
     type: intensional

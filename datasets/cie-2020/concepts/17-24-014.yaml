@@ -21,9 +21,9 @@ id: 8cc7ca1d-0eb4-5bb7-b9ce-52762b751a88
 ---
 data:
   definition:
-  - content: optical device that modifies a beam of {{17-21-002, optical radiation}}
-      to produce a beam with a unique state of polarization irrespective of the state
-      of polarization of the incident radiation
+  - content: optical device that modifies a beam of {{concept:cie-2020:17-21-002,
+      optical radiation}} to produce a beam with a unique state of polarization irrespective
+      of the state of polarization of the incident radiation
     type: intensional
   examples: []
   notes:

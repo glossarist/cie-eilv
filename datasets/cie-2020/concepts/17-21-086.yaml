@@ -19,7 +19,7 @@ sources:
 - id: 845-01-53
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-53
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-53
   type: authoritative
@@ -38,7 +38,7 @@ data:
       metric: lambert (symbol: L), stem:[1 L = ((1 0^4))/(pi) cd * m^(- 2)];\n* non-metric:
       footlambert (symbol: fL), 1 fL = 3,426 cd·m^−2^.\r\n\r\n"
     type: intensional
-  - content: This entry was numbered {{cite:845-01-53, 845-01-53}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-53, 845-01-53}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-118 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-53
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-01-53
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-53
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-53
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-086
-id: e71c042d-57e2-54c1-8fec-c8f1ff209d33
+id: 8d89fbde-648a-596a-9dfe-02424abb6c51

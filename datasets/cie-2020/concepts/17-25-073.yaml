@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-05-66
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-66
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-66
   type: authoritative
@@ -45,7 +45,7 @@ data:
   examples: []
   notes:
   - content: The concept "normalized detectivity" is realistic only if the responsivity
-      and noise output of the detector are {{cite:103-06-02, frequency}} independent
+      and noise output of the detector are {{cite:IEV:103-06-02, frequency}} independent
       throughout the frequency range under consideration and if the noise equivalent
       input varies as the square root of the detector area; this is not always the
       case.
@@ -53,7 +53,7 @@ data:
   - content: The normalized detectivity is expressed in metre hertz to the power one
       half per watt (m·Hz^1/2^·W^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-05-66, 845-05-66}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-66, 845-05-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-827 in CIE S 017:2011.
     type: intensional
@@ -64,7 +64,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-66
     type: authoritative
   - origin:
@@ -75,14 +75,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-05-66
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-66
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-66
     type: authoritative
@@ -97,4 +97,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-073
-id: edb6d94a-d3c8-5a85-80dd-11df44ab645c
+id: 43e4ac8a-5efa-5b7f-9d9d-e63330b25ad0

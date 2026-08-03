@@ -23,7 +23,7 @@ sources:
 - id: 845-02-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-04
   type: authoritative
@@ -38,9 +38,9 @@ data:
   notes:
   - content: The location includes the fovea and appears yellow in colour.
     type: intensional
-  - content: See also "{{17-22-006, fovea}}".
+  - content: See also "{{concept:cie-2020:17-22-006, fovea}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-02-04, 845-02-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-04, 845-02-04}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-747 and 17-1446 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-04
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-02-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-04
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-004
-id: 7a588756-b05d-52c4-ab17-f601681cc5a8
+id: ead232b5-5396-5790-80b8-c3d6b40d1404

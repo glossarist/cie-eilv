@@ -19,7 +19,7 @@ sources:
 - id: 845-05-47
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-47
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-47
   type: authoritative
@@ -28,13 +28,13 @@ id: aebf1d9b-a8c1-5729-b27e-257a1dc928c2
 ---
 data:
   definition:
-  - content: thermal detector of {{17-21-002, optical radiation}} in which the electromotive
-      force produced in several thermoelectric junctions is used to measure the heating
-      effect produced by the absorbed radiation
+  - content: thermal detector of {{concept:cie-2020:17-21-002, optical radiation}}
+      in which the electromotive force produced in several thermoelectric junctions
+      is used to measure the heating effect produced by the absorbed radiation
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-47, 845-05-47}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-47, 845-05-47}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1311 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-47
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-05-47
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-47
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-47
     type: authoritative
@@ -68,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-054
-id: c00120d8-9ab2-5a7d-85b0-a0c0865ee15c
+id: 2f7cfe55-4082-5cdc-83dc-e1cd4eea477f

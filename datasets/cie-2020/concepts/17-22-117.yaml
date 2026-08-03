@@ -19,7 +19,7 @@ sources:
 - id: 845-02-69
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-69
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-69
   type: authoritative
@@ -28,12 +28,12 @@ id: 36167fdb-3042-5db7-b289-9b9d908f0b2f
 ---
 data:
   definition:
-  - content: combined {{17-22-115, illuminant colour shift}} and {{17-22-116, adaptive
-      colour shift}}
+  - content: combined {{concept:cie-2020:17-22-115, illuminant colour shift}} and
+      {{concept:cie-2020:17-22-116, adaptive colour shift}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-02-69, 845-02-69}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-69, 845-02-69}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1096 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-69
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-02-69
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-69
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-69
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-117
-id: 1a7e5112-d4d7-548b-9895-8a91c6caafd7
+id: 5203c747-0f5d-5c1c-95a4-6b43b586fd71

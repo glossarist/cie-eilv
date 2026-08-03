@@ -19,7 +19,7 @@ sources:
 - id: 845-04-79
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-79
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-79
   type: authoritative
@@ -29,7 +29,7 @@ id: b26d6215-86ce-5bde-83f3-e3a25b21215f
 data:
   definition:
   - content: |-
-      quotient of the {{17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
+      quotient of the {{concept:cie-2020:17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
 
       stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_(())))]
     type: intensional
@@ -38,7 +38,7 @@ data:
   - content: The spectral mass attenuation coefficient is expressed in square metre
       per kilogram (m^2^·kg^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-04-79, 845-04-79}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-79, 845-04-79}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1223 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-79
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-04-79
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-79
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-79
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-086
-id: 9fb3a526-511c-59f3-8213-19c5a29399e5
+id: dec32075-f413-5e8c-8077-391cb4a7e4a1

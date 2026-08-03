@@ -19,7 +19,7 @@ sources:
 - id: 845-05-18
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-18
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-18
   type: authoritative
@@ -28,12 +28,12 @@ id: d81b0296-ff1d-5b46-99cd-fc9e94d90ada
 ---
 data:
   definition:
-  - content: instrument for measuring colorimetric quantities, such as the {{17-23-038,
+  - content: instrument for measuring colorimetric quantities, such as the {{concept:cie-2020:17-23-038,
       tristimulus values}} of a colour stimulus
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-05-18, 845-05-18}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-18, 845-05-18}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-192 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-18
     type: authoritative
   - origin:
@@ -55,7 +55,7 @@ data:
   - id: 845-05-18
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-18
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-18
     type: authoritative
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-022
-id: 390d9ecb-cb24-5cf5-8620-0549d918bd97
+id: 2449cf1c-cbe4-5391-bd1e-d984d458c2c1

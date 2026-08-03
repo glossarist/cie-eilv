@@ -14,7 +14,7 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
@@ -24,7 +24,7 @@ id: a1cb1e3f-98d6-522f-854c-a9adf0b46ee8
 data:
   definition:
   - content: |-
-      product of the Planck constant and {{cite:103-06-02, frequency}}
+      product of the Planck constant and {{cite:IEV:103-06-02, frequency}}
 
       stem:[Q_p] = stem:[h]·stem:[nu]
 
@@ -34,12 +34,12 @@ data:
   notes:
   - content: Photon energy can be emitted, transferred or received.
     type: intensional
-  - content: The energy of {{17-21-014, monochromatic radiation}}, stem:[Q_(PF)],
-      by a photon flux of photons of frequency stem:[nu] is equal to the photon number,
-      stem:[N_p], times the photon energy (stem:[Q_(PF)] = stem:[N_p]·stem:[h]·stem:[nu]).
+  - content: The energy of {{concept:cie-2020:17-21-014, monochromatic radiation}},
+      stem:[Q_(PF)], by a photon flux of photons of frequency stem:[nu] is equal to
+      the photon number, stem:[N_p], times the photon energy (stem:[Q_(PF)] = stem:[N_p]·stem:[h]·stem:[nu]).
     type: intensional
   - content: The corresponding radiometric quantity is "radiant energy". The corresponding
-      photometric quantity is "{{17-21-037, luminous energy}}".
+      photometric quantity is "{{concept:cie-2020:17-21-037, luminous energy}}".
     type: intensional
   - content: The photon energy is expressed in joule (J = W·s).
     type: intensional
@@ -51,7 +51,7 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
@@ -65,4 +65,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-042
-id: 33739802-30bc-584a-b560-7dce56b2a6ca
+id: c35a8231-f477-5cad-9ebc-a1290b64cfd5

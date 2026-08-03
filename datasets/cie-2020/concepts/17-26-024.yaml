@@ -19,7 +19,7 @@ sources:
 - id: 845-06-12
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-12
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-12
   type: authoritative
@@ -28,7 +28,7 @@ id: 0a816c97-45f9-58b9-8842-a5b9cbc27030
 ---
 data:
   definition:
-  - content: irradiation of the skin or other tissues, typically with {{17-21-008,
+  - content: irradiation of the skin or other tissues, typically with {{concept:cie-2020:17-21-008,
       ultraviolet radiation}}, in the treatment of diseases (e.g. psoriasis)
     type: intensional
   examples: []
@@ -37,7 +37,7 @@ data:
       agents have been added as part of the treatment, or are endogenous in the tissue
       being targeted.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-12, 845-06-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-12, 845-06-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-945 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-12
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-06-12
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-12
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-12
     type: authoritative
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-024
-id: e52e98b7-64a6-560a-acf6-31de0581dc74
+id: aa449819-eaea-5414-ab9c-d0d070856514

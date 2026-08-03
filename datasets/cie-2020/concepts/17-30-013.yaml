@@ -14,7 +14,7 @@ sources:
 - id: 195-06-12
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 195-06-12
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=195-06-12
   type: authoritative
@@ -25,7 +25,7 @@ data:
   definition:
   - content: luminaire that cannot easily be moved from one place to another, either
       because the fixing is such that the luminaire can only be removed with the aid
-      of a tool, or because it is intended for use out of {{cite:195-06-12, arm's
+      of a tool, or because it is intended for use out of {{cite:IEV:195-06-12, arm's
       reach}}
     type: intensional
   examples: []
@@ -42,7 +42,7 @@ data:
   - id: 195-06-12
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 195-06-12
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=195-06-12
     type: authoritative
@@ -53,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-013
-id: e23f3812-d29f-550c-b8e5-d8844ee33107
+id: fb9b3741-51af-5ae3-80db-1a6cd1079020

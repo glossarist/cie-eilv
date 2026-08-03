@@ -27,7 +27,7 @@ sources:
 - id: 845-06-19
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-19
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-19
   type: authoritative
@@ -36,14 +36,14 @@ id: 1878111a-d948-5058-b2b3-d4d25df0e856
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} capable of inactivating or killing
-      pathogenic micro-organisms"
+  - content: "{{concept:cie-2020:17-21-002, optical radiation}} capable of inactivating
+      or killing pathogenic micro-organisms"
     type: intensional
   examples: []
   notes:
   - content: Bactericidal radiation is primarily UV-C radiation.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-19, 845-06-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-19, 845-06-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-72, 17-491, and 17-775 in CIE S 017:2011.
     type: intensional
@@ -54,7 +54,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-19
     type: authoritative
   - origin:
@@ -65,7 +65,7 @@ data:
   - id: 845-06-19
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-19
     type: authoritative
@@ -79,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-032
-id: 6f37e646-0eda-5a4d-9cf9-dea0040b9b9a
+id: 3733b934-9be0-58b6-b357-8529c5d61e12

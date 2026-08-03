@@ -19,7 +19,7 @@ sources:
 - id: 845-06-26
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-26
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-26
   type: authoritative
@@ -32,11 +32,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Biological rhythms can be influenced by {{17-21-002, optical radiation}}.
+  - content: Biological rhythms can be influenced by {{concept:cie-2020:17-21-002,
+      optical radiation}}.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-26, 845-06-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-26, 845-06-26}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-26, 845-06-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-26, 845-06-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-89 in CIE S 017:2011.
     type: intensional
@@ -47,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-26
     type: authoritative
   - origin:
@@ -58,7 +59,7 @@ data:
   - id: 845-06-26
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-26
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-26
     type: authoritative
@@ -69,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-040
-id: 8fb70b6e-7296-5493-874c-39d83a0a6f0a
+id: 824e95fc-45b9-5d24-aa02-b2ffa0966541

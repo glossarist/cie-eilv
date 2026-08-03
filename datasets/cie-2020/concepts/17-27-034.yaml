@@ -19,7 +19,7 @@ sources:
 - id: 845-07-26
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-26
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-26
   type: authoritative
@@ -29,12 +29,12 @@ id: '0911f260-e842-5636-beda-37e13d8c61fb'
 data:
   definition:
   - content: discharge lamp of the low-pressure mercury type in which most of the
-      light is emitted by one or several layers of phosphors excited by the {{17-21-008,
+      light is emitted by one or several layers of phosphors excited by the {{concept:cie-2020:17-21-008,
       ultraviolet radiation}} from the discharge
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-07-26, 845-07-26}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-26, 845-07-26}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-457 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-26
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-07-26
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-26
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-26
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-034
-id: 8501d9c2-e2f9-5df5-9772-65267c0c2520
+id: 58c83b8f-2020-5453-8f4a-9e7debd530a7

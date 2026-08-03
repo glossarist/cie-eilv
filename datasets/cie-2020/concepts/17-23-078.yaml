@@ -32,7 +32,7 @@ data:
   - content: |-
       stem:[Y], stem:[u], stem:[v] describe the colour stimulus considered, and stem:[u_n], stem:[v_n] describe a specified white achromatic stimulus, where stem:[u = u^( ' )], stem:[v = (2)/(3) v^( ' )]; stem:[u_n^() = u_n^( ' )], stem:[v_n = (2)/(3) v_n^( ' )].
 
-      See also "{{17-23-073, CIE 1976 uniform-chromaticity-scale diagram}}".
+      See also "{{concept:cie-2020:17-23-073, CIE 1976 uniform-chromaticity-scale diagram}}".
     type: intensional
   - content: "The difference between two stimuli, stem:[Delta E]*, is defined as the
       Euclidean distance between the points representing them in stem:[U]*stem:[V]*stem:[W]*
@@ -42,8 +42,8 @@ data:
     type: intensional
   - content: The CIE 1964 uniform colour space is obsolete (except that it is still
       used in the calculation of the colour rendering index). The currently recommended
-      object colour spaces are the {{17-23-076, CIE 1976 L*a*b* colour space}} and
-      the {{17-23-074, CIE 1976 L*u*v* colour space}}.
+      object colour spaces are the {{concept:cie-2020:17-23-076, CIE 1976 L*a*b* colour
+      space}} and the {{concept:cie-2020:17-23-074, CIE 1976 L*u*v* colour space}}.
     type: intensional
   - content: This entry was numbered 17-153 in CIE S 017:2011.
     type: intensional

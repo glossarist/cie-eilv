@@ -17,9 +17,10 @@ id: 593a5315-2bae-5bab-b95e-986b51c34968
 data:
   definition:
   - content: three digit number, the first digit representing the first digit of the
-      {{17-22-111, CIE 1974 general colour rendering index}}, and the second and third
-      digits representing the first two digits (thousands and hundreds) of the {{17-23-068,
-      correlated colour temperature}} of the light source
+      {{concept:cie-2020:17-22-111, CIE 1974 general colour rendering index}}, and
+      the second and third digits representing the first two digits (thousands and
+      hundreds) of the {{concept:cie-2020:17-23-068, correlated colour temperature}}
+      of the light source
     type: intensional
   examples: []
   notes: []
@@ -35,4 +36,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-133
-id: daed9319-0f38-5c44-872c-de56961388ce
+id: bc18b8d9-8061-52ba-9f4a-b0fc3388e85d

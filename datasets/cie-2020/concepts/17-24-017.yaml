@@ -19,7 +19,7 @@ sources:
 - id: 845-04-14
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-14
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-14
   type: authoritative
@@ -29,11 +29,11 @@ id: 4ed70b6e-d1a7-51dc-893d-6c8c0e46a1cf
 data:
   definition:
   - content: |-
-      temperature of the Planckian radiator whose {{17-21-030, relative spectral distribution}}, stem:[S](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
+      temperature of the Planckian radiator whose {{concept:cie-2020:17-21-030, relative spectral distribution}}, stem:[S](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
 
       stem:[int_((lambda_1))^((lambda_2)) 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
 
-      where stem:[lambda] is the wavelength, stem:[S_t](stem:[lambda]) is the {{17-21-030, relative spectral distribution}} of the radiation being considered, stem:[S_b](stem:[lambda], stem:[T]) is the relative spectral distribution of the Planckian radiator at temperature stem:[T], and stem:[a] is a scaling factor
+      where stem:[lambda] is the wavelength, stem:[S_t](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the radiation being considered, stem:[S_b](stem:[lambda], stem:[T]) is the relative spectral distribution of the Planckian radiator at temperature stem:[T], and stem:[a] is a scaling factor
     type: intensional
   examples: []
   notes:
@@ -45,16 +45,16 @@ data:
       with stem:[P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)], where stem:[c_2] is the second radiation constant.
     type: intensional
   - content: Distribution temperature is a meaningful characteristic for radiators
-      having a {{17-21-030, relative spectral distribution}} similar to that of a
-      Planckian radiator, but only if calculated for an expanded wavelength range
-      and for radiation whose {{17-21-029, spectral distribution}} of radiant flux
-      is a continuous function of wavelength in that range.
+      having a {{concept:cie-2020:17-21-030, relative spectral distribution}} similar
+      to that of a Planckian radiator, but only if calculated for an expanded wavelength
+      range and for radiation whose {{concept:cie-2020:17-21-029, spectral distribution}}
+      of radiant flux is a continuous function of wavelength in that range.
     type: intensional
   - content: In photometry and colorimetry the wavelength range set by stem:[lambda_1]
       and stem:[lambda_2] is the visible spectral range, and in these cases the range
       from at least stem:[lambda_1] = 400 nm to stem:[lambda_2] = 750 nm is recommended.
     type: intensional
-  - content: In practice, the integral is replaced by a summation. For {{17-27-011,
+  - content: In practice, the integral is replaced by a summation. For {{concept:cie-2020:17-27-011,
       incandescent lamps}}, equally spaced wavelength intervals of 10 nm will usually
       suffice. All values in the summation are treated with equal weight.
     type: intensional
@@ -63,7 +63,7 @@ data:
   - content: For further information, see CIE 114-1994, _CIE Collection in Photometry
       and Radiometry – 114/4 Distribution Temperature and Ratio Temperature_.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-14, 845-04-14}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-14, 845-04-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-341 in CIE S 017:2011.
     type: intensional
@@ -74,7 +74,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-14
     type: authoritative
   - origin:
@@ -85,7 +85,7 @@ data:
   - id: 845-04-14
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-14
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-14
     type: authoritative
@@ -100,4 +100,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-017
-id: 4490ddf8-87cd-5e73-8acb-8b07c46ab73d
+id: 7bca0bcf-1887-5b08-b0fd-e5dc98f2f6cd

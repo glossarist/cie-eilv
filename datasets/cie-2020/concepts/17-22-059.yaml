@@ -19,7 +19,7 @@ sources:
 - id: 845-02-28
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-28
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-28
   type: authoritative
@@ -35,7 +35,7 @@ data:
   notes:
   - content: The use of this term is not restricted to primary light sources.
     type: intensional
-  - content: This entry was numbered {{cite:845-02-28, 845-02-28}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-28, 845-02-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-111 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-28
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-02-28
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-28
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-28
     type: authoritative
@@ -68,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-059
-id: 11c3dbc6-b3ec-55f6-947c-5c183a6de3f1
+id: ded6be0b-730b-569d-8133-15b39b2c0f9e

@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-05-62
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-05-62
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-62
   type: authoritative
@@ -36,15 +36,15 @@ id: e5bc2adc-e051-507c-92d1-1d753aa1b544
 data:
   definition:
   - content: value of the detector input that produces an output equal to the root
-      mean square (RMS) noise output, for a stated {{cite:103-06-02, frequency}} and
-      bandwidth of the measuring instrument
+      mean square (RMS) noise output, for a stated {{cite:IEV:103-06-02, frequency}}
+      and bandwidth of the measuring instrument
     type: intensional
   examples: []
   notes:
   - content: It is usual to consider a 1 Hz bandwidth, and this value is implied unless
       stated otherwise.
     type: intensional
-  - content: This entry was numbered {{cite:845-05-62, 845-05-62}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-05-62, 845-05-62}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-814 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-05-62
     type: authoritative
   - origin:
@@ -66,14 +66,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-05-62
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-05-62
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-62
     type: authoritative
@@ -85,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-069
-id: 409ebb01-8602-5b84-a984-530d3acec2fd
+id: dee45fd8-e0b2-5116-8f5e-b60e76b66003

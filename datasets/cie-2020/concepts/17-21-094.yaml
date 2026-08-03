@@ -19,7 +19,7 @@ sources:
 - id: 845-01-57
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-57
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-57
   type: authoritative
@@ -28,9 +28,9 @@ id: 168306fd-4459-5ef9-bc2a-19b72f6826ec
 ---
 data:
   definition:
-  - content: quotient of radiant flux weighted by the {{17-21-035, spectral luminous
-      efficiency}} and the corresponding radiant flux for a specified photometric
-      condition
+  - content: quotient of radiant flux weighted by the {{concept:cie-2020:17-21-035,
+      spectral luminous efficiency}} and the corresponding radiant flux for a specified
+      photometric condition
     type: intensional
   examples: []
   notes:
@@ -48,7 +48,7 @@ data:
     type: intensional
   - content: The luminous efficiency has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-01-57, 845-01-57}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-57, 845-01-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-731 in CIE S 017:2011.
     type: intensional
@@ -59,7 +59,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-57
     type: authoritative
   - origin:
@@ -70,7 +70,7 @@ data:
   - id: 845-01-57
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-57
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-57
     type: authoritative
@@ -88,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-094
-id: 66a1d206-8843-5397-916b-cbff841dc368
+id: 1e108483-ab4c-5927-aaf5-61d949050990

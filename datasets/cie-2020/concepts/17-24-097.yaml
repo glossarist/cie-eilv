@@ -19,7 +19,7 @@ sources:
 - id: 845-04-90
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-90
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-90
   type: authoritative
@@ -40,7 +40,7 @@ data:
     type: intensional
   - content: The half-value angle is expressed in radian (rad) or degree (°).
     type: intensional
-  - content: This entry was numbered {{cite:845-04-90, 845-04-90}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-90, 845-04-90}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-515 in CIE S 017:2011.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-90
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-04-90
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-90
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-90
     type: authoritative
@@ -77,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-097
-id: 827e95f5-26a1-5610-83da-624f15483168
+id: 6bc5070e-ac85-5563-9153-f3ab9567cdf8

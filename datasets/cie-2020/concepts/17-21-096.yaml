@@ -19,7 +19,7 @@ sources:
 - id: 845-01-59
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-59
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-59
   type: authoritative
@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The point brilliance is expressed in lux (lx = lm·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-59, 845-01-59}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-59, 845-01-59}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-962 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-59
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-01-59
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-59
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-59
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-096
-id: ede10ed5-79c5-5b9e-86dc-99cb2b939d9e
+id: f9cce1f9-d244-5384-b837-468f8bb3b929

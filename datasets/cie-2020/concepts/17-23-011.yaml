@@ -23,7 +23,7 @@ sources:
 - id: 845-03-08
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-08
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-08
   type: authoritative
@@ -32,11 +32,11 @@ id: b1169f76-0583-5c0b-aaec-feaa47e351ad
 ---
 data:
   definition:
-  - content: stimulus consisting of {{17-21-014, monochromatic radiation}}
+  - content: stimulus consisting of {{concept:cie-2020:17-21-014, monochromatic radiation}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-03-08, 845-03-08}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-08, 845-03-08}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-789 and 17-1230 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-08
     type: authoritative
   - origin:
@@ -58,7 +58,7 @@ data:
   - id: 845-03-08
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-08
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-08
     type: authoritative
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-011
-id: d8847a7f-7743-5865-a6b1-ef33affd14d1
+id: cac44ba2-cd11-5968-a766-1fe42ff01b26

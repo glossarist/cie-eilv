@@ -14,7 +14,7 @@ sources:
 - id: 845-06-06
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-06
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-06
   type: authoritative
@@ -23,13 +23,14 @@ id: 3736e2c2-8e66-5160-8f6d-32501ab0f2b6
 ---
 data:
   definition:
-  - content: chemical change caused by natural {{17-21-002, optical radiation}}
+  - content: chemical change caused by natural {{concept:cie-2020:17-21-002, optical
+      radiation}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-06-06, 845-06-06}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-06, 845-06-06}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-06-06, 845-06-06}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-06, 845-06-06}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -38,13 +39,13 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-06
     type: authoritative
   - id: 845-06-06
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-06
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-06
     type: authoritative
@@ -55,4 +56,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-082
-id: eab89a8c-efbe-5f1c-8dd8-4f02b1cd51ee
+id: 75bc0620-f05f-545e-a547-a32317eb7f7e

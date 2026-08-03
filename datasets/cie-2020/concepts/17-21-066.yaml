@@ -37,11 +37,11 @@ data:
       the light incident on the outer surface of an infinitely small sphere centred
       at the given point and the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities "{{17-21-054, spherical irradiance}}", stem:[E_(e,o)],
-      and "{{17-21-059, photon spherical irradiance}}" (also termed "photon fluence
-      rate"), stem:[E_(p,o)], are defined in a similar way, replacing {{17-21-050,
-      luminance}}, stem:[L_v], by {{17-21-049, radiance}}, stem:[L_e], and photon
-      radiance, stem:[L_p], respectively.
+  - content: The analogous quantities "{{concept:cie-2020:17-21-054, spherical irradiance}}",
+      stem:[E_(e,o)], and "{{concept:cie-2020:17-21-059, photon spherical irradiance}}"
+      (also termed "photon fluence rate"), stem:[E_(p,o)], are defined in a similar
+      way, replacing {{concept:cie-2020:17-21-050, luminance}}, stem:[L_v], by {{concept:cie-2020:17-21-049,
+      radiance}}, stem:[L_e], and photon radiance, stem:[L_p], respectively.
     type: intensional
   - content: The spherical illuminance is expressed in lux (lx = lm·m^−2^).
     type: intensional

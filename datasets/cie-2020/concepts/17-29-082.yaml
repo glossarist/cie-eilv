@@ -23,7 +23,7 @@ sources:
 - id: 845-09-63
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-63
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-63
   type: authoritative
@@ -40,7 +40,7 @@ data:
   notes:
   - content: The ballast lumen factor has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-09-63, 845-09-63}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-63, 845-09-63}} in IEC 60050-845:1987.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -51,7 +51,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-63
     type: authoritative
   - origin:
@@ -62,7 +62,7 @@ data:
   - id: 845-09-63
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-63
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-63
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-082
-id: cac3fded-22a1-5462-bddb-6417ddd9d1a9
+id: 5ededc04-9582-549a-885c-1fc6b973f5fe

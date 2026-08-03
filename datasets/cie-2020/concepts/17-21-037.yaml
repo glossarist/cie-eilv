@@ -23,7 +23,7 @@ sources:
 - id: 845-01-28
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-28
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-28
   type: authoritative
@@ -32,9 +32,9 @@ id: 7e176bf8-e9b1-5901-a154-b8130aa7101b
 ---
 data:
   definition:
-  - content: energy of electromagnetic waves weighted by the {{17-21-035, spectral
-      luminous efficiency}} multiplied by maximum luminous efficacy of a specified
-      photometric condition
+  - content: energy of electromagnetic waves weighted by the {{concept:cie-2020:17-21-035,
+      spectral luminous efficiency}} multiplied by maximum luminous efficacy of a
+      specified photometric condition
     type: intensional
   examples: []
   notes:
@@ -60,7 +60,7 @@ data:
   - content: The luminous energy is expressed in lumen second (lm·s) or lumen hour
       (lm·h).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-28, 845-01-28}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-28, 845-01-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-733 and 17-1007 in CIE S 017:2011.
     type: intensional
@@ -71,7 +71,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-28
     type: authoritative
   - origin:
@@ -82,7 +82,7 @@ data:
   - id: 845-01-28
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-28
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-28
     type: authoritative
@@ -96,4 +96,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-037
-id: d190bc73-d554-5978-8128-09c4ba365f5b
+id: 2434c5c8-d049-57e5-a255-abe430f1fa7f

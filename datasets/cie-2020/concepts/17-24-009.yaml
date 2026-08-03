@@ -19,7 +19,7 @@ sources:
 - id: 845-04-09
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-09
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-09
   type: authoritative
@@ -37,7 +37,7 @@ data:
   notes:
   - content: The emissivity has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-09, 845-04-09}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-09, 845-04-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-382 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-09
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-04-09
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-09
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-09
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-009
-id: 5d7f51f6-f009-5ade-9897-eb0214d3cff6
+id: 900b7ba8-6f7d-5268-b58b-a325bd148dfe

@@ -22,7 +22,7 @@ id: e8b1eccf-5c83-5899-950f-86bbb382fb71
 data:
   definition:
   - content: |-
-      exposure of the human eye to {{17-21-003, visible radiation}} for the treatment of affective disorders or disorders due to circadian disruption
+      exposure of the human eye to {{concept:cie-2020:17-21-003, visible radiation}} for the treatment of affective disorders or disorders due to circadian disruption
 
       EXAMPLE<ol type="a">. for affective disorders: seasonal affective disorder or winter depression;. for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel.
     type: intensional

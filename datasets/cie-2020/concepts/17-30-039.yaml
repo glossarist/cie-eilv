@@ -19,7 +19,7 @@ sources:
 - id: 845-10-34
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-10-34
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-34
   type: authoritative
@@ -29,7 +29,7 @@ id: 2e4cf715-03c9-5a87-8e11-b52cbbac93e2
 data:
   definition:
   - content: device predominantly using scattering to alter the spatial distribution
-      of radiation from a {{17-21-032, source}}
+      of radiation from a {{concept:cie-2020:17-21-032, source}}
     type: intensional
   examples: []
   notes:
@@ -41,7 +41,7 @@ data:
   - content: Besides scattering, a diffuser can also have a slight reflection and
       absorption effect.
     type: intensional
-  - content: This entry was numbered {{cite:845-10-34, 845-10-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-10-34, 845-10-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-310 in CIE S 017:2011.
     type: intensional
@@ -52,7 +52,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-10-34
     type: authoritative
   - origin:
@@ -63,7 +63,7 @@ data:
   - id: 845-10-34
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-10-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-34
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-039
-id: f975d2a0-6af4-5f4f-b4fb-2e8025adafda
+id: f3d5214d-a369-5171-a800-05700a3cb140

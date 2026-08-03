@@ -16,9 +16,9 @@ id: 1a30533a-2613-5002-a08c-ec46278d7767
 ---
 data:
   definition:
-  - content: quotient of the {{17-21-029, spectral distribution}} of radiance due
-      to fluorescence at wavelength stem:[lambda] and the sum of the tabulated values
-      of this distribution across the fluorescence band
+  - content: quotient of the {{concept:cie-2020:17-21-029, spectral distribution}}
+      of radiance due to fluorescence at wavelength stem:[lambda] and the sum of the
+      tabulated values of this distribution across the fluorescence band
     type: intensional
   examples: []
   notes:
@@ -26,7 +26,7 @@ data:
       phenomena with time constants short enough to be ignored for the application.
     type: intensional
   - content: |-
-      The relative spectral fluorescence distribution, stem:[F](stem:[lambda]), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, stem:[Q], for excitation at wavelength, stem:[mu], gives the bispectral luminescent radiance factor, stem:[beta_(L,lambda)](stem:[mu]), of a {{17-24-040, photoluminescent material}} according to:
+      The relative spectral fluorescence distribution, stem:[F](stem:[lambda]), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, stem:[Q], for excitation at wavelength, stem:[mu], gives the bispectral luminescent radiance factor, stem:[beta_(L,lambda)](stem:[mu]), of a {{concept:cie-2020:17-24-040, photoluminescent material}} according to:
 
       stem:[beta_(L,lambda)](stem:[mu]) = stem:[F](stem:[lambda])·stem:[Q](stem:[mu])
     type: intensional
@@ -47,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-031
-id: ca7c2e08-e721-5865-b44c-5e6bacb8f158
+id: ea7d169e-ab26-5e52-98ef-10db9f421292

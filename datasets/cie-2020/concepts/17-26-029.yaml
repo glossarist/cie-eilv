@@ -19,7 +19,7 @@ sources:
 - id: 845-06-16
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-06-16
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-16
   type: authoritative
@@ -28,17 +28,18 @@ id: b12df2a2-78d6-57b6-b026-0a0d746336a1
 ---
 data:
   definition:
-  - content: "{{17-21-002, optical radiation}} effective in causing actinic erythema"
+  - content: "{{concept:cie-2020:17-21-002, optical radiation}} effective in causing
+      actinic erythema"
     type: intensional
   examples: []
   notes:
-  - content: "{{17-21-008, Ultraviolet radiation}} is the most effective erythemal
-      radiation."
+  - content: "{{concept:cie-2020:17-21-008, Ultraviolet radiation}} is the most effective
+      erythemal radiation."
     type: intensional
-  - content: See also "{{17-26-065, erythema spectral weighting function}}", "{{17-26-069,
-      standard erythema dose}}".
+  - content: See also "{{concept:cie-2020:17-26-065, erythema spectral weighting function}}",
+      "{{concept:cie-2020:17-26-069, standard erythema dose}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-06-16, 845-06-16}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-06-16, 845-06-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-405 in CIE S 017:2011.
     type: intensional
@@ -49,7 +50,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-06-16
     type: authoritative
   - origin:
@@ -60,7 +61,7 @@ data:
   - id: 845-06-16
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-06-16
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-16
     type: authoritative
@@ -71,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-26-029
-id: 880d63eb-2a9d-58c1-a488-e8cdbe0e1674
+id: ab62d251-0435-5541-b3d5-476bc08c04df

@@ -21,9 +21,9 @@ id: 5d852051-a11c-5022-81ff-f9b2b819869b
 ---
 data:
   definition:
-  - content: optical device that modifies a beam of {{17-21-002, optical radiation}}
-      to produce a beam of {{17-21-021, unpolarized radiation}} irrespective of the
-      state of polarization of the incident radiation
+  - content: optical device that modifies a beam of {{concept:cie-2020:17-21-002,
+      optical radiation}} to produce a beam of {{concept:cie-2020:17-21-021, unpolarized
+      radiation}} irrespective of the state of polarization of the incident radiation
     type: intensional
   examples: []
   notes:

@@ -22,14 +22,16 @@ id: 0b807dc3-958d-5383-8a90-22566f65118b
 data:
   definition:
   - content: change in the direction of growth of plant parts (cells, tissues, and/or
-      organs) in response to a directional source of {{17-21-002, optical radiation}}
+      organs) in response to a directional source of {{concept:cie-2020:17-21-002,
+      optical radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Plant stems will typically bend towards a {{17-21-032, source}} of {{17-21-002,
-      optical radiation}} and leaves will change orientation such that their upper
-      surfaces tend to be perpendicular to a {{17-21-032, source}} of {{17-21-002,
-      optical radiation}}.
+  - content: Plant stems will typically bend towards a {{concept:cie-2020:17-21-032,
+      source}} of {{concept:cie-2020:17-21-002, optical radiation}} and leaves will
+      change orientation such that their upper surfaces tend to be perpendicular to
+      a {{concept:cie-2020:17-21-032, source}} of {{concept:cie-2020:17-21-002, optical
+      radiation}}.
     type: intensional
   - content: This entry was numbered 17-947 in CIE S 017:2011.
     type: intensional

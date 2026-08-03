@@ -19,7 +19,7 @@ sources:
 - id: 845-01-36
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-01-36
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-36
   type: authoritative
@@ -38,7 +38,7 @@ data:
   examples: []
   notes:
   - content: |-
-      In a practical sense, the definition of photon radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{17-21-033, point sources}}, each of which has a specific photon intensity, stem:[I_p], in the specified direction. The photon radiance of the surface is then the integral of these photon radiance elements over the whole surface.
+      In a practical sense, the definition of photon radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{concept:cie-2020:17-21-033, point sources}}, each of which has a specific photon intensity, stem:[I_p], in the specified direction. The photon radiance of the surface is then the integral of these photon radiance elements over the whole surface.
 
       The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of photon intensity with projected area) and could alternatively be rewritten in terms of the average photon intensity, stem:[bar I_p], as:
 
@@ -79,7 +79,7 @@ data:
   - content: The photon radiance is expressed in second to the power minus one per
       square metre per steradian (s^−1^·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-36, 845-01-36}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-01-36, 845-01-36}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-931 in CIE S 017:2011.
     type: intensional
@@ -90,7 +90,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-01-36
     type: authoritative
   - origin:
@@ -101,7 +101,7 @@ data:
   - id: 845-01-36
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-01-36
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-36
     type: authoritative
@@ -115,4 +115,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-051
-id: 3fd31a51-066a-5d0c-99ce-3f38c4843f15
+id: ecac4b65-0cd5-57a0-8197-1bf7df6a1a15

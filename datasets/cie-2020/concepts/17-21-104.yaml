@@ -28,9 +28,9 @@ data:
   examples: []
   notes:
   - content: In general, the reflected radiance factor from a surface does not depend
-      upon the {{17-21-030, relative spectral distribution}} of the irradiation. This
-      is not the case for a photoluminescent surface, where it is necessary to specify
-      this quantity.
+      upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the
+      irradiation. This is not the case for a photoluminescent surface, where it is
+      necessary to specify this quantity.
     type: intensional
   - content: The reflected radiance factor has unit one.
     type: intensional

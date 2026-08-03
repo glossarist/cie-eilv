@@ -16,9 +16,9 @@ id: 425c7af2-9fc1-58ca-ab89-5d81ccce4b2b
 ---
 data:
   definition:
-  - content: "{{17-27-054, LED lamp}}, incorporating control gear and any additional
-      elements necessary for stable operation of the light source, designed for direct
-      connection to the supply voltage"
+  - content: "{{concept:cie-2020:17-27-054, LED lamp}}, incorporating control gear
+      and any additional elements necessary for stable operation of the light source,
+      designed for direct connection to the supply voltage"
     type: intensional
   examples: []
   notes: []
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-055
-id: 2332d904-179e-51f6-8a11-c8b571ef500f
+id: ec35d662-f69f-5ae2-b790-da66ead33ef3

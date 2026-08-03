@@ -23,7 +23,7 @@ sources:
 - id: 113-01-08
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 113-01-08
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
   type: authoritative
@@ -33,7 +33,7 @@ id: a486356f-905e-59f4-8c14-4f95b96d9ada
 data:
   definition:
   - content: fraction of the total number of lamps which continue to operate at a
-      given {{cite:113-01-08, instant}} under defined conditions and the switching
+      given {{cite:IEV:113-01-08, instant}} under defined conditions and the switching
       frequency
     type: intensional
   examples: []
@@ -55,7 +55,7 @@ data:
   - id: 113-01-08
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 113-01-08
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
     type: authoritative
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-149
-id: e4679b07-410c-5ea0-90a0-4f59fd59c118
+id: 3f76c658-67c8-575f-8b53-ba899b9f9c21

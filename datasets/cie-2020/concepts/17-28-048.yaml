@@ -14,7 +14,7 @@ sources:
 - id: 151-13-75
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 151-13-75
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-13-75
   type: authoritative
@@ -23,10 +23,10 @@ id: 67995dfe-004f-5971-ae19-1885f7da68f6
 ---
 data:
   definition:
-  - content: unit inserted between the {{cite:151-13-75, power supply}} and at least
-      one light source, which serves to supply the light source(s) with its (their)
-      rated voltage or rated current, and which can consist of one or more separate
-      components
+  - content: unit inserted between the {{cite:IEV:151-13-75, power supply}} and at
+      least one light source, which serves to supply the light source(s) with its
+      (their) rated voltage or rated current, and which can consist of one or more
+      separate components
     type: intensional
   examples: []
   notes:
@@ -48,7 +48,7 @@ data:
   - id: 151-13-75
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 151-13-75
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=151-13-75
     type: authoritative
@@ -63,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-048
-id: 4d573bd5-695b-53cf-b7f9-765df8308eae
+id: 5d1a1967-24d6-5f01-a54b-e241d777d734

@@ -19,14 +19,14 @@ sources:
 - id: 103-06-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 103-06-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
   type: authoritative
 - id: 845-02-51
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-51
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-51
   type: authoritative
@@ -36,14 +36,15 @@ id: c69d2657-b8e7-5c5c-980a-f3a0ebca9d82
 data:
   definition:
   - content: law stating that when a point on the retina is excited by a light stimulus
-      that undergoes periodic variations in magnitude at a {{cite:103-06-02, frequency}}
-      that exceeds the {{17-22-093, critical flicker frequency}}, the visual perception
-      produced is identical to that produced by a steady stimulus whose magnitude
-      is equal to the mean magnitude of the variable stimulus taken over one period
+      that undergoes periodic variations in magnitude at a {{cite:IEV:103-06-02, frequency}}
+      that exceeds the {{concept:cie-2020:17-22-093, critical flicker frequency}},
+      the visual perception produced is identical to that produced by a steady stimulus
+      whose magnitude is equal to the mean magnitude of the variable stimulus taken
+      over one period
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-02-51, 845-02-51}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-51, 845-02-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1299 in CIE S 017:2011.
     type: intensional
@@ -54,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-51
     type: authoritative
   - origin:
@@ -65,14 +66,14 @@ data:
   - id: 103-06-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
   - id: 845-02-51
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-51
     type: authoritative
@@ -83,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-097
-id: 56c5282e-df22-564e-bc7a-de528689a6a6
+id: c19ddd88-d18a-576e-99fa-c2e152ef6d86

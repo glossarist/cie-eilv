@@ -19,7 +19,7 @@ sources:
 - id: 845-07-16
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-07-16
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-16
   type: authoritative
@@ -28,8 +28,8 @@ id: c9100579-d6dd-57ce-8f4b-3d915ed8f112
 ---
 data:
   definition:
-  - content: "{{17-27-018, electric discharge}} characterized by a cathode fall which
-      is small compared to that in a glow discharge"
+  - content: "{{concept:cie-2020:17-27-018, electric discharge}} characterized by
+      a cathode fall which is small compared to that in a glow discharge"
     type: intensional
   examples: []
   notes:
@@ -37,7 +37,7 @@ data:
       field emission, etc.) acting simultaneously or separately; secondary emission
       plays only a small part.
     type: intensional
-  - content: This entry was numbered {{cite:845-07-16, 845-07-16}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-07-16, 845-07-16}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-54 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-07-16
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-07-16
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-07-16
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-16
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-023
-id: 7f1b15fc-14ba-55f6-8b73-92c426c51607
+id: b9ec42b5-8341-56a5-8478-ebebc375be68

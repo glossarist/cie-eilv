@@ -19,7 +19,7 @@ sources:
 - id: 845-02-54
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-02-54
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-54
   type: authoritative
@@ -35,7 +35,7 @@ data:
   notes:
   - content: The term "reflected glare" is no longer in use.
     type: intensional
-  - content: This entry was numbered {{cite:845-02-54, 845-02-54}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-02-54, 845-02-54}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-493 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-02-54
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-02-54
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-02-54
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-54
     type: authoritative
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-100
-id: 2aadf3fd-561c-5749-b39b-29be8305b386
+id: 28b08924-1e39-5ced-ba05-6f8adb97f2b0

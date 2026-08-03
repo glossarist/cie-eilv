@@ -19,7 +19,7 @@ sources:
 - id: 845-03-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-04
   type: authoritative
@@ -38,7 +38,7 @@ data:
   - content: The fixed reference value, stem:[R], is usually the maximum value of
       the colour stimulus function.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-04, 845-03-04}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-04, 845-03-04}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1081 in CIE S 017:2011.
     type: intensional
@@ -49,7 +49,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-04
     type: authoritative
   - origin:
@@ -60,7 +60,7 @@ data:
   - id: 845-03-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-04
     type: authoritative
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-004
-id: ba2ee1fe-c01b-578c-9053-7988f61b507d
+id: 1d052d9c-d449-575b-84f3-6abfb8563070

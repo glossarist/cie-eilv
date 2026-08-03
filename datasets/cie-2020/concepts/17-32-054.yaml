@@ -49,12 +49,13 @@ data:
       can be significant.
     type: intensional
   - content: The transformation from raw DSC image data to scene-referred image data
-      depends on the relative {{17-32-058, adopted whites}} selected for the scene
-      and the colour space used to encode the image data. If the chosen scene adopted
-      white is inappropriate, additional errors will be introduced into the scene-referred
-      image data. These errors can be correctable if the transformation used to produce
-      the scene-referred image data is known, and the colour encoding used for the
-      incorrect scene-referred image data has adequate precision and dynamic range.
+      depends on the relative {{concept:cie-2020:17-32-058, adopted whites}} selected
+      for the scene and the colour space used to encode the image data. If the chosen
+      scene adopted white is inappropriate, additional errors will be introduced into
+      the scene-referred image data. These errors can be correctable if the transformation
+      used to produce the scene-referred image data is known, and the colour encoding
+      used for the incorrect scene-referred image data has adequate precision and
+      dynamic range.
     type: intensional
   - content: The scene can correspond to an actual view of the natural world, or can
       be a computer-generated virtual scene simulating such a view. It can also correspond

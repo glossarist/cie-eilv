@@ -19,7 +19,7 @@ sources:
 - id: 845-08-21
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-08-21
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-21
   type: authoritative
@@ -29,12 +29,12 @@ id: c917d7cd-ff99-50c3-8d94-ff99cbd66160
 data:
   definition:
   - content: small piece of metal which projects from the shell of a cap, particularly
-      a {{17-28-017, bayonet cap}}, and which engages in a slot in a lampholder to
-      fix the cap
+      a {{concept:cie-2020:17-28-017, bayonet cap}}, and which engages in a slot in
+      a lampholder to fix the cap
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-08-21, 845-08-21}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-08-21, 845-08-21}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-83 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-08-21
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-08-21
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-08-21
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-08-21
     type: authoritative
@@ -67,4 +67,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-022
-id: 768bc8e7-b9c8-528c-a5be-7b5d7f2ce602
+id: 55dbee0b-878c-5e4e-83d9-6a8eec32c211

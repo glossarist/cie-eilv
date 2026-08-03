@@ -16,9 +16,9 @@ id: 28547a01-eee9-5b91-b498-31829d3b3693
 ---
 data:
   definition:
-  - content: ratio of the {{17-27-078, centre beam intensity}} of a reflector lamp
-      at a given time in its life to its initial centre beam intensity, the reflector
-      lamp being operated under specified conditions
+  - content: ratio of the {{concept:cie-2020:17-27-078, centre beam intensity}} of
+      a reflector lamp at a given time in its life to its initial centre beam intensity,
+      the reflector lamp being operated under specified conditions
     type: intensional
   examples: []
   notes:
@@ -37,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-079
-id: 02bee354-8925-5b7b-919a-12e56af2d3e3
+id: e8ac4ae4-bfb8-52c1-b751-04833d9cf394

@@ -22,8 +22,9 @@ id: 0e17a368-382e-569b-9e6b-e13f1119e337
 data:
   definition:
   - content: image state associated with image data that represents the colour space
-      coordinates of the elements of a {{17-32-045, hardcopy}} or {{17-32-046, softcopy}},
-      encompassing both original-referred image data and output-referred image data
+      coordinates of the elements of a {{concept:cie-2020:17-32-045, hardcopy}} or
+      {{concept:cie-2020:17-32-046, softcopy}}, encompassing both original-referred
+      image data and output-referred image data
     type: intensional
   examples: []
   notes:

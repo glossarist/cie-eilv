@@ -19,7 +19,7 @@ sources:
 - id: 845-03-23
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-23
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-23
   type: authoritative
@@ -28,12 +28,12 @@ id: 92eb8d61-97ed-54c3-95d9-0cb883a26d14
 ---
 data:
   definition:
-  - content: "{{17-23-038, tristimulus values}} of monochromatic stimuli of equal
-      radiant flux"
+  - content: "{{concept:cie-2020:17-23-038, tristimulus values}} of monochromatic
+      stimuli of equal radiant flux"
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-23-032, colour-matching coefficients}}".
+  - content: See also "{{concept:cie-2020:17-23-032, colour-matching coefficients}}".
     type: intensional
   - content: The colour-matching functions can be used to calculate the tristimulus
       values of a colour stimulus from its colour stimulus functions stem:[philambda](stem:[lambda]).
@@ -48,7 +48,7 @@ data:
 
       and stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )].
     type: intensional
-  - content: This entry was numbered {{cite:845-03-23, 845-03-23}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-23, 845-03-23}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-236 in CIE S 017:2011.
     type: intensional
@@ -59,7 +59,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-23
     type: authoritative
   - origin:
@@ -70,7 +70,7 @@ data:
   - id: 845-03-23
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-23
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-23
     type: authoritative
@@ -91,4 +91,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-039
-id: 220bfca1-9502-5ebf-9c7c-6332b16b39c3
+id: 9ad0539c-bdde-5599-9f85-668a17608a92

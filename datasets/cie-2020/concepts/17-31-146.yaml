@@ -19,7 +19,7 @@ sources:
 - id: 705-04-04
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 705-04-04
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
   type: authoritative
@@ -29,8 +29,9 @@ id: 9da57c87-576f-5e85-a0de-180ed471d811
 data:
   definition:
   - content: quotient of the luminance of a field and the illuminance on the plane
-      of that field, for a {{17-29-020, diffused lighting}} and an observation direction
-      forming a {{cite:705-04-04, grazing angle}} with the road surface
+      of that field, for a {{concept:cie-2020:17-29-020, diffused lighting}} and an
+      observation direction forming a {{cite:IEV:705-04-04, grazing angle}} with the
+      road surface
     type: intensional
   examples: []
   notes:
@@ -52,7 +53,7 @@ data:
   - id: 705-04-04
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 705-04-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
     type: authoritative
@@ -63,4 +64,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-146
-id: 79a802bb-fcc4-52a5-93fc-ae5ca8be791b
+id: 40700b11-0a33-5cab-b40d-96099accac0e

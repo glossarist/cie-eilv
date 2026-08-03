@@ -19,7 +19,7 @@ sources:
 - id: 845-09-02
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-09-02
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-02
   type: authoritative
@@ -32,12 +32,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: See also "{{17-29-003, illuminating engineering}}".
+  - content: See also "{{concept:cie-2020:17-29-003, illuminating engineering}}".
     type: intensional
   - content: In French, the term “éclairagisme” has a different meaning in engineering
-      (see {{17-29-003, IEV 845-29-003}}).
+      (see {{concept:cie-2020:17-29-003, IEV 845-29-003}}).
     type: intensional
-  - content: This entry was numbered {{cite:845-09-02, 845-09-02}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-09-02, 845-09-02}} in IEC 60050-845:1987.
     type: intensional
   sources:
   - origin:
@@ -46,7 +46,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-09-02
     type: authoritative
   - origin:
@@ -57,7 +57,7 @@ data:
   - id: 845-09-02
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-09-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-02
     type: authoritative
@@ -68,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-002
-id: 4b0d2408-fbb5-5177-9030-9cac999dd048
+id: 0e90e47e-f6aa-5005-95fb-5e7d57abe66f

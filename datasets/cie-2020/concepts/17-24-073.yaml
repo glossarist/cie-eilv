@@ -19,7 +19,7 @@ sources:
 - id: 845-04-67
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-67
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-67
   type: authoritative
@@ -37,7 +37,7 @@ data:
   notes:
   - content: The reflectance factor optical density has unit one.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-67, 845-04-67}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-67, 845-04-67}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1060 in CIE S 017:2011.
     type: intensional
@@ -48,7 +48,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-67
     type: authoritative
   - origin:
@@ -59,7 +59,7 @@ data:
   - id: 845-04-67
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-67
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-67
     type: authoritative
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-073
-id: a4385ddc-8a49-55dc-b6c4-5c57965044d0
+id: c5e5257f-265f-51f0-a1d4-e85e93c9e810

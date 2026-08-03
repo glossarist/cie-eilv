@@ -14,7 +14,7 @@ sources:
 - id: 192-01-03
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 192-01-03
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=192-01-03
   type: authoritative
@@ -23,7 +23,8 @@ id: 427a6f5e-fcc6-524c-9370-cd20c5acfd44
 ---
 data:
   definition:
-  - content: "{{cite:192-01-03, system}} designed to provide {{17-29-001, lighting}}"
+  - content: "{{cite:IEV:192-01-03, system}} designed to provide {{concept:cie-2020:17-29-001,
+      lighting}}"
     type: intensional
   examples: []
   notes:
@@ -41,9 +42,9 @@ data:
 
       Note 5 to entry: A lighting system can be connected to or integrated with other systems or devices.
     type: intensional
-  - content: The {{17-27-001, light source}}(s) and the related equipment can be integrated
-      in a single item, e.g. an {{17-27-058, LED module}}, a lamp or a {{17-30-001,
-      luminaire}}.
+  - content: The {{concept:cie-2020:17-27-001, light source}}(s) and the related equipment
+      can be integrated in a single item, e.g. an {{concept:cie-2020:17-27-058, LED
+      module}}, a lamp or a {{concept:cie-2020:17-30-001, luminaire}}.
     type: intensional
   - content: A lighting system can be networked to provide central or remote control
       and monitoring functions.
@@ -59,7 +60,7 @@ data:
   - id: 192-01-03
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 192-01-03
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=192-01-03
     type: authoritative
@@ -70,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-010
-id: 5bad23b0-8858-5e66-9c0a-378e5a0b1524
+id: beed0726-6e2f-50d0-b697-d395da5fbd23

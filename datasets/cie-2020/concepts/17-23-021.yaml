@@ -19,7 +19,7 @@ sources:
 - id: 845-03-12
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-12
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-12
   type: authoritative
@@ -41,12 +41,13 @@ data:
       llluminants for Colorimetry_, in which examples are given for applications of
       use of CIE standard illuminants.'
     type: intensional
-  - content: Illuminants B, C and other {{17-23-020, daylight illuminants}}, previously
-      denoted as "standard illuminants", should now be termed "{{17-23-019, CIE illuminants}}".
+  - content: Illuminants B, C and other {{concept:cie-2020:17-23-020, daylight illuminants}},
+      previously denoted as "standard illuminants", should now be termed "{{concept:cie-2020:17-23-019,
+      CIE illuminants}}".
     type: intensional
-  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-12, 845-03-12}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-168 in CIE S 017:2011.
     type: intensional
@@ -57,7 +58,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-12
     type: authoritative
   - origin:
@@ -68,7 +69,7 @@ data:
   - id: 845-03-12
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-12
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-12
     type: authoritative
@@ -79,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-021
-id: 817e82f2-acca-59f5-8a09-c88c42cae44c
+id: ef697bd2-1853-5343-856d-8d6223eaec89

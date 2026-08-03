@@ -19,7 +19,7 @@ sources:
 - id: 845-03-09
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-03-09
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-09
   type: authoritative
@@ -28,13 +28,13 @@ id: 23e8d89b-f49c-5de2-8f11-2277e86d9209
 ---
 data:
   definition:
-  - content: two colour stimuli for which it is possible to reproduce the {{17-23-038,
+  - content: two colour stimuli for which it is possible to reproduce the {{concept:cie-2020:17-23-038,
       tristimulus values}} of a specified achromatic stimulus by a suitable additive
       mixture of these two stimuli
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:845-03-09, 845-03-09}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-03-09, 845-03-09}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-240 in CIE S 017:2011.
     type: intensional
@@ -45,7 +45,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-03-09
     type: authoritative
   - origin:
@@ -56,7 +56,7 @@ data:
   - id: 845-03-09
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-03-09
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-09
     type: authoritative
@@ -76,4 +76,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-013
-id: 3c185544-45c0-53c2-a9bb-5511733d4d50
+id: 25a1f8d0-5166-583e-80c5-b7c3c9c70b15

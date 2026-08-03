@@ -19,7 +19,7 @@ sources:
 - id: 845-04-70
   origin:
     ref:
-      source: IEC 60050 (IEV)
+      source: IEV
       id: 845-04-70
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-70
   type: authoritative
@@ -29,7 +29,7 @@ id: 5ee8b634-58b0-5ca8-925d-06b1aa9fcdcf
 data:
   definition:
   - content: |-
-      quotient of the {{17-21-049, radiance}} at a surface element of a medium in a given direction and the {{17-21-053, irradiance}} on the medium
+      quotient of the {{concept:cie-2020:17-21-049, radiance}} at a surface element of a medium in a given direction and the {{concept:cie-2020:17-21-053, irradiance}} on the medium
 
       stem:[q_e = ((L_e))/((E_e))]
 
@@ -44,7 +44,7 @@ data:
   - content: The radiance coefficient is expressed in steradian to the power minus
       one (sr^−1^).
     type: intensional
-  - content: This entry was numbered {{cite:845-04-70, 845-04-70}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-04-70, 845-04-70}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1013 in CIE S 017:2011.
     type: intensional
@@ -55,7 +55,7 @@ data:
     type: authoritative
   - origin:
       ref:
-        source: IEC 60050-845:1987
+        source: IEV
         id: 845-04-70
     type: authoritative
   - origin:
@@ -66,7 +66,7 @@ data:
   - id: 845-04-70
     origin:
       ref:
-        source: IEC 60050 (IEV)
+        source: IEV
         id: 845-04-70
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-70
     type: authoritative
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-078
-id: '087405f2-bf8e-5eca-a6dd-e96ab2f4b2c2'
+id: 3889a126-fc34-5817-9715-a81a99d4a263
