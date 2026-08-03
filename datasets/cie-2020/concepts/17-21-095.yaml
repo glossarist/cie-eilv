@@ -35,7 +35,7 @@ id: ae13402c-8ff2-50b2-90d0-afc188f7cd62
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of {{cite:103-06-02,
+  - content: luminance of a comparison field in which radiation of {{bib:103-06-02,
       frequency}} 540 × 10^12^ Hz has the same brightness as the field considered
       under the specified photometric conditions of measurement, where the comparison
       field must have a specified size and shape which can be different from that
@@ -52,7 +52,7 @@ data:
     type: intensional
   - content: The equivalent luminance is expressed in candela per square metre (cd·m^−2^).
     type: intensional
-  - content: This entry was numbered {{cite:845-01-58, 845-01-58}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-01-58, 845-01-58}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-397 in CIE S 017:2011.
     type: intensional

@@ -40,7 +40,7 @@ data:
 
       stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
 
-      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the {{cite:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant
+      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the {{bib:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant
     type: intensional
   examples: []
   notes:
@@ -58,11 +58,11 @@ data:
   - content: Both quantities (radiance and radiant exitance) apply to the {{17-21-021,
       unpolarized radiation}} as emitted.
     type: intensional
-  - content: For the up-to-date values of the Planck constant, stem:[h], the {{cite:113-01-34,
+  - content: For the up-to-date values of the Planck constant, stem:[h], the {{bib:113-01-34,
       speed of light in vacuum}}, stem:[c_0], and the Boltzmann constant, stem:[k],
       see CODATA.
     type: intensional
-  - content: This entry was numbered {{cite:845-04-05, 845-04-05}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-04-05, 845-04-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-958 in CIE S 017:2011.
     type: intensional

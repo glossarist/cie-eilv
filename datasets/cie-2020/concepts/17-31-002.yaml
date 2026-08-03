@@ -35,7 +35,7 @@ data:
   notes:
   - content: A sign can be internally illuminated.
     type: intensional
-  - content: This entry was numbered {{cite:845-11-03, 845-11-03}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-11-03, 845-11-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1179 in CIE S 017:2011.
     type: intensional

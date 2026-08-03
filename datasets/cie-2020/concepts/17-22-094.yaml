@@ -44,9 +44,9 @@ data:
       the average luminous flux to the total area. This is expressed mathematically
       as stem:[I_F = ((A_1))/((A_1 + A_2))], where stem:[A_1] is the area above the
       average luminous flux and stem:[A_2] is the area below the average luminous
-      flux as indicated in the following figure:\n\nimage::/assets/images/parts/845/{{cite:845-22-094,
-      845-22-094}}-en.png usemap=\"#{{cite:845-22-094, 845-22-094}}-en\"[]\r\n<map
-      name=\"{{cite:845-22-094, 845-22-094}}-en\">\n\n<area target=\"_self\" alt=\"luminous
+      flux as indicated in the following figure:\n\nimage::/assets/images/parts/845/{{bib:845-22-094,
+      845-22-094}}-en.png usemap=\"#{{bib:845-22-094, 845-22-094}}-en\"[]\r\n<map
+      name=\"{{bib:845-22-094, 845-22-094}}-en\">\n\n<area target=\"_self\" alt=\"luminous
       flux\" title=\"luminous flux\" href=\"IEV845-21-039\" coords=\"7,90,22,11\"
       shape=\"rect\">\n\n<area target=\"_self\" alt=\"time\" title=\"time\" href=\"IEV113-01-03\"
       coords=\"466,182,503,198\" shape=\"rect\">\n\n<area target=\"_self\" alt=\"period\"

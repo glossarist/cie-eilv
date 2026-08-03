@@ -31,7 +31,7 @@ data:
   - content: |-
       The optical beam axis is not necessarily the same as the lamp axis through the lamp cap or the lamp axis normal to a reference plane. The following figure illustrates the relation between the optical beam axis, the mechanical/geometrical axis, the peak intensity and the centre beam intensity.
 
-      image::/assets/images/parts/845/{{cite:845-27-076, 845-27-076}}-en.png[]
+      image::/assets/images/parts/845/{{bib:845-27-076, 845-27-076}}-en.png[]
     type: intensional
   sources:
   - origin:

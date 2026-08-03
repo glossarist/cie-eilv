@@ -29,7 +29,7 @@ id: 8a2f68a2-be25-5436-8fa2-412d05edc0d5
 data:
   definition:
   - content: value of the detector input that produces an output equal to the root
-      mean square (RMS) noise output, for a stated {{cite:103-06-02, frequency}} and
+      mean square (RMS) noise output, for a stated {{bib:103-06-02, frequency}} and
       bandwidth of the measuring instrument
     type: intensional
   examples: []

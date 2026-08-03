@@ -29,11 +29,10 @@ id: b4d00683-2fb1-5f92-8a46-9da3971dc0ff
 data:
   definition:
   - content: law stating that when a point on the retina is excited by a light stimulus
-      that undergoes periodic variations in magnitude at a {{cite:103-06-02, frequency}}
-      that exceeds the critical flicker {{cite:103-06-02, frequency}}, the visual
-      perception produced is identical to that produced by a steady stimulus whose
-      magnitude is equal to the mean magnitude of the variable stimulus taken over
-      one period
+      that undergoes periodic variations in magnitude at a {{bib:103-06-02, frequency}}
+      that exceeds the critical flicker {{bib:103-06-02, frequency}}, the visual perception
+      produced is identical to that produced by a steady stimulus whose magnitude
+      is equal to the mean magnitude of the variable stimulus taken over one period
     type: intensional
   examples: []
   notes: []

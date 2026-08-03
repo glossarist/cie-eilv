@@ -43,9 +43,9 @@ data:
       Roman letters when the equal sign "&amp;equals;", read as "equals" should be
       used: *C* = stem:[X]*X* + stem:[Y]*Y* + stem:[Z]*Z*'
     type: intensional
-  - content: This entry was numbered {{cite:845-03-24, 845-03-24}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-03-24, 845-03-24}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered {{cite:845-03-24, 845-03-24}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{bib:845-03-24, 845-03-24}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-209 in CIE S 017:2011.
     type: intensional
