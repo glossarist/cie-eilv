@@ -5,23 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-069
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916125225/http://eilv.cie.co.at/term/814
-  type: authoritative
-- id: 103-06-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 103-06-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-069
   type: authoritative
 status: valid
 id: 8a2f68a2-be25-5436-8fa2-412d05edc0d5
@@ -29,8 +22,8 @@ id: 8a2f68a2-be25-5436-8fa2-412d05edc0d5
 data:
   definition:
   - content: value of the detector input that produces an output equal to the root
-      mean square (RMS) noise output, for a stated {{bib:103-06-02, frequency}} and
-      bandwidth of the measuring instrument
+      mean square (RMS) noise output, for a stated frequency and bandwidth of the
+      measuring instrument
     type: intensional
   examples: []
   notes:
@@ -42,18 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 103-06-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 103-06-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-069
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -61,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-814
-id: f9ff999e-9796-5d81-b14f-71e7fa59dfd8
+id: 6a9d13cc-fd08-53cf-b088-3a7d276e5441

@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-073
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917163516/http://eilv.cie.co.at/term/1060
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-073
   type: authoritative
 status: valid
 id: f89dac54-9ca3-5cd4-b6c7-e651118f7385
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-073
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,8 +42,8 @@ data:
     designation: reflectance factor density
   - type: symbol
     normative_status: preferred
-    designation: reflectance factor density
+    designation: "<i>D</i><i><sub>R</sub></i>"
   language_code: eng
   annotations: []
 termid: 17-1060
-id: b76db69e-e1ec-5ed2-bddf-3625974da056
+id: be3fba68-f00d-575c-bce0-f02bd101a164

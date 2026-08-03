@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-053
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915155536/http://eilv.cie.co.at/term/1362
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-053
   type: authoritative
 status: valid
 id: e75e1d8d-009e-507d-9610-25b0e9ced205
@@ -27,18 +27,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] = 180 nm, stem:[lambda_2]
-      = 400 nm.'
+  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> = 180 nm,
+      <i>λ</i><sub>2</sub> = 400 nm.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-053
     type: authoritative
   terms:
   - type: expression
@@ -49,8 +44,8 @@ data:
     designation: HS
   - type: symbol
     normative_status: preferred
-    designation: HS
+    designation: "<i>H</i><i><sub>s</sub></i>"
   language_code: eng
   annotations: []
 termid: 17-1362
-id: 54d31d8b-c050-5f97-b9dd-988dd439147b
+id: f5272e9d-c60e-50b4-a4b9-aabc7cb78cc0

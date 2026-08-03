@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-007
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426223039/http://eilv.cie.co.at/term/137
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-007
   type: authoritative
 status: valid
 id: afdebf91-941d-5718-b2f6-dc5fcbd7f10d
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-007
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: characteristic, <of a light signal>
-  - type: symbol
-    normative_status: preferred
-    designation: characteristic, <of a light signal>
   language_code: eng
   annotations: []
 termid: 17-137
-id: d7f5377c-eff0-5e4b-9fbf-da5704a7cd62
+id: 2fb75a30-c4dc-53ce-bc6a-3280c8eda893

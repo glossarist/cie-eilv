@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-050
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915163706/http://eilv.cie.co.at/term/1102
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-050
   type: authoritative
 status: valid
 id: 5c469274-4a1a-5185-a21e-828f8ecd7d2c
@@ -26,8 +26,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] = 380 nm, stem:[lambda_2]
-      = 1400 nm.'
+  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> = 380 nm,
+      <i>λ</i><sub>2</sub> = 1400 nm.'
     type: intensional
   - content: This definition implies that an action spectrum is adopted for the actinic
       effect considered, and that its maximum value is 1. When giving a quantitative
@@ -39,11 +39,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-050
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -53,8 +48,8 @@ data:
     designation: LR; Lr
   - type: symbol
     normative_status: preferred
-    designation: LR; Lr
+    designation: "<i>L</i><sub>r</sub>"
   language_code: eng
   annotations: []
 termid: 17-1102
-id: efa70bd7-9619-55f8-a8bc-3e3e57cb9598
+id: 95dc9d76-3312-533b-89c2-3d109e236730

@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-010
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161818/http://eilv.cie.co.at/term/940
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-010
   type: authoritative
 status: valid
 id: 7dec43de-6a6c-5595-b07e-ef153ce13a58
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-010
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: blue light photoretinitis
-  - type: symbol
-    normative_status: preferred
-    designation: blue light photoretinitis
   language_code: eng
   annotations: []
 termid: 17-940
-id: 5fc93d99-f85e-5dd9-872a-eb7e960ed410
+id: 2cb13f8f-b888-50ff-bdce-036aa22ec79d

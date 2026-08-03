@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-028
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426112745/http://eilv.cie.co.at/term/591
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-028
   type: authoritative
 status: valid
 id: 209cf88b-b921-511c-99b3-065baa6d54b2
@@ -42,11 +42,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-028
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,10 +49,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: Ulbricht sphere
-  - type: symbol
-    normative_status: preferred
-    designation: Ulbricht sphere
   language_code: eng
   annotations: []
 termid: 17-591
-id: 80efeac6-2e3a-546f-9283-c977d164e548
+id: 24027eaf-83c0-5dec-a521-5db96caa6fd0

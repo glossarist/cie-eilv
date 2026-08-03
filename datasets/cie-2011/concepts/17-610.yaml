@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-004
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917132052/http://eilv.cie.co.at/term/610
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-004
   type: authoritative
 status: valid
 id: c95b6950-2168-5d54-aec1-f7cb6d295a5d
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-004
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: IR radiation
-  - type: symbol
-    normative_status: preferred
-    designation: IR radiation
   language_code: eng
   annotations: []
 termid: 17-610
-id: 5e35b6f9-7a5e-58a3-bbba-b75c00bc175d
+id: 58b07514-d14f-5d19-bc1f-e0d998c05fda

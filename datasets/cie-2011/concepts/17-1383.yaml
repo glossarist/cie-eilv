@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-069
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820004147/http://eilv.cie.co.at/term/1383
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-069
   type: authoritative
 status: valid
 id: 50b2ec9d-ff38-57bb-a35d-a452e2e45853
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-069
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: coefficient of utilization, <of an installation>
-  - type: symbol
-    normative_status: preferred
-    designation: coefficient of utilization, <of an installation>
   language_code: eng
   annotations: []
 termid: 17-1383
-id: b635ef52-24d6-5806-abd4-69998a43b870
+id: e0c456ee-157a-5b84-8623-8aac2fe9ad2a

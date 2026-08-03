@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-056
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101713/http://eilv.cie.co.at/term/98
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-056
   type: authoritative
 status: valid
 id: 0c3eeeef-952f-5935-8de5-9e201ebd2051
@@ -29,7 +29,7 @@ data:
   - content: This quantity is typically of interest for small sources subtending less
       than 0,011 rad.
     type: intensional
-  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] =300 nm, stem:[lambda_2]
+  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> =300 nm, <i>λ</i><sub>2</sub>
       =700 nm.'
     type: intensional
   - content: This definition implies that an action spectrum is adopted for the actinic
@@ -42,11 +42,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-056
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,8 +51,8 @@ data:
     designation: EB
   - type: symbol
     normative_status: preferred
-    designation: EB
+    designation: "<i>E</i><sub>b</sub>"
   language_code: eng
   annotations: []
 termid: 17-98
-id: 8be89db1-0cd6-57a2-a321-efcbf5565319
+id: a62e5b78-0491-557d-b9e7-f19e2a9e57c3

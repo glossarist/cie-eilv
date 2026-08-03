@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-077
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818135128/http://eilv.cie.co.at/term/717
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-077
   type: authoritative
 status: valid
 id: 7f70ab70-3f55-56a8-9de6-25c987f825e7
@@ -29,18 +29,13 @@ data:
   examples: []
   notes:
   - content: |-
-      For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, stem:[beta_(v,R)], and the luminescent luminance factor, stem:[beta_(v,L)]. The sum of the reflected and luminescent luminance factors is the total luminance factor, stem:[beta_(v,T)]: stem:[beta_(v,T)]= stem:[beta_(v,R)]+ stem:[beta_(v,L)].
+      For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, <i>β</i><sub>v,R</sub>, and the luminescent luminance factor, <i>β</i><sub>v,L</sub>. The sum of the reflected and luminescent luminance factors is the total luminance factor, <i>β</i><sub>v,T</sub>: <i>β</i><sub>v,T</sub>= <i>β</i><sub>v,R</sub>+ <i>β</i><sub>v,L</sub>.
       The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-077
     type: authoritative
   terms:
   - type: expression
@@ -52,8 +47,8 @@ data:
     designation: βv; β
   - type: symbol
     normative_status: preferred
-    designation: βv; β
+    designation: "<i>β</i><sub>v</sub>"
   language_code: eng
   annotations: []
 termid: 17-717
-id: a36420f5-73d6-5aec-9e31-3b665afb03fd
+id: 242475e4-f0d1-583f-b9d3-77c0a055b710

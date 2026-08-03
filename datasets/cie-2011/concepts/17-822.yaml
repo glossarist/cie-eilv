@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-047
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823041844/http://eilv.cie.co.at/term/822
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-047
   type: authoritative
 status: valid
 id: 48f3b649-6fa7-51de-9b9b-f64e4472c675
@@ -39,11 +39,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-047
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,10 +46,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: quantum detector
-  - type: symbol
-    normative_status: preferred
-    designation: quantum detector
   language_code: eng
   annotations: []
 termid: 17-822
-id: a9849459-699a-55ac-a8f5-b7b70bfb9c02
+id: 6cca17d5-3b41-524a-87d8-83d73f3eb0e8

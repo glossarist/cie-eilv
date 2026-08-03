@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-168
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042742/http://eilv.cie.co.at/term/698
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-168
   type: authoritative
 status: valid
 id: 85d45ec0-9fef-551d-abdc-4911f1e14b13
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-168
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: louvered ceiling
-  - type: symbol
-    normative_status: preferred
-    designation: louvered ceiling
   language_code: eng
   annotations: []
 termid: 17-698
-id: c40070ed-04c0-53ce-98f2-e3512ae8a264
+id: 24fb646e-cdca-5059-8d99-ee76e4154a28

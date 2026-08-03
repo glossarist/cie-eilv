@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-093
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917125522/http://eilv.cie.co.at/term/246
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-093
   type: authoritative
 status: valid
 id: b019fd7b-f4c4-5241-8a97-3062a17816b7
@@ -50,22 +50,17 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-093
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: configuration factor (between 2 surfaces S~1~ and S~2~)
+    designation: configuration factor (between 2 surfaces S<sub>1</sub> and S<sub>2</sub>)
   - type: symbol
     normative_status: preferred
     designation: c21; c12
   - type: symbol
     normative_status: preferred
-    designation: c21; c12
+    designation: "<i>c</i><sub>21</sub>, <i>c</i><sub>12</sub>"
   language_code: eng
   annotations: []
 termid: 17-246
-id: 55a51c2d-2eb1-53fd-a1b8-4c2ae727b496
+id: 3c753784-eb5e-5c0c-a903-d0dc592b5f6b

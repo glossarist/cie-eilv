@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-176
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820114526/http://eilv.cie.co.at/term/388
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-176
   type: authoritative
 status: valid
 id: 3c5e9160-5e94-58c9-be44-220089183242
@@ -26,17 +26,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Zones are indicated by the zone rating (E~1~… E~4~).
+  - content: Zones are indicated by the zone rating (E<sub>1</sub>… E<sub>4</sub>).
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-176
     type: authoritative
   terms:
   - type: expression
@@ -45,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-388
-id: c796535e-7f50-5b41-ae23-513d026be50f
+id: 46f6104f-29d6-5112-ac32-8916a1532b58

@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-085
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818130407/http://eilv.cie.co.at/term/744
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-085
   type: authoritative
 status: valid
 id: 79116d01-cd60-53b0-969f-d1d33c0df750
@@ -25,18 +25,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Non-metric, non-SI units: lumen per square foot (symbol: lm·ft^-2^),
+  - content: 'Non-metric, non-SI units: lumen per square foot (symbol: lm·ft<sup>-2</sup>),
       footcandle (symbol: fc) (US)'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-085
     type: authoritative
   terms:
   - type: expression
@@ -45,10 +40,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: lx
-  - type: symbol
-    normative_status: preferred
-    designation: lx
   language_code: eng
   annotations: []
 termid: 17-744
-id: 5ed32073-874c-58e6-b5be-6593e4e9a44f
+id: 1d7f3ddc-c6fd-5672-8d5a-843027700b29

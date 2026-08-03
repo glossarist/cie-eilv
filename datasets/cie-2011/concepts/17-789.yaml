@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-011
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920134753/http://eilv.cie.co.at/term/789
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-011
   type: authoritative
 status: valid
 id: 6db67295-572a-5e88-af20-1c8e312f1778
@@ -30,18 +30,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-011
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: monochromatic stimulus
-  - type: symbol
-    normative_status: preferred
-    designation: spectral stimulus
   - type: symbol
     normative_status: preferred
     designation: spectral stimulus
@@ -51,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-789
-id: 566d739c-aa5f-5d62-9d82-73056be52ba9
+id: 88a71c55-f4c3-5ae3-8067-ddafc0252999

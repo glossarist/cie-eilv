@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-078
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120603/http://eilv.cie.co.at/term/830
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-078
   type: authoritative
 status: valid
 id: 1b485f13-e993-5bd7-ba06-8f4b3aafdf79
@@ -31,18 +31,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-078
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: number-plate light
-  - type: symbol
-    normative_status: preferred
-    designation: rear registration-plate light
   - type: symbol
     normative_status: preferred
     designation: rear registration-plate light
@@ -52,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-830
-id: 3849bd26-5aa7-5683-8dd7-52ec8c768c36
+id: 7b625711-3ddf-52e1-bda4-06f5574825f5

@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-064
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191202070914/http://eilv.cie.co.at/term/1085
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-064
   type: authoritative
 status: valid
 id: a4031eb5-7612-5247-9de3-d927aeb10bba
@@ -28,18 +28,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The given reference value, stem:[s_m], can be an average value, a maximum
-      value or an arbitrarily chosen value of stem:[s](stem:[lambda]).
+  - content: The given reference value, <i>s</i><sub>m</sub>, can be an average value,
+      a maximum value or an arbitrarily chosen value of <i>s</i>(<i>λ</i>).
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-064
     type: authoritative
   terms:
   - type: expression
@@ -50,8 +45,8 @@ data:
     designation: sr(λ)
   - type: symbol
     normative_status: preferred
-    designation: sr(λ)
+    designation: "<i>s</i><sub>r</sub>(<i>λ</i>)"
   language_code: eng
   annotations: []
 termid: 17-1085
-id: 43c5dc5b-7a8e-53e2-9083-d6e9d6b07076
+id: 2bdcd4d4-370d-5664-97bd-ea384eca4a48

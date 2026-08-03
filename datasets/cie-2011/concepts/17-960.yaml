@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-004
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171002084244/http://eilv.cie.co.at/term/960
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-004
   type: authoritative
 status: valid
 id: d859750f-257f-5f76-b926-718838c6b215
@@ -35,18 +35,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-004
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: Planckian radiator
-  - type: symbol
-    normative_status: preferred
-    designation: blackbody
   - type: symbol
     normative_status: preferred
     designation: blackbody
@@ -56,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-960
-id: be651362-b62f-55dc-926f-d64e9523b14b
+id: b3b2fd02-4ae3-576b-9cfb-5459c3cd287d

@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-017
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915163756/http://eilv.cie.co.at/term/1142
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-017
   type: authoritative
 status: valid
 id: 5403d666-ff12-59ec-9105-2e843e46b8dc
@@ -26,7 +26,7 @@ data:
   examples: []
   notes:
   - content: Scotopic vision normally occurs when the eye is adapted to levels of
-      luminance of less than ~10^-3^ cd·m^-2^.
+      luminance of less than ~10<sup>-3</sup> cd·m<sup>-2</sup>.
     type: intensional
   - content: In comparison to photopic vision, scotopic vision is characterized by
       the lack of colour perception and by a shift of the visual sensitivity towards
@@ -37,11 +37,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-017
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1142
-id: 229a6ba2-dab9-5997-b9a8-c304b5ed3573
+id: 1cbc6eb0-a58c-5439-8e72-04645b2bd749

@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-066
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920144730/http://eilv.cie.co.at/term/404
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-066
   type: authoritative
 status: valid
 id: ce8b2525-5806-5680-9698-fa82e1394e75
@@ -35,11 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-066
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,8 +44,8 @@ data:
     designation: erythemal radiant exposure
   - type: symbol
     normative_status: preferred
-    designation: erythemal radiant exposure
+    designation: "<i>H</i><sub>er</sub>"
   language_code: eng
   annotations: []
 termid: 17-404
-id: 70047e85-ecdb-5065-bb2f-209d1b826508
+id: 7c6cda78-90f3-5922-95f6-294786600ec1

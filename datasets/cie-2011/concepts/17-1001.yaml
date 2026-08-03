@@ -26,8 +26,8 @@ data:
   - content: The duration of a lamp pulse is the time interval between the half-peak-power
       points on the leading and the trailing edges of the pulse.
     type: intensional
-  - content: In IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and
-      lamp systems], general lighting service lamps are defined to be continuous wave
+  - content: In IEC62471:2006/CIES009:2002 <i>Photobiological safety of lamp and lamp
+      systems</i>, general lighting service lamps are defined to be continuous wave
       lamps. Examples of pulsed lamps include photoflash lamps, flash lamps in photocopy
       machines, pulse-modulated LEDs, and strobe lights.
     type: intensional
@@ -43,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1001
-id: 2b0cc6b6-47cb-559b-b868-0c63a224d3f4
+id: 21d55958-97a5-5489-b8bb-b3ae437b5a77

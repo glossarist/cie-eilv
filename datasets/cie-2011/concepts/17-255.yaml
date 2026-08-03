@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-090
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920144059/http://eilv.cie.co.at/term/255
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-090
   type: authoritative
 status: valid
 id: 7917a837-50fc-5835-b440-5e3b841f0ef5
@@ -27,18 +27,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The value of stem:[S_c] depends on a number of factors including the
-      luminance, the viewing conditions and the state of adaptation.
+  - content: The value of <i>S</i><sub>c</sub> depends on a number of factors including
+      the luminance, the viewing conditions and the state of adaptation.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-090
     type: authoritative
   terms:
   - type: expression
@@ -49,8 +44,8 @@ data:
     designation: Sc
   - type: symbol
     normative_status: preferred
-    designation: Sc
+    designation: "<i>S</i><sub>c</sub>"
   language_code: eng
   annotations: []
 termid: 17-255
-id: 74fcbd26-faf6-57ca-ba7d-0f30c585178d
+id: 233c69ad-6129-5529-a987-36c22f9d8279

@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-035
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101723/http://eilv.cie.co.at/term/14
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-035
   type: authoritative
 status: valid
 id: 26532407-fa85-5d86-b74d-d8bf018a376b
@@ -40,11 +40,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-035
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,8 +49,8 @@ data:
     designation: Hact
   - type: symbol
     normative_status: preferred
-    designation: Hact
+    designation: "<i>H</i><sub>act</sub>"
   language_code: eng
   annotations: []
 termid: 17-14
-id: 70766cd2-fb9a-52f9-8bb7-6b861afb5fd5
+id: 45fc6cab-261e-537e-9fb6-2c907ad5c443

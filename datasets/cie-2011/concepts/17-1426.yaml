@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-025
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823045803/http://eilv.cie.co.at/term/1426
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-025
   type: authoritative
 status: valid
 id: 257638a8-58d5-5630-89ee-491ce36ed32a
@@ -29,12 +29,11 @@ data:
   - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided
       by the refractive index of the medium. Unless otherwise stated, values of wavelength
       are generally those in air. The refractive index of standard air (for spectroscopy:
-      stem:[T] = 15 ° C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29
+      <i>T</i> = 15 ° C, <i>p</i> = 101 325 Pa) lies between 1,000 27 and 1,000 29
       for visible radiation.'
     type: intensional
-  - content: stem:[lambda] = stem:[nu] / stem:[v], where stem:[lambda]is the wavelength
-      in a medium, stem:[nu] is the phase velocity in that medium and stem:[v] the
-      frequency.
+  - content: "<i>λ</i> = <i>ν</i> / <i>v</i>, where <i>λ</i>is the wavelength in a
+      medium, <i>ν</i> is the phase velocity in that medium and <i>v</i> the frequency."
     type: intensional
   - content: In optical radiation the units “nm” and “µm” are generally used.
     type: intensional
@@ -42,11 +41,6 @@ data:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-025
     type: authoritative
   terms:
   - type: expression
@@ -57,8 +51,8 @@ data:
     designation: λ
   - type: symbol
     normative_status: preferred
-    designation: λ
+    designation: "<i>λ</i>"
   language_code: eng
   annotations: []
 termid: 17-1426
-id: 8b1313bc-d4e8-507b-8b4c-373a8009bd1f
+id: 1f274802-99c7-581d-96ef-5b2e008eee15

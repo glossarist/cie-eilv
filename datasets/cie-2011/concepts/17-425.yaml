@@ -5,16 +5,16 @@ data:
   - concept_id: section-28
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-28-023
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917121806/http://eilv.cie.co.at/term/425
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-28-023
   type: authoritative
 status: valid
 id: 79ef5460-9457-5864-ba63-438d7a98090b
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-28-023
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: eyelet, US
-  - type: symbol
-    normative_status: preferred
-    designation: eyelet, US
   language_code: eng
   annotations: []
 termid: 17-425
-id: cc7ca38d-1667-57cc-b158-5fff6ecdc9b5
+id: 1ee33f13-338d-52f8-b5c6-5a6ca22a71d0

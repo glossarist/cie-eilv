@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-078
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916121319/http://eilv.cie.co.at/term/1403
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-078
   type: authoritative
 status: valid
 id: 854831ee-635c-5871-8ffd-69735bedd572
@@ -33,18 +33,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-078
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: visual acuity
-  - type: symbol
-    normative_status: preferred
-    designation: visual resolution, <quantitatively>
   - type: symbol
     normative_status: preferred
     designation: visual resolution, <quantitatively>
@@ -54,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1403
-id: 5b93a7f0-ad36-570d-a3a6-a1c825031d76
+id: 453603a8-14bb-5235-b590-f65571e6e4ed

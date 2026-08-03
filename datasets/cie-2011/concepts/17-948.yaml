@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-039
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820004559/http://eilv.cie.co.at/term/948
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-039
   type: authoritative
 status: valid
 id: 46619877-3bc1-57d9-9e16-39b5a28d2aae
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-039
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: phototube
-  - type: symbol
     normative_status: preferred
     designation: phototube
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-948
-id: d813cf0f-f0c6-5195-b646-41f34b7f1b9f
+id: 10a3ec1d-1b78-5d8e-828c-1188b4e42d8a

@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-083
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916121841/http://eilv.cie.co.at/term/439
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-083
   type: authoritative
 status: valid
 id: 20563eef-4a76-5bac-98d2-e98bc319fe7e
@@ -34,18 +34,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-083
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: flash tube
-  - type: symbol
-    normative_status: preferred
-    designation: electronic-flash lamp
   - type: symbol
     normative_status: preferred
     designation: electronic-flash lamp
@@ -55,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-439
-id: 9f27a428-81da-5aac-a590-5fbb036a2cda
+id: '08595225-249d-53be-aa15-2bf8d138c0fb'

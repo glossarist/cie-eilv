@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-097
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120254/http://eilv.cie.co.at/term/470
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-097
   type: authoritative
 status: valid
 id: 1534a8f0-59a9-5241-9ed2-825f35c40f62
@@ -29,18 +29,13 @@ data:
   - content: This geometry emphasizes texture and directionality.
     type: intensional
   - content: |-
-      The "x" in the symbol indicates that the azimuthal direction of the incident beam is in the stem:[x] direction on the reference plane.
-      See also CIE 15 stem:[Colorimetry](section 5)
+      The "x" in the symbol indicates that the azimuthal direction of the incident beam is in the <i>x</i> direction on the reference plane.
+      See also CIE 15 <i>Colorimetry</i>(section 5)
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-097
     type: authoritative
   terms:
   - type: expression
@@ -49,10 +44,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: 45°x geometry
-  - type: symbol
-    normative_status: preferred
-    designation: 45°x geometry
   language_code: eng
   annotations: []
 termid: 17-470
-id: '091a9069-5a4f-5a25-a9af-76bc423836d5'
+id: 28e4aaaa-35fd-5657-a324-e9d09c91ecd2

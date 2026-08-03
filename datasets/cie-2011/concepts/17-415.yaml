@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-071
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042048/http://eilv.cie.co.at/term/415
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-071
   type: authoritative
 status: valid
 id: 611b9f90-fb99-5db0-9ff9-3ac9fe7b99be
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-071
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,11 +40,11 @@ data:
     designation: duration of exposure
   - type: symbol
     normative_status: preferred
-    designation: duration of exposure
+    designation: "<i>t</i><sub>exp</sub>"
   - type: expression
     normative_status: admitted
     designation: duration of exposure
   language_code: eng
   annotations: []
 termid: 17-415
-id: a7fd1f79-5dfb-54b9-9aae-ce293c580bf5
+id: 829af6fe-1d16-58dc-83a0-5d5c8db70d02

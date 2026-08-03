@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-070
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818131051/http://eilv.cie.co.at/term/1040
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-070
   type: authoritative
 status: valid
 id: 5479904e-2f9e-5340-89b2-8eb1154f4fd9
@@ -34,18 +34,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-070
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: rear position light
-  - type: symbol
-    normative_status: preferred
-    designation: tail-light
   - type: symbol
     normative_status: preferred
     designation: tail-light
@@ -55,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1040
-id: dbc9dbe9-2260-507b-a3ce-21d2d8be0f05
+id: e1a7458e-58e7-5aac-87a9-f60bfad8176a

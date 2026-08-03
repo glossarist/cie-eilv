@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-087
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818125120/http://eilv.cie.co.at/term/1225
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-087
   type: authoritative
 status: valid
 id: 69b07783-e83f-5199-8564-a323fecbd95e
@@ -42,11 +42,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-087
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,11 +51,11 @@ data:
     designation: spectral optical depth, <of a medium>
   - type: symbol
     normative_status: preferred
-    designation: spectral optical depth, <of a medium>
+    designation: "<i>δ</i>(<i>λ</i>)"
   - type: expression
     normative_status: admitted
     designation: spectral optical thickness
   language_code: eng
   annotations: []
 termid: 17-1225
-id: 4fb8a9a1-02bd-573a-bb30-9b8fccf1f0fb
+id: b2156c99-80de-57e4-a69f-684b7196c2ed

@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-051
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171002115934/http://eilv.cie.co.at/term/578
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-051
   type: authoritative
 status: valid
 id: f3825948-058a-5950-8393-194941d062f5
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-051
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: heat cataract hazard
-  - type: symbol
-    normative_status: preferred
-    designation: heat cataract hazard
   language_code: eng
   annotations: []
 termid: 17-578
-id: d0a3beec-8f5e-5f0c-8dc7-84734a182536
+id: 8db625db-08ee-549b-9380-255b0795ada6

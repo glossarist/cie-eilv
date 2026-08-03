@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-078
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101738/http://eilv.cie.co.at/term/40
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-078
   type: authoritative
 status: valid
 id: 5a99f6c2-a289-5118-8839-19f972a4d76c
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-078
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,8 +39,8 @@ data:
     designation: incidence angle
   - type: symbol
     normative_status: preferred
-    designation: incidence angle
+    designation: "<i>ε</i>"
   language_code: eng
   annotations: []
 termid: 17-40
-id: 3935121b-92a8-552f-a60c-e44babc2a51b
+id: 9f35a4bd-0bb7-5492-8648-f47c3e772ac2

@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-092
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916130140/http://eilv.cie.co.at/term/611
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-092
   type: authoritative
 status: valid
 id: abfef37c-7851-5388-a0a2-5a04c6ce95cc
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-092
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: irradiation geometry
-  - type: symbol
     normative_status: preferred
     designation: irradiation geometry
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-611
-id: 0b758958-4d88-53ce-b8e3-340f9c0db4f4
+id: 3f1980b5-3a35-5218-9e3d-e930df557c93

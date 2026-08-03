@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-075
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823052412/http://eilv.cie.co.at/term/1015
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-075
   type: authoritative
 status: valid
 id: 4340e56d-afe6-50b9-91f2-5388da42b5be
@@ -29,18 +29,13 @@ data:
   examples: []
   notes:
   - content: |-
-      For photoluminescent media, the radiance factor contains 2 components, the reflected radiance factor, stem:[beta_R], and the luminescent radiance factor, stem:[beta_L]. The sum of the reflected and luminescent radiance factors is thetotal radiance factor, stem:[beta_T]: stem:[beta_T]=stem:[beta_R]+ stem:[beta_L].
+      For photoluminescent media, the radiance factor contains 2 components, the reflected radiance factor, <i>β</i><sub>R</sub>, and the luminescent radiance factor, <i>β</i><sub>L</sub>. The sum of the reflected and luminescent radiance factors is thetotal radiance factor, <i>β</i><sub>T</sub>: <i>β</i><sub>T</sub>=<i>β</i><sub>R</sub>+ <i>β</i><sub>L</sub>.
       The subscript R is used here for the reflected radiance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-075
     type: authoritative
   terms:
   - type: expression
@@ -52,8 +47,8 @@ data:
     designation: βe; β
   - type: symbol
     normative_status: preferred
-    designation: βe; β
+    designation: "<i>β</i>"
   language_code: eng
   annotations: []
 termid: 17-1015
-id: afc233ae-4429-5051-af40-df53de77bdf3
+id: 0f6a7658-d913-5489-a2f7-ff22768aa9b4

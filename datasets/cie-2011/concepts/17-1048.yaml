@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-037
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820003934/http://eilv.cie.co.at/term/1048
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-037
   type: authoritative
 status: valid
 id: 76176274-2e02-57ff-88a5-25d8f5daa827
@@ -33,18 +33,13 @@ data:
       achromatic stimulus.
     type: intensional
   - content: In the CIE standard colorimetric systems, the reference colour stimuli
-      are represented by the symbols [R], [G], [B]; [X], [Y], [Z], [R~10~], [G~10~],
-      [B~10~] and [X~10~], [Y~10~], [Z~10~].
+      are represented by the symbols [R], [G], [B]; [X], [Y], [Z], [R<sub>10</sub>],
+      [G<sub>10</sub>], [B<sub>10</sub>] and [X<sub>10</sub>], [Y<sub>10</sub>], [Z<sub>10</sub>].
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-037
     type: authoritative
   terms:
   - type: expression
@@ -53,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1048
-id: 8825dc8b-4d62-5aac-ae37-c89797b191b0
+id: 7d20eaa5-c76a-5132-a3f3-10721682240a

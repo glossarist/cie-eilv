@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-075
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922162512/http://eilv.cie.co.at/term/1356
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-075
   type: authoritative
 status: valid
 id: 3a0ca5cf-36f9-5db0-8be2-df8a706d744b
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-075
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: turn-signal light
-  - type: symbol
-    normative_status: preferred
-    designation: turn-signal light
   language_code: eng
   annotations: []
 termid: 17-1356
-id: 699dd5c4-8cb3-5a29-a45e-9a020325711e
+id: db610a43-0e4e-577e-8fe5-741f8e49a165

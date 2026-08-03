@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-030
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823051050/http://eilv.cie.co.at/term/701
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-030
   type: authoritative
 status: valid
 id: 5b6517bf-f601-55d2-bef2-8392ab5b1b61
@@ -32,11 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-030
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,10 +39,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: low-pressure mercury vapour lamp
-  - type: symbol
-    normative_status: preferred
-    designation: low-pressure mercury vapour lamp
   language_code: eng
   annotations: []
 termid: 17-701
-id: 9e50104d-cbc5-5baa-874f-584839bd7a64
+id: a86ae7b0-4e48-50dd-a06e-8aaa14b886c9

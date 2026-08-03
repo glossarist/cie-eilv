@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-023
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920140343/http://eilv.cie.co.at/term/390
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-023
   type: authoritative
 status: valid
 id: 77d8e9a4-6ee9-5357-a726-fb913a2c2aca
@@ -34,11 +34,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-023
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -46,10 +41,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: equal energy spectrum
-  - type: symbol
-    normative_status: preferred
-    designation: equal energy spectrum
   language_code: eng
   annotations: []
 termid: 17-390
-id: b4067a95-d39f-5459-9c0c-686c12c0ff18
+id: 6ea94dd8-3afd-5ff7-987d-1e400bc25e49

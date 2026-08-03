@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-023
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820013041/http://eilv.cie.co.at/term/1101
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-023
   type: authoritative
 status: valid
 id: 7cde38da-de6d-554d-93c6-c606cfc973ba
@@ -27,8 +27,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: In IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and
-      lamp systems]the maximum assessment time is taken as 10 s.
+  - content: In IEC62471:2006/CIES009:2002 <i>Photobiological safety of lamp and lamp
+      systems</i>the maximum assessment time is taken as 10 s.
     type: intensional
   - content: In some cases a blue light photoretinitis is also termed a "retinal burn".
     type: intensional
@@ -37,11 +37,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-023
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1101
-id: 9d570e15-dab3-5079-9055-01745f0b9de6
+id: fdd03ac5-a47a-5b0f-9d14-3e671947ab88

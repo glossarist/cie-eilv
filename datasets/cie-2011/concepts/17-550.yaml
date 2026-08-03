@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-060
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426172645/http://eilv.cie.co.at/term/550
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-060
   type: authoritative
 status: valid
 id: bf403b28-bb1d-5ee3-b6a7-0f4e85fe2639
@@ -35,11 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-060
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,8 +44,8 @@ data:
     designation: Ev; E
   - type: symbol
     normative_status: preferred
-    designation: Ev; E
+    designation: "<i>E</i><sub>v</sub>; <i>E</i>"
   language_code: eng
   annotations: []
 termid: 17-550
-id: 85c7baf3-2f47-537d-8f80-f99909675dee
+id: 45912450-cc48-5131-9c4b-48d0514cd904

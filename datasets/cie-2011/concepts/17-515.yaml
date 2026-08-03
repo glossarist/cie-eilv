@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-097
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171002120503/http://eilv.cie.co.at/term/515
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-097
   type: authoritative
 status: valid
 id: edf5f62e-4c81-54be-b7b6-1576462fb8f9
@@ -28,18 +28,13 @@ data:
   examples: []
   notes:
   - content: For indicating the shape of the indicatrix of diffusion it is recommended
-      that the diffusion factor stem:[sigma] be used for strongly diffusing materials,
-      and the half-value angle stem:[gamma] for poorly diffusing materials.
+      that the diffusion factor <i>σ</i> be used for strongly diffusing materials,
+      and the half-value angle <i>γ</i> for poorly diffusing materials.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-097
     type: authoritative
   terms:
   - type: expression
@@ -50,8 +45,8 @@ data:
     designation: γ
   - type: symbol
     normative_status: preferred
-    designation: γ
+    designation: "<i>γ</i>"
   language_code: eng
   annotations: []
 termid: 17-515
-id: 9b48daa3-b80a-53f7-9cd0-5fbda55f6a83
+id: 005be62f-dab2-5b67-bf3e-87e9038a7532

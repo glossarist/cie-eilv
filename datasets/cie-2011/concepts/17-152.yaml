@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-046
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20170401123923/http://eilv.cie.co.at/term/152
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-046
   type: authoritative
 status: valid
 id: 880d4b1c-c8e2-5812-a40d-572243e5e1a3
@@ -34,17 +34,12 @@ data:
     type: intensional
   - content: |-
       When this system is used, all symbols that represent colorimetric measures are distinguished by use of the subscript 10.
-      See also CIE 15 stem:[Colorimetry]
+      See also CIE 15 <i>Colorimetry</i>
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-046
     type: authoritative
   terms:
   - type: expression
@@ -55,8 +50,8 @@ data:
     designation: X10, Y10, Z10
   - type: symbol
     normative_status: preferred
-    designation: X10, Y10, Z10
+    designation: "<i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>"
   language_code: eng
   annotations: []
 termid: 17-152
-id: '09bd86ef-7863-53ba-b7ac-3a796eb1f7fa'
+id: f05796e0-d544-553c-9097-d7a7cc84ff72

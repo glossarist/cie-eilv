@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-085
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101406/http://eilv.cie.co.at/term/42
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-085
   type: authoritative
 status: valid
 id: c2c3d042-5624-5b7e-9085-bc275fb26b0c
@@ -28,7 +28,7 @@ data:
   - content: Subtended angles are denoted by the full included angle, not the half
       angle.
     type: intensional
-  - content: The angular subtense, stem:[alpha], will often be modified by incorporation
+  - content: The angular subtense, <i>α</i>, will often be modified by incorporation
       of lenses and mirrors as projector optics, in which case the angular subtense
       of the apparent source will differ from the angular subtense of the physical
       source.
@@ -36,19 +36,14 @@ data:
   - content: The angular subtense of an oblong source shall be determined by the arithmetic
       mean of the maximum and minimum angular dimension of the source.
     type: intensional
-  - content: 'In safety applications (IEC62471/CIES009:2006 stem:[Photobiological
-      safety of lamp and lamp systems]) the term is used as: angle subtended by an
-      apparent source as viewed from a point in space.'
+  - content: 'In safety applications (IEC62471/CIES009:2006 <i>Photobiological safety
+      of lamp and lamp systems</i>) the term is used as: angle subtended by an apparent
+      source as viewed from a point in space.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-085
     type: authoritative
   terms:
   - type: expression
@@ -59,8 +54,8 @@ data:
     designation: α
   - type: symbol
     normative_status: preferred
-    designation: α
+    designation: "<i>α</i>"
   language_code: eng
   annotations: []
 termid: 17-42
-id: cac358e6-cac2-50af-b81f-2fe14d612efb
+id: 9cc4e997-1fe1-507f-8ebe-3685e697d621

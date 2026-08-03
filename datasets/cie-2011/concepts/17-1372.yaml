@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-160
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915155547/http://eilv.cie.co.at/term/1372
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-160
   type: authoritative
 status: valid
 id: 84bca36f-b991-5ecb-99e0-b18dbb131e08
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-160
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -42,10 +37,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: uniformity ratio of illuminance
-  - type: symbol
-    normative_status: preferred
-    designation: uniformity ratio of illuminance
   language_code: eng
   annotations: []
 termid: 17-1372
-id: eec5a621-9988-52f1-934d-b163b94f5e7d
+id: f55fbc42-ca77-5903-9872-6d49efc0bca5

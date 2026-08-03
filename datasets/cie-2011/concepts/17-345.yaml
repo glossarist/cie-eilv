@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-062
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191228145755/http://eilv.cie.co.at/term/345
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-062
   type: authoritative
 status: valid
 id: 821bb200-57a8-58cd-b488-775542da8287
@@ -35,11 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-062
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,8 +44,8 @@ data:
     designation: λd
   - type: symbol
     normative_status: preferred
-    designation: λd
+    designation: "<i>λ</i><sub>d</sub>"
   language_code: eng
   annotations: []
 termid: 17-345
-id: ae305ebd-32bc-5c38-a0db-5f4924eb879a
+id: 6324bbdc-a0e9-57d3-ace5-f1f59bedd5bf

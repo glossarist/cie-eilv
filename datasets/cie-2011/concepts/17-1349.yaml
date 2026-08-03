@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-038
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915162936/http://eilv.cie.co.at/term/1349
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-038
   type: authoritative
 status: valid
 id: c3f37da6-71f1-5481-8f59-83a31e7be094
@@ -27,7 +27,7 @@ data:
   notes:
   - content: When the eye is viewing a surface of uniform luminance, the number of
       trolands is equal to the product of the area in square millimetres of the limiting
-      pupil, natural or artificial, by the luminance of the surface in cd·m^-2^.
+      pupil, natural or artificial, by the luminance of the surface in cd·m<sup>-2</sup>.
     type: intensional
   - content: In computing effective retinal illuminance, absorption, scattering, and
       reflection losses, and the dimensions of the particular eye under consideration
@@ -43,11 +43,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-038
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -55,10 +50,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: Td
-  - type: symbol
-    normative_status: preferred
-    designation: Td
   language_code: eng
   annotations: []
 termid: 17-1349
-id: 9dbc9d44-8105-5017-b722-41b65a9c4c2c
+id: 52ff3680-a590-5e2c-9e95-69df29fa1bfb

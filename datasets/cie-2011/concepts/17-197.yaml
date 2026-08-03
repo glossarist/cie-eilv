@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-001
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191220074543/http://eilv.cie.co.at/term/197
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-001
   type: authoritative
 status: valid
 id: 70182c09-378b-578f-8f75-eb7c1368ec83
@@ -39,11 +39,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-001
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -51,10 +46,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: color, <psychophysical> US
-  - type: symbol
-    normative_status: preferred
-    designation: color, <psychophysical> US
   language_code: eng
   annotations: []
 termid: 17-197
-id: d05d1cb7-1647-5340-b149-44acae926a9c
+id: 734e7c39-22dc-59c7-9494-bfde9bf9ad85

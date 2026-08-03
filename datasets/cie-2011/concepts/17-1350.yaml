@@ -5,16 +5,16 @@ data:
   - concept_id: section-30
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-30-027
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917171921/http://eilv.cie.co.at/term/1350
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-30-027
   type: authoritative
 status: valid
 id: 3ba73bd3-acbc-5d2e-92ea-2d3cf08cdc09
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-30-027
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -42,10 +37,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: trouble lamp, US
-  - type: symbol
-    normative_status: preferred
-    designation: trouble lamp, US
   language_code: eng
   annotations: []
 termid: 17-1350
-id: 23185291-1bad-595a-bc4b-4765b89a41e6
+id: a1ac0d30-5dc1-5cc1-a7ec-19311f8d36f3

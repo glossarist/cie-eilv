@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-017
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917124903/http://eilv.cie.co.at/term/341
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-017
   type: authoritative
 status: valid
 id: 2235dbf8-8b78-5bde-ab92-8e14d9b2e102
@@ -65,23 +65,18 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-017
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: distribution temperature (of a source in a given wavelength range,
-      stem:[lambda_1] to stem:[lambda_2])
+      <i>λ</i><sub>1</sub> to <i>λ</i><sub>2</sub>)
   - type: symbol
     normative_status: preferred
     designation: TD
   - type: symbol
     normative_status: preferred
-    designation: TD
+    designation: "<i>T</i><sub>D</sub>"
   language_code: eng
   annotations: []
 termid: 17-341
-id: bb448cef-2ba0-5ac8-b3a6-ba9fa7129f3e
+id: 7457a44a-c2cf-570c-97aa-61e6e55c1d89

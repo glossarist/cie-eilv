@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-040
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426182249/http://eilv.cie.co.at/term/122
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-040
   type: authoritative
 status: valid
 id: 4c90e917-76e1-5584-8b30-a7e8f7d52735
@@ -31,18 +31,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-040
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: cardinal light
-  - type: symbol
-    normative_status: preferred
-    designation: cardinal mark
   - type: symbol
     normative_status: preferred
     designation: cardinal mark
@@ -52,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-122
-id: eeb30523-e330-5c1d-a633-628287872404
+id: 25221ce4-7422-5fd9-b0c5-5e2043fc36f7

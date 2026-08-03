@@ -5,51 +5,33 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-083
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426223537/http://eilv.cie.co.at/term/117
   type: authoritative
-- id: 112-02-10
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 112-02-10
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=112-02-10
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-083
-  type: authoritative
 status: valid
 id: 4c575751-1ae4-5e9c-aaac-bd52cb3778bf
 ---
 data:
   definition:
-  - content: See {{bib:112-02-10, IEV 112-02-10}}
+  - content: See IEV 112-02-10
     type: intensional
   examples: []
   notes:
-  - content: Defined by the 16^th^ General Conference of Weights and Measures, 1979.
+  - content: Defined by the 16<sup>th</sup> General Conference of Weights and Measures,
+      1979.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - id: 112-02-10
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 112-02-10
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=112-02-10
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-083
     type: authoritative
   terms:
   - type: expression
@@ -58,10 +40,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: cd
-  - type: symbol
-    normative_status: preferred
-    designation: cd
   language_code: eng
   annotations: []
 termid: 17-117
-id: ced33703-40b0-5236-8d20-5795ef82d3ea
+id: 4984bd9f-43fc-5ac1-98df-7955ba764b8d

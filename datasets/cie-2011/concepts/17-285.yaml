@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-031
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922034012/http://eilv.cie.co.at/term/285
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-031
   type: authoritative
 status: valid
 id: 8d18d5f5-92f7-59b6-922f-b236adb3c7b4
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-031
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,10 +40,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: 'DEPRECATED: natural lighting'
-  - type: symbol
-    normative_status: preferred
-    designation: 'DEPRECATED: natural lighting'
   language_code: eng
   annotations: []
 termid: 17-285
-id: 4b5dcd6d-f24a-546b-86fe-53768f0bd618
+id: 4d86474a-2017-5e24-bda7-e8231d73c50e

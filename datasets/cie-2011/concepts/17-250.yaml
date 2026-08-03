@@ -23,8 +23,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: In IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and
-      lamp systems], general lighting service (GLS) lamps are defined to be continuous
+  - content: In IEC62471:2006/CIES009:2002 <i>Photobiological safety of lamp and lamp
+      systems</i>, general lighting service (GLS) lamps are defined to be continuous
       wave lamps.
     type: intensional
   sources:
@@ -39,4 +39,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-250
-id: 88ef2cc5-c9d6-5922-8abb-0f85afb77538
+id: 512953a3-b25a-5cfe-a3ea-2670a42a47aa

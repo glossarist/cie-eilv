@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-037
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818125150/http://eilv.cie.co.at/term/733
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-037
   type: authoritative
 status: valid
 id: cda709d7-fb58-5525-8aba-715678d3695b
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-037
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +40,8 @@ data:
     designation: 'DEPRECATED: quantity of light'
   - type: symbol
     normative_status: preferred
-    designation: 'DEPRECATED: quantity of light'
+    designation: "<i>Q</i><sub>v</sub>; <i>Q</i>"
   language_code: eng
   annotations: []
 termid: 17-733
-id: 71126a24-74ef-5647-9e04-c4aed9d8f062
+id: 6e0ab758-507f-5220-a538-c702567844ae

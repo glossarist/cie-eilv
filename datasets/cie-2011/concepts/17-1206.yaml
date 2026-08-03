@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-028
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042818/http://eilv.cie.co.at/term/1206
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-028
   type: authoritative
 status: valid
 id: 0027643d-cb7d-5f64-af82-b4b0f0623713
@@ -29,23 +29,18 @@ data:
   notes:
   - content: In the latter case, in French, "spectrique" is preferred to "spectral".
     type: intensional
-  - content: stem:[X_(stem:[lambda])] is also a function of stem:[lambda] and in order
-      to stress this, may be written stem:[X_(stem:[lambda])](stem:[lambda]) without
-      any change of meaning.
+  - content: "<i>X</i><sub><i>λ</i></sub> is also a function of <i>λ</i> and in order
+      to stress this, may be written <i>X</i><sub><i>λ</i></sub>(<i>λ</i>) without
+      any change of meaning."
     type: intensional
-  - content: The quantity stem:[X] can also be expressed as a function of frequency
-      stem:[nu], wave number stem:[sigma], etc.; the corresponding symbols are stem:[X](stem:[nu]),
-      stem:[X](σ), etc. and stem:[X_(stem:[nu])], stem:[X_(sigma)], etc.
+  - content: The quantity <i>X</i> can also be expressed as a function of frequency
+      <i>ν</i>, wave number <i>σ</i>, etc.; the corresponding symbols are <i>X</i>(<i>ν</i>),
+      <i>X</i>(σ), etc. and <i>X</i><sub><i>ν</i></sub>, <i>X</i><sub>σ</sub>, etc.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-028
     type: authoritative
   terms:
   - type: expression
@@ -54,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1206
-id: f89e0456-0045-50a3-ab7e-1bf184006952
+id: 126f4ea1-e2b3-52bd-b6e9-3914b108d8da

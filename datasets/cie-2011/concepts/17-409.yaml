@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-036
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916125947/http://eilv.cie.co.at/term/409
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-036
   type: authoritative
 status: valid
 id: 74ccff53-0255-51e2-9add-5a6d3874ca4f
@@ -31,17 +31,12 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-036
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: excitation spectrum (for a monochromatic component of specified wavelength
-      stem:[lambda]of the emitted radiation)
+      <i>λ</i>of the emitted radiation)
   language_code: eng
   annotations: []
 termid: 17-409
-id: 604d4267-afb3-52c9-a905-5488dcfd5d92
+id: dcb89116-834b-592d-a59a-2f9bbc2aa269

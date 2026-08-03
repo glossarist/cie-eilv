@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-006
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120315/http://eilv.cie.co.at/term/472
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-006
   type: authoritative
 status: valid
 id: b375a45b-938b-5d38-9d7a-296192417435
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-006
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: fovea centralis
-  - type: symbol
     normative_status: preferred
     designation: fovea centralis
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-472
-id: c8766068-50a3-5db0-8684-283ee12f866b
+id: 1151af8f-79c5-581d-aa8e-b0366aa84fa6

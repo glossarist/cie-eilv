@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-058
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101718/http://eilv.cie.co.at/term/100
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-058
   type: authoritative
 status: valid
 id: 9ab079b4-41c0-565d-8766-6bdec9d9bb23
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-058
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +40,8 @@ data:
     designation: blue light hazard time integrated radiance
   - type: symbol
     normative_status: preferred
-    designation: blue light hazard time integrated radiance
+    designation: "<i>L</i><sub>b,</sub><i><sub>t</sub></i>"
   language_code: eng
   annotations: []
 termid: 17-100
-id: 59d7f8d4-a4e2-5f43-b285-c064eb907f84
+id: ad0bb799-2efa-5b30-9ff7-a5f999da4bbe

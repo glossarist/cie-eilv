@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-185
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915155359/http://eilv.cie.co.at/term/1273
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-185
   type: authoritative
 status: valid
 id: 4accb827-3bc2-58d6-a592-8a77d2a9666a
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-185
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: stray light, <in a lighting installation>
-  - type: symbol
-    normative_status: preferred
-    designation: stray light, <in a lighting installation>
   language_code: eng
   annotations: []
 termid: 17-1273
-id: bb113773-581a-5ded-b36d-1ab3ddb56b7c
+id: 100d49d5-b2fe-5f75-b99f-ee28ea9beded

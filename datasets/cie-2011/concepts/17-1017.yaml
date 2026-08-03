@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-077
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161228/http://eilv.cie.co.at/term/1017
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-077
   type: authoritative
 status: valid
 id: c9851846-4397-5930-be60-d02d4dc1d194
@@ -28,20 +28,15 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The analogous quantities "luminous cylindrical exposure", stem:[H_(v,z)],
-      and "photon cylindrical exposure", stem:[H_(p,z)], are defined in a similar
-      way, replacing cylindrical irradiance, stem:[E_(e,z)], by cylindrical illuminance,
-      stem:[E_(v,z)], or photon cylindrical irradiance, stem:[E_(p,z)].
+  - content: The analogous quantities "luminous cylindrical exposure", <i>H</i><sub>v,z</sub>,
+      and "photon cylindrical exposure", <i>H</i><sub>p,z</sub>, are defined in a
+      similar way, replacing cylindrical irradiance, <i>E</i><sub>e,z</sub>, by cylindrical
+      illuminance, <i>E</i><sub>v,z</sub>, or photon cylindrical irradiance, <i>E</i><sub>p,z</sub>.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-077
     type: authoritative
   terms:
   - type: expression
@@ -53,8 +48,8 @@ data:
     designation: He,c; Hc
   - type: symbol
     normative_status: preferred
-    designation: He,c; Hc
+    designation: "<i>H</i><sub>e,z</sub>"
   language_code: eng
   annotations: []
 termid: 17-1017
-id: ef96f12e-c87d-5545-a21b-28862388f30f
+id: 94dedad7-45db-5719-a528-d5ae82fd595a

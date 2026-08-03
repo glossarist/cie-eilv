@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-009
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917121826/http://eilv.cie.co.at/term/382
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-009
   type: authoritative
 status: valid
 id: a5cbddec-6f77-5735-9daa-96f11485228b
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-009
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,8 +42,8 @@ data:
     designation: hemispherical emissivity
   - type: symbol
     normative_status: preferred
-    designation: hemispherical emissivity
+    designation: "<i>ε</i>, <i>ε</i><sub>h</sub>"
   language_code: eng
   annotations: []
 termid: 17-382
-id: a148027f-0e16-5577-b951-be077e622d6a
+id: 9829ebc2-052c-5c53-ba1b-a049fc3818e9

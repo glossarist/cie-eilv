@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-046
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820004724/http://eilv.cie.co.at/term/1188
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-046
   type: authoritative
 status: valid
 id: 05fa10e1-42eb-57f1-80b3-328e0ed0eb0d
@@ -27,18 +27,13 @@ data:
   examples: []
   notes:
   - content: Where the duration of exposure is not known, IEC62471:2006/CIES009:2002
-      stem:[Photobiological safety of lamp and lamp systems]applies a duration of
+      <i>Photobiological safety of lamp and lamp systems</i>applies a duration of
       8 h.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-046
     type: authoritative
   terms:
   - type: expression
@@ -47,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1188
-id: c5426c70-f47a-57c3-8794-9a2240bbbdd8
+id: f21686de-dd9c-5071-ae7a-31732467e904

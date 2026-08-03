@@ -5,30 +5,23 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-081
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101839/http://eilv.cie.co.at/term/6
   type: authoritative
-- id: 705-02-07
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 705-02-07
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-02-07
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-081
-  type: authoritative
 status: valid
 id: bfecfc76-2e05-587f-a316-f93cd1c60bc4
 ---
 data:
   definition:
-  - content: See {{bib:705-02-07, IEV 705-02-07}}
+  - content: See IEV 705-02-07
     type: intensional
   examples: []
   notes: []
@@ -37,18 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 705-02-07
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 705-02-07
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-02-07
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-081
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -56,4 +37,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-6
-id: 66bcba07-c67d-5863-9a33-7130aa91bdf0
+id: 3ef7ca28-cdce-5adf-a36e-41abc8dd323b

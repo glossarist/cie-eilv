@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-106
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426131729/http://eilv.cie.co.at/term/510
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-106
   type: authoritative
 status: valid
 id: aed5eab7-6272-52cd-ac9c-7019a59ebee7
@@ -30,22 +30,14 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-106
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: GR~L~ (abbreviation)
-  - type: symbol
-    normative_status: preferred
-    designation: GRL
+    designation: GR<sub>L</sub> (abbreviation)
   - type: symbol
     normative_status: preferred
     designation: GRL
   language_code: eng
   annotations: []
 termid: 17-510
-id: bf826a27-ecc5-53b0-91c0-9d703abdf567
+id: 76feb479-7acc-57e1-9062-a0dfb5929c2e

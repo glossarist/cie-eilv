@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-029
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820015728/http://eilv.cie.co.at/term/1212
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-029
   type: authoritative
 status: valid
 id: b151f731-f031-521a-af55-e85bdefa5eaa
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-029
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,8 +42,8 @@ data:
     designation: spectral concentration
   - type: symbol
     normative_status: preferred
-    designation: spectral concentration
+    designation: "<i>X</i><sub><i>λ</i></sub>(<i>λ</i>); (<i>X</i><sub><i>λ</i></sub>)"
   language_code: eng
   annotations: []
 termid: 17-1212
-id: a8624b70-ad8b-5287-9e29-bd9557bd0c56
+id: b19a52ee-28d3-556a-b2b6-90741ee69d62

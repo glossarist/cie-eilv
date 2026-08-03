@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-098
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917121418/http://eilv.cie.co.at/term/627
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-098
   type: authoritative
 status: valid
 id: 12d928fc-47cf-59e4-998d-2c2e4f154af6
@@ -30,16 +30,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-098
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: isotropic point source
-  - type: symbol
     normative_status: preferred
     designation: isotropic point source
   - type: symbol
@@ -48,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-627
-id: e8bce182-c9d5-5767-9174-b6400dda9c89
+id: 80439e26-2feb-5daf-838e-b302dc66ddd8
