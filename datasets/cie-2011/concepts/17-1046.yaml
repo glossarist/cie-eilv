@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-1046
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015838/http://eilv.cie.co.at/term/1046
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-103
+  type: authoritative
+status: valid
+id: ca81c90f-dbbc-5a03-ad56-9bbad280e7a7
+---
+data:
+  definition:
+  - content: luminance coefficient multiplied by the cube of the cosine of the angle
+      of incidence of the light on a point on a surface
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      This can be expressed by the equation
+      stem:[r]= stem:[q] (cosstem:[epsilon])^3^
+      where
+      stem:[q] is the luminance coefficient in sr^-1^;
+      stem:[epsilon] is the angle of incidence in °.
+    type: intensional
+  - content: The angle of observation, stem:[alpha], affects the value of stem:[r].
+      By convention this angle is fixed at 1° for road lighting calculations.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reduced luminance coefficient (for a point on a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: r
+  - type: symbol
+    normative_status: preferred
+    designation: r
+  language_code: eng
+  annotations: []
+termid: 17-1046
+id: 42e1aaca-527d-52cd-9984-61feb3bb5e03

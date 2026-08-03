@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1107
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004056/http://eilv.cie.co.at/term/1107
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-100
+  type: authoritative
+status: valid
+id: a46fd80a-f057-519f-9114-9b509e8569a2
+---
+data:
+  definition:
+  - content: surface or device which exhibits retroreflection
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-100
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflector
+  language_code: eng
+  annotations: []
+termid: 17-1107
+id: b27d69a8-ebb1-546e-9011-ba59bd340f47

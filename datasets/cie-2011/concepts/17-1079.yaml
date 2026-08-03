@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1079
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160710/http://eilv.cie.co.at/term/1079
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-067
+  type: authoritative
+status: valid
+id: e0996e76-8047-53c3-9d18-7575b91c297b
+---
+data:
+  definition:
+  - content: quotient of the regularly transmitted part of the (whole) transmitted
+      flux and the incident flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular transmittance
+  - type: symbol
+    normative_status: preferred
+    designation: τr
+  - type: symbol
+    normative_status: preferred
+    designation: τr
+  language_code: eng
+  annotations: []
+termid: 17-1079
+id: b4ff5ce3-7234-5950-9fc8-a362e5d6ffab

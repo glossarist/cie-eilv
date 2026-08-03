@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-949
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042913/http://eilv.cie.co.at/term/949
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-043
+  type: authoritative
+status: valid
+id: 7640df55-373d-518f-8a56-119cb9dd12f8
+---
+data:
+  definition:
+  - content: photoelectric detector that utilizes the electromotive force produced
+      by the absorption of optical radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-043
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photovoltaic cell
+  - type: symbol
+    normative_status: preferred
+    designation: photoelement
+  - type: symbol
+    normative_status: preferred
+    designation: photoelement
+  - type: expression
+    normative_status: admitted
+    designation: photoelement
+  language_code: eng
+  annotations: []
+termid: 17-949
+id: 31a1bb7e-d9c1-5148-868e-b12a679f00e2

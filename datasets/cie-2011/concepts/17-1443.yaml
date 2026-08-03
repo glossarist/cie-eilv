@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-1443
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922034214/http://eilv.cie.co.at/term/1443
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-068
+  type: authoritative
+status: valid
+id: '09c836e0-c1d2-5f48-b75a-da89b24de3f0'
+---
+data:
+  definition:
+  - content: reference surface defined as the plane at which work is usually done
+    type: intensional
+  examples: []
+  notes:
+  - content: In interior lighting and unless otherwise indicated, this plane is assumed
+      to be a horizontal plane 0,85 m above the floor and limited by the walls of
+      the room. In the US the working plane is usually assumed to be 0,76 m above
+      the floor, in Russia 0,8 m above the floor.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working plane
+  - type: symbol
+    normative_status: preferred
+    designation: work plane
+  - type: symbol
+    normative_status: preferred
+    designation: work plane
+  - type: expression
+    normative_status: admitted
+    designation: work plane", "utilization plane
+  language_code: eng
+  annotations: []
+termid: 17-1443
+id: 073f49d7-226f-5fba-946b-795e6d3b9519

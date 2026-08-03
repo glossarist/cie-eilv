@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-27
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101859/http://eilv.cie.co.at/term/27
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-058
+  type: authoritative
+status: valid
+id: 74c11a41-e908-5fe0-92f4-ccc8b68e570c
+---
+data:
+  definition:
+  - content: spectral radiance distribution as seen by an image capture or measurement
+      device and converted to colour signals that are considered to be perfectly achromatic
+      and to have an observer adaptive luminance factor of unity
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-058
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adopted white
+  language_code: eng
+  annotations: []
+termid: 17-27
+id: 6926ca2c-d2cb-5676-ad78-7eac7eac7376

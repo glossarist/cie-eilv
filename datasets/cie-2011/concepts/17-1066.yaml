@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1066
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915165103/http://eilv.cie.co.at/term/1066
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-111
+  type: authoritative
+status: valid
+id: a86d1951-28b6-5a5e-a365-5f5f3d9e7de6
+---
+data:
+  definition:
+  - content: sign having elements that are visible by reflection of light from the
+      Sun or other sources
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-111
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflective sign
+  language_code: eng
+  annotations: []
+termid: 17-1066
+id: 30e8f56a-d535-5593-a8e5-dc9f641cb7b5

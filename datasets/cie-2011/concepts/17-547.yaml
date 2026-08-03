@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-547
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426112459/http://eilv.cie.co.at/term/547
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-048
+  type: authoritative
+status: valid
+id: b7d8a470-774d-500b-b30e-df8540daa3b1
+---
+data:
+  definition:
+  - content: file format and encoding used to store transforms that relate one colour
+      encoding with another, in a form defined by the International Color Consortium
+      (ICC)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ICC profile format
+  - type: symbol
+    normative_status: preferred
+    designation: ICC profile format
+  - type: symbol
+    normative_status: preferred
+    designation: ICC profile format
+  language_code: eng
+  annotations: []
+termid: 17-547
+id: 3fc30e63-2ac1-5cb7-b8a4-e654540ff007

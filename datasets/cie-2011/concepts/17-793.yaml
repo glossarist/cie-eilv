@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-793
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121611/http://eilv.cie.co.at/term/793
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-187
+  type: authoritative
+status: valid
+id: ebfe46fc-cba7-5879-a3d9-0a7504bdf39b
+---
+data:
+  definition:
+  - content: vertical distance between the centre of the luminaire and the ground
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-187
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mounting height
+  language_code: eng
+  annotations: []
+termid: 17-793
+id: 703de99e-22b6-571c-9c37-d25cd4c98be9

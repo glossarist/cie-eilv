@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-338
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922035150/http://eilv.cie.co.at/term/338
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-036
+  type: authoritative
+status: valid
+id: 44477c90-4293-50f0-9340-e4f87d7649f6
+---
+data:
+  definition:
+  - content: display that incorporates a practically flat surface, and is generally
+      much thinner than its diagonal, for the presentation of visual information and
+      whose surface contains an active area consisting of a regular array of electrically
+      alterable, discrete picture elements (pixels) in rows and columns
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: display, flat panel
+  language_code: eng
+  annotations: []
+termid: 17-338
+id: '03287144-fb92-5f04-8fd2-42c510d20a56'

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-557
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426122237/http://eilv.cie.co.at/term/557
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-028
+  type: authoritative
+status: valid
+id: 93d6fd41-ca57-5344-b441-8de05d8d2414
+---
+data:
+  definition:
+  - content: colour seen as ascribed to a source of illumination
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-028
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminant mode (of colour appearance)
+  language_code: eng
+  annotations: []
+termid: 17-557
+id: 5f066fa8-af88-5409-9fc2-c21fc62fe72b

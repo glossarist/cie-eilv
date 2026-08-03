@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1204
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160354/http://eilv.cie.co.at/term/1204
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-037
+  type: authoritative
+status: valid
+id: 258327c5-2dfe-5bea-b01a-bdc4d65c4e86
+---
+data:
+  definition:
+  - content: presentation, by means of curves or tables, of the values of the luminous
+      intensity of a source as a function of direction in space
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(spatial) distribution of luminous intensity (of a source)"
+  - type: symbol
+    normative_status: preferred
+    designation: distribution of luminous intensity
+  - type: symbol
+    normative_status: preferred
+    designation: distribution of luminous intensity
+  language_code: eng
+  annotations: []
+termid: 17-1204
+id: 1cf6bb84-8610-538b-ba8d-a76821df1684

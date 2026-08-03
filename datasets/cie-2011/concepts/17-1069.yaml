@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1069
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155730/http://eilv.cie.co.at/term/1069
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-038
+  type: authoritative
+status: valid
+id: ddfe9252-761c-582f-9f7c-4aaf13f21f76
+---
+data:
+  definition:
+  - content: device predominantly using reflection to alter the spatial distribution
+      of radiation from a source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflector
+  language_code: eng
+  annotations: []
+termid: 17-1069
+id: fd549d00-c796-5194-881c-6742b099c988

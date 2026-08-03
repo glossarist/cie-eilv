@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-18
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145710/http://eilv.cie.co.at/term/18
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-012
+  type: authoritative
+status: valid
+id: 27c0fcbb-a418-5854-a298-c1543b11fc0d
+---
+data:
+  definition:
+  - content: process by which the state of the visual system is modified by previous
+      and present exposure to stimuli that can have various luminance values, spectral
+      distributions and angular subtenses
+    type: intensional
+  examples: []
+  notes:
+  - content: Adaptation to specific spatial frequencies, orientations, sizes, etc.
+      is recognized as being included in this definition.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-012
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adaptation
+  language_code: eng
+  annotations: []
+termid: 17-18
+id: 357bcb52-1a85-52c6-bc3d-c37ddebd5f31

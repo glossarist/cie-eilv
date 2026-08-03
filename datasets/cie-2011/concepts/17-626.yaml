@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-626
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134936/http://eilv.cie.co.at/term/626
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-059
+  type: authoritative
+status: valid
+id: 4987deb9-91d9-5527-acab-18e8fee3f55a
+---
+data:
+  definition:
+  - content: diffuse transmission in which the spatial distribution of the transmitted
+      radiation is such that the radiance or luminance is the same in all directions
+      in the hemisphere into which the radiation is transmitted
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-059
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isotropic diffuse transmission
+  language_code: eng
+  annotations: []
+termid: 17-626
+id: 2c4fc6e0-429f-5b49-8bf5-47a66108c1fa

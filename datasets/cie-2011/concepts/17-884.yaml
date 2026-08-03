@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-884
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920145235/http://eilv.cie.co.at/term/884
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-039
+  type: authoritative
+status: valid
+id: 344c1e42-e8d7-5d39-a5b5-703d3084af79
+---
+data:
+  definition:
+  - content: spherical irradiance spectrally weighted with a stated photobiological
+      action spectrum
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition implies that an action spectrum is adopted for the actinic
+      effect considered, and that its maximum value is 1. When giving a quantitative
+      amount, it is essential to specify according to which actinic action spectrum
+      the fluence rate is meant, as the unit is the same.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photobiological fluence rate (at a point)
+  - type: symbol
+    normative_status: preferred
+    designation: Eeff,o
+  - type: symbol
+    normative_status: preferred
+    designation: Eeff,o
+  language_code: eng
+  annotations: []
+termid: 17-884
+id: 5e2982ae-9a44-59a8-9012-a673e0b605f8

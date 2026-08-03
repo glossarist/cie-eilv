@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1411
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922033144/http://eilv.cie.co.at/term/1411
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-082
+  type: authoritative
+status: valid
+id: 2ad800f9-6d0e-51d3-974f-2ccd1307aef0
+---
+data:
+  definition:
+  - content: interpretation of visual sensation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual perception
+  language_code: eng
+  annotations: []
+termid: 17-1411
+id: d9cc88e6-4dbb-56c1-a82e-a2a53d04778c

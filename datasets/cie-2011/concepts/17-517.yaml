@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-517
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172928/http://eilv.cie.co.at/term/517
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-045
+  type: authoritative
+status: valid
+id: 9407ef4e-0a5f-59d9-8cf8-81a337993828
+---
+data:
+  definition:
+  - content: self-sustaining image on a solid substrate
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-045
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardcopy
+  language_code: eng
+  annotations: []
+termid: 17-517
+id: c80abaee-42be-5405-bdd5-cbb9bbb84c45

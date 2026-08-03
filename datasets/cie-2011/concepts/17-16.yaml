@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-16
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101854/http://eilv.cie.co.at/term/16
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-002
+  type: authoritative
+status: valid
+id: 5f94f9df-1c8d-53b4-b854-3d91fbe4ebc3
+---
+data:
+  definition:
+  - content: property of optical radiation that enables it to cause photochemical
+      changes on certain living or non-living materials
+    type: intensional
+  examples: []
+  notes:
+  - content: This term is no longer widely used.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinism
+  language_code: eng
+  annotations: []
+termid: 17-16
+id: c6e4d1fe-4383-54e6-b9cd-038ba2334aaa

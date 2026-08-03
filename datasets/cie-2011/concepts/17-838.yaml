@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-838
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135038/http://eilv.cie.co.at/term/838
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-047
+  type: authoritative
+status: valid
+id: b3e7272d-638e-5437-98de-e62b0004b0a2
+---
+data:
+  definition:
+  - content: distance from a source within which the radiance or irradiance for a
+      given exposure duration exceeds the applicable exposure limit
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ocular hazard distance
+  language_code: eng
+  annotations: []
+termid: 17-838
+id: c07934ed-a5aa-5a0d-84d7-3e227bf89e4c

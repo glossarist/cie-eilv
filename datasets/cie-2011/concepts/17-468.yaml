@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-468
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144534/http://eilv.cie.co.at/term/468
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-094
+  type: authoritative
+status: valid
+id: 5168ea5a-30e0-58a8-ba1e-692a0013f78c
+---
+data:
+  definition:
+  - content: |-
+      quotient of the average radiant flux density or luminous flux density, stem:[Phi_2]/stem:[A_2] (or stem:[Phi_1]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+
+      stem:[f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]
+
+      or
+
+      stem:[f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))]
+
+      with
+
+      stem:[A_2 f_((21)) = g = A_1 f_((12))]
+
+      where stem:[Phi_2] (or stem:[Phi_1]) is the radiant flux or luminous flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~) and stem:[g] is the mutual exchange coefficient
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-094
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: form factor (between two surfaces S~1~ and S~2~)
+  - type: symbol
+    normative_status: preferred
+    designation: f12; f21
+  - type: symbol
+    normative_status: preferred
+    designation: f12; f21
+  language_code: eng
+  annotations: []
+termid: 17-468
+id: 91604495-9897-58af-be3c-0fb2cd480924

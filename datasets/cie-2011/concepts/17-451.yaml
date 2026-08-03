@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-451
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920142909/http://eilv.cie.co.at/term/451
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-075
+  type: authoritative
+status: valid
+id: d4a6435c-d982-52c5-8bfe-d1b04482db9c
+---
+data:
+  definition:
+  - content: quotient of the sum of the areas of the floor and the working plane and
+      the sum of the area of the walls bounded by the floor and the working plane,
+      used in the calculation of the utilization factor or utilance
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The floor cavity index is given by the formula
+
+      stem:[K_f = ((a b))/((h_f ( a + b )))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.
+    type: intensional
+  - content: See also "ceiling cavity index" and "{{17-1121, room index}}".
+    type: intensional
+  - content: The floor cavity index has unit one.
+    type: intensional
+  - content: This entry was numbered 17-451 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-075
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: floor cavity index
+  - type: symbol
+    normative_status: preferred
+    designation: Kf; K
+  - type: symbol
+    normative_status: preferred
+    designation: Kf; K
+  language_code: eng
+  annotations: []
+termid: 17-451
+id: 59dbcc34-13b3-55f4-b032-71749f1732e9

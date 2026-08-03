@@ -1,0 +1,121 @@
+---
+data:
+  identifier: 17-730
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202103626/http://eilv.cie.co.at/term/730
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- id: 113-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-090
+  type: authoritative
+status: valid
+id: 39d15119-c46c-5393-8d54-9eea5aca7d2b
+---
+data:
+  definition:
+  - content: quotient of luminous flux and the corresponding radiant flux for a specified
+      photometric condition
+    type: intensional
+  examples: []
+  notes:
+  - content: The photometric condition should be specified (e.g. photopic, scotopic,
+      mesopic). If it is not specified, photopic vision is assumed and the symbol
+      stem:[K] is used. For other photometric conditions, the respective symbol for
+      identification shall be used.
+    type: intensional
+  - content: |-
+      Luminous efficacy of radiation for photopic vision is expressed by
+
+      stem:[K = ((Phi_v))/(Phi_e)]
+
+      where stem:[Phi_v] is luminous flux and stem:[Phi_e] is radiant flux.
+    type: intensional
+  - content: 'The value of the luminous efficacy of radiation for photopic vision
+      for monochromatic radiation of {{cite:103-06-02, frequency}} stem:[nu_(cd)] =
+      540 × 10^12^ Hz is defined as 683 lm·W^−1^ and denoted as stem:[K_(cd)]. The
+      corresponding wavelength, stem:[lambda_((cd)) \ = n^(- 1) * c_((0)) * nu_(cd)^(-
+      1)] (where stem:[n] is refractive index and stem:[c_0] is the {{cite:113-01-34,
+      speed of light in vacuum}}) in standard air, i.e. dry air at 15 °C and 101 325 Pa,
+      containing 0,045 % of carbon dioxide by volume (see P.E. Ciddor: _Refractive
+      index of air: new equations for the visible and near infrared, Appl. Opt. Vol
+      35, No. 9_, 1996, pp. 1566-1573), is accepted to be 555,017 nm (rounded from
+      555,017 069 nm). This is very close to 555 nm, the wavelength where stem:[V](stem:[lambda])
+      reaches its maximum. For photometric measurements made in air under real environmental
+      conditions, the influence of the variation of the refractive index on stem:[lambda_(cd)]
+      with respect to standard air is typically in the range of a few picometres and
+      can be neglected in most cases.'
+    type: intensional
+  - content: See also "spectral luminous efficacy".
+    type: intensional
+  - content: The luminous efficacy of radiation is expressed in lumen per watt (lm·W^−1^).
+    type: intensional
+  - content: This entry was numbered 845-01-56 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-730 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - id: 113-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-090
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous efficacy (of radiation)
+  - type: symbol
+    normative_status: preferred
+    designation: K, <for photopic vision>; K′ , <for scotopic vision>; Kmes;m , <for
+      mesopic vision>; K10 , <for the CIE 10° photopic photometric observer>; KM ,
+      <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic
+      vision>
+  - type: symbol
+    normative_status: preferred
+    designation: K, <for photopic vision>; K′ , <for scotopic vision>; Kmes;m , <for
+      mesopic vision>; K10 , <for the CIE 10° photopic photometric observer>; KM ,
+      <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic
+      vision>
+  language_code: eng
+  annotations: []
+termid: 17-730
+id: d4550006-f8e8-56a1-814f-076a0848852d

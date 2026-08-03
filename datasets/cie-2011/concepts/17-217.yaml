@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-217
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135210/http://eilv.cie.co.at/term/217
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-013
+  type: authoritative
+status: valid
+id: a9d04d5a-5a58-5f28-8257-918b138280a2
+---
+data:
+  definition:
+  - content: digital encoding of colour values, together with any information necessary
+      to interpret properly the colour values such as the image state, the intended
+      image viewing environment and the reference medium
+    type: intensional
+  examples: []
+  notes:
+  - content: In some cases the intended image viewing environment will be explicitly
+      defined for the colour image encoding. In other cases, the intended image viewing
+      environment, i.e., details of the image state, may be specified on an image-by-image
+      basis using metadata associated with the digital image.
+    type: intensional
+  - content: Some colour image encodings will indicate particular reference medium
+      characteristics, such as a reflection print with a specified density range.
+      In other cases the reference medium will be not applicable, such as with a scene-referred
+      encoding, or will be specified using image metadata.
+    type: intensional
+  - content: Colour image encodings are not limited to pictorial digital images that
+      originate from an original scene, but are also applicable to digital images
+      with content such as text, line art, vector graphics and other forms of original
+      artwork.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-013
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour image encoding
+  language_code: eng
+  annotations: []
+termid: 17-217
+id: 8aa27031-69c5-5079-8987-56014b63d466

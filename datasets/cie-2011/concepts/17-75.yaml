@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-75
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202063404/http://eilv.cie.co.at/term/75
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-049
+  type: authoritative
+status: valid
+id: d10fd5d8-c64a-5f31-b93a-055b9fd7f257
+---
+data:
+  definition:
+  - content: line of closely spaced aeronautical ground lights which is designed to
+      appear from a distance as a short bar of light orthogonal to the centreline
+      of an aerodrome runway
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: barrette (aeronautical ground lights)
+  language_code: eng
+  annotations: []
+termid: 17-75
+id: bc196114-ff1e-5889-be93-3b5c198d1023

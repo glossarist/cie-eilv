@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1321
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160125/http://eilv.cie.co.at/term/1321
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-116
+  type: authoritative
+status: valid
+id: c9de1120-9668-5f21-b855-a952a02f9dd7
+---
+data:
+  definition:
+  - content: quotient of the sum of the solid angles subtended by clouds and the solid
+      angle 2π sr of the whole sky
+    type: intensional
+  examples: []
+  notes:
+  - content: Observation of cloud amount is usually recorded in oktas or tenths.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-116
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total cloud amount
+  - type: symbol
+    normative_status: preferred
+    designation: fractional cloud cover
+  - type: symbol
+    normative_status: preferred
+    designation: fractional cloud cover
+  language_code: eng
+  annotations: []
+termid: 17-1321
+id: c5688b11-dc57-5b0c-bbc5-33a262abf8e7

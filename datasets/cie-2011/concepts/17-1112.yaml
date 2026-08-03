@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-1112
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170321/http://eilv.cie.co.at/term/1112
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-067
+  type: authoritative
+status: valid
+id: c7fbd0e3-7917-5d0b-a30b-ff1cae1b4b37
+---
+data:
+  definition:
+  - content: time required for a detector output to rise from a stated low percentage
+      to a stated high percentage of the maximum value when a steady input is instantaneously
+      applied
+    type: intensional
+  examples: []
+  notes:
+  - content: It is usual to consider a low percentage of 10 % and a high percentage
+      of 90 %.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rise time (of a detector)
+  language_code: eng
+  annotations: []
+termid: 17-1112
+id: c6be7c09-b09e-53ba-9dfd-a5abc91812eb

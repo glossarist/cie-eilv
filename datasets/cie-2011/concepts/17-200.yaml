@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-200
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232036/http://eilv.cie.co.at/term/200
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-027
+  type: authoritative
+status: valid
+id: a3b11805-08c1-5f89-8c67-9ad1647a7f96
+---
+data:
+  definition:
+  - content: model describing colour appearance, built from descriptors of colour
+      stimuli combined with the illuminating and viewing environment
+    type: intensional
+  examples: []
+  notes:
+  - content: 'In image processing the following definition is also used: equations
+      and methodologies for transforming physically measurable quantities to and from
+      viewing condition specific perceptual attribute correlates.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour appearance model
+  language_code: eng
+  annotations: []
+termid: 17-200
+id: 32da75b3-180a-56d1-81e3-2caa478f9832

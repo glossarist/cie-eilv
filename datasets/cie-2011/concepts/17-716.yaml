@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-716
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052806/http://eilv.cie.co.at/term/716
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-068
+  type: authoritative
+status: valid
+id: af60c8c8-3275-549f-8f92-989c8e898768
+---
+data:
+  definition:
+  - content: |-
+      time integral of luminance, stem:[L_v], over a given duration, stem:[Delta t]
+
+      stem:[L_((v , t)) = underset((Delta t))( int ) L_v d t]
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding radiometric quantity is "radiance dose". The corresponding
+      quantity for photons is "photon radiance dose".
+    type: intensional
+  - content: The luminance dose is expressed in candela times second per square metre
+      (cd·s·m^−2^).
+    type: intensional
+  - content: This entry was numbered 17-716 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance dose (in a given direction, at a given point of a real
+      or imaginary surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,t; Lt
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,t; Lt
+  language_code: eng
+  annotations: []
+termid: 17-716
+id: e1fce018-457a-532d-9112-8d0ba0a3ec25

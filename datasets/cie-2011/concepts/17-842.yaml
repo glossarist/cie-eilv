@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-842
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922161209/http://eilv.cie.co.at/term/842
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-121
+  type: authoritative
+status: valid
+id: 9870e9cb-eb58-508b-a713-ebf4f6c40042
+---
+data:
+  definition:
+  - content: medium that transmits no apparent radiation in the spectral range of
+      interest due to absorption or diffusion of the incident radiation flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-121
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opaque medium
+  language_code: eng
+  annotations: []
+termid: 17-842
+id: 9dfc5a27-6baa-5d13-a824-198180c43e26

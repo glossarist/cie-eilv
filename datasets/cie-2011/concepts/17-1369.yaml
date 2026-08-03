@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1369
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922165214/http://eilv.cie.co.at/term/1369
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-071
+  type: authoritative
+status: valid
+id: 1dd9078e-defc-56b9-82a1-110efd68514a
+---
+data:
+  definition:
+  - content: colour space in which equal distances are intended to represent threshold
+      or suprathreshold perceived colour differences of equal size
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-071
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform colour space
+  language_code: eng
+  annotations: []
+termid: 17-1369
+id: 8706d435-155c-52cc-b424-98ec9bcce509

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-78
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101437/http://eilv.cie.co.at/term/78
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-088
+  type: authoritative
+status: valid
+id: 2a240f12-e029-5c4c-badc-2e8483075e83
+---
+data:
+  definition:
+  - content: general principle that, in the absence of losses, the elementary radiant
+      flux or luminous flux, dstem:[Phi], between two elementary areas dstem:[A] and
+      dstem:[A]′ defining an elementary beam is proportional to the elementary projected
+      areas dstem:[A] cos stem:[theta] and dstem:[A]′ cos stem:[theta] ′ in the direction
+      of the beam and inversely proportional to the squared distance, stem:[l], between
+      the areas
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-088
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic law of radiometry and photometry
+  language_code: eng
+  annotations: []
+termid: 17-78
+id: 2d330da7-213c-5b92-82b5-232b7def7850

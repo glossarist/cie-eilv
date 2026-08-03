@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-1005
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20160306054731/http://eilv.cie.co.at/term/1005
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-057
+  type: authoritative
+status: valid
+id: c565a145-04b5-5a6c-9bfa-ca726d4966fe
+---
+data:
+  definition:
+  - content: stimulus that is represented in a chromaticity diagram by a point lying
+      within the triangle defined by the point representing the specified achromatic
+      stimulus and the two ends of the spectrum locus which correspond approximately
+      to the wavelengths 380 nm and 780 nm
+    type: intensional
+  examples: []
+  notes:
+  - content: Purple is a hue which is not represented in the hues of the spectrum.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-057
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: purple stimulus
+  language_code: eng
+  annotations: []
+termid: 17-1005
+id: 6234a302-c9e5-59b8-97b3-78723dce5358

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-898
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120542/http://eilv.cie.co.at/term/898
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-038
+  type: authoritative
+status: valid
+id: 8775b529-a8a2-5cb2-bafd-ae5278a2cbe6
+---
+data:
+  definition:
+  - content: detector of optical radiation which utilizes the interaction between
+      radiation and matter resulting in the absorption of photons and the consequent
+      liberation of electrons from their states, thereby generating an electric potential
+      or current, or causing a change in electrical resistance, but excluding electrical
+      phenomena caused by temperature changes
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoelectric detector
+  language_code: eng
+  annotations: []
+termid: 17-898
+id: cbd4e64e-1bde-575d-8dec-8f2f9f059468

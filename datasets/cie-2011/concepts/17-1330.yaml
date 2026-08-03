@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-1330
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015744/http://eilv.cie.co.at/term/1330
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-062
+  type: authoritative
+status: valid
+id: 2aeda2b2-a5a2-519a-a9b6-48e440ac0524
+---
+data:
+  definition:
+  - content: signal light used for regulating traffic
+    type: intensional
+  examples: []
+  notes:
+  - content: A 3-colour set, with red, yellow/amber and green lights, is the common
+      arrangement for the regulation of vehicular traffic. In French, the term "feu
+      tricolore" is used for such a 3-colour set.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-062
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic signal
+  - type: symbol
+    normative_status: preferred
+    designation: traffic light
+  - type: symbol
+    normative_status: preferred
+    designation: traffic light
+  - type: expression
+    normative_status: admitted
+    designation: traffic light
+  language_code: eng
+  annotations: []
+termid: 17-1330
+id: d2680730-547c-527a-a9a7-91ac3f6262d6

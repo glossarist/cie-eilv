@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1140
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164453/http://eilv.cie.co.at/term/1140
+  type: authoritative
+status: valid
+id: 560cecda-8648-5345-9d49-b3ebabdf88ad
+---
+data:
+  definition:
+  - content: See "{{17-572, indicatrix of diffusion (for a specified incident beam)}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scattering indicatrix (for a specified incident beam)
+  language_code: eng
+  annotations: []
+termid: 17-1140
+id: d50d4940-efdc-56d4-907c-c00ddb168813

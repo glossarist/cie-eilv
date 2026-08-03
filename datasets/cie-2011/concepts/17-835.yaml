@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-835
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120623/http://eilv.cie.co.at/term/835
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-046
+  type: authoritative
+status: valid
+id: 1e7b4cb0-ce7e-5a33-86f8-1cf673c23d2c
+---
+data:
+  definition:
+  - content: aeronautical ground light used to indicate the presence of a fixed or
+      mobile hazard to the permitted movement of aircraft on the ground or in the
+      air
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-046
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obstruction light
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: obstruction light'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: obstruction light'
+  language_code: eng
+  annotations: []
+termid: 17-835
+id: 0e2db929-e081-5bdf-a705-cf80eddf8399

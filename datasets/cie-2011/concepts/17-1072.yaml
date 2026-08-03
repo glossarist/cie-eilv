@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1072
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164605/http://eilv.cie.co.at/term/1072
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-011
+  type: authoritative
+status: valid
+id: 6a5b8d94-f791-5234-9a5c-8e9a795e091d
+---
+data:
+  definition:
+  - content: bulb having part of its interior or exterior surface coated to form a
+      reflecting surface to enhance the light in particular directions
+    type: intensional
+  examples: []
+  notes:
+  - content: Such surfaces may remain transparent to certain radiation, in particular
+      to the infrared.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectorized bulb
+  language_code: eng
+  annotations: []
+termid: 17-1072
+id: dd5f4f8a-3f49-5dad-be09-eb69158c2e76

@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-1013
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150428125710/http://eilv.cie.co.at/term/1013
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-078
+  type: authoritative
+status: valid
+id: 5e42415c-e5c6-523f-a9fe-911cad68df2c
+---
+data:
+  definition:
+  - content: |-
+      quotient of the radiance at a surface element of a medium in a given direction and the irradiance on the medium
+
+      stem:[q_e = ((L_e))/((E_e))]
+
+      where stem:[L_e] is radiance and stem:[E_e] is irradiance
+    type: intensional
+  examples: []
+  notes:
+  - content: The {{17-87, bi-directional reflectance distribution function (at a surface
+      element of a medium, in a given direction, for a given direction of irradiation)}}
+      (BRDF) is similar to the above coefficient except that it is defined for directional
+      incident radiation.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-078
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance coefficient (at a surface element of a medium, in a given
+      direction, under specified conditions of irradiation)
+  - type: symbol
+    normative_status: preferred
+    designation: qe; q
+  - type: symbol
+    normative_status: preferred
+    designation: qe; q
+  language_code: eng
+  annotations: []
+termid: 17-1013
+id: 170a541d-89b6-5ab8-b79e-5c46d4b6d40a

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1393
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161747/http://eilv.cie.co.at/term/1393
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-112
+  type: authoritative
+status: valid
+id: 8c745aad-9398-52cb-ae62-7ec835fcae59
+---
+data:
+  definition:
+  - content: sign for the purpose of displaying one of a number of legends consisting
+      of alphanumeric characters that can be used in conjunction with symbols or that
+      can consist of symbols alone
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-112
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variable message sign
+  language_code: eng
+  annotations: []
+termid: 17-1393
+id: 0ddc7dda-8404-585a-aefd-f1c74c8d9ffb

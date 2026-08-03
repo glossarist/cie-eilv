@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-875
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818134211/http://eilv.cie.co.at/term/875
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-061
+  type: authoritative
+status: valid
+id: f0b87c39-8629-520d-9b21-d10d441daa3a
+---
+data:
+  definition:
+  - content: diffuser exhibiting isotropic diffuse transmission with a transmittance
+      equal to 1
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perfect transmitting diffuser
+  language_code: eng
+  annotations: []
+termid: 17-875
+id: 06f1071a-4aa1-54e2-b732-cf032f1414c4

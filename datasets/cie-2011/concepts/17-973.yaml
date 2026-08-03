@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-973
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163429/http://eilv.cie.co.at/term/973
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-024
+  type: authoritative
+status: valid
+id: e3143745-53a6-5c01-90c4-d8cbb720fb3d
+---
+data:
+  definition:
+  - content: piece of metal, usually of cylindrical shape, fixed at the end of the
+      cap so as to engage in the corresponding hole in a lampholder for fixing the
+      cap and/or for making contact
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: post
+  - type: symbol
+    normative_status: preferred
+    designation: post
+  - type: symbol
+    normative_status: preferred
+    designation: post
+  language_code: eng
+  annotations: []
+termid: 17-973
+id: 46107300-bf54-547b-9493-a7c67d4dd725

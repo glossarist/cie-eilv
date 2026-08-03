@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-910
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170253/http://eilv.cie.co.at/term/910
+  type: authoritative
+status: valid
+id: 9f410532-0739-5345-84d8-fdff27d6526c
+---
+data:
+  definition:
+  - content: See "{{17-591, integrating sphere}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometer sphere
+  language_code: eng
+  annotations: []
+termid: 17-910
+id: 58623007-6e9e-5d8a-81ca-23762ee24b10

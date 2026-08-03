@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-728
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124845/http://eilv.cie.co.at/term/728
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-078
+  type: authoritative
+status: valid
+id: ee5ce6db-60ab-5d77-8ea0-598e00c2e285
+---
+data:
+  definition:
+  - content: |-
+      time integral of cylindrical illuminance, stem:[E_(v,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+
+      stem:[H_((v,c)) = underset((Delta t))( int ) E_(v,c) d t]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-078
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous cylindrical exposure (at a point, for a given direction
+      and duration)
+  - type: symbol
+    normative_status: preferred
+    designation: Hv,c; Hc
+  - type: symbol
+    normative_status: preferred
+    designation: Hv,c; Hc
+  language_code: eng
+  annotations: []
+termid: 17-728
+id: '070758fb-c676-5a3a-84ea-661f55f6ad4b'

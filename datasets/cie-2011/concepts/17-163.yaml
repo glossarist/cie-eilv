@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-163
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426180139/http://eilv.cie.co.at/term/163
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-047
+  type: authoritative
+status: valid
+id: bb0d6ad2-1c7d-5a55-870a-cc4a966d54bc
+---
+data:
+  definition:
+  - content: functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda
+      )] in the CIE 1931 standard colorimetric system or stem:[bar x_((10)) ( lambda
+      ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] in the CIE 1964 standard
+      colorimetric system
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE colour-matching functions
+  language_code: eng
+  annotations: []
+termid: 17-163
+id: a0e737b6-48c0-51ef-9170-411c447ec2d6

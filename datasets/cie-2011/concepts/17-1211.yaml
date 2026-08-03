@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1211
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052348/http://eilv.cie.co.at/term/1211
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-055
+  type: authoritative
+status: valid
+id: cdf3e76d-16c2-5a09-ac14-2b72bf1ab7b1
+---
+data:
+  definition:
+  - content: chromaticity coordinates of monochromatic stimuli
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral chromaticity coordinates
+  - type: symbol
+    normative_status: preferred
+    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+  - type: symbol
+    normative_status: preferred
+    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+  language_code: eng
+  annotations: []
+termid: 17-1211
+id: e5161fc7-eb8f-5940-8290-5bd16420c16c

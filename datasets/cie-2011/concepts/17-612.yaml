@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-612
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130155/http://eilv.cie.co.at/term/612
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-055
+  type: authoritative
+status: valid
+id: 07a645b3-a00f-50f3-90a9-bf7d9da47c7f
+---
+data:
+  definition:
+  - content: quotient of the maximum luminance level that appears unclipped and the
+      minimum luminance level that can be reproduced with an incremental signal to
+      temporal noise ratio of at least 1
+    type: intensional
+  examples: []
+  notes:
+  - content: As determined according to ISO 15739 stem:[Photography - Electronic still-picture
+      imaging - Noise measurements].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO digital still camera dynamic range
+  language_code: eng
+  annotations: []
+termid: 17-612
+id: 5a7bc0cb-f78c-5c6e-939e-38732944f36c

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1050
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161316/http://eilv.cie.co.at/term/1050
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-108
+  type: authoritative
+status: valid
+id: '09bb0e94-27ea-5b49-ac14-f0110e3e4036'
+---
+data:
+  definition:
+  - content: illuminant with which other illuminants are compared
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-108
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference illuminant
+  language_code: eng
+  annotations: []
+termid: 17-1050
+id: 904f2ba0-d0f7-54b1-8451-7031b04c2839

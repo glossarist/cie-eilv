@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1252
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922172459/http://eilv.cie.co.at/term/1252
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-137
+  type: authoritative
+status: valid
+id: 14ea777c-d11d-525e-9458-927d611d932b
+---
+data:
+  definition:
+  - content: area bounded by the most distant signal or line on the roadside which
+      is illuminated by the headlights
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-137
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spread
+  language_code: eng
+  annotations: []
+termid: 17-1252
+id: b83d9f04-419d-5918-bbea-d7330bc0f5a2

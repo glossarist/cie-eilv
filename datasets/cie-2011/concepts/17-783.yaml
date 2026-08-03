@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-783
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820113515/http://eilv.cie.co.at/term/783
+  type: authoritative
+status: valid
+id: 6ebd2533-042c-5bb2-a217-898e80a1960d
+---
+data:
+  definition:
+  - content: road which has, or to which is assigned, a lesser traffic value than
+      that of a major road
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minor road
+  language_code: eng
+  annotations: []
+termid: 17-783
+id: fe5460c3-d8b5-5d2b-ad35-2cb5e552689a

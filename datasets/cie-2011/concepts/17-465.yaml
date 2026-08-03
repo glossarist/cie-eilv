@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-465
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917131447/http://eilv.cie.co.at/term/465
+  type: authoritative
+status: valid
+id: 5ae2b702-2748-5440-81e5-0ec4f7ad471f
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-744, lux}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: footcandle (US)
+  language_code: eng
+  annotations: []
+termid: 17-465
+id: e835b82b-0e32-574e-9204-cd6ad07a12ce

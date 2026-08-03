@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1302
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161431/http://eilv.cie.co.at/term/1302
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-085
+  type: authoritative
+status: valid
+id: 35ca4523-173e-5d79-98a4-93497a928c0d
+---
+data:
+  definition:
+  - content: distance from the light centre to the limiting aperture of the detector
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-085
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: test distance (for photometric measurements)
+  language_code: eng
+  annotations: []
+termid: 17-1302
+id: 789850c5-6e1d-542a-a3ad-e3aa38467ea9

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-284
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160244/http://eilv.cie.co.at/term/284
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-139
+  type: authoritative
+status: valid
+id: 28dc6021-0a96-56f4-ad6f-a6ba3b49e8c2
+---
+data:
+  definition:
+  - content: area, glazed or unglazed, that is capable of admitting daylight to an
+      interior
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-139
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight opening
+  language_code: eng
+  annotations: []
+termid: 17-284
+id: f7e9cc82-2897-5681-b625-2e6b5a7d37f7

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-83
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101457/http://eilv.cie.co.at/term/83
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-022
+  type: authoritative
+status: valid
+id: e5af31f7-4db6-5bb1-a20b-f99e614602d4
+---
+data:
+  definition:
+  - content: small piece of metal which projects from the shell of a cap, particularly
+      a bayonet cap, and which engages in a slot in a lampholder to fix the cap
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bayonet pin
+  language_code: eng
+  annotations: []
+termid: 17-83
+id: 4b1f250c-76d2-5e91-807d-2aa668ed84ba

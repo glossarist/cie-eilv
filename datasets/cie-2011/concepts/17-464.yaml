@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-464
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125558/http://eilv.cie.co.at/term/464
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-050
+  type: authoritative
+status: valid
+id: c2a092bb-a917-5a13-8948-6b29cdf2729b
+---
+data:
+  definition:
+  - content: set of the values of the cumulative downward flux proportions of the
+      light source for the solid angle π/2 sr, π sr, and 3π/2 sr, representative for
+      the relative downward flux distribution of the light source, used in the calculation
+      of the direct ratio of installations of that light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-050
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux triplet (of a source)
+  language_code: eng
+  annotations: []
+termid: 17-464
+id: 35c2760e-fdd3-593c-8ef7-be5cb44d5c35

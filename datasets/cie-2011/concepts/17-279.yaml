@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-279
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102123704/http://eilv.cie.co.at/term/279
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-121
+  type: authoritative
+status: valid
+id: 320eba33-a278-5891-8898-af522e84bf80
+---
+data:
+  definition:
+  - content: quotient of the illuminance at a point on a given plane due to the light
+      received directly and indirectly from a sky of assumed or known luminance distribution
+      and the illuminance on a horizontal plane due to an unobstructed hemisphere
+      of this sky, where the contribution of direct sunlight to both illuminances
+      is excluded
+    type: intensional
+  examples: []
+  notes:
+  - content: Glazing, dirt effects, etc. are included.
+    type: intensional
+  - content: When calculating the lighting of interiors, the contribution of direct
+      sunlight must be considered separately.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-121
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight factor
+  - type: symbol
+    normative_status: preferred
+    designation: D
+  - type: symbol
+    normative_status: preferred
+    designation: D
+  language_code: eng
+  annotations: []
+termid: 17-279
+id: 4f731c61-6592-5c04-88ae-e1d56b70d649

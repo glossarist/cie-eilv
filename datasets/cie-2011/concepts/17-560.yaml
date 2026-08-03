@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-560
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162340/http://eilv.cie.co.at/term/560
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-051
+  type: authoritative
+status: valid
+id: 5676f6b5-09d6-5cdf-b95b-159bd0736b2f
+---
+data:
+  definition:
+  - content: colour perceived as belonging to the light falling on objects
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-051
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illumination colour
+  language_code: eng
+  annotations: []
+termid: 17-560
+id: '00693a94-f021-5235-b863-94eef4230cae'

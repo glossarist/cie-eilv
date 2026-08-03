@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-56
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101834/http://eilv.cie.co.at/term/56
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-038
+  type: authoritative
+status: valid
+id: 03f0b76e-7f94-5f20-bffa-02d8635d26b7
+---
+data:
+  definition:
+  - content: enclosure in which the arc of the electric lamp is confined
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arc tube
+  language_code: eng
+  annotations: []
+termid: 17-56
+id: 1a9597b4-3e7b-5862-be1c-b5e140239efe

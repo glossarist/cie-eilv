@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-897
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121449/http://eilv.cie.co.at/term/897
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-001
+  type: authoritative
+status: valid
+id: a5918a77-7d71-5f78-ad17-c151bb0b5c05
+---
+data:
+  definition:
+  - content: physical, chemical or biological change produced by the interaction of
+      optical radiation with matter, characterized by one photon interacting with
+      one atom or molecule
+    type: intensional
+  examples: []
+  notes:
+  - content: Such changes include photoelectric, photo-optical, photochemical and
+      photobiological effects, but radiant heating is normally not considered a photoeffect.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-001
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoeffect
+  language_code: eng
+  annotations: []
+termid: 17-897
+id: dc2718cf-4cea-5787-98ae-d3704b0d3ab5

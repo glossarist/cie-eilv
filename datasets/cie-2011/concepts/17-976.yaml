@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-976
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163510/http://eilv.cie.co.at/term/976
+  type: authoritative
+status: valid
+id: 60596911-5a74-5560-aa75-faec221149b0
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-644, lateral mark}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preferred-channel mark
+  language_code: eng
+  annotations: []
+termid: 17-976
+id: 3eace03c-83e4-51c8-ad8f-1a04d4885bef

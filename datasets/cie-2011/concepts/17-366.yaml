@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-366
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820125411/http://eilv.cie.co.at/term/366
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-027
+  type: authoritative
+status: valid
+id: d194094b-fc26-56b8-be3a-f5264510d96b
+---
+data:
+  definition:
+  - content: luminescence caused by the action of an electric field in a gas or in
+      a solid material
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electroluminescence
+  language_code: eng
+  annotations: []
+termid: 17-366
+id: efbe647b-3d6e-5ac5-a352-dc72b3f4ed61

@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-459
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917130001/http://eilv.cie.co.at/term/459
+  type: authoritative
+status: valid
+id: da8dc800-038e-5644-b31f-9f56c5f66f37
+---
+data:
+  definition:
+  - content: high intensity discharge lamp in which the major portion of the light
+      is produced, directly or indirectly, by radiation from mercury operating at
+      a partial pressure in excess of 100 kPa
+    type: intensional
+  examples: []
+  notes:
+  - content: This term covers clear, phosphor coated (mercury fluorescent) and blended
+      lamps. In a fluorescent mercury discharge lamp, the light is produced partly
+      by the mercury vapour and partly by a layer of phosphors excited by the ultraviolet
+      radiation of the discharge.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent mercury discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-459
+id: 74940102-600d-51c0-b86c-39ac66d480d1

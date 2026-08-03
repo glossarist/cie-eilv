@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1083
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818133352/http://eilv.cie.co.at/term/1083
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-062
+  type: authoritative
+status: valid
+id: '0558afe5-b2f1-5fae-bbd7-42e2b37c14aa'
+---
+data:
+  definition:
+  - content: |-
+      quotient of the responsivity, stem:[s](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
+
+      stem:[s_r = ((s ( Z )))/((s ( N )))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-062
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative responsivity (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: sr
+  - type: symbol
+    normative_status: preferred
+    designation: sr
+  language_code: eng
+  annotations: []
+termid: 17-1083
+id: dd4a98e2-f6ed-59c5-8da2-abc10b8e040e

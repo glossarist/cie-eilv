@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1160
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012314/http://eilv.cie.co.at/term/1160
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-064
+  type: authoritative
+status: valid
+id: d4153f5f-0b5c-5c88-ac0b-1b9e061056e2
+---
+data:
+  definition:
+  - content: |-
+      arithmetic mean of the vertical illuminances, stem:[E_(v,v)], at a point in the range of azimuth angles stem:[- (pi)/(2) &lt;= phi &lt;= (pi)/(2)]
+
+      stem:[E_((v ,sc)) = (1)/(pi) int_((- (pi)/(2)))^(((pi)/(2))) E_((v ,v)) d phi]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-064
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: semi-cylindrical illuminance (at a point)
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,sc; Esc
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,sc; Esc
+  language_code: eng
+  annotations: []
+termid: 17-1160
+id: 6e412354-453c-5243-b6f8-61516301f97f

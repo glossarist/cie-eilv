@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-66
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101758/http://eilv.cie.co.at/term/66
+  type: authoritative
+status: valid
+id: 893b456a-05f7-52aa-9291-af071cb43997
+---
+data:
+  definition:
+  - content: See "{{17-69, backing board (of a traffic control device)}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: backboard
+  language_code: eng
+  annotations: []
+termid: 17-66
+id: 7936a916-a192-5e41-89c7-3c89c6b23d5f

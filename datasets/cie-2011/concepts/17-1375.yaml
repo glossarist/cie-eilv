@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1375
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160546/http://eilv.cie.co.at/term/1375
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-021
+  type: authoritative
+status: valid
+id: 3fca55dd-7a1f-59fb-babf-a400f8ad2487
+---
+data:
+  definition:
+  - content: radiation that exhibits no preferential directional property in a plane
+      normal to the direction of propagation of the radiation, the direction and phase
+      of the electric field vector being randomly distributed
+    type: intensional
+  examples: []
+  notes:
+  - content: A beam of unpolarized radiation can be regarded as being composed of
+      2 components of equal amplitude but with orthogonal states of polarization,
+      the 2 components being unrelated in phase.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-021
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unpolarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-1375
+id: ab8d86e4-beb5-502f-979d-bd24192f90eb

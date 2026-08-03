@@ -35,28 +35,26 @@ inline_math = []     # [{termid, sample_text}]
 Dir.glob("#{CieEilv::Paths::PAGES_DIR}/*.html").sort.each do |path|
   termid = File.basename(path, ".html")
   doc = Nokogiri::HTML(File.read(path))
-  body = doc.at_css("article.node--type-eilvterm .field--name-body")
-  next unless body
 
-  # Graphics: any <img> that's not a UI icon.
-  body.css("img").each do |img|
+  # Graphics: <img class="math"> — MathML-rendered GIFs from cie.co.at/importfiles/.
+  # Search the WHOLE page, not a container div — the page has multiple
+  # field--name-body divs and at_css returns the wrong one (the print-info
+  # block with cie.png, not the term body with the equations).
+  doc.css("img.math").each do |img|
     src = img["src"].to_s
-    alt = img["alt"].to_s.strip
-    next if src.match?(/icon|logo|favicon|sprite/i)
     next if src.empty?
-    graphics << { termid: termid, src: src, alt: alt }
+    graphics << { termid: termid, src: src, alt: img["alt"].to_s.strip }
   end
 
-  # Inline math: paragraphs with sub/sup/I containing math-shaped content.
-  body.css("p.Definition, p.Note").each do |p|
+  # Inline math: paragraphs with sub/sup/i containing math-shaped content.
+  doc.css("article.node--type-eilvterm p.Definition, article.node--type-eilvterm p.Note").each do |p|
     inline = p.css("sub, sup, i")
     next if inline.empty?
-    # Heuristic: at least one element with a single math-like char
     next unless inline.any? { |e| e.text.match?(/\A[a-zA-ZλνσφετΓΔπμρΘΩΦΨ]\z/) }
 
     sample = p.text.strip.gsub(/\s+/, " ").slice(0, 200)
     inline_math << { termid: termid, sample: sample }
-    break # one example per concept is enough
+    break
   end
 end
 

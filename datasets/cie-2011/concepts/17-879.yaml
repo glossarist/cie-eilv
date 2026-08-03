@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-879
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917130832/http://eilv.cie.co.at/term/879
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-039
+  type: authoritative
+status: valid
+id: 7471053b-0993-542d-862d-81b917f08ee7
+---
+data:
+  definition:
+  - content: luminescent material
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phosphor
+  - type: symbol
+    normative_status: preferred
+    designation: phosphor
+  - type: symbol
+    normative_status: preferred
+    designation: phosphor
+  language_code: eng
+  annotations: []
+termid: 17-879
+id: b10bfcc0-9b5c-5bf8-8c8f-f9160ecd4eb3

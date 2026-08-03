@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-324
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125659/http://eilv.cie.co.at/term/324
+  type: authoritative
+status: valid
+id: ae6a4f1a-2373-5e15-be74-1bb95e1c760f
+---
+data:
+  definition:
+  - content: See "{{17-1078, regular transmission}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct transmission
+  language_code: eng
+  annotations: []
+termid: 17-324
+id: c4bae1f4-3b22-5ecf-81cc-00b55618a17a

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-516
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172843/http://eilv.cie.co.at/term/516
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-027
+  type: authoritative
+status: valid
+id: 5e691d25-a034-5d7f-89da-ba0b8658cf0a
+---
+data:
+  definition:
+  - content: portable luminaire with a handle and a flexible cord for its supply
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hand lamp
+  - type: symbol
+    normative_status: preferred
+    designation: trouble lamp, US
+  - type: symbol
+    normative_status: preferred
+    designation: trouble lamp, US
+  language_code: eng
+  annotations: []
+termid: 17-516
+id: dacdb0e6-5415-58cd-95f7-24011c091ce4

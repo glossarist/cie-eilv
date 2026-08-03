@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-562
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162257/http://eilv.cie.co.at/term/562
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-003
+  type: authoritative
+status: valid
+id: 0aae6059-51a4-5a08-8be1-7f017781a8f5
+---
+data:
+  definition:
+  - content: set of equations and methodologies for transforming physical measurements
+      of the elements of an image to and from viewing-condition-specific perceptual
+      attribute correlates that estimate the subjective appearance of the elements
+      of the image
+    type: intensional
+  examples: []
+  notes:
+  - content: An image colour appearance model can be applied to the elements of either
+      a scene, an original, or a reproduction. It determines perceptual attribute
+      correlates for these elements without consideration of the characteristics of
+      any potential medium for subsequent reproduction. However, an image colour appearance
+      model followed by its inverse may be appropriate for use as a colour reproduction
+      model, especially if the reproduction medium does not impose any limitations
+      on the colours to be reproduced in the image.
+    type: intensional
+  - content: There is no general consensus on the appropriate form for an image colour
+      appearance model. A single-stimulus colour appearance model cannot be expected
+      to deal completely with the effect of changing viewing conditions in an image
+      because the combined effect of macroscopic viewing conditions and other colours
+      in the image could result in the appearance of any colour in the image changing
+      in a way that is not predictable by the single-stimulus model, since it is not
+      keeping track of the other colours.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image colour appearance model
+  language_code: eng
+  annotations: []
+termid: 17-562
+id: 6fe8af51-528c-5c44-95d3-abacb4920486

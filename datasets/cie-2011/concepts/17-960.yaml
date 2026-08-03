@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-960
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002084244/http://eilv.cie.co.at/term/960
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-004
+  type: authoritative
+status: valid
+id: d859750f-257f-5f76-b926-718838c6b215
+---
+data:
+  definition:
+  - content: ideal thermal radiator that absorbs completely all incident radiation,
+      whatever the wavelength, the direction of incidence or the polarization
+    type: intensional
+  examples: []
+  notes:
+  - content: This radiator has, for any wavelength and any direction, the maximum
+      spectral concentration of radiance for a thermal radiator in thermal equilibrium
+      at a given temperature.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planckian radiator
+  - type: symbol
+    normative_status: preferred
+    designation: blackbody
+  - type: symbol
+    normative_status: preferred
+    designation: blackbody
+  - type: expression
+    normative_status: admitted
+    designation: blackbody
+  language_code: eng
+  annotations: []
+termid: 17-960
+id: be651362-b62f-55dc-926f-d64e9523b14b

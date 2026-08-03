@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-288
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820115056/http://eilv.cie.co.at/term/288
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-106
+  type: authoritative
+status: valid
+id: 3ffe96ec-0c22-5945-8c9c-dbcedf218350
+---
+data:
+  definition:
+  - content: collection of traffic control devices on or adjacent to the road that
+      provide guidance, regulatory, or warning information to a driver, other than
+      signs
+    type: intensional
+  examples: []
+  notes:
+  - content: These devices aid the driver in determining the expected path of vehicular
+      travel over a section of the road.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: delineation
+  language_code: eng
+  annotations: []
+termid: 17-288
+id: 987c146c-55b9-58b1-a8e3-139824d9eb35

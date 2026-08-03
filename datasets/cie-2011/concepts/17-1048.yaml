@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1048
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003934/http://eilv.cie.co.at/term/1048
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-037
+  type: authoritative
+status: valid
+id: 76176274-2e02-57ff-88a5-25d8f5daa827
+---
+data:
+  definition:
+  - content: three colour stimuli on which a trichromatic system is based
+    type: intensional
+  examples: []
+  notes:
+  - content: These stimuli are either real colour stimuli or theoretical stimuli which
+      are defined by linear combinations of real colour stimuli; the magnitude of
+      each of these 3 reference colour stimuli is expressed in terms of either photometric
+      or radiometric units, or more commonly by specifying the ratios of their magnitudes
+      or by stating that a specified additive mixture of these stimuli matches a specified
+      achromatic stimulus.
+    type: intensional
+  - content: In the CIE standard colorimetric systems, the reference colour stimuli
+      are represented by the symbols [R], [G], [B]; [X], [Y], [Z], [R~10~], [G~10~],
+      [B~10~] and [X~10~], [Y~10~], [Z~10~].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference colour stimuli
+  language_code: eng
+  annotations: []
+termid: 17-1048
+id: 8825dc8b-4d62-5aac-ae37-c89797b191b0

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-880
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130226/http://eilv.cie.co.at/term/880
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-026
+  type: authoritative
+status: valid
+id: 2aa31a3a-fc15-5da7-9267-5b6a6c52f0b4
+---
+data:
+  definition:
+  - content: delayed emission of optical radiation which appears 10 ns or longer after
+      the excitation
+    type: intensional
+  examples: []
+  notes:
+  - content: Technically, the term "phosphorescence" should be used only for the delayed
+      emission due to a "forbidden transition" from an excited triplet state to a
+      ground singlet state.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phosphorescence
+  language_code: eng
+  annotations: []
+termid: 17-880
+id: b7fac8d8-9105-5de7-8277-068a3eaef3df

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-649
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140656/http://eilv.cie.co.at/term/649
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-127
+  type: authoritative
+status: valid
+id: e6d38bda-6776-51dd-aa0f-504065d3bfea
+---
+data:
+  definition:
+  - content: configuration of visual elements, symbols, texts and other shapes, produced
+      to convey a given message
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-127
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legend
+  language_code: eng
+  annotations: []
+termid: 17-649
+id: 27d65a1f-2918-5f2a-ab9f-e54ff9754c8c

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1264
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003944/http://eilv.cie.co.at/term/1264
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-116
+  type: authoritative
+status: valid
+id: 1f938433-58e7-5b05-9dfb-e872945c8588
+---
+data:
+  definition:
+  - content: voltage between the electrodes which is needed to start the discharge
+      in the discharge lamp
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-116
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting voltage
+  language_code: eng
+  annotations: []
+termid: 17-1264
+id: d9075064-5589-5ed9-bb4e-3328a84bfb08

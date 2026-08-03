@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1146
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125017/http://eilv.cie.co.at/term/1146
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-031
+  type: authoritative
+status: valid
+id: 9ec257ee-5d40-561f-b842-aba71e77319a
+---
+data:
+  definition:
+  - content: high-intensity projector having an aperture usually greater than 0,2 m
+      and giving an approximately parallel beam of light
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-031
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: searchlight
+  language_code: eng
+  annotations: []
+termid: 17-1146
+id: 7dce6612-24f2-5634-94e0-788bf8f8cd02

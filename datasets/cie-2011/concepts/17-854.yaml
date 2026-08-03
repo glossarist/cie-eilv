@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-854
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140923/http://eilv.cie.co.at/term/854
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-032
+  type: authoritative
+status: valid
+id: fd7514d5-836d-56a2-8c18-e50ceaf497a8
+---
+data:
+  definition:
+  - content: form of permanently installed exterior lighting system that emits light
+      that has an impact on the outdoor environment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: outdoor lighting
+  language_code: eng
+  annotations: []
+termid: 17-854
+id: d6d8c957-8bdf-5d45-a828-c1b18cbfa551

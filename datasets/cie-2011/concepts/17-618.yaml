@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-618
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823053427/http://eilv.cie.co.at/term/618
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-041
+  type: authoritative
+status: valid
+id: 13a43f48-0759-5386-9e6f-db8a53e43331
+---
+data:
+  definition:
+  - content: curve traced on a sphere that has its centre at the light centre of the
+      light source, joining all the points corresponding to those directions in which
+      the luminous intensity is the same, or a plane projection of that curve
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-intensity curve
+  - type: symbol
+    normative_status: preferred
+    designation: iso-intensity line
+  - type: symbol
+    normative_status: preferred
+    designation: iso-intensity line
+  language_code: eng
+  annotations: []
+termid: 17-618
+id: 2caf24d3-b1be-5081-a6fa-5c7d30e65dcd

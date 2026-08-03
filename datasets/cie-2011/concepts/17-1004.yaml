@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1004
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170311/http://eilv.cie.co.at/term/1004
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-058
+  type: authoritative
+status: valid
+id: f3857a6e-a60c-5a4d-ad54-74327d06ecec
+---
+data:
+  definition:
+  - content: line in a chromaticity diagram, or the plane surface in a tristimulus
+      space, that represents additive mixtures of monochromatic stimuli of wavelengths
+      approximately 380 nm and 780 nm
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-058
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: purple boundary
+  language_code: eng
+  annotations: []
+termid: 17-1004
+id: fc001a63-036d-5ed6-b27e-b04106a6664d

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-469
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125704/http://eilv.cie.co.at/term/469
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-096
+  type: authoritative
+status: valid
+id: 9e588481-0a23-5b37-9d24-df66fe51f8ec
+---
+data:
+  definition:
+  - content: irradiation of reflecting materials at 45° to the normal, from all azimuthal
+      directions, simultaneously
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      In measuring the colours of reflecting samples by irradiating with this geometry, the effects of texture and directionality are minimized. This irradiation (influx) geometry may be achieved by the use of a small source and an elliptic ring reflector or other aspheric optics. This geometry is sometimes approximated by the use of a number of light sources in a ring or a number of fibre bundles illuminated by a single source and terminated in a ring. Such an approximation to annular geometry is called circumferential geometry, symbol "45°a".
+      See also CIE 15 stem:[Colorimetry](section 5)
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-096
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forty-five degree annular (45°a) geometry
+  - type: symbol
+    normative_status: preferred
+    designation: 45°a geometry
+  - type: symbol
+    normative_status: preferred
+    designation: 45°a geometry
+  language_code: eng
+  annotations: []
+termid: 17-469
+id: 334c54c8-7e1c-5a16-b04c-d2879d2bacd4

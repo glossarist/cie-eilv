@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-1116
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161502/http://eilv.cie.co.at/term/1116
+  type: authoritative
+status: valid
+id: d81b5b15-5e0c-5046-b5ad-39a2d80889ee
+---
+data:
+  definition:
+  - content: top layer of the carriageway structure designed to the traffic load,
+      resist skidding, traffic abrasion, and the effects of adverse environmental
+      conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road surface
+  language_code: eng
+  annotations: []
+termid: 17-1116
+id: 7ae9c2d4-795c-5245-a1b4-3ae90737c116

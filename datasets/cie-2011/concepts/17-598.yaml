@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-598
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190910114722/http://eilv.cie.co.at/term/598
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-124
+  type: authoritative
+status: valid
+id: 3b03a209-393d-525d-b8c1-fc268dedc0dc
+---
+data:
+  definition:
+  - content: quotient of that part of the illuminance at a point on a given plane
+      in an interior which is received directly from internal reflecting surfaces
+      illuminated directly or indirectly by a sky of assumed or known luminance distribution
+      and the illuminance on a horizontal plane due to an unobstructed hemisphere
+      of this sky, where the contribution of direct sunlight to both illuminances
+      is excluded
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-124
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internally reflected component of daylight factor
+  - type: symbol
+    normative_status: preferred
+    designation: Di
+  - type: symbol
+    normative_status: preferred
+    designation: Di
+  language_code: eng
+  annotations: []
+termid: 17-598
+id: 12a26ec4-6192-58ee-ac92-746cc05fcb55

@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-15
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101849/http://eilv.cie.co.at/term/15
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-005
+  type: authoritative
+status: valid
+id: 2244c8a7-b1ca-5773-ae9e-94d74907df41
+---
+data:
+  definition:
+  - content: actinic effect that occurs away from the place where the radiant energy
+      responsible for the effect is absorbed
+    type: intensional
+  examples: []
+  notes:
+  - content: The distinction between direct and indirect actinic effect mainly applies
+      to the biological changes. The photostimulation of endocrine glands is an example
+      of an indirect actinic effect.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinic effect, indirect
+  language_code: eng
+  annotations: []
+termid: 17-15
+id: c8da84c0-e0ea-570e-9225-eb989c1f2915

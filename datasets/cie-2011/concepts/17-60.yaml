@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-60
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102049/http://eilv.cie.co.at/term/60
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-017
+  type: authoritative
+status: valid
+id: 627eb3a5-d951-5a7f-b251-c8131ce9ec39
+---
+data:
+  definition:
+  - content: regular transmittance of the atmosphere over a path of a specified length
+      stem:[d_0]
+    type: intensional
+  examples: []
+  notes:
+  - content: In German, the terms "Transmissionsfaktor" and "Sichtwert" refer to lengths
+      of one kilometre and one nautical mile respectively.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: atmospheric transmissivity
+  - type: symbol
+    normative_status: preferred
+    designation: T
+  - type: symbol
+    normative_status: preferred
+    designation: T
+  language_code: eng
+  annotations: []
+termid: 17-60
+id: 2a49c6bf-d406-53b5-bf37-35112a7eaf6f

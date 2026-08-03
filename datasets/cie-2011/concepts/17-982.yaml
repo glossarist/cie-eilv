@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-982
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164653/http://eilv.cie.co.at/term/982
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-002
+  type: authoritative
+status: valid
+id: 88302703-263c-5b0c-9344-072f277e37cf
+---
+data:
+  definition:
+  - content: surface or object emitting light by a transformation of energy
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: primary light source
+  language_code: eng
+  annotations: []
+termid: 17-982
+id: 9e2898e6-1c22-5f59-a471-c54bd0b948d5

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1147
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004127/http://eilv.cie.co.at/term/1147
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-003
+  type: authoritative
+status: valid
+id: ae3cc63c-aee1-5e2d-803d-22b27cee6a66
+---
+data:
+  definition:
+  - content: surface or object which is not self-emitting but receives light and re-directs
+      it, at least in part, by reflection or transmission
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: secondary light source
+  language_code: eng
+  annotations: []
+termid: 17-1147
+id: 03eeb741-6784-50db-8b34-b324c2e82168

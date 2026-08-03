@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-802
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818132950/http://eilv.cie.co.at/term/802
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-011
+  type: authoritative
+status: valid
+id: a1951b32-a2d3-5574-9cf1-d38876b84567
+---
+data:
+  definition:
+  - content: luminance of a source which, when viewed with the natural pupil, produces
+      the same conventional retinal illuminance as that source viewed with a specified
+      artificial pupil
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: natural pupil luminance
+  language_code: eng
+  annotations: []
+termid: 17-802
+id: 5979e76a-fea1-54bf-a432-a37809d3b32c

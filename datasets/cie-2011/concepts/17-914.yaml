@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-914
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170301/http://eilv.cie.co.at/term/914
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-013
+  type: authoritative
+status: valid
+id: 82aa4adf-5f35-50aa-aea4-59ee3071ceef
+---
+data:
+  definition:
+  - content: measurement of quantities referring to radiation as evaluated according
+      to a given spectral luminous efficiency, e.g. stem:[V](stem:[lambda]) or stem:[V]′(stem:[lambda])
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "photometry" is sometimes used in a broader sense covering the
+      science of optical radiation measurement (radiometry), but this use should be
+      deprecated.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-013
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometry
+  language_code: eng
+  annotations: []
+termid: 17-914
+id: 4cd6cfeb-5f1a-57c9-a9d3-12e9753090aa

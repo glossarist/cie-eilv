@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1111
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163050/http://eilv.cie.co.at/term/1111
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-016
+  type: authoritative
+status: valid
+id: 761084e3-1f7a-5b2e-ad81-5d7d57559497
+---
+data:
+  definition:
+  - content: pendant luminaire with means for height adjustment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rise and fall pendant
+  language_code: eng
+  annotations: []
+termid: 17-1111
+id: c098f89e-a3ce-5a68-9be9-8da4cd61a416

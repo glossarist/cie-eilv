@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-834
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121520/http://eilv.cie.co.at/term/834
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-138
+  type: authoritative
+status: valid
+id: e5c9536b-5082-56d8-b15c-c1114abf5ac8
+---
+data:
+  definition:
+  - content: object outside a building that prevents the direct view of part of the
+      sky
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-138
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obstruction
+  language_code: eng
+  annotations: []
+termid: 17-834
+id: b72197a4-dc11-5959-83f9-0b5d09dce2d1

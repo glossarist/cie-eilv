@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1210
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013944/http://eilv.cie.co.at/term/1210
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-064
+  type: authoritative
+status: valid
+id: 575fd6da-5044-5e11-9af7-cc19e94eb80e
+---
+data:
+  definition:
+  - content: mathematically decorrelated functions (no function is a linear combination
+      of any of the others) that can be combined to describe the spectral radiances
+      found in a scene or produced using a specified output device and illuminating
+      source, or similar functions describing the colour analysis channel responses
+      of an image capture device
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-064
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral basis functions
+  language_code: eng
+  annotations: []
+termid: 17-1210
+id: 03df215d-0f6a-5e51-9659-bb323bce2ec1

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1062
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162542/http://eilv.cie.co.at/term/1062
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-102
+  type: authoritative
+status: valid
+id: c30d74a7-ab99-5e8d-b828-378f5a59be41
+---
+data:
+  definition:
+  - content: radiation that results from reflection of the global solar radiation
+      by the surface of the Earth and by any surface intercepting that radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-102
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflected (global) solar radiation
+  language_code: eng
+  annotations: []
+termid: 17-1062
+id: 1ae6c3f4-85e6-5147-ab93-dc2bb1a1105d

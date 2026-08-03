@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-108
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426200424/http://eilv.cie.co.at/term/108
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-074
+  type: authoritative
+status: valid
+id: e09be432-e222-5e34-91aa-bb6008505788
+---
+data:
+  definition:
+  - content: signal light carried on a vehicle to indicate rearwards that a brake
+      is being applied to the vehicle
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: brake light
+  - type: symbol
+    normative_status: preferred
+    designation: brake light
+  - type: symbol
+    normative_status: preferred
+    designation: brake light
+  language_code: eng
+  annotations: []
+termid: 17-108
+id: 8ea81969-859e-5e8d-9129-d628b703cd7f

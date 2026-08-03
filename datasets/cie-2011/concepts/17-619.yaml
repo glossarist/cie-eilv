@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-619
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135805/http://eilv.cie.co.at/term/619
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-042
+  type: authoritative
+status: valid
+id: d24b40c0-a9b6-553c-8e3f-015095816451
+---
+data:
+  definition:
+  - content: array of iso-intensity curves
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-042
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-intensity diagram
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: isocandela diagram'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: isocandela diagram'
+  language_code: eng
+  annotations: []
+termid: 17-619
+id: 56099c21-645a-5e86-a206-9382a3b7555e

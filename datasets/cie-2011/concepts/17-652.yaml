@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-652
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124757/http://eilv.cie.co.at/term/652
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-123
+  type: authoritative
+status: valid
+id: dd660c43-935a-5c36-b61d-f068f9dc404e
+---
+data:
+  definition:
+  - content: distance at which a sign can be read under rapid glance conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-123
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legibility distance under rapid glance conditions (of a sign)
+  language_code: eng
+  annotations: []
+termid: 17-652
+id: 36720373-2d2f-5964-8b39-15a26e9695eb

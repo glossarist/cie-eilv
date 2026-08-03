@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-507
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002114359/http://eilv.cie.co.at/term/507
+  type: authoritative
+status: valid
+id: fef7cfc5-3868-5d1f-a0ad-92e7a04b7d8b
+---
+data:
+  definition:
+  - content: |-
+      non-selective thermal radiator whose emissivity is less than 1
+
+      Equivalent term used outside US: "grey body"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gray body (US)
+  language_code: eng
+  annotations: []
+termid: 17-507
+id: 23ebe4c5-f484-559d-b118-e3cbedf2ec30

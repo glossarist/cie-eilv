@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1371
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003740/http://eilv.cie.co.at/term/1371
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-114
+  type: authoritative
+status: valid
+id: 95f94fa2-7a38-5876-ba70-d11324081a1b
+---
+data:
+  definition:
+  - content: sky for which the luminance distribution is uniform over the whole sky
+      hemisphere
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-114
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform sky
+  language_code: eng
+  annotations: []
+termid: 17-1371
+id: 563c9ed9-7611-5651-b95f-f6a72a6b989d

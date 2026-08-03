@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-21
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101818/http://eilv.cie.co.at/term/21
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-081
+  type: authoritative
+status: valid
+id: 75fbf971-c0a2-5e25-8775-dd26bb5ddac3
+---
+data:
+  definition:
+  - content: colour stimulus that an observer who is adapted to the viewing environment
+      would judge to be perfectly achromatic and to have a luminance factor of unity
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-081
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adapted white
+  language_code: eng
+  annotations: []
+termid: 17-21
+id: cb146266-23b0-5d7a-af31-1a9fd144b5a6

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-390
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140343/http://eilv.cie.co.at/term/390
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-023
+  type: authoritative
+status: valid
+id: 77d8e9a4-6ee9-5357-a726-fb913a2c2aca
+---
+data:
+  definition:
+  - content: spectrum of radiation whose spectral distribution of a radiometric quantity
+      as a function of wavelength is constant throughout the visible region
+    type: intensional
+  examples: []
+  notes:
+  - content: The radiation of the equal energy spectrum is sometimes regarded as an
+      illuminant, in which case it is denoted by the symbol E.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equal energy spectrum (US)
+  - type: symbol
+    normative_status: preferred
+    designation: equal energy spectrum
+  - type: symbol
+    normative_status: preferred
+    designation: equal energy spectrum
+  language_code: eng
+  annotations: []
+termid: 17-390
+id: b4067a95-d39f-5459-9c0c-686c12c0ff18

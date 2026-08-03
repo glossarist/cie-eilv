@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-782
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823041854/http://eilv.cie.co.at/term/782
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-068
+  type: authoritative
+status: valid
+id: 5b862c5f-feb4-5734-9b90-0fcded124b89
+---
+data:
+  definition:
+  - content: actinic dose, using the erythema spectral weighting function, that produces
+      a just noticeable actinic erythema on a single individual's previously unexposed
+      skin
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      This is a subjective measure based on the reddening of the skin; it depends on many variables, e.g. individual sensitivity to UVR, radiometric characteristics of the source, skin pigmentation, anatomic site, elapsed time between irradiation and observing the reddening (typical value: 24 h), etc. Since it varies with each individual, it should be reserved solely for observational studies in humans and other animals.
+      See also “{{17-1255, standard erythema dose}}”
+      Abbreviation: “MED”
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimal erythema dose
+  - type: symbol
+    normative_status: preferred
+    designation: MED
+  - type: symbol
+    normative_status: preferred
+    designation: MED
+  language_code: eng
+  annotations: []
+termid: 17-782
+id: '09dfda66-df62-584f-a78b-50825a7340cd'

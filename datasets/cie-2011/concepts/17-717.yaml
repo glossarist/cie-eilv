@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-717
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135128/http://eilv.cie.co.at/term/717
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-077
+  type: authoritative
+status: valid
+id: 7f70ab70-3f55-56a8-9de6-25c987f825e7
+---
+data:
+  definition:
+  - content: |-
+      quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
+
+      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, stem:[beta_(v,R)], and the luminescent luminance factor, stem:[beta_(v,L)]. The sum of the reflected and luminescent luminance factors is the total luminance factor, stem:[beta_(v,T)]: stem:[beta_(v,T)]= stem:[beta_(v,R)]+ stem:[beta_(v,L)].
+      The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance factor (at a surface of a non-self-radiating medium in
+      a given direction, under specified conditions of illumination)
+  - type: symbol
+    normative_status: preferred
+    designation: βv; β
+  - type: symbol
+    normative_status: preferred
+    designation: βv; β
+  language_code: eng
+  annotations: []
+termid: 17-717
+id: a36420f5-73d6-5aec-9e31-3b665afb03fd

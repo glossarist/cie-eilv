@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1381
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124753/http://eilv.cie.co.at/term/1381
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-066
+  type: authoritative
+status: valid
+id: b5c513c5-efdb-5fe5-a4e9-d6232476cef6
+---
+data:
+  definition:
+  - content: proportion of the flux of a luminaire or installation that is emitted,
+      at and above the horizontal, when the luminaire(s) is (are) mounted in its (their)
+      installed position
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      ULR is exactly the same as ULOR~inst~ as used in CIE 126-1997.
+      Abbreviation: "ULR"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upward light ratio
+  - type: symbol
+    normative_status: preferred
+    designation: ULR
+  - type: symbol
+    normative_status: preferred
+    designation: ULR
+  language_code: eng
+  annotations: []
+termid: 17-1381
+id: 114c51b6-71eb-5b82-92ef-a7f0496cfd8e

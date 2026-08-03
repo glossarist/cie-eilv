@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-291
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161409/http://eilv.cie.co.at/term/291
+  type: authoritative
+status: valid
+id: 2d0d3eeb-f563-55d2-b862-7ed3ab4c643c
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the transmittance, stem:[tau]
+
+      stem:[D_tau = -log_10 tau]
+
+      Unit: 1
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: density (optical)
+  - type: symbol
+    normative_status: preferred
+    designation: stem:[D_tau]
+  language_code: eng
+  annotations: []
+termid: 17-291
+id: '05453981-432a-5c05-a369-f22019016047'

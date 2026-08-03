@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-310
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121408/http://eilv.cie.co.at/term/310
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-039
+  type: authoritative
+status: valid
+id: 1bb4d9e3-5611-56f6-8a1f-2b690c65b58a
+---
+data:
+  definition:
+  - content: device predominantly using scattering to alter the spatial distribution
+      of radiation from a source
+    type: intensional
+  examples: []
+  notes:
+  - content: If all the radiation reflected or transmitted by the diffuser is diffused
+      with no regular reflection or transmission, the diffuser is said to be completely
+      diffusing, independent of whether or not the reflection or transmission is isotropic.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuser
+  language_code: eng
+  annotations: []
+termid: 17-310
+id: b148c3e2-ec33-5f83-a13f-f23394553b00

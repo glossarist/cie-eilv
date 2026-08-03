@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1182
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163846/http://eilv.cie.co.at/term/1182
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-003
+  type: authoritative
+status: valid
+id: b0e95f2f-5a0b-5699-bba5-ab90f627c1b9
+---
+data:
+  definition:
+  - content: sign designed to display a variable message by means of an array of elementary
+      units, each of which can be individually illuminated or otherwise altered in
+      appearance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign matrix
+  language_code: eng
+  annotations: []
+termid: 17-1182
+id: 0c0e564f-ce81-56cf-978d-038fa007a133

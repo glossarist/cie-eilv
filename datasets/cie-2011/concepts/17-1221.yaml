@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1221
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820014903/http://eilv.cie.co.at/term/1221
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-084
+  type: authoritative
+status: valid
+id: 738ecccc-57d8-550d-9517-ab67e2844f8a
+---
+data:
+  definition:
+  - content: |-
+      relative decrease in radiant flux caused by scattering expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in a diffusing medium
+
+      stem:[s ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-084
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral linear scattering coefficient (at a point in a diffusing
+      medium, for a collimated beam of radiation)
+  - type: symbol
+    normative_status: preferred
+    designation: s(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: s(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1221
+id: 6dd0694b-dafe-5d42-900e-c2cfc23d0afa

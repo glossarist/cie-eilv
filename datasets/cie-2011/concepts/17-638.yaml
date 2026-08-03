@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-638
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122001/http://eilv.cie.co.at/term/638
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-117
+  type: authoritative
+status: valid
+id: b6ac584d-f607-5de0-be05-9b89a72cbd06
+---
+data:
+  definition:
+  - content: voltage between the electrodes of the discharge lamp during stable operating
+      conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lamp voltage (of a discharge lamp)
+  language_code: eng
+  annotations: []
+termid: 17-638
+id: a66dcd9b-575d-5da1-8070-37f3280320bc

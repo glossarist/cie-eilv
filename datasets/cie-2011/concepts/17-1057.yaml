@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1057
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155348/http://eilv.cie.co.at/term/1057
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-067
+  type: authoritative
+status: valid
+id: 96f25765-e43a-5708-9c7f-26e6962f5b39
+---
+data:
+  definition:
+  - content: surface on which optical quantities are measured or specified
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference surface
+  language_code: eng
+  annotations: []
+termid: 17-1057
+id: 27e1dc19-8d68-506f-a209-66713fa3950e

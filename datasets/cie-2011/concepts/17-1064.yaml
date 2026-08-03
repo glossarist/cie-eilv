@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1064
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170522/http://eilv.cie.co.at/term/1064
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-104
+  type: authoritative
+status: valid
+id: 918f2696-cbd7-5b90-9bfe-b8fbad4aee98
+---
+data:
+  definition:
+  - content: quotient of the reflected radiance at a point on a surface of a non-self-radiating
+      medium in a given direction and that of the perfect reflecting diffuser identically
+      irradiated and viewed
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-104
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflected radiance factor (at a surface of a non-self-radiating medium
+      in a given direction, under specified conditions of illumination)
+  - type: symbol
+    normative_status: preferred
+    designation: βR
+  - type: symbol
+    normative_status: preferred
+    designation: βR
+  language_code: eng
+  annotations: []
+termid: 17-1064
+id: 53449435-e330-53b0-ac01-56950743d17b

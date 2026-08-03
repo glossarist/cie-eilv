@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-405
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922042949/http://eilv.cie.co.at/term/405
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-029
+  type: authoritative
+status: valid
+id: a51bf67f-0e04-5c4e-adf4-d53fba9a7ecf
+---
+data:
+  definition:
+  - content: optical radiation effective in causing actinic erythema
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Normally ultraviolet radiation.
+      See also "{{17-401, erythema spectral weighting function}}", "{{17-1255, standard erythema dose}}"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-029
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal radiation
+  language_code: eng
+  annotations: []
+termid: 17-405
+id: c827af55-ed10-5bf6-85ac-912238b8c9fe

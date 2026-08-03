@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-144
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145655/http://eilv.cie.co.at/term/144
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-052
+  type: authoritative
+status: valid
+id: ac1422ca-972d-5e19-96b4-c7196acc9280
+---
+data:
+  definition:
+  - content: property of a colour stimulus defined by its chromaticity coordinates,
+      or by its dominant or complementary wavelength and purity taken together
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromaticity
+  language_code: eng
+  annotations: []
+termid: 17-144
+id: 857e0a7c-6a82-59a1-bb44-bfe0a5b9ab90

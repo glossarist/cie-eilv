@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-848
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823043418/http://eilv.cie.co.at/term/848
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-002
+  type: authoritative
+status: valid
+id: 45609fff-2768-5b9e-8b5a-4662a12235f3
+---
+data:
+  definition:
+  - content: electromagnetic radiation at wavelengths between the region of transition
+      to X-rays (stem:[lambda] ≈ 1 nm) and the region of transition to radio waves
+      (stem:[lambda] ≈ 1 mm)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical radiation
+  language_code: eng
+  annotations: []
+termid: 17-848
+id: 5bbd63ce-3cf6-5e69-88d1-a70ad0346d3e

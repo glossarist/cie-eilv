@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-785
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121144/http://eilv.cie.co.at/term/785
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-057
+  type: authoritative
+status: valid
+id: c886815a-952f-5363-aa3d-34e38c840697
+---
+data:
+  definition:
+  - content: partly regular and partly diffuse transmission
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-057
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mixed transmission
+  language_code: eng
+  annotations: []
+termid: 17-785
+id: 4cb76d93-884d-5394-8743-8ec7deb373be

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-266
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160105/http://eilv.cie.co.at/term/266
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-049
+  type: authoritative
+status: valid
+id: 603458c1-c5a9-5f73-9a59-dc6d7e1c90f6
+---
+data:
+  definition:
+  - content: quotient of the cumulative flux for the solid angle under consideration
+      and the downward flux of the light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cumulative downward flux proportion (of a source, for a solid angle)
+  language_code: eng
+  annotations: []
+termid: 17-266
+id: 9eae7093-76ad-5846-8ffb-cfeca0ae9628

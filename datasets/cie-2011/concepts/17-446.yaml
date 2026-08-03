@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-446
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045536/http://eilv.cie.co.at/term/446
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-037
+  type: authoritative
+status: valid
+id: 1c07d101-d144-588c-a018-e46faa8866d1
+---
+data:
+  definition:
+  - content: boat-shaped buoy
+    type: intensional
+  examples: []
+  notes:
+  - content: A light float is a float that carries a signal light.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: float
+  language_code: eng
+  annotations: []
+termid: 17-446
+id: 3a031b7d-7000-5235-8b9d-2cdcfe952559

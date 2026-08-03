@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-995
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042037/http://eilv.cie.co.at/term/995
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-007
+  type: authoritative
+status: valid
+id: fa82b2ec-dea5-58a7-907e-7803317b520b
+---
+data:
+  definition:
+  - content: luminaire with special protection against ingress of dust, moisture or
+      water
+    type: intensional
+  examples: []
+  notes:
+  - content: 'IEC publication 598-1 stem:[Luminaires]considers amongst others the
+      following types of protected luminaires: dust-proof luminaire, dust-tight luminaire,
+      drip-proof luminaire, splash-proof luminaire, rain-proof luminaire, jet-proof
+      luminaire, watertight luminaire.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: protected luminaire
+  language_code: eng
+  annotations: []
+termid: 17-995
+id: 79b89d73-f573-51e0-892e-ff8016fcda47

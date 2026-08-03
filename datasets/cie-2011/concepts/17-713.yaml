@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-713
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052721/http://eilv.cie.co.at/term/713
+  type: authoritative
+- id: 705-04-04
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 705-04-04
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-146
+  type: authoritative
+status: valid
+id: 5eb6b45a-c0e9-5dfd-b39c-6fab63b63c7f
+---
+data:
+  definition:
+  - content: quotient of the luminance of a field and the illuminance on the plane
+      of that field, for a diffused lighting and an observation direction forming
+      a {{cite:705-04-04, grazing angle}} with the road surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 705-04-04
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 705-04-04
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-146
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance coefficient in diffuse illumination
+  language_code: eng
+  annotations: []
+termid: 17-713
+id: 26864727-af94-545e-bb4b-7e6686b1307b

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-350
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916124635/http://eilv.cie.co.at/term/350
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-047
+  type: authoritative
+status: valid
+id: 746fdff2-f981-5225-bcac-c2d1a9a3458c
+---
+data:
+  definition:
+  - content: cumulative flux for the solid angle 2π sr, below the horizontal plane
+      passing through the light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downward flux (of a source)
+  language_code: eng
+  annotations: []
+termid: 17-350
+id: 7c1b298b-e4b0-5439-85f6-17922d604b51

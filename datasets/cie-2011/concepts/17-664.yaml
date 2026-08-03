@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 17-664
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920143355/http://eilv.cie.co.at/term/664
+  type: authoritative
+status: valid
+id: 1a76ae72-debb-5312-b566-649545f06686
+---
+data:
+  definition:
+  - content: 'No longer in use: see "{{17-736, luminous exposure (at a point on a
+      surface, for a given duration)}}"'
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light exposure (at a point of a surface, for a given duration)
+  - type: symbol
+    normative_status: preferred
+    designation: stem:[H_v]; stem:[H]
+  language_code: eng
+  annotations: []
+termid: 17-664
+id: 82d15622-9961-50e7-9860-64f6113f5c1b

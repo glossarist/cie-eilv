@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-919
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170443/http://eilv.cie.co.at/term/919
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-048
+  type: authoritative
+status: valid
+id: 22a4e2db-b6f3-5eed-b933-ef415ac452d9
+---
+data:
+  definition:
+  - content: instrument comprising a photoelectric detector and auxiliary electronics
+      with which the electrons emitted by the photocathode can be counted
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon counter
+  language_code: eng
+  annotations: []
+termid: 17-919
+id: 351b1165-7591-591b-9fec-996f301d002e

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-849
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122341/http://eilv.cie.co.at/term/849
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-118
+  type: authoritative
+status: valid
+id: 96b4a713-646d-59fb-8dab-d05055629336
+---
+data:
+  definition:
+  - content: arrangement of optical or other components which form elements of a light-emitting
+      sign
+    type: intensional
+  examples: []
+  notes:
+  - content: The optical system is deemed to include the light source, optical components
+      including front screens, filters or lenses where these are appropriate.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-118
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical system (of a light emitting sign)
+  language_code: eng
+  annotations: []
+termid: 17-849
+id: a6a0e4ae-841a-593e-8dc3-53f60d10098c

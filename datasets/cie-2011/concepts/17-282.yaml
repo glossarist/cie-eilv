@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-282
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135547/http://eilv.cie.co.at/term/282
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-084
+  type: authoritative
+status: valid
+id: 600d995f-6de5-5cfa-a588-b1fdd7c6ae4d
+---
+data:
+  definition:
+  - content: electric lamp designed to provide light approximating the spectral power
+      distribution of daylight
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-084
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight lamp
+  language_code: eng
+  annotations: []
+termid: 17-282
+id: 55be42b0-b6de-5d39-b229-107fdab3b172

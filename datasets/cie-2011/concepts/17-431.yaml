@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-431
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121656/http://eilv.cie.co.at/term/431
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-002
+  type: authoritative
+status: valid
+id: f4a9603a-52e9-51c6-8be3-70be21d0228f
+---
+data:
+  definition:
+  - content: threadlike conductor, usually of tungsten, that is heated to incandescence
+      by the passage of an electric current
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: filament
+  language_code: eng
+  annotations: []
+termid: 17-431
+id: bd44956c-0ad4-5cb7-9ab1-51d99346e871

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1187
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004158/http://eilv.cie.co.at/term/1187
+  type: authoritative
+status: valid
+id: 4730b1fd-1c89-58d5-9fb2-4eff55d6b484
+---
+data:
+  definition:
+  - content: resistance offered by the road to the skidding of vehicles (depending
+      on the macro texture and the micro texture of the pavement)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: skid resistance
+  language_code: eng
+  annotations: []
+termid: 17-1187
+id: 40ca337e-8b20-521e-8485-7bee81e3037c

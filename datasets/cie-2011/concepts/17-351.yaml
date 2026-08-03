@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-351
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202103506/http://eilv.cie.co.at/term/351
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-054
+  type: authoritative
+status: valid
+id: be0aaf78-4d46-53f3-9574-da4b0b8db4ab
+---
+data:
+  definition:
+  - content: quotient of the downward flux and the total flux of a luminaire
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-054
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downward flux fraction (of a luminaire)
+  language_code: eng
+  annotations: []
+termid: 17-351
+id: c7df9d05-d995-5076-87da-af42f8cbb7e0

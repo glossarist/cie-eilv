@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-149
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150427211737/http://eilv.cie.co.at/term/149
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-049
+  type: authoritative
+status: valid
+id: 9515e391-64ef-5b27-b22c-b4f26f354854
+---
+data:
+  definition:
+  - content: ideal observer whose colour-matching properties correspond to the CIE
+      colour-matching functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z
+      ( lambda )] adopted by the CIE in 1931
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1931 standard colorimetric observer
+  language_code: eng
+  annotations: []
+termid: 17-149
+id: f73fa5a9-9eeb-5761-aa4b-f67ab4f0f656

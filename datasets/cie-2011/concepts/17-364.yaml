@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-364
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135504/http://eilv.cie.co.at/term/364
+  type: authoritative
+status: valid
+id: 80516e83-a7dc-513c-8775-cf6061cf7520
+---
+data:
+  definition:
+  - content: See "{{17-54, arc discharge}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric arc (in a gas or a vapour)
+  language_code: eng
+  annotations: []
+termid: 17-364
+id: 64444cb2-e9cd-5919-989a-609ee2731b88

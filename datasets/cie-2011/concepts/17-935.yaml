@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-935
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160425/http://eilv.cie.co.at/term/935
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-009
+  type: authoritative
+status: valid
+id: 19d13355-3877-58ae-9afb-f75e6d0bdcbf
+---
+data:
+  definition:
+  - content: branch of biology and medicine that deals with pathologic effects linked
+      to optical radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-009
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photopathology
+  language_code: eng
+  annotations: []
+termid: 17-935
+id: 738906e6-29e7-582a-8471-78280235e9e8

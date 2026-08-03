@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-801
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125400/http://eilv.cie.co.at/term/801
+  type: authoritative
+status: valid
+id: 58b609c3-b644-5fc7-978d-4031fa4dfa84
+---
+data:
+  definition:
+  - content: See "{{17-990, projector}}" and NOTE to "{{17-1434, wide angle luminaire}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: narrow angle luminaire
+  language_code: eng
+  annotations: []
+termid: 17-801
+id: f975b4ee-5a33-56df-8eb5-48d2dddf48da

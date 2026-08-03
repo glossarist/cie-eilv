@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-676
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135357/http://eilv.cie.co.at/term/676
+  type: authoritative
+status: valid
+id: 822def76-3ae2-5fd1-a4f0-fc9a8939229d
+---
+data:
+  definition:
+  - content: 'No longer in use: see "{{17-707, luminaire}}"'
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting fitting
+  language_code: eng
+  annotations: []
+termid: 17-676
+id: 85478e92-75d3-57fd-8989-400732b721dc

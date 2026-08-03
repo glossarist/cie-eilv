@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1104
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171841/http://eilv.cie.co.at/term/1104
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-099
+  type: authoritative
+status: valid
+id: 9eba9c9c-9282-57f8-96e4-e733e83fd584
+---
+data:
+  definition:
+  - content: reflection in which the reflected rays are preferentially returned in
+      directions close to the opposite of the direction of the incident rays, this
+      property being maintained over wide variations in the direction of the incident
+      rays
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-099
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflection
+  language_code: eng
+  annotations: []
+termid: 17-1104
+id: bb07975e-eab0-56e6-a92e-ea63c6f9c41f

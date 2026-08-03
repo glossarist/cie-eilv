@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1110
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012136/http://eilv.cie.co.at/term/1110
+  type: authoritative
+status: valid
+id: ba96c376-312b-52fc-b219-c712169a4adc
+---
+data:
+  definition:
+  - content: road around an urban area enabling traffic to avoid the urban centre
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ring road
+  language_code: eng
+  annotations: []
+termid: 17-1110
+id: d548c734-1f47-533e-8390-993368b32dca

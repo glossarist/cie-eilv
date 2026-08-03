@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-521
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426173146/http://eilv.cie.co.at/term/521
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-065
+  type: authoritative
+status: valid
+id: cdc03d91-3d18-5ec4-b754-f425a1a147f6
+---
+data:
+  definition:
+  - content: projector carried on a vehicle for illuminating the way or scene in front
+      of the vehicle
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-065
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headlamp
+  - type: symbol
+    normative_status: preferred
+    designation: headlamp
+  - type: symbol
+    normative_status: preferred
+    designation: headlamp
+  - type: expression
+    normative_status: admitted
+    designation: headlight
+  language_code: eng
+  annotations: []
+termid: 17-521
+id: 7bfb1e51-7c0a-59de-a200-215d132e945f

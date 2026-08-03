@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-95
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101949/http://eilv.cie.co.at/term/95
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-082
+  type: authoritative
+status: valid
+id: 1ae848de-70c3-5adc-ab61-5948dc58470c
+---
+data:
+  definition:
+  - content: quotient of the luminous flux emitted by a reference lamp when operated
+      with a particular production ballast and the luminous flux emitted by the same
+      reference lamp when operated with its reference ballast
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: BLF (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: BLF
+  - type: symbol
+    normative_status: preferred
+    designation: BLF
+  language_code: eng
+  annotations: []
+termid: 17-95
+id: 6ed53850-d96b-562e-8f6c-90bd5e38c261

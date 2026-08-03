@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-124
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426203352/http://eilv.cie.co.at/term/124
+  type: authoritative
+status: valid
+id: 991e97c1-a3e7-5613-a4d6-6812850dd146
+---
+data:
+  definition:
+  - content: |-
+      part of the road normally used by motorized vehicular traffic
+
+      Equivalent term used in the US: "pavement"
+    type: intensional
+  examples: []
+  notes:
+  - content: It can include emergency lanes.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carriageway
+  language_code: eng
+  annotations: []
+termid: 17-124
+id: 8aece85f-f746-58b3-b0cd-5970b3eb380a

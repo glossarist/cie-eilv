@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1124
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922172414/http://eilv.cie.co.at/term/1124
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-039
+  type: authoritative
+status: valid
+id: 19d94625-b7ba-585c-b580-a227b85b1fc4
+---
+data:
+  definition:
+  - content: symmetrical luminous intensity distribution having one axis of symmetry
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rotationally symmetrical luminous intensity distribution (of a source)
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: symmetrical luminous intensity distribution'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: symmetrical luminous intensity distribution'
+  language_code: eng
+  annotations: []
+termid: 17-1124
+id: 8cc9ab4f-1bdb-55a9-9f0d-9953269725a1

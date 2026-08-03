@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-552
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20180311214736/http://eilv.cie.co.at/term/552
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-160
+  type: authoritative
+status: valid
+id: 3d168433-b13b-545f-a7e8-600122006454
+---
+data:
+  definition:
+  - content: quotient of minimum illuminance and average illuminance on a surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-160
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance uniformity
+  - type: symbol
+    normative_status: preferred
+    designation: uniformity ratio of illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: uniformity ratio of illuminance
+  - type: expression
+    normative_status: admitted
+    designation: uniformity ratio of illuminance
+  language_code: eng
+  annotations: []
+termid: 17-552
+id: edee7842-1825-59d8-aab6-53ff8a04c46a

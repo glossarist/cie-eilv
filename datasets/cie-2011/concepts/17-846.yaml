@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-846
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160307/http://eilv.cie.co.at/term/846
+  type: authoritative
+status: valid
+id: 908e816e-c4a8-5593-80cf-8144c0474913
+---
+data:
+  definition:
+  - content: See "{{17-434, filter}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical filter
+  language_code: eng
+  annotations: []
+termid: 17-846
+id: dabc0d42-fc7a-5287-b6c8-84588e86a903

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-500
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917131052/http://eilv.cie.co.at/term/500
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-080
+  type: authoritative
+status: valid
+id: 2d646fe4-4427-5a7c-a8b8-0c0c7dec42fe
+---
+data:
+  definition:
+  - content: mode of appearance by which reflected highlights of objects are perceived
+      as superimposed on the surface due to the directionally selective properties
+      of that surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-080
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gloss (of a surface)
+  language_code: eng
+  annotations: []
+termid: 17-500
+id: 40f24304-430a-545a-883a-4b28afc7c1ae

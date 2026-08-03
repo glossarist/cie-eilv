@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-343
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920142037/http://eilv.cie.co.at/term/343
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-143
+  type: authoritative
+status: valid
+id: 475e2eaf-4b8c-51ff-8c76-b0727ee736a7
+---
+data:
+  definition:
+  - content: quotient of minimum illuminance and maximum illuminance on a surface,
+      or of minimum luminance and maximum luminance of a surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-143
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diversity
+  - type: symbol
+    normative_status: preferred
+    designation: Ud
+  - type: symbol
+    normative_status: preferred
+    designation: Ud
+  language_code: eng
+  annotations: []
+termid: 17-343
+id: 58464c3f-173f-5180-99bc-08874040ca4e

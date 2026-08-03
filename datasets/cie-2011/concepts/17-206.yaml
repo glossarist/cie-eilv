@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-206
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134743/http://eilv.cie.co.at/term/206
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-041
+  type: authoritative
+status: valid
+id: 8d4cbe37-0839-597f-b22d-6a131565a7a3
+---
+data:
+  definition:
+  - content: perceived dissimilarity between two colour stimuli
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour difference (perceived)
+  - type: symbol
+    normative_status: preferred
+    designation: perceived colour difference
+  - type: symbol
+    normative_status: preferred
+    designation: perceived colour difference
+  language_code: eng
+  annotations: []
+termid: 17-206
+id: 54d28541-afb3-5e94-bf00-c5df231c4f6b

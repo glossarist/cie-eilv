@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-64
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101753/http://eilv.cie.co.at/term/64
+  type: authoritative
+status: valid
+id: 35dbc9b9-17a9-5f90-a351-c0a644c3a63f
+---
+data:
+  definition:
+  - content: average of the individual lives of the lamps subjected to a life test,
+      the lamps being operated under specified conditions and the end of life judged
+      according to specified criteria
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average life
+  language_code: eng
+  annotations: []
+termid: 17-64
+id: 10cd2219-6749-5603-9ce4-365e16040109

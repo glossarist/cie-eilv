@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1238
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145640/http://eilv.cie.co.at/term/1238
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-015
+  type: authoritative
+status: valid
+id: cfbd9a53-7390-56e2-813a-de710f5d91bb
+---
+data:
+  definition:
+  - content: display or specification of the monochromatic components of the radiation
+      considered
+    type: intensional
+  examples: []
+  notes:
+  - content: There are line spectra, continuous spectra, and spectra exhibiting both
+      these characteristics.
+    type: intensional
+  - content: This term is also used for spectral efficiencies (excitation spectrum,
+      action spectrum).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectrum
+  language_code: eng
+  annotations: []
+termid: 17-1238
+id: 30355439-50b8-5fd3-8380-e751bdf826a5

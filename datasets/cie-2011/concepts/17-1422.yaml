@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1422
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121847/http://eilv.cie.co.at/term/1422
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-034
+  type: authoritative
+status: valid
+id: 6e902174-62ed-5d08-950a-7d3faf22f679
+---
+data:
+  definition:
+  - content: empirical law stating that colour stimuli that match in one set of adaptation
+      conditions continue to do so in any other set
+    type: intensional
+  examples: []
+  notes:
+  - content: von Kries' persistence law does not apply to all conditions.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: von Kries' persistence law
+  language_code: eng
+  annotations: []
+termid: 17-1422
+id: a3fe42c0-a718-5097-a506-0bfbc79e0e0a

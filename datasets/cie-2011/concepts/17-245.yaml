@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-245
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922165132/http://eilv.cie.co.at/term/245
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-002
+  type: authoritative
+status: valid
+id: 86ebb7a1-c9c5-5359-af43-c706a33c3a13
+---
+data:
+  definition:
+  - content: photoreceptors in the retina containing light-sensitive pigments capable
+      of initiating the process of photopic vision
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cones
+  language_code: eng
+  annotations: []
+termid: 17-245
+id: 15cc3ea4-622c-5204-bf52-eebe063e3135

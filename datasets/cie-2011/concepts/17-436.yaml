@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-436
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122936/http://eilv.cie.co.at/term/436
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-098
+  type: authoritative
+status: valid
+id: 99449249-a727-50f3-9218-756f0179dc09
+---
+data:
+  definition:
+  - content: vertical axis through the photometric centre of a luminaire when it is
+      at its tilt during measurement
+    type: intensional
+  examples: []
+  notes:
+  - content: The poles of the stem:[C], stem:[gamma] coordinate system lie in this
+      axis.
+    type: intensional
+  - content: This axis is tilted when the luminaire is tilted from its tilt during
+      measurement.
+    type: intensional
+  - content: See CIE 121-1996 for more information on the first axis of a luminaire.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-098
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: first axis (of a luminaire when measured in the stem:[C], stem:[gamma]
+      coordinate system)
+  language_code: eng
+  annotations: []
+termid: 17-436
+id: 6b46e454-9644-5faf-8581-f18a0a1bd317

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-44
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101904/http://eilv.cie.co.at/term/44
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-058
+  type: authoritative
+status: valid
+id: c3eb9cf6-a159-5a4e-a1c5-95cb68e9b07c
+---
+data:
+  definition:
+  - content: signal light carried on an aircraft to indicate the presence of the aircraft
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-058
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anti-collision light
+  language_code: eng
+  annotations: []
+termid: 17-44
+id: 07ebfc07-f5b6-58a1-ab8e-61abe454b449

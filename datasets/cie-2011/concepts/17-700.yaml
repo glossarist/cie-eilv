@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-700
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051035/http://eilv.cie.co.at/term/700
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-168
+  type: authoritative
+status: valid
+id: 83505d48-377f-5694-8809-606ba013563c
+---
+data:
+  definition:
+  - content: lighting system comprising light sources arranged above louvres which
+      cover the ceiling
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-168
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: louvred ceiling
+  - type: symbol
+    normative_status: preferred
+    designation: louvered ceiling
+  - type: symbol
+    normative_status: preferred
+    designation: louvered ceiling
+  language_code: eng
+  annotations: []
+termid: 17-700
+id: 4106ae03-6616-5995-8a68-64a268dd2b8a

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1368
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012024/http://eilv.cie.co.at/term/1368
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-072
+  type: authoritative
+status: valid
+id: 4146ab76-46fe-5a69-9ccd-7343d38ac9ea
+---
+data:
+  definition:
+  - content: two-dimensional diagram in which the coordinates are defined with the
+      intention of making equal distances represent as nearly as possible equal steps
+      of colour discrimination of colour stimuli of the same luminance throughout
+      the diagram
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform chromaticity scale diagram
+  - type: symbol
+    normative_status: preferred
+    designation: UCS diagram
+  - type: symbol
+    normative_status: preferred
+    designation: UCS diagram
+  - type: expression
+    normative_status: admitted
+    designation: UCS diagram
+  language_code: eng
+  annotations: []
+termid: 17-1368
+id: f0ed5f3b-463c-503d-94df-2b2c617ee917

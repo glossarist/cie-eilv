@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-1199
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820005517/http://eilv.cie.co.at/term/1199
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-125
+  type: authoritative
+status: valid
+id: 23dac94f-2515-50e0-b91e-69659da50c3f
+---
+data:
+  definition:
+  - content: quotient of the quantity of heat penetrating into an interior through
+      the glazing and the solar radiant energy incident on that glazing
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      This ratio is the sum of 2 quantities: the radiant transmittance, stem:[tau_e], of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], to the solar radiant energy, stem:[Q_1], incident on the glazing:
+      stem:[g] = stem:[tau_e] + stem:[Q_2]/ stem:[Q_1].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-125
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solar factor (of glazing material)
+  - type: symbol
+    normative_status: preferred
+    designation: total transmittance, <of glazing material>
+  - type: symbol
+    normative_status: preferred
+    designation: total transmittance, <of glazing material>
+  - type: expression
+    normative_status: admitted
+    designation: total (energy) transmittance
+  language_code: eng
+  annotations: []
+termid: 17-1199
+id: 899a94c6-dcaa-59f8-8507-746968a87098

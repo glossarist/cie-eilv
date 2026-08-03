@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-127
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232132/http://eilv.cie.co.at/term/127
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-020
+  type: authoritative
+status: valid
+id: 86a91456-5d14-5fb0-9895-0d0f2f260327
+---
+data:
+  definition:
+  - content: difference in electric potential due to the space charge near the cathode
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cathode fall
+  - type: symbol
+    normative_status: preferred
+    designation: cathode voltage drop
+  - type: symbol
+    normative_status: preferred
+    designation: cathode voltage drop
+  - type: expression
+    normative_status: admitted
+    designation: cathode drop
+  language_code: eng
+  annotations: []
+termid: 17-127
+id: 113a7196-9f0c-5cdf-9d3b-f26f18693165

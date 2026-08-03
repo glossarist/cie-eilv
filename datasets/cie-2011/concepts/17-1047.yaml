@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1047
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160211/http://eilv.cie.co.at/term/1047
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-046
+  type: authoritative
+status: valid
+id: 4c5b1c16-e5b8-5f82-ae22-876dcf159140
+---
+data:
+  definition:
+  - content: special ballast designed for the purpose of providing comparison standards
+      for use in testing ballasts, for the selection of reference lamps and for testing
+      electric lamps from regular production under standardized conditions
+    type: intensional
+  examples: []
+  notes:
+  - content: It is essentially characterized by a stable voltage-to-current ratio,
+      which is relatively uninfluenced by variations in current, temperature and magnetic
+      surroundings.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-046
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference ballast
+  language_code: eng
+  annotations: []
+termid: 17-1047
+id: ac1cb0e0-1824-5064-86a7-8acabdac4266

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-883
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820125618/http://eilv.cie.co.at/term/883
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-038
+  type: authoritative
+status: valid
+id: 1e7260af-bce7-5044-bad5-467d2e010684
+---
+data:
+  definition:
+  - content: radiant spherical exposure weighted with a stated photobiological action
+      spectrum
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition implies that an action spectrum is adopted for the actinic
+      effect considered, and that its maximum value is 1. When giving a quantitative
+      amount, it is essential to specify according to which actinic action spectrum
+      the fluence is meant, as the unit is the same.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photobiological fluence (at a point, for a given exposure duration)
+  - type: symbol
+    normative_status: preferred
+    designation: Heff,o
+  - type: symbol
+    normative_status: preferred
+    designation: Heff,o
+  language_code: eng
+  annotations: []
+termid: 17-883
+id: 3270a8ef-d6a0-5d6a-bcd9-4a240afaa4f7

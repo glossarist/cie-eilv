@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-977
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163523/http://eilv.cie.co.at/term/977
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-020
+  type: authoritative
+status: valid
+id: 8074710d-a3f1-595f-b926-6ce811187763
+---
+data:
+  definition:
+  - content: cap which enables the luminous element to be brought into a specified
+      position relative to the cap during manufacture of the electric lamp so that
+      reproducible positioning can be assured when the electric lamp is inserted in
+      a suitable lampholder
+    type: intensional
+  examples: []
+  notes:
+  - content: The international designation is P.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prefocus base (US)
+  - type: symbol
+    normative_status: preferred
+    designation: prefocus base
+  - type: symbol
+    normative_status: preferred
+    designation: prefocus base
+  language_code: eng
+  annotations: []
+termid: 17-977
+id: 9aaf476d-f637-584a-9eba-3ba3c508d4eb

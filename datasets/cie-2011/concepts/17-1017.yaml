@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-1017
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161228/http://eilv.cie.co.at/term/1017
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-077
+  type: authoritative
+status: valid
+id: c9851846-4397-5930-be60-d02d4dc1d194
+---
+data:
+  definition:
+  - content: |-
+      time integral of the cylindrical irradiance, stem:[E_(e,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+
+      stem:[H_((e,c)) = underset((Delta t))( int ) E_(e,c) d t]
+    type: intensional
+  examples: []
+  notes:
+  - content: The analogous quantities "luminous cylindrical exposure", stem:[H_(v,z)],
+      and "photon cylindrical exposure", stem:[H_(p,z)], are defined in a similar
+      way, replacing cylindrical irradiance, stem:[E_(e,z)], by cylindrical illuminance,
+      stem:[E_(v,z)], or photon cylindrical irradiance, stem:[E_(p,z)].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant cylindrical exposure (at a point, for a given direction and
+      duration)
+  - type: symbol
+    normative_status: preferred
+    designation: He,c; Hc
+  - type: symbol
+    normative_status: preferred
+    designation: He,c; Hc
+  language_code: eng
+  annotations: []
+termid: 17-1017
+id: ef96f12e-c87d-5545-a21b-28862388f30f

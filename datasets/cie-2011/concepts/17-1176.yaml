@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1176
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004005/http://eilv.cie.co.at/term/1176
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-043
+  type: authoritative
+status: valid
+id: 1bb1ea56-5e9f-5fbe-b04a-03097ae462f6
+---
+data:
+  definition:
+  - content: navigation light positioned generally at the side of a vessel, and designed
+      to show either a fixed green light to the starboard or a fixed red light to
+      the port side of the longitudinal axis of the vessel, but not rearwards
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-043
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sidelight (of vessels)
+  language_code: eng
+  annotations: []
+termid: 17-1176
+id: '08245299-0059-525f-a6ea-4e371cf6f1c1'

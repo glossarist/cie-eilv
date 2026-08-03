@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-340
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818132437/http://eilv.cie.co.at/term/340
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-091
+  type: authoritative
+status: valid
+id: 5eb14dbf-4f3a-5a86-9bba-7c3afeb13b8b
+---
+data:
+  definition:
+  - content: curve to express values of luminous intensity of a source as a function
+      of direction in space, and normally expressed in polar coordinates (i.e. with
+      the origin at the photometric centre)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-091
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distribution curve (of luminous intensity)
+  language_code: eng
+  annotations: []
+termid: 17-340
+id: f19cb663-8f14-5f8d-b50e-97a054230a78

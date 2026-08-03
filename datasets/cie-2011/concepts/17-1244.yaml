@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1244
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042251/http://eilv.cie.co.at/term/1244
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-066
+  type: authoritative
+status: valid
+id: bede50d7-82e0-56ec-8552-9c8db3cb25f7
+---
+data:
+  definition:
+  - content: mean value of illuminance on the outer curved surface of a very small
+      (real or imaginary) sphere at a point in space
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical illuminance (at a point)
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,o; Eo
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,o; Eo
+  language_code: eng
+  annotations: []
+termid: 17-1244
+id: 74b10536-9919-5011-b47e-d8a432b6c790

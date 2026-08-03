@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1306
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917163107/http://eilv.cie.co.at/term/1306
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-003
+  type: authoritative
+status: valid
+id: 47b47e37-4bb3-5edf-a1a4-110ce588d766
+---
+data:
+  definition:
+  - content: source emitting thermal radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal radiator
+  language_code: eng
+  annotations: []
+termid: 17-1306
+id: 9c523ff0-14dc-5f6a-8ac4-a8f51c435382

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-278
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135048/http://eilv.cie.co.at/term/278
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-105
+  type: authoritative
+status: valid
+id: 8ee66f38-e600-55ed-b9ff-cfb54e677bb4
+---
+data:
+  definition:
+  - content: part of global solar radiation capable of causing a visual sensation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-105
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight
+  language_code: eng
+  annotations: []
+termid: 17-278
+id: e31addbe-4026-5353-9a4d-409cf5e6756c

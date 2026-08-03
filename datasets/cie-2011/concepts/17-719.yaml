@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-719
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052850/http://eilv.cie.co.at/term/719
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-027
+  type: authoritative
+status: valid
+id: 48c3dca8-cbc5-5661-a92c-0f8e3ab4b2f7
+---
+data:
+  definition:
+  - content: quotient of the maximum luminance and the minimum luminance that is present
+      in a specific scene, artwork, photograph, photomechanical, or other reproduction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance ratio (of a scene or an image)
+  language_code: eng
+  annotations: []
+termid: 17-719
+id: 8ca96543-8a8f-540a-99c8-d8cdee20c8ca

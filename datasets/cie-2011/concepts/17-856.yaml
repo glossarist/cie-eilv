@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-856
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123808/http://eilv.cie.co.at/term/856
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-058
+  type: authoritative
+status: valid
+id: 0740cb4f-4f49-572f-add8-256d0888f117
+---
+data:
+  definition:
+  - content: physical quantity yielded by a detector in response to an optical input
+    type: intensional
+  examples: []
+  notes:
+  - content: This quantity, usually electrical, may for example be current, voltage
+      or a change in resistance; the output may also be chemical, as in a photographic
+      film or an actinometer, or mechanical as in a Golay detector.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-058
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output (of a detector of optical radiation)
+  language_code: eng
+  annotations: []
+termid: 17-856
+id: 6653b52a-056e-5ec5-b28f-f6b43465e921

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-382
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121826/http://eilv.cie.co.at/term/382
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-009
+  type: authoritative
+status: valid
+id: a5cbddec-6f77-5735-9daa-96f11485228b
+---
+data:
+  definition:
+  - content: |-
+      quotient of the radiant exitance of a radiator, stem:[M_e], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
+
+      stem:[epsilon = ((M_e))/((M_b))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-009
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emissivity (hemispherical)
+  - type: symbol
+    normative_status: preferred
+    designation: hemispherical emissivity
+  - type: symbol
+    normative_status: preferred
+    designation: hemispherical emissivity
+  language_code: eng
+  annotations: []
+termid: 17-382
+id: a148027f-0e16-5577-b951-be077e622d6a

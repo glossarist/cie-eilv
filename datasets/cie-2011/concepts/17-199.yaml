@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-199
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426184442/http://eilv.cie.co.at/term/199
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-026
+  type: authoritative
+status: valid
+id: 3dbce795-9c7c-5c74-80e3-5e41bc39c4ea
+---
+data:
+  definition:
+  - content: specification of a visual stimulus in terms of its spectral characteristics
+      combined with its illuminating and viewing environment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour appearance
+  language_code: eng
+  annotations: []
+termid: 17-199
+id: e85c28ae-f361-5d48-a248-b634ed7eedb1

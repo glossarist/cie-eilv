@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1279
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161800/http://eilv.cie.co.at/term/1279
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-030
+  type: authoritative
+status: valid
+id: 99536c1c-f6f2-5071-880f-63cf69707322
+---
+data:
+  definition:
+  - content: injury to the skin, accompanied by actinic erythema, caused by over-exposure
+      to solar ultraviolet radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sunburn
+  language_code: eng
+  annotations: []
+termid: 17-1279
+id: cd50dcef-e872-515d-8da7-a9b706a06278

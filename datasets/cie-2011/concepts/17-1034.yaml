@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-1034
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820014044/http://eilv.cie.co.at/term/1034
+  type: authoritative
+status: valid
+id: 99c8cd84-20af-56d3-b98c-708e666537fa
+---
+data:
+  definition:
+  - content: |-
+      small device secure to, and projecting slightly above, a road surface as a road marking
+
+      Equivalent term used outside US: "road stud"
+    type: intensional
+  examples: []
+  notes:
+  - content: A raised pavement marker may incorporate a retroreflector or a light
+      source.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: raised pavement marker (US)
+  language_code: eng
+  annotations: []
+termid: 17-1034
+id: 05ccf144-5c74-5306-9b83-cd7b560b49a4

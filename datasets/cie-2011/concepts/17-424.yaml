@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-424
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922033408/http://eilv.cie.co.at/term/424
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-135
+  type: authoritative
+status: valid
+id: 7c1b36c8-656e-5e06-ade8-6b441b4c6bc0
+---
+data:
+  definition:
+  - content: solar irradiance incident on the outer limit of the Earth's atmosphere
+      considering the whole solar spectrum
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-135
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extraterrestrial solar irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee
+  - type: symbol
+    normative_status: preferred
+    designation: Ee
+  language_code: eng
+  annotations: []
+termid: 17-424
+id: 25d24d8d-e48f-5647-90e1-9893dc62ca2c

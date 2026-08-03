@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-363
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130048/http://eilv.cie.co.at/term/363
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-095
+  type: authoritative
+status: valid
+id: d7a2a925-a20c-5b33-8613-12059fdaa177
+---
+data:
+  definition:
+  - content: irradiation or measurement of reflecting materials at 8° to the normal,
+      at one azimuth angle
+    type: intensional
+  examples: []
+  notes:
+  - content: This geometry is used to substitute the 0° directional geometry in many
+      practical applications of reflection measurements, as it permits differentiation
+      between specular component included and excluded measurements.
+    type: intensional
+  - content: |-
+      This geometry is restricted to measurements using an integrating sphere as described in CIE 15 stem:[Colorimetry].
+      See also CIE 15 stem:[Colorimetry](section 5)
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-095
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eight degree geometry
+  language_code: eng
+  annotations: []
+termid: 17-363
+id: 3e7d2dfe-7dc6-5193-b617-a8b22376d42c

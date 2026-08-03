@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-422
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202100755/http://eilv.cie.co.at/term/422
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-123
+  type: authoritative
+status: valid
+id: d2bfa5a7-9a89-5c18-afba-de656e92fb9e
+---
+data:
+  definition:
+  - content: quotient of that part of the illuminance at a point on a given plane
+      in an interior, which is received directly from external reflecting surfaces
+      illuminated directly or indirectly by a sky of assumed or known luminance distribution
+      and the illuminance on a horizontal plane due to an unobstructed hemisphere
+      of this sky, where the contribution of direct sunlight to both illuminances
+      is excluded
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-123
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: externally reflected component of daylight factor
+  - type: symbol
+    normative_status: preferred
+    designation: De
+  - type: symbol
+    normative_status: preferred
+    designation: De
+  language_code: eng
+  annotations: []
+termid: 17-422
+id: afd6d140-933e-5074-afc7-54d44836ea18

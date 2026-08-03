@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-298
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123844/http://eilv.cie.co.at/term/298
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-025
+  type: authoritative
+status: valid
+id: c2e3775a-dbd8-58f8-bef0-62690e0c9bfc
+---
+data:
+  definition:
+  - content: anomalous trichromatic {{17-287, defective colour vision}} in which discrimination
+      of the reddish and greenish contents of colours is reduced, without any colours
+      appearing abnormally dim
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: deuteranomaly
+  language_code: eng
+  annotations: []
+termid: 17-298
+id: 045d7b9e-617c-5e52-a6cf-da52526c2384

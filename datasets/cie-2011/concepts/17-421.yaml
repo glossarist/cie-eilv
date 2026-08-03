@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-421
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135241/http://eilv.cie.co.at/term/421
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-074
+  type: authoritative
+status: valid
+id: b04608c6-f80c-55ce-adb0-120e64f7167b
+---
+data:
+  definition:
+  - content: quotient of the number of elementary events (such as release of an electron)
+      contributing to the output and the number of incident photons, including those
+      reflected by the detector
+    type: intensional
+  examples: []
+  notes:
+  - content: The use of the unqualified term "quantum efficiency" (stem:[eta]) always
+      implies external quantum efficiency.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: external quantum efficiency (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: quantum efficiency, <of a detector>
+  - type: symbol
+    normative_status: preferred
+    designation: quantum efficiency, <of a detector>
+  language_code: eng
+  annotations: []
+termid: 17-421
+id: 88adaf6a-fe29-5604-ad2c-e9d7ffc1607d

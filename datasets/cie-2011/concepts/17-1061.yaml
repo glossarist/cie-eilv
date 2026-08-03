@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1061
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922163626/http://eilv.cie.co.at/term/1061
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-071
+  type: authoritative
+status: valid
+id: f06568b3-eceb-58c0-a76b-16797f700a85
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the reflectance, stem:[rho]
+
+      stem:[Drho] = −log~10~ stem:[rho]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-071
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance (optical) density
+  - type: symbol
+    normative_status: preferred
+    designation: reflectance density
+  - type: symbol
+    normative_status: preferred
+    designation: reflectance density
+  language_code: eng
+  annotations: []
+termid: 17-1061
+id: 2854dc48-d8f1-5406-94cb-09df45fe8184

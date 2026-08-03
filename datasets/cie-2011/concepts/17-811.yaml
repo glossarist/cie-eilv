@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-811
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125144/http://eilv.cie.co.at/term/811
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-117
+  type: authoritative
+status: valid
+id: 41c8fc18-bd18-500e-aa21-69685c55e28d
+---
+data:
+  definition:
+  - content: non-selective filter whose transmittance changes continuously along a
+      straight or curved path on its surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: neutral wedge
+  language_code: eng
+  annotations: []
+termid: 17-811
+id: d7e8522d-a2b3-582f-a9a9-c6aef9a19ced

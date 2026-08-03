@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1007
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160136/http://eilv.cie.co.at/term/1007
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-037
+  type: authoritative
+status: valid
+id: 9aa476c7-55ca-5c0d-ad67-fd843140fefb
+---
+data:
+  definition:
+  - content: energy of electromagnetic waves weighted by the spectral luminous efficiency
+      multiplied by maximum luminous efficacy of a specified photometric condition
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantity of light
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: quantity of light'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: quantity of light'
+  language_code: eng
+  annotations: []
+termid: 17-1007
+id: a6dcdd9b-cda0-5a75-bf6f-9ee0c95c3ddb

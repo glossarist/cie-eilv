@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-242
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916123837/http://eilv.cie.co.at/term/242
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-111
+  type: authoritative
+status: valid
+id: b0b7f1a4-94bd-5af9-bc9f-18a3741517ca
+---
+data:
+  definition:
+  - content: |-
+      complex value where the real part is the refractive index and the imaginary part is related to the spectral absorption index
+
+      stem:[hat n ( lambda ) = n ( lambda ) - i kappa ( lambda )]
+
+      where where stem:[n](stem:[lambda]) is the refractive index at wavelength stem:[lambda], stem:[kappa](stem:[lambda]) is the spectral absorption index and stem:[i = sqrt(- 1)]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-111
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex refractive index (of an absorbing, isotropic material)
+  language_code: eng
+  annotations: []
+termid: 17-242
+id: 4a4b040c-3175-5ebc-b53b-94aab591e914

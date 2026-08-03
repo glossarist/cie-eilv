@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-541
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162129/http://eilv.cie.co.at/term/541
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-041
+  type: authoritative
+status: valid
+id: ff3f1438-c77f-5a85-92fd-3b4c1e6da76a
+---
+data:
+  definition:
+  - content: hot-cathode lamp that requires preheating of the electrodes for starting
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hot start lamp
+  - type: expression
+    normative_status: admitted
+    designation: preheat lamp
+  language_code: eng
+  annotations: []
+termid: 17-541
+id: 1917f200-21b3-5441-982c-988aecd0b344

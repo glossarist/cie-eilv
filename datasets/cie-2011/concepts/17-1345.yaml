@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1345
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191220074531/http://eilv.cie.co.at/term/1345
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-038
+  type: authoritative
+status: valid
+id: 6e45da2f-051e-5c15-a4f6-80946d046819
+---
+data:
+  definition:
+  - content: amounts of the reference colour stimuli, in a given trichromatic system,
+      required to match the colour of the stimulus considered
+    type: intensional
+  examples: []
+  notes:
+  - content: In the CIE standard colorimetric systems, the tristimulus values are
+      represented by the symbols stem:[R], stem:[G], stem:[B]; stem:[X], stem:[Y],
+      stem:[Z]; stem:[R_(10)], stem:[G_(10)], stem:[B_(10)] and stem:[X_(10)], stem:[Y_(10)],
+      stem:[Z_(10)].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tristimulus values (of a colour stimulus)
+  language_code: eng
+  annotations: []
+termid: 17-1345
+id: 1d1f9348-6ddf-5db2-82bb-9c0d90be27bb

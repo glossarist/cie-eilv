@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1408
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922165943/http://eilv.cie.co.at/term/1408
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-080
+  type: authoritative
+status: valid
+id: 5a4e04bd-1f13-5be0-ad56-5ed63f49d3a6
+---
+data:
+  definition:
+  - content: part of an external scene that is perceived when an observer gazes at
+      some point in the scene
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-080
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual field
+  language_code: eng
+  annotations: []
+termid: 17-1408
+id: 6c5d30d9-bedc-5e0d-82dc-b1201ea23ca7

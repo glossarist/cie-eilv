@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-452
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922165535/http://eilv.cie.co.at/term/452
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-076
+  type: authoritative
+status: valid
+id: c1d5fd5b-d8f2-549d-ba23-281ad1d33323
+---
+data:
+  definition:
+  - content: quotient of five times the sum of the area of the walls bounded by the
+      floor and the working plane and the sum of the areas of the floor and the working
+      plane, used in the calculation of the utilization factor or utilance
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The floor cavity ratio is given by the formula
+
+      stem:[K_f = ((5 h_f ( a + b )))/((a b))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.
+    type: intensional
+  - content: See also "ceiling cavity ratio" and "room cavity ratio".
+    type: intensional
+  - content: The floor cavity ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 17-452 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-076
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: floor cavity ratio (US)
+  - type: symbol
+    normative_status: preferred
+    designation: Kf; K
+  - type: symbol
+    normative_status: preferred
+    designation: Kf; K
+  language_code: eng
+  annotations: []
+termid: 17-452
+id: 550b9bab-2966-53f3-8ef9-cae6dd679ba6

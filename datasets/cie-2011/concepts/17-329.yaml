@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-329
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922033857/http://eilv.cie.co.at/term/329
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-019
+  type: authoritative
+status: valid
+id: 9677b042-f79d-5e85-9957-b25f6c321ab0
+---
+data:
+  definition:
+  - content: lighting in which the light on the working plane or on an object is incident
+      predominantly from a particular direction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: directional lighting
+  language_code: eng
+  annotations: []
+termid: 17-329
+id: ca7570fa-e6d8-54cb-b1f5-e1032c387e36

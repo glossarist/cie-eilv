@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-47
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101633/http://eilv.cie.co.at/term/47
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-044
+  type: authoritative
+status: valid
+id: cbcbd336-7187-59d0-9405-6bf4552808f9
+---
+data:
+  definition:
+  - content: perceived colour for which there is no definite spatial localization
+      in depth, such as that perceived as filling a hole in a screen
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aperture colour
+  language_code: eng
+  annotations: []
+termid: 17-47
+id: 5ea84448-a7c7-5d2f-81cf-089ea4aa6358

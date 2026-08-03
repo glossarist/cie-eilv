@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1297
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917162621/http://eilv.cie.co.at/term/1297
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-026
+  type: authoritative
+status: valid
+id: f5170ff3-0bb6-5889-86be-3d88794e582a
+---
+data:
+  definition:
+  - content: portable luminaire intended to stand on furniture
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: table lamp
+  language_code: eng
+  annotations: []
+termid: 17-1297
+id: 5dd44afa-3e10-5e39-8a1e-3094f19970bd

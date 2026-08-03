@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-434
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232610/http://eilv.cie.co.at/term/434
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-113
+  type: authoritative
+status: valid
+id: ef672300-7857-58cf-9f8d-88af2361a093
+---
+data:
+  definition:
+  - content: regularly transmitting device used to modify the absolute flux level
+      (radiant or luminous) or relative spectral distribution, or both, of the radiation
+      passing through it
+    type: intensional
+  examples: []
+  notes:
+  - content: A distinction is made between selective filters and non-selective filters
+      or neutral filters according to whether they do or do not alter the relative
+      spectral distribution of the radiation. A selective filter that makes a significant
+      change in the chromaticity of the radiation is called a colour filter; one that
+      alters the spectral distribution but, because of metamerism, transmits radiation
+      of nearly the same chromaticity as that of the incident radiation, may be called
+      a grey filter.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-113
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: filter
+  - type: symbol
+    normative_status: preferred
+    designation: optical filter
+  - type: symbol
+    normative_status: preferred
+    designation: optical filter
+  language_code: eng
+  annotations: []
+termid: 17-434
+id: 5bd2e6cd-421e-5e5d-aa65-a8b6da61dbb8

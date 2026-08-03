@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-851
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145851/http://eilv.cie.co.at/term/851
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-005
+  type: authoritative
+status: valid
+id: d2671d42-0880-5668-a0bb-51ce93e8d35a
+---
+data:
+  definition:
+  - content: object colour stimuli that correspond to objects whose luminance factors
+      have maximum possible values for each chromaticity when their spectral luminance
+      factors do not exceed unity for any wavelength
+    type: intensional
+  examples: []
+  notes:
+  - content: These stimuli correspond, in general, to objects whose spectral luminance
+      factors have values of either unity or 0, with not more than 2 transitions between
+      them.
+    type: intensional
+  - content: The luminance factors and chromaticity coordinates of these stimuli define
+      the boundaries of a colour solid corresponding to non-fluorescent objects.
+    type: intensional
+  - content: For a given luminance factor, these colour stimuli define the maximum
+      purity possible for non-fluorescent objects.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optimal colour stimuli
+  language_code: eng
+  annotations: []
+termid: 17-851
+id: 34e72234-29d0-57a3-b900-d5bcffe907e8

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1134
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171914/http://eilv.cie.co.at/term/1134
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-012
+  type: authoritative
+status: valid
+id: ac96e34e-cccf-5076-a50c-1cf87afab17e
+---
+data:
+  definition:
+  - content: that part of emergency lighting provided to ensure the safety of people
+      involved in a potentially hazardous process
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-012
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: safety lighting
+  language_code: eng
+  annotations: []
+termid: 17-1134
+id: 33711463-59dc-5155-b089-a7e22cf50fc6

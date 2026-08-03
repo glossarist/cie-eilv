@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-5
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101909/http://eilv.cie.co.at/term/5
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-082
+  type: authoritative
+status: valid
+id: 85d21584-f606-5e34-9fe0-df27ce796f77
+---
+data:
+  definition:
+  - content: |-
+      quotient of absorbed radiant flux, stem:[Phi_a], and incident radiant flux, stem:[Phi_m]
+
+      stem:[alpha = ((Phi_a))/((Phi_m))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorptance
+  - type: symbol
+    normative_status: preferred
+    designation: α
+  - type: symbol
+    normative_status: preferred
+    designation: α
+  language_code: eng
+  annotations: []
+termid: 17-5
+id: 6826704b-04be-53ac-81e7-53a9eeb5b268

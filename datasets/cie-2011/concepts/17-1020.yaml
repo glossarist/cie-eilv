@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1020
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161241/http://eilv.cie.co.at/term/1020
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-080
+  type: authoritative
+status: valid
+id: 175d0677-49b0-557c-8012-bc75c187fd50
+---
+data:
+  definition:
+  - content: |-
+      density of exiting radiant flux with respect to area at a point on a real or imaginary surface
+
+      stem:[M_e = ((d Phi_e))/((d A))]
+
+      where stem:[Phi_e] is radiant flux and stem:[A] is the area from which the radiant flux leaves
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-080
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant exitance (at a point of a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Me; M
+  - type: symbol
+    normative_status: preferred
+    designation: Me; M
+  language_code: eng
+  annotations: []
+termid: 17-1020
+id: c76e262b-c142-528e-867d-d6c5dc78d2cb

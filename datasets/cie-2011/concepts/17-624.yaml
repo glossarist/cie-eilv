@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-624
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003954/http://eilv.cie.co.at/term/624
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-010
+  type: authoritative
+status: valid
+id: 8db6b06c-bf87-5c74-a649-7ca268832a14
+---
+data:
+  definition:
+  - content: rhythmic light in which all the durations of light and darkness are intended
+      to be perceived as equal
+    type: intensional
+  examples: []
+  notes:
+  - content: In French and in terminology of road traffic, an isophase light is also
+      called "feu clignotant".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-010
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isophase light
+  language_code: eng
+  annotations: []
+termid: 17-624
+id: c34127fa-843a-5ae1-91d6-81f665583d40

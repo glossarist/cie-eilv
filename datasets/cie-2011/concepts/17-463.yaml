@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-463
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144416/http://eilv.cie.co.at/term/463
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-055
+  type: authoritative
+status: valid
+id: 03e9dcbc-2006-5199-ab63-39363845a8bc
+---
+data:
+  definition:
+  - content: set of the values of flux triplet, downward flux fraction and light output
+      ratio, representative of the relative flux distribution of the luminaire, used
+      in the calculation of utilization factors and utilances
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux code (of a luminaire)
+  language_code: eng
+  annotations: []
+termid: 17-463
+id: be0ff817-51fd-5765-9cff-589416f6ebb7

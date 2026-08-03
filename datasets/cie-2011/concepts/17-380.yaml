@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-380
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121816/http://eilv.cie.co.at/term/380
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-037
+  type: authoritative
+status: valid
+id: 035d8cd7-9fc5-56ec-bd60-85662ca4e182
+---
+data:
+  definition:
+  - content: spectral distribution of the electromagnetic radiation emitted by a luminescent
+      material for a specified excitation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-037
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emission spectrum (of a luminescent material)
+  language_code: eng
+  annotations: []
+termid: 17-380
+id: dcea4ad1-2636-5307-aeb3-6c6a0f45296b

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1191
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013317/http://eilv.cie.co.at/term/1191
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-178
+  type: authoritative
+status: valid
+id: 8efac6d4-94f2-55cf-886c-ad81f69e8640
+---
+data:
+  definition:
+  - content: brightening of the night sky that results from the reflection of radiation
+      (visible and non-visible), scattered from the constituents of the atmosphere
+      (gas molecules, aerosols and particulate matter), in the direction of observation
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Sky glow comprises 2 separate components as follows:
+      1. Natural sky glow: That part of the sky glow which is attributable to radiation from celestial sources and luminescent processes in the Earth's upper atmosphere.
+      2. Man-made sky glow: That part of the sky glow which is attributable to man-made sources of radiation (e.g. outdoor electric lighting), including radiation that is emitted directly upwards and radiation that is reflected from the surface of the Earth.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-178
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sky glow
+  language_code: eng
+  annotations: []
+termid: 17-1191
+id: 06640f49-29f1-5f23-831a-97bee0c1b4ea

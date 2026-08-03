@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-65
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191216083450/http://eilv.cie.co.at/term/65
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-151
+  type: authoritative
+status: valid
+id: 5a8545c1-fc66-5ac9-942d-b2c05e15a4d5
+---
+data:
+  definition:
+  - content: luminance averaged over a specified surface
+    type: intensional
+  examples: []
+  notes:
+  - content: In practice, this may be approximated by an average of the luminances
+      at a representative number of points on the surface. The number and position
+      of these points should be specified in the relevant application guide.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-151
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average luminance (of a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av; ; Lav;
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av; ; Lav;
+  language_code: eng
+  annotations: []
+termid: 17-65
+id: d5e8850a-8de6-574e-ae9b-8d0742cba6db

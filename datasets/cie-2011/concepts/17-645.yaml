@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-645
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140603/http://eilv.cie.co.at/term/645
+  type: authoritative
+status: valid
+id: c4c6d2d6-576a-53fd-8573-84efa4ee66ec
+---
+data:
+  definition:
+  - content: See "{{17-685, liquid crystal display}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LCD (abbreviation)
+  language_code: eng
+  annotations: []
+termid: 17-645
+id: f7e5b4ec-a9c7-5d59-b9e6-997282581356

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-26
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101823/http://eilv.cie.co.at/term/26
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-010
+  type: authoritative
+status: valid
+id: 2e44f432-cffe-5aa9-8adf-268c39495751
+---
+data:
+  definition:
+  - content: luminaire whose main part can be turned or moved by means of joints,
+      raising and lowering devices, telescopic tubes or similar devices
+    type: intensional
+  examples: []
+  notes:
+  - content: An adjustable luminaire may be fixed or portable.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-010
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adjustable luminaire
+  language_code: eng
+  annotations: []
+termid: 17-26
+id: b977b94b-bc66-5881-971c-0c6c6fc4c600

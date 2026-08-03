@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1033
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917165651/http://eilv.cie.co.at/term/1033
+  type: authoritative
+status: valid
+id: 8edb695b-321e-5766-b2dd-4229854b5d9b
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-995, protected luminaire}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rain-proof luminaire
+  language_code: eng
+  annotations: []
+termid: 17-1033
+id: '0879e16a-05c0-5cfa-b34c-589d58989c66'

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1333
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004106/http://eilv.cie.co.at/term/1333
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-090
+  type: authoritative
+status: valid
+id: fc5429e6-5220-5623-beda-0a56c22755f2
+---
+data:
+  definition:
+  - content: average road surface luminance in a transverse section at a particular
+      location in the transition zone
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-090
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transition zone luminance (at a particular location)
+  - type: symbol
+    normative_status: preferred
+    designation: Ltr
+  - type: symbol
+    normative_status: preferred
+    designation: Ltr
+  language_code: eng
+  annotations: []
+termid: 17-1333
+id: d350dbc9-2dfb-5f3f-8a6c-438641075f00

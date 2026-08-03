@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-633
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135336/http://eilv.cie.co.at/term/633
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-063
+  type: authoritative
+status: valid
+id: b83be7e9-39be-52be-9a54-f4ef69baeb4b
+---
+data:
+  definition:
+  - content: ideal surface for which the radiation coming from that surface is distributed
+      angularly according to Lambert's cosine law
+    type: intensional
+  examples: []
+  notes:
+  - content: For a lambertian surface, stem:[M] = π stem:[L] where stem:[M] is the
+      radiant exitance or luminous exitance, and stem:[L] the radiance or luminance.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lambertian surface
+  language_code: eng
+  annotations: []
+termid: 17-633
+id: 302155a4-aae6-5593-bc89-3b234673c080

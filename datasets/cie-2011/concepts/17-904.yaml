@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-904
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917164920/http://eilv.cie.co.at/term/904
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-017
+  type: authoritative
+status: valid
+id: 2b108fc0-286e-5b4b-9110-847f36b3680a
+---
+data:
+  definition:
+  - content: inflammatory response of the cornea and conjunctiva following exposure
+      to ultraviolet radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: Wavelengths shorter than 320 nm are most effective in causing this condition.
+      The peak of the action spectrum is at approximately 270 nm. Common synonyms
+      are "snowblindness," "arc eye," and "welder's flash".
+    type: intensional
+  - content: Different action spectra have been published for photokeratitis and photoconjuctivitis
+      (CIE 106/2-1993 and CIE 106/3-1993); however, the latest studies support the
+      use of a single action spectrum for both ocular effects (CIE 106/1-1993).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photokeratoconjunctivitis
+  - type: symbol
+    normative_status: preferred
+    designation: snowblindness
+  - type: symbol
+    normative_status: preferred
+    designation: snowblindness
+  language_code: eng
+  annotations: []
+termid: 17-904
+id: d4b114d1-e35d-5c17-97b8-aa69eed59b00

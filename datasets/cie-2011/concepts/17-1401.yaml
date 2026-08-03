@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1401
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135108/http://eilv.cie.co.at/term/1401
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-085
+  type: authoritative
+status: valid
+id: 930974ff-8b12-503b-87b2-08823e115ee8
+---
+data:
+  definition:
+  - content: |-
+      quotient of the real difference in luminance between the target and its background, stem:[Delta L], and the luminance difference needed between a target of a certain angular size and its background for the target to be just visible, stem:[Delta L_(th)], that is at the threshold
+
+      stem:[F_(VL)] = stem:[Delta L] / stem:[Delta L_(th)]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-085
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visibility level
+  - type: symbol
+    normative_status: preferred
+    designation: FVL
+  - type: symbol
+    normative_status: preferred
+    designation: FVL
+  language_code: eng
+  annotations: []
+termid: 17-1401
+id: 683eea53-2bf7-5f84-b9e0-000083ef1c98

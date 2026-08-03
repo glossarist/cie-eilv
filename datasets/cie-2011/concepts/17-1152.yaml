@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1152
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163807/http://eilv.cie.co.at/term/1152
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-036
+  type: authoritative
+status: valid
+id: c95838c7-dee8-5df9-b592-7a5883fbba55
+---
+data:
+  definition:
+  - content: detector of optical radiation whose spectral responsivity varies with
+      wavelength over the spectral range considered
+    type: intensional
+  examples: []
+  notes:
+  - content: In French, the terms "récepteur” or “capteur” are also used instead of
+      "détecteur".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selective detector (of optical radiation)
+  language_code: eng
+  annotations: []
+termid: 17-1152
+id: 430fdf51-3597-5945-b19f-7246112b08fb

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1097
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003801/http://eilv.cie.co.at/term/1097
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-001
+  type: authoritative
+status: valid
+id: bc8677f0-fcf8-529d-9eab-4b49f9afea8c
+---
+data:
+  definition:
+  - content: membrane situated inside the back of the eye that is sensitive to light
+      stimuli
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The retina contains photoreceptors and nerve cells that interconnect
+      and transmit to the optic nerve the signals resulting from stimulation of the
+      photoreceptors. The photoreceptors in the human retina are of 3 types: rods
+      and cones, which are responsible for vision, and intrinsically photosensitive
+      retinal ganglion cells (ipRGCs), which play a role in controlling circadian
+      and neuro-endocrine systems.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-001
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retina
+  language_code: eng
+  annotations: []
+termid: 17-1097
+id: cc952678-5639-5833-aa8b-8853ca798cee

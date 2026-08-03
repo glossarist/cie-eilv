@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1419
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125210/http://eilv.cie.co.at/term/1419
+  type: authoritative
+status: valid
+id: 6aec9b7c-7f7b-5256-84cc-ad10bdd5048d
+---
+data:
+  definition:
+  - content: See "{{17-1313, threshold of illuminance}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual threshold (in point vision)
+  language_code: eng
+  annotations: []
+termid: 17-1419
+id: ac3ea79f-b7e2-5bc4-bf4a-9098c860f63e

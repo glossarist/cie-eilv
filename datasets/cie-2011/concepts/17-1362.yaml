@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1362
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155536/http://eilv.cie.co.at/term/1362
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-053
+  type: authoritative
+status: valid
+id: e75e1d8d-009e-507d-9610-25b0e9ced205
+---
+data:
+  definition:
+  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda],
+      spectrally weighted with the ultraviolet hazard spectral weighting function,
+      stem:[S_(UV)](stem:[lambda])
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] = 180 nm, stem:[lambda_2]
+      = 400 nm.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet hazard radiant exposure
+  - type: symbol
+    normative_status: preferred
+    designation: HS
+  - type: symbol
+    normative_status: preferred
+    designation: HS
+  language_code: eng
+  annotations: []
+termid: 17-1362
+id: 54d31d8b-c050-5f97-b9dd-988dd439147b

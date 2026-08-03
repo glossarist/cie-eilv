@@ -67,6 +67,9 @@ const samplePaths = [
   '/dataset/cie-2020/',
   '/dataset/cie-2020/concept/17-21-012/',
   '/dataset/cie-2020/concept/17-21-025/',
+  '/dataset/cie-2011/',
+  '/dataset/cie-2011/concept/17-1/',
+  '/dataset/cie-2011/concept/17-1014/',
 ];
 
 const browsers = [

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1190
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917165100/http://eilv.cie.co.at/term/1190
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-126
+  type: authoritative
+status: valid
+id: 033640bb-a6e7-5c4c-b47b-d0a28e269bee
+---
+data:
+  definition:
+  - content: quotient of the illuminance on a horizontal plane at a given point inside
+      a building due to the light received directly from the sky and the illuminance
+      due to an unobstructed hemisphere of sky of uniform luminance equal to that
+      of the visible sky
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-126
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sky factor
+  language_code: eng
+  annotations: []
+termid: 17-1190
+id: 9fb5a386-89d6-5693-a7a9-deb879c04adc

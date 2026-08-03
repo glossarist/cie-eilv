@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1133
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164408/http://eilv.cie.co.at/term/1133
+  type: authoritative
+status: valid
+id: 76628be2-293c-55c3-b86e-7ef3ae6972fa
+---
+data:
+  definition:
+  - content: permanent deformation of the transverse profile of the carriageway, which
+      arises from the action of wheels, in the length of a road section
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rutting
+  language_code: eng
+  annotations: []
+termid: 17-1133
+id: d74a1a1c-b081-5d4f-8ec0-849212014a9d

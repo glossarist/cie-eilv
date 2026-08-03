@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-269
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120215/http://eilv.cie.co.at/term/269
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-034
+  type: authoritative
+status: valid
+id: ebb25666-c0e7-5ea1-a2cf-14a47d4300ad
+---
+data:
+  definition:
+  - content: technique used for concealing light source(s) and surfaces of high luminance
+      from direct view in order to reduce glare, or to reduce light emission above
+      the horizontal
+    type: intensional
+  examples: []
+  notes:
+  - content: In outdoor lighting, cut-off classifications define the luminous intensity
+      limits in two illumination zones that occur within the range of 80° to 180°
+      above nadir. Light emitted in the 80° to 90° zone is more likely to contribute
+      to glare, and light emitted above the horizontal is more likely to contribute
+      to sky glow.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cut-off
+  language_code: eng
+  annotations: []
+termid: 17-269
+id: 6b362cd1-65e6-5396-b41e-c3072900fe02

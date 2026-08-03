@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-130
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232024/http://eilv.cie.co.at/term/130
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-068
+  type: authoritative
+status: valid
+id: 071fe493-96c0-57e6-bb63-317631844bae
+---
+data:
+  definition:
+  - content: temperature of a Planckian radiator having the chromaticity nearest the
+      chromaticity associated with the given spectral distribution on a modified 1976
+      UCS diagram where stem:[u^( ' ) , (2)/(3) v^( ' )] are the coordinates of the
+      Planckian locus and the test stimulus
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CCT (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: CCT
+  - type: symbol
+    normative_status: preferred
+    designation: CCT
+  language_code: eng
+  annotations: []
+termid: 17-130
+id: f85ec7de-b60e-501e-876e-4906749a03a2

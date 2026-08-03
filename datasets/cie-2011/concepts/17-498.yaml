@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-498
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121550/http://eilv.cie.co.at/term/498
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-073
+  type: authoritative
+status: valid
+id: ae63bc1a-ebc7-506f-90d2-0bf89ba3aea2
+---
+data:
+  definition:
+  - content: quantity developed for the public domain, for weather forecasting and
+      climatology, which quantifies the erythemal potential (or sunburning power)
+      of the ambient solar ultraviolet radiation, but could also be applied to other
+      sources
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The International Global UV Index, stem:[I_(UV)], is defined by the formula:
+
+      stem:[I_((uv)) = k_((er)) int_((250 nm))^((400 nm)) E_(lambda) ( lambda ) s_((er)) ( lambda ) d lambda]
+
+      where stem:[Elambda](stem:[lambda]) is the solar spectral irradiance expressed in W·m^−2^·nm^−1^ at wavelength stem:[lambda], stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, and stem:[k_(er)] is a constant equal to 40 m^2^·W^−1^.
+    type: intensional
+  - content: The global UV index has unit one.
+    type: intensional
+  - content: This entry was numbered 17-498 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global UV index
+  language_code: eng
+  annotations: []
+termid: 17-498
+id: d05c555b-5b94-54bf-ad84-4eb698ee1bc0

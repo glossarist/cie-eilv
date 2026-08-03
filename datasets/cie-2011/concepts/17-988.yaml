@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-988
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135247/http://eilv.cie.co.at/term/988
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-051
+  type: authoritative
+status: valid
+id: 90db20d6-cef1-53dd-83d9-31a82c1851b9
+---
+data:
+  definition:
+  - content: projector giving a hard-edged beam of light which can be varied in outline
+      by diaphragms, shutters, or silhouette cut-off masks
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-051
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: profile spotlight
+  language_code: eng
+  annotations: []
+termid: 17-988
+id: 7a320040-f1af-5e98-abf1-6291ac428ebe

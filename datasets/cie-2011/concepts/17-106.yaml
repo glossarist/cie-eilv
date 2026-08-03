@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-106
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232748/http://eilv.cie.co.at/term/106
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-101
+  type: authoritative
+status: valid
+id: 9c084481-23c1-5b70-9840-8c8e8cca9ef6
+---
+data:
+  definition:
+  - content: part of the sign face which outlines its shape
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: border (of a sign)
+  language_code: eng
+  annotations: []
+termid: 17-106
+id: 26d53a26-3488-5fae-aebb-6d6c1bc5e605

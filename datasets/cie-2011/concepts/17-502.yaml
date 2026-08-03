@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-502
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426163926/http://eilv.cie.co.at/term/502
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-019
+  type: authoritative
+status: valid
+id: 2c77e846-da52-5a22-a1c4-f19098ef5174
+---
+data:
+  definition:
+  - content: electric discharge in which the secondary emission from the cathode is
+      much greater than the thermionic emission
+    type: intensional
+  examples: []
+  notes:
+  - content: This discharge is characterized by a considerable cathode fall (typically
+      70 V or more) and by low current density at the cathode (some 10 A⋅m^-2^).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: glow discharge
+  language_code: eng
+  annotations: []
+termid: 17-502
+id: 57ad30c4-27f2-52b5-8454-fd5f1b567af6

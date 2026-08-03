@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-558
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426121541/http://eilv.cie.co.at/term/558
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-003
+  type: authoritative
+status: valid
+id: 884c472f-8e83-532e-abbb-f2793b35a5d5
+---
+data:
+  definition:
+  - content: art, science and design of lighting in general, and development of systems
+      for producing, directing, controlling or applying light in particular
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminating engineering
+  language_code: eng
+  annotations: []
+termid: 17-558
+id: 66cc9b20-2738-5c3c-8290-90688bb8b180

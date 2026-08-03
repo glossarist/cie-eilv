@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-533
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426173112/http://eilv.cie.co.at/term/533
+  type: authoritative
+status: valid
+id: 5143977e-0205-5b83-b4d6-07cc0e134f2f
+---
+data:
+  definition:
+  - content: See "{{17-534, high intensity discharge lamp}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: HID lamp
+  language_code: eng
+  annotations: []
+termid: 17-533
+id: b568bf36-064a-57a0-b7a5-76bc1f5519bb

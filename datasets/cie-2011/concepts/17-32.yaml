@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-32
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102014/http://eilv.cie.co.at/term/32
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-067
+  type: authoritative
+status: valid
+id: 0da0c64a-7e54-5ebc-848c-f8baffb1cbdf
+---
+data:
+  definition:
+  - content: electric lamp or luminaire energized by an alternator driven by compressed
+      air
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: air-turbo lamp
+  - type: symbol
+    normative_status: preferred
+    designation: compressed air luminaire, US
+  - type: symbol
+    normative_status: preferred
+    designation: compressed air luminaire, US
+  language_code: eng
+  annotations: []
+termid: 17-32
+id: 30b28257-3dd2-537a-a04a-69373619ba56

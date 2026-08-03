@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-257
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125308/http://eilv.cie.co.at/term/257
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-023
+  type: authoritative
+status: valid
+id: 6d676834-8601-594a-9bec-a84c4ef3a46b
+---
+data:
+  definition:
+  - content: lighting system comprising light sources shielded by a panel parallel
+      to the wall and attached to the ceiling, and distributing light over the wall
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cornice lighting
+  language_code: eng
+  annotations: []
+termid: 17-257
+id: 6e442b76-38ed-5d2b-be2b-dea6c4fadd8c

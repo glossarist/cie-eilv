@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-768
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145835/http://eilv.cie.co.at/term/768
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-008
+  type: authoritative
+status: valid
+id: e131fd83-ef14-5d86-a131-8667aeea32c8
+---
+data:
+  definition:
+  - content: spectrally different colour stimuli that have the same tristimulus values
+      in a specified colorimetric system
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding property is called "metamerism".
+    type: intensional
+  - content: In German, colours ("Farbvalenzen") consisting of spectrally identical
+      colour stimuli are described as "unbedingt-gleich".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metameric colour stimuli
+  - type: symbol
+    normative_status: preferred
+    designation: metamers, pl
+  - type: symbol
+    normative_status: preferred
+    designation: metamers, pl
+  - type: expression
+    normative_status: admitted
+    designation: metamers
+  language_code: eng
+  annotations: []
+termid: 17-768
+id: d1d52a15-7131-5817-b71b-fc45d4e118a5

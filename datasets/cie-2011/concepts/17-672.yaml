@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-672
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052941/http://eilv.cie.co.at/term/672
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-036
+  type: authoritative
+status: valid
+id: 5f2df646-fc6c-551c-b187-f9014c891cdd
+---
+data:
+  definition:
+  - content: buoy that carries a signal light
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighted buoy
+  language_code: eng
+  annotations: []
+termid: 17-672
+id: f96b3fc5-4bb0-5b4c-8539-3892d03606d2

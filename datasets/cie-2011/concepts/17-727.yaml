@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-727
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145825/http://eilv.cie.co.at/term/727
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-045
+  type: authoritative
+status: valid
+id: 8823b606-6019-52f9-81fa-07a527e24ed1
+---
+data:
+  definition:
+  - content: colour perceived to belong to an area that appears to be emitting light
+      as a primary light source, or that appears to be specularly reflecting such
+      light
+    type: intensional
+  examples: []
+  notes:
+  - content: Primary light sources seen in their natural surroundings normally exhibit
+      the appearance of luminous colours in this sense.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-045
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous colour
+  language_code: eng
+  annotations: []
+termid: 17-727
+id: 57008759-ecc2-5028-8d59-61d815b0b81c

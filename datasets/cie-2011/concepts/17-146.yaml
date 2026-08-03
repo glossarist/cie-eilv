@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-146
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426223434/http://eilv.cie.co.at/term/146
+  type: authoritative
+status: valid
+id: 2766bc1f-2173-5746-90ac-9eb7d406c084
+---
+data:
+  definition:
+  - content: See "{{17-1211, spectral chromaticity coordinates}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromaticity coordinates, spectral
+  language_code: eng
+  annotations: []
+termid: 17-146
+id: b67bfe6c-ee57-58fb-a276-37d931411024

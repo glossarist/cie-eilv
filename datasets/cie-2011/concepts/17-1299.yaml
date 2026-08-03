@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-1299
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917164133/http://eilv.cie.co.at/term/1299
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-097
+  type: authoritative
+status: valid
+id: b4d00683-2fb1-5f92-8a46-9da3971dc0ff
+---
+data:
+  definition:
+  - content: law stating that when a point on the retina is excited by a light stimulus
+      that undergoes periodic variations in magnitude at a {{cite:103-06-02, frequency}}
+      that exceeds the critical flicker {{cite:103-06-02, frequency}}, the visual
+      perception produced is identical to that produced by a steady stimulus whose
+      magnitude is equal to the mean magnitude of the variable stimulus taken over
+      one period
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-097
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Talbot's law
+  language_code: eng
+  annotations: []
+termid: 17-1299
+id: 63ef7a7e-6f9d-50b9-9489-105b04393152

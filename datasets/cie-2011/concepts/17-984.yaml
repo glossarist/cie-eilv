@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-984
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171541/http://eilv.cie.co.at/term/984
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-108
+  type: authoritative
+status: valid
+id: 1661d835-99ec-5354-9010-462fad90c8d3
+---
+data:
+  definition:
+  - content: vertical plane through the luminaire that contains the reference direction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-108
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: principal plane (of the luminaire light distribution)
+  language_code: eng
+  annotations: []
+termid: 17-984
+id: bab2ebf9-70c2-5fdf-8746-814bf366cbaa

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-972
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163417/http://eilv.cie.co.at/term/972
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-119
+  type: authoritative
+status: valid
+id: 59ffc2b0-b8f2-51c5-8294-e231636bf429
+---
+data:
+  definition:
+  - content: duration within a given time interval during which the Sun is above the
+      real horizon, which can be obscured by mountains, buildings, trees, etc.
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-119
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: possible sunshine duration (at a particular location)
+  language_code: eng
+  annotations: []
+termid: 17-972
+id: 19d377e4-891a-57ec-932e-4bc90e353e4e

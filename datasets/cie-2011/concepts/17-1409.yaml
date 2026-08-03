@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1409
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818134437/http://eilv.cie.co.at/term/1409
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-134
+  type: authoritative
+status: valid
+id: ad1dfd80-e5d7-5505-8835-e4d2be1c5ed4
+---
+data:
+  definition:
+  - content: means that ensure that motorists are given adequate information on the
+      course of the road
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-134
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual guidance
+  language_code: eng
+  annotations: []
+termid: 17-1409
+id: bd691d30-9ce7-5cd0-9deb-b44a9c27d880

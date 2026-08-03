@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-1036
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015823/http://eilv.cie.co.at/term/1036
+  type: authoritative
+status: valid
+id: 13210f7e-e524-579a-b66c-98e5bf3c4a1c
+---
+data:
+  definition:
+  - content: |-
+      value of the electrical power of a given type of lamp declared by the manufacturer or the responsible vendor, the lamp being operated under specified conditions
+
+      Unit: W
+    type: intensional
+  examples: []
+  notes:
+  - content: The rated power is usually marked on the lamp.
+    type: intensional
+  - content: In French, formerly "puissance nominale".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rated power (of a type of lamp)
+  language_code: eng
+  annotations: []
+termid: 17-1036
+id: 2e29f225-ac8f-5b9c-a8fa-a95d08f5b584

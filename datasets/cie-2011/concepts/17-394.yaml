@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-394
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140437/http://eilv.cie.co.at/term/394
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-143
+  type: authoritative
+status: valid
+id: 55cfa7e3-c321-5a14-949a-4dcd41511f2c
+---
+data:
+  definition:
+  - content: programme according to which the maintenance operations of luminaire
+      cleaning, room surface cleaning and lamp replacement are scheduled to be carried
+      out at equal time intervals
+    type: intensional
+  examples: []
+  notes:
+  - content: Usually the time interval for the room surface cleaning is a multiple
+      of the lamp replacement interval; the latter is in turn a multiple of the luminaire
+      cleaning interval.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-143
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equi-interval maintenance programme
+  language_code: eng
+  annotations: []
+termid: 17-394
+id: d8fea884-a84e-5fec-a0fc-98c1d48a6ec7

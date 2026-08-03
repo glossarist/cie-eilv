@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-24
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145745/http://eilv.cie.co.at/term/24
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-030
+  type: authoritative
+status: valid
+id: cfaa47c5-9bd5-5e9d-a071-b18d5b0f42e0
+---
+data:
+  definition:
+  - content: stimulation that combines on the retina the actions of various colour
+      stimuli in such a manner that they cannot be perceived individually
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: additive mixture of colour stimuli
+  language_code: eng
+  annotations: []
+termid: 17-24
+id: 68ee849f-4fba-57f4-bf56-de5fd2e73fbf

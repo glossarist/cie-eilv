@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-770
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917131150/http://eilv.cie.co.at/term/770
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-007
+  type: authoritative
+status: valid
+id: f3f95080-69cc-582f-8d29-89c31e5d9427
+---
+data:
+  definition:
+  - content: degree of colour mismatch, calculated in the form of a colour difference,
+      caused by substituting a test illuminant (observer) of different relative spectral
+      composition (responsivity) for the reference illuminant (observer)
+    type: intensional
+  examples: []
+  notes:
+  - content: The colour difference is evaluated using a CIE colour difference formula
+      and it must be clearly stated which formula has been used.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metamerism index
+  language_code: eng
+  annotations: []
+termid: 17-770
+id: 6431cb8d-efc9-54b8-8ab9-cb9af0ba3f36

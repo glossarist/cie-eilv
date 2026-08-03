@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-167
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426223646/http://eilv.cie.co.at/term/167
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-113
+  type: authoritative
+status: valid
+id: 3a8b4219-d70b-545c-aac4-08da4291ac13
+---
+data:
+  definition:
+  - content: set of 15 sky luminance distributions which model the sky from heavily
+      overcast sky to cloudless sky
+    type: intensional
+  examples: []
+  notes:
+  - content: The relative luminance distributions are described in ISO 15469:2004/CIE
+      S 011:2003 stem:[Spatial distribution of daylight – CIE standard general sky].
+      The CIE standard clear sky is incorporated as a particular case, and the CIE
+      standard overcast sky is added as a separate formula.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-113
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard general sky
+  language_code: eng
+  annotations: []
+termid: 17-167
+id: 81f79af7-ec7b-5e63-83cc-5db407ec1ac5

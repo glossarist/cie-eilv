@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-1349
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162936/http://eilv.cie.co.at/term/1349
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-038
+  type: authoritative
+status: valid
+id: c3f37da6-71f1-5481-8f59-83a31e7be094
+---
+data:
+  definition:
+  - content: non-SI unit for conventional retinal illuminance and natural pupil luminance
+    type: intensional
+  examples: []
+  notes:
+  - content: When the eye is viewing a surface of uniform luminance, the number of
+      trolands is equal to the product of the area in square millimetres of the limiting
+      pupil, natural or artificial, by the luminance of the surface in cd·m^-2^.
+    type: intensional
+  - content: In computing effective retinal illuminance, absorption, scattering, and
+      reflection losses, and the dimensions of the particular eye under consideration
+      must be taken into account as well as the Stiles-Crawford effect.
+    type: intensional
+  - content: In German,“Pupillenlichtstärke” designates the retinal illuminance.
+    type: intensional
+  - content: "“troland at a scotopic level” is used when the luminance is evaluated
+      for scotopic vision."
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: troland
+  - type: symbol
+    normative_status: preferred
+    designation: Td
+  - type: symbol
+    normative_status: preferred
+    designation: Td
+  language_code: eng
+  annotations: []
+termid: 17-1349
+id: 9dbc9d44-8105-5017-b722-41b65a9c4c2c

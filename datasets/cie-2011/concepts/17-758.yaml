@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-758
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045433/http://eilv.cie.co.at/term/758
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-040
+  type: authoritative
+status: valid
+id: 7d5751a7-2a26-5888-b76b-01c676297eca
+---
+data:
+  definition:
+  - content: average value of the luminous intensity of the light source in all directions,
+      equal to the quotient of its luminous flux and the solid angle 4π sr
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-040
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean spherical luminous intensity (of a source)
+  - type: symbol
+    normative_status: preferred
+    designation: Iv,s; Is
+  - type: symbol
+    normative_status: preferred
+    designation: Iv,s; Is
+  language_code: eng
+  annotations: []
+termid: 17-758
+id: 4e892b8c-af2c-532a-8ca5-74d3d37128af

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-791
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120644/http://eilv.cie.co.at/term/791
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-101
+  type: authoritative
+status: valid
+id: fcd74b9b-dab7-5eca-80e5-7e0e73cb4474
+---
+data:
+  definition:
+  - content: optical device which isolates a single narrow spectral band of optical
+      radiation from a broader spectral input, and for which the centre wavelength
+      of the transmitted radiation can be altered
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromator
+  language_code: eng
+  annotations: []
+termid: 17-791
+id: 172458ac-acb3-5e92-a85f-2794e1c50a99

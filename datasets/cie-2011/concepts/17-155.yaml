@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-155
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426192732/http://eilv.cie.co.at/term/155
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-110
+  type: authoritative
+status: valid
+id: b5297240-e799-5026-9bbd-ed43571f54ea
+---
+data:
+  definition:
+  - content: measure of the degree to which the psychophysical colour of a CIE test
+      sample illuminated by the test illuminant conforms to that of the same sample
+      illuminated by the reference illuminant, suitable allowance having been made
+      for the state of chromatic adaptation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-110
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1974 special colour rendering index
+  - type: symbol
+    normative_status: preferred
+    designation: Ri
+  - type: symbol
+    normative_status: preferred
+    designation: Ri
+  language_code: eng
+  annotations: []
+termid: 17-155
+id: 69831b9a-9a73-57cd-9a44-500c33e9309e

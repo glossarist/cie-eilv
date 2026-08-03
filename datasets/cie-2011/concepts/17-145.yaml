@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-145
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002131235/http://eilv.cie.co.at/term/145
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-053
+  type: authoritative
+status: valid
+id: e1484d29-6b3e-5b80-be8b-a2a70a36f736
+---
+data:
+  definition:
+  - content: coordinates expressing the quotients of each of a set of three tristimulus
+      values and their sum
+    type: intensional
+  examples: []
+  notes:
+  - content: As the sum of the 3 chromaticity coordinates is equal to 1, 2 of them
+      are sufficient to define a chromaticity.
+    type: intensional
+  - content: In the CIE standard colorimetric systems, the chromaticity coordinates
+      are represented by the symbols stem:[x], stem:[y], stem:[z] and stem:[x_(10)],
+      stem:[y_(10)], stem:[z_(10)].
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromaticity coordinates
+  language_code: eng
+  annotations: []
+termid: 17-145
+id: bf6e8b98-8277-5944-8490-f006038945d8

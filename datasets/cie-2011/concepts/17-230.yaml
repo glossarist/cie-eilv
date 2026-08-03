@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-230
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123940/http://eilv.cie.co.at/term/230
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-003
+  type: authoritative
+status: valid
+id: 912cec42-9409-5961-8c90-068b43ad03a1
+---
+data:
+  definition:
+  - content: function describing the spectral distribution of the colour stimulus
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour stimulus function
+  - type: symbol
+    normative_status: preferred
+    designation: φλ(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: φλ(λ)
+  language_code: eng
+  annotations: []
+termid: 17-230
+id: aef5e33e-6f69-51fe-9f06-342b7785a764

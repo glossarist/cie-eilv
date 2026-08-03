@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-486
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121744/http://eilv.cie.co.at/term/486
+  type: authoritative
+status: valid
+id: 4d82caa3-da66-5d7a-af1e-9fda33143851
+---
+data:
+  definition:
+  - content: lamp intended for lighting spaces that are typically occupied or viewed
+      by people
+    type: intensional
+  examples: []
+  notes:
+  - content: Examples would be lamps for lighting offices, schools, homes, factories,
+      roads, or automobiles. It does not include lamps for such specialized uses as
+      film projection, reprographic processes, "sun-tanning", industrial processes,
+      medical treatment, and searchlight applications.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: general lighting service lamp
+  language_code: eng
+  annotations: []
+termid: 17-486
+id: 656d4d59-94b8-5889-9858-bc32ede6d3ba

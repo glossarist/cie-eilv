@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-420
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135231/http://eilv.cie.co.at/term/420
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-075
+  type: authoritative
+status: valid
+id: 2794d549-cdd5-5816-9186-497387b41f18
+---
+data:
+  definition:
+  - content: quotient of emitted photon flux and incident photon flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-075
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: external photoluminescence quantum yield
+  language_code: eng
+  annotations: []
+termid: 17-420
+id: f12b8c83-1b5d-531f-81c3-09f56a91a46e

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1180
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164610/http://eilv.cie.co.at/term/1180
+  type: authoritative
+status: valid
+id: fe9bd491-004d-5915-955b-6556e7349322
+---
+data:
+  definition:
+  - content: See "{{17-1329, traffic sign}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign, traffic
+  language_code: eng
+  annotations: []
+termid: 17-1180
+id: 6a0f0c10-f471-569e-91d0-5309eeb0ed6d

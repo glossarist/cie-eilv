@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1105
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161145/http://eilv.cie.co.at/term/1105
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-106
+  type: authoritative
+status: valid
+id: d3cb9b60-c7d1-5264-85aa-ec6f9b3a6a4a
+---
+data:
+  definition:
+  - content: smallest optical unit of a retroreflecting surface or device which, by
+      refraction or reflection or both, produces a retroreflection
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retroreflective element
+  language_code: eng
+  annotations: []
+termid: 17-1105
+id: d10db85f-8739-5485-af8a-08601c1df87e

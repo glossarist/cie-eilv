@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-63
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101748/http://eilv.cie.co.at/term/63
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-155
+  type: authoritative
+status: valid
+id: b0b5c703-7cfa-5b2c-a34d-33f7e9bcdfea
+---
+data:
+  definition:
+  - content: illuminance averaged over a specified surface
+    type: intensional
+  examples: []
+  notes:
+  - content: In practice, this may be approximated by an average of the illuminance
+      at a representative number of points on the surface. The number and positions
+      of these points should be specified in the relevant application guide.
+    type: intensional
+  - content: The specification must include a clear indication of the type of illuminance
+      at the points of the surface, i.e. horizontal, vertical, spherical, cylindrical
+      or semi-cylindrical.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-155
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average illuminance (over a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av; ; Eav;
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av; ; Eav;
+  language_code: eng
+  annotations: []
+termid: 17-63
+id: e37b2083-956d-5f8a-9ae6-22397ff6da49

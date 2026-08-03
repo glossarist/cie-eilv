@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-686
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042129/http://eilv.cie.co.at/term/686
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-147
+  type: authoritative
+status: valid
+id: 3a8c81af-f7fb-5a4a-a37d-a2bf94220bd9
+---
+data:
+  definition:
+  - content: quotient of the luminous flux of a lamp at a given time in its operational
+      life and the initial luminous flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-147
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: LLMF (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: LLMF
+  - type: symbol
+    normative_status: preferred
+    designation: LLMF
+  language_code: eng
+  annotations: []
+termid: 17-686
+id: 5957b80c-4494-5ff5-807f-0dcf860cb1c3

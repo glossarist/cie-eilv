@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-267
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124620/http://eilv.cie.co.at/term/267
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-044
+  type: authoritative
+status: valid
+id: 15f721cd-a428-553f-8bc2-b7098e0c40ad
+---
+data:
+  definition:
+  - content: luminous flux emitted by the light source under operating conditions,
+      within a cone having a vertically downward axis and enclosing the solid angle
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cumulative flux (of a source, for a solid angle)
+  language_code: eng
+  annotations: []
+termid: 17-267
+id: 13a5f5c6-a7c2-5ec4-beb1-b4a51346094a

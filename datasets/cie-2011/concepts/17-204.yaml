@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-204
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134721/http://eilv.cie.co.at/term/204
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-005
+  type: authoritative
+status: valid
+id: 101ef2cb-8686-5f64-89b4-95b912944e23
+---
+data:
+  definition:
+  - content: data consisting of text, line art, graphics, and pictorial images, in
+      raster or vector form
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour content data
+  language_code: eng
+  annotations: []
+termid: 17-204
+id: 765fea4c-a06c-51c2-870f-97c113526473

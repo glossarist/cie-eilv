@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-933
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155454/http://eilv.cie.co.at/term/933
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-076
+  type: authoritative
+status: valid
+id: 6a0f409c-d122-52ed-aa6c-742a78be2a20
+---
+data:
+  definition:
+  - content: |-
+      time integral of photon spherical irradiance, stem:[E_(p,o)], at a given point over a given duration, stem:[Delta t]
+
+      stem:[H_((p,o)) = underset((Delta t))( int ) E_(p,o) d t]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-076
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon spherical exposure (at a point, for a given exposure duration)
+  - type: symbol
+    normative_status: preferred
+    designation: photon fluence
+  - type: symbol
+    normative_status: preferred
+    designation: photon fluence
+  language_code: eng
+  annotations: []
+termid: 17-933
+id: ceaed63a-8150-55f9-824f-6667ce0747ec

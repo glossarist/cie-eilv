@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-735
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125211/http://eilv.cie.co.at/term/735
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-081
+  type: authoritative
+status: valid
+id: 8b56fee5-29af-5b24-8866-803dd100d31e
+---
+data:
+  definition:
+  - content: |-
+      density of exiting luminous flux with respect to area at a point on a real or imaginary surface
+
+      stem:[M_v = ((d Phi_v))/((d A))]
+
+      where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-081
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous exitance (at a point on a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Mv; M
+  - type: symbol
+    normative_status: preferred
+    designation: Mv; M
+  language_code: eng
+  annotations: []
+termid: 17-735
+id: 9815306d-aca8-5857-9a14-2db6c215f3c9

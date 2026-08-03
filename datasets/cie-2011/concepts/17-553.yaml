@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-553
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426125432/http://eilv.cie.co.at/term/553
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-036
+  type: authoritative
+status: valid
+id: 5e33f55e-835e-5ba6-83da-3c277b2b7558
+---
+data:
+  definition:
+  - content: vector quantity equal to the directional illuminance expressed as the
+      maximum difference between the illuminances on opposite sides of an element
+      of surface through the point considered, that vector being normal to, and away
+      from, the side with the greater illuminance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance vector (at a point)
+  language_code: eng
+  annotations: []
+termid: 17-553
+id: 81c4fef8-bf71-536e-b02d-f09ae45c5223

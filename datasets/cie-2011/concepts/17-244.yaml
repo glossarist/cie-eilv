@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-244
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920142558/http://eilv.cie.co.at/term/244
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-067
+  type: authoritative
+status: valid
+id: cd8a2b35-86e1-5ece-a7a2-72e07b4ff5da
+---
+data:
+  definition:
+  - content: electric lamp or luminaire energized by an alternator driven by compressed
+      air
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: compressed air luminaire (US)
+  - type: symbol
+    normative_status: preferred
+    designation: compressed air luminaire, US
+  - type: symbol
+    normative_status: preferred
+    designation: compressed air luminaire, US
+  language_code: eng
+  annotations: []
+termid: 17-244
+id: f3262d18-08f7-5e5e-8ea9-4360631b6821

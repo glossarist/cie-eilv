@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-755
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045349/http://eilv.cie.co.at/term/755
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-179
+  type: authoritative
+status: valid
+id: c14540be-b3f6-59d8-bd3c-0a85a9540c02
+---
+data:
+  definition:
+  - content: part of the sky glow that is attributable to man-made sources of radiation
+      (e.g. outdoor lighting)
+    type: intensional
+  examples: []
+  notes:
+  - content: Man-made sky glow includes radiation that is emitted directly upwards
+      and radiation that is reflected from the surface of the Earth.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-179
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: man-made sky glow
+  language_code: eng
+  annotations: []
+termid: 17-755
+id: 476347a5-5f4b-5f3a-9b80-ec692ea2c6ed

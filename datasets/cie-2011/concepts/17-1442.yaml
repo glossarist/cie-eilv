@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1442
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135326/http://eilv.cie.co.at/term/1442
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-003
+  type: authoritative
+status: valid
+id: e6339932-0dd7-50f3-9347-7e107720856a
+---
+data:
+  definition:
+  - content: device calibrated by reference to a secondary photometric standard and
+      typically used, on a day-to-day basis, for photometric measurements
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: working photometric standard
+  - type: symbol
+    normative_status: preferred
+    designation: tertiary photometric standard
+  - type: symbol
+    normative_status: preferred
+    designation: tertiary photometric standard
+  language_code: eng
+  annotations: []
+termid: 17-1442
+id: '0491eccf-04e2-55c0-9643-ceb2b7b25022'

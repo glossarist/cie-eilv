@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-252
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922171015/http://eilv.cie.co.at/term/252
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-105
+  type: authoritative
+status: valid
+id: ff20849e-3f9e-5e8b-9101-8ceacb529596
+---
+data:
+  definition:
+  - content: system that maintains the contrast of a sign's legend and its immediate
+      background to achieve a legibility performance within prescribed limits under
+      varying ambient light conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-105
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast control system
+  language_code: eng
+  annotations: []
+termid: 17-252
+id: fabd8189-afc7-5e93-8d3d-91eb155ceca1

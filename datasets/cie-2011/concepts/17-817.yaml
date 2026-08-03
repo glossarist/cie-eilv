@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-817
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125302/http://eilv.cie.co.at/term/817
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-027
+  type: authoritative
+status: valid
+id: 23f1f29e-f64d-5e3c-80b2-f85f039b3f46
+---
+data:
+  definition:
+  - content: luminous range of a maritime signal light in a homogeneous atmosphere
+      having a meteorological optical range of ten nautical miles
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal range (of a maritime signal light)
+  language_code: eng
+  annotations: []
+termid: 17-817
+id: eb9b7465-97ea-5a5f-a6aa-b28382c1fc99

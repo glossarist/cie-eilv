@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1001
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917164145/http://eilv.cie.co.at/term/1001
+  type: authoritative
+status: valid
+id: 4495c84f-de8b-556d-8d9f-3a019c09db2d
+---
+data:
+  definition:
+  - content: |-
+      1. lamp that delivers its energy in the form of a single pulse or a train of pulses where each pulse is assumed to have a duration of less than 0,25 s
+
+      2. lamp with a continuous train of pulses or modulated radiant energy where the peak radiated power is at least 10 times the average radiated power
+    type: intensional
+  examples: []
+  notes:
+  - content: The duration of a lamp pulse is the time interval between the half-peak-power
+      points on the leading and the trailing edges of the pulse.
+    type: intensional
+  - content: In IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and
+      lamp systems], general lighting service lamps are defined to be continuous wave
+      lamps. Examples of pulsed lamps include photoflash lamps, flash lamps in photocopy
+      machines, pulse-modulated LEDs, and strobe lights.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pulsed lamp
+  language_code: eng
+  annotations: []
+termid: 17-1001
+id: 2b0cc6b6-47cb-559b-b868-0c63a224d3f4

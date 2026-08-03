@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-223
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122510/http://eilv.cie.co.at/term/223
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-016
+  type: authoritative
+status: valid
+id: 6bef4586-3db9-506c-90f9-8da1f7534c06
+---
+data:
+  definition:
+  - content: medium for displaying colour information
+    type: intensional
+  examples: []
+  notes:
+  - content: For a print, the colour reproduction medium is not the printer but the
+      combination of printer, colorants and substrate.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour reproduction medium
+  language_code: eng
+  annotations: []
+termid: 17-223
+id: '08291aca-8cf3-5817-b891-c411fae6b13d'

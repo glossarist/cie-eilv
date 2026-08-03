@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-588
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426173049/http://eilv.cie.co.at/term/588
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-060
+  type: authoritative
+status: valid
+id: 0d448f80-2013-59ce-bd83-8dab187159a8
+---
+data:
+  definition:
+  - content: quotient of the sum of the individually rated luminous fluxes of the
+      lamps of an installation and the floor area
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-060
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: installed lamp flux density (for an interior lighting)
+  language_code: eng
+  annotations: []
+termid: 17-588
+id: dd77a3a4-1d11-55fd-a3cc-98aab893d964

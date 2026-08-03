@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1217
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202070358/http://eilv.cie.co.at/term/1217
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-056
+  type: authoritative
+status: valid
+id: d6631719-8af6-55af-92be-1708df69e09c
+---
+data:
+  definition:
+  - content: |-
+      density of irradiance, stem:[E_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+
+      stem:[E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-056
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,λ; Eλ
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,λ; Eλ
+  language_code: eng
+  annotations: []
+termid: 17-1217
+id: 14e68ac8-0d16-510d-b76d-b723d09750e3

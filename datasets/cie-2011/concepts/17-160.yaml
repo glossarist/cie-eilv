@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-160
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426223120/http://eilv.cie.co.at/term/160
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-080
+  type: authoritative
+status: valid
+id: f45abd96-e2a9-5d68-8428-4b69c7724138
+---
+data:
+  definition:
+  - content: |-
+      difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the u′, v′ chromaticity diagram and calculated as:
+
+      stem:[Delta c] = &amp;lsqb;(stem:[Delta u]′)^2^ + (stem:[Delta v]′)^2^&amp;rsqb;^1/2^
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-080
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 stem:[u]', stem:[v]' chromaticity difference
+  - type: symbol
+    normative_status: preferred
+    designation: Δc
+  - type: symbol
+    normative_status: preferred
+    designation: Δc
+  language_code: eng
+  annotations: []
+termid: 17-160
+id: 949e083f-09ec-5500-b990-6bfb7df1036e

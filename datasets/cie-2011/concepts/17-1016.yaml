@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1016
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915165013/http://eilv.cie.co.at/term/1016
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-016
+  type: authoritative
+status: valid
+id: b9d053de-8922-52bc-87ff-a9c3e4cf4198
+---
+data:
+  definition:
+  - content: temperature of the Planckian radiator for which the radiance at the specified
+      wavelength has the same spectral concentration as for the thermal radiator considered
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance temperature (of a thermal radiator, for a specified wavelength)
+  language_code: eng
+  annotations: []
+termid: 17-1016
+id: 270bbf6f-87c2-53cc-a09c-19fbcbc0ec57

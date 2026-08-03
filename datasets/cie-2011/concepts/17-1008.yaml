@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1008
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161451/http://eilv.cie.co.at/term/1008
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-109
+  type: authoritative
+status: valid
+id: 8b69eb18-75ab-59f6-a377-30bfe97ef884
+---
+data:
+  definition:
+  - content: device using photoluminescent material that has a photoluminescence yield
+      independent of the wavelength of the exciting radiation over a wide spectral
+      range
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-109
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantum counter
+  language_code: eng
+  annotations: []
+termid: 17-1008
+id: d595a3c9-98a6-5e73-84b8-50c35320aaed

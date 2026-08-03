@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-67
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102134/http://eilv.cie.co.at/term/67
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-099
+  type: authoritative
+status: valid
+id: 8b080ac1-0d06-500e-89ec-e9393915de4b
+---
+data:
+  definition:
+  - content: part of a sign immediately behind a symbol or word, or on which a symbol
+      or word is superimposed
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-099
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: background (of a sign)
+  language_code: eng
+  annotations: []
+termid: 17-67
+id: c9b01d93-390a-5745-9e75-03f5fb658fba

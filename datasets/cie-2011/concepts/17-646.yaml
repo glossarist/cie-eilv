@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-646
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140616/http://eilv.cie.co.at/term/646
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-033
+  type: authoritative
+status: valid
+id: 8820a618-8952-599f-b165-9437565d1160
+---
+data:
+  definition:
+  - content: two or more signal lights positioned to indicate a leading line, or navigational
+      course, in the direction in which they can be seen in vertical alignment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-033
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: leading lights
+  language_code: eng
+  annotations: []
+termid: 17-646
+id: a40b9021-69b1-5421-a8fd-9cb66ac1f477

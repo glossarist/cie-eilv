@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-621
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134905/http://eilv.cie.co.at/term/621
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-077
+  type: authoritative
+status: valid
+id: 3b89d8bf-dcde-518d-b6a3-60d12a30fcea
+---
+data:
+  definition:
+  - content: locus of points on a surface at which the luminance is the same, for
+      given positions of the observer and of the source or sources in relation to
+      the surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isoluminance curve
+  language_code: eng
+  annotations: []
+termid: 17-621
+id: 8900a9f2-57d0-57fc-b885-672d30772a2a

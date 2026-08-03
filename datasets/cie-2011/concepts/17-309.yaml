@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-309
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135949/http://eilv.cie.co.at/term/309
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-020
+  type: authoritative
+status: valid
+id: 384e8b50-64eb-5cef-b7d9-272e3148650e
+---
+data:
+  definition:
+  - content: lighting in which the light on the working plane or on an object is not
+      incident predominantly from a particular direction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffused lighting
+  language_code: eng
+  annotations: []
+termid: 17-309
+id: a503e421-8220-5d46-b574-8b5310efb9ae

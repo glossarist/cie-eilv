@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1360
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015835/http://eilv.cie.co.at/term/1360
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-066
+  type: authoritative
+status: valid
+id: 8c0572da-22e7-5108-8bdd-19c22cc01b7b
+---
+data:
+  definition:
+  - content: proportion of the flux of a luminaire or installation that is emitted,
+      at and above the horizontal, when the luminaire(s) is (are) mounted in its (their)
+      installed position
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ULR (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: ULR
+  - type: symbol
+    normative_status: preferred
+    designation: ULR
+  language_code: eng
+  annotations: []
+termid: 17-1360
+id: 5b751f24-fb41-538d-a1f8-c14c0f7c7b6d

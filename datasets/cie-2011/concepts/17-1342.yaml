@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1342
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003924/http://eilv.cie.co.at/term/1342
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-032
+  type: authoritative
+status: valid
+id: 1b13847e-f551-5cb2-ad1d-1271eadbd574
+---
+data:
+  definition:
+  - content: luminescence caused by the action of mechanical forces
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: triboluminescence
+  language_code: eng
+  annotations: []
+termid: 17-1342
+id: 6e653128-3ce4-5768-bcd3-0a5c841805b0

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-290
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140837/http://eilv.cie.co.at/term/290
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-031
+  type: authoritative
+status: valid
+id: 3f037506-ab63-5fee-9f7a-1e340439ac21
+---
+data:
+  definition:
+  - content: instrument for measuring reflectance optical density or transmittance
+      optical density
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-031
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: densitometer
+  language_code: eng
+  annotations: []
+termid: 17-290
+id: 961d1fdb-8b80-59f8-9803-a3fd895dc939

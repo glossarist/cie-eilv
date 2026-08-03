@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-1317
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161637/http://eilv.cie.co.at/term/1317
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-113
+  type: authoritative
+status: valid
+id: 6fe33429-1d7c-561b-97f7-1ba9ee23ac0f
+---
+data:
+  definition:
+  - content: angle between a defined datum axis on the luminaire and the horizontal
+      when the luminaire is mounted for field use
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined datum axis may be any feature of the luminaire but generally
+      for a side- mounted luminaire it lies in the mouth of the luminaire canopy,
+      in line with the spigot axis. Another commonly used feature is the spigot entry
+      axis.
+    type: intensional
+  - content: This is the actual tilt of the luminaire when it is mounted for field
+      use and should not be confused with "tilt normal in application" or "designed
+      attitude" (see CIE 121- 1996).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-113
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tilt in application (of a luminaire)
+  - type: symbol
+    normative_status: preferred
+    designation: θf
+  - type: symbol
+    normative_status: preferred
+    designation: θf
+  language_code: eng
+  annotations: []
+termid: 17-1317
+id: 24768e39-04ec-59e4-8adc-b728a9b0c744

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1327
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922163244/http://eilv.cie.co.at/term/1327
+  type: authoritative
+status: valid
+id: 7692cb11-1e01-59af-a1c0-4f038eeaea8c
+---
+data:
+  definition:
+  - content: portion of the road for the movement of a single line of vehicular traffic
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic lane
+  language_code: eng
+  annotations: []
+termid: 17-1327
+id: 4f0047f0-b464-5e64-a689-9a20555b76d8

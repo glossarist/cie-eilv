@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1400
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003832/http://eilv.cie.co.at/term/1400
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-133
+  type: authoritative
+status: valid
+id: 6c5e4cd8-2b8d-5285-8372-da6dfca96ea0
+---
+data:
+  definition:
+  - content: range of visual perception, normally measured in terms of the threshold
+      distance at which a sign becomes visible
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-133
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visibility (of a sign)
+  language_code: eng
+  annotations: []
+termid: 17-1400
+id: 6d8e4eb4-9dd7-584a-9c1c-23f711f95510

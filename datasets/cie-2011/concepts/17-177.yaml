@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-177
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426223415/http://eilv.cie.co.at/term/177
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-018
+  type: authoritative
+status: valid
+id: 93526568-6ee7-5d43-929c-8128e7cb417c
+---
+data:
+  definition:
+  - content: radiation in which the electric field vector is of constant amplitude
+      and rotates about the direction of propagation at a rate equal to the radiation
+      frequency
+    type: intensional
+  examples: []
+  notes:
+  - content: Circularly polarized radiation is described as right-handed (left-handed)
+      if the rotation of the E-vector is clockwise (anti-clockwise) as viewed by an
+      observer receiving the radiation.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circularly polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-177
+id: ba2e53ba-e551-5d66-a63c-ce26afda0e69

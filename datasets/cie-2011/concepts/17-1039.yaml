@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1039
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125130/http://eilv.cie.co.at/term/1039
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-072
+  type: authoritative
+status: valid
+id: 13c6ca3d-70e8-5709-89e6-aada5aec0156
+---
+data:
+  definition:
+  - content: signal light carried on a vehicle to indicate its location when it is
+      viewed from the back in conditions of poor visibility, in particular in fog
+      conditions, and that is supplementary to a rear position light
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rear fog light
+  language_code: eng
+  annotations: []
+termid: 17-1039
+id: 9813a7a5-4cdd-5a86-879c-a03b319b6e00

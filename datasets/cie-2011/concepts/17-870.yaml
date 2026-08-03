@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-870
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818134056/http://eilv.cie.co.at/term/870
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-024
+  type: authoritative
+status: valid
+id: e2f67c8c-891e-5852-96b6-8da6934f1512
+---
+data:
+  definition:
+  - content: lighting system comprising electric light sources shielded by a panel
+      parallel to the wall at the top of a window
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pelmet lighting
+  - type: symbol
+    normative_status: preferred
+    designation: pelmet lighting
+  - type: symbol
+    normative_status: preferred
+    designation: pelmet lighting
+  - type: expression
+    normative_status: admitted
+    designation: valance lighting
+  language_code: eng
+  annotations: []
+termid: 17-870
+id: 0d10a947-10d2-5f7a-9308-c48fb12436c3

@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-710
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818134945/http://eilv.cie.co.at/term/710
+  type: authoritative
+- id: 113-01-08
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-08
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-148
+  type: authoritative
+status: valid
+id: b725fba9-7a9f-5386-a037-8471cd3648b1
+---
+data:
+  definition:
+  - content: quotient of the efficiency of a luminaire at a given {{cite:113-01-08,
+      instant}} and the initial efficiency value
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 113-01-08
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-08
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-148
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminaire maintenance factor
+  - type: symbol
+    normative_status: preferred
+    designation: LMF
+  - type: symbol
+    normative_status: preferred
+    designation: LMF
+  language_code: eng
+  annotations: []
+termid: 17-710
+id: '095584dc-8f7d-55a6-ac75-398552c7182d'

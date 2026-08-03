@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1281
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164454/http://eilv.cie.co.at/term/1281
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-103
+  type: authoritative
+status: valid
+id: 965dd111-5e12-5cfa-82bf-9ccfc97aed21
+---
+data:
+  definition:
+  - content: part of direct solar radiation capable of causing a visual sensation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sunlight
+  language_code: eng
+  annotations: []
+termid: 17-1281
+id: f7a304e9-6415-5670-92f3-df4c0283b393

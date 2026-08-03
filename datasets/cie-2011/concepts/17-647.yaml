@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-647
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123409/http://eilv.cie.co.at/term/647
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-032
+  type: authoritative
+status: valid
+id: 8ae2495d-4520-5458-b755-4482049a2d09
+---
+data:
+  definition:
+  - content: two or more marks positioned to indicate a leading line, or navigational
+      course, in the direction in which they can be seen in vertical alignment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: leading marks
+  language_code: eng
+  annotations: []
+termid: 17-647
+id: 9302c2bc-5bf2-5a71-97ca-c1c52a36bb3d

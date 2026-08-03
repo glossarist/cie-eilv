@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1174
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917172007/http://eilv.cie.co.at/term/1174
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-045
+  type: authoritative
+status: valid
+id: 75c32c9b-caa8-56d7-8984-66e5651e3d4c
+---
+data:
+  definition:
+  - content: arc lamp, generally of very high pressure, in which the distance between
+      the electrodes is of the order of 1 mm to 10 mm
+    type: intensional
+  examples: []
+  notes:
+  - content: Certain mercury vapour or xenon lamps belong to this type.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-045
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: short-arc lamp
+  - type: expression
+    normative_status: admitted
+    designation: compact source arc discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-1174
+id: 71cab4d3-9b00-5f60-9778-0192a9f68041

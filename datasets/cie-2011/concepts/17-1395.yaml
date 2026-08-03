@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1395
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922161711/http://eilv.cie.co.at/term/1395
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-105
+  type: authoritative
+status: valid
+id: 2d0b2125-2273-5b5a-a299-f0f7a1e26da7
+---
+data:
+  definition:
+  - content: luminance that superimposes on the retinal image and reduces the contrast
+      by stray light in the eye
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-105
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: veiling luminance (for disability glare)
+  language_code: eng
+  annotations: []
+termid: 17-1395
+id: 872c17f6-6e5f-5b6d-a287-2a105d0d2d05

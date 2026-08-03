@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1431
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121632/http://eilv.cie.co.at/term/1431
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-033
+  type: authoritative
+status: valid
+id: 4bacbc0e-02d5-59af-8f2b-cb48bcd92fb4
+---
+data:
+  definition:
+  - content: computational reference white point used by a colour appearance model
+    type: intensional
+  examples: []
+  notes:
+  - content: A white point used by a colour appearance model is an adopted white point.
+    type: intensional
+  - content: The adopted white point may or may not be the adapted white point, and
+      one of the most common applications of an adopted white point is to achieve
+      an optimally reproduced device white. For example, an adopted white point corresponding
+      to a given medium may be used in place of an adapted white point in order that
+      no colorants are used to create a white.
+    type: intensional
+  - content: The concept of adopted white point applies to both colour appearance
+      models and reproduction models.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-033
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point, adopted (colour appearance model)
+  language_code: eng
+  annotations: []
+termid: 17-1431
+id: beb2c95d-ebc4-52a5-bdde-5cebbc2e1859

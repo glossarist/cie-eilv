@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1386
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162559/http://eilv.cie.co.at/term/1386
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-010
+  type: authoritative
+status: valid
+id: 47ebb547-c0b6-50b4-bb06-5e9d1a2545d3
+---
+data:
+  definition:
+  - content: "{{17-1367, ultraviolet radiation}} covering the range from 280 nm to
+      315 nm"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-010
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UV-B
+  language_code: eng
+  annotations: []
+termid: 17-1386
+id: 99886403-b891-50e3-be66-65a526933dab

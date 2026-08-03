@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-551
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162320/http://eilv.cie.co.at/term/551
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-020
+  type: authoritative
+status: valid
+id: 9ca5f4e5-92b3-59a6-9e08-28d9ee3cf907
+---
+data:
+  definition:
+  - content: instrument for measuring illuminance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance meter
+  language_code: eng
+  annotations: []
+termid: 17-551
+id: 8872e74c-fced-5c18-b144-7f440b7a38a2

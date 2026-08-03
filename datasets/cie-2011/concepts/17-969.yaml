@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-969
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162321/http://eilv.cie.co.at/term/969
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-107
+  type: authoritative
+status: valid
+id: 44354555-66b0-5c7e-8e4f-38436a9367a4
+---
+data:
+  definition:
+  - content: optical device that generates multiple narrow-band spectral channels
+      of different wavelengths simultaneously
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-107
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polychromator
+  language_code: eng
+  annotations: []
+termid: 17-969
+id: 3e827235-7198-5a64-854c-c2463c3b7f3d

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1436
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922040217/http://eilv.cie.co.at/term/1436
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-140
+  type: authoritative
+status: valid
+id: 44136fde-d7df-57a6-990f-d327ec223b3d
+---
+data:
+  definition:
+  - content: daylight opening on a vertical or nearly vertical area of a room envelope
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-140
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: window
+  language_code: eng
+  annotations: []
+termid: 17-1436
+id: b54b14a9-d1d6-5bee-b6ca-ec2ac0df4356

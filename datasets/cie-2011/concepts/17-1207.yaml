@@ -1,0 +1,62 @@
+---
+data:
+  identifier: 17-1207
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160429/http://eilv.cie.co.at/term/1207
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-090
+  type: authoritative
+status: valid
+id: 3aedae6a-b5af-57fe-b582-e3f50d11368c
+---
+data:
+  definition:
+  - content: |-
+      logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
+
+      stem:[A_i](stem:[lambda]) = −log~10~ stem:[tau_i](stem:[lambda])
+    type: intensional
+  examples: []
+  notes:
+  - content: See NOTE to "{{17-1215, spectral internal transmittance (of a homogeneous
+      non-diffusing layer)}}".
+    type: intensional
+  - content: The symbol stem:[E](stem:[lambda]) is still in use.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-090
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral absorbance (of a homogeneous non-diffusing layer)
+  - type: symbol
+    normative_status: preferred
+    designation: spectral internal transmittance density
+  - type: symbol
+    normative_status: preferred
+    designation: spectral internal transmittance density
+  - type: expression
+    normative_status: admitted
+    designation: spectral internal transmittance density
+  language_code: eng
+  annotations: []
+termid: 17-1207
+id: 88c707fe-552f-56bc-b136-d7b8a99e181c

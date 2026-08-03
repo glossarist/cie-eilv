@@ -1,0 +1,281 @@
+# Formula conversion report
+
+412 entries across 250 concepts use HTML formatting
+(<i>, <sub>, <sup>) for mathematical content instead of stem:[] notation.
+The concept-browser supports stem:[expr] (AsciiMath) and latexmath:[expr].
+
+## Examples needing conversion
+
+- **17-21-001** (def): See <a href="http://std.iec.ch/iev/iev.nsf/display?openform&ievref=<<702-02-07, 702-02-07>>">IEV <<702-02-07, 702-02-07>
+- **17-21-002** (def): {{17-21-001, electromagnetic radiation}} at {{17-21-025, wavelength}}s between the region of transition to X-rays (<i>λ<
+- **17-21-025** (notes[0]): The wavelength in a medium is equal to the wavelength in vacuo divided by the {{17-24-109, refractive index}} of the med
+- **17-21-025** (notes[2]): <i>λ</i> = <i>v</i> / ν, where <i>λ</i> is the wavelength in a medium, <i>v</i> is the phase velocity in that medium and
+- **17-21-026** (notes[0]): The wavenumber is expressed in metre to the power minus one (m<sup>−1</sup>).
+- **17-21-027** (notes[0]): The quantity <i>X</i> can also be expressed as a function of frequency, <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, e
+- **17-21-029** (notes[0]): The term "spectral distribution" is to be preferred to the equivalent term "spectral concentration" when dealing with th
+- **17-21-029** (notes[1]): Usually <i>X<sub>λ</sub></i> is also a function of <i>λ</i> and in this case, in order to stress this, can be written <i
+- **17-21-029** (notes[2]): The spectral distribution of {{17-21-038, radiant flux}} is expressed in watt per nanometre (W⋅nm<sup>−1</sup>), the spe
+- **17-21-029** (notes[3]): The quantity <i>X</i> can also be expressed as a function of frequency, <i>ν</i>, {{17-21-026, wavenumber}}, <i>σ</i>, e
+- **17-21-030** (def): quotient of the {{17-21-029, spectral distribution}}, <i>X<sub>λ</sub></i>(<i>λ</i>), of a radiant, luminous or photon q
+- **17-21-031** (notes[1]): The relative spectral fluorescence distribution, <i>F</i>(<i>λ</i>), when multiplied by the spectral external radiant ef
+- **17-21-035** (def): quotient of the {{17-21-038, radiant flux}} at {{17-21-025, wavelength}} <i>λ</i><sub>m</sub> and that at {{17-21-025, w
+- **17-21-035** (notes[0]): The spectral luminous efficiency of the human eye depends on a number of factors, particularly the state of visual {{17-
+- **17-21-035** (notes[1]): For {{17-22-017, scotopic vision}}, the symbol <i>V</i>′(<i>λ</i>) is used. The values of the <i>V</i>′(<i>λ</i>) functi
+- **17-21-035** (notes[2]): For {{17-22-018, mesopic vision}}, the spectral luminous efficiency function is denoted by <i>V</i><sub>mes;</sub><i><su
+- **17-21-035** (notes[3]): The <i>V</i>(<i>λ</i>)<sub> </sub>function applies at all {{17-21-050, luminance}} levels for foveal conditions, i.e. fo
+- **17-21-035** (notes[4]): Considering that the spectral luminous efficiency function of the human eye changes with {{17-22-079, visual angle}}, in
+- **17-21-035** (notes[5]): Considering the discrepancies between the average human spectral luminous efficiency and the <i>V</i>(<i>λ</i>) function
+- **17-21-035** (notes[6]): Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous ef
+
+## All concepts with formulas (250 total)
+
+- 17-21-001
+- 17-21-002
+- 17-21-025
+- 17-21-026
+- 17-21-027
+- 17-21-029
+- 17-21-030
+- 17-21-031
+- 17-21-035
+- 17-21-037
+- 17-21-038
+- 17-21-039
+- 17-21-040
+- 17-21-041
+- 17-21-042
+- 17-21-043
+- 17-21-044
+- 17-21-045
+- 17-21-046
+- 17-21-047
+- 17-21-048
+- 17-21-049
+- 17-21-050
+- 17-21-051
+- 17-21-052
+- 17-21-053
+- 17-21-054
+- 17-21-055
+- 17-21-056
+- 17-21-057
+- 17-21-058
+- 17-21-059
+- 17-21-060
+- 17-21-061
+- 17-21-062
+- 17-21-063
+- 17-21-064
+- 17-21-065
+- 17-21-066
+- 17-21-067
+- 17-21-068
+- 17-21-069
+- 17-21-070
+- 17-21-071
+- 17-21-072
+- 17-21-073
+- 17-21-074
+- 17-21-075
+- 17-21-076
+- 17-21-077
+- 17-21-078
+- 17-21-079
+- 17-21-080
+- 17-21-081
+- 17-21-082
+- 17-21-083
+- 17-21-084
+- 17-21-085
+- 17-21-086
+- 17-21-089
+- 17-21-090
+- 17-21-091
+- 17-21-092
+- 17-21-093
+- 17-21-094
+- 17-21-095
+- 17-21-096
+- 17-21-097
+- 17-21-101
+- 17-21-103
+- 17-21-108
+- 17-21-110
+- 17-21-111
+- 17-21-113
+- 17-21-114
+- 17-22-010
+- 17-22-011
+- 17-22-015
+- 17-22-016
+- 17-22-017
+- 17-22-085
+- 17-22-087
+- 17-22-088
+- 17-22-090
+- 17-22-091
+- 17-22-094
+- 17-22-104
+- 17-22-105
+- 17-22-125
+- 17-23-003
+- 17-23-004
+- 17-23-037
+- 17-23-038
+- 17-23-039
+- 17-23-040
+- 17-23-046
+- 17-23-053
+- 17-23-065
+- 17-23-066
+- 17-23-073
+- 17-23-074
+- 17-23-076
+- 17-23-078
+- 17-23-080
+- 17-24-005
+- 17-24-006
+- 17-24-007
+- 17-24-009
+- 17-24-017
+- 17-24-038
+- 17-24-062
+- 17-24-063
+- 17-24-064
+- 17-24-065
+- 17-24-066
+- 17-24-067
+- 17-24-068
+- 17-24-069
+- 17-24-070
+- 17-24-071
+- 17-24-072
+- 17-24-073
+- 17-24-075
+- 17-24-076
+- 17-24-077
+- 17-24-078
+- 17-24-079
+- 17-24-081
+- 17-24-082
+- 17-24-083
+- 17-24-084
+- 17-24-085
+- 17-24-086
+- 17-24-087
+- 17-24-090
+- 17-24-091
+- 17-24-092
+- 17-24-094
+- 17-24-102
+- 17-24-103
+- 17-24-104
+- 17-24-108
+- 17-24-109
+- 17-24-125
+- 17-25-061
+- 17-25-063
+- 17-25-064
+- 17-25-071
+- 17-25-072
+- 17-25-073
+- 17-25-089
+- 17-25-115
+- 17-26-033
+- 17-26-034
+- 17-26-035
+- 17-26-036
+- 17-26-037
+- 17-26-038
+- 17-26-039
+- 17-26-041
+- 17-26-050
+- 17-26-052
+- 17-26-053
+- 17-26-054
+- 17-26-056
+- 17-26-057
+- 17-26-058
+- 17-26-059
+- 17-26-060
+- 17-26-061
+- 17-26-062
+- 17-26-063
+- 17-26-066
+- 17-26-067
+- 17-26-068
+- 17-26-069
+- 17-26-071
+- 17-26-072
+- 17-26-073
+- 17-26-074
+- 17-26-075
+- 17-26-079
+- 17-27-010
+- 17-27-019
+- 17-27-027
+- 17-27-106
+- 17-27-115
+- 17-27-127
+- 17-28-048
+- 17-29-060
+- 17-29-061
+- 17-29-071
+- 17-29-072
+- 17-29-073
+- 17-29-074
+- 17-29-075
+- 17-29-076
+- 17-29-091
+- 17-29-092
+- 17-29-093
+- 17-29-094
+- 17-29-095
+- 17-29-097
+- 17-29-098
+- 17-29-106
+- 17-29-107
+- 17-29-108
+- 17-29-109
+- 17-29-111
+- 17-29-117
+- 17-29-118
+- 17-29-119
+- 17-29-120
+- 17-29-125
+- 17-29-127
+- 17-29-128
+- 17-29-129
+- 17-29-130
+- 17-29-131
+- 17-29-132
+- 17-29-133
+- 17-29-134
+- 17-29-135
+- 17-29-136
+- 17-29-137
+- 17-29-143
+- 17-29-146
+- 17-29-148
+- 17-29-149
+- 17-29-150
+- 17-29-151
+- 17-29-152
+- 17-29-153
+- 17-29-155
+- 17-29-156
+- 17-29-157
+- 17-29-158
+- 17-29-159
+- 17-29-175
+- 17-30-072
+- 17-31-011
+- 17-31-017
+- 17-31-018
+- 17-31-020
+- 17-31-025
+- 17-31-089
+- 17-31-090
+- 17-31-091
+- 17-31-098
+- 17-31-146

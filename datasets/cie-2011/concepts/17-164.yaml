@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-164
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426191945/http://eilv.cie.co.at/term/164
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-112
+  type: authoritative
+status: valid
+id: 70411ff5-8650-5313-b2c7-b95fe994108f
+---
+data:
+  definition:
+  - content: |-
+      cloudless sky for which the relative luminance distribution is given by the luminance gradation function, stem:[phi](stem:[Z]), which relates the luminance of a sky element to its zenith angle, stem:[Z]:
+
+      stem:[phi ( Z ) = 1 - e^(((- 0,32))/((cos Z)))] if stem:[0 &lt;= Z (pi)/(2)], and stem:[phi ( Z ) = 1]
+
+      if stem:[Z = (pi)/(2)] (at the horizon)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-112
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard clear sky
+  language_code: eng
+  annotations: []
+termid: 17-164
+id: 2b704545-32f0-519f-bc40-cdf5d6ab1f75

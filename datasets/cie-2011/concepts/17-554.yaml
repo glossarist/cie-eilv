@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-554
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145810/http://eilv.cie.co.at/term/554
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-018
+  type: authoritative
+status: valid
+id: 831ca228-6c1a-5549-b672-b2ac03694b09
+---
+data:
+  definition:
+  - content: radiation with a relative spectral power distribution defined over the
+      wavelength range that influences object colour perception
+    type: intensional
+  examples: []
+  notes:
+  - content: In everyday English this term is not restricted to this sense, but is
+      also used for any kind of light falling on a body or scene.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminant
+  language_code: eng
+  annotations: []
+termid: 17-554
+id: 49821cfc-6002-55fd-b129-ad4b5e92ba62

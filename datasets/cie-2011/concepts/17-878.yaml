@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-878
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170758/http://eilv.cie.co.at/term/878
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-110
+  type: authoritative
+status: valid
+id: ea0b8304-e154-55d1-92b2-a8369b12bc26
+---
+data:
+  definition:
+  - content: appearance of a meaningful sign legend caused by the internal reflection
+      of light, originating from an external source, from elements forming the sign
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-110
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phantom sign
+  language_code: eng
+  annotations: []
+termid: 17-878
+id: c2c1acfa-577b-5b11-a1cf-0b86a761397a

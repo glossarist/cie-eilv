@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-650
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916123229/http://eilv.cie.co.at/term/650
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-128
+  type: authoritative
+status: valid
+id: 8a844a69-fca5-54ed-850e-10a7c8c9a369
+---
+data:
+  definition:
+  - content: ease with which an observer can distinguish and recognize symbols, alphanumeric
+      characters, or words
+    type: intensional
+  examples: []
+  notes:
+  - content: It is usually measured in terms of the threshold distance at which the
+      sign becomes legible.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-128
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legibility (of a sign)
+  language_code: eng
+  annotations: []
+termid: 17-650
+id: f4e4ca4a-efd7-583e-a38b-b2e3cdf5dc95

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-979
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170206/http://eilv.cie.co.at/term/979
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-069
+  type: authoritative
+status: valid
+id: bffebe66-342b-5b2a-a730-83e79c58da2b
+---
+data:
+  definition:
+  - content: incandescent lamp in which, during manufacture, the luminous element
+      is accurately adjusted to a specified position with respect to locating devices
+      that form part of the cap
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-069
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prefocus lamp
+  language_code: eng
+  annotations: []
+termid: 17-979
+id: cabd3fa5-ce0a-52aa-b1ec-bdcd7bf8ece9

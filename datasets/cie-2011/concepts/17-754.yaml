@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-754
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045335/http://eilv.cie.co.at/term/754
+  type: authoritative
+status: valid
+id: dabfff06-e338-5469-8325-2ca118aa91ca
+---
+data:
+  definition:
+  - content: |-
+      main route in the through communication system of a country, region or conurbation
+
+      See also "{{17-1351, trunk road}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: major road
+  language_code: eng
+  annotations: []
+termid: 17-754
+id: 3cdde30c-8663-559e-8a39-4da0800c736e

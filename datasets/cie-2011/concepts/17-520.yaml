@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-520
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172623/http://eilv.cie.co.at/term/520
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-077
+  type: authoritative
+status: valid
+id: caf6699b-911f-51d8-a542-645751db7488
+---
+data:
+  definition:
+  - content: light signal provided by the simultaneous operation of all the direction-indicator
+      lights on a vehicle, and used to indicate that the vehicle constitutes a special
+      hazard to other moving vehicles
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hazard warning signal (on vehicle)
+  language_code: eng
+  annotations: []
+termid: 17-520
+id: 55196924-4009-5e24-bfae-c7791372a07c

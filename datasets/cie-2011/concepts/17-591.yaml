@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-591
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426112745/http://eilv.cie.co.at/term/591
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-028
+  type: authoritative
+status: valid
+id: 209cf88b-b921-511c-99b3-065baa6d54b2
+---
+data:
+  definition:
+  - content: hollow sphere, the interior of which is formed from, or coated with,
+      a diffusely-reflecting material that is as spectrally neutral and as spatially
+      uniform as possible
+    type: intensional
+  examples: []
+  notes:
+  - content: Owing to the internal reflections within the sphere, the illuminance
+      on any part of the inside surface of the sphere for which the direct flux is
+      hidden is theoretically proportional to the luminous flux entering the sphere,
+      or produced inside the sphere by a lamp. The illuminance of the internal sphere
+      wall can be measured via a small window.
+    type: intensional
+  - content: The window of an integrating sphere is often used in radiometric measurement
+      systems to provide a source with good spatial uniformity and with an angular
+      distribution of radiance or luminance that is close to Lambert's cosine law.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-028
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: integrating sphere
+  - type: symbol
+    normative_status: preferred
+    designation: Ulbricht sphere
+  - type: symbol
+    normative_status: preferred
+    designation: Ulbricht sphere
+  language_code: eng
+  annotations: []
+termid: 17-591
+id: 80efeac6-2e3a-546f-9283-c977d164e548

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1002
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012132/http://eilv.cie.co.at/term/1002
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-064
+  type: authoritative
+status: valid
+id: 7ecf2739-3e3a-529a-b249-bab755d80210
+---
+data:
+  definition:
+  - content: measure of the proportions of the amounts of the monochromatic stimulus
+      and of the specified achromatic stimulus that, when additively mixed, match
+      the colour stimulus considered
+    type: intensional
+  examples: []
+  notes:
+  - content: In the case of purple stimuli, the monochromatic stimulus is replaced
+      by a stimulus whose chromaticity is represented by a point on the purple boundary.
+    type: intensional
+  - content: The proportions can be measured in various ways (see "{{17-195, colorimetric
+      purity}}" and "{{17-408, excitation purity}}").
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-064
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: purity (of a colour stimulus)
+  language_code: eng
+  annotations: []
+termid: 17-1002
+id: 5ffaab27-458e-52b6-95c1-cc3b20b7b81b

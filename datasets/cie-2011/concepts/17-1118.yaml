@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1118
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155907/http://eilv.cie.co.at/term/1118
+  type: authoritative
+status: valid
+id: fcc0ad73-e940-54ca-b3ea-0864ca163070
+---
+data:
+  definition:
+  - content: noise made by a vehicle and caused by the action of the tyre of the vehicle
+      on the wearing course
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rolling noise
+  language_code: eng
+  annotations: []
+termid: 17-1118
+id: 52b09315-a0fe-5e63-b2a9-39ab0b8ab3d1

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-970
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922165757/http://eilv.cie.co.at/term/970
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-011
+  type: authoritative
+status: valid
+id: ae9d3958-6f7e-51f8-914b-cff6749e9bb1
+---
+data:
+  definition:
+  - content: luminaire that can easily be moved from one place to another even while
+      connected to the power supply
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: portable luminaire
+  language_code: eng
+  annotations: []
+termid: 17-970
+id: eda5d845-cd20-5dc2-bf17-0e268679c37c

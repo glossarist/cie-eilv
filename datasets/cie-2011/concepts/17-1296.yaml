@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1296
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161952/http://eilv.cie.co.at/term/1296
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-046
+  type: authoritative
+status: valid
+id: 98f9647a-1557-53ee-a59d-2115d31f20ba
+---
+data:
+  definition:
+  - content: emission from highly accelerated electrically charged free particles
+      (e.g. free electrons in a circular orbit)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-046
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: synchrotron radiation
+  language_code: eng
+  annotations: []
+termid: 17-1296
+id: 9bd80fbf-d31c-5cce-9ad5-4535fd929504

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1220
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170400/http://eilv.cie.co.at/term/1220
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-083
+  type: authoritative
+status: valid
+id: fdb52da9-db21-535c-80ef-cb881517d0ef
+---
+data:
+  definition:
+  - content: |-
+      relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
+
+      stem:[mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-083
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral linear attenuation coefficient (at a point in an absorbing
+      and scattering medium, for a collimated beam of radiation)
+  - type: symbol
+    normative_status: preferred
+    designation: μ(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: μ(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1220
+id: 7248ad07-496c-5cc8-a0cf-bc43e600f8df

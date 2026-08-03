@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-96
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101507/http://eilv.cie.co.at/term/96
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-055
+  type: authoritative
+status: valid
+id: 20623c33-c785-520b-8aab-eb3b408e834a
+---
+data:
+  definition:
+  - content: potential for a photochemically induced retinal injury (photic maculopathy)
+      resulting from optical radiation exposure at wavelengths primarily between 400 nm
+      and 500 nm
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: BLH (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: BLH
+  - type: symbol
+    normative_status: preferred
+    designation: BLH
+  language_code: eng
+  annotations: []
+termid: 17-96
+id: 7e3d8710-aefc-51c8-b222-8f2f26b1095a

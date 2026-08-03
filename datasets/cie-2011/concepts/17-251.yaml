@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-251
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426083958/http://eilv.cie.co.at/term/251
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-089
+  type: authoritative
+status: valid
+id: acd5b5c7-665d-5760-9534-0a919ce83a1f
+---
+data:
+  definition:
+  - content: assessment of the difference in appearance of two or more parts of a
+      field seen simultaneously or successively
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-089
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast
+  - type: symbol
+    normative_status: preferred
+    designation: perceived contrast
+  - type: symbol
+    normative_status: preferred
+    designation: perceived contrast
+  language_code: eng
+  annotations: []
+termid: 17-251
+id: 2f7f98da-a8f3-58cb-bb74-af8899cec25f

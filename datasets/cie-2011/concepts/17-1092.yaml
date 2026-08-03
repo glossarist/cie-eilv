@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1092
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917165109/http://eilv.cie.co.at/term/1092
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-038
+  type: authoritative
+status: valid
+id: e1cde13f-2595-5753-8b82-c15c37fedc31
+---
+data:
+  definition:
+  - content: spectral line that is the result of direct transition from an excited
+      energy level to the ground level, or vice versa, without going through intermediate
+      levels
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resonance line
+  language_code: eng
+  annotations: []
+termid: 17-1092
+id: 76e17be0-92b1-514b-9710-d5da997152fa

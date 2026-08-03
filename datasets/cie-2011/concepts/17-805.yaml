@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-805
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920142605/http://eilv.cie.co.at/term/805
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-057
+  type: authoritative
+status: valid
+id: c149faca-8e96-5028-9894-c21ed1fd7af1
+---
+data:
+  definition:
+  - content: signal light, one of a set, carried on a vessel to indicate the presence
+      and aspect, and sometimes the particular occupation and ability to manoeuvre,
+      of the vessel
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-057
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation (vessel) light
+  language_code: eng
+  annotations: []
+termid: 17-805
+id: 0f88d53c-e1ad-5314-bc29-9e7b6f10dab3

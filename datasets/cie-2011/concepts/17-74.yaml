@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-74
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101803/http://eilv.cie.co.at/term/74
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-082
+  type: authoritative
+status: valid
+id: 80d55b44-f357-51e2-986f-6b73b5027878
+---
+data:
+  definition:
+  - content: quotient of the luminous flux emitted by a reference lamp when operated
+      with a particular production ballast and the luminous flux emitted by the same
+      reference lamp when operated with its reference ballast
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ballast lumen factor
+  - type: symbol
+    normative_status: preferred
+    designation: BLF
+  - type: symbol
+    normative_status: preferred
+    designation: BLF
+  language_code: eng
+  annotations: []
+termid: 17-74
+id: cc158881-8409-588b-9318-73cf0493a1ec

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1205
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004035/http://eilv.cie.co.at/term/1205
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-047
+  type: authoritative
+status: valid
+id: 1554ef2c-eb90-5a8e-b4c4-8ea936d26aaa
+---
+data:
+  definition:
+  - content: lighting device with a specified half-peak divergence less than 1,74 rad
+      (100°) and with a specified total divergence
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: special floodlight
+  language_code: eng
+  annotations: []
+termid: 17-1205
+id: ddd3ecc7-f406-546d-a5eb-a1ec683b1740

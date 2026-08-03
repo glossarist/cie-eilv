@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-361
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922043117/http://eilv.cie.co.at/term/361
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-052
+  type: authoritative
+status: valid
+id: b63bfd35-f220-5e51-b9f0-5837f0200dc7
+---
+data:
+  definition:
+  - content: projection apparatus with optics designed to give even field illumination
+      of slides and, with a suitable objective lens, well-defined projection of detail
+    type: intensional
+  examples: []
+  notes:
+  - content: Slides can be of stationary or moving-effects type.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effects projector
+  language_code: eng
+  annotations: []
+termid: 17-361
+id: 5a07d9c5-68a1-5900-b9e8-d4f2ef75be37

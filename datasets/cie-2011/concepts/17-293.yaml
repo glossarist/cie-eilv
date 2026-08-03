@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-293
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010704/http://eilv.cie.co.at/term/293
+  type: authoritative
+status: valid
+id: 268b12b1-36dd-5cf4-87ee-1ea420cdef01
+---
+data:
+  definition:
+  - content: 'No longer in use: see "{{17-753, maintenance factor (of a lighting installation)}}".'
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: depreciation factor
+  language_code: eng
+  annotations: []
+termid: 17-293
+id: a6bf4055-7fed-584d-8ed9-ae88e35ab9a3

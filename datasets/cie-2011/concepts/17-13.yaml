@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-13
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102004/http://eilv.cie.co.at/term/13
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-004
+  type: authoritative
+status: valid
+id: 92193926-4fc0-5041-8c1d-a42ce4339979
+---
+data:
+  definition:
+  - content: referring to actinism
+    type: intensional
+  examples: []
+  notes:
+  - content: 'A natural actinic effect is a chemical change caused by natural radiation.
+      Examples are: production of ozone in the atmosphere, photosynthesis, daylight
+      vision.'
+    type: intensional
+  - content: 'An artificially induced actinic effect is a photochemical change caused
+      by artificially produced optical radiation under controlled conditions. Examples
+      are: control of plant growth by time-programmed lighting, lighting of poultry
+      to increase egg production, therapeutic treatment by means of special lamps.'
+    type: intensional
+  - content: A direct actinic effect is one that occurs at the place where the radiant
+      energy responsible for the effect is absorbed. An example of this is the conversion
+      of 7-dehydrocholesterol to previtamin D3. An indirect actinic effect is one
+      that occurs away from the place where the radiant energy responsible for the
+      effect is absorbed. The distinction between a direct and an indirect actinic
+      effect mainly applies to photobiological changes. The photostimulation of endocrine
+      glands is an example of an indirect actinic effect, as is the conversion of
+      previtamin D3 to vitamin D by a non-photochemical thermal reaction.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: actinic
+  language_code: eng
+  annotations: []
+termid: 17-13
+id: 654f2a9e-7991-57b6-9bb5-f60e5f665585

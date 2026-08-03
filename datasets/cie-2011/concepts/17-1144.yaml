@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1144
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015827/http://eilv.cie.co.at/term/1144
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-016
+  type: authoritative
+status: valid
+id: b74428d5-57e5-5ce9-b849-b32a495fc1a9
+---
+data:
+  definition:
+  - content: cap having its shell in the form of a screw thread which engages the
+      lampholder
+    type: intensional
+  examples: []
+  notes:
+  - content: The international designation is E.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: screw cap
+  - type: symbol
+    normative_status: preferred
+    designation: screw base
+  - type: symbol
+    normative_status: preferred
+    designation: screw base
+  language_code: eng
+  annotations: []
+termid: 17-1144
+id: 80ae32e7-feea-5f6d-b446-e7cdf3d062bc

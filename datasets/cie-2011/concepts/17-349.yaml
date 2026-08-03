@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-349
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916123535/http://eilv.cie.co.at/term/349
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-021
+  type: authoritative
+status: valid
+id: b1c431dc-103e-511d-a5c6-8fd067f1c1f1
+---
+data:
+  definition:
+  - content: small luminaire concentrating the light, usually recessed in the ceiling,
+      or mounted on the surface of the ceiling
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-021
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downlight
+  language_code: eng
+  annotations: []
+termid: 17-349
+id: 94797596-0612-5f29-b9e0-25208e560c16

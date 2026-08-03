@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1309
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162847/http://eilv.cie.co.at/term/1309
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-053
+  type: authoritative
+status: valid
+id: d915e1ee-73cc-5b99-9f65-f322203c5ab4
+---
+data:
+  definition:
+  - content: thermal detector of optical radiation in which the electromotive force
+      produced in a single thermoelectric junction is used to measure the heating
+      effect produced by the absorbed radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermocouple (radiation)
+  language_code: eng
+  annotations: []
+termid: 17-1309
+id: d08fab94-ca66-5648-86ed-84a1f6624452

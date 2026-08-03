@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-888
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922043502/http://eilv.cie.co.at/term/888
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-014
+  type: authoritative
+status: valid
+id: d720a835-5a2e-5dd0-9bf3-47f980cdb3d8
+---
+data:
+  definition:
+  - content: clouding (opacification) of the lens resulting in a cataract
+    type: intensional
+  examples: []
+  notes:
+  - content: Cataract may also be produced by acute over-exposure to an excimer laser.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-014
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photocataractogenesis
+  - type: symbol
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  - type: symbol
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  language_code: eng
+  annotations: []
+termid: 17-888
+id: daf6aae2-e1ef-5b76-aa35-27ac1899bfac

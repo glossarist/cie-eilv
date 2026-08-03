@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1003
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818133204/http://eilv.cie.co.at/term/1003
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-036
+  type: authoritative
+status: valid
+id: 54be48c8-640c-58e7-8331-362c01b1dd85
+---
+data:
+  definition:
+  - content: reduction in the brightness of a predominantly long-wavelength colour
+      stimulus relative to that of a predominantly short-wavelength colour stimulus,
+      when the luminances are reduced in the same proportion from photopic to mesopic
+      or scotopic levels, without changing the respective relative spectral distributions
+      of the stimuli involved
+    type: intensional
+  examples: []
+  notes:
+  - content: In passing from photopic to mesopic or scotopic vision, the spectral
+      luminous efficiencies change, the wavelength of maximum efficiency being displaced
+      towards the shorter wavelengths.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Purkinje phenomenon
+  language_code: eng
+  annotations: []
+termid: 17-1003
+id: 8dd07115-04d2-5f14-9f03-be1202236be9

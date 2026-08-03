@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-736
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042504/http://eilv.cie.co.at/term/736
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-072
+  type: authoritative
+status: valid
+id: 67a229cb-61f7-523a-9972-7935134fe42f
+---
+data:
+  definition:
+  - content: |-
+      density of incident luminous energy with respect to area at a point on a real or imaginary surface
+
+      stem:[H_v = ((d Q_v))/((d A))]
+
+      where stem:[Q_v] is luminous energy and stem:[A] is the area on which the luminous energy is incident
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous exposure (at a point on a surface, for a given duration)
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: light exposure'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: light exposure'
+  language_code: eng
+  annotations: []
+termid: 17-736
+id: 66436b2f-f05c-5350-a75e-1437706d2165

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-189
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232633/http://eilv.cie.co.at/term/189
+  type: authoritative
+status: valid
+id: d7be2e66-aee5-5904-820b-64e7d072e9d3
+---
+data:
+  definition:
+  - content: |-
+      1. link between radial roads or ring roads and the local access roads
+
+      2. principal road in a residential area which links all local roads to an arterial route
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: collector road
+  language_code: eng
+  annotations: []
+termid: 17-189
+id: 59c2d68f-5966-55d5-9952-62bdbcfc80ae

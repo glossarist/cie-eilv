@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-433
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140209/http://eilv.cie.co.at/term/433
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-044
+  type: authoritative
+status: valid
+id: 61841088-9251-5515-abed-9ad18f0be801
+---
+data:
+  definition:
+  - content: mapping of image data representing measurements of a photographic negative
+      to scene-referred image data representing estimates of the colour space coordinates
+      of the elements of the original scene
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: film unrendering transform
+  language_code: eng
+  annotations: []
+termid: 17-433
+id: af535366-a1de-51b5-9101-cc59a4a28aef

@@ -1,0 +1,83 @@
+---
+data:
+  identifier: 17-287
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426101726/http://eilv.cie.co.at/term/287
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-023
+  type: authoritative
+status: valid
+id: 38bfc9b8-6533-5506-9001-c36da6fe039c
+---
+data:
+  definition:
+  - content: anomaly of vision in which there is a reduced ability to discriminate
+      between some or all colours
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Anomalous trichromatism: Form of trichromatism in which colour discrimination
+      is less than normal.'
+    type: intensional
+  - content: 'Deutan: Adjective denoting deuteranopia or deuteranomaly.'
+    type: intensional
+  - content: 'Deuteranomaly: Defective colour vision in which discrimination of the
+      reddish and greenish contents of colours is reduced, without any colours appearing
+      abnormally dim.'
+    type: intensional
+  - content: 'Deuteranopia: Defective colour vision in which discrimination of the
+      reddish and greenish contents of colours is absent, without any colours appearing
+      abnormally dim.'
+    type: intensional
+  - content: 'Dichromatism: Defective colour vision in which all colours can be matched
+      using additive mixtures of only 2 matching stimuli.'
+    type: intensional
+  - content: 'Monochromatism: Defective colour vision in which all colours can be
+      matched using only a single matching stimulus.'
+    type: intensional
+  - content: 'Protan: Adjective denoting protanopia or protanomaly.'
+    type: intensional
+  - content: 'Protanomaly: Defective colour vision in which discrimination of the
+      reddish and greenish contents of colours is reduced, with reddish colours appearing
+      abnormally dim.'
+    type: intensional
+  - content: 'Protanopia: Defective colour vision in which discrimination of the reddish
+      and greenish contents of colours is absent, with reddish colours appearing abnormally
+      dim.'
+    type: intensional
+  - content: 'Tritan: Adjective denoting tritanopia or tritanomaly.'
+    type: intensional
+  - content: 'Tritanomaly: Defective colour vision in which discrimination of the
+      bluish and yellowish contents of colours is reduced.'
+    type: intensional
+  - content: 'Tritanopia: Defective colour vision in which discrimination of the bluish
+      and yellowish contents of colours is absent.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: defective colour vision
+  language_code: eng
+  annotations: []
+termid: 17-287
+id: bbb3c078-8399-5663-be62-6aabded61728

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-545
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426161944/http://eilv.cie.co.at/term/545
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-049
+  type: authoritative
+status: valid
+id: f862abeb-5d9a-56ba-be16-8a49345c32bb
+---
+data:
+  definition:
+  - content: colour space encoding used to connect the source and destination transforms
+      (from the source and destination profiles) in the International Color Consortium
+      (ICC) colour management architecture
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ICC PCS (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: ICC PCS
+  - type: symbol
+    normative_status: preferred
+    designation: ICC PCS
+  language_code: eng
+  annotations: []
+termid: 17-545
+id: d62482ee-f62e-5ba3-a2ea-827c73d3403a

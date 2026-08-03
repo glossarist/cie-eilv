@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-530
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426121442/http://eilv.cie.co.at/term/530
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-025
+  type: authoritative
+status: valid
+id: 6d67fa64-4a13-5ea2-bf85-93a1ae0408a8
+---
+data:
+  definition:
+  - content: treatment of disease by the use of solar irradiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: heliotherapy
+  language_code: eng
+  annotations: []
+termid: 17-530
+id: 2deaadc0-b7e6-5d0a-9389-7ecf560d7aeb

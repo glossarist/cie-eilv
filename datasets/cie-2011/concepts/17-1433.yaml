@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1433
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121351/http://eilv.cie.co.at/term/1433
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-030
+  type: authoritative
+status: valid
+id: f89b25ea-e7ca-5ef5-aa9d-9d6547d1d9b4
+---
+data:
+  definition:
+  - content: point in a chromaticity diagram that represents the colour of the addition
+      of 100 % of the three display primaries measured in a direction perpendicular
+      to the display faceplate
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point, display illuminant
+  language_code: eng
+  annotations: []
+termid: 17-1433
+id: 6ed35c4c-753d-5582-9149-81712bdf5c7c

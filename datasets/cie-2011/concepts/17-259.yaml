@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-259
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922042417/http://eilv.cie.co.at/term/259
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-020
+  type: authoritative
+status: valid
+id: 82d9515f-f192-51c7-94ce-835b8623e6b4
+---
+data:
+  definition:
+  - content: mathematical model that produces transformations, which are applied to
+      scene or original-referred image data to produce image data describing a reproduction,
+      which is as close as possible to being an appearance match to the original
+    type: intensional
+  examples: []
+  notes:
+  - content: Transformations produced by reproduction models will generally depend
+      on the luminance ratio and colour gamut of the scene or original and the output
+      medium.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corresponding colour reproduction model
+  language_code: eng
+  annotations: []
+termid: 17-259
+id: 9d68c86e-c33c-53e0-a2ac-8645265719cf

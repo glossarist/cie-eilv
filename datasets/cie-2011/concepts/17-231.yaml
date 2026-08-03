@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-231
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191219193407/http://eilv.cie.co.at/term/231
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-067
+  type: authoritative
+status: valid
+id: 1711d850-0fe6-52d5-88b5-07029d887eca
+---
+data:
+  definition:
+  - content: temperature of a Planckian radiator whose radiation has the same chromaticity
+      as that of a given stimulus
+    type: intensional
+  examples: []
+  notes:
+  - content: The reciprocal colour temperature is also used with unit K^-1^ or MK^-1^
+      (where 1 MK^-1^ = 10^-6^K^-1^) whose previous name "mired" is now obsolete.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour temperature
+  - type: symbol
+    normative_status: preferred
+    designation: Tc
+  - type: symbol
+    normative_status: preferred
+    designation: Tc
+  language_code: eng
+  annotations: []
+termid: 17-231
+id: 3dee5eca-536d-56c9-b790-3de9899170c5

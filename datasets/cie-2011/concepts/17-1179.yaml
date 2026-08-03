@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1179
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130256/http://eilv.cie.co.at/term/1179
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-002
+  type: authoritative
+status: valid
+id: 7925a567-39a8-5b89-9064-ac3376edc6ff
+---
+data:
+  definition:
+  - content: device that provides a visual signal by virtue of its situation, shape,
+      colour, or pattern, and sometimes by the use of symbols or alphanumeric characters
+    type: intensional
+  examples: []
+  notes:
+  - content: A sign may be internally illuminated.
+    type: intensional
+  - content: In French, the term "panneau de signalisation" refers more particularly
+      to a panel that contains a visual signal.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign
+  language_code: eng
+  annotations: []
+termid: 17-1179
+id: e6a533ab-8f8a-5765-8154-6c263c764244

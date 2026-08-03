@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1011
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820011316/http://eilv.cie.co.at/term/1011
+  type: authoritative
+status: valid
+id: a600613f-e22a-5feb-b7cb-ed737bc82395
+---
+data:
+  definition:
+  - content: road providing direct communication between the centre of an urban area
+      and the outer districts
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radial road
+  language_code: eng
+  annotations: []
+termid: 17-1011
+id: dcf81124-eb68-5a94-a499-6808fb1a7723

@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-822
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823041844/http://eilv.cie.co.at/term/822
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-047
+  type: authoritative
+status: valid
+id: 48f3b649-6fa7-51de-9b9b-f64e4472c675
+---
+data:
+  definition:
+  - content: detector of optical radiation whose quantum efficiency is independent
+      of wavelength over the spectral range considered
+    type: intensional
+  examples: []
+  notes:
+  - content: It should be stated whether the external or internal quantum efficiency
+      is being considered. If not explicitly stated, it shall be taken as the external
+      quantum efficiency.
+    type: intensional
+  - content: A photoluminescent material having a photoluminescence yield independent
+      of the wavelength of the exciting radiation over a wide spectral range is sometimes
+      called a "quantum counter".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective quantum detector
+  - type: symbol
+    normative_status: preferred
+    designation: quantum detector
+  - type: symbol
+    normative_status: preferred
+    designation: quantum detector
+  language_code: eng
+  annotations: []
+termid: 17-822
+id: a9849459-699a-55ac-a8f5-b7b70bfb9c02

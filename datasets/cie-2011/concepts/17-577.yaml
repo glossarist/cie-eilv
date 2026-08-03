@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-577
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426163937/http://eilv.cie.co.at/term/577
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-092
+  type: authoritative
+status: valid
+id: c49ac477-7e1d-56c7-a847-e4d7f3e0fb12
+---
+data:
+  definition:
+  - content: angular distribution of the radiation incident on the sample being measured
+      with respect to the centre of the sampling aperture
+    type: intensional
+  examples: []
+  notes:
+  - content: The influx and efflux geometry together specify the geometric nature
+      of the measurement for reflectance and transmittance measurements.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: influx geometry
+  - type: symbol
+    normative_status: preferred
+    designation: irradiation geometry
+  - type: symbol
+    normative_status: preferred
+    designation: irradiation geometry
+  language_code: eng
+  annotations: []
+termid: 17-577
+id: cc025d5e-88f8-5bff-80ee-3ac464a066c0

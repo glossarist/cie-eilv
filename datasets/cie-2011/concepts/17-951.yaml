@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-951
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823044144/http://eilv.cie.co.at/term/951
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-017
+  type: authoritative
+status: valid
+id: 8b47d7a5-7d78-5926-ab48-9afb718bbf79
+---
+data:
+  definition:
+  - content: photometry in which physical detectors are used to make measurements
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: physical photometry
+  language_code: eng
+  annotations: []
+termid: 17-951
+id: ec2ad33f-5869-52bd-9a54-ab4e701894ff

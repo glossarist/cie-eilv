@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-599
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426123410/http://eilv.cie.co.at/term/599
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-090
+  type: authoritative
+status: valid
+id: 6288470e-b5f5-57a7-8127-c55b3cf3b630
+---
+data:
+  definition:
+  - content: general effect of the reflections of radiation between several reflecting
+      surfaces
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-090
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interreflection
+  language_code: eng
+  annotations: []
+termid: 17-599
+id: 7d34814c-5951-53e1-88b0-559008b799de

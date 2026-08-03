@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-440
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124334/http://eilv.cie.co.at/term/440
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-048
+  type: authoritative
+status: valid
+id: 1e9e9df3-5e18-5b76-95fb-fd434fa696c3
+---
+data:
+  definition:
+  - content: light-emitting device, normally mounted adjacent to the four corners
+      of the sign face to draw attention to a sign
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flashing conspicuity beacon
+  language_code: eng
+  annotations: []
+termid: 17-440
+id: dd3600e1-3b2d-5d2f-91b3-7e586b1a9757

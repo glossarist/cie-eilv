@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-222
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150503191517/http://eilv.cie.co.at/term/222
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-109
+  type: authoritative
+status: valid
+id: a3616d02-a87c-5c1e-9b1f-521236e6e7a3
+---
+data:
+  definition:
+  - content: measure of the degree to which the psychophysical colour of an object
+      illuminated by the test illuminant conforms to that of the same object illuminated
+      by the reference illuminant, suitable allowance having been made for the state
+      of chromatic adaptation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-109
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour rendering index
+  - type: symbol
+    normative_status: preferred
+    designation: CRI
+  - type: symbol
+    normative_status: preferred
+    designation: CRI
+  language_code: eng
+  annotations: []
+termid: 17-222
+id: 71f6ff08-4724-507d-a931-d4621405ce45

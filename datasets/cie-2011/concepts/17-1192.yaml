@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1192
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170551/http://eilv.cie.co.at/term/1192
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-131
+  type: authoritative
+status: valid
+id: 4432b5e1-bd5c-5eb3-93b1-95ff8db58ba8
+---
+data:
+  definition:
+  - content: illuminance produced by skylight on a horizontal surface on the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-131
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sky illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: sky illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: sky illuminance
+  language_code: eng
+  annotations: []
+termid: 17-1192
+id: 2e26fd79-e784-5831-b054-84713c7bf035

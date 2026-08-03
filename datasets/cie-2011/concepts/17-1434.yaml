@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1434
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161059/http://eilv.cie.co.at/term/1434
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-005
+  type: authoritative
+status: valid
+id: d5d28508-a33d-5a15-be7c-ecf2b66407f6
+---
+data:
+  definition:
+  - content: luminaire that distributes light over a comparatively wide solid angle
+    type: intensional
+  examples: []
+  notes:
+  - content: In contrast with wide angle luminaires, narrow angle luminaires are not
+      defined since practically these are projectors (see "{{17-990, projector}}").
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wide angle luminaire
+  language_code: eng
+  annotations: []
+termid: 17-1434
+id: 5f626d5d-b4d5-5cc8-9c5a-91884716771b

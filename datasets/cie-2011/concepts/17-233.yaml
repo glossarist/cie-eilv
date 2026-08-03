@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-233
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191219033342/http://eilv.cie.co.at/term/233
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-072
+  type: authoritative
+status: valid
+id: 794ad957-11f4-5a69-96d2-06022ceea072
+---
+data:
+  definition:
+  - content: attribute of a visual perception according to which the perceived colour
+      of an area appears to be more or less chromatic
+    type: intensional
+  examples: []
+  notes:
+  - content: For a colour stimulus of a given chromaticity and, in the case of related
+      colours, of a given luminance factor, this attribute usually increases as the
+      luminance is raised except when the brightness is very high.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colourfulness
+  language_code: eng
+  annotations: []
+termid: 17-233
+id: 2ac845eb-7999-5c69-92fe-0d51762a9995

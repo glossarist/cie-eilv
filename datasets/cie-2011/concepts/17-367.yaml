@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-367
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130144/http://eilv.cie.co.at/term/367
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-088
+  type: authoritative
+status: valid
+id: 76a92129-1c7c-515d-b112-ce82c2d5702e
+---
+data:
+  definition:
+  - content: electric lamp in which the light is produced by electroluminescence
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-088
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electroluminescent lamp
+  language_code: eng
+  annotations: []
+termid: 17-367
+id: 6ad23f49-9119-5019-8e7b-5a1056603a44

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-72
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101432/http://eilv.cie.co.at/term/72
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-032
+  type: authoritative
+status: valid
+id: dc06a0ff-c0c8-5ea2-94de-ff8d389a3991
+---
+data:
+  definition:
+  - content: optical radiation capable of inactivating or killing pathogenic micro-organisms
+    type: intensional
+  examples: []
+  notes:
+  - content: The more general term is "{{17-491, germicidal radiation}}" or "{{17-775,
+      microbiocidal radiation}}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bactericidal radiation
+  - type: symbol
+    normative_status: preferred
+    designation: germicidal radiation
+  - type: symbol
+    normative_status: preferred
+    designation: germicidal radiation
+  language_code: eng
+  annotations: []
+termid: 17-72
+id: d678ccd0-27c6-591d-8565-5703070b6f9f

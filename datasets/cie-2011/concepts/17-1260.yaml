@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1260
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170432/http://eilv.cie.co.at/term/1260
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-041
+  type: authoritative
+status: valid
+id: e2ad6ace-8829-5d06-812b-37b59d99a15c
+---
+data:
+  definition:
+  - content: device designed to provide the appropriate electrical conditions to start
+      a discharge lamp by itself or in combination with other components in the circuit
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting device
+  language_code: eng
+  annotations: []
+termid: 17-1260
+id: ec886f0b-0623-5af7-84a8-a6e67479c4fd

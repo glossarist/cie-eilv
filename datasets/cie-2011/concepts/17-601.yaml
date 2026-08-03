@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-601
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917130528/http://eilv.cie.co.at/term/601
+  type: authoritative
+status: valid
+id: 719e5fce-0a84-5217-a8b1-3d7ad9f0ab82
+---
+data:
+  definition:
+  - content: general area where 2 or more major roads join or cross, within which
+      are included the road and roadside facilities for traffic and pedestrian movements
+      in that area
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intersection
+  language_code: eng
+  annotations: []
+termid: 17-601
+id: b6f4a8be-2081-5408-bc7c-c63bc3dbdd9e

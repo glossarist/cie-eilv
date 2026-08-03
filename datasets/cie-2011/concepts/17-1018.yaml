@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1018
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920215418/http://eilv.cie.co.at/term/1018
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-087
+  type: authoritative
+status: valid
+id: fa9a96e5-23ea-5d2d-9c6d-3b7deab5c5c6
+---
+data:
+  definition:
+  - content: quotient of the radiant flux of the emitted radiation and the power consumed
+      by the source
+    type: intensional
+  examples: []
+  notes:
+  - content: It must be specified whether or not the power dissipated by auxiliary
+      equipment such as ballasts, etc., if any, is included in the power consumed
+      by the source.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-087
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant efficiency (of a source of radiation)
+  - type: symbol
+    normative_status: preferred
+    designation: ηe; η
+  - type: symbol
+    normative_status: preferred
+    designation: ηe; η
+  language_code: eng
+  annotations: []
+termid: 17-1018
+id: 72f2fb22-a35a-5f1d-85a7-588b183c7549

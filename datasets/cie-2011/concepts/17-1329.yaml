@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-1329
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012834/http://eilv.cie.co.at/term/1329
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-061
+  type: authoritative
+status: valid
+id: d19e283f-3d0b-5735-9641-e2f747feca78
+---
+data:
+  definition:
+  - content: authorized sign that conveys, to vehicular and pedestrian traffic, a
+      prohibition, restriction, requirement or warning, or information
+    type: intensional
+  examples: []
+  notes:
+  - content: In French, the term "panneau de signalisation (routière)" refers only
+      to a panel that contains a sign, and it may in some cases be equivalent to the
+      English term "sign plate" or "sign panel (US)".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic sign
+  language_code: eng
+  annotations: []
+termid: 17-1329
+id: 03b4f3b1-c7f3-5d5e-8624-0e15e7b938f9

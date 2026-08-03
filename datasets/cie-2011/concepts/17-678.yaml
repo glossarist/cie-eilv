@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-678
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823053119/http://eilv.cie.co.at/term/678
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-029
+  type: authoritative
+status: valid
+id: 35c39c45-185f-5ec8-90d5-350294a75a90
+---
+data:
+  definition:
+  - content: luminaire comprising an assembly of series-connected electric lamps,
+      parallel-connected electric lamps or series/parallel-connected electric lamps
+      and interconnecting insulated conductors
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-029
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting string (US)
+  - type: symbol
+    normative_status: preferred
+    designation: lighting string, US
+  - type: symbol
+    normative_status: preferred
+    designation: lighting string, US
+  language_code: eng
+  annotations: []
+termid: 17-678
+id: b4be0999-0aa2-51af-82f2-d3bfb71a2934

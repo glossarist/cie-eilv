@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-303
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130337/http://eilv.cie.co.at/term/303
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-136
+  type: authoritative
+status: valid
+id: eacde439-1ddd-5f21-9abc-57e7828becce
+---
+data:
+  definition:
+  - content: irradiance produced by the diffuse solar radiation on a horizontal surface
+      on the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-136
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse horizontal irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,d
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,d
+  language_code: eng
+  annotations: []
+termid: 17-303
+id: 316e1f8c-04f5-5345-843b-ee7d91fb207b

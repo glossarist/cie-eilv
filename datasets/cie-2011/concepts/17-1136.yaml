@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-1136
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191220065746/http://eilv.cie.co.at/term/1136
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-073
+  type: authoritative
+status: valid
+id: 49ee4212-42ed-5e64-9f66-0ae6d18c19d9
+---
+data:
+  definition:
+  - content: colourfulness of an area judged in proportion to its brightness
+    type: intensional
+  examples: []
+  notes:
+  - content: For given viewing conditions and at luminance levels within the range
+      of photopic vision, a colour stimulus of a given chromaticity exhibits approximately
+      constant saturation for all luminance levels, except when the brightness is
+      very high.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: saturation
+  language_code: eng
+  annotations: []
+termid: 17-1136
+id: ec2323fb-6d88-5892-85fe-77bc3a09b04d

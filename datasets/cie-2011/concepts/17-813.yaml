@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-813
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144023/http://eilv.cie.co.at/term/813
+  type: authoritative
+status: valid
+id: '0815f5d0-5713-5fba-ad2f-633ee52fa665'
+---
+data:
+  definition:
+  - content: 'No longer in use: see NOTE 1 to "{{17-118, candela per square metre}}"'
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nit
+  language_code: eng
+  annotations: []
+termid: 17-813
+id: 2c09d097-05af-5cbe-b856-f9c76d89cafd
