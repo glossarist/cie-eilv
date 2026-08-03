@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-092
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101844/http://eilv.cie.co.at/term/71
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-092
   type: authoritative
 status: valid
 id: 01a83bd9-f0a7-5057-bcbd-293fef4b9e3a
@@ -30,18 +30,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-092
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: bactericidal lamp
-  - type: symbol
-    normative_status: preferred
-    designation: germicidal light source
   - type: symbol
     normative_status: preferred
     designation: germicidal light source
@@ -51,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-71
-id: 32817494-41c7-5236-b910-6b37abd5f9b0
+id: 89435f4c-7296-571b-bdcb-8dfd6449287e

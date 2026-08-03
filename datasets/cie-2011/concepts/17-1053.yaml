@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-183
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820013224/http://eilv.cie.co.at/term/1053
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-183
   type: authoritative
 status: valid
 id: a7c60cf2-dd67-5811-b662-8c98c2e8e395
@@ -31,18 +31,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-183
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: reference location
-  - type: symbol
-    normative_status: preferred
-    designation: reference point, <for the assessment of light pollution>
   - type: symbol
     normative_status: preferred
     designation: reference point, <for the assessment of light pollution>
@@ -52,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1053
-id: a0b4777e-1503-5ebd-81a4-c1217c2e542a
+id: e36acc40-6277-5223-84bb-324ad09e8923

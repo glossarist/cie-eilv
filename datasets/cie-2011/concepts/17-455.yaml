@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-054
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916124241/http://eilv.cie.co.at/term/455
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-054
   type: authoritative
 status: valid
 id: 904d8a1e-9cdb-5931-aa37-111587bb1b9a
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-054
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +40,8 @@ data:
     designation: fluence rate
   - type: symbol
     normative_status: preferred
-    designation: fluence rate
+    designation: "<i>E</i><sub>e,o</sub>; <i>E</i><sub>o</sub>"
   language_code: eng
   annotations: []
 termid: 17-455
-id: 7a68e15a-badd-5e8c-a9b0-b2909a26f594
+id: bd314292-5dd1-5fd4-ad45-56285c0f782a

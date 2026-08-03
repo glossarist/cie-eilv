@@ -5,16 +5,16 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-32-037
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042118/http://eilv.cie.co.at/term/685
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-32-037
   type: authoritative
 status: valid
 id: 39f77c01-5717-5933-8a26-8b10523d62d4
@@ -32,16 +32,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-32-037
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: liquid crystal display
-  - type: symbol
     normative_status: preferred
     designation: liquid crystal display
   - type: symbol
@@ -50,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-685
-id: 15c83478-6da5-568f-9bf4-cd91255eecba
+id: fa7196a5-8126-543c-a572-68ef4b0474c0

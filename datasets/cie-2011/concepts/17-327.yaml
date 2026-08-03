@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-037
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920135442/http://eilv.cie.co.at/term/327
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-037
   type: authoritative
 status: valid
 id: a66fded4-a938-5af4-9b84-975046787377
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-037
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: Stiles–Crawford effect of the first kind
-  - type: symbol
-    normative_status: preferred
-    designation: Stiles–Crawford effect of the first kind
   language_code: eng
   annotations: []
 termid: 17-327
-id: 95afe3b4-df40-532f-83ff-f2b3d1ca1dda
+id: dbb3c0fa-41f9-5c0f-abc5-3c4eba9cb313

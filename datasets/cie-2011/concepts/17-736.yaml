@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-072
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042504/http://eilv.cie.co.at/term/736
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-072
   type: authoritative
 status: valid
 id: 67a229cb-61f7-523a-9972-7935134fe42f
@@ -35,11 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-072
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -49,8 +44,8 @@ data:
     designation: 'DEPRECATED: light exposure'
   - type: symbol
     normative_status: preferred
-    designation: 'DEPRECATED: light exposure'
+    designation: "<i>H</i><sub>v</sub>; <i>H</i>"
   language_code: eng
   annotations: []
 termid: 17-736
-id: 66436b2f-f05c-5350-a75e-1437706d2165
+id: 1b9d8b92-2dc7-5410-bbd9-e8df69b8ebe6

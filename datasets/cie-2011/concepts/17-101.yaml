@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-059
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20180314012619/http://eilv.cie.co.at/term/101
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-059
   type: authoritative
 status: valid
 id: 45106c9b-ba29-521b-b91e-ce5fb6b089ea
@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] =300 nm, stem:[lambda_2]
+  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> =300 nm, <i>λ</i><sub>2</sub>
       =700 nm.'
     type: intensional
   - content: This definition implies that an action spectrum is adopted for the actinic
@@ -40,11 +40,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-059
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -54,8 +49,8 @@ data:
     designation: HB
   - type: symbol
     normative_status: preferred
-    designation: HB
+    designation: "<i>H</i><sub>b</sub>"
   language_code: eng
   annotations: []
 termid: 17-101
-id: d9b8ab1d-88c3-5667-82d6-9d3472f704f1
+id: 8aa07988-ac93-5f56-8e75-feafdca273ef

@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-015
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191228145730/http://eilv.cie.co.at/term/20
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-015
   type: authoritative
 status: valid
 id: 998a1d5f-5a16-5edd-ab35-5c918ebc35ac
@@ -26,18 +26,13 @@ data:
   examples: []
   notes:
   - content: The terms "light adaptation" and "dark adaptation" are also used, the
-      former when the luminances of the stimuli are of at least 10 cd·m^-2^, and the
-      latter when the luminances are of less than some hundredths of a cd·m^-2^.
+      former when the luminances of the stimuli are of at least 10 cd·m<sup>-2</sup>,
+      and the latter when the luminances are of less than some hundredths of a cd·m<sup>-2</sup>.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-015
     type: authoritative
   terms:
   - type: expression
@@ -46,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-20
-id: 463befb0-cc24-5a1c-8b65-895b60473884
+id: 727027dd-10d4-5f95-a335-a3011c734e41

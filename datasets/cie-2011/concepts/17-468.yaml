@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-094
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920144534/http://eilv.cie.co.at/term/468
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-094
   type: authoritative
 status: valid
 id: 5168ea5a-30e0-58a8-ba1e-692a0013f78c
@@ -43,22 +43,17 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-094
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: form factor (between two surfaces S~1~ and S~2~)
+    designation: form factor (between two surfaces S<sub>1</sub> and S<sub>2</sub>)
   - type: symbol
     normative_status: preferred
     designation: f12; f21
   - type: symbol
     normative_status: preferred
-    designation: f12; f21
+    designation: "<i>f</i><sub>12</sub>; <i>f</i><sub>21</sub>"
   language_code: eng
   annotations: []
 termid: 17-468
-id: 91604495-9897-58af-be3c-0fb2cd480924
+id: 1ff3fcee-8e73-5bff-93db-8e15c443783e

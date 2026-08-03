@@ -5,16 +5,16 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-32-054
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20160314011555/http://eilv.cie.co.at/term/567
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-32-054
   type: authoritative
 status: valid
 id: 8310296a-043f-5475-9b2c-45d7085488b6
@@ -39,7 +39,7 @@ data:
   - content: Scene-referred image data typically represent relative scene colorimetry
       estimates. Absolute scene colorimetry estimates may be calculated using a scaling
       factor. The scaling factor can be derived from additional information such as
-      the image opto-electronic conversion function (OECF), stem:[F]Number or Aperture
+      the image opto-electronic conversion function (OECF), <i>F</i>Number or Aperture
       Value, and Exposure Time or Shutter Speed Value tags.
     type: intensional
   - content: Scene-referred image data may contain inaccuracies due to the dynamic
@@ -68,11 +68,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-32-054
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -80,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-567
-id: d834cd2c-c1a0-538a-9aa4-a70242c8c43e
+id: 2100b2f9-7b5e-53a1-9ad4-7badd14da11f

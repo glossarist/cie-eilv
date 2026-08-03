@@ -2,7 +2,7 @@
 
 module CieEilv
   module Archive2011
-    # Adds a "superseded by" ConceptSource to each cie-2011 concept that
+    # Adds a "superseded_by" related entry to each cie-2011 concept that
     # has a cie-2020 sibling. Enables reverse navigation: the concept
     # browser can render "Superseded by 17-21-067 in the 2020 edition"
     # from cie-2011 concept pages.
@@ -11,9 +11,17 @@ module CieEilv
     # sources[]. Forward direction (cie-2020 → cie-2011) was already
     # encoded by the 2020 transformer; this closes the reverse path.
     #
-    # Idempotent.
+    # The relationship is stored in `related[]` (type: superseded_by),
+    # NOT in `sources[]`. Putting it in sources[] would be anachronistic:
+    # a 2011-edition concept cannot have a 2020-edition document as an
+    # authoritative source — the 2020 standard didn't exist when the
+    # 2011 concept was published.
+    #
+    # Idempotent. Re-running on already-processed concepts touches zero
+    # files (the related entry is detected and skipped).
     class CrossEditionLinker
       LEGACY_ID_RE = /17-(\d+)/.freeze
+      SUPSEREDED_BY = "superseded_by".freeze
 
       attr_reader :stats
 
@@ -21,7 +29,7 @@ module CieEilv
                      cie_2020_concepts_dir: CieEilv::Paths::CONCEPTS_DIR)
         @concepts_dir = concepts_dir
         @cie_2020_concepts_dir = cie_2020_concepts_dir
-        @stats = { linked: 0, skipped: 0 }
+        @stats = { linked: 0, skipped: 0, cleaned: 0 }
       end
 
       def run!
@@ -31,7 +39,7 @@ module CieEilv
         each_concept_file do |path|
           process_file(path)
         end
-        warn "Archive2011::CrossEditionLinker: linked=#{stats[:linked]} skipped=#{stats[:skipped]}"
+        warn "Archive2011::CrossEditionLinker: linked=#{stats[:linked]} skipped=#{stats[:skipped]} cleaned=#{stats[:cleaned]}"
       end
 
       private
@@ -59,49 +67,83 @@ module CieEilv
         archive_id = File.basename(path, ".yaml").sub(/\A17-/, "")
         termid_2020 = @map_2011_to_2020[archive_id]
 
-        if termid_2020.nil?
-          @stats[:skipped] += 1
-          return
-        end
-
         cf = ConceptFile.read(path)
-        eng = cf.find_localized("eng")
-        return unless eng
+        managed = cf.managed
+        return unless managed
 
-        # Skip if the source already exists (idempotent).
-        existing = source_ids_for(eng, termid_2020)
-        unless existing.empty?
-          @stats[:skipped] += 1
-          return
+        changed = false
+
+        # 1. Clean anachronistic "CIE S 017:2020" entries from managed
+        #    and localized sources[]. A 2011 concept's authoritative
+        #    sources can only be 2011-or-earlier documents.
+        if needs_anachronism_cleanup?(managed.sources)
+          managed.sources = filter_anachronistic(managed.sources)
+          changed = true
+        end
+        cf.localized.each do |lc|
+          src = lc.data.sources
+          next unless needs_anachronism_cleanup?(src)
+          # Rebuild via the data object's setter.
+          lc.data.sources = filter_anachronistic(src)
+          changed = true
         end
 
-        source = build_supersession_source(termid_2020)
-        eng.data.sources << source
-        cf.managed&.sources&.<<(source)
+        # 2. Add the superseded_by related entry.
+        if termid_2020
+          related_changed = add_superseded_by!(managed, termid_2020)
+          changed |= related_changed
+          @stats[:linked] += 1 if related_changed
+        end
 
-        cf.save
-        @stats[:linked] += 1
+        @stats[:skipped] += 1 unless changed
+        cf.save if changed
       rescue StandardError => e
         warn "  17-#{archive_id}: #{e.message}"
         @stats[:skipped] += 1
       end
 
-      def source_ids_for(eng, termid_2020)
-        ids = Set.new
-        [eng.data.sources, eng.data.respond_to?(:managed) ? nil : nil].compact.each do |coll|
-          next unless coll.respond_to?(:each)
-          coll.each { |s| ids << s.origin&.ref&.id if s.origin&.ref&.source == "CIE S 017:2020" }
+      def needs_anachronism_cleanup?(sources)
+        return false unless sources.respond_to?(:each)
+        sources.any? do |s|
+          s.respond_to?(:origin) && s.origin&.ref&.source == "CIE S 017:2020"
         end
-        ids
       end
 
-      def build_supersession_source(termid_2020)
-        Glossarist::V3::ConceptSource.new(
-          type: "authoritative",
-          origin: Glossarist::V3::Citation.new(
-            ref: Glossarist::Citation::Ref.new(source: "CIE S 017:2020", id: termid_2020)
+      def filter_anachronistic(sources)
+        kept = sources.reject do |s|
+          s.respond_to?(:origin) && s.origin&.ref&.source == "CIE S 017:2020"
+        end
+        dropped = sources.respond_to?(:size) ? sources.size - kept.length : sources.to_a.length - kept.length
+        @stats[:cleaned] += dropped
+        kept
+      end
+
+      def add_superseded_by!(managed, termid_2020)
+        # managed.related is nil for concepts that didn't have any
+        # related entries in their YAML. Initialize as empty array.
+        related = managed.related || []
+
+        # Skip if the entry already exists.
+        existing = related.any? do |r|
+          r.type == SUPSEREDED_BY &&
+            r.ref&.source == "CIE S 017:2020" &&
+            r.ref&.id == termid_2020
+        end
+        return false if existing
+
+        new_rel = Glossarist::V3::RelatedConcept.new(
+          type: SUPSEREDED_BY,
+          ref: Glossarist::V3::ConceptRef.new(
+            source: "CIE S 017:2020",
+            id: termid_2020
           )
         )
+        related << new_rel
+        managed.related = related
+        true
+      rescue StandardError => e
+        warn "    add_superseded_by! failed: #{e.message}"
+        false
       end
 
       def each_concept_file

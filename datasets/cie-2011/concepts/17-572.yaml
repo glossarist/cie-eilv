@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-098
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426131111/http://eilv.cie.co.at/term/572
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-098
   type: authoritative
 status: valid
 id: 4f2dbd58-facb-51d9-ba0a-42cc53bca3ff
@@ -40,18 +40,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-098
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: indicatrix of diffusion (for a specified incident beam)
-  - type: symbol
-    normative_status: preferred
-    designation: indicatrix of diffusion, <for a specified incident beam>
   - type: symbol
     normative_status: preferred
     designation: indicatrix of diffusion, <for a specified incident beam>
@@ -61,4 +53,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-572
-id: ef1561b7-6e4e-5f9e-bdf8-0a22e15eb1a3
+id: bb0bbacc-ad91-584b-b4b0-a1a57540c567

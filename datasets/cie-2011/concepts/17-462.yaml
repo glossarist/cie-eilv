@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-039
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823052534/http://eilv.cie.co.at/term/462
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-039
   type: authoritative
 status: valid
 id: 3be8c8ec-6ee9-5160-9346-a53738e7eb00
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-039
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -42,10 +37,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: phosphor
-  - type: symbol
-    normative_status: preferred
-    designation: phosphor
   language_code: eng
   annotations: []
 termid: 17-462
-id: 5cd9d142-f027-57b8-a4ba-30ad10a94b2f
+id: fbf22d9d-1e11-53fc-b74f-822ca8a130ad

@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-076
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915155454/http://eilv.cie.co.at/term/933
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-076
   type: authoritative
 status: valid
 id: 6a0f409c-d122-52ed-aa6c-742a78be2a20
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-076
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,8 +42,8 @@ data:
     designation: photon fluence
   - type: symbol
     normative_status: preferred
-    designation: photon fluence
+    designation: H<sub>p,o</sub>
   language_code: eng
   annotations: []
 termid: 17-933
-id: ceaed63a-8150-55f9-824f-6667ce0747ec
+id: 5b0a52a0-1d82-5ebc-ad97-96016f0d1d1c

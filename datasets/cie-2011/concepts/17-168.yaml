@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-021
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171002173238/http://eilv.cie.co.at/term/168
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-021
   type: authoritative
 status: valid
 id: 50007cbf-af0b-5292-99e2-0e25b5683ba7
@@ -29,8 +29,8 @@ data:
       These illuminants are intended to represent:
       A: Planckian radiation at a temperature of about 2 856 K;
       D65: The relative spectral power distribution representing a phase of daylight with a correlated colour temperature of approximately 6 500 K (called also "nominal correlated colour temperature of the daylight illuminant").
-      See also CIE 15 stem:[Colorimetry]
-      See also ISO 11664-2:2007(E)/CIE S 014-2/E:2006 stem:[Colorimetry - Part 2: CIE Standard llluminants for Colorimetry]
+      See also CIE 15 <i>Colorimetry</i>
+      See also ISO 11664-2:2007(E)/CIE S 014-2/E:2006 <i>Colorimetry - Part 2: CIE Standard llluminants for Colorimetry</i>
     type: intensional
   - content: Illuminants B, C and other D illuminants, previously denoted as "standard
       illuminants", should now be termed "CIE illuminants".
@@ -40,11 +40,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-021
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -52,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-168
-id: 391a97c7-63d5-52ee-afe1-ada8e899696b
+id: 81f10242-83f6-51fd-a2c0-4aca720bd26a

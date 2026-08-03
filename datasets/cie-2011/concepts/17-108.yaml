@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-074
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426200424/http://eilv.cie.co.at/term/108
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-074
   type: authoritative
 status: valid
 id: e09be432-e222-5e34-91aa-bb6008505788
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-074
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: brake light
-  - type: symbol
     normative_status: preferred
     designation: brake light
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-108
-id: 8ea81969-859e-5e8d-9129-d628b703cd7f
+id: 77c9c284-188d-517b-878c-072bb188280b

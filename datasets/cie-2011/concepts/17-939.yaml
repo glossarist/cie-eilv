@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-042
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915155514/http://eilv.cie.co.at/term/939
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-042
   type: authoritative
 status: valid
 id: 14991c1d-190c-5cb9-a6b6-dfed9617cb0c
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-042
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: photoresistor
-  - type: symbol
     normative_status: preferred
     designation: photoresistor
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-939
-id: faffd7a8-d123-54d6-b071-c9c274d1edb9
+id: 24e4c29d-51d0-5987-96ab-42078818ee07

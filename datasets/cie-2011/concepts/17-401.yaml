@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-065
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920144650/http://eilv.cie.co.at/term/401
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-065
   type: authoritative
 status: valid
 id: 9f087742-f09f-5144-bcc9-50f3beb403f7
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-065
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,11 +40,11 @@ data:
     designation: erythema action spectrum
   - type: symbol
     normative_status: preferred
-    designation: erythema action spectrum
+    designation: "<i>s</i><sub>er</sub>(<i>λ</i>)"
   - type: expression
     normative_status: admitted
     designation: erythema action spectrum
   language_code: eng
   annotations: []
 termid: 17-401
-id: 17e6f4a7-970f-5c49-b441-e6ce80314567
+id: 32cbbb93-b14e-52a2-9495-555a2a2f2261

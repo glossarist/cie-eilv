@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-026
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920141146/http://eilv.cie.co.at/term/1425
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-026
   type: authoritative
 status: valid
 id: 7aff4e1c-1be0-5572-822a-a6fc1b8f45c8
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-026
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,8 +39,8 @@ data:
     designation: wave number
   - type: symbol
     normative_status: preferred
-    designation: wave number
+    designation: "<i>σ</i>"
   language_code: eng
   annotations: []
 termid: 17-1425
-id: c2b33ac9-cef8-5471-b149-f872c76b329d
+id: 90b936d8-97f6-57ba-81ac-08815c3f569f

@@ -5,16 +5,16 @@ data:
   - concept_id: section-30
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-30-028
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820015732/http://eilv.cie.co.at/term/1320
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-30-028
   type: authoritative
 status: valid
 id: 8016e816-df01-516c-9b90-9a8dcdc79550
@@ -34,11 +34,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-30-028
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -46,10 +41,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: flashlight, US
-  - type: symbol
-    normative_status: preferred
-    designation: flashlight, US
   language_code: eng
   annotations: []
 termid: 17-1320
-id: 912183b8-d042-528b-a7c7-001a9168afa9
+id: 9be5e705-bb82-52c5-8af4-9137cdacae8b

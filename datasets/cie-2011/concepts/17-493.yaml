@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-100
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916121449/http://eilv.cie.co.at/term/493
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-100
   type: authoritative
 status: valid
 id: e4f12c01-1dc1-58ad-8f4a-3e24284c6160
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-100
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,10 +40,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: 'DEPRECATED: reflected glare'
-  - type: symbol
-    normative_status: preferred
-    designation: 'DEPRECATED: reflected glare'
   language_code: eng
   annotations: []
 termid: 17-493
-id: 62a9a95f-ee12-56f5-b628-d25e91be1a73
+id: c22283a5-372e-528e-a497-575ef17ccc24

@@ -5,30 +5,23 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-108
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917163139/http://eilv.cie.co.at/term/957
   type: authoritative
-- id: 113-05-07
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-05-07
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-05-07
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-108
-  type: authoritative
 status: valid
 id: c3d79bc3-8043-523b-8308-d60a6e25ebba
 ---
 data:
   definition:
-  - content: See {{bib:113-05-07, IEV 113-05-07}}
+  - content: See IEV 113-05-07
     type: intensional
   examples: []
   notes:
@@ -39,18 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-05-07
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-05-07
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-05-07
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-108
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -60,8 +41,8 @@ data:
     designation: h
   - type: symbol
     normative_status: preferred
-    designation: h
+    designation: "<i>h</i>"
   language_code: eng
   annotations: []
 termid: 17-957
-id: bff7b1c2-00e4-5232-90a9-41b10fdf6c2d
+id: 2eec6165-00af-5a6d-8875-910fa175f581

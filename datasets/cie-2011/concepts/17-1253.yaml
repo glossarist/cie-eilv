@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-144
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161247/http://eilv.cie.co.at/term/1253
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-144
   type: authoritative
 status: valid
 id: d21eb217-60e3-5a75-af19-cfd280c86646
@@ -32,11 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-144
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,10 +39,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: SR, <in road lighting>
-  - type: symbol
-    normative_status: preferred
-    designation: SR, <in road lighting>
   language_code: eng
   annotations: []
 termid: 17-1253
-id: 7e05b56b-04d4-5495-be98-71deaf33fdf1
+id: 57265706-46df-520f-9b3e-e89f0c17fa7e

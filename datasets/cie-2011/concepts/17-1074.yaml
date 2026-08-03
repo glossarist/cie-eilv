@@ -5,68 +5,49 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-109
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922170527/http://eilv.cie.co.at/term/1074
   type: authoritative
-- id: 113-01-34
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-01-34
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-109
-  type: authoritative
 status: valid
 id: 0e54cb94-4310-514a-9b5a-5097b9a6807a
 ---
 data:
   definition:
-  - content: quotient of the {{bib:113-01-34, speed of light in vacuum}} and the speed
-      of light in a medium
+  - content: quotient of the speed of light in vacuum and the speed of light in a
+      medium
     type: intensional
   examples: []
   notes:
   - content: 'For isotropic media, this index is equal to the ratio of the sines of
-      the angles of incidence, stem:[Theta_1], and refraction, stem:[Theta_2], of
-      a ray passing through the surface separating vacuum and medium: stem:[n](stem:[lambda])=sin
-      stem:[Theta_1]/sin stem:[Theta_2].'
+      the angles of incidence, <i>Θ</i><sub>1</sub>, and refraction, <i>Θ</i><sub>2</sub>,
+      of a ray passing through the surface separating vacuum and medium: <i>n</i>(<i>λ</i>)=sin
+      <i>Θ</i><sub>1</sub>/sin <i>Θ</i><sub>2</sub>.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-01-34
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-01-34
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-109
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: refractive index (of a medium, for a monochromatic radiation of wavelength,
-      stem:[lambda], in vacuum)
+      <i>λ</i>, in vacuum)
   - type: symbol
     normative_status: preferred
     designation: "n"
   - type: symbol
     normative_status: preferred
-    designation: "n"
+    designation: "<i>n</i>(<i>λ</i>)"
   language_code: eng
   annotations: []
 termid: 17-1074
-id: 538f097b-b3dd-5ec1-ac3b-28e676c518b0
+id: f199ebf8-dde0-589f-9b3f-4aaa6a110531

@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-027
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101813/http://eilv.cie.co.at/term/17
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-027
   type: authoritative
 status: valid
 id: 123bea16-ba66-550f-be58-4ade7105722d
@@ -39,18 +39,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-027
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: action spectrum
-  - type: symbol
-    normative_status: preferred
-    designation: spectral weighting function
   - type: symbol
     normative_status: preferred
     designation: spectral weighting function
@@ -60,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-17
-id: c608e20b-f05f-5aaa-8bc3-e31b9ded8ad6
+id: 7cfe492f-b8ce-5f02-905b-f2f09c1074f1

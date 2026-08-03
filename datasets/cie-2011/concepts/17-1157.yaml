@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-050
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171224234222/http://eilv.cie.co.at/term/1157
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-050
   type: authoritative
 status: valid
 id: 3ac9ec92-adb9-5963-a7dc-919988ff1ea0
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-050
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: self-calibrating thermal detector
-  - type: symbol
     normative_status: preferred
     designation: self-calibrating thermal detector
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1157
-id: 94250f3a-6cbd-545e-9d6e-b2a66558f54a
+id: 1a56a772-1275-506c-bd31-f7123e3c5e2e

@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-063
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920135336/http://eilv.cie.co.at/term/633
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-063
   type: authoritative
 status: valid
 id: b83be7e9-39be-52be-9a54-f4ef69baeb4b
@@ -26,18 +26,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For a lambertian surface, stem:[M] = π stem:[L] where stem:[M] is the
-      radiant exitance or luminous exitance, and stem:[L] the radiance or luminance.
+  - content: For a lambertian surface, <i>M</i> = π <i>L</i> where <i>M</i> is the
+      radiant exitance or luminous exitance, and <i>L</i> the radiance or luminance.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-063
     type: authoritative
   terms:
   - type: expression
@@ -46,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-633
-id: 302155a4-aae6-5593-bc89-3b234673c080
+id: 1b73e18d-d5aa-5f65-8703-4c6ce5faf318

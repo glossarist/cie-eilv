@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-080
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426223120/http://eilv.cie.co.at/term/160
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-080
   type: authoritative
 status: valid
 id: f45abd96-e2a9-5d68-8428-4b69c7724138
@@ -33,22 +33,17 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-080
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: CIE 1976 stem:[u]', stem:[v]' chromaticity difference
+    designation: CIE 1976 <i>u</i>', <i>v</i>' chromaticity difference
   - type: symbol
     normative_status: preferred
     designation: Δc
   - type: symbol
     normative_status: preferred
-    designation: Δc
+    designation: "∆<i>c</i>"
   language_code: eng
   annotations: []
 termid: 17-160
-id: 949e083f-09ec-5500-b990-6bfb7df1036e
+id: e352b0ac-fb01-506b-89d7-82b59e6b699b

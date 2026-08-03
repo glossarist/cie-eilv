@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-067
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917165407/http://eilv.cie.co.at/term/1319
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-067
   type: authoritative
 status: valid
 id: 5af6f8d2-78d3-5f12-9f63-ad4b71bc8a38
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-067
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,8 +43,8 @@ data:
     designation: integrated radiance
   - type: symbol
     normative_status: preferred
-    designation: integrated radiance
+    designation: "<i>L</i><sub>t</sub>"
   language_code: eng
   annotations: []
 termid: 17-1319
-id: 44730e94-728f-5f3d-b145-f50c40ea40f9
+id: 476b6957-76e8-52b4-905a-5aaf6145d6d0

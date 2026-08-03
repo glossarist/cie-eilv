@@ -5,31 +5,24 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-148
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042149/http://eilv.cie.co.at/term/687
   type: authoritative
-- id: 113-01-08
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-01-08
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-148
-  type: authoritative
 status: valid
 id: 2bfb9333-b511-57f9-9001-490d483369ce
 ---
 data:
   definition:
-  - content: quotient of the efficiency of a luminaire at a given {{bib:113-01-08,
-      instant}} and the initial efficiency value
+  - content: quotient of the efficiency of a luminaire at a given instant and the
+      initial efficiency value
     type: intensional
   examples: []
   notes: []
@@ -38,18 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-01-08
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-01-08
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-08
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-148
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: LMF
-  - type: symbol
-    normative_status: preferred
-    designation: LMF
   language_code: eng
   annotations: []
 termid: 17-687
-id: f1827b03-cb1c-59d0-8f2a-d1bf40557f0f
+id: 4b30296d-57b8-559c-8b90-1dc797be7eca

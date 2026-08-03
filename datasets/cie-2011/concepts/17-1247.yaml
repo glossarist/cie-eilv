@@ -5,16 +5,16 @@ data:
   - concept_id: section-30
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-30-043
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917162517/http://eilv.cie.co.at/term/1247
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-30-043
   type: authoritative
 status: valid
 id: b2d85cbb-09a6-5d5e-9956-993b88893097
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-30-043
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: spill shield
-  - type: symbol
     normative_status: preferred
     designation: spill shield
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1247
-id: 95907cb9-21f0-59b7-8c96-6049e38a4d02
+id: c2680036-5ba6-56a2-9974-75b29f02f20b

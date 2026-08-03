@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-073
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191202064608/http://eilv.cie.co.at/term/162
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-073
   type: authoritative
 status: valid
 id: c1a130c8-f387-5137-95f7-19a493cb72b4
@@ -33,27 +33,19 @@ data:
   examples: []
   notes:
   - content: 'This diagram is a modification of, and supersedes, the CIE 1960 UCS
-      diagram in which stem:[v]was plotted against stem:[u]in rectangular coordinates.
-      The relationships between the 2 pairs of coordinates are: stem:[u]'' = stem:[u];
-      stem:[v]'' = 1,5 v.'
+      diagram in which <i>v</i>was plotted against <i>u</i>in rectangular coordinates.
+      The relationships between the 2 pairs of coordinates are: <i>u</i>'' = <i>u</i>;
+      <i>v</i>'' = 1,5 v.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-073
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: CIE 1976 uniform chromaticity scale diagram
-  - type: symbol
-    normative_status: preferred
-    designation: CIE 1976 UCS diagram
   - type: symbol
     normative_status: preferred
     designation: CIE 1976 UCS diagram
@@ -63,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-162
-id: f5b49ae8-93ad-513b-abaf-0a899b05df6f
+id: 6517e50c-a843-5398-b3ea-bf2812ea9fee

@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-097
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101422/http://eilv.cie.co.at/term/50
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-097
   type: authoritative
 status: valid
 id: 547829ef-a338-5bc9-8691-de3477ffc5dd
@@ -32,18 +32,13 @@ data:
   notes:
   - content: In addition to the visual apparent magnitude defined here, other apparent
       magnitudes (photographic, bolometric, etc.) are defined by the same formula,
-      but where stem:[E] and stem:[E_o] are the responses of a detector having a specified
-      spectral responsivity.
+      but where <i>E</i> and <i>E</i><sub>o</sub> are the responses of a detector
+      having a specified spectral responsivity.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-097
     type: authoritative
   terms:
   - type: expression
@@ -54,8 +49,8 @@ data:
     designation: m
   - type: symbol
     normative_status: preferred
-    designation: m
+    designation: "<i>m</i>"
   language_code: eng
   annotations: []
 termid: 17-50
-id: 5feb0f70-f680-5066-a1b7-31e5669c6f6d
+id: 31a4b954-599b-5f05-bb9c-42fe3fc3ec9b

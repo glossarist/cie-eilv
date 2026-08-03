@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-074
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191228145705/http://eilv.cie.co.at/term/159
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-074
   type: authoritative
 status: valid
 id: d131b179-dd71-5e67-823e-31c3af38b268
@@ -62,18 +62,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-074
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: CIE 1976 stem:[L]*stem:[u]*stem:[v]* colour space
-  - type: symbol
-    normative_status: preferred
-    designation: CIELUV colour space
+    designation: CIE 1976 <i>L</i>*<i>u</i>*<i>v</i>* colour space
   - type: symbol
     normative_status: preferred
     designation: CIELUV colour space
@@ -83,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-159
-id: 469b17f7-3127-5949-aa6a-e51deef3c0e2
+id: 5fe6b326-1305-565d-a545-a97d02ba41a1

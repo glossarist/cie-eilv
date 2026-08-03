@@ -2,9 +2,14 @@
 data:
   identifier: 17-291
   domains:
-  - concept_id: section-unknown
+  - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-135
 sources:
 - origin:
     ref:
@@ -40,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-291
-id: '05453981-432a-5c05-a369-f22019016047'
+id: 8f3cb623-0fc9-53e4-b832-06cf88ddde37

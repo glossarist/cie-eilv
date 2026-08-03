@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-038
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191220074531/http://eilv.cie.co.at/term/1345
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-038
   type: authoritative
 status: valid
 id: 6e45da2f-051e-5c15-a4f6-80946d046819
@@ -27,19 +27,14 @@ data:
   examples: []
   notes:
   - content: In the CIE standard colorimetric systems, the tristimulus values are
-      represented by the symbols stem:[R], stem:[G], stem:[B]; stem:[X], stem:[Y],
-      stem:[Z]; stem:[R_(10)], stem:[G_(10)], stem:[B_(10)] and stem:[X_(10)], stem:[Y_(10)],
-      stem:[Z_(10)].
+      represented by the symbols <i>R</i>, <i>G</i>, <i>B</i>; <i>X</i>, <i>Y</i>,
+      <i>Z</i>; <i>R</i><sub>10</sub>, <i>G</i><sub>10</sub>, <i>B</i><sub>10</sub>
+      and <i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-038
     type: authoritative
   terms:
   - type: expression
@@ -48,4 +43,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1345
-id: 1d1f9348-6ddf-5db2-82bb-9c0d90be27bb
+id: 2178ea2b-1ed1-59da-940e-77a8f6b51118

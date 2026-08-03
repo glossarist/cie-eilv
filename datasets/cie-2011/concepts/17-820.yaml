@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-051
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920145432/http://eilv.cie.co.at/term/820
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-051
   type: authoritative
 status: valid
 id: 6477da6a-3883-54b4-9e10-ef2733de0ac4
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-051
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: non-selective diffusion
-  - type: symbol
     normative_status: preferred
     designation: non-selective diffusion
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-820
-id: 5de0af6d-8e94-53c9-a1fc-824d94fa5753
+id: df78e3d6-72a8-559a-b207-1a5cc408bae7

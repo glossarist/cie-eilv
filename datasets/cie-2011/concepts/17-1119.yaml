@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-141
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917162451/http://eilv.cie.co.at/term/1119
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-141
   type: authoritative
 status: valid
 id: 62c45da1-27a2-5920-b059-94e9e39753c0
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-141
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -42,10 +37,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: skylight, <of a building>
-  - type: symbol
-    normative_status: preferred
-    designation: skylight, <of a building>
   language_code: eng
   annotations: []
 termid: 17-1119
-id: 658844a9-5136-5c3b-8345-4ca3e5e29a0e
+id: 88c9a414-37b0-5648-9ef2-f7fa0c8d34e9

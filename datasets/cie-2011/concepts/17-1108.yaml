@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-073
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161839/http://eilv.cie.co.at/term/1108
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-073
   type: authoritative
 status: valid
 id: ad76e453-c29d-54bc-8baa-1a8e6fdfeaa3
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-073
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: backup light
-  - type: symbol
-    normative_status: preferred
-    designation: backup light
   language_code: eng
   annotations: []
 termid: 17-1108
-id: aadda0b1-bcfb-55de-b73e-25ec6cffd1af
+id: 7dd5de7a-9297-5eae-9a72-0c5c48615e75

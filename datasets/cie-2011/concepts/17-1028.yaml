@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-074
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042241/http://eilv.cie.co.at/term/1028
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-074
   type: authoritative
 status: valid
 id: 62a55e11-b804-5dcb-b7ce-9d1c691c20f6
@@ -32,10 +32,11 @@ data:
       incident on the outer surface of an infinitely small sphere centred at the given
       point by the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities “luminous spherical exposure”, stem:[H_(v,o)],
-      and “photon spherical exposure” (also termed “photon fluence”), stem:[H_(p,o)],
-      are defined in a similar way, replacing spherical irradiance, stem:[E_(e,o)],
-      by spherical illuminance, stem:[E_(v,o)], or photon spherical irradiance, stem:[E_(p,o)].
+  - content: The analogous quantities “luminous spherical exposure”, <i>H</i><sub>v,o</sub>,
+      and “photon spherical exposure” (also termed “photon fluence”), <i>H</i><sub>p,o</sub>,
+      are defined in a similar way, replacing spherical irradiance, <i>E</i><sub>e,o</sub>,
+      by spherical illuminance, <i>E</i><sub>v,o</sub>, or photon spherical irradiance,
+      <i>E</i><sub>p,o</sub>.
     type: intensional
   - content: This is the appropriate radiometric quantity for describing a dose for
       a photobiological or photochemical effect in a scattering medium (e.g., light
@@ -48,11 +49,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-074
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -62,8 +58,8 @@ data:
     designation: fluence
   - type: symbol
     normative_status: preferred
-    designation: fluence
+    designation: "<i>H</i><sub>e,o</sub>"
   language_code: eng
   annotations: []
 termid: 17-1028
-id: ebf4aeb7-a0d5-52d8-b3d5-356b3b68d7e9
+id: 4b91a37e-db58-5b54-8c63-42280197768d

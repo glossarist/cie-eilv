@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-067
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191219193407/http://eilv.cie.co.at/term/231
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-067
   type: authoritative
 status: valid
 id: 1711d850-0fe6-52d5-88b5-07029d887eca
@@ -26,18 +26,14 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The reciprocal colour temperature is also used with unit K^-1^ or MK^-1^
-      (where 1 MK^-1^ = 10^-6^K^-1^) whose previous name "mired" is now obsolete.
+  - content: The reciprocal colour temperature is also used with unit K<sup>-1</sup>
+      or MK<sup>-1</sup> (where 1 MK<sup>-1</sup> = 10<sup>-6</sup>K<sup>-1</sup>)
+      whose previous name "mired" is now obsolete.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-067
     type: authoritative
   terms:
   - type: expression
@@ -48,8 +44,8 @@ data:
     designation: Tc
   - type: symbol
     normative_status: preferred
-    designation: Tc
+    designation: "<i>T</i><sub>c</sub>"
   language_code: eng
   annotations: []
 termid: 17-231
-id: 3dee5eca-536d-56c9-b790-3de9899170c5
+id: e69a000b-707e-5361-a361-2b927f4b4e67

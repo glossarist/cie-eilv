@@ -5,16 +5,16 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-32-057
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920135139/http://eilv.cie.co.at/term/796
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-32-057
   type: authoritative
 status: valid
 id: aed82519-6b97-5322-9cfe-36ac349e1254
@@ -30,16 +30,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-32-057
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: multispectral imaging
-  - type: symbol
     normative_status: preferred
     designation: multispectral imaging
   - type: symbol
@@ -48,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-796
-id: f4950421-1a48-5b66-9a32-a926e232c088
+id: 94a66d65-b8d4-5499-a79a-bd634ba85684

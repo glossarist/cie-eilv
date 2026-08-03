@@ -5,23 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-049
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120500/http://eilv.cie.co.at/term/311
-  type: authoritative
-- id: 103-06-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 103-06-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-049
   type: authoritative
 status: valid
 id: 68754059-3958-599b-b667-99ce6e3afd28
@@ -30,7 +23,7 @@ data:
   definition:
   - content: process by which the spatial distribution of a beam of radiation is changed
       when it is deviated in many directions by a surface or by a medium, without
-      change in {{bib:103-06-02, frequency}} of its monochromatic components
+      change in frequency of its monochromatic components
     type: intensional
   examples: []
   notes: []
@@ -39,23 +32,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 103-06-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 103-06-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-049
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: diffusion
-  - type: symbol
     normative_status: preferred
     designation: diffusion
   - type: symbol
@@ -64,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-311
-id: b23d85e7-4d2f-53ae-bccb-a0e254df0d55
+id: fcb8aed9-c326-5943-ae0a-b6f59c5f95c7

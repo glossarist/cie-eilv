@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-125
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820003903/http://eilv.cie.co.at/term/1322
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-125
   type: authoritative
 status: valid
 id: 237f6263-f752-50c2-9150-83c019290c0c
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-125
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +40,8 @@ data:
     designation: total transmittance, <of glazing material>
   - type: symbol
     normative_status: preferred
-    designation: total transmittance, <of glazing material>
+    designation: "<i>g</i>"
   language_code: eng
   annotations: []
 termid: 17-1322
-id: f22a2941-b2b5-582e-beb4-2169058b02ec
+id: d986ca17-869c-5c42-be15-3603f8c3d8da

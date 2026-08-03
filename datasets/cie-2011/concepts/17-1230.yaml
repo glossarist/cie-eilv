@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-011
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922170331/http://eilv.cie.co.at/term/1230
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-011
   type: authoritative
 status: valid
 id: b7447a19-008e-5b4d-91cd-be6d255088f1
@@ -30,16 +30,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-011
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: spectral stimulus
-  - type: symbol
     normative_status: preferred
     designation: spectral stimulus
   - type: symbol
@@ -48,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1230
-id: 641cbfdc-5e47-5966-943f-d9d08ad0bc3a
+id: 0e3dedd1-29c3-5d86-ba61-0ab68f2f0637

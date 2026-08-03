@@ -5,31 +5,24 @@ data:
   - concept_id: section-30
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-30-072
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190920143615/http://eilv.cie.co.at/term/602
   type: authoritative
-- id: 851-15-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 851-15-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=851-15-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-30-072
-  type: authoritative
 status: valid
 id: 890e4aad-dc89-53b9-819f-23158511f6b7
 ---
 data:
   definition:
-  - content: mine luminaire whose safety results from the use of {{bib:851-15-02,
-      intrinsically safe}} electrical circuits
+  - content: mine luminaire whose safety results from the use of intrinsically safe
+      electrical circuits
     type: intensional
   examples: []
   notes: []
@@ -38,18 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 851-15-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 851-15-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=851-15-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-30-072
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,4 +38,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-602
-id: 2732f7fb-503e-5354-8927-37aeb94c01e5
+id: 6a00fb71-658d-5290-ade3-8786fb46d111

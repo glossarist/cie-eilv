@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-033
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917163904/http://eilv.cie.co.at/term/1307
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-033
   type: authoritative
 status: valid
 id: ca6c7c7c-d085-55c8-998b-70a5fd3c35e0
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-033
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: thermally activated luminescence
-  - type: symbol
     normative_status: preferred
     designation: thermally activated luminescence
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1307
-id: 4d974ec3-302c-5abd-aea3-eebca8c27683
+id: 7c6ff2d7-c46b-58da-b45e-a90617ac5376

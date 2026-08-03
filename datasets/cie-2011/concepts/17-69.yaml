@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-100
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101542/http://eilv.cie.co.at/term/69
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-100
   type: authoritative
 status: valid
 id: 3b61ab43-79bf-5d9a-84c2-f3a14eadc813
@@ -39,18 +39,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-100
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: backing board (of a traffic control device)
-  - type: symbol
-    normative_status: preferred
-    designation: backboard, <of a sign>
   - type: symbol
     normative_status: preferred
     designation: backboard, <of a sign>
@@ -60,4 +52,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-69
-id: 9cc92baa-fc33-5d30-bb35-dee384ab889a
+id: 46e0a858-13fc-561a-9bf1-6a11aca4379a

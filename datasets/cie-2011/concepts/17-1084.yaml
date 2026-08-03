@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-030
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917170553/http://eilv.cie.co.at/term/1084
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-030
   type: authoritative
 status: valid
 id: d78ef10f-868a-5814-8e7a-71b2d6ec62e6
@@ -33,23 +33,18 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-030
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: relative spectral distribution (of a radiant, luminous or photon
-      quantity stem:[X](stem:[lambda]))
+      quantity <i>X</i>(<i>λ</i>))
   - type: symbol
     normative_status: preferred
     designation: S(λ)
   - type: symbol
     normative_status: preferred
-    designation: S(λ)
+    designation: "<i>S</i>(<i>λ</i>)"
   language_code: eng
   annotations: []
 termid: 17-1084
-id: 0cab123b-5b44-57d9-b0a4-6bce66bc038c
+id: 9a058c05-b16b-5705-a288-6f4ea0b2931a

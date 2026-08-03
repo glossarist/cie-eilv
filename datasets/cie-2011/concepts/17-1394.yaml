@@ -5,16 +5,16 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-32-066
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161943/http://eilv.cie.co.at/term/1394
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-32-066
   type: authoritative
 status: valid
 id: 97154164-b7ca-5772-ba53-9dc35be08cf0
@@ -36,11 +36,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-32-066
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -48,10 +43,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: 'DEPRECATED: ambient flare, <imaging>'
-  - type: symbol
-    normative_status: preferred
-    designation: 'DEPRECATED: ambient flare, <imaging>'
   language_code: eng
   annotations: []
 termid: 17-1394
-id: 40e9d3d2-2dc9-5d5d-9aeb-8db184151a09
+id: 7861ba63-fc32-55e6-8931-61a06eabe7a1

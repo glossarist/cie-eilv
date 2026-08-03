@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-090
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426182905/http://eilv.cie.co.at/term/116
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-090
   type: authoritative
 status: valid
 id: ea3b2413-cf0f-53f9-8625-0330591df51f
@@ -28,7 +28,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Other coordinate systems (stem:[A], stem:[alpha]) and (stem:[B], stem:[beta])
+  - content: Other coordinate systems (<i>A</i>, <i>α</i>) and (<i>B</i>, <i>β</i>)
       exist as well. See CIE 121-1996.
     type: intensional
   sources:
@@ -36,16 +36,11 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-090
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: stem:[C], stem:[gamma] coordinate system
+    designation: "<i>C</i>, <i>γ</i> coordinate system"
   language_code: eng
   annotations: []
 termid: 17-116
-id: 55f8aba6-c7df-5ae3-886f-3e79a24fb2fc
+id: 19c37ea9-7079-5cda-b0c8-95bcbcadd426

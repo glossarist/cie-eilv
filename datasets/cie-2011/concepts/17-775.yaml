@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-032
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426062651/http://eilv.cie.co.at/term/775
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-032
   type: authoritative
 status: valid
 id: f92eeeb9-3852-5e23-af7b-16467256a1aa
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-032
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -42,10 +37,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: germicidal radiation
-  - type: symbol
-    normative_status: preferred
-    designation: germicidal radiation
   language_code: eng
   annotations: []
 termid: 17-775
-id: 6c53a067-c39c-534d-9e98-9af5c4c122b2
+id: b145c7c3-7486-526c-b828-2fcfdfb431fd

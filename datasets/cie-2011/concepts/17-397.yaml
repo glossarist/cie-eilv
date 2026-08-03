@@ -5,39 +5,31 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-095
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917123234/http://eilv.cie.co.at/term/397
   type: authoritative
-- id: 103-06-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 103-06-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-095
-  type: authoritative
 status: valid
 id: 0d5977ea-46b1-50b8-b478-35f8831a4d75
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of {{bib:103-06-02,
-      frequency}} 540 × 10^12^ Hz has the same brightness as the field considered
-      under the specified photometric conditions of measurement, where the comparison
-      field must have a specified size and shape which can be different from that
-      of the field considered
+  - content: luminance of a comparison field in which radiation of frequency 540 × 10^12^ Hz
+      has the same brightness as the field considered under the specified photometric
+      conditions of measurement, where the comparison field must have a specified
+      size and shape which can be different from that of the field considered
     type: intensional
   examples: []
   notes:
-  - content: Radiation at a frequency of 540×10^12^ Hz has a wavelength in standard
-      air of 555,016 nm.
+  - content: Radiation at a frequency of 540×10<sup>12</sup> Hz has a wavelength in
+      standard air of 555,016 nm.
     type: intensional
   - content: A comparison field may also be used in which the radiation has any relative
       spectral distribution, if the equivalent luminance of this field is known under
@@ -47,18 +39,6 @@ data:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - id: 103-06-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 103-06-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-095
     type: authoritative
   terms:
   - type: expression
@@ -70,8 +50,8 @@ data:
     designation: Leq
   - type: symbol
     normative_status: preferred
-    designation: Leq
+    designation: "<i>L</i><sub>eq</sub>"
   language_code: eng
   annotations: []
 termid: 17-397
-id: 5fb4b495-2c8c-5dae-9867-a9cf99790b25
+id: 12f7d89e-6410-5aa8-a1a7-82d432d88830

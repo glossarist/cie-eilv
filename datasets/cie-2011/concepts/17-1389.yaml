@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-008
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917165546/http://eilv.cie.co.at/term/1389
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-008
   type: authoritative
 status: valid
 id: af40cbd2-2186-544e-942b-ec6cac11c477
@@ -31,16 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-008
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: UV radiation
-  - type: symbol
     normative_status: preferred
     designation: UV radiation
   - type: symbol
@@ -49,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1389
-id: 1d3c1c81-c79a-535d-8802-ebd8db312a4f
+id: c2607834-fed0-5872-aa08-7fea54d4a548

@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-065
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820011057/http://eilv.cie.co.at/term/1337
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-065
   type: authoritative
 status: valid
 id: b8f1b9a0-b036-5151-80ba-0afd336c082a
@@ -28,18 +28,14 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r],
-      and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
+  - content: 'Transmittance, <i>τ</i>, is the sum of regular transmittance, <i>τ</i><sub>r</sub>,
+      and diffuse transmittance, <i>τ</i><sub>d</sub>: <i>τ</i> = <i>τ</i><sub>r</sub>
+      + <i>τ</i><sub>d</sub>.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-065
     type: authoritative
   terms:
   - type: expression
@@ -51,8 +47,8 @@ data:
     designation: τ
   - type: symbol
     normative_status: preferred
-    designation: τ
+    designation: "<i>τ</i>"
   language_code: eng
   annotations: []
 termid: 17-1337
-id: 50a195ce-de6c-5d51-9495-22470d0e7c8b
+id: 2a4d00e9-59b4-566e-87e1-c167cbcdc162

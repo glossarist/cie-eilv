@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-023
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101643/http://eilv.cie.co.at/term/54
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-023
   type: authoritative
 status: valid
 id: c9000209-7034-5f51-9db7-d6d68dce8176
@@ -35,18 +35,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-023
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: arc discharge
-  - type: symbol
-    normative_status: preferred
-    designation: electric arc, <in a gas or in a vapour>
   - type: symbol
     normative_status: preferred
     designation: electric arc, <in a gas or in a vapour>
@@ -56,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-54
-id: eccd912c-e25e-5e7c-aca0-4c1879983077
+id: 85f0389d-2f61-5c07-a1c5-7403ebd89496

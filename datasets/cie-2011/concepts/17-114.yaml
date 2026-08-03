@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-081
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20170611142021/http://eilv.cie.co.at/term/114
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-081
   type: authoritative
 status: valid
 id: 6f903ed2-f80a-5ae8-a881-972c5cca73aa
@@ -37,18 +37,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-081
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: Bunsen-Roscoe law
-  - type: symbol
-    normative_status: preferred
-    designation: reciprocity law
   - type: symbol
     normative_status: preferred
     designation: reciprocity law
@@ -58,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-114
-id: 02decaa8-493c-57fd-9c5a-281e878be91a
+id: f4bcf471-50cc-56d6-af18-bbf44569eb24

@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-040
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917121212/http://eilv.cie.co.at/term/209
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-040
   type: authoritative
 status: valid
 id: 3d5f5354-b199-5360-9aa3-7de2af64d831
@@ -32,7 +32,7 @@ data:
   notes:
   - content: 'In this equation, the sign ≡ indicates a colour match and is read as
       “matches”. The unbracketed symbols represent the amounts of the stimuli indicated
-      by the bracketed symbols: thus stem:[R][R] means stem:[R] units of stimulus
+      by the bracketed symbols: thus <i>R</i>[R] means <i>R</i> units of stimulus
       [R], and the sign + means an additive mixture of colour stimuli. In such an
       equation, a minus sign means that the stimulus is added to those on the other
       side of the equation when the colour match is made.'
@@ -40,18 +40,13 @@ data:
   - content: 'The reference stimuli are represented as [R], [G] and [B] in which case
       the sign ‘≡’, pronounced “matches” should be used. As an alternative the colour
       equation can be written using boldface Roman letters when the equal sign ‘=’,
-      pronounced “equals” should be used: <b>C</b>= stem:[X]<b>X</b> + stem:[Y]<b>Y</b>
-      + stem:[Z]<b>Z</b>.'
+      pronounced “equals” should be used: <b>C</b>= <i>X</i><b>X</b> + <i>Y</i><b>Y</b>
+      + <i>Z</i><b>Z</b>.'
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-040
     type: authoritative
   terms:
   - type: expression
@@ -60,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-209
-id: a9f7e422-f4d8-593a-a480-433cdbcebe45
+id: 18a82305-6cc8-57d1-ae77-be22d91d12b2

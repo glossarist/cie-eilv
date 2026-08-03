@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-086
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101416/http://eilv.cie.co.at/term/46
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-086
   type: authoritative
 status: valid
 id: 3effd96d-efeb-5f92-a170-9a1aa569d771
@@ -35,18 +35,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-086
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: aperture
-  - type: symbol
-    normative_status: preferred
-    designation: aperture stop
   - type: symbol
     normative_status: preferred
     designation: aperture stop
@@ -56,4 +48,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-46
-id: c4237ae4-5535-54b2-b979-c855d9cb687f
+id: 811fdcb0-eb1f-5a6d-855d-acb346745597

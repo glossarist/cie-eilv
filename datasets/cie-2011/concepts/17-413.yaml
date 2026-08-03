@@ -5,16 +5,16 @@ data:
   - concept_id: section-30
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-30-008
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120358/http://eilv.cie.co.at/term/413
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-30-008
   type: authoritative
 status: valid
 id: d10dce4d-d111-5bd1-bc7e-e7018a3fd4ab
@@ -32,11 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-30-008
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,10 +39,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: explosion-proof luminaire, US
-  - type: symbol
-    normative_status: preferred
-    designation: explosion-proof luminaire, US
   language_code: eng
   annotations: []
 termid: 17-413
-id: c9634cbf-cdb4-55ad-b4b6-3e8719dd6989
+id: ae924132-51e3-5997-86ea-2331721ee858

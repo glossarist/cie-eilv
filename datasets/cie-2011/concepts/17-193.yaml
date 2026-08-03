@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-042
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191228145720/http://eilv.cie.co.at/term/193
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-042
   type: authoritative
 status: valid
 id: bbbe89ff-6561-58de-b616-9399e2222897
@@ -25,19 +25,14 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: CIE stem:[XYZ] tristimulus values are colorimetric coordinates, as are
-      stem:[RGB] values that have an exact and invertible mathematical relationship
-      to CIE stem:[XYZ]tristimulus values.
+  - content: CIE <i>XYZ</i> tristimulus values are colorimetric coordinates, as are
+      <i>RGB</i> values that have an exact and invertible mathematical relationship
+      to CIE <i>XYZ</i>tristimulus values.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-042
     type: authoritative
   terms:
   - type: expression
@@ -46,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-193
-id: 8fa0a972-ffe7-5b1b-b844-4df78db46a62
+id: 121a2841-ad8e-5d50-986a-8661f6e6bef1

@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-008
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917122121/http://eilv.cie.co.at/term/328
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-008
   type: authoritative
 status: valid
 id: 2a566f4b-6ecd-5218-93a0-44e73650164a
@@ -26,18 +26,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The symbols stem:[theta], stem:[phi] are chosen here as an example of
-      the angular coordinates defining the given direction.
+  - content: The symbols <i>θ</i>, <i>φ</i> are chosen here as an example of the angular
+      coordinates defining the given direction.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-008
     type: authoritative
   terms:
   - type: expression
@@ -48,8 +43,8 @@ data:
     designation: ε; ε(θ, φ)
   - type: symbol
     normative_status: preferred
-    designation: ε; ε(θ, φ)
+    designation: "<i>ε</i>; <i>ε</i>(<i>θ</i>, <i>φ</i>)"
   language_code: eng
   annotations: []
 termid: 17-328
-id: eb377bdb-536f-5fa9-bdec-693793843b22
+id: 0d1c18cd-ced1-56ba-a86e-e98182874887

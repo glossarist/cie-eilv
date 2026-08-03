@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-049
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161624/http://eilv.cie.co.at/term/1303
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-049
   type: authoritative
 status: valid
 id: b82bb288-9138-548a-a293-7a68af776e20
@@ -31,18 +31,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-049
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: thermal detector of radiation
-  - type: symbol
-    normative_status: preferred
-    designation: thermal radiation detector
   - type: symbol
     normative_status: preferred
     designation: thermal radiation detector
@@ -52,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1303
-id: cf4adbcc-67ed-5b3c-9649-426fd46c404f
+id: b0a50b91-6cf7-5b4c-94b0-cb217fc2bd0e

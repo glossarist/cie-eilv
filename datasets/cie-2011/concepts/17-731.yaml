@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-094
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042400/http://eilv.cie.co.at/term/731
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-094
   type: authoritative
 status: valid
 id: 37d20dee-8337-57b7-a106-eca4e3c25859
@@ -49,11 +49,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-094
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,11 +61,8 @@ data:
       vision>
   - type: symbol
     normative_status: preferred
-    designation: V, <for photopic vision>; V′, <for scotopic vision>; Vmes;m , <for
-      mesopic vision>; V10 , <for the CIE 10° photopic photometric observer>; VM ,
-      <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic
-      vision>
+    designation: "<i>V</i>"
   language_code: eng
   annotations: []
 termid: 17-731
-id: 790212dd-f8f9-5778-bfe6-7b482a62e62c
+id: fb3ab7f0-4318-5e05-b8c5-938d6a26fd88

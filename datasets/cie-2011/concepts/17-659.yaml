@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-039
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191228145815/http://eilv.cie.co.at/term/659
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-039
   type: authoritative
 status: valid
 id: 28a0ebfb-f4dc-551a-acca-e93b32fe574d
@@ -38,11 +38,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-039
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -50,10 +45,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: perceived light
-  - type: symbol
-    normative_status: preferred
-    designation: perceived light
   language_code: eng
   annotations: []
 termid: 17-659
-id: 590abf66-e3a9-5056-a0dc-2f1b7b58b0cc
+id: 8091fad7-3c30-583c-a939-14dd50b0fbe3

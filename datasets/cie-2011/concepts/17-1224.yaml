@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-115
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823042220/http://eilv.cie.co.at/term/1224
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-115
   type: authoritative
 status: valid
 id: 6efa835c-7b26-5046-96ce-fbba5fa253ce
@@ -52,11 +52,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-115
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -66,8 +61,8 @@ data:
     designation: 'DEPRECATED: colour correction factor'
   - type: symbol
     normative_status: preferred
-    designation: 'DEPRECATED: colour correction factor'
+    designation: "<i>F</i>*"
   language_code: eng
   annotations: []
 termid: 17-1224
-id: c50f34bd-e925-5bb0-9612-cd1b6daebfaa
+id: 90d71b94-6609-55b1-aaf9-fecbce62cf04

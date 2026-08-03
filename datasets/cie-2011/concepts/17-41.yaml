@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-079
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102101522/http://eilv.cie.co.at/term/41
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-079
   type: authoritative
 status: valid
 id: 013106a5-9509-52be-8c80-1f83254c7d70
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-079
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,8 +40,8 @@ data:
     designation: angle of view
   - type: symbol
     normative_status: preferred
-    designation: angle of view
+    designation: "<i>α</i>"
   language_code: eng
   annotations: []
 termid: 17-41
-id: c1aee9fa-3c72-5315-b915-855565187d11
+id: 18788a1a-473b-51f8-a143-1dc303b1cf20

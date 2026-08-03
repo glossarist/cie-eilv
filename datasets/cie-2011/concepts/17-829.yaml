@@ -5,23 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-043
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818124641/http://eilv.cie.co.at/term/829
-  type: authoritative
-- id: 103-06-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 103-06-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-043
   type: authoritative
 status: valid
 id: 560afa4c-2d5e-5b48-a4fc-ae2d22cba448
@@ -33,7 +26,7 @@ data:
 
       stem:[N_p = ((Q_e))/((h nu))]
 
-      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the {{bib:103-06-02, frequency}} of the corresponding electromagnetic wave
+      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave
     type: intensional
   examples: []
   notes: []
@@ -41,18 +34,6 @@ data:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - id: 103-06-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 103-06-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-043
     type: authoritative
   terms:
   - type: expression
@@ -63,11 +44,11 @@ data:
     designation: number of photons
   - type: symbol
     normative_status: preferred
-    designation: number of photons
+    designation: "<i>N</i><sub>p</sub>; <i>Q</i><sub>p</sub>; <i>Q</i>"
   - type: expression
     normative_status: admitted
     designation: photon number
   language_code: eng
   annotations: []
 termid: 17-829
-id: 2747eb6b-a35a-59f5-9b21-537344fcd018
+id: e30faf3b-1b3c-539b-bf26-024a320581d2

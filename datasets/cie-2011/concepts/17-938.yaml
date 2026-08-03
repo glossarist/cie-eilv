@@ -5,16 +5,16 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-016
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917161533/http://eilv.cie.co.at/term/938
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-016
   type: authoritative
 status: valid
 id: 64a23549-b2af-5afa-b6bf-c9e4b261b263
@@ -26,7 +26,7 @@ data:
   examples: []
   notes:
   - content: Photopic vision normally occurs when the eye is adapted to levels of
-      luminance of at least 5 cd·m^-2^.
+      luminance of at least 5 cd·m<sup>-2</sup>.
     type: intensional
   - content: Colour perception is typical of photopic vision.
     type: intensional
@@ -35,11 +35,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-016
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -47,4 +42,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-938
-id: 47062493-e869-546d-ae03-6ff599f40cd5
+id: 5b403672-05f6-5a2c-9a94-a8afc8e66227

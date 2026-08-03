@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-071
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823045314/http://eilv.cie.co.at/term/1021
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-071
   type: authoritative
 status: valid
 id: e11c8b8c-39b5-5117-be86-5bcc8302ba14
@@ -32,17 +32,12 @@ data:
   notes:
   - content: The quantity “exposure” here defined must not be confused with the quantity
       also named “exposure” which is used in the field of X- and γ-rays, the unit
-      of which is coulomb per kilogram (C·kg^-1^).
+      of which is coulomb per kilogram (C·kg<sup>-1</sup>).
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-071
     type: authoritative
   terms:
   - type: expression
@@ -53,8 +48,8 @@ data:
     designation: He; H
   - type: symbol
     normative_status: preferred
-    designation: He; H
+    designation: "<i>H</i><sub>e</sub>"
   language_code: eng
   annotations: []
 termid: 17-1021
-id: 926fb043-3324-5455-8104-ab67aa64ce71
+id: 4274d289-c8f6-5161-ae99-c124828f54d0

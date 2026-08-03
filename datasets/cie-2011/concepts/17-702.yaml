@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-032
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823051107/http://eilv.cie.co.at/term/702
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-032
   type: authoritative
 status: valid
 id: 63ba0eac-c7af-5d29-b8e7-f8346c552d4d
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-032
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: low-pressure sodium vapour lamp
-  - type: symbol
-    normative_status: preferred
-    designation: low-pressure sodium vapour lamp
   language_code: eng
   annotations: []
 termid: 17-702
-id: 968f2330-0166-53d8-8ff4-c5249040adef
+id: 8ef68f78-8f8b-50f9-a03d-fc17327a5674

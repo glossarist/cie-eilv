@@ -5,16 +5,16 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-23-055
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190823052348/http://eilv.cie.co.at/term/1211
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-23-055
   type: authoritative
 status: valid
 id: cdf3e76d-16c2-5a09-ac14-2b72bf1ab7b1
@@ -30,11 +30,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-23-055
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,8 +39,11 @@ data:
     designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
   - type: symbol
     normative_status: preferred
-    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+    designation: "<i>r</i>(<i>λ</i>), <i>g</i>(<i>λ</i>), b(<i>λ</i>); <i>x</i>(<i>λ</i>),
+      <i>y</i>(<i>λ</i>), <i>z</i>(<i>λ</i>); <i>r</i><sub>10</sub>(<i>λ</i>), <i>g</i><sub>10</sub>(<i>λ</i>),
+      <i>b</i><sub>10</sub>(<i>λ</i>); <i>x</i><sub>10</sub>(<i>λ</i>), <i>y</i><sub>10</sub>(<i>λ</i>),
+      <i>z</i><sub>10</sub>(<i>λ</i>)"
   language_code: eng
   annotations: []
 termid: 17-1211
-id: e5161fc7-eb8f-5940-8290-5bd16420c16c
+id: badfc4bc-956a-5b5d-93d5-07d3cb387981

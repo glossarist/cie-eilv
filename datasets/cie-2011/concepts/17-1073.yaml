@@ -5,33 +5,26 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-108
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190915163217/http://eilv.cie.co.at/term/1073
   type: authoritative
-- id: 121-11-63
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 121-11-63
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=121-11-63
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-108
-  type: authoritative
 status: valid
 id: 4062b241-7ca9-5d32-b77e-c61b4d2be3c9
 ---
 data:
   definition:
-  - content: process by which the direction of propagation of an {{bib:121-11-63,
-      electromagnetic wave}} is changed as a result of changes in its velocity of
-      propagation in passing through an optically non-homogeneous medium, or in crossing
-      a surface separating media with different refractive indexes
+  - content: process by which the direction of propagation of an electromagnetic wave
+      is changed as a result of changes in its velocity of propagation in passing
+      through an optically non-homogeneous medium, or in crossing a surface separating
+      media with different refractive indexes
     type: intensional
   examples: []
   notes: []
@@ -40,18 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 121-11-63
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 121-11-63
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=121-11-63
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-108
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -59,4 +40,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1073
-id: 83c61309-2151-59e1-ada0-764715f2e0d0
+id: a9a0af93-7dec-50a4-8932-6d0bb3df8af0

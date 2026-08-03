@@ -5,16 +5,16 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-31-067
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20150426173003/http://eilv.cie.co.at/term/526
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-31-067
   type: authoritative
 status: valid
 id: e1df4425-1526-55bc-be47-16b01fc4b384
@@ -32,11 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-31-067
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -44,10 +39,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: low-beam headlight
-  - type: symbol
-    normative_status: preferred
-    designation: low-beam headlight
   language_code: eng
   annotations: []
 termid: 17-526
-id: 177c0d41-6cba-5737-8aa9-fc18491bfba3
+id: 650bd449-8b83-53c8-9aba-bac0ecce4637

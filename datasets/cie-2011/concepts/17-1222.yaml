@@ -5,16 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-035
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20191102123634/http://eilv.cie.co.at/term/1222
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-035
   type: authoritative
 status: valid
 id: b52d3014-48d5-5fd5-ba47-9911cde21363
@@ -94,16 +94,11 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-035
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: spectral luminous efficiency (of a monochromatic radiation of wavelength
-      stem:[lambda])
+      <i>λ</i>)
   - type: symbol
     normative_status: preferred
     designation: V(λ), <for photopic vision>; V′(λ), <for scotopic vision>; Vmes;m(λ),
@@ -112,11 +107,9 @@ data:
       photopic vision>
   - type: symbol
     normative_status: preferred
-    designation: V(λ), <for photopic vision>; V′(λ), <for scotopic vision>; Vmes;m(λ),
-      <for mesopic vision>; V10(λ), <for the CIE 10° photopic photometric observer>;
-      VM(λ), <for the CIE 1988 modified 2° spectral luminous efficiency function for
-      photopic vision>
+    designation: "<i>V</i>(<i>λ</i>) for photopic vision; <i>V</i>'(<i>λ</i>) for
+      scotopic vision"
   language_code: eng
   annotations: []
 termid: 17-1222
-id: c1de7461-39f8-5fd8-a737-387fc57592f8
+id: 62e87267-382c-5df8-a1c3-ecd2cdc401f0

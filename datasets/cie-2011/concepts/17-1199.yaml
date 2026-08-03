@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-125
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820005517/http://eilv.cie.co.at/term/1199
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-125
   type: authoritative
 status: valid
 id: 23dac94f-2515-50e0-b91e-69659da50c3f
@@ -27,18 +27,13 @@ data:
   examples: []
   notes:
   - content: |-
-      This ratio is the sum of 2 quantities: the radiant transmittance, stem:[tau_e], of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], to the solar radiant energy, stem:[Q_1], incident on the glazing:
-      stem:[g] = stem:[tau_e] + stem:[Q_2]/ stem:[Q_1].
+      This ratio is the sum of 2 quantities: the radiant transmittance, <i>τ</i><sub>e</sub>, of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, <i>Q</i><sub>2</sub>, to the solar radiant energy, <i>Q</i><sub>1</sub>, incident on the glazing:
+      <i>g</i> = <i>τ</i><sub>e</sub> + <i>Q</i><sub>2</sub>/ <i>Q</i><sub>1</sub>.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-125
     type: authoritative
   terms:
   - type: expression
@@ -49,11 +44,11 @@ data:
     designation: total transmittance, <of glazing material>
   - type: symbol
     normative_status: preferred
-    designation: total transmittance, <of glazing material>
+    designation: "<i>g</i>"
   - type: expression
     normative_status: admitted
     designation: total (energy) transmittance
   language_code: eng
   annotations: []
 termid: 17-1199
-id: 899a94c6-dcaa-59f8-8507-746968a87098
+id: 300789ae-0e90-59ae-9ced-ef60d06ae6c7

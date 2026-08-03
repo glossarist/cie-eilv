@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-095
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916130048/http://eilv.cie.co.at/term/363
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-095
   type: authoritative
 status: valid
 id: d7a2a925-a20c-5b33-8613-12059fdaa177
@@ -31,18 +31,13 @@ data:
       between specular component included and excluded measurements.
     type: intensional
   - content: |-
-      This geometry is restricted to measurements using an integrating sphere as described in CIE 15 stem:[Colorimetry].
-      See also CIE 15 stem:[Colorimetry](section 5)
+      This geometry is restricted to measurements using an integrating sphere as described in CIE 15 <i>Colorimetry</i>.
+      See also CIE 15 <i>Colorimetry</i>(section 5)
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-095
     type: authoritative
   terms:
   - type: expression
@@ -51,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-363
-id: 3e7d2dfe-7dc6-5193-b617-a8b22376d42c
+id: 3732a434-559d-5b12-9a08-070e9cbbc2bd

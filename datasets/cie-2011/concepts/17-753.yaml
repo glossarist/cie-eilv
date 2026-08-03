@@ -5,23 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-146
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818131805/http://eilv.cie.co.at/term/753
-  type: authoritative
-- id: 113-01-10
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-01-10
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-146
   type: authoritative
 status: valid
 id: e6f9d071-521b-5425-b17c-7d6cf023992b
@@ -29,8 +22,8 @@ id: e6f9d071-521b-5425-b17c-7d6cf023992b
 data:
   definition:
   - content: quotient of illuminance produced by the lighting installation after a
-      certain {{bib:113-01-10, time interval}} and the illuminance produced by the
-      installation when new
+      certain time interval and the illuminance produced by the installation when
+      new
     type: intensional
   examples: []
   notes:
@@ -46,18 +39,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-01-10
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-01-10
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-10
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-146
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -67,8 +48,8 @@ data:
     designation: MF
   - type: symbol
     normative_status: preferred
-    designation: MF
+    designation: "<i>f</i><sub>m</sub>"
   language_code: eng
   annotations: []
 termid: 17-753
-id: 94451d82-b53a-5b0f-b01b-9c4357be899a
+id: 70cef374-9000-53c4-bc37-845e016aa9bb

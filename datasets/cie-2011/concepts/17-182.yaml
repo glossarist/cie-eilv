@@ -5,16 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-103
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20171002145627/http://eilv.cie.co.at/term/182
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-103
   type: authoritative
 status: valid
 id: f62ff6bf-69e6-5877-942f-faba94611d57
@@ -33,17 +33,12 @@ data:
   - content: This quantity is particularly suitable for describing materials in sheet
       form.
     type: intensional
-  - content: Formerly the symbol stem:[R]' was used for this quantity.
+  - content: Formerly the symbol <i>R</i>' was used for this quantity.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-103
     type: authoritative
   terms:
   - type: expression
@@ -54,8 +49,8 @@ data:
     designation: RA
   - type: symbol
     normative_status: preferred
-    designation: RA
+    designation: "<i>R</i><i><sub>A</sub></i>"
   language_code: eng
   annotations: []
 termid: 17-182
-id: 5fbaea62-3250-5abf-a1c9-2336f99a10e3
+id: 1901d82c-59b7-5c70-8b26-7b198a829ff9

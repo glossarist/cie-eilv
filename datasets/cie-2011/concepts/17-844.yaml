@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-106
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916121151/http://eilv.cie.co.at/term/844
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-106
   type: authoritative
 status: valid
 id: 05c27622-ed95-5bd1-9e91-e0838c61a760
@@ -33,11 +33,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-106
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -45,10 +40,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: optical depth, <of the atmosphere>
-  - type: symbol
-    normative_status: preferred
-    designation: optical depth, <of the atmosphere>
   language_code: eng
   annotations: []
 termid: 17-844
-id: 973a4b3f-47c7-5e92-a19e-e1c4e424da4e
+id: 6d2a2cc9-62ef-5b6e-8291-215f947be6b0

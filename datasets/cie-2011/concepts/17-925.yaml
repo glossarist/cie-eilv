@@ -19,7 +19,7 @@ data:
   - content: |-
       See NOTE 2 to "{{17-1028, radiant spherical exposure (at a point, for a given duration)}}"
 
-      Unit: m^-2^
+      Unit: m<sup>-2</sup>
     type: intensional
   examples: []
   notes: []
@@ -34,8 +34,8 @@ data:
     designation: photon fluence (at a point, for a given exposure duration)
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(p,o)]
+    designation: "<i>H</i><sub>p,o</sub>"
   language_code: eng
   annotations: []
 termid: 17-925
-id: 7006f56c-bd04-51e3-ad3f-fe844edf8142
+id: 7b9c5f91-d55d-5074-b0c4-4f4a0fad341d

@@ -5,31 +5,24 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-22-093
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190917121703/http://eilv.cie.co.at/term/480
   type: authoritative
-- id: 103-06-02
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 103-06-02
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-22-093
-  type: authoritative
 status: valid
 id: 9aac39b5-9954-5b2c-9080-005057dcc6a7
 ---
 data:
   definition:
-  - content: for a given set of conditions, the {{bib:103-06-02, frequency}} of alternation
-      of stimuli above which flicker is not perceptible
+  - content: for a given set of conditions, the frequency of alternation of stimuli
+      above which flicker is not perceptible
     type: intensional
   examples: []
   notes: []
@@ -38,23 +31,8 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 103-06-02
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 103-06-02
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-22-093
-    type: authoritative
   terms:
   - type: expression
-    normative_status: preferred
-    designation: fusion frequency
-  - type: symbol
     normative_status: preferred
     designation: fusion frequency
   - type: symbol
@@ -63,4 +41,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-480
-id: 8f1d4323-5bf2-5b6c-8be0-f87d3134391e
+id: 30b1aaab-5f3c-5c9e-ba94-d36f6a7e71d2

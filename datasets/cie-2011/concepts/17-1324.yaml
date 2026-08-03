@@ -5,16 +5,16 @@ data:
   - concept_id: section-29
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-29-107
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820004530/http://eilv.cie.co.at/term/1324
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-29-107
   type: authoritative
 status: valid
 id: 95f21965-6f9f-52c9-b50e-9d638fb85e55
@@ -32,11 +32,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-29-107
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -46,8 +41,8 @@ data:
     designation: total turbidity factor
   - type: symbol
     normative_status: preferred
-    designation: total turbidity factor
+    designation: "<i>T</i><sub>L</sub>"
   language_code: eng
   annotations: []
 termid: 17-1324
-id: 32881992-1775-59a7-8039-4540cbb006de
+id: 770517dc-d6ca-57a3-9ad6-e2ee6ae3f033

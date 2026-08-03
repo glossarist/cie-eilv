@@ -5,16 +5,16 @@ data:
   - concept_id: section-27
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-27-016
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190916120715/http://eilv.cie.co.at/term/483
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-27-016
   type: authoritative
 status: valid
 id: d14ed27e-dbc9-50ba-8069-b78540f291b6
@@ -31,11 +31,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-27-016
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -43,10 +38,7 @@ data:
   - type: symbol
     normative_status: preferred
     designation: gas-filled incandescent lamp
-  - type: symbol
-    normative_status: preferred
-    designation: gas-filled incandescent lamp
   language_code: eng
   annotations: []
 termid: 17-483
-id: 41c9b20e-86b9-5147-bc4c-e9b498577d20
+id: e9c64e22-d1c7-56ff-8cc8-c2876035385c

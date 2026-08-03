@@ -5,23 +5,16 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-24-005
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820010140/http://eilv.cie.co.at/term/958
-  type: authoritative
-- id: 113-01-34
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-01-34
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-24-005
   type: authoritative
 status: valid
 id: b74dee28-6c69-566c-abf2-a157f23416d1
@@ -33,7 +26,7 @@ data:
 
       stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
 
-      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the {{bib:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant
+      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the speed of light in vacuum, and stem:[k] is the Boltzmann constant
     type: intensional
   examples: []
   notes:
@@ -51,9 +44,8 @@ data:
   - content: Both quantities (radiance and radiant exitance) apply to the unpolarized
       radiation as emitted.
     type: intensional
-  - content: For the up-to-date values of the Planck constant, stem:[h], the {{bib:113-01-34,
-      speed of light in vacuum}}, stem:[c_0], and the Boltzmann constant, stem:[k],
-      see CODATA.
+  - content: For the up-to-date values of the Planck constant, stem:[h], the speed
+      of light in vacuum, stem:[c_0], and the Boltzmann constant, stem:[k], see CODATA.
     type: intensional
   - content: This entry was numbered 845-04-05 in IEC 60050-845:1987.
     type: intensional
@@ -64,18 +56,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-01-34
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-01-34
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-24-005
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -83,4 +63,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-958
-id: c6d6ad97-098c-5cda-9cff-22be0e9a0572
+id: ef000fa1-bc9c-5b15-a9a0-432ccbb7076f

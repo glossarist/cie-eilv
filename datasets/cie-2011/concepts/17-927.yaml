@@ -5,23 +5,16 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-21-040
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190820015808/http://eilv.cie.co.at/term/927
-  type: authoritative
-- id: 113-01-34
-  origin:
-    ref:
-      source: IEC 60050 (IEV)
-      id: 113-01-34
-    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-21-040
   type: authoritative
 status: valid
 id: 9b5c8cd2-80ec-54b0-a5a1-e75ebf1f30e1
@@ -49,7 +42,7 @@ data:
       flux can be expressed by stem:[Phi_p = int_0^(oo) ((d Phi_e ( lambda )))/((d
       lambda)) * (lambda)/((h c_0)) d lambda = int_0^(oo) ((d Phi_e ( nu )))/((d nu))
       * (1)/((h nu)) d nu], where stem:[h] is Planck's constant and stem:[c_0] is
-      the {{bib:113-01-34, speed of light in vacuum}}.
+      the speed of light in vacuum.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant flux". The corresponding
       photometric quantity is "luminous flux".
@@ -65,18 +58,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - id: 113-01-34
-    origin:
-      ref:
-        source: IEC 60050 (IEV)
-        id: 113-01-34
-      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
-    type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-21-040
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -86,8 +67,8 @@ data:
     designation: Φp; Φ
   - type: symbol
     normative_status: preferred
-    designation: Φp; Φ
+    designation: "<i>Φ</i><sub>p</sub>"
   language_code: eng
   annotations: []
 termid: 17-927
-id: 229ecd1a-518a-59fc-84cc-d47b2400457f
+id: '09460a72-1e40-5fcf-8148-0f3d7707ac2a'

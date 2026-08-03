@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-039
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922040317/http://eilv.cie.co.at/term/900
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-039
   type: authoritative
 status: valid
 id: 00f04966-a5a8-5325-910e-d718cc2170c3
@@ -31,18 +31,10 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-039
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
     designation: photoemissive cell
-  - type: symbol
-    normative_status: preferred
-    designation: phototube
   - type: symbol
     normative_status: preferred
     designation: phototube
@@ -52,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-900
-id: c984505c-4090-5206-b9f6-b84bec492472
+id: 882238ae-cea4-5bd4-939f-807cea64a17d

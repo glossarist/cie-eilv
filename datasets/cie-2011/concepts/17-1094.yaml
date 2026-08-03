@@ -5,16 +5,16 @@ data:
   - concept_id: section-25
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-25-061
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190818134136/http://eilv.cie.co.at/term/1094
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-25-061
   type: authoritative
 status: valid
 id: ed3a66aa-c7bd-5dae-988e-8f9fde469f6a
@@ -43,11 +43,6 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-25-061
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
@@ -57,8 +52,8 @@ data:
     designation: 'DEPRECATED: sensitivity'
   - type: symbol
     normative_status: preferred
-    designation: 'DEPRECATED: sensitivity'
+    designation: "<i>s</i>"
   language_code: eng
   annotations: []
 termid: 17-1094
-id: 031acb14-f848-5390-bbcc-f6214bf0005f
+id: ee39b175-9374-5e29-ae22-2d22b72bada3

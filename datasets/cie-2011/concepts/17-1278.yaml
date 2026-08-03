@@ -5,16 +5,16 @@ data:
   - concept_id: section-26
     source: urn:cie:ilv:cie-2011
     ref_type: section
+related:
+- type: superseded_by
+  ref:
+    source: CIE S 017:2020
+    id: 17-26-074
 sources:
 - origin:
     ref:
       source: CIE S 017:2011
     link: https://web.archive.org/web/20190922162556/http://eilv.cie.co.at/term/1278
-  type: authoritative
-- origin:
-    ref:
-      source: CIE S 017:2020
-      id: 17-26-074
   type: authoritative
 status: valid
 id: 4c1fe2d3-b8f0-57df-ae25-486978818dde
@@ -27,8 +27,8 @@ data:
   examples: []
   notes:
   - content: |-
-      The sun protection factor is determined by comparing the dose of solar simulated ultraviolet radiation required to produce just-perceptible erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (stem:[F_(MED,f)] and stem:[F_(MED,i)], respectively) and is calculated as follows:
-      stem:[F_(SP)]= stem:[F_(MED,f)] / stem:[F_(MED,i)].
+      The sun protection factor is determined by comparing the dose of solar simulated ultraviolet radiation required to produce just-perceptible erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (<i>F</i><sub>MED,f</sub> and <i>F</i><sub>MED,i</sub>, respectively) and is calculated as follows:
+      <i>F</i><sub>SP</sub>= <i>F</i><sub>MED,f</sub> / <i>F</i><sub>MED,i</sub>.
     type: intensional
   - content: |-
       The sun protection factor may also be determined by equivalent in vitro methods.
@@ -39,22 +39,17 @@ data:
       ref:
         source: CIE S 017:2011
     type: authoritative
-  - origin:
-      ref:
-        source: CIE S 017:2020
-        id: 17-26-074
-    type: authoritative
   terms:
   - type: expression
     normative_status: preferred
-    designation: sun protection factor
+    designation: sun protection factor <i>
   - type: symbol
     normative_status: preferred
     designation: SPF
   - type: symbol
     normative_status: preferred
-    designation: SPF
+    designation: F</i><sub>SP</sub>
   language_code: eng
   annotations: []
 termid: 17-1278
-id: 0267204e-62a3-52db-9497-13506c3c8a87
+id: 18839825-559c-52cb-a602-a9a890608d1c
