@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: The total cloud amount has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-92, 845-09-92}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-92, 845-09-92}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1321 in CIE S 017:2011.
     type: intensional
@@ -75,4 +75,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-116
-id: 3c991949-80f4-5bac-9ee1-8e4e0cb0bc25
+id: 0bf8f5b7-fe7d-5ba4-adc1-540385a145ed

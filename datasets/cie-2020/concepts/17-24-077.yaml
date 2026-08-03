@@ -48,7 +48,7 @@ data:
     type: intensional
   - content: The luminance factor has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-69, 845-04-69}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-69, 845-04-69}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-717 in CIE S 017:2011.
     type: intensional
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-077
-id: e5a5f3ac-cc93-56ba-863e-519168a423c9
+id: 39b2e248-b2be-5a8f-b7f1-b23c13fb365b

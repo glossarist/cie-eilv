@@ -40,7 +40,7 @@ data:
       current, to prevent cold starting, to reduce stroboscopic effect, to correct
       the power factor and to suppress radio interference.
     type: intensional
-  - content: This entry was numbered {{bib:845-08-34, 845-08-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-08-34, 845-08-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-73 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-28-044
-id: c12153c7-ec81-5d09-ac82-bff6af00fcdc
+id: 1c8114be-2f21-598d-8698-e37012b4b929

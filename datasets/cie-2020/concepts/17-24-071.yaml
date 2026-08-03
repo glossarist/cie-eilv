@@ -37,7 +37,7 @@ data:
   notes:
   - content: The reflectance optical density has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-65, 845-04-65}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-65, 845-04-65}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1061 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-071
-id: 2fe3a9e4-3b74-5a87-a257-72d440b139f6
+id: 6e7bb778-c68e-57ef-921d-09daf3ca27d3

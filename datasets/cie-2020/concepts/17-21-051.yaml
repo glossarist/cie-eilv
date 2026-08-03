@@ -79,7 +79,7 @@ data:
   - content: The photon radiance is expressed in second to the power minus one per
       square metre per steradian (s^−1^·m^−2^·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-36, 845-01-36}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-36, 845-01-36}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-931 in CIE S 017:2011.
     type: intensional
@@ -115,4 +115,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-051
-id: ecac4b65-0cd5-57a0-8197-1bf7df6a1a15
+id: 3fd31a51-066a-5d0c-99ce-3f38c4843f15

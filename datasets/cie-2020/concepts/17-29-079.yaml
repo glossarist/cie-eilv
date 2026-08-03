@@ -36,7 +36,7 @@ data:
   - content: The area can be either the whole area of the working plane in an interior
       or the working areas.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-60, 845-09-60}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-60, 845-09-60}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1166 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-079
-id: 527fcc9e-7456-5987-98cd-55452f452e9e
+id: a8dcce59-34b1-5106-8795-ebf2e9e14553

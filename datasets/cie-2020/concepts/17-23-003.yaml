@@ -41,7 +41,7 @@ data:
       or the spectral radiance factor, stem:[beta](stem:[lambda]), or the spectral
       transmittance, stem:[tau](stem:[lambda]), depending on the application.
     type: intensional
-  - content: This entry was numbered {{bib:845-03-03, 845-03-03}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-03, 845-03-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-230 in CIE S 017:2011.
     type: intensional
@@ -77,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-003
-id: 93ccc43d-1714-50f5-b4d8-5c50e0092111
+id: ec7f783a-129f-5ad6-a8c9-a3853b376c11

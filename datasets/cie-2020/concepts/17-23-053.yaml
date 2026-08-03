@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The chromaticity coordinates have unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-03-33, 845-03-33}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-33, 845-03-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-145 in CIE S 017:2011.
     type: intensional
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-053
-id: ddc799cb-2699-5403-b006-3318251b43c8
+id: 8eec7846-6a28-5feb-a59a-9992a4197bd1

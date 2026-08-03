@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: The fall time is expressed in seconds (s).
     type: intensional
-  - content: This entry was numbered {{bib:845-05-61, 845-05-61}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-61, 845-05-61}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-427 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-068
-id: 8290d612-6bbc-5187-9897-45b0574f0f1e
+id: cd8fffe5-9135-5dba-a4f5-14eff52297c5

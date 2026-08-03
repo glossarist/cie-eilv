@@ -33,7 +33,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{bib:845-05-01, 845-05-01}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-01, 845-05-01}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-983 in CIE S 017:2011.
     type: intensional
@@ -66,4 +66,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-001
-id: dec88bb4-06bd-5e3c-a43b-c7f461b70b81
+id: b440dfe1-c0e6-5f1d-b627-6e385817b83b

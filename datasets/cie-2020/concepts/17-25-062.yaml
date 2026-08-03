@@ -37,7 +37,7 @@ data:
   notes:
   - content: The relative responsivity has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-05-55, 845-05-55}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-55, 845-05-55}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1083 in CIE S 017:2011.
     type: intensional
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-062
-id: 50218fa7-cadd-5628-8855-948ffcb5f25c
+id: c6afd73a-85d1-524b-8226-2e4936d92353

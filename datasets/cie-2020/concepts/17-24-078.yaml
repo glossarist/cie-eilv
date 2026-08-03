@@ -44,7 +44,7 @@ data:
   - content: The radiance coefficient is expressed in steradian to the power minus
       one (sr^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-04-70, 845-04-70}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-70, 845-04-70}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1013 in CIE S 017:2011.
     type: intensional
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-078
-id: 3889a126-fc34-5817-9715-a81a99d4a263
+id: '087405f2-bf8e-5eca-a6dd-e96ab2f4b2c2'

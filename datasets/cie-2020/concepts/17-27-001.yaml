@@ -30,7 +30,7 @@ data:
   - content: A light source can be self-emitting (primary light source) or non-self-emitting
       (secondary light source).
     type: intensional
-  - content: See also Note 1 to entry of IEV {{bib:845-27-004, 845-27-004}}.
+  - content: See also Note 1 to entry of IEV {{cite:845-27-004, 845-27-004}}.
     type: intensional
   sources:
   - origin:
@@ -51,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-001
-id: b39d848c-7533-52fa-ac5d-6807a8dcda5f
+id: 31cee77c-e496-56a0-8b19-24d32a4b0989

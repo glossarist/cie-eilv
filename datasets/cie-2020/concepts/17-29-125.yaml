@@ -44,7 +44,7 @@ data:
     type: intensional
   - content: The solar factor has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-106, 845-09-106}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-106, 845-09-106}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1199 and 17-1322 in CIE S 017:2011.
     type: intensional
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-125
-id: d976ac82-1ee4-57a7-9a7c-6c04008eb55e
+id: 3c138148-0717-5d20-b090-9ab5136f6f06

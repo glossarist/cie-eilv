@@ -40,7 +40,7 @@ data:
   - content: The Napierian spectral absorption coefficient is expressed in metre to
       the power minus one (m^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-04-85, 845-04-85}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-85, 845-04-85}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-799 in CIE S 017:2011.
     type: intensional
@@ -77,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-092
-id: c2c817f5-badb-5b9d-b607-cc91f2bcf715
+id: 8f3bfc39-9502-5ecb-a549-91a16c20462e

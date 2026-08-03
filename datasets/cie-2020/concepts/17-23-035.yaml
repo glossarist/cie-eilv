@@ -37,7 +37,7 @@ data:
   notes:
   - content: The validity of Abney's law depends strongly on the observing conditions.
     type: intensional
-  - content: This entry was numbered {{bib:845-03-19, 845-03-19}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-19, 845-03-19}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-2 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-035
-id: 98abb38b-6a2b-58ea-9a59-386505c73c9b
+id: 1c81fe34-aacf-5342-8aa0-01cf8d95ad67

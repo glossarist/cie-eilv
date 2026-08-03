@@ -41,7 +41,7 @@ data:
   - content: Besides scattering, a diffuser can also have a slight reflection and
       absorption effect.
     type: intensional
-  - content: This entry was numbered {{bib:845-10-34, 845-10-34}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-34, 845-10-34}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-310 in CIE S 017:2011.
     type: intensional
@@ -74,4 +74,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-039
-id: f3d5214d-a369-5171-a800-05700a3cb140
+id: f975d2a0-6af4-5f4f-b4fb-2e8025adafda

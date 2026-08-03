@@ -41,7 +41,7 @@ data:
   - content: The coefficient of retroreflected luminance is expressed in candela per
       square metre per lux (cd·m^−2^·lx^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-04-98, 845-04-98}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-98, 845-04-98}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-181 in CIE S 017:2011.
     type: intensional
@@ -77,4 +77,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-104
-id: 0eb56d2f-c0a1-5d9a-b936-6c164eae4cfd
+id: 7c09e368-6f62-5992-b395-d269839dcd22

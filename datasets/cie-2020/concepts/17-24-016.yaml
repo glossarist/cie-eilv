@@ -35,7 +35,7 @@ data:
   notes:
   - content: The radiance temperature is expressed in kelvin (K).
     type: intensional
-  - content: This entry was numbered {{bib:845-04-13, 845-04-13}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-13, 845-04-13}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1016 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-016
-id: 62317066-b579-5c72-919e-a5d929ea5c62
+id: a37451e6-4a92-5053-8d42-3fcb5740ab02

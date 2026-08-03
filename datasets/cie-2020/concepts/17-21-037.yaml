@@ -60,7 +60,7 @@ data:
   - content: The luminous energy is expressed in lumen second (lm·s) or lumen hour
       (lm·h).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-28, 845-01-28}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-28, 845-01-28}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-733 and 17-1007 in CIE S 017:2011.
     type: intensional
@@ -96,4 +96,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-037
-id: 2434c5c8-d049-57e5-a255-abe430f1fa7f
+id: d190bc73-d554-5978-8128-09c4ba365f5b

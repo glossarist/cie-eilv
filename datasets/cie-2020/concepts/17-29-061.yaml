@@ -36,7 +36,7 @@ data:
   - content: The installation flux density is expressed in lumen per square metre
       (lm·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-09-48, 845-09-48}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-48, 845-09-48}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-586 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-061
-id: c605c31d-2da3-5573-a07e-b2bc7e785f0d
+id: '091f8bcd-932d-5fda-a33d-2d6f48a82fe3'

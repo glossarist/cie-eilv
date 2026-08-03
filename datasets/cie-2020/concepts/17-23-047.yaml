@@ -44,7 +44,7 @@ data:
   - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
       Observers_.'
     type: intensional
-  - content: This entry was numbered {{bib:845-03-30, 845-03-30}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-30, 845-03-30}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-163 in CIE S 017:2011.
     type: intensional
@@ -86,4 +86,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-047
-id: 2e8cbf41-ba23-5db8-a0b7-899f7e41533b
+id: a044cd3f-05db-56eb-8e6e-fb2ac0ce21bb

@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: The externally reflected component of daylight factor has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-09-99, 845-09-99}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-99, 845-09-99}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-422 in CIE S 017:2011.
     type: intensional
@@ -78,4 +78,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-123
-id: f4bc0e3c-844c-575c-8daa-93075df4b9c8
+id: 2f37af48-9df2-5a07-be5a-a562171e3843

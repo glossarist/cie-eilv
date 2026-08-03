@@ -43,7 +43,7 @@ data:
   notes:
   - content: Grassman's laws do not hold for all observing conditions.
     type: intensional
-  - content: This entry was numbered {{bib:845-03-17, 845-03-17}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-17, 845-03-17}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-506 in CIE S 017:2011.
     type: intensional
@@ -85,4 +85,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-033
-id: 947a202a-9ef9-525d-afc9-8b6d0a3cfaf0
+id: 40b53a41-d4d5-52e5-987c-1cfb23e08571

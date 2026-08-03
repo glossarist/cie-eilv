@@ -52,7 +52,7 @@ data:
     type: intensional
   - content: The geometric extent is expressed in square metre times steradian (m^2^·sr).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-33, 845-01-33}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-33, 845-01-33}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-489 in CIE S 017:2011.
     type: intensional
@@ -88,4 +88,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-047
-id: 393624b6-1ae2-5637-ac0e-d62d416e6f0c
+id: 55c6eb37-8c2a-5ed1-b5e3-0ef407326fec

@@ -40,14 +40,14 @@ data:
   examples: []
   notes:
   - content: 1 lm is equal to the luminous flux of a beam of {{17-21-014, monochromatic
-      radiation}} whose {{bib:103-06-02, frequency}} is 540 × 10^12^ Hz and whose
+      radiation}} whose {{cite:103-06-02, frequency}} is 540 × 10^12^ Hz and whose
       radiant flux is 1/683 W.
     type: intensional
   - content: According to the 9^th^ General Conference of Weights and Measures (1948),
       the lumen is defined as the luminous flux emitted in unit solid angle (steradian)
       by a {{17-21-098, uniform point source}} having a luminous intensity of 1 cd.
     type: intensional
-  - content: This entry was numbered {{bib:845-01-51, 845-01-51}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-51, 845-01-51}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-704 in CIE S 017:2011.
     type: intensional
@@ -90,4 +90,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-084
-id: 760adcab-14a8-59f2-ba9a-2a19033a3178
+id: 5c116ea3-6211-548f-9129-47fb10358239

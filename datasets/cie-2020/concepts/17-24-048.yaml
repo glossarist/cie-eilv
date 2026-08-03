@@ -35,12 +35,12 @@ id: fb2012b5-2f0e-55e5-b96a-ccf644147b0e
 ---
 data:
   definition:
-  - content: passage of radiation through a medium without change in {{bib:103-06-02,
+  - content: passage of radiation through a medium without change in {{cite:103-06-02,
       frequency}} of its monochromatic components
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{bib:845-04-43, 845-04-43}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-43, 845-04-43}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1336 in CIE S 017:2011.
     type: intensional
@@ -80,4 +80,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-048
-id: e03d3425-d372-54da-b366-d4995ffab157
+id: 86bd6f8e-2f82-5dcc-80a3-b7343249d68e

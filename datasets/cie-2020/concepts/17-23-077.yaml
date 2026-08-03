@@ -45,7 +45,7 @@ data:
   - content: 'See also ISO/CIE 11664-4, _Colorimetry – Part 4: CIE 1976 L*a*b* Colour
       Space_.'
     type: intensional
-  - content: This entry was numbered {{bib:845-03-57, 845-03-57}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-57, 845-03-57}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-156 and 17-172 in CIE S 017:2011.
     type: intensional
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-077
-id: d5a60331-75f6-5ed3-90db-b50e6f4f23e1
+id: 9ec45c59-c017-5ab6-8201-6200f70dce57

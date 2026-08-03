@@ -37,7 +37,7 @@ data:
     type: intensional
   - content: The shielding angle is expressed in radian (rad) or degree (°).
     type: intensional
-  - content: This entry was numbered {{bib:845-10-31, 845-10-31}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-10-31, 845-10-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1172 in CIE S 017:2011.
     type: intensional
@@ -70,4 +70,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-30-036
-id: fd46674c-62d7-559f-8839-7fcb34ae508f
+id: 22f8b8ea-0e8b-5301-a1f5-d6e4eb985cfd

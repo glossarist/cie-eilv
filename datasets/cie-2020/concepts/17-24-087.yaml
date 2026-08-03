@@ -44,7 +44,7 @@ data:
     type: intensional
   - content: The spectral optical thickness has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-80, 845-04-80}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-80, 845-04-80}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1226 and 17-1225 in CIE S 017:2011.
     type: intensional
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-087
-id: 8023754c-8c74-5f77-88e1-39a394065707
+id: 75762ba1-1c74-514f-b979-d6f6925b43cd

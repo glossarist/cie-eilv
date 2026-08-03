@@ -36,12 +36,12 @@ id: bbc2c6fd-ea0d-5594-bc0e-54c2e034f96e
 data:
   definition:
   - content: process of emission by quantum transition from an excited energy level
-      to a lower level, triggered by incident radiation having the {{bib:103-06-02,
+      to a lower level, triggered by incident radiation having the {{cite:103-06-02,
       frequency}} of that transition
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{bib:845-04-38, 845-04-38}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-38, 845-04-38}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1269 in CIE S 017:2011.
     type: intensional
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-045
-id: ad8c15eb-4a33-592e-88bd-f1081515a23a
+id: 5e32fb43-0b48-5b7c-94dd-fc92ece9ddc3

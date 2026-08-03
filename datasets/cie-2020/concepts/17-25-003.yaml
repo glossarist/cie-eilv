@@ -35,7 +35,7 @@ data:
   notes:
   - content: Working photometric standards are typically photometers or light sources.
     type: intensional
-  - content: This entry was numbered {{bib:845-05-03, 845-05-03}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-03, 845-05-03}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1442 in CIE S 017:2011.
     type: intensional
@@ -71,4 +71,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-003
-id: 6cd3d9d0-e6b2-513c-9132-01308068cf90
+id: a07b2e5a-740e-52c6-8ad9-77e0b840610d

@@ -51,7 +51,7 @@ data:
     type: intensional
   - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength
       in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is
-      the {{bib:103-06-02, frequency}}.
+      the {{cite:103-06-02, frequency}}.
     type: intensional
   - content: The wavelength is expressed in metres (m) or decimal submultiples of
       metre.
@@ -59,7 +59,7 @@ data:
   - content: In {{17-21-002, optical radiation}}, the units nanometre (nm) and micrometre
       (μm) are generally used.
     type: intensional
-  - content: This entry was numbered {{bib:845-01-14, 845-01-14}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-14, 845-01-14}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1426 in CIE S 017:2011.
     type: intensional
@@ -102,4 +102,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-025
-id: a3c2b499-18a0-58df-8f8f-069ce8696953
+id: 9a86f3c4-795d-5dcc-9d80-452bf2b310bf

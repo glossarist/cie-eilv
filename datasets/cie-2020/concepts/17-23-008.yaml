@@ -39,7 +39,7 @@ data:
   notes:
   - content: The corresponding property is called "metamerism".
     type: intensional
-  - content: This entry was numbered {{bib:845-03-05, 845-03-05}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-05, 845-03-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-768 and 17-771 in CIE S 017:2011.
     type: intensional
@@ -84,4 +84,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-008
-id: 1eaa74cc-a346-5386-916a-f30af6af12b1
+id: c8d2df81-484d-5690-abb0-c6ef89c2d615

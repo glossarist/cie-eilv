@@ -57,7 +57,7 @@ data:
     type: intensional
   - content: The luminous intensity is expressed in candela (cd = lm·sr^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-31, 845-01-31}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-31, 845-01-31}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-739 in CIE S 017:2011.
     type: intensional
@@ -93,4 +93,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-045
-id: 935de96e-fe83-51c3-9262-3bfc96ad7d20
+id: 66bd4173-6657-5d05-b7b1-009455b7d45b

@@ -35,7 +35,7 @@ data:
   notes:
   - content: The zonal flux is expressed in lumen (lm).
     type: intensional
-  - content: This entry was numbered {{bib:845-09-32, 845-09-32}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-32, 845-09-32}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1448 in CIE S 017:2011.
     type: intensional
@@ -69,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-045
-id: f77dac15-ca0e-501f-9ecb-1e372fa696a3
+id: e5d69f15-52a7-5a79-a4d5-38ad52a1096c

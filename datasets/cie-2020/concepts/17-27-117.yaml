@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The lamp voltage is typically expressed in volt (V).
     type: intensional
-  - content: This entry was numbered {{bib:845-07-68, 845-07-68}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-07-68, 845-07-68}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-638 in CIE S 017:2011.
     type: intensional
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-27-117
-id: 4288de8a-7264-5f7b-a0b9-602b114a8d52
+id: 52280714-ab5e-54ca-8db7-b01efdef147f

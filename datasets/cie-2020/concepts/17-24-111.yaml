@@ -39,7 +39,7 @@ data:
   notes:
   - content: The complex refractive index has unit one.
     type: intensional
-  - content: This entry was numbered {{bib:845-04-103, 845-04-103}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-04-103, 845-04-103}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-242 in CIE S 017:2011.
     type: intensional
@@ -72,4 +72,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-111
-id: 61f0ccb2-46df-5b1a-a57a-6c411794079d
+id: 7022b34f-bd71-5c0c-9806-b356a82b376b

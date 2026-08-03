@@ -36,7 +36,7 @@ data:
   notes:
   - content: The complementary wavelength is expressed in nanometre (nm).
     type: intensional
-  - content: This entry was numbered {{bib:845-03-45, 845-03-45}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-03-45, 845-03-45}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-241 in CIE S 017:2011.
     type: intensional
@@ -73,4 +73,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-063
-id: 538d621e-22b6-543c-b9a3-be5cd2a17372
+id: 15c7de75-fbea-5ab2-810e-c256cb664a7f

@@ -45,7 +45,7 @@ data:
   examples: []
   notes:
   - content: The concept "normalized detectivity" is realistic only if the responsivity
-      and noise output of the detector are {{bib:103-06-02, frequency}} independent
+      and noise output of the detector are {{cite:103-06-02, frequency}} independent
       throughout the frequency range under consideration and if the noise equivalent
       input varies as the square root of the detector area; this is not always the
       case.
@@ -53,7 +53,7 @@ data:
   - content: The normalized detectivity is expressed in metre hertz to the power one
       half per watt (m·Hz^1/2^·W^−1^).
     type: intensional
-  - content: This entry was numbered {{bib:845-05-66, 845-05-66}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-05-66, 845-05-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-827 in CIE S 017:2011.
     type: intensional
@@ -97,4 +97,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-073
-id: 43e4ac8a-5efa-5b7f-9d9d-e63330b25ad0
+id: edb6d94a-d3c8-5a85-80dd-11df44ab645c

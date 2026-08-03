@@ -34,7 +34,7 @@ data:
   notes:
   - content: The spacing is expressed in metres (m).
     type: intensional
-  - content: This entry was numbered {{bib:845-09-66, 845-09-66}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-09-66, 845-09-66}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1203 in CIE S 017:2011.
     type: intensional
@@ -68,4 +68,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-29-086
-id: 43858d2e-8f25-54fd-abdb-eba74c420bc0
+id: 94492b38-f71f-5805-83a4-a7ba5e6120bc

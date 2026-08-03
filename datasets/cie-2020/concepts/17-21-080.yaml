@@ -45,7 +45,7 @@ data:
     type: intensional
   - content: The radiant exitance is expressed in watt per square metre (W·m^−2^).
     type: intensional
-  - content: This entry was numbered {{bib:845-01-47, 845-01-47}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:845-01-47, 845-01-47}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-1020 in CIE S 017:2011.
     type: intensional
@@ -81,4 +81,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-080
-id: 95ea0be8-d99f-5172-b5d3-3183c7da5a71
+id: 7a3d5d35-4c8c-50cb-a323-53e660cc9ecd
