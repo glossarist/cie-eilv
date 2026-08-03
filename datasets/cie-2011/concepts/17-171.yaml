@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-171
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232337/http://eilv.cie.co.at/term/171
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-022
+  type: authoritative
+status: valid
+id: c88d355e-93dc-54d7-ae56-ef03f61772b0
+---
+data:
+  definition:
+  - content: artificial source specified by the CIE whose radiation approximates a
+      CIE standard illuminant
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      CIE sources are artificial sources that represent CIE illuminants. See "{{17-168, CIE standard illuminants}}".
+      See also CIE 15 stem:[Colorimetry]
+      See also ISO 11664-2:2007(E)/CIE S 014-2/E:2006 stem:[Colorimetry - Part 2: CIE Standard llluminants for Colorimetry]
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard sources
+  language_code: eng
+  annotations: []
+termid: 17-171
+id: c8c2f9e0-cfdf-5554-9bed-12bc98a216b1

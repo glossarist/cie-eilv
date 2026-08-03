@@ -1,0 +1,76 @@
+---
+data:
+  identifier: 17-731
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042400/http://eilv.cie.co.at/term/731
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-094
+  type: authoritative
+status: valid
+id: 37d20dee-8337-57b7-a106-eca4e3c25859
+---
+data:
+  definition:
+  - content: quotient of radiant flux weighted by the spectral luminous efficiency
+      and the corresponding radiant flux for a specified photometric condition
+    type: intensional
+  examples: []
+  notes:
+  - content: The photometric condition should be specified (e.g. photopic, scotopic,
+      mesopic). If it is not specified, photopic vision is assumed and the symbol
+      stem:[V] is used. For other photometric conditions, the respective symbol for
+      identification shall be used.
+    type: intensional
+  - content: |-
+      Luminous efficiency for photopic vision is expressed by
+
+      stem:[V = ((int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda))/((int_0^(oo) Phi_((e , lambda)) ( lambda ) d lambda)) = (K)/((K_m))]
+
+      where stem:[Phi_(e,lambda)] is spectral radiant flux, stem:[V](stem:[lambda]) is spectral luminous efficiency, stem:[lambda] is wavelength, stem:[K] is luminous efficacy of radiation, and stem:[K_m] is maximum luminous efficacy.
+    type: intensional
+  - content: The luminous efficiency has unit one.
+    type: intensional
+  - content: This entry was numbered 845-01-57 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-731 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-094
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous efficiency (of radiation)
+  - type: symbol
+    normative_status: preferred
+    designation: V, <for photopic vision>; V′, <for scotopic vision>; Vmes;m , <for
+      mesopic vision>; V10 , <for the CIE 10° photopic photometric observer>; VM ,
+      <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic
+      vision>
+  - type: symbol
+    normative_status: preferred
+    designation: V, <for photopic vision>; V′, <for scotopic vision>; Vmes;m , <for
+      mesopic vision>; V10 , <for the CIE 10° photopic photometric observer>; VM ,
+      <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic
+      vision>
+  language_code: eng
+  annotations: []
+termid: 17-731
+id: 790212dd-f8f9-5778-bfe6-7b482a62e62c

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-899
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160537/http://eilv.cie.co.at/term/899
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-043
+  type: authoritative
+status: valid
+id: d60e12b0-95c5-5923-a5bf-1e79984b801d
+---
+data:
+  definition:
+  - content: photoelectric detector that utilizes the electromotive force produced
+      by the absorption of optical radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-043
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoelement
+  - type: symbol
+    normative_status: preferred
+    designation: photoelement
+  - type: symbol
+    normative_status: preferred
+    designation: photoelement
+  language_code: eng
+  annotations: []
+termid: 17-899
+id: 68d6ad63-4855-569c-8244-f69621fd5e43

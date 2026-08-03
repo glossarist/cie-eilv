@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-489
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161808/http://eilv.cie.co.at/term/489
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-047
+  type: authoritative
+status: valid
+id: 1a25dc13-4081-54c5-92eb-833fd11b0f85
+---
+data:
+  definition:
+  - content: quantity that determines the maximum geometric throughput of radiation
+      transmitted, received or emitted in a single-pass, passive optical arrangement
+    type: intensional
+  examples: []
+  notes:
+  - content: For a beam propagating through successive non-diffusing media, the quantity
+      stem:[Gn^2] , where stem:[n] is the refractive index, is invariant. That quantity
+      is called “optical extent”.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geometric extent (of a beam of rays)
+  - type: symbol
+    normative_status: preferred
+    designation: G
+  - type: symbol
+    normative_status: preferred
+    designation: G
+  language_code: eng
+  annotations: []
+termid: 17-489
+id: 1977384f-f95a-5929-9e33-e6cb1f3d081e

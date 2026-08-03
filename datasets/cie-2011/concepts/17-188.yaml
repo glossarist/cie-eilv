@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-188
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426195658/http://eilv.cie.co.at/term/188
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-040
+  type: authoritative
+status: valid
+id: '0359e333-f51c-554f-9327-5d81e6371825'
+---
+data:
+  definition:
+  - content: discharge lamp designed to start without preheating of the electrodes
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-040
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cold start lamp
+  - type: symbol
+    normative_status: preferred
+    designation: instant-start lamp
+  - type: symbol
+    normative_status: preferred
+    designation: instant-start lamp
+  language_code: eng
+  annotations: []
+termid: 17-188
+id: 979b7d79-1622-5e6d-b9ae-a4835da93230

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1086
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823053403/http://eilv.cie.co.at/term/1086
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-120
+  type: authoritative
+status: valid
+id: 90708167-582a-5003-9f7f-76c506e15cb4
+---
+data:
+  definition:
+  - content: quotient of sunshine duration and possible sunshine duration within the
+      same time interval
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-120
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative sunshine duration
+  language_code: eng
+  annotations: []
+termid: 17-1086
+id: 5d317f90-902f-5452-bbff-9cbccc28941c

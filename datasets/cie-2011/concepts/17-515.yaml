@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-515
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002120503/http://eilv.cie.co.at/term/515
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-097
+  type: authoritative
+status: valid
+id: edf5f62e-4c81-54be-b7b6-1576462fb8f9
+---
+data:
+  definition:
+  - content: angle of observation at which the luminance has half the value of the
+      luminance of the diffused light at the angle of 0°, with perpendicular incidence
+      of the light
+    type: intensional
+  examples: []
+  notes:
+  - content: For indicating the shape of the indicatrix of diffusion it is recommended
+      that the diffusion factor stem:[sigma] be used for strongly diffusing materials,
+      and the half-value angle stem:[gamma] for poorly diffusing materials.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-097
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: half-value angle (for a diffusing surface by reflection or by transmission)
+  - type: symbol
+    normative_status: preferred
+    designation: γ
+  - type: symbol
+    normative_status: preferred
+    designation: γ
+  language_code: eng
+  annotations: []
+termid: 17-515
+id: 9b48daa3-b80a-53f7-9cd0-5fbda55f6a83

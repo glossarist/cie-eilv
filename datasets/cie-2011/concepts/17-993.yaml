@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-993
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160313/http://eilv.cie.co.at/term/993
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-030
+  type: authoritative
+status: valid
+id: 52d8ff75-51c4-5ee6-a759-7279ec4eef3e
+---
+data:
+  definition:
+  - content: anomalous trichromatic {{17-287, defective colour vision}} in which discrimination
+      of the reddish and greenish contents of colours is reduced, with reddish colours
+      appearing abnormally dim
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: protanomaly
+  language_code: eng
+  annotations: []
+termid: 17-993
+id: '094c650a-d5a4-5b5e-849c-f7f3ec318bf4'

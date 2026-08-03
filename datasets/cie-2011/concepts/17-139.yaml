@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-139
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191219193359/http://eilv.cie.co.at/term/139
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-074
+  type: authoritative
+status: valid
+id: dffac373-9cbb-5887-9c44-da4c217de44b
+---
+data:
+  definition:
+  - content: colourfulness of an area judged as a proportion of the brightness of
+      a similarly illuminated area that appears grey, white or highly transmitting
+    type: intensional
+  examples: []
+  notes:
+  - content: For given viewing conditions and at luminance levels within the range
+      of photopic vision, a colour stimulus perceived as a related colour, of a given
+      chromaticity and from a surface having a given luminance factor, exhibits approximately
+      constant chroma for all levels of illuminance except when the brightness is
+      very high. In the same circumstances, at a given level of illuminance, if the
+      luminance factor is increased, the chroma usually increases.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chroma
+  language_code: eng
+  annotations: []
+termid: 17-139
+id: 2a85d573-e2cb-5393-b704-182422e70223

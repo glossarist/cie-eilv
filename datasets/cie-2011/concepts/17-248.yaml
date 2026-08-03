@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-248
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125549/http://eilv.cie.co.at/term/248
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-028
+  type: authoritative
+status: valid
+id: 2fafc609-92a2-5210-99a4-939fe2306538
+---
+data:
+  definition:
+  - content: quality of an object or a light source to appear prominent in its surroundings
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-028
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conspicuity
+  language_code: eng
+  annotations: []
+termid: 17-248
+id: c24ebd63-42b0-524b-acbf-33da0558eab6

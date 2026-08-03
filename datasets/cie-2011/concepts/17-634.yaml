@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-634
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135357/http://eilv.cie.co.at/term/634
+  type: authoritative
+status: valid
+id: c5e415d4-ec2d-57c8-8aa4-71400c836b43
+---
+data:
+  definition:
+  - content: source made in order to produce optical radiation, usually visible
+    type: intensional
+  examples: []
+  notes:
+  - content: This term is also sometimes used for certain types of luminaires.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lamp
+  language_code: eng
+  annotations: []
+termid: 17-634
+id: 366dedc1-df7e-56d1-a06b-2929958dde41

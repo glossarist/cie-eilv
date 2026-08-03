@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1363
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004137/http://eilv.cie.co.at/term/1363
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-054
+  type: authoritative
+status: valid
+id: a761ab47-8d94-572d-92b0-004d8bb6788b
+---
+data:
+  definition:
+  - content: weighting function that combines the normalized spectral sensitivities
+      of the human eye and skin to ultraviolet radiation for radiation protection
+      purposes
+    type: intensional
+  examples: []
+  notes:
+  - content: Specified in ICNIRP-recommendations for stem:[lambda]= 180 nm to 400
+      nm.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-054
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet hazard spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: SUV(λ); S(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: SUV(λ); S(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1363
+id: aea315dd-12ed-5c64-a955-d8b39620e4ab

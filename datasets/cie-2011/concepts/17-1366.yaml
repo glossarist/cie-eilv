@@ -1,0 +1,68 @@
+---
+data:
+  identifier: 17-1366
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162528/http://eilv.cie.co.at/term/1366
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-075
+  type: authoritative
+status: valid
+id: b8c2de91-0b3f-5349-8b02-79bf16201e77
+---
+data:
+  definition:
+  - content: measurement of the protective quality of a fabric sample against solar
+      ultraviolet radiation, determined by in-vitro testing
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      For in-vitro testing, the erythemal irradiance measured by a detector with the fabric sample under test in place is compared to the erythemal irradiance measured with no fabric present, where the source is typically a solar simulator. This is expressed as the quotient of the erythemal irradiance without fabric to the erythemal irradiance through fabric:
+
+      stem:[F_((UVP)) = ((int_((290\ nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) d lambda))/((int_((290\ nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) tau ( lambda ) d lambda))]
+
+      where stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, stem:[Elambda] is the spectral irradiance, stem:[tau](stem:[lambda]) is the measured spectral transmittance of the item, and stem:[lambda] is the wavelength.
+    type: intensional
+  - content: The ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda]),
+      has been substituted for stem:[s_(er)](stem:[lambda]) in special instances.
+      If so used, the ultraviolet protection factor, stem:[F_(UVP)], has to be noted
+      as stem:[F_(UVP)] &amp;lsqb;stem:[S](stem:[lambda])-weighted&amp;rsqb;.
+    type: intensional
+  - content: The ultraviolet protection factor has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1366 and 17-1377 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-075
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet protection factor
+  - type: symbol
+    normative_status: preferred
+    designation: UPF
+  - type: symbol
+    normative_status: preferred
+    designation: UPF
+  language_code: eng
+  annotations: []
+termid: 17-1366
+id: 632bfdec-3a31-5b4e-b322-c9b2182f01a9

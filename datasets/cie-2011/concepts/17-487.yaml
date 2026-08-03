@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-487
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922033230/http://eilv.cie.co.at/term/487
+  type: authoritative
+status: valid
+id: dba59fb0-8ff8-503d-823e-884a59708d96
+---
+data:
+  definition:
+  - content: |-
+      greatest distance at which an object or a light source could be seen under conditions of perfect visibility, as limited only by the curvature of the Earth, by refraction in the atmosphere, and by the heights of the observer and the object or light source
+
+      Equivalent term used outside US: "geographical range"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic range (US)
+  language_code: eng
+  annotations: []
+termid: 17-487
+id: cd1f2db0-cbca-554e-90a5-93f9c925246d

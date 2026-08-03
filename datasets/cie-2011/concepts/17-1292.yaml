@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1292
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915165122/http://eilv.cie.co.at/term/1292
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-132
+  type: authoritative
+status: valid
+id: e5bcc79a-ceb0-5e4b-84cd-71bf956aaf29
+---
+data:
+  definition:
+  - content: visually perceptible figure, intended to convey a particular meaning
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-132
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symbol
+  language_code: eng
+  annotations: []
+termid: 17-1292
+id: 54fb2519-2b49-51d6-bf0b-f180d81dcd75

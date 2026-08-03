@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-182
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002145627/http://eilv.cie.co.at/term/182
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-103
+  type: authoritative
+status: valid
+id: f62ff6bf-69e6-5877-942f-faba94611d57
+---
+data:
+  definition:
+  - content: |-
+      quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
+
+      stem:[R_A = (R)/(A) = ((I // E_( _|_ )))/(A)]
+
+      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_( _|_ )] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light
+    type: intensional
+  examples: []
+  notes:
+  - content: This quantity is particularly suitable for describing materials in sheet
+      form.
+    type: intensional
+  - content: Formerly the symbol stem:[R]' was used for this quantity.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient of retroreflection (of a plane retroreflecting surface)
+  - type: symbol
+    normative_status: preferred
+    designation: RA
+  - type: symbol
+    normative_status: preferred
+    designation: RA
+  language_code: eng
+  annotations: []
+termid: 17-182
+id: 5fbaea62-3250-5abf-a1c9-2336f99a10e3

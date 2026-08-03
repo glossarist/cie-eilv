@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-827
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124610/http://eilv.cie.co.at/term/827
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-073
+  type: authoritative
+status: valid
+id: ff08a6c1-d33d-5644-8fef-3678d57e376c
+---
+data:
+  definition:
+  - content: |-
+      detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
+
+      stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
+
+      where stem:[Phi_m] is noise equivalent power
+    type: intensional
+  examples: []
+  notes:
+  - content: This concept is realistic only if the responsivity and noise output of
+      the detector are frequency independent throughout the frequency range under
+      consideration and if the noise equivalent input varies as the square root of
+      the detector area; this is not always the case.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized detectivity (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: D*
+  - type: symbol
+    normative_status: preferred
+    designation: D*
+  language_code: eng
+  annotations: []
+termid: 17-827
+id: 9f98d552-35ae-58d8-b634-da7feca84053

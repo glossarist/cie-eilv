@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-292
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140903/http://eilv.cie.co.at/term/292
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-015
+  type: authoritative
+status: valid
+id: 4ad71d30-e9b6-5478-aa0a-915fb7b21a2c
+---
+data:
+  definition:
+  - content: optical device that modifies a beam of optical radiation to produce a
+      beam of unpolarized radiation irrespective of the state of polarization of the
+      incident radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: No simple and completely satisfactory way of depolarizing a beam of radiation
+      is known. The methods employed usually produce a large variety of polarization
+      states with respect to time, wavelength or the aperture of the beam. Devices
+      functioning on this principle are usually known as pseudo-depolarizers.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: depolarizer
+  language_code: eng
+  annotations: []
+termid: 17-292
+id: dc704c7b-5e1b-516f-944a-ace2d5422e73

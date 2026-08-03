@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-532
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172722/http://eilv.cie.co.at/term/532
+  type: authoritative
+status: valid
+id: 18915301-b539-5cce-85db-d8b03579e069
+---
+data:
+  definition:
+  - content: |-
+      anomaly of vision in which there is a pronounced inadequacy or complete absence of scotopic vision
+
+      Equivalent term: "night blindness"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hemeralopia
+  - type: expression
+    normative_status: admitted
+    designation: night blindness
+  language_code: eng
+  annotations: []
+termid: 17-532
+id: 185fe0fd-647b-5ed5-a318-a5ba419967e1

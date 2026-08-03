@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1365
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820005407/http://eilv.cie.co.at/term/1365
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-014
+  type: authoritative
+status: valid
+id: df8f6fd0-ffa8-5018-8494-918b93a618d9
+---
+data:
+  definition:
+  - content: clouding (opacification) of the lens resulting in a cataract
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-014
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  - type: symbol
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  - type: symbol
+    normative_status: preferred
+    designation: ultraviolet photocataractogenesis
+  language_code: eng
+  annotations: []
+termid: 17-1365
+id: b134c75e-0373-5136-b55a-d12210b5b21d

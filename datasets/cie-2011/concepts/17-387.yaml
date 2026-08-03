@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-387
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120818/http://eilv.cie.co.at/term/387
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-093
+  type: authoritative
+status: valid
+id: 738a2492-4721-5e0f-96ee-2849480b971b
+---
+data:
+  definition:
+  - content: part of a road tunnel construction that corresponds to the beginning
+      of the covered part of the road tunnel or, when open sun screens are used, to
+      the beginning of the sun screens
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-093
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entrance portal (of a road tunnel)
+  language_code: eng
+  annotations: []
+termid: 17-387
+id: b785557d-c789-5c1e-a3e4-f893cb9efb65

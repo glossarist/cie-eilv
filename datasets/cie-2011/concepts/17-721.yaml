@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-721
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823041935/http://eilv.cie.co.at/term/721
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-154
+  type: authoritative
+status: valid
+id: 2f59041b-a4dc-5525-be8f-c80608f5ba88
+---
+data:
+  definition:
+  - content: quotient of minimum luminance and average luminance of a surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-154
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance uniformity
+  - type: symbol
+    normative_status: preferred
+    designation: Uo
+  - type: symbol
+    normative_status: preferred
+    designation: Uo
+  language_code: eng
+  annotations: []
+termid: 17-721
+id: 87411a0b-b88a-59d7-9e6a-c4a11b0edbb4

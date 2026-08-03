@@ -1,0 +1,86 @@
+---
+data:
+  identifier: 17-958
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010140/http://eilv.cie.co.at/term/958
+  type: authoritative
+- id: 113-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-005
+  type: authoritative
+status: valid
+id: b74dee28-6c69-566c-abf2-a157f23416d1
+---
+data:
+  definition:
+  - content: |-
+      law giving the spectral distribution of radiance of a Planckian radiator as a function of wavelength and temperature
+
+      stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
+
+      where stem:[L_(e,lambda)] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the {{cite:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant
+    type: intensional
+  examples: []
+  notes:
+  - content: The formula is sometimes written with stem:[((c_1))/((pi omega_0))] instead
+      of stem:[((c_1))/(pi)], where stem:[Omega_0] is the solid angle of magnitude
+      1 sr.
+    type: intensional
+  - content: For a detector in a medium of refractive index stem:[n], the measured
+      radiance is stem:[n^2]stem:[L_(e,lambda)](stem:[lambda], stem:[T]).
+    type: intensional
+  - content: Planck's law can also be expressed to give the spectral distribution
+      of radiant exitance, stem:[M_(e,lambda)](stem:[lambda], stem:[T]); the first
+      factor in the formula is then stem:[c_1] instead of stem:[((c_1))/(pi)].
+    type: intensional
+  - content: Both quantities (radiance and radiant exitance) apply to the unpolarized
+      radiation as emitted.
+    type: intensional
+  - content: For the up-to-date values of the Planck constant, stem:[h], the {{cite:113-01-34,
+      speed of light in vacuum}}, stem:[c_0], and the Boltzmann constant, stem:[k],
+      see CODATA.
+    type: intensional
+  - content: This entry was numbered 845-04-05 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-958 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 113-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planck's law
+  language_code: eng
+  annotations: []
+termid: 17-958
+id: c6d6ad97-098c-5cda-9cff-22be0e9a0572

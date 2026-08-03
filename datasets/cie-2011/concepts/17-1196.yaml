@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1196
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004015/http://eilv.cie.co.at/term/1196
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-046
+  type: authoritative
+status: valid
+id: 8e8ade52-724c-5c4d-a0b0-324fe98e41e7
+---
+data:
+  definition:
+  - content: non-permanent image produced on a device capable of directly representing
+      different analogue or digital images in succession
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-046
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: softcopy
+  language_code: eng
+  annotations: []
+termid: 17-1196
+id: 33b090fe-bb96-5027-9213-190fb9aad38e

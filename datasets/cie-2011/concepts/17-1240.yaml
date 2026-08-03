@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1240
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170348/http://eilv.cie.co.at/term/1240
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-082
+  type: authoritative
+status: valid
+id: a50c418a-cc7f-5710-93e3-b42a64469f9c
+---
+data:
+  definition:
+  - content: pertaining to flux reflected from the surface of an object, without scattering,
+      at an angle of reflection equal and opposite to the angle of incidence
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specular
+  language_code: eng
+  annotations: []
+termid: 17-1240
+id: 96a71425-844a-52f0-aa7b-a7fdcc9010ce

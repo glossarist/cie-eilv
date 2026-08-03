@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1009
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160558/http://eilv.cie.co.at/term/1009
+  type: authoritative
+status: valid
+id: '09015d50-6ea8-50aa-89cb-6bac3c57b4f5'
+---
+data:
+  definition:
+  - content: See "{{17-822, non-selective quantum detector}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantum detector (non-selective)
+  language_code: eng
+  annotations: []
+termid: 17-1009
+id: a01d510e-a404-5146-9bf2-e641c44c17c4

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1413
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135753/http://eilv.cie.co.at/term/1413
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-015
+  type: authoritative
+status: valid
+id: 004b05ee-9280-57b8-b1ef-0e1525a8b77e
+---
+data:
+  definition:
+  - content: photometry in which the eye is used to make quantitative comparisons
+      between light stimuli
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual photometry
+  language_code: eng
+  annotations: []
+termid: 17-1413
+id: c7ee7fd8-da7d-54f3-a9d2-d801a991c609

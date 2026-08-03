@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-236
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920141248/http://eilv.cie.co.at/term/236
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-039
+  type: authoritative
+status: valid
+id: af55ae29-6b4d-5b1e-954f-10a1bf3e2c85
+---
+data:
+  definition:
+  - content: tristimulus values of monochromatic stimuli of equal radiant flux
+    type: intensional
+  examples: []
+  notes:
+  - content: See also "colour-matching coefficients".
+    type: intensional
+  - content: The colour-matching functions can be used to calculate the tristimulus
+      values of a colour stimulus from its colour stimulus functions stem:[philambda](stem:[lambda]).
+    type: intensional
+  - content: See also CIE 15, stem:[Colorimetry].
+    type: intensional
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
+      Observers_.'
+    type: intensional
+  - content: |-
+      In the CIE standard colorimetric systems, the colour-matching functions are represented by the symbols stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )]
+
+      and stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )].
+    type: intensional
+  - content: This entry was numbered 845-03-23 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-236 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour-matching functions (of a trichromatic system)
+  language_code: eng
+  annotations: []
+termid: 17-236
+id: 13d8fa85-a71c-57d8-8707-b3cdbf281c6e

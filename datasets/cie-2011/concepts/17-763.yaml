@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-763
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916124055/http://eilv.cie.co.at/term/763
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-018
+  type: authoritative
+status: valid
+id: 80378d51-4b7f-54db-aaa6-3bc343ffd83a
+---
+data:
+  definition:
+  - content: vision by the normal eye, intermediate between photopic vision and scotopic
+      vision
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      In mesopic vision, both the cones and the rods are active.
+      See also CIE 191:2010 stem:[Recommended System for Mesopic Photometry based on Visual Performance]
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mesopic vision
+  language_code: eng
+  annotations: []
+termid: 17-763
+id: 5ae601da-0ab2-506d-b19c-59ae13e3911b

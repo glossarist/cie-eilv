@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-229
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121511/http://eilv.cie.co.at/term/229
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-002
+  type: authoritative
+status: valid
+id: 92a64fc3-d926-5ab8-a769-b0d43a520980
+---
+data:
+  definition:
+  - content: visible radiation entering the eye and producing a sensation of either
+      chromatic colour or achromatic colour
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour stimulus
+  language_code: eng
+  annotations: []
+termid: 17-229
+id: af854804-ec92-5789-b1ff-d1a9bf12fb3a

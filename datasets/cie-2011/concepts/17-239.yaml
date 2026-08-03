@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-239
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124152/http://eilv.cie.co.at/term/239
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-004
+  type: authoritative
+status: valid
+id: e3ea7073-c788-54b8-9d3e-3da153db835a
+---
+data:
+  definition:
+  - content: source having a constant but not necessarily known output, against which
+      a standard lamp and a source under test are successively compared
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: comparison lamp
+  language_code: eng
+  annotations: []
+termid: 17-239
+id: aa38791c-135f-59c2-bef7-e7017d11429a

@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-787
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120304/http://eilv.cie.co.at/term/787
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-100
+  type: authoritative
+status: valid
+id: a1c1a879-71d6-539c-b174-d204624f5e52
+---
+data:
+  definition:
+  - content: spectrophotometric mode of measurement, where a means of wavelength separation
+      (monochromator, bandpass filters/wedge) precedes the sample and the total (reflected
+      or transmitted plus fluoresced) radiant flux leaving the sample is measured
+      by the detector at the stated monochromatic wavelength
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-100
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromatic mode (spectrophotometry)
+  language_code: eng
+  annotations: []
+termid: 17-787
+id: 90d52ea0-b2ac-53a2-9c9e-2ce4a7aa3a70

@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-1209
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820011012/http://eilv.cie.co.at/term/1209
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-095
+  type: authoritative
+status: valid
+id: 353c9fbe-8579-50d6-8417-c5f9c96dd8f0
+---
+data:
+  definition:
+  - content: spectral internal absorptance of a layer of an absorbing material such
+      that the path of the radiation is of dimension length, and under conditions
+      in which the boundary of the material has no influence
+    type: intensional
+  examples: []
+  notes:
+  - content: The unit of the quantity length has to be specified. If a new unit of
+      length is used that is stem:[k] times the magnitude of the original one, then
+      the value of stem:[alpha_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )]
+      will change to stem:[alpha^( ' )_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda
+      )^k].
+    type: intensional
+  - content: The spectral absorptivity has unit one.
+    type: intensional
+  - content: This entry was numbered 845-04-88 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1209 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-095
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral absorptivity
+    usage_info: of an absorbing material
+  - type: symbol
+    normative_status: preferred
+    designation: αi,o(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: αi,o(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1209
+id: 8138bf0c-d312-5e93-8a15-bef8e0dc8a47

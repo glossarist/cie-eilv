@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-587
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426125938/http://eilv.cie.co.at/term/587
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-071
+  type: authoritative
+status: valid
+id: f85292f2-716e-5efa-a9d2-f3709d45f6f4
+---
+data:
+  definition:
+  - content: quotient of the sum of the areas of the working plane and the plane of
+      the luminaires and the sum of the area of the walls bounded by the working plane
+      and the plane of the luminaires, used in the calculation of the utilization
+      factor or utilance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-071
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: installation index
+  - type: symbol
+    normative_status: preferred
+    designation: installation index
+  - type: symbol
+    normative_status: preferred
+    designation: installation index
+  language_code: eng
+  annotations: []
+termid: 17-587
+id: 93c58db5-e1ab-5b27-b48f-35e6acd4968d

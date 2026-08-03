@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1130
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164434/http://eilv.cie.co.at/term/1130
+  type: authoritative
+status: valid
+id: 4291d18c-d147-5719-a86a-974a0279c09d
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-1129, runway light}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: runway threshold light
+  language_code: eng
+  annotations: []
+termid: 17-1130
+id: 799ae445-a8cb-5a1e-a957-52003430984d

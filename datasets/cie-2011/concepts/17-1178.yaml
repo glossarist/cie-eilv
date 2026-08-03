@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-1178
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004709/http://eilv.cie.co.at/term/1178
+  type: authoritative
+status: valid
+id: fcd394f4-c009-5c7b-8943-44f6b2229147
+---
+data:
+  definition:
+  - content: |-
+      that part of a road reserved exclusively for pedestrians
+
+      Equivalent terms used outside US: "footway", "pavement (non-US)"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sidewalk (US)
+  language_code: eng
+  annotations: []
+termid: 17-1178
+id: eaf9e3b7-a39e-5160-b137-7ab08d762903

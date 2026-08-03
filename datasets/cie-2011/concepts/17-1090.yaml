@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1090
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161404/http://eilv.cie.co.at/term/1090
+  type: authoritative
+status: valid
+id: 20d3f1d7-2d96-5e8d-92a9-df803c7a7911
+---
+data:
+  definition:
+  - content: land upon which a dwelling exists or may be developed, e.g. land zoned
+      for residential development
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: residential property
+  language_code: eng
+  annotations: []
+termid: 17-1090
+id: d25755fb-b99a-5ddd-8b9f-dbf4676c7aa3

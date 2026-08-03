@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-33
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102019/http://eilv.cie.co.at/term/33
+  type: authoritative
+status: valid
+id: 71bd4450-f83a-58ab-a84d-3b2530f6b456
+---
+data:
+  definition:
+  - content: road usable by all traffic (including pedestrians and cyclists)
+    type: intensional
+  examples: []
+  notes:
+  - content: Used to distinguish other roads from motorways.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: all-purpose road
+  language_code: eng
+  annotations: []
+termid: 17-33
+id: 279dd049-c9bf-52f1-8f52-2b9504f96312

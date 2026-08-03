@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-457
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051055/http://eilv.cie.co.at/term/457
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-034
+  type: authoritative
+status: valid
+id: 0bd5e727-7a0a-5df7-b0fe-b2c74ee4218d
+---
+data:
+  definition:
+  - content: discharge lamp of the low-pressure mercury type in which most of the
+      light is emitted by one or several layers of phosphors excited by the ultraviolet
+      radiation from the discharge
+    type: intensional
+  examples: []
+  notes:
+  - content: These lamps are frequently tubular and in which case are often referred
+      to as "fluorescent tubes".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent lamp
+  language_code: eng
+  annotations: []
+termid: 17-457
+id: 6770d20a-195e-5e38-86ff-2b5801bf6fdb

@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-1120
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191229104703/http://eilv.cie.co.at/term/1120
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-072
+  type: authoritative
+status: valid
+id: b8a9c400-3060-5573-82b9-966e67678d97
+---
+data:
+  definition:
+  - content: quotient of five times the sum of the area of the walls bounded by the
+      working plane and the plane of the luminaires and the sum of the areas of the
+      working plane and the plane of the luminaires, used in the calculation of the
+      utilization factor or utilance
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The room cavity ratio is expressed by the formula
+
+      stem:[K = ((5 h ( a + b )))/((a b))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.
+    type: intensional
+  - content: See also "ceiling cavity ratio" and "floor cavity ratio".
+    type: intensional
+  - content: The room cavity ratio has unit one.
+    type: intensional
+  - content: This entry was numbered 17-1120 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: room cavity ratio
+  - type: symbol
+    normative_status: preferred
+    designation: K
+  - type: symbol
+    normative_status: preferred
+    designation: K
+  language_code: eng
+  annotations: []
+termid: 17-1120
+id: 62fd731d-5902-5aa3-afc6-735b7751452e

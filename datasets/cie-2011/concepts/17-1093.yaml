@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1093
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202070550/http://eilv.cie.co.at/term/1093
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-065
+  type: authoritative
+status: valid
+id: ed13034e-c90e-561d-8034-798a0d0e7b02
+---
+data:
+  definition:
+  - content: time required for the change in detector output to reach, after a step
+      variation of a steady detector input, a specified percentage of its final value
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-065
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: response time (of a detector)
+  language_code: eng
+  annotations: []
+termid: 17-1093
+id: 43485123-2d04-5463-88d4-2e1f590d8b92

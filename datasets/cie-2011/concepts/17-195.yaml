@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-195
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191223001453/http://eilv.cie.co.at/term/195
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-065
+  type: authoritative
+status: valid
+id: 518b6137-1bd1-525f-a5ac-5a0dfbc15543
+---
+data:
+  definition:
+  - content: |-
+      stem:[p_c = ((L_d))/((L_n + L_d))]
+
+      where stem:[L_d] and stem:[L_n] are the respective luminances of the monochromatic stimulus and of the specified achromatic stimulus that match the colour stimulus considered in an additive mixture
+    type: intensional
+  examples: []
+  notes:
+  - content: In the case of purple stimuli, see NOTE 1 to "{{17-1002, purity (of a
+      colour stimulus)}}".
+    type: intensional
+  - content: In the CIE 1931 standard colorimetric system, colorimetric purity, stem:[p_c],
+      is related to excitation purity, stem:[p_e], by the equation stem:[p_c]=stem:[p_e]stem:[y_d]/stem:[y]
+      where stem:[y_d], and stem:[y] are the stem:[y] chromaticity coordinates respectively,
+      of the monochromatic stimulus and the colour stimulus considered.
+    type: intensional
+  - content: In the CIE 1964 standard colorimetric system, a measure, stem:[p_c],~10~,
+      is defined by the relation given in NOTE 2, but using stem:[p_e],~10~, stem:[y_d],~10~
+      and stem:[y_(10)] instead of stem:[p_e], stem:[y_d], and stem:[y] respectively.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-065
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimetric purity
+  - type: symbol
+    normative_status: preferred
+    designation: pc
+  - type: symbol
+    normative_status: preferred
+    designation: pc
+  language_code: eng
+  annotations: []
+termid: 17-195
+id: 0adbc4cd-6160-54b4-93d4-6b569b2910d6

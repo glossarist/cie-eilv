@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-481
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135150/http://eilv.cie.co.at/term/481
+  type: authoritative
+status: valid
+id: fa738c53-f0c1-504e-a88f-0927de662d5b
+---
+data:
+  definition:
+  - content: |-
+      lamp in which the light is produced, directly or indirectly, by an electric discharge through a gas, a metal vapour, or a mixture of several gases and vapours
+
+      Equivalent term: "gaseous discharge lamp"
+    type: intensional
+  examples: []
+  notes:
+  - content: According to whether the light is mainly produced in a gas or in a metal
+      vapour, one distinguishes between gas discharge lamps, for example xenon, neon,
+      helium, nitrogen, carbon dioxide lamp, and metal vapour lamps, for example the
+      mercury vapour lamp and the sodium vapour lamp.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gas discharge lamp
+  - type: expression
+    normative_status: admitted
+    designation: gaseous discharge lamp
+  language_code: eng
+  annotations: []
+termid: 17-481
+id: fdec0e8c-54c1-5725-8da2-01d1da6d38ef

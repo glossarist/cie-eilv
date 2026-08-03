@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-423
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160740/http://eilv.cie.co.at/term/423
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-130
+  type: authoritative
+status: valid
+id: c3a3fac1-dc14-5521-a371-f8d27b105bde
+---
+data:
+  definition:
+  - content: solar illuminance incident on the outer limit of the Earth's atmosphere
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-130
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extraterrestrial solar illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev
+  - type: symbol
+    normative_status: preferred
+    designation: Ev
+  language_code: eng
+  annotations: []
+termid: 17-423
+id: e8779dba-8d35-5952-ab28-6fc06a64ced4

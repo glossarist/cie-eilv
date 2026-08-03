@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-113
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232239/http://eilv.cie.co.at/term/113
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-022
+  type: authoritative
+status: valid
+id: 44bd4597-4195-51d5-9aee-881b8dc8ebce
+---
+data:
+  definition:
+  - content: protected luminaire of compact design intended to be fixed directly on
+      a vertical or horizontal surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bulkhead luminaire
+  language_code: eng
+  annotations: []
+termid: 17-113
+id: 3bfdaca1-8861-550c-9041-f9c1e8fdb418

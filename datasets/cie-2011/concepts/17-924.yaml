@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-924
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171831/http://eilv.cie.co.at/term/924
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-073
+  type: authoritative
+status: valid
+id: 04f90d16-0b95-5382-af53-c6f1a1133ad7
+---
+data:
+  definition:
+  - content: |-
+      density of incident photon number with respect to area at a point on a real or imaginary surface
+
+      stem:[H_p = ((d N_p))/((d A))]
+
+      where stem:[N_p] is photon number and stem:[A] is the area on which the photons are incident
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon exposure (at a point of a surface, for a given duration)
+  - type: symbol
+    normative_status: preferred
+    designation: Hp; H
+  - type: symbol
+    normative_status: preferred
+    designation: Hp; H
+  language_code: eng
+  annotations: []
+termid: 17-924
+id: df6bd8cb-dd6e-5e23-9009-b9e7e8eb2582

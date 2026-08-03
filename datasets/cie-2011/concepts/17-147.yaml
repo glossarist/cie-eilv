@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-147
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002132232/http://eilv.cie.co.at/term/147
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-054
+  type: authoritative
+status: valid
+id: a9dfd43d-22cc-5c3e-89ac-1b7ba10c9607
+---
+data:
+  definition:
+  - content: plane diagram in which points specified by chromaticity coordinates represent
+      the chromaticities of colour stimuli
+    type: intensional
+  examples: []
+  notes:
+  - content: In the CIE standard colorimetric systems stem:[y] is normally plotted
+      as ordinate and x as abscissa, to obtain an stem:[x], stem:[y] chromaticity
+      diagram.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-054
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chromaticity diagram
+  language_code: eng
+  annotations: []
+termid: 17-147
+id: fae1792b-3b74-5f68-81bf-188208a94c43

@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1403
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121319/http://eilv.cie.co.at/term/1403
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-078
+  type: authoritative
+status: valid
+id: 854831ee-635c-5871-8ffd-69735bedd572
+---
+data:
+  definition:
+  - content: measure of spatial discrimination such as the reciprocal of the value
+      of the angular separation in minutes of arc of two neighbouring objects (points
+      or lines or other specified stimuli) which the observer can just perceive to
+      be separate
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-078
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual acuity
+  - type: symbol
+    normative_status: preferred
+    designation: visual resolution, <quantitatively>
+  - type: symbol
+    normative_status: preferred
+    designation: visual resolution, <quantitatively>
+  - type: expression
+    normative_status: admitted
+    designation: visual resolution
+  language_code: eng
+  annotations: []
+termid: 17-1403
+id: 5b93a7f0-ad36-570d-a3a6-a1c825031d76

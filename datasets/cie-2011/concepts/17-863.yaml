@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-863
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916123616/http://eilv.cie.co.at/term/863
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-085
+  type: authoritative
+status: valid
+id: 33aafb2d-7db4-5663-ac8f-336be66a4e06
+---
+data:
+  definition:
+  - content: first part of the open road directly after the exit portal of a road
+      tunnel
+    type: intensional
+  examples: []
+  notes:
+  - content: The parting zone is not a part of the tunnel, but it is closely related
+      to the tunnel lighting. The parting zone begins at the exit portal. It is advised
+      that the length of the parting zone is equal to 2 times the stopping distance.
+      A length of more than 200 m is not necessary.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-085
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parting zone (of a road tunnel)
+  language_code: eng
+  annotations: []
+termid: 17-863
+id: 49821f0d-e2e7-5115-bbf2-52187f99f26c

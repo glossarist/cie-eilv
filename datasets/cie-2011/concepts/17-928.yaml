@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-928
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922172453/http://eilv.cie.co.at/term/928
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-046
+  type: authoritative
+status: valid
+id: db5ec82b-c583-5d15-946d-8d73980fba91
+---
+data:
+  definition:
+  - content: |-
+      density of photon flux with respect to solid angle in a specified direction
+
+      stem:[I_p = ((d Phi_p))/((d omega))]
+
+      where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-046
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon intensity (of a source, in a given direction)
+  - type: symbol
+    normative_status: preferred
+    designation: Ip; I
+  - type: symbol
+    normative_status: preferred
+    designation: Ip; I
+  language_code: eng
+  annotations: []
+termid: 17-928
+id: 890c4a10-0921-53f7-9f75-d17e57f2b788

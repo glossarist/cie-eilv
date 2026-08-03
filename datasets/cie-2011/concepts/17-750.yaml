@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-750
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045233/http://eilv.cie.co.at/term/750
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-157
+  type: authoritative
+status: valid
+id: 9495625f-404d-5968-89e8-20897685010d
+---
+data:
+  definition:
+  - content: value below which the average illuminance over a specified surface is
+      not permitted to fall
+    type: intensional
+  examples: []
+  notes:
+  - content: It is the average illuminance over the specified surface at the time
+      maintenance should be carried out.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-157
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintained average illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av,m; ; Eav,m;
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,av,m; ; Eav,m;
+  language_code: eng
+  annotations: []
+termid: 17-750
+id: b0bb11f4-98d7-5758-be92-0c8a562e9eac

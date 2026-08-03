@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-989
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171653/http://eilv.cie.co.at/term/989
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-074
+  type: authoritative
+status: valid
+id: 6a1747da-93f9-531e-b023-d20a0dd6a167
+---
+data:
+  definition:
+  - content: electric lamp in which the luminous element is of relatively concentrated
+      form and is mounted in a way that the electric lamp can be used with a system
+      for the projection of either still or motion pictures on a screen
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: projection lamp
+  language_code: eng
+  annotations: []
+termid: 17-989
+id: 28f29ace-2d7e-5ce5-bd39-45a90c505d2d

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-362
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130035/http://eilv.cie.co.at/term/362
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-093
+  type: authoritative
+status: valid
+id: ad301358-854e-5823-9f22-61c393fc9b2d
+---
+data:
+  definition:
+  - content: angular distribution of the receiver responsivity with respect to the
+      centre of the sampling aperture on the sample being measured
+    type: intensional
+  examples: []
+  notes:
+  - content: The influx and efflux geometry together specify the geometric nature
+      of the measurement for reflectance and transmittance measurements.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-093
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: efflux geometry
+  language_code: eng
+  annotations: []
+termid: 17-362
+id: 95f5148c-7e46-5b61-9692-c96de348bba6

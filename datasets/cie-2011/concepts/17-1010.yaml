@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1010
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162641/http://eilv.cie.co.at/term/1010
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-074
+  type: authoritative
+status: valid
+id: 8e9e5e80-923c-50cf-8a3b-c7bda9ae0f6c
+---
+data:
+  definition:
+  - content: quotient of the number of elementary events (such as release of an electron)
+      contributing to the output and the number of incident photons, including those
+      reflected by the detector
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantum efficiency (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: quantum efficiency, <of a detector>
+  - type: symbol
+    normative_status: preferred
+    designation: quantum efficiency, <of a detector>
+  language_code: eng
+  annotations: []
+termid: 17-1010
+id: 28d6d4c1-58e3-51eb-ac84-d3cd1a60d534

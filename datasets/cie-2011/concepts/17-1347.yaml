@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1347
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922163315/http://eilv.cie.co.at/term/1347
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-034
+  type: authoritative
+status: valid
+id: 37af5725-66bb-5311-a152-4f8e2ac8629c
+---
+data:
+  definition:
+  - content: dichromatic {{17-287, defective colour vision}} in which discrimination
+      of the bluish and yellowish contents of colours is absent
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tritanopia
+  language_code: eng
+  annotations: []
+termid: 17-1347
+id: 3de6689a-f53d-55f7-9617-bfefa254c37f

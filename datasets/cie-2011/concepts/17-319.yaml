@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-319
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121510/http://eilv.cie.co.at/term/319
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-014
+  type: authoritative
+status: valid
+id: e7e94895-34d5-5c10-8bbc-7208c5c11ea1
+---
+data:
+  definition:
+  - content: lighting by means of primary light sources and luminaires having a distribution
+      of luminous intensity such that the fraction of the emitted luminous flux directly
+      reaching the working plane, assumed to be of infinite extent, is 90 % to 100 %
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-014
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct lighting
+  language_code: eng
+  annotations: []
+termid: 17-319
+id: 49ad9756-3c47-51fe-96ae-b84a234104a5

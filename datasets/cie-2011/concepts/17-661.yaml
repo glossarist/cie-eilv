@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-661
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922041534/http://eilv.cie.co.at/term/661
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-084
+  type: authoritative
+status: valid
+id: 715f0299-9a8f-5ea2-bfdb-c59ec2013c53
+---
+data:
+  definition:
+  - content: point used as origin for photometric measurements and calculations
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-084
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light centre (of a source)
+  language_code: eng
+  annotations: []
+termid: 17-661
+id: c9559002-cde6-5217-b94f-55aef0a28d72

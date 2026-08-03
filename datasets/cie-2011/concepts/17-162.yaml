@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-162
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202064608/http://eilv.cie.co.at/term/162
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-073
+  type: authoritative
+status: valid
+id: c1a130c8-f387-5137-95f7-19a493cb72b4
+---
+data:
+  definition:
+  - content: "uniform chromaticity scale diagram produced by plotting in rectangular
+      coordinates stem:[v]′ against stem:[u]′, quantities defined by the equations:<ul
+      style=\"list-style-type:none;\">* stem:[u]′ = 4 stem:[X] / (stem:[X] + 15stem:[Y]
+      + 3stem:[Z]) = 4stem:[x] / (−2stem:[x] + 12stem:[y] + 3) * stem:[v]′ = 9 stem:[Y]
+      / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (−2stem:[x] +12stem:[y]
+      + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the tristimulus values in the
+      CIE 1931 or 1964 standard colorimetric systems, and stem:[x], stem:[y] are the
+      corresponding chromaticity coordinates of the colour stimulus considered"
+    type: intensional
+  examples: []
+  notes:
+  - content: 'This diagram is a modification of, and supersedes, the CIE 1960 UCS
+      diagram in which stem:[v]was plotted against stem:[u]in rectangular coordinates.
+      The relationships between the 2 pairs of coordinates are: stem:[u]'' = stem:[u];
+      stem:[v]'' = 1,5 v.'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 uniform chromaticity scale diagram
+  - type: symbol
+    normative_status: preferred
+    designation: CIE 1976 UCS diagram
+  - type: symbol
+    normative_status: preferred
+    designation: CIE 1976 UCS diagram
+  - type: expression
+    normative_status: admitted
+    designation: CIE 1976 UCS diagram
+  language_code: eng
+  annotations: []
+termid: 17-162
+id: f5b49ae8-93ad-513b-abaf-0a899b05df6f

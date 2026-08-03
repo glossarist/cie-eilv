@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-473
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120335/http://eilv.cie.co.at/term/473
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-007
+  type: authoritative
+status: valid
+id: 31a439bc-bf8d-55e2-bdd3-c2cacb849420
+---
+data:
+  definition:
+  - content: central region of the fovea which contains no blood vessels in the inner
+      retinal layers
+    type: intensional
+  examples: []
+  notes:
+  - content: The foveola subtends an angle of about 0,017 rad (1°) in the visual field.
+    type: intensional
+  - content: The central area of the foveola, subtending an angle of about 0,003 rad
+      (0,2°), contains no blue cones.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: foveola
+  language_code: eng
+  annotations: []
+termid: 17-473
+id: c06da076-1482-58c6-aecf-491629aafc67

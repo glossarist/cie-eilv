@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1300
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164924/http://eilv.cie.co.at/term/1300
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-171
+  type: authoritative
+status: valid
+id: 17cdf905-df39-5abb-b740-3b7ed04aa8d2
+---
+data:
+  definition:
+  - content: partial area in the work place in which the visual task is carried out
+    type: intensional
+  examples: []
+  notes:
+  - content: For places where the size and/or location of the task area are unknown,
+      the area where the task may occur is the task area.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-171
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: task area
+  language_code: eng
+  annotations: []
+termid: 17-1300
+id: 82729384-9148-5729-9757-a88b09bd2272

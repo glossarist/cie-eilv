@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-642
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916122028/http://eilv.cie.co.at/term/642
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-136
+  type: authoritative
+status: valid
+id: 8ce1b1cc-af2d-5718-8eff-85b683bd7da9
+---
+data:
+  definition:
+  - content: source emitting coherent optical radiation produced by stimulated emission
+    type: intensional
+  examples: []
+  notes:
+  - content: This is an acronym for "light amplification by stimulated emission of
+      radiation".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-136
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: laser
+  language_code: eng
+  annotations: []
+termid: 17-642
+id: 44800fba-cb57-57ed-91f7-d356d9295584

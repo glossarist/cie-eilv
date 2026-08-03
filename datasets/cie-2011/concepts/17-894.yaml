@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-894
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120510/http://eilv.cie.co.at/term/894
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-007
+  type: authoritative
+status: valid
+id: d6abc7e4-68d3-5c4d-8442-128a6d820524
+---
+data:
+  definition:
+  - content: process by which a substance or a system becomes less susceptible to
+      photoeffects by the action of another substance or system
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photodesensitization
+  language_code: eng
+  annotations: []
+termid: 17-894
+id: ab187168-bcda-5d0b-9e28-0d71ce80ead2

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-1113
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171129/http://eilv.cie.co.at/term/1113
+  type: authoritative
+status: valid
+id: 7b02c6cb-53f8-542e-8394-0941c2b80b2b
+---
+data:
+  definition:
+  - content: any way for purposes of traffic, incl. pedestrians
+    type: intensional
+  examples: []
+  notes:
+  - content: Parts of the road or certain types of road may be intended or restricted
+      for the use of particular types of road users.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: road
+  language_code: eng
+  annotations: []
+termid: 17-1113
+id: '09ee9521-a1c2-59f9-a229-e94ab5afee62'

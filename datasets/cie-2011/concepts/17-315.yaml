@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-315
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121500/http://eilv.cie.co.at/term/315
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-063
+  type: authoritative
+status: valid
+id: feab7e5c-af41-5e18-b194-ad284ea0ca43
+---
+data:
+  definition:
+  - content: device for varying the luminous flux from light sources
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimmer
+  language_code: eng
+  annotations: []
+termid: 17-315
+id: 4ca93f9e-2d05-5909-a345-2090671cd62f

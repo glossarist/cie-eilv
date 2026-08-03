@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1229
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818131541/http://eilv.cie.co.at/term/1229
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-063
+  type: authoritative
+status: valid
+id: 456e4d44-3c62-551b-9609-93a96b7de421
+---
+data:
+  definition:
+  - content: |-
+      quotient of the output, dstem:[Y](stem:[lambda]), and the monochromatic input, dstem:[X_e](stem:[lambda]) = stem:[X_(e,lambda)](stem:[lambda]) dstem:[lambda], in the wavelength interval, dstem:[lambda], as a function of the wavelength, stem:[lambda]
+
+      stem:[s ( lambda ) = ((d Y ( lambda )))/((d X_e ( lambda )))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral responsivity (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: s(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: s(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1229
+id: 7fbd9ae8-4aca-5edf-901e-5a52dc97fbf4

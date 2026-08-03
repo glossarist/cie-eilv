@@ -141,6 +141,75 @@ Two-phase scrape → transform with local caching. Re-runs are incremental: cach
 
 If you need to regenerate `datasets/` from scratch, you must first populate `reference-docs/` by running the scraper — the transformer does not call the network.
 
+## 2011 archive pipeline (`CieEilv::Archive2011`)
+
+The 1st edition (CIE S 017:2011) lived at `eilv.cie.co.at`, which was decommissioned after the 2020 launch. The full site is archived on `web.archive.org`; the scrape pins every fetch to the latest snapshot at or before `20191231235959` for reproducibility.
+
+### Architecture
+
+All 2011 code lives under the `CieEilv::Archive2011` namespace (autoloaded from `lib/cie_eilv/archive_2011.rb`). It mirrors the 2020 pipeline's class structure:
+
+| Class | Responsibility |
+|---|---|
+| `Archive2011::Paths` | Constants: dataset id, URN, reference-docs subdirs, Wayback URLs, target timestamp. |
+| `Archive2011::Client` | Wayback HTTP client. Two-layer cache: snapshot_map (URL→wayback URL JSON) + body cache (MD5-keyed HTML shared with the 2020 pipeline's `api-cache/`). Retries with exponential backoff. |
+| `Archive2011::Index` | CDX-based enumeration. One CDX query returns all snapshots of `eilv.cie.co.at/term/*`; we filter to HTML 200s, dedupe by URL, keep the latest per URL ≤ TARGET_TIMESTAMP. ~1,450 terms. |
+| `Archive2011::TermParser` | Parses the archived HTML markup: `<h2 class="header_neu">` for termid+designation+symbol, sibling `<p>`s for definition/notes. Handles numbered and unnumbered NOTEs. |
+| `Archive2011::TermEntry` | Immutable value object (no usage_info / part_of_speech — those don't exist in the 2011 markup). Carries `equivalent_terms[]` for "Equivalent term:" lines. |
+| `Archive2011::ConceptBuilder` | Maps TermEntry → Glossarist v3 models for the cie-2011 dataset. Source = "CIE S 017:2011", link = Wayback URL. Equivalent terms → admitted expressions. Flat section-all domain. |
+| `Archive2011::RegisterBuilder` | Single-section register (the 2011 IDs lack a section prefix). |
+| `Archive2011::CrossRefLinker` | Rewrites `<a href="NNNN">` and Wayback-rewritten anchors into `{{17-NNNN, designation}}`. |
+| `Archive2011::Auditor` | Per-concept + per-dataset invariant validation, mirroring the 2020 auditor with a 2011-specific termid regex. |
+
+### 2011 data pipeline (run scripts in this order)
+
+1. **`scrape_2011_index.rb`** — One CDX query, dedupe+filter, writes `reference-docs/scraped/editions/cie-2011/index.json`.
+2. **`scrape_2011_pages.rb`** — For each entry in `index.json`, `Client.fetch_raw(wayback_url)` → `pages/<archive_id>.html`. Idempotent.
+3. **`scrape_2011_images.rb`** — Walks cached HTML for `<img src="*eilv.cie.co.at/sites/default/files/*">`, downloads each Wayback image to `images/<filename>`.
+4. **`transform_2011_terms.rb`** — For each cached page, `TermParser.parse` + `ConceptBuilder.write_concept` → `datasets/cie-2011/concepts/17-<archive_id>.yaml`.
+5. **`generate_2011_register.rb`** — Emits `datasets/cie-2011/register.yaml`.
+6. **`link_2011_cross_refs.rb`** — Second-pass rewrite of cross-concept anchors.
+7. **`audit_2011_terms.rb`** — Validates the dataset; exits non-zero on errors.
+
+### Reference-docs layout for 2011
+
+```
+reference-docs/scraped/editions/cie-2011/
+  index.json          # [{archive_id, original_url, wayback_url, snapshot_timestamp}, ...]
+  pages/<id>.html     # raw Wayback HTML per term
+  images/<id>-N.png   # math figures (after scrape_2011_images.rb)
+  snapshots.json      # availability-API cache (mostly unused post-CDX)
+```
+
+### 2011 HTML markup contract
+
+```html
+<div class="content-middle">
+  <div class="node">
+    <div class="content">
+      <h2 class="header_neu">17-<archive_id></h2>
+      <p>designation [<em>symbol</em>]</p>
+      <p>definition paragraph</p>
+      <p>Unit: …</p>
+      <p>Equivalent term: "…"</p>
+      <p>NOTE 1 …</p>
+      <p>NOTE 11 …</p>     <!-- markup is irregular: some pages omit the space -->
+      <p>NOTE only one.</p> <!-- or the number -->
+    </div>
+    <div style="clear:both"></div>
+  </div>
+</div>
+```
+
+- The upstream HTML nests the designation `<p>` INSIDE the `<h2>`, but HTML5 forbids block-in-heading, so Nokogiri hoists it to be a sibling. The parser relies on this hoisted shape.
+- Cross-concept anchors are bare numeric (Drupal relative URLs): `<a href="1014">radiance dose</a>`. The CrossRefLinker resolves both this form and the Wayback-rewritten form.
+- "See \"X\"" pages are alias entries with no real definition — kept verbatim; the anchor becomes a cross-ref link.
+- Math equations are `<img>` PNGs served by Wayback with the `im_` modifier. The image scraper downloads them locally.
+
+### Edition lineage
+
+`site-config.yml` declares a single `dataset_groups` entry of `kind: lineage` containing both `cie-2011` and `cie-2020`, with `current: cie-2020`. The 2011 dataset has `status: historical` in its register. Cross-edition linking (encoding the 2011→2020 numbering map in the 2020 dataset's prior-numbering sources) is a future enhancement.
+
 ## Common commands
 
 ```bash

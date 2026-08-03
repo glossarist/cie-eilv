@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-918
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051647/http://eilv.cie.co.at/term/918
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-107
+  type: authoritative
+status: valid
+id: 12dff821-8fe7-5823-914c-552015bd1849
+---
+data:
+  definition:
+  - content: quantum of electromagnetic radiation considered as a particle of energy
+      stem:[hnu], where stem:[h] is the Planck constant and stem:[nu] the {{cite:103-06-02,
+      frequency}} of the radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: A photon is an elementary particle of spin 1 and having zero rest mass.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-107
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon
+  language_code: eng
+  annotations: []
+termid: 17-918
+id: 9bb14e57-ce1e-5aac-bf6e-8582217b2b5e

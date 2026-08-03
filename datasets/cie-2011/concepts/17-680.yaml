@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-680
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191219212513/http://eilv.cie.co.at/term/680
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-063
+  type: authoritative
+status: valid
+id: 9e08edd3-73f4-51fe-b9ac-b96e35c50e0c
+---
+data:
+  definition:
+  - content: brightness of an area judged relative to the brightness of a similarly
+      illuminated area that appears to be white or highly transmitting
+    type: intensional
+  examples: []
+  notes:
+  - content: Only related colours exhibit lightness.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lightness (of a related colour)
+  language_code: eng
+  annotations: []
+termid: 17-680
+id: 498f9f62-e3e1-515c-8e31-54ff766ffbfc

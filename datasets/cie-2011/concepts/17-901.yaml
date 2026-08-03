@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-901
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917164841/http://eilv.cie.co.at/term/901
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-082
+  type: authoritative
+status: valid
+id: 636fc00d-bd24-543d-a7a3-db6983f5ec87
+---
+data:
+  definition:
+  - content: electric lamp emitting, by combustion within a bulb, a large quantity
+      of light in a single flash of very short duration, for lighting objects to be
+      photographed
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoflash lamp
+  language_code: eng
+  annotations: []
+termid: 17-901
+id: 51f97253-2dcd-582d-ae5a-bbdf71b2ef83

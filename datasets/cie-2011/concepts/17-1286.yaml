@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1286
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125610/http://eilv.cie.co.at/term/1286
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-144
+  type: authoritative
+status: valid
+id: 523b036e-78e0-5720-8abf-0fed4ea96a06
+---
+data:
+  definition:
+  - content: average illuminance on strips, which are adjacent to the edges of both
+      sides of the carriageway, to the average illuminance on the adjacent strips
+      in the carriageway
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Specific requirements regarding the width of the strips are defined in CIE 140.
+      Abbreviation: "SR"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-144
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surround ratio
+  - type: symbol
+    normative_status: preferred
+    designation: SR, <in road lighting>
+  - type: symbol
+    normative_status: preferred
+    designation: SR, <in road lighting>
+  language_code: eng
+  annotations: []
+termid: 17-1286
+id: 025f715a-5255-5639-82ce-9d4c90077fa2

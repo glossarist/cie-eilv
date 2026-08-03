@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-518
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172940/http://eilv.cie.co.at/term/518
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-014
+  type: authoritative
+status: valid
+id: c3346162-11b3-55d5-96f1-7336d7d5be64
+---
+data:
+  definition:
+  - content: bulb made of glass with a high softening temperature and resistant to
+      thermal shock
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-014
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hard-glass bulb
+  language_code: eng
+  annotations: []
+termid: 17-518
+id: 5ee31e02-b84e-5a09-b5db-fc2528fba365

@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-751
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045251/http://eilv.cie.co.at/term/751
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-153
+  type: authoritative
+status: valid
+id: 8d8be6c2-5468-52ac-a5d2-92c51e84f0b8
+---
+data:
+  definition:
+  - content: value below which the average luminance of a specified surface is not
+      permitted to fall
+    type: intensional
+  examples: []
+  notes:
+  - content: It is the average luminance of the specified surface at the time maintenance
+      must be carried out.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-153
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintained average luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av,m; ; Lav,m;
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av,m; ; Lav,m;
+  language_code: eng
+  annotations: []
+termid: 17-751
+id: 622394a6-b007-5d1e-92b8-a274b95c04ee

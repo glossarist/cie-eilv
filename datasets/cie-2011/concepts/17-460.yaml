@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-460
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125508/http://eilv.cie.co.at/term/460
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-108
+  type: authoritative
+status: valid
+id: d8cf4824-2891-5da1-92a1-8b723cf42097
+---
+data:
+  definition:
+  - content: sign having elements and/or a background containing fluorescent components
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-108
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent sign
+  language_code: eng
+  annotations: []
+termid: 17-460
+id: 2b520abd-3365-5152-ac90-259e126189ec

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-187
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426232849/http://eilv.cie.co.at/term/187
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-036
+  type: authoritative
+status: valid
+id: b95a0080-5216-57f2-9d72-94e0ab92d7a5
+---
+data:
+  definition:
+  - content: discharge lamp in which the light is produced by the positive column
+      of a glow discharge
+    type: intensional
+  examples: []
+  notes:
+  - content: Such a lamp is generally fed from a device providing sufficient voltage
+      to initiate starting without special means.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-036
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cold cathode lamp
+  language_code: eng
+  annotations: []
+termid: 17-187
+id: 3a32bb69-6d38-58df-a14c-a48cc0257ca5

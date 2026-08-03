@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-712
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823052706/http://eilv.cie.co.at/term/712
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-079
+  type: authoritative
+status: valid
+id: 68910517-e741-5ee1-8a34-76325277bc3d
+---
+data:
+  definition:
+  - content: |-
+      quotient of the luminance at a surface element of a medium in a given direction and the illuminance on the medium
+
+      stem:[q_v = ((L_v))/((E_v))]
+
+      where stem:[L_v] is luminance and stem:[E_v] is illuminance
+    type: intensional
+  examples: []
+  notes:
+  - content: See NOTE to “{{17-1013, radiance coefficient (at a surface element of
+      a medium, in a given direction, under specified conditions of irradiation)}}”.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-079
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance coefficient (at a surface element of a medium, in a given
+      direction, under specified conditions of illumination)
+  - type: symbol
+    normative_status: preferred
+    designation: qv; q
+  - type: symbol
+    normative_status: preferred
+    designation: qv; q
+  language_code: eng
+  annotations: []
+termid: 17-712
+id: 77447a00-78e4-5aaa-b99a-5f770c0a6e12

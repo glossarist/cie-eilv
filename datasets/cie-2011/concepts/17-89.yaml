@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-89
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102104/http://eilv.cie.co.at/term/89
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-040
+  type: authoritative
+status: valid
+id: 5caade25-e9ad-5b4b-a46a-04ead0202fb4
+---
+data:
+  definition:
+  - content: characteristic periodic change in a living organism or life-related process
+    type: intensional
+  examples: []
+  notes:
+  - content: Biological rhythms may be influenced by optical radiation.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-040
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biological rhythm
+  language_code: eng
+  annotations: []
+termid: 17-89
+id: 7b3c1ade-d95d-5fc1-b066-f855b86a2922

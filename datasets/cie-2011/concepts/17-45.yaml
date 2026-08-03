@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-45
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101411/http://eilv.cie.co.at/term/45
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-025
+  type: authoritative
+status: valid
+id: c0c79def-e90c-56fd-9731-d421e97c0f10
+---
+data:
+  definition:
+  - content: photoluminescence whose radiation is located in a spectral region of
+      shorter wavelengths than that of the exciting radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: This happens, for instance, when the energy of the emitted photons originates
+      from the absorption of 2 exciting photons.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anti-Stokes luminescence
+  language_code: eng
+  annotations: []
+termid: 17-45
+id: 9ed3a868-1dfe-58df-a7a4-4620e4f3cd20

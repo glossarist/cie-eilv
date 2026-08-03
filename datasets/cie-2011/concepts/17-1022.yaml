@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1022
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162457/http://eilv.cie.co.at/term/1022
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-032
+  type: authoritative
+status: valid
+id: bfaa11aa-458a-59ce-b0a0-37eee7e0773f
+---
+data:
+  definition:
+  - content: instrument for measuring radiant exposure
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant exposure meter
+  language_code: eng
+  annotations: []
+termid: 17-1022
+id: 9fe66838-af8e-58c1-a491-460b63d9053b

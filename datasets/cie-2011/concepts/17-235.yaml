@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-235
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916122646/http://eilv.cie.co.at/term/235
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-032
+  type: authoritative
+status: valid
+id: e7789e88-1ec9-519c-b275-e8ade1246492
+---
+data:
+  definition:
+  - content: three values of a set of colour-matching functions at a given wavelength
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour-matching coefficients
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: spectral tristimulus values, pl'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: spectral tristimulus values, pl'
+  language_code: eng
+  annotations: []
+termid: 17-235
+id: e237ef95-22c9-52f2-a1ed-e44bace6972b

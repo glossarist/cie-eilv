@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-1275
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161737/http://eilv.cie.co.at/term/1275
+  type: authoritative
+status: valid
+id: 5f3e7be7-2af2-5580-90d1-3a1e137b2a08
+---
+data:
+  definition:
+  - content: |-
+      incandescent lamp in which the luminous element is a tungsten ribbon
+
+      Equivalent term used outside US: "tungsten ribbon lamp"
+    type: intensional
+  examples: []
+  notes:
+  - content: This type of lamp is particularly used as a standard in pyrometry and
+      spectral radiometry.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: strip lamp (US)
+  language_code: eng
+  annotations: []
+termid: 17-1275
+id: 866b2689-b9b8-5d9e-9921-1152da868088

@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1440
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120429/http://eilv.cie.co.at/term/1440
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-068
+  type: authoritative
+status: valid
+id: ce3c0c84-9866-5a33-abf4-4bb5aadba59f
+---
+data:
+  definition:
+  - content: reference surface defined as the plane at which work is usually done
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: work plane
+  - type: symbol
+    normative_status: preferred
+    designation: work plane
+  - type: symbol
+    normative_status: preferred
+    designation: work plane
+  language_code: eng
+  annotations: []
+termid: 17-1440
+id: 7b03dc57-dddf-5772-bb00-8fea0491883f

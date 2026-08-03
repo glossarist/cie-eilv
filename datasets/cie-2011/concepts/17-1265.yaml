@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1265
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160639/http://eilv.cie.co.at/term/1265
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-007
+  type: authoritative
+status: valid
+id: 7862ebc5-2587-5fb7-9b4b-dd5c1fbf2a6a
+---
+data:
+  definition:
+  - content: |-
+      relation between the radiant exitance, stem:[M_e], of a Planckian radiator and its temperature, stem:[T], given by
+
+      stem:[M_e] = stem:[sigma] stem:[T^4]
+
+      where stem:[sigma] is the Stefan-Boltzmann constant and stem:[T] is the thermodynamic temperature
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      For the value of the Stefan-Boltzmann constant, σ, see CODATA.
+      See "{{17-958, Planck's law}}" for the meaning of the symbols
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Stefan-Boltzmann's law
+  language_code: eng
+  annotations: []
+termid: 17-1265
+id: 7b01c462-0311-572f-94e7-fe56cc949f03

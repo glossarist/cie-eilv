@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-11
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202064603/http://eilv.cie.co.at/term/11
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-049
+  type: authoritative
+status: valid
+id: ef91ade7-e839-5892-a245-74935df87231
+---
+data:
+  definition:
+  - content: perceived colour devoid of hue
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The colour names white, grey and black are commonly used or, for transmitting objects, colourless and neutral.
+      2. in the psychophysical sense: see "{{17-12, achromatic stimulus}}"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: achromatic colour
+  language_code: eng
+  annotations: []
+termid: 17-11
+id: bd107200-93a7-5095-bc1c-f505630ebed6

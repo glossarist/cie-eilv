@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-694
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202064558/http://eilv.cie.co.at/term/694
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-141
+  type: authoritative
+status: valid
+id: 032e9122-27d3-5422-beb7-2d949120ddaa
+---
+data:
+  definition:
+  - content: quotient of the minimum luminance and the maximum luminance in the longitudinal
+      direction along the centreline of each lane
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-141
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: longitudinal uniformity of road surface luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ul
+  - type: symbol
+    normative_status: preferred
+    designation: Ul
+  language_code: eng
+  annotations: []
+termid: 17-694
+id: c6525b91-42ab-5b8d-9319-47636b049335

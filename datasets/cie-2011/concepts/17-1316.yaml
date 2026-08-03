@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1316
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010059/http://eilv.cie.co.at/term/1316
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-112
+  type: authoritative
+status: valid
+id: fdce9235-3235-5a37-bcd1-47ff9d389577
+---
+data:
+  definition:
+  - content: angle between a defined datum axis related to the luminaire and the horizontal
+      when the luminaire is mounted for photometric measurement
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined datum axis may be any feature of the luminaire, but generally
+      for a side- mounted luminaire it lies in the mouth of the luminaire canopy,
+      in line with the spigot axis. Another commonly used feature is the spigot entry
+      axis.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-112
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tilt during measurement (of a luminaire)
+  - type: symbol
+    normative_status: preferred
+    designation: θm
+  - type: symbol
+    normative_status: preferred
+    designation: θm
+  language_code: eng
+  annotations: []
+termid: 17-1316
+id: f5516554-f157-5214-b8db-cce72f667b97

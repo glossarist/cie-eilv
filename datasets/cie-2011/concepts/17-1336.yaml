@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-1336
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130824/http://eilv.cie.co.at/term/1336
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-048
+  type: authoritative
+status: valid
+id: 55a276dd-f09a-5ebb-a19d-51873f016c5b
+---
+data:
+  definition:
+  - content: passage of radiation through a medium without change in {{cite:103-06-02,
+      frequency}} of its monochromatic components
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission
+  language_code: eng
+  annotations: []
+termid: 17-1336
+id: 42674a32-5996-5b9c-9cb7-a77fdf3a2f84

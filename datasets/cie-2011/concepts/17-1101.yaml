@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1101
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013041/http://eilv.cie.co.at/term/1101
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-023
+  type: authoritative
+status: valid
+id: 7cde38da-de6d-554d-93c6-c606cfc973ba
+---
+data:
+  definition:
+  - content: retinal injury caused by brief, intense radiant exposure of the retina
+      from wavelengths in the retinal hazard spectral region (380 nm to 1 400 nm)
+      within which the normal ocular media transmit optical radiation to the retina
+    type: intensional
+  examples: []
+  notes:
+  - content: In IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and
+      lamp systems]the maximum assessment time is taken as 10 s.
+    type: intensional
+  - content: In some cases a blue light photoretinitis is also termed a "retinal burn".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal thermal injury
+  language_code: eng
+  annotations: []
+termid: 17-1101
+id: 9d570e15-dab3-5079-9055-01745f0b9de6

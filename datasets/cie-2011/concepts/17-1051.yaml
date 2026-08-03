@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1051
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922163611/http://eilv.cie.co.at/term/1051
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-096
+  type: authoritative
+status: valid
+id: 915e1bd0-9144-54a9-884d-e4eed4398a0c
+---
+data:
+  definition:
+  - content: electric lamp selected for testing ballasts which, when associated with
+      a reference ballast, has electrical characteristics which are close to the rated
+      values as stated in the relevant lamp standard
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-096
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference lamp (for testing ballasts)
+  language_code: eng
+  annotations: []
+termid: 17-1051
+id: b9b1c468-a8e3-55f0-a521-85d5b632ec9a

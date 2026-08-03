@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-804
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125447/http://eilv.cie.co.at/term/804
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-041
+  type: authoritative
+status: valid
+id: 8852879a-0a4f-54ec-8bc7-6d0590cedefa
+---
+data:
+  definition:
+  - content: signal light, one of a set, carried on an aircraft to indicate the presence
+      and aspect of the aircraft
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation (aircraft) light
+  language_code: eng
+  annotations: []
+termid: 17-804
+id: 3b6f96e6-4857-5b12-a44f-de74bf1c76d9

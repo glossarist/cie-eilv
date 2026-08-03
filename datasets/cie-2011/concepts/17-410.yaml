@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-410
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134803/http://eilv.cie.co.at/term/410
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-094
+  type: authoritative
+status: valid
+id: 6d1c98df-2894-5da2-895c-b54128aa7cc7
+---
+data:
+  definition:
+  - content: part of a road tunnel construction that corresponds to the end of the
+      covered part of the road tunnel or, when open sun screens are used, to the end
+      of the sun screens
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-094
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exit portal (of a road tunnel)
+  language_code: eng
+  annotations: []
+termid: 17-410
+id: 7ba273c7-bb0d-52d8-b6dc-40ca6c49b02d

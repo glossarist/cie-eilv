@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-865
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164735/http://eilv.cie.co.at/term/865
+  type: authoritative
+status: valid
+id: c3c2e890-a958-5a68-b29c-e749e0e6cbe6
+---
+data:
+  definition:
+  - content: |-
+      part of the road normally used by motorized vehicular traffic
+
+      Equivalent term used outside US: "carriageway"
+    type: intensional
+  examples: []
+  notes:
+  - content: It can include emergency lanes.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pavement (US)
+  language_code: eng
+  annotations: []
+termid: 17-865
+id: ea2d285a-e2b9-5c6a-9902-d85ccaf38148

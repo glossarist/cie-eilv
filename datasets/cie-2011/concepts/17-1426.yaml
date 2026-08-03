@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-1426
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823045803/http://eilv.cie.co.at/term/1426
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-025
+  type: authoritative
+status: valid
+id: 257638a8-58d5-5630-89ee-491ce36ed32a
+---
+data:
+  definition:
+  - content: distance in the direction of propagation of a periodic wave between two
+      successive positions at which the phase is the same
+    type: intensional
+  examples: []
+  notes:
+  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided
+      by the refractive index of the medium. Unless otherwise stated, values of wavelength
+      are generally those in air. The refractive index of standard air (for spectroscopy:
+      stem:[T] = 15 ° C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29
+      for visible radiation.'
+    type: intensional
+  - content: stem:[lambda] = stem:[nu] / stem:[v], where stem:[lambda]is the wavelength
+      in a medium, stem:[nu] is the phase velocity in that medium and stem:[v] the
+      frequency.
+    type: intensional
+  - content: In optical radiation the units “nm” and “µm” are generally used.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wavelength
+  - type: symbol
+    normative_status: preferred
+    designation: λ
+  - type: symbol
+    normative_status: preferred
+    designation: λ
+  language_code: eng
+  annotations: []
+termid: 17-1426
+id: 8b1313bc-d4e8-507b-8b4c-373a8009bd1f

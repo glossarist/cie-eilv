@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1077
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145614/http://eilv.cie.co.at/term/1077
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-052
+  type: authoritative
+status: valid
+id: dc70d211-6a97-59f7-acc5-1c401f204510
+---
+data:
+  definition:
+  - content: reflection in accordance with the laws of geometrical optics, without
+      scattering
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular reflection
+  - type: symbol
+    normative_status: preferred
+    designation: specular reflection
+  - type: symbol
+    normative_status: preferred
+    designation: specular reflection
+  - type: expression
+    normative_status: admitted
+    designation: specular reflection
+  language_code: eng
+  annotations: []
+termid: 17-1077
+id: e2d0ee50-3603-5f47-af16-b2341ade6864

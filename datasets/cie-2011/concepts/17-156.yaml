@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-156
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426215913/http://eilv.cie.co.at/term/156
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-077
+  type: authoritative
+status: valid
+id: 06466a13-b6ba-58c4-b202-d7b801f6b737
+---
+data:
+  definition:
+  - content: "difference between two colour stimuli, defined as the Euclidean distance
+      between the points representing them in the CIE 1976 L*a*b* colour space and
+      calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_(ab)^*
+      = ( Delta L_()^* )^2 + ( Delta a_()^* )^2 + ( Delta b_()^* )^2^(1 // 2)]"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1976 stem:[L]*stem:[a]*stem:[b]* colour difference
+  - type: symbol
+    normative_status: preferred
+    designation: CIELAB colour difference
+  - type: symbol
+    normative_status: preferred
+    designation: CIELAB colour difference
+  - type: expression
+    normative_status: admitted
+    designation: CIELAB colour difference
+  language_code: eng
+  annotations: []
+termid: 17-156
+id: a79ec096-485d-52bf-ab51-91bb472d5d6c

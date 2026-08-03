@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-102
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20160421094452/http://eilv.cie.co.at/term/102
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-060
+  type: authoritative
+status: valid
+id: 482071c5-b0d7-5318-8ca6-17464001d9cc
+---
+data:
+  definition:
+  - content: function representing the relative spectral sensitivity of the human
+      eye to blue light hazards, based upon the relative spectral effectiveness of
+      optical radiation to induce retinal photochemical injury (e.g. photic maculopathy)
+    type: intensional
+  examples: []
+  notes:
+  - content: Specified in ICNIRP-recommendations for stem:[lambda]stem:[]= 300 nm
+      to 700 nm.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-060
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: B(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: B(λ)
+  language_code: eng
+  annotations: []
+termid: 17-102
+id: c90401f6-79da-5c2a-8d01-dd9a3041902a

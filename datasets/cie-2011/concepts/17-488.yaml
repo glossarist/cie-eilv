@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-488
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121755/http://eilv.cie.co.at/term/488
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-022
+  type: authoritative
+status: valid
+id: b22d97cc-f5ac-5d19-86d1-68a3dd446175
+---
+data:
+  definition:
+  - content: greatest distance at which an object or a light source could be seen
+      under conditions of perfect visibility, as limited only by the curvature of
+      the Earth, by refraction in the atmosphere, and by the heights of the observer
+      and the object or light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographical range
+  - type: symbol
+    normative_status: preferred
+    designation: geographic range
+  - type: symbol
+    normative_status: preferred
+    designation: geographic range
+  language_code: eng
+  annotations: []
+termid: 17-488
+id: be95aa39-0d88-5d59-ab72-43447b648a25

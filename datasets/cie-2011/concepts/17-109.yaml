@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-109
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426194409/http://eilv.cie.co.at/term/109
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-089
+  type: authoritative
+status: valid
+id: fc484cc5-a5b8-5a57-b237-ad37c6ada951
+---
+data:
+  definition:
+  - content: |-
+      function describing the change with direction of irradiation (stem:[theta_i],stem:[ϕ_i]) and direction of view (stem:[theta_r],stem:[ϕ_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
+
+      stem:[rho ( theta_i , varphi_i , theta_r , varphi_r , x_r , y_r , lambda ) = ((d L_r ( theta_r , varphi_r , x_r , y_r , lambda )))/((d E_i ( theta_i , varphi_i , lambda )))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-089
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: BRDF (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: BRDF
+  - type: symbol
+    normative_status: preferred
+    designation: BRDF
+  language_code: eng
+  annotations: []
+termid: 17-109
+id: a0a8cc14-10cd-5175-9fd5-e762264be67e

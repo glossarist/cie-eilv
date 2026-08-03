@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1439
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922042316/http://eilv.cie.co.at/term/1439
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-173
+  type: authoritative
+status: valid
+id: 507ee9c2-e55e-5bdc-a5b5-4daceaa3ee7c
+---
+data:
+  definition:
+  - content: place intended to house work stations on the premises of the undertaking
+      and/or establishment and any other place within the area of undertaking and/or
+      establishment to which the workers have access in the course of their employment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-173
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: work place
+  language_code: eng
+  annotations: []
+termid: 17-1439
+id: 70e8c8d7-2a50-53d2-be71-af3c821d9920

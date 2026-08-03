@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-571
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426161956/http://eilv.cie.co.at/term/571
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-092
+  type: authoritative
+status: valid
+id: 3ea836a0-d638-5304-b5c5-f0a157311558
+---
+data:
+  definition:
+  - content: angular distribution of the radiation incident on the sample being measured
+      with respect to the centre of the sampling aperture
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incidence geometry
+  - type: symbol
+    normative_status: preferred
+    designation: irradiation geometry
+  - type: symbol
+    normative_status: preferred
+    designation: irradiation geometry
+  language_code: eng
+  annotations: []
+termid: 17-571
+id: acce4c38-048e-5fcb-b554-8c1a52f216c8

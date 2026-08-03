@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-606
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920143709/http://eilv.cie.co.at/term/606
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-006
+  type: authoritative
+status: valid
+id: 4e00d5ef-b67a-501f-90b7-0c33e140b6dd
+---
+data:
+  definition:
+  - content: "{{17-580, infrared radiation}} covering the range from 1,4 μm to 3,0 μm"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-006
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IR-B
+  language_code: eng
+  annotations: []
+termid: 17-606
+id: b375f2be-9923-59be-96bf-e6ed32752fd5

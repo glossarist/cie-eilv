@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-443
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124417/http://eilv.cie.co.at/term/443
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-092
+  type: authoritative
+status: valid
+id: 703b9baa-ac90-5b8f-bff7-09d526607ed5
+---
+data:
+  definition:
+  - content: perception of visual unsteadiness induced by a light stimulus the luminance
+      or spectral distribution of which fluctuates with time, for a static observer
+      in a static environment
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flicker
+  language_code: eng
+  annotations: []
+termid: 17-443
+id: 3525a9b2-9ce9-5855-9120-349036bc121a

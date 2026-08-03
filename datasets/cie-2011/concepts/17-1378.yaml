@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1378
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164259/http://eilv.cie.co.at/term/1378
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-048
+  type: authoritative
+status: valid
+id: 3fee1a11-78f3-5f66-9728-473646f59066
+---
+data:
+  definition:
+  - content: cumulative flux for the solid angle 2π sr, above the horizontal plane
+      passing through the light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: upward flux (of a source)
+  language_code: eng
+  annotations: []
+termid: 17-1378
+id: 359c84b6-ec49-5433-8692-5ce7dfe82f08

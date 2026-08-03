@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-534
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162150/http://eilv.cie.co.at/term/534
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-027
+  type: authoritative
+status: valid
+id: ba0342c5-84de-5802-b14c-5e3fe158d7cd
+---
+data:
+  definition:
+  - content: discharge lamp in which the light-producing arc is stabilized by wall
+      temperature and the arc has a bulb wall loading in excess of 3 W·cm^−2^
+    type: intensional
+  examples: []
+  notes:
+  - content: High intensity discharge lamps include groups of lamps known as high
+      pressure mercury, metal halide and high pressure sodium lamps.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: high intensity discharge lamp
+  - type: symbol
+    normative_status: preferred
+    designation: HID lamp
+  - type: symbol
+    normative_status: preferred
+    designation: HID lamp
+  language_code: eng
+  annotations: []
+termid: 17-534
+id: a23b5c49-9057-587a-8fe5-7984c7ab58a2

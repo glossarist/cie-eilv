@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 17-237
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820121021/http://eilv.cie.co.at/term/237
+  type: authoritative
+status: valid
+id: 272a7b02-4ba7-58db-90a1-4c522db29d1b
+---
+data:
+  definition:
+  - content: street with frontages comprising a high proportion of commercial premises
+      (usually unlit at night), and with a high proportion of heavy goods vehicles
+      in the traffic stream
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commercial street
+  language_code: eng
+  annotations: []
+termid: 17-237
+id: 952d3a36-cdd6-5ee6-8682-5da020d31dce

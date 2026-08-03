@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-260
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818140011/http://eilv.cie.co.at/term/260
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-012
+  type: authoritative
+status: valid
+id: d20ee58c-2c1b-5ff4-87d5-b92df6d78c25
+---
+data:
+  definition:
+  - content: two colour stimuli that have the same colour appearance when one is seen
+      in one set of adaptation conditions and the other is seen in a different set
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-012
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corresponding colour stimuli
+  language_code: eng
+  annotations: []
+termid: 17-260
+id: 7bb97937-ce83-51b7-9ab9-d9c09821c9e6

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-866
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818132802/http://eilv.cie.co.at/term/866
+  type: authoritative
+status: valid
+id: 3c4aac83-b77c-5db3-9c85-5aadbd5f502f
+---
+data:
+  definition:
+  - content: |-
+      traffic control device consisting of lines, patterns, or words on the pavement or curbs within or adjacent to a traffic or parking lane meant to guide or control traffic
+
+      Equivalent terms used outside US: "carriageway marking", "road marking"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pavement marking (US)
+  language_code: eng
+  annotations: []
+termid: 17-866
+id: 8f91e9b9-ab6d-5bf0-97d0-e6d719cd6f70

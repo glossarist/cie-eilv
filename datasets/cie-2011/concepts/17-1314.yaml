@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1314
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125433/http://eilv.cie.co.at/term/1314
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-083
+  type: authoritative
+status: valid
+id: c90f6b82-772f-59d5-9b64-8c9ced3989ae
+---
+data:
+  definition:
+  - content: first part of a road tunnel, directly after the entrance portal
+    type: intensional
+  examples: []
+  notes:
+  - content: The threshold zone starts either at the beginning of the tunnel or at
+      the beginning of the daylight sunscreens when occurring. The length of the threshold
+      zone is at least equal to the stopping distance.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-083
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold zone
+  language_code: eng
+  annotations: []
+termid: 17-1314
+id: 8df0cc6a-9bbd-5799-9b88-e7bdc2dbce16

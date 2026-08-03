@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-374
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134845/http://eilv.cie.co.at/term/374
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-102
+  type: authoritative
+status: valid
+id: b8656856-d9a0-54d2-bc25-ed8a8e721f76
+---
+data:
+  definition:
+  - content: light-emitting or reflective or transmissive component which forms the
+      smallest active part of the sign face
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      An element may comprise more than 1 emitter.
+      See also "{{17-956, pixel}}"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-102
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element (of a sign face)
+  language_code: eng
+  annotations: []
+termid: 17-374
+id: 422ab540-5576-5f18-b4d0-a1284a3123e7

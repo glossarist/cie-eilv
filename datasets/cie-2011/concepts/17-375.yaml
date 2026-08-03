@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-375
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120408/http://eilv.cie.co.at/term/375
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-103
+  type: authoritative
+status: valid
+id: 9d2d7bac-f785-5361-bdf8-ad7f9c6c610c
+---
+data:
+  definition:
+  - content: diameter of an element
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element size (of a sign face)
+  language_code: eng
+  annotations: []
+termid: 17-375
+id: ea1868a1-9da9-532b-8932-bc5800c4baef

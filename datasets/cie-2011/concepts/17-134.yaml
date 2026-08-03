@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-134
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426213314/http://eilv.cie.co.at/term/134
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-124
+  type: authoritative
+status: valid
+id: cac887bb-adcc-5e67-a375-1ad770149824
+---
+data:
+  definition:
+  - content: height of an upper case character within a given character set
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-124
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character height
+  language_code: eng
+  annotations: []
+termid: 17-134
+id: c25e95a2-347c-5ade-82b0-a7645a3ce8ec

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-227
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122604/http://eilv.cie.co.at/term/227
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-018
+  type: authoritative
+status: valid
+id: b61be3c8-d60b-51d5-8293-ab02d735bb2c
+---
+data:
+  definition:
+  - content: digital encoding of a colour space, including the specification of a
+      digital encoding method, and an encoding range
+    type: intensional
+  examples: []
+  notes:
+  - content: Multiple colour space encodings may be defined based on a single colour
+      space where the different colour space encodings have different digital encoding
+      methods and/or encoding ranges. (For example, 8-bit sRGB and 10-bit e-sRGB are
+      different colour space encodings based on a particular RGB colour space.)
+    type: intensional
+  - content: A colour space encoding is defined with a number of colour channels,
+      each channel corresponding to one dimension of the colour space. Encoded colour
+      channel data values indicate a position along the corresponding dimension in
+      the geometric colour space representation.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour space encoding
+  language_code: eng
+  annotations: []
+termid: 17-227
+id: 3efb3b49-0f0e-5e7c-9a8a-13e15c3493a8

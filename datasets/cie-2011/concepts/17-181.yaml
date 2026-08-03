@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-181
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426181119/http://eilv.cie.co.at/term/181
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-104
+  type: authoritative
+status: valid
+id: ca0e20f2-eb5e-56c1-9402-64c01f4d2e82
+---
+data:
+  definition:
+  - content: |-
+      quotient of the luminance, stem:[L], of a plane retroreflective surface in the direction of observation and the illuminance, stem:[E_( _|_ )], at the retroreflector on a plane perpendicular to the direction of the incident light
+
+      stem:[R_L = (L)/((E_( _|_ )))]
+    type: intensional
+  examples: []
+  notes:
+  - content: This quantity is particularly suitable for describing materials in sheet
+      form.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-104
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient of retroreflected luminance (of a plane retroreflecting
+      surface)
+  - type: symbol
+    normative_status: preferred
+    designation: RL
+  - type: symbol
+    normative_status: preferred
+    designation: RL
+  language_code: eng
+  annotations: []
+termid: 17-181
+id: 54aba1d7-c679-50e1-b9c8-1b841cc0f0a0

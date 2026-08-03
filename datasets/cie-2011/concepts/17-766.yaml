@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-766
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125747/http://eilv.cie.co.at/term/766
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-164
+  type: authoritative
+status: valid
+id: 90751336-e65d-5cdb-bbdd-deea7203802e
+---
+data:
+  definition:
+  - content: hollow light guide in which light is confined by reflection at metallic
+      surfaces of the guide wall
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-164
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metal light guide
+  language_code: eng
+  annotations: []
+termid: 17-766
+id: 5d6e6b4e-0a34-5252-a7e6-bd972e9e48ff

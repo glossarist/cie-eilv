@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-841
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122200/http://eilv.cie.co.at/term/841
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-009
+  type: authoritative
+status: valid
+id: d2f0cf92-2899-566e-8884-2650c42b74d3
+---
+data:
+  definition:
+  - content: bulb in which all, or a layer, of the material diffuses the light
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-009
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opal bulb
+  language_code: eng
+  annotations: []
+termid: 17-841
+id: fe52c280-b450-5034-8299-4fe078828e30

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-874
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920143741/http://eilv.cie.co.at/term/874
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-060
+  type: authoritative
+status: valid
+id: f7e87ee0-b76f-5643-a0d4-84a01a9f8aee
+---
+data:
+  definition:
+  - content: diffuser exhibiting isotropic diffuse reflection with a reflectance equal
+      to 1
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-060
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: perfect reflecting diffuser
+  language_code: eng
+  annotations: []
+termid: 17-874
+id: bfa4c252-26f4-5631-a70e-52b33b4eb6dc

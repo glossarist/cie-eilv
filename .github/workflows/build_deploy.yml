@@ -32,8 +32,11 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
-      - name: Audit dataset
+      - name: Audit 2020 dataset
         run: bundle exec ruby scripts/audit_terms.rb
+
+      - name: Audit 2011 dataset
+        run: bundle exec ruby scripts/audit_2011_terms.rb
 
       - name: Install concept-browser
         run: npm install --ignore-scripts

@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-1040
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818131051/http://eilv.cie.co.at/term/1040
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-070
+  type: authoritative
+status: valid
+id: 5479904e-2f9e-5340-89b2-8eb1154f4fd9
+---
+data:
+  definition:
+  - content: signal light carried on a vehicle to indicate its location when it is
+      viewed from the back
+    type: intensional
+  examples: []
+  notes:
+  - content: A rear position light may also, particularly if paired with an identical
+      light, provide an indication of the width of the vehicle.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-070
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rear position light
+  - type: symbol
+    normative_status: preferred
+    designation: tail-light
+  - type: symbol
+    normative_status: preferred
+    designation: tail-light
+  - type: expression
+    normative_status: admitted
+    designation: tail-light
+  language_code: eng
+  annotations: []
+termid: 17-1040
+id: dbc9dbe9-2260-507b-a3ce-21d2d8be0f05

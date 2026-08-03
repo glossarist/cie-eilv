@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-194
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145725/http://eilv.cie.co.at/term/194
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-001
+  type: authoritative
+status: valid
+id: b26bf635-f616-52b5-8103-6d78e8f8a367
+---
+data:
+  definition:
+  - content: colour stimulus having the same chromaticity as the adopted white
+    type: intensional
+  examples: []
+  notes:
+  - content: When stating that an image area is a colorimetric neutral, it is necessary
+      to designate the adopted white. For reflection hardcopy images, the adopted
+      white is typically considered to be either the media white or a perfectly diffuse
+      reflecting surface illuminated by the illumination source.
+    type: intensional
+  - content: The adopted white of colorimetric neutral may or may not correspond to
+      the adapted white according to an observer.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-001
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimetric neutral
+  language_code: eng
+  annotations: []
+termid: 17-194
+id: 3f5d9f0f-af46-55ff-952c-474570598285

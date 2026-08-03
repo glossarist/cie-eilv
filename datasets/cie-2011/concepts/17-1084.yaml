@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1084
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170553/http://eilv.cie.co.at/term/1084
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-030
+  type: authoritative
+status: valid
+id: d78ef10f-868a-5814-8e7a-71b2d6ec62e6
+---
+data:
+  definition:
+  - content: |-
+      quotient of the {{17-1206, spectral}} distribution, stem:[Xlambda](stem:[lambda]), of a radiant, luminous or photon quantity, stem:[X](stem:[lambda]), and a fixed reference value, stem:[R], which can be an average value, a maximum value or an arbitrarily chosen value of this distribution
+
+      stem:[S ( lambda ) = ((X_(lambda) ( lambda )))/(R)]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative spectral distribution (of a radiant, luminous or photon
+      quantity stem:[X](stem:[lambda]))
+  - type: symbol
+    normative_status: preferred
+    designation: S(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: S(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1084
+id: 0cab123b-5b44-57d9-b0a4-6bce66bc038c

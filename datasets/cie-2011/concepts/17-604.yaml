@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-604
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916124844/http://eilv.cie.co.at/term/604
+  type: authoritative
+status: valid
+id: 61f79b40-23da-5df3-8ad8-617ef14882e4
+---
+data:
+  definition:
+  - content: gas-filled lamp containing halogens or halogen compounds, the filament
+      being of tungsten
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iodine lamp
+  language_code: eng
+  annotations: []
+termid: 17-604
+id: 82a42ae0-fe0e-581d-a7a3-a32a796d2b7d

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-7
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101547/http://eilv.cie.co.at/term/7
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-023
+  type: authoritative
+status: valid
+id: 133a0fb3-f665-565c-91cb-0214cb3c179f
+---
+data:
+  definition:
+  - content: directional lighting to emphasize a particular object or to draw attention
+      to a spot in the field of vision
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accent lighting
+  language_code: eng
+  annotations: []
+termid: 17-7
+id: cf1ace80-fb68-51c9-97a1-1041b9b98311

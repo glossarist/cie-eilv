@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-389
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135346/http://eilv.cie.co.at/term/389
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-041
+  type: authoritative
+status: valid
+id: 7d1e91a2-9abd-5d8a-b6ae-8962fd81673c
+---
+data:
+  definition:
+  - content: relationship between the digital code values provided to an output device
+      and the equivalent neutral densities produced by the device
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: EOCF (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: EOCF
+  - type: symbol
+    normative_status: preferred
+    designation: EOCF
+  language_code: eng
+  annotations: []
+termid: 17-389
+id: 94f3d959-e6a0-50f3-8284-00cc9369da96

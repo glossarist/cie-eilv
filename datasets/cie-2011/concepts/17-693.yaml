@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-693
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042634/http://eilv.cie.co.at/term/693
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-138
+  type: authoritative
+status: valid
+id: aab0168e-bc18-52f4-9954-3a86cf11f1e4
+---
+data:
+  definition:
+  - content: direction parallel to the axis of the road
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-138
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: longitudinal direction
+  language_code: eng
+  annotations: []
+termid: 17-693
+id: 1a6237b9-7205-5d19-aeea-18538e15c8a6

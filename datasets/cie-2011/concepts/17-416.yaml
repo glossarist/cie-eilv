@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-416
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121233/http://eilv.cie.co.at/term/416
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-072
+  type: authoritative
+status: valid
+id: 195948de-818e-5148-baf9-a42bcd3adee4
+---
+data:
+  definition:
+  - content: maximum level of exposure of a surface, usually the eye or skin, that
+      is not expected to result in adverse biological effects
+    type: intensional
+  examples: []
+  notes:
+  - content: Exposure limits for human safety of optical radiation, stem:[E_L], are
+      normally recommended by ICNIRP.
+    type: intensional
+  - content: Exposure limits are often based on measures of irradiance (e.g. for the
+      skin), but where relevant may also be based on radiance (e.g. the blue light
+      hazard of extended sources).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposure limit
+  - type: symbol
+    normative_status: preferred
+    designation: HL
+  - type: symbol
+    normative_status: preferred
+    designation: HL
+  language_code: eng
+  annotations: []
+termid: 17-416
+id: c6217f2c-9d56-5972-be85-48fbc2fddf2b

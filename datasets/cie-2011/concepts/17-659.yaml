@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-659
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145815/http://eilv.cie.co.at/term/659
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-039
+  type: authoritative
+status: valid
+id: 28a0ebfb-f4dc-551a-acca-e93b32fe574d
+---
+data:
+  definition:
+  - content: characteristic of all sensations and perceptions that is specific to
+      the visual system
+    type: intensional
+  examples: []
+  notes:
+  - content: This term has 2 meanings that should be clearly distinguished. When necessary
+      to avoid confusion between these 2 meanings the term "perceived light" may be
+      used in the first sense.
+    type: intensional
+  - content: Light is normally, but not always, perceived as a result of the action
+      of a light stimulus on the visual system.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light
+  - type: symbol
+    normative_status: preferred
+    designation: perceived light
+  - type: symbol
+    normative_status: preferred
+    designation: perceived light
+  language_code: eng
+  annotations: []
+termid: 17-659
+id: 590abf66-e3a9-5056-a0dc-2f1b7b58b0cc

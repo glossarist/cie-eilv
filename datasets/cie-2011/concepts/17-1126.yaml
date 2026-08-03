@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1126
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160435/http://eilv.cie.co.at/term/1126
+  type: authoritative
+status: valid
+id: e47d0240-89fb-5f67-9940-5884a8c19b44
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-1129, runway light}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: runway centre-line light
+  language_code: eng
+  annotations: []
+termid: 17-1126
+id: 5a3199b6-f1e6-50df-b984-6e427c4b2dca

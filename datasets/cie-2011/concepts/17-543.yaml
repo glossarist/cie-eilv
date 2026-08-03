@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-543
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426131320/http://eilv.cie.co.at/term/543
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-083
+  type: authoritative
+status: valid
+id: 4d07968e-fdf4-508f-a293-307f2b261fe3
+---
+data:
+  definition:
+  - content: correlate of hue expressed in terms of the proportions of the unique
+      hues perceived to be present
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-083
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hue quadrature
+  language_code: eng
+  annotations: []
+termid: 17-543
+id: 6614f3e6-907d-58ba-8a84-115bd61f8b16

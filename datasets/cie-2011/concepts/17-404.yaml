@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-404
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144730/http://eilv.cie.co.at/term/404
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-066
+  type: authoritative
+status: valid
+id: ce8b2525-5806-5680-9698-fa82e1394e75
+---
+data:
+  definition:
+  - content: |-
+      time integral of erythemal irradiance
+
+      stem:[H_((er)) = int int E_(lambda) ( lambda , t ) s_((er)) ( lambda ) d lambda d t]
+
+      where stem:[Elambda](stem:[lambda], stem:[t]) is spectral irradiance and stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function normalized to 1 at its maximum
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal radiant exposure
+  - type: symbol
+    normative_status: preferred
+    designation: erythemal radiant exposure
+  - type: symbol
+    normative_status: preferred
+    designation: erythemal radiant exposure
+  language_code: eng
+  annotations: []
+termid: 17-404
+id: 70047e85-ecdb-5065-bb2f-209d1b826508

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-1428
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171026103758/http://eilv.cie.co.at/term/1428
+  type: authoritative
+status: valid
+id: 20d9e6b5-3e32-5c67-ae9e-630cab30752f
+---
+data:
+  definition:
+  - content: spectral radiance distribution as seen by an image capture or measurement
+      device and converted to colour signals that are considered to be perfectly achromatic
+      and to have an observer adaptive luminance factor of unity; i.e., colour signals
+      that are considered to correspond to a perfect white diffuser
+    type: intensional
+  examples: []
+  notes:
+  - content: The adopted white may vary within a scene.
+    type: intensional
+  - content: No assumptions should be made concerning the relation between the adapted
+      or adopted white and measurements of near perfectly reflecting diffusers in
+      a scene, because measurements of such diffusers will depend on the illumination
+      and viewing geometry, and other elements in the scene that may affect perception.
+      It is easy to arrange conditions for which a near perfectly reflecting diffuser
+      will appear to be grey or coloured.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white, adopted (image capture)
+  language_code: eng
+  annotations: []
+termid: 17-1428
+id: e8de3acc-646c-50d8-928e-5e51d4db1df9

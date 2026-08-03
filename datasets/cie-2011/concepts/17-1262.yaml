@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1262
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171943/http://eilv.cie.co.at/term/1262
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-040
+  type: authoritative
+status: valid
+id: f12a1c9b-8aa0-5aa4-9d9a-d4e3c8633927
+---
+data:
+  definition:
+  - content: narrow conducting strip placed longitudinally on the internal or external
+      wall of a tubular discharge lamp for assisting in starting
+    type: intensional
+  examples: []
+  notes:
+  - content: The strip may be connected to one or both of the shells of the caps or,
+      possibly, to an electrode.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-040
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting strip
+  - type: symbol
+    normative_status: preferred
+    designation: starting stripe, US
+  - type: symbol
+    normative_status: preferred
+    designation: starting stripe, US
+  language_code: eng
+  annotations: []
+termid: 17-1262
+id: a40534bc-d09c-537c-8162-a033f7cba369

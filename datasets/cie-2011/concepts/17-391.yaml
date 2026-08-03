@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-391
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162254/http://eilv.cie.co.at/term/391
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-024
+  type: authoritative
+status: valid
+id: f945fbed-f8bc-5c5e-9d40-29d41c2ce941
+---
+data:
+  definition:
+  - content: visual photometer in which parts of the test and comparison field are
+      viewed simultaneously and are adjusted to equality of brightness
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equality-of-brightness photometer
+  language_code: eng
+  annotations: []
+termid: 17-391
+id: '098ca90f-b6cc-5470-8c2f-94ecf5d60fe2'

@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-828
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134701/http://eilv.cie.co.at/term/828
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-102
+  type: authoritative
+status: valid
+id: 8f656472-58ad-5a8f-a4b4-597dae6c6ce2
+---
+data:
+  definition:
+  - content: input signal divided by a reference value
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-102
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized (image) signal
+  language_code: eng
+  annotations: []
+termid: 17-828
+id: f127a1e5-4b4b-53b0-988c-9c6c791f187f

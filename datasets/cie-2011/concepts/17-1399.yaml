@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1399
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013040/http://eilv.cie.co.at/term/1399
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-067
+  type: authoritative
+status: valid
+id: ff3aa7df-cfe7-5bdd-b255-c99eaf38fb4b
+---
+data:
+  definition:
+  - content: veiling glare that is observed in a viewing environment but not accounted
+      for in measurements made using a prescribed measurement geometry
+    type: intensional
+  examples: []
+  notes:
+  - content: The viewing flare is expressed as a percentage of the luminance of adapted
+      white.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: viewing flare
+  language_code: eng
+  annotations: []
+termid: 17-1399
+id: 122127fa-1a28-5255-8665-97a7ae662d8c

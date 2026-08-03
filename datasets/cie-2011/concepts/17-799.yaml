@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-799
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135200/http://eilv.cie.co.at/term/799
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-092
+  type: authoritative
+status: valid
+id: 3d17f369-cb28-56d7-bd40-fb6bf69c5b48
+---
+data:
+  definition:
+  - content: |-
+      quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
+
+      stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l) ln(10) = ((A_n ( lambda )))/(l)]
+
+      where stem:[A_n](stem:[lambda]) is Napierian spectral absorbance.
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Napierian spectral absorption coefficient (of a homogeneous non-diffusing
+      layer)
+  - type: symbol
+    normative_status: preferred
+    designation: an(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: an(λ)
+  language_code: eng
+  annotations: []
+termid: 17-799
+id: 37305b45-01ba-5531-963d-2635fd83b7d4

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-304
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130350/http://eilv.cie.co.at/term/304
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-068
+  type: authoritative
+status: valid
+id: 3906e8ff-c8ec-548f-8184-fd8130a8bcad
+---
+data:
+  definition:
+  - content: quotient of the diffusely reflected part of the (whole) reflected flux
+      and the incident flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-068
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse reflectance
+  - type: symbol
+    normative_status: preferred
+    designation: ρd
+  - type: symbol
+    normative_status: preferred
+    designation: ρd
+  language_code: eng
+  annotations: []
+termid: 17-304
+id: a8d91f7f-6cef-5b6b-8c49-c7dd3dcdc2b5

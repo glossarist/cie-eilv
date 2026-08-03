@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1043
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917165703/http://eilv.cie.co.at/term/1043
+  type: authoritative
+status: valid
+id: e2e93ada-0361-5549-a370-0d573deb6af7
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-231, colour temperature}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reciprocal colour temperature
+  language_code: eng
+  annotations: []
+termid: 17-1043
+id: a2fd1a73-1803-52a4-9e1a-570d283c9a59

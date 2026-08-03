@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-850
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123645/http://eilv.cie.co.at/term/850
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-106
+  type: authoritative
+status: valid
+id: fb9f9d95-1957-522c-80c2-c703fee37318
+---
+data:
+  definition:
+  - content: |-
+      stem:[delta ( epsilon ) = - ln ((Phi^( ' )_e))/((Phi_e))]
+
+      where stem:[Phi_e] is the radiant flux of a collimated beam entering the upper limit layers of the atmosphere at an angle stem:[epsilon] to the vertical, and stem:[Phi^( ' )_e] is the attenuated radiant flux of that beam reaching the surface of the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical thickness (of the atmosphere)
+  - type: symbol
+    normative_status: preferred
+    designation: optical depth, <of the atmosphere>
+  - type: symbol
+    normative_status: preferred
+    designation: optical depth, <of the atmosphere>
+  - type: expression
+    normative_status: admitted
+    designation: optical depth
+  language_code: eng
+  annotations: []
+termid: 17-850
+id: 3c649a5f-1606-576b-a71f-4a06e6966cac

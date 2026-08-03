@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-205
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134732/http://eilv.cie.co.at/term/205
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-115
+  type: authoritative
+status: valid
+id: 24e2e022-b783-56bd-ad95-ad1b3cf74271
+---
+data:
+  definition:
+  - content: factor by which the readings of a physical photometer can be multiplied
+      in order to correct for the error caused by differences between the relative
+      spectral responsivity of the photometer and the spectral luminous efficiency
+      for photopic vision, stem:[V](stem:[lambda]), that it is intended to simulate
+      when the photometer is used to measure a source having a relative spectral distribution
+      different from that of the source with which the photometer was calibrated
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-115
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour correction factor
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: colour correction factor'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: colour correction factor'
+  language_code: eng
+  annotations: []
+termid: 17-205
+id: c2fb5d72-3fcb-50c3-91a5-097a5ff6ab21

@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-663
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920143340/http://eilv.cie.co.at/term/663
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-109
+  type: authoritative
+status: valid
+id: c4e8a343-9f56-5bf3-98c3-29d289eae483
+---
+data:
+  definition:
+  - content: sign that employs light-emitting techniques to display either one of
+      a number of dedicated messages or a message formed on a free-format character
+      matrix
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-109
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light emitting variable message sign
+  language_code: eng
+  annotations: []
+termid: 17-663
+id: 19992ee7-0145-53c0-9298-b6a339eb4019

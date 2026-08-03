@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-381
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135305/http://eilv.cie.co.at/term/381
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-039
+  type: authoritative
+status: valid
+id: 25e9fd46-19ea-5e39-b352-a0482849a5d1
+---
+data:
+  definition:
+  - content: material deposited on a metal electrode to promote the emission of electrons
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: emissive material
+  language_code: eng
+  annotations: []
+termid: 17-381
+id: bd986662-eb60-5e86-83b1-8a038cafd940

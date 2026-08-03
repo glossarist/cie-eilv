@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-525
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426114405/http://eilv.cie.co.at/term/525
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-066
+  type: authoritative
+status: valid
+id: 48a9d7a7-44c0-5d73-aff0-7f8db5d438b2
+---
+data:
+  definition:
+  - content: headlight designed to illuminate for a considerable distance ahead of
+      the vehicle carrying it
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headlight, high-beam
+  - type: symbol
+    normative_status: preferred
+    designation: high-beam headlight
+  - type: symbol
+    normative_status: preferred
+    designation: high-beam headlight
+  language_code: eng
+  annotations: []
+termid: 17-525
+id: 7dbc675a-21fa-5eb5-9f2e-2d8b052b1680

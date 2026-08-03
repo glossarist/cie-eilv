@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-12
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101959/http://eilv.cie.co.at/term/12
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-009
+  type: authoritative
+status: valid
+id: 25cd5250-7834-5811-822d-f058e6099c1c
+---
+data:
+  definition:
+  - content: stimulus that, under the prevailing conditions of adaptation, gives rise
+      to an achromatic colour
+    type: intensional
+  examples: []
+  notes:
+  - content: In the colorimetry of object colours, the colour stimulus produced by
+      the perfect reflecting or transmitting diffuser is usually considered to be
+      an achromatic stimulus for all illuminants, except for those whose light sources
+      appear to be highly chromatic.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-009
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: achromatic stimulus
+  language_code: eng
+  annotations: []
+termid: 17-12
+id: d05fe6df-fa4e-5153-8f37-068a4c2b9461

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-84
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101502/http://eilv.cie.co.at/term/84
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-006
+  type: authoritative
+status: valid
+id: '005793f0-9e89-5c77-ab5a-c4f5a6ba049d'
+---
+data:
+  definition:
+  - content: fixed artificial navigation mark that can carry a signal light, used
+      to indicate a designated geographical location
+    type: intensional
+  examples: []
+  notes:
+  - content: In French, the term "balise" refers also to an artificial object that
+      is used to regulate vehicular or pedestrian traffic.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-006
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: beacon
+  language_code: eng
+  annotations: []
+termid: 17-84
+id: f21a11a8-b38a-5127-801b-9f146faf9a93

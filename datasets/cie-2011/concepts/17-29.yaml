@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-29
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101618/http://eilv.cie.co.at/term/29
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-045
+  type: authoritative
+status: valid
+id: 36a2bf7d-36df-584f-a233-2ff977a80b70
+---
+data:
+  definition:
+  - content: light specially provided as an aid to air navigation, other than a light
+      displayed on an aircraft
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-045
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aeronautical ground light
+  language_code: eng
+  annotations: []
+termid: 17-29
+id: 91d941ea-cb08-5ae6-98ee-c730f0e480e3

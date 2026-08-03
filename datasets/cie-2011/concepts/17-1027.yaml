@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-1027
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124712/http://eilv.cie.co.at/term/1027
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-038
+  type: authoritative
+status: valid
+id: c2867ff5-a554-5017-96f4-c5199225c85c
+---
+data:
+  definition:
+  - content: |-
+      change in radiant energy with time
+
+      stem:[Phi_e = ((d Q_e))/((d t))]
+
+      where stem:[Q_e] is the radiant energy emitted, transferred or received, and stem:[t] is time
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-038
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant power
+  - type: symbol
+    normative_status: preferred
+    designation: radiant power
+  - type: symbol
+    normative_status: preferred
+    designation: radiant power
+  - type: expression
+    normative_status: admitted
+    designation: radiant flux
+  language_code: eng
+  annotations: []
+termid: 17-1027
+id: b10ef9c3-4222-5875-a802-e3d83d1495e6

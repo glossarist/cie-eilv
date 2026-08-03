@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1416
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920141833/http://eilv.cie.co.at/term/1416
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-083
+  type: authoritative
+status: valid
+id: 295c07c3-aa97-5a16-a6a4-da606d92b4e4
+---
+data:
+  definition:
+  - content: response of the visual system to stimulation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-083
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual sensation
+  language_code: eng
+  annotations: []
+termid: 17-1416
+id: 97b1cd5a-ffb8-5b03-a7ed-1e04ed85bf21

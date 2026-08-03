@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1322
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003903/http://eilv.cie.co.at/term/1322
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-125
+  type: authoritative
+status: valid
+id: 237f6263-f752-50c2-9150-83c019290c0c
+---
+data:
+  definition:
+  - content: quotient of the quantity of heat penetrating into an interior through
+      the glazing and the solar radiant energy incident on that glazing
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-125
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total (energy) transmittance (of glazing material)
+  - type: symbol
+    normative_status: preferred
+    designation: total transmittance, <of glazing material>
+  - type: symbol
+    normative_status: preferred
+    designation: total transmittance, <of glazing material>
+  language_code: eng
+  annotations: []
+termid: 17-1322
+id: f22a2941-b2b5-582e-beb4-2169058b02ec

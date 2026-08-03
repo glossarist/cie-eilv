@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-1026
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922043228/http://eilv.cie.co.at/term/1026
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-044
+  type: authoritative
+status: valid
+id: f65fa545-850f-5e4a-84b3-34f5f72c5d5c
+---
+data:
+  definition:
+  - content: |-
+      density of radiant flux with respect to solid angle in a specified direction
+
+      stem:[I_e = ((d Phi_e))/((d omega))]
+
+      where stem:[Phi_e] is the radiant flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction
+    type: intensional
+  examples: []
+  notes:
+  - content: The definition holds strictly only for a point source.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant intensity (of a source, in a given direction)
+  - type: symbol
+    normative_status: preferred
+    designation: Ie; I
+  - type: symbol
+    normative_status: preferred
+    designation: Ie; I
+  language_code: eng
+  annotations: []
+termid: 17-1026
+id: 416265fd-f0d3-51f7-a5ad-fe9ab743aa4a

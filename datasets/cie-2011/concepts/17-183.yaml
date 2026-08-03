@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-183
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426193115/http://eilv.cie.co.at/term/183
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-069
+  type: authoritative
+status: valid
+id: 4237162c-a02c-53f2-a9df-9187c93de414
+---
+data:
+  definition:
+  - content: quotient of the luminous flux received by a reference surface and the
+      sum of the rated individual luminous fluxes of the lamps of the installation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-069
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient of utilization (of an installation, for a reference surface)
+      (US)
+  - type: symbol
+    normative_status: preferred
+    designation: coefficient of utilization, <of an installation>
+  - type: symbol
+    normative_status: preferred
+    designation: coefficient of utilization, <of an installation>
+  language_code: eng
+  annotations: []
+termid: 17-183
+id: b79b8ae0-0c37-56f1-8f7d-9c32265ff223

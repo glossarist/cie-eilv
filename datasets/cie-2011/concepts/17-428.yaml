@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-428
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155801/http://eilv.cie.co.at/term/428
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-056
+  type: authoritative
+status: valid
+id: 261eb157-7c88-5007-872f-235a3699a99a
+---
+data:
+  definition:
+  - content: colour perceived as not belonging to any object
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-056
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field colour
+  language_code: eng
+  annotations: []
+termid: 17-428
+id: d8fb79aa-d698-5726-aa0f-abc002c8e792

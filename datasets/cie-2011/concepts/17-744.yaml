@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-744
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130407/http://eilv.cie.co.at/term/744
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-085
+  type: authoritative
+status: valid
+id: 79116d01-cd60-53b0-969f-d1d33c0df750
+---
+data:
+  definition:
+  - content: SI unit of illuminance
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Non-metric, non-SI units: lumen per square foot (symbol: lm·ft^-2^),
+      footcandle (symbol: fc) (US)'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-085
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lux
+  - type: symbol
+    normative_status: preferred
+    designation: lx
+  - type: symbol
+    normative_status: preferred
+    designation: lx
+  language_code: eng
+  annotations: []
+termid: 17-744
+id: 5ed32073-874c-58e6-b5be-6593e4e9a44f

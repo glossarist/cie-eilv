@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-1255
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161716/http://eilv.cie.co.at/term/1255
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-069
+  type: authoritative
+status: valid
+id: b8b9adeb-41bf-5484-bda8-658a1befe8d1
+---
+data:
+  definition:
+  - content: standardized unit of measure of erythemal radiation
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      standard erythema dose (SED) is equivalent to an erythemal radiant exposure of 100 J·m^-2^.
+      See also “{{17-782, minimal erythema dose}}”
+      See also ISO 17166:1999(E)/CIE S 007/E-1998 stem:[Erythema Reference Action Spectrum and Standard Erythema Dose]
+      Abbreviation: “SED”
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-069
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard erythema dose
+  - type: symbol
+    normative_status: preferred
+    designation: SED
+  - type: symbol
+    normative_status: preferred
+    designation: SED
+  language_code: eng
+  annotations: []
+termid: 17-1255
+id: c5949e93-a232-54e7-a893-b0699827d05d

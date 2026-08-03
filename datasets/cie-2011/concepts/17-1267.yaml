@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1267
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917162541/http://eilv.cie.co.at/term/1267
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-044
+  type: authoritative
+status: valid
+id: 7d93d8b2-0faf-57c3-bc5c-5080775af702
+---
+data:
+  definition:
+  - content: navigation light positioned at the stern of a vessel, and designed to
+      show a fixed white light rearwards
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stern light
+  language_code: eng
+  annotations: []
+termid: 17-1267
+id: 9440b280-8d2f-57da-97a7-5ef7160dbc38

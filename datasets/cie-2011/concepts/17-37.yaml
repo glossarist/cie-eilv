@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-37
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102029/http://eilv.cie.co.at/term/37
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-035
+  type: authoritative
+status: valid
+id: de22213f-c8cc-57dd-9ca1-9bf565b418e4
+---
+data:
+  definition:
+  - content: illuminance level due to lighting in the viewing environment, excluding
+      that from the display, measured in the plane of the display
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-035
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient illuminance level (of a display)
+  language_code: eng
+  annotations: []
+termid: 17-37
+id: e4762f43-d184-5930-94a6-11db09106808

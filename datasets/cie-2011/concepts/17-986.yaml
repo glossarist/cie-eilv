@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-986
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191103070400/http://eilv.cie.co.at/term/986
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-095
+  type: authoritative
+status: valid
+id: c60eb440-a3f6-5198-931d-fa0703e0b560
+---
+data:
+  definition:
+  - content: lighting design technique where the light falls on objects in the same
+      direction as the traffic
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Pro-beam lighting is characterized by using luminaires that show a luminous intensity distribution that is asymmetric in relation to the C90-C270 plane (the plane normal to the direction of the traffic), where the maximum luminous intensity is aimed in the same direction as the direction of the traffic.
+      See also "{{17-1293, symmetric lighting (in a tunnel)}}", "{{17-261, counter-beam lighting (in a tunnel)}}"
+      Abbreviation: "PBL"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-095
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pro-beam lighting (in a tunnel)
+  - type: symbol
+    normative_status: preferred
+    designation: PBL
+  - type: symbol
+    normative_status: preferred
+    designation: PBL
+  language_code: eng
+  annotations: []
+termid: 17-986
+id: c3f67b0c-f1b2-5b1b-9397-94d4f9d3a7ed

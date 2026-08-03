@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-688
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042159/http://eilv.cie.co.at/term/688
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-136
+  type: authoritative
+status: valid
+id: 8bf15336-ae60-5877-b783-9a91001c8b96
+---
+data:
+  definition:
+  - content: operation of a sign or a luminaire from within the device or in its proximity
+      by means other than by manual operation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-136
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: local control
+  language_code: eng
+  annotations: []
+termid: 17-688
+id: bd1a2d91-7edc-50ab-b28b-df20594cd16a

@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-166
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426180508/http://eilv.cie.co.at/term/166
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-051
+  type: authoritative
+status: valid
+id: fd64a4b3-b8ae-5f07-b412-27f9cdcab192
+---
+data:
+  definition:
+  - content: standard observer whose colour-matching functions deviate from those
+      of the CIE standard colorimetric observer in a defined manner
+    type: intensional
+  examples: []
+  notes:
+  - content: The defined deviations can be applied to the {{17-149, CIE 1931 standard
+      colorimetric observer}} or the {{17-151, CIE 1964 standard colorimetric observer}}.
+    type: intensional
+  - content: |-
+      The use of the standard deviate observer is intended to generate differences that are typical of those that occur when colour matches are made by different real observers whose colour vision is classified as normal.
+      See also CIE 80-1989
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-051
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard deviate observer
+  language_code: eng
+  annotations: []
+termid: 17-166
+id: ac96f04f-0691-5e72-afa7-cdb9278bf4bb

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-136
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426200111/http://eilv.cie.co.at/term/136
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-126
+  type: authoritative
+status: valid
+id: 950895ee-a3c9-57ae-82e5-39967ae972d8
+---
+data:
+  definition:
+  - content: separation between character elements expressed in terms of the number
+      of unit elements or the distance between centres of elements of adjacent characters
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-126
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character separation
+  language_code: eng
+  annotations: []
+termid: 17-136
+id: 72ac8c65-8c00-50f1-b569-fab95d33349d

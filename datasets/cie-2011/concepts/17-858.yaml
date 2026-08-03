@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-858
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916122452/http://eilv.cie.co.at/term/858
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-073
+  type: authoritative
+status: valid
+id: a76138f7-065b-5ade-999e-957eb685580d
+---
+data:
+  definition:
+  - content: |-
+      battery-powered portable mine luminaire showing a red light, designed for mounting at the rear of a train of cars
+
+      Equivalent term used in the US: "trip lamp"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paddy lamp
+  - type: symbol
+    normative_status: preferred
+    designation: trip lamp, US
+  - type: symbol
+    normative_status: preferred
+    designation: trip lamp, US
+  language_code: eng
+  annotations: []
+termid: 17-858
+id: d680a7b2-e92d-50b6-a000-54c6e5e33b06

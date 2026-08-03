@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-479
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160252/http://eilv.cie.co.at/term/479
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-008
+  type: authoritative
+status: valid
+id: 80b5e110-a099-53f5-8006-8eaa060ac3d5
+---
+data:
+  definition:
+  - content: bulb that is made diffusing by roughening its inner or outer surface
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: frosted bulb
+  language_code: eng
+  annotations: []
+termid: 17-479
+id: 3a851987-398c-5f46-975b-0c14d4e35bd6

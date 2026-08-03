@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-1337
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820011057/http://eilv.cie.co.at/term/1337
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-065
+  type: authoritative
+status: valid
+id: b8f1b9a0-b036-5151-80ba-0afd336c082a
+---
+data:
+  definition:
+  - content: |-
+      quotient of transmitted radiant flux, stem:[Phi_t], and incident radiant flux, stem:[Phi_m]
+
+      stem:[tau = ((Phi_t))/((Phi_m))]
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r],
+      and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-065
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmittance (for incidence radiation of given spectral composition,
+      polarization and geometric distribution)
+  - type: symbol
+    normative_status: preferred
+    designation: τ
+  - type: symbol
+    normative_status: preferred
+    designation: τ
+  language_code: eng
+  annotations: []
+termid: 17-1337
+id: 50a195ce-de6c-5d51-9495-22470d0e7c8b

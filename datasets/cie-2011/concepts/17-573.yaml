@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-573
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426113702/http://eilv.cie.co.at/term/573
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-058
+  type: authoritative
+status: valid
+id: 072fadeb-704d-547d-a97c-f8389dac56fa
+---
+data:
+  definition:
+  - content: luminous flux received by the surface from a lighting installation, after
+      reflection from other surfaces
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-058
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect flux (on a surface)
+  language_code: eng
+  annotations: []
+termid: 17-573
+id: '06393fa7-5363-509b-8e26-0d1d40b1a7e2'

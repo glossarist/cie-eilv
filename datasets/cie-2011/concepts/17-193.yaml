@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-193
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145720/http://eilv.cie.co.at/term/193
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-042
+  type: authoritative
+status: valid
+id: bbbe89ff-6561-58de-b616-9399e2222897
+---
+data:
+  definition:
+  - content: colour space defined by three colorimetric coordinates
+    type: intensional
+  examples: []
+  notes:
+  - content: CIE stem:[XYZ] tristimulus values are colorimetric coordinates, as are
+      stem:[RGB] values that have an exact and invertible mathematical relationship
+      to CIE stem:[XYZ]tristimulus values.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-042
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colorimetric colour space
+  language_code: eng
+  annotations: []
+termid: 17-193
+id: 8fa0a972-ffe7-5b1b-b844-4df78db46a62

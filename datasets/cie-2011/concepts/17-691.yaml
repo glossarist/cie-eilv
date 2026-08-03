@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-691
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042610/http://eilv.cie.co.at/term/691
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-009
+  type: authoritative
+status: valid
+id: 2f5f0bf6-ff0c-5e00-9d18-21bf8241e297
+---
+data:
+  definition:
+  - content: lighting designed to illuminate the functionally defined area with higher
+      illuminance at certain specified positions, for instance those at which work
+      is carried out
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-009
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: localized lighting
+  language_code: eng
+  annotations: []
+termid: 17-691
+id: 4a9744ba-8163-51b4-b6bb-7fbc90f192dc

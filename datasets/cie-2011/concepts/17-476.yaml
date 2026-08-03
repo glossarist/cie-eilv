@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-476
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160242/http://eilv.cie.co.at/term/476
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-050
+  type: authoritative
+status: valid
+id: 905ad136-2dbe-5292-bfe0-c8faea3551f0
+---
+data:
+  definition:
+  - content: spotlight with a stepped lens
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-050
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Fresnel spotlight
+  language_code: eng
+  annotations: []
+termid: 17-476
+id: 246e5b9b-94a3-5d83-a0f7-d589cae463b1

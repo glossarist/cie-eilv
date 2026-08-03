@@ -1,0 +1,72 @@
+---
+data:
+  identifier: 17-91
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101934/http://eilv.cie.co.at/term/91
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-101
+  type: authoritative
+status: valid
+id: ecd34bc4-9c24-582c-86d8-cc9e9cd42fd0
+---
+data:
+  definition:
+  - content: quotient of the radiance per unit emission bandpass, dstem:[lambda],
+      at a specified emission wavelength, stem:[lambda], due to photoluminescence
+      from the specimen when irradiated at a specified excitation wavelength, stem:[mu],
+      and the radiance of the perfect reflecting diffuser identically irradiated and
+      viewed
+    type: intensional
+  examples: []
+  notes:
+  - content: Spectral quantities with a subscript stem:[lambda] in their designation
+      indicate differential spectral radiometric quantities.
+    type: intensional
+  - content: When integrated or summed over the spectral bandpass of the instrument,
+      this quantity becomes the bandpass-weighted bispectral luminescent radiance
+      factor, stem:[beta_(L, lambda)](stem:[mu])∆stem:[lambda].
+    type: intensional
+  - content: The tabular form of complete bispectral luminescent radiance factor and
+      reflected radiance factor data is the Donaldson matrix representation of bispectral
+      radiance factor, stem:[D](stem:[mu, lambda]). The excitation wavelengths, stem:[mu],
+      are tabulated in the vertical direction, the emission wavelengths, stem:[lambda],
+      in the horizontal direction, the reflected radiance factors, stem:[beta_R](stem:[lambda]),
+      appear on the diagonal where the excitation and emission (detection) wavelengths
+      are equal, and the array of bandpass-weighted bispectral luminescent radiance
+      factor data, stem:[beta_(L, lambda)](stem:[mu])∆stem:[lambda], appear on the
+      off-diagonals.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bispectral luminescent radiance factor
+  - type: symbol
+    normative_status: preferred
+    designation: βL,λ(μ)
+  - type: symbol
+    normative_status: preferred
+    designation: βL,λ(μ)
+  language_code: eng
+  annotations: []
+termid: 17-91
+id: 1e8318ed-fbd1-5dc2-a550-7c727a861578

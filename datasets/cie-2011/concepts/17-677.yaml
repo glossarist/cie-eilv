@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-677
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135414/http://eilv.cie.co.at/term/677
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-034
+  type: authoritative
+status: valid
+id: 8af4dc6b-e878-537b-93be-d90ee6947dfa
+---
+data:
+  definition:
+  - content: that part of a lighting system that comprises the luminaires and their
+      supporting structures, installed at the location or property concerned
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting installation
+  language_code: eng
+  annotations: []
+termid: 17-677
+id: 712c3dc3-3db4-5825-9773-7e58cb216671

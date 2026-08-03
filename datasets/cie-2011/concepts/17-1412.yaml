@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1412
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042811/http://eilv.cie.co.at/term/1412
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-005
+  type: authoritative
+status: valid
+id: 7e89aa11-842a-501b-a605-a557aaeae551
+---
+data:
+  definition:
+  - content: quality of performance of the visual system of an observer related to
+      central and peripheral vision
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visual performance
+  language_code: eng
+  annotations: []
+termid: 17-1412
+id: ffdae7fb-f38c-5309-8b98-9c9b0b417a73

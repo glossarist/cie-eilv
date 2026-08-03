@@ -15,7 +15,7 @@ needs a human to:
 3. Edit `datasets/cie-2020/concepts/<id>.yaml` to add the math
    to the appropriate `definition` or `notes` entry.
 
-Total: **140 concepts** with graphics.
+Total: **136 concepts** with graphics.
 
 | termid | image count | sample alt text |
 |---|---|---|
@@ -71,7 +71,7 @@ Total: **140 concepts** with graphics.
 | `17-21-106` | 1 | (no alt) |
 | `17-21-110` | 1 | (no alt) |
 | `17-21-113` | 2 | (no alt) |
-| `17-22-094` | 2 | (no alt) |
+| `17-22-094` | 1 | (no alt) |
 | `17-23-004` | 1 | (no alt) |
 | `17-23-039` | 2 | (no alt) |
 | `17-23-045` | 2 | (no alt) |
@@ -121,7 +121,6 @@ Total: **140 concepts** with graphics.
 | `17-25-064` | 1 | (no alt) |
 | `17-25-072` | 1 | (no alt) |
 | `17-25-073` | 1 | (no alt) |
-| `17-25-081` | 1 | (no alt) |
 | `17-25-088` | 1 | (no alt) |
 | `17-25-089` | 4 | (no alt) |
 | `17-25-104` | 1 | (no alt) |
@@ -134,10 +133,7 @@ Total: **140 concepts** with graphics.
 | `17-26-066` | 1 | (no alt) |
 | `17-26-073` | 1 | (no alt) |
 | `17-26-075` | 1 | (no alt) |
-| `17-27-076` | 1 | (no alt) |
 | `17-27-115` | 1 | (no alt) |
-| `17-29-071` | 1 | (no alt) |
-| `17-29-072` | 1 | (no alt) |
 | `17-29-073` | 1 | (no alt) |
 | `17-29-074` | 1 | (no alt) |
 | `17-29-075` | 1 | (no alt) |

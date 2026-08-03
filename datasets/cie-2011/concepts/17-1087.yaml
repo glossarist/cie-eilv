@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1087
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160232/http://eilv.cie.co.at/term/1087
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-184
+  type: authoritative
+status: valid
+id: 29fd336c-1c2e-540b-81db-a9948ad39e7c
+---
+data:
+  definition:
+  - content: boundary of a residential property over which it is physically possible
+      for spill light from a subject lighting installation to pass and directly impact
+      upon either:<ol type="a">. a dwelling located on the subject property; or. the
+      potential site of a dwelling if there is no development on the subject property
+    type: intensional
+  examples: []
+  notes:
+  - content: A boundary screened by a high opaque fence or other substantially continuous
+      physical barrier that obstructs direct light, preventing it from reaching the
+      dwelling, does not comprise a relevant boundary. The physical barrier may be
+      anywhere between the subject lighting installation and the residential property.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-184
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relevant boundary (of a residential property)
+  language_code: eng
+  annotations: []
+termid: 17-1087
+id: 64ff7c3b-1f14-504d-94e0-5bd70dc022cc

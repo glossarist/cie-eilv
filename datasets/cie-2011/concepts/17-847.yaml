@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-847
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125942/http://eilv.cie.co.at/term/847
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-051
+  type: authoritative
+status: valid
+id: de201ca7-07e0-5a6e-baeb-3f03df831c20
+---
+data:
+  definition:
+  - content: quotient of the total luminous flux of the luminaire, measured under
+      specified conditions, and the sum of the individual luminous fluxes of the lamps
+      when they are inside the luminaire
+    type: intensional
+  examples: []
+  notes:
+  - content: For luminaires using incandescent lamps only, the optical light output
+      ratio and the light output ratio are the same in practice.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-051
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optical light output ratio (of a luminaire)
+  language_code: eng
+  annotations: []
+termid: 17-847
+id: 102c1466-01fe-53dc-ae23-82491b8ede8b

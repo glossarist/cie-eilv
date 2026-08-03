@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-729
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124855/http://eilv.cie.co.at/term/729
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-089
+  type: authoritative
+status: valid
+id: 73358a6f-7220-5656-ab11-6602817daba9
+---
+data:
+  definition:
+  - content: |-
+      quotient of the emitted luminous flux and the power consumed
+
+      stem:[eta_v = ((Phi_v))/(P)]
+
+      where stem:[Phi_v] is luminous flux and stem:[P] is the power consumed by the light source
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-089
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous efficacy (of a source)
+  - type: symbol
+    normative_status: preferred
+    designation: ηv; η
+  - type: symbol
+    normative_status: preferred
+    designation: ηv; η
+  language_code: eng
+  annotations: []
+termid: 17-729
+id: 68e1eeb6-6181-51be-947f-84d833cf20e6

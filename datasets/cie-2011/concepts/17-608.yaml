@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-608
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163924/http://eilv.cie.co.at/term/608
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-053
+  type: authoritative
+status: valid
+id: b74f4a7d-02fd-5c57-a517-349ad46f447f
+---
+data:
+  definition:
+  - content: |-
+      density of incident radiant flux with respect to area at a point on a real or imaginary surface
+
+      stem:[E_e = ((d Phi_e))/((d A))]
+
+      where stem:[Phi_e] is radiant flux and stem:[A] is the area on which the radiant flux is incident
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irradiance (at a point of a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Ee, E
+  - type: symbol
+    normative_status: preferred
+    designation: Ee, E
+  language_code: eng
+  annotations: []
+termid: 17-608
+id: eeebd4e7-74b7-5643-bb2b-941f09a8528c

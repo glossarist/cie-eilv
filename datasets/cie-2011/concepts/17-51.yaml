@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-51
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101914/http://eilv.cie.co.at/term/51
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-019
+  type: authoritative
+status: valid
+id: 89826111-4f98-5c06-a759-93a901a2f22b
+---
+data:
+  definition:
+  - content: aspect of visual perception through which an object is perceived to have
+      attributes such as size, shape, colour, texture, gloss, transparency, and opacity
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: appearance
+  language_code: eng
+  annotations: []
+termid: 17-51
+id: 3adf9c33-5a3a-57c8-9ccd-af54a3419965

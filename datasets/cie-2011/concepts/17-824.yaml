@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-824
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922033032/http://eilv.cie.co.at/term/824
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-021
+  type: authoritative
+status: valid
+id: 5f567bcb-69f4-5700-a6d2-bca5c2aa211f
+---
+data:
+  definition:
+  - content: cathode fall that is independent of the discharge current, the current
+      density remaining constant over the active surface of the cathode
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-021
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normal cathode fall
+  language_code: eng
+  annotations: []
+termid: 17-824
+id: 3c85dfc0-0d67-52e6-b70e-0b8cffda0640

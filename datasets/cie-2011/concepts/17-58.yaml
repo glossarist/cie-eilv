@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-58
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101743/http://eilv.cie.co.at/term/58
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-118
+  type: authoritative
+status: valid
+id: 025c7048-03b5-5e31-aa19-c14ca80be911
+---
+data:
+  definition:
+  - content: duration within a given time interval during which the Sun is above an
+      even, unobscured horizon
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-118
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: astronomical sunshine duration
+  language_code: eng
+  annotations: []
+termid: 17-58
+id: e4c8fd48-ed54-5313-a848-0c4bfefef477

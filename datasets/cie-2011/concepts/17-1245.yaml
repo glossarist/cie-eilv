@@ -1,0 +1,70 @@
+---
+data:
+  identifier: 17-1245
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042342/http://eilv.cie.co.at/term/1245
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-054
+  type: authoritative
+status: valid
+id: 4dc563d1-cb11-5888-a023-3ed07a84929f
+---
+data:
+  definition:
+  - content: mean value of irradiance on the outer curved surface of a very small
+      (real or imaginary) sphere at a point in space
+    type: intensional
+  examples: []
+  notes:
+  - content: This quantity is the quotient of the radiant flux of all the radiation
+      incident on the outer surface of an infinitely small sphere centred at the given
+      point, by the area of the diametrical cross-section of that sphere.
+    type: intensional
+  - content: The analogous quantities “spherical illuminance”, stem:[E_(v,o)], and
+      “photon spherical irradiance” (also termed “photon fluence rate”), stem:[E_(p,o)],
+      are defined in a similar way, replacing radiance, stem:[L_e], by luminance,
+      stem:[L_v], or photon radiance, stem:[L_p].
+    type: intensional
+  - content: This is the appropriate radiometric quantity for describing a dose rate
+      for a photobiological or photochemical effect in a scattering medium (e.g.,
+      light in skin). It is also the appropriate quantity for describing the irradiation
+      of microorganisms. It is frequently used incorrectly as a substitute for irradiance
+      in some publications.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-054
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical irradiance (at a point)
+  - type: symbol
+    normative_status: preferred
+    designation: fluence rate
+  - type: symbol
+    normative_status: preferred
+    designation: fluence rate
+  - type: expression
+    normative_status: admitted
+    designation: fluence rate”, “radiant fluence rate
+  language_code: eng
+  annotations: []
+termid: 17-1245
+id: 8bfe7085-f238-5429-bd96-3f3e5a2d51af

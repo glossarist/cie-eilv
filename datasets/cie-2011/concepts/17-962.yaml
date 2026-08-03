@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-962
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162159/http://eilv.cie.co.at/term/962
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-096
+  type: authoritative
+status: valid
+id: 7f0d1953-3bec-5c60-8443-eb695cee9944
+---
+data:
+  definition:
+  - content: quantity involved in the visual observation of a source of light when
+      viewed directly from the distance where its apparent diameter just becomes inappreciable
+    type: intensional
+  examples: []
+  notes:
+  - content: The point brilliance is measured by the illuminance produced by the source
+      on a plane, at the observer’s eye, normal to the direction of the source.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-096
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: point brilliance
+  - type: symbol
+    normative_status: preferred
+    designation: Epb
+  - type: symbol
+    normative_status: preferred
+    designation: Epb
+  language_code: eng
+  annotations: []
+termid: 17-962
+id: 677f4939-3313-5835-9713-a197c26739c8

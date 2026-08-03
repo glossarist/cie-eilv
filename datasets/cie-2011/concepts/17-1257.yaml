@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1257
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922161614/http://eilv.cie.co.at/term/1257
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-013
+  type: authoritative
+status: valid
+id: 6a7e3613-aca7-552d-8fd4-cd4d09460d2c
+---
+data:
+  definition:
+  - content: that part of emergency lighting provided to enable normal activities
+      to continue substantially unchanged
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-013
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stand-by lighting
+  language_code: eng
+  annotations: []
+termid: 17-1257
+id: 731ba4d3-fefb-5e65-904b-8c8df0d2d1ea

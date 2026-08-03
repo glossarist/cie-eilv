@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-322
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160032/http://eilv.cie.co.at/term/322
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-133
+  type: authoritative
+status: valid
+id: bad0d3e6-57c4-5e21-a2fa-848028359e05
+---
+data:
+  definition:
+  - content: irradiance produced by direct solar radiation on a horizontal surface
+      on the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-133
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direct solar irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,s
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,s
+  language_code: eng
+  annotations: []
+termid: 17-322
+id: d56a83e7-07dd-5afa-a112-286c022d03df

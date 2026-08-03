@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-79
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101442/http://eilv.cie.co.at/term/79
+  type: authoritative
+status: valid
+id: '084c3c35-f30b-5aa3-b8b1-8777752b77b9'
+---
+data:
+  definition:
+  - content: See NOTE 6 to "{{17-1012, radiance (in a given direction, at a given
+      point of a real or imaginary surface)}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: basic photon radiance
+  language_code: eng
+  annotations: []
+termid: 17-79
+id: 30c8b5b0-682d-540e-893e-e77b7dde1dca

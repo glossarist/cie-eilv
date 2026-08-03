@@ -1,0 +1,81 @@
+---
+data:
+  identifier: 17-797
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121713/http://eilv.cie.co.at/term/797
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-092
+  type: authoritative
+status: valid
+id: 4557dd4b-ef84-5337-bfbe-089ea73af40a
+---
+data:
+  definition:
+  - content: |-
+      quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the radiant exitance or luminous exitance stem:[M_1] (or stem:[M_2])
+
+      stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
+
+      stem:[g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G]
+
+      where stem:[l] is the distance between the elements of areas dstem:[A_1] and dstem:[A_2] on the surfaces S~1~ and S~2~, stem:[G] is the geometric extent of the beam delimited by the boundaries of S~1~ and S~2~, and stem:[theta_1] and stem:[theta_2] are the angles between the surface normals of the two elementary areas dstem:[A_1] and dstem:[A_2] respectively and the line joining the two elementary areas.
+    type: intensional
+  - content: |-
+      For two elementary areas dA~1~ and dA~2~
+
+      stem:[d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2]
+
+      where dstem:[Omega_1] (or dstem:[Omega_2]) is the solid angle which the area dstem:[A_2] (or dstem:[A_1]) subtends from the centre of dstem:[A_1] (or dstem:[A_2]).
+    type: intensional
+  - content: |-
+      The radiance or luminance stem:[L] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
+
+      stem:[L = (1)/(pi) ((d Phi))/((d g))].
+    type: intensional
+  - content: The mutual exchange coefficient is expressed in square metre (m^2^).
+    type: intensional
+  - content: This entry was numbered 845-09-71 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-797 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(mutual) exchange coefficient (between 2 surfaces S~1~ and S~2~,
+      when the radiance or luminance of S~1~ (or S~2~) is the same at all points and
+      for all directions)"
+  - type: symbol
+    normative_status: preferred
+    designation: exchange coefficient, <of radiance or luminance between surfaces>
+  - type: symbol
+    normative_status: preferred
+    designation: exchange coefficient, <of radiance or luminance between surfaces>
+  language_code: eng
+  annotations: []
+termid: 17-797
+id: 48afd1bd-8d02-5e22-af1f-c9ad706b9a69

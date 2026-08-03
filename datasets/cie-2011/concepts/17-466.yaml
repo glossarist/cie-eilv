@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-466
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164539/http://eilv.cie.co.at/term/466
+  type: authoritative
+status: valid
+id: ee3f4b03-cade-5a85-a71c-a7faed786271
+---
+data:
+  definition:
+  - content: See NOTE 2 to "{{17-118, candela per square metre}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: footlambert (US)
+  language_code: eng
+  annotations: []
+termid: 17-466
+id: 8fe98cc4-d9df-59fd-9fa6-cddd010b518f

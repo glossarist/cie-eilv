@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-760
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818133147/http://eilv.cie.co.at/term/760
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-032
+  type: authoritative
+status: valid
+id: ba06f7ea-eb8b-53eb-bfb8-70eb8691151e
+---
+data:
+  definition:
+  - content: neutral colour with the lowest luminance that can be produced by an imaging
+      medium in use, measured using the specified measurement geometry
+    type: intensional
+  examples: []
+  notes:
+  - content: It is generally desirable to specify a medium black point that has the
+      same chromaticity as the medium white point.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-032
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: medium black point
+  language_code: eng
+  annotations: []
+termid: 17-760
+id: 2d9c9de7-7a6b-5b1f-9d7e-21809b5a43f5

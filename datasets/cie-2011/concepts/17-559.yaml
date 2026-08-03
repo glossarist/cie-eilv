@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-559
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426173027/http://eilv.cie.co.at/term/559
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-001
+  type: authoritative
+status: valid
+id: 03422654-b3c4-5a78-bde0-85fae0f458f0
+---
+data:
+  definition:
+  - content: application of light to a scene, objects, or their surroundings
+    type: intensional
+  examples: []
+  notes:
+  - content: This term is also used colloquially with the meaning "lighting system"
+      or "lighting installation".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-001
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illumination
+  - type: symbol
+    normative_status: preferred
+    designation: illumination
+  - type: symbol
+    normative_status: preferred
+    designation: illumination
+  - type: expression
+    normative_status: admitted
+    designation: lighting
+  language_code: eng
+  annotations: []
+termid: 17-559
+id: f92ceb2b-86b1-5764-acb0-dde531bc9c37

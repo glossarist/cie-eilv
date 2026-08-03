@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-38
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101401/http://eilv.cie.co.at/term/38
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-034
+  type: authoritative
+status: valid
+id: 82dc4a27-0dd7-51fd-83bd-11a8fe5db7f9
+---
+data:
+  definition:
+  - content: chromaticity coordinates representing the lighting in the viewing environment,
+      excluding that from the display, measured in the plane of the display
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient white point (of a display)
+  language_code: eng
+  annotations: []
+termid: 17-38
+id: 0c8aec3b-c33e-5806-b32f-5e3b96230bad

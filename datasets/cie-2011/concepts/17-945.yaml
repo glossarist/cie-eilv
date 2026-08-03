@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-945
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160801/http://eilv.cie.co.at/term/945
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-024
+  type: authoritative
+status: valid
+id: c0dc77b3-cea5-52c5-bcff-0edb3c9a0e3f
+---
+data:
+  definition:
+  - content: irradiation of the skin or other tissues, typically with ultraviolet
+      radiation, in the treatment of diseases (e.g. psoriasis)
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "photodynamic therapy" has been used where special photo-sensitising
+      agents have been added as part of the treatment.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phototherapy
+  language_code: eng
+  annotations: []
+termid: 17-945
+id: c4d72ff7-ec49-5203-ac9b-c5977409d2f0

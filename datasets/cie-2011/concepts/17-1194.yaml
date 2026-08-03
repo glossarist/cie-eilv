@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1194
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135729/http://eilv.cie.co.at/term/1194
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-141
+  type: authoritative
+status: valid
+id: 5f30e939-0f4d-581b-a627-6165390f40fa
+---
+data:
+  definition:
+  - content: daylight opening on the roof or on a horizontal surface of a building
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-141
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: skylight
+  - type: symbol
+    normative_status: preferred
+    designation: skylight, <of a building>
+  - type: symbol
+    normative_status: preferred
+    designation: skylight, <of a building>
+  language_code: eng
+  annotations: []
+termid: 17-1194
+id: 0035c017-5978-5da7-ac2e-f062da64a369

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1357
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922163332/http://eilv.cie.co.at/term/1357
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-072
+  type: authoritative
+status: valid
+id: 385b1fa3-791c-57ca-95d6-9f36e03b251e
+---
+data:
+  definition:
+  - content: two-dimensional diagram in which the coordinates are defined with the
+      intention of making equal distances represent as nearly as possible equal steps
+      of colour discrimination of colour stimuli of the same luminance throughout
+      the diagram
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UCS diagram
+  - type: symbol
+    normative_status: preferred
+    designation: UCS diagram
+  - type: symbol
+    normative_status: preferred
+    designation: UCS diagram
+  language_code: eng
+  annotations: []
+termid: 17-1357
+id: cb281cec-4951-5f3d-895c-eeb6a40f65b8

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1289
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161812/http://eilv.cie.co.at/term/1289
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-089
+  type: authoritative
+status: valid
+id: 867e7e3e-a39c-504b-be4d-ec5f666d7932
+---
+data:
+  definition:
+  - content: quotient of the suspension length of the luminaires of the installation
+      and the distance between the ceiling and the working plane
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-089
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspension factor (of an installation in an interior)
+  language_code: eng
+  annotations: []
+termid: 17-1289
+id: 5db5aabd-5e00-5948-891c-fd1f3ca24fe6

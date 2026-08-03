@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-586
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426161828/http://eilv.cie.co.at/term/586
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-061
+  type: authoritative
+status: valid
+id: b3a35d14-2884-5a16-bb05-e6cb44531e93
+---
+data:
+  definition:
+  - content: quotient of the sum of the individual total output fluxes of the luminaires
+      of an installation and the floor area
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: installation flux density (for an interior lighting)
+  language_code: eng
+  annotations: []
+termid: 17-586
+id: 5c48e919-9a90-5d31-b309-20ca7c2d485e

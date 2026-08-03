@@ -18,6 +18,16 @@ datasets:
   ref: CIE S 017:2020
   owner: CIE
   color: '#004ebc'
+- id: cie-2011
+  title: CIE S 017:2011 ILV
+  description: >-
+    The International Lighting Vocabulary, 1st edition (CIE S 017:2011).
+    Archived snapshot of the defunct eilv.cie.co.at site, scraped from
+    web.archive.org (latest snapshot at or before 2019-12-31).
+  local_path: datasets/cie-2011
+  ref: CIE S 017:2011
+  owner: CIE
+  color: '#7a4f00'
 routing: []
 branding:
   primary_color: '#004ebc'
@@ -49,19 +59,19 @@ branding:
     source_dir: assets/favicons
     icons:
     - rel: icon
-      type: image/svg+xml
-      href: favicon.svg
-    - rel: icon
       type: image/png
       sizes: 96x96
-      href: favicon-96x96.png
+      href: favicon-96x96.png?v=20260802
+    - rel: icon
+      type: image/svg+xml
+      href: favicon.svg?v=20260802
     - rel: shortcut icon
-      href: favicon.ico
+      href: favicon.ico?v=20260802
     - rel: apple-touch-icon
       sizes: 180x180
-      href: apple-touch-icon.png
+      href: apple-touch-icon.png?v=20260802
     - rel: manifest
-      href: site.webmanifest
+      href: site.webmanifest?v=20260802
   logo:
     alt: CIE
     local_light: public/images/cie-logo_logo-icon.svg
@@ -88,9 +98,10 @@ defaults:
 dataset_groups:
 - id: cie
   label: CIE International Lighting Vocabulary
-  kind: default
+  kind: lineage
   current: cie-2020
   datasets:
+  - cie-2011
   - cie-2020
   color: '#004ebc'
 copyright: CIE

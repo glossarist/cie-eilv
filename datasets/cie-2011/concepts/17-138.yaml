@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-138
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426193252/http://eilv.cie.co.at/term/138
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-030
+  type: authoritative
+status: valid
+id: e1ba5f55-895b-56ff-a28b-d316e6736d58
+---
+data:
+  definition:
+  - content: luminescence caused by energy released by a chemical reaction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chemiluminescence
+  language_code: eng
+  annotations: []
+termid: 17-138
+id: bfc82bdb-1221-55a6-9e6a-1f82787953a6

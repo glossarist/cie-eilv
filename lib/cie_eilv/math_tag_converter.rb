@@ -45,6 +45,19 @@ module CieEilv
           end
         end
 
+        # Also process term designations — symbols and admitted terms
+        # often carry inline math (e.g. <i>H</i><sub>e,o</sub>).
+        if loc.data.terms.respond_to?(:each)
+          loc.data.terms.each do |term|
+            next unless term.respond_to?(:designation) && term.designation.is_a?(String)
+            original = term.designation
+            converted = convert_tags(original)
+            next if converted == original
+            term.designation = converted
+            changed = true
+          end
+        end
+
         next unless changed
         cf.save
         @stats[:touched] += 1

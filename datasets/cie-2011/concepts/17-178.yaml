@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-178
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150427211942/http://eilv.cie.co.at/term/178
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-007
+  type: authoritative
+status: valid
+id: 3d823178-8741-5b2f-b8da-a6c8563c7748
+---
+data:
+  definition:
+  - content: bulb that is transparent to visible radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-007
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clear bulb
+  language_code: eng
+  annotations: []
+termid: 17-178
+id: 614ac768-a284-5e0d-a1a6-d195a27bd57b

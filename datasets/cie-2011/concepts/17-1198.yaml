@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1198
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160945/http://eilv.cie.co.at/term/1198
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-097
+  type: authoritative
+status: valid
+id: 402a0a38-c9a7-5e3d-8811-c2f36d412b2c
+---
+data:
+  definition:
+  - content: irradiance produced by the extraterrestrial solar radiation on a surface
+      perpendicular to the Sun's rays at mean Sun-Earth distance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-097
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solar constant
+  - type: symbol
+    normative_status: preferred
+    designation: Eeo
+  - type: symbol
+    normative_status: preferred
+    designation: Eeo
+  language_code: eng
+  annotations: []
+termid: 17-1198
+id: f9307753-ea8e-5a67-8994-9858104260be

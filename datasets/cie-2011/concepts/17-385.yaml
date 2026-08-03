@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-385
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120758/http://eilv.cie.co.at/term/385
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-019
+  type: authoritative
+status: valid
+id: b2ca57cf-50f3-5a1a-b324-5bebb74046ad
+---
+data:
+  definition:
+  - content: discrete quantum state of energy of an atom, a molecule or an ion
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy level
+  language_code: eng
+  annotations: []
+termid: 17-385
+id: 453e84d9-77be-560f-97d6-fd3b483b3ac7

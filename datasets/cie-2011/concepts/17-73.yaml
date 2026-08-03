@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-73
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102102059/http://eilv.cie.co.at/term/73
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-044
+  type: authoritative
+status: valid
+id: 3306a37e-22b7-5e75-afdd-72cc391069cf
+---
+data:
+  definition:
+  - content: unit inserted between the power supply and at least one discharge lamp
+      that, by means of inductance, capacitance or resistance, single or in combination,
+      serves mainly to limit the current of the discharge lamp(s) to the required
+      value
+    type: intensional
+  examples: []
+  notes:
+  - content: It may also include means for transforming the supply voltage and arragements
+      which help provide starting voltage and pre-heating current.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ballast
+  language_code: eng
+  annotations: []
+termid: 17-73
+id: 2f3cde75-973f-5e5c-bda7-188d3d067d82

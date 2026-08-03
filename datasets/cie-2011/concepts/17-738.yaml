@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-738
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145831/http://eilv.cie.co.at/term/738
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-039
+  type: authoritative
+status: valid
+id: a9c175c1-8492-5288-b93f-360d2167fe0a
+---
+data:
+  definition:
+  - content: |-
+      change in luminous energy with time
+
+      stem:[Phi_v = ((d Q_v))/((d t))]
+
+      where stem:[Q_v] is the luminous energy emitted, transferred or received, and stem:[t] is time
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous flux
+  - type: symbol
+    normative_status: preferred
+    designation: Φv; Φ
+  - type: symbol
+    normative_status: preferred
+    designation: Φv; Φ
+  language_code: eng
+  annotations: []
+termid: 17-738
+id: 34d676c8-6a2a-5e6f-992f-7d4bc58f547d

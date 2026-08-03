@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1370
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171946/http://eilv.cie.co.at/term/1370
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-098
+  type: authoritative
+status: valid
+id: a91b1a30-37bc-5598-b645-84c2465fb53a
+---
+data:
+  definition:
+  - content: "{{17-964, point source}} which emits uniformly in all directions"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-098
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform point source
+  - type: symbol
+    normative_status: preferred
+    designation: isotropic point source
+  - type: symbol
+    normative_status: preferred
+    designation: isotropic point source
+  language_code: eng
+  annotations: []
+termid: 17-1370
+id: 6c2f747b-a50b-5ff0-b614-678c708a3080

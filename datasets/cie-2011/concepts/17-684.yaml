@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-684
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042108/http://eilv.cie.co.at/term/684
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-020
+  type: authoritative
+status: valid
+id: f311926c-a036-5d06-983e-9ee1279308d0
+---
+data:
+  definition:
+  - content: radiation in which the electric field vector is at a fixed azimuth, i.e.
+      it is confined to a plane containing the direction of propagation of the radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linearly polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-684
+id: 17d1fbf8-c99c-5739-8649-6f75bbb2a450

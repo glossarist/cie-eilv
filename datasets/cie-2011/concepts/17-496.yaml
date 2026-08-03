@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-496
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130319/http://eilv.cie.co.at/term/496
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-137
+  type: authoritative
+status: valid
+id: eb27331f-e153-579d-b14d-c7ffbd06d351
+---
+data:
+  definition:
+  - content: irradiance produced by global solar radiation on a horizontal surface
+      on the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-137
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global horizontal irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,g
+  - type: symbol
+    normative_status: preferred
+    designation: Ee,g
+  language_code: eng
+  annotations: []
+termid: 17-496
+id: 3cfbb3e4-101f-5351-98cb-314c56b036ea

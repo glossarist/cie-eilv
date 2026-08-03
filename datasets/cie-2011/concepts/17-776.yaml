@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-776
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125503/http://eilv.cie.co.at/term/776
+  type: authoritative
+status: valid
+id: d97ec1ca-1c36-5825-adfb-11176b217a41
+---
+data:
+  definition:
+  - content: characteristic which gives an indication of the degree of polishing of
+      a pavement surface or of an aggregate
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: microroughness
+  language_code: eng
+  annotations: []
+termid: 17-776
+id: 24836b46-d3af-5f6b-a373-f506585e1b69

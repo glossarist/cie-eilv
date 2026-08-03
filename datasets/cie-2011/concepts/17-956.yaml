@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-956
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922162412/http://eilv.cie.co.at/term/956
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-060
+  type: authoritative
+status: valid
+id: 05bde3f5-1f52-5830-b035-132198566cf9
+---
+data:
+  definition:
+  - content: smallest element that is capable of generating the full functionality
+      of a display
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-060
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pixel
+  language_code: eng
+  annotations: []
+termid: 17-956
+id: d49c84b4-0399-575c-897c-5854a8bf7b25

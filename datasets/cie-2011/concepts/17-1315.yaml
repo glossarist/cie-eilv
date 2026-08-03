@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1315
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917162433/http://eilv.cie.co.at/term/1315
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-089
+  type: authoritative
+status: valid
+id: a6900f05-0cfc-5505-a1c7-334eb4856004
+---
+data:
+  definition:
+  - content: average road surface luminance at a specific location in the threshold
+      zone
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-089
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold zone luminance (at a specific location in the threshold
+      zone)
+  - type: symbol
+    normative_status: preferred
+    designation: Lth
+  - type: symbol
+    normative_status: preferred
+    designation: Lth
+  language_code: eng
+  annotations: []
+termid: 17-1315
+id: 37e2aa6e-6e85-5c8b-a26f-adad3fef63f6

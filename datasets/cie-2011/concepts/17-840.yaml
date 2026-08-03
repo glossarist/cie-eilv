@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-840
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426085425/http://eilv.cie.co.at/term/840
+  type: authoritative
+status: valid
+id: 6b8836a4-1721-526b-aecf-456a0fdaf293
+---
+data:
+  definition:
+  - content: |-
+      angular extent of all the radius vectors of the polar curve of luminous intensity in the specified plane having lengths greater than 50 % of the maximum
+
+      Equivalent term used outside US: "half-peak divergence"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: one-half-peak spread (of a projector, in a specified plane) (US)
+  language_code: eng
+  annotations: []
+termid: 17-840
+id: 2386115a-3169-5f4d-9c23-a448f9477600

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-806
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916123921/http://eilv.cie.co.at/term/806
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-005
+  type: authoritative
+status: valid
+id: 9bd3628c-872d-5044-837f-7a4f7290cb8b
+---
+data:
+  definition:
+  - content: natural or artificial object that provides navigational information by
+      virtue of both its situation and its distinctive appearance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-005
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: navigation mark
+  language_code: eng
+  annotations: []
+termid: 17-806
+id: 886c82e7-6e9c-5bc3-a667-4f7c75f38ea2

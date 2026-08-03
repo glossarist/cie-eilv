@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1249
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820011131/http://eilv.cie.co.at/term/1249
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-053
+  type: authoritative
+status: valid
+id: 6831b8c0-96a2-582a-ad4a-739926edc2b9
+---
+data:
+  definition:
+  - content: single colorant, identified by name, and specified independently from
+      the colour values specified in a trichromatic (colour coordinate) system
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spot colour
+  language_code: eng
+  annotations: []
+termid: 17-1249
+id: ca5bef00-7f5e-5083-909d-92f9251022e7

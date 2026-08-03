@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1155
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202103631/http://eilv.cie.co.at/term/1155
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-010
+  type: authoritative
+status: valid
+id: 2e63ab67-7c89-50a6-97bb-ae33f90264e3
+---
+data:
+  definition:
+  - content: thermal radiator whose spectral emissivity varies with wavelength over
+      the spectral range considered
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-010
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selective radiator
+  language_code: eng
+  annotations: []
+termid: 17-1155
+id: fa0bb750-e982-57bc-b068-49433a3976ef

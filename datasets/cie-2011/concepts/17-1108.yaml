@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1108
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161839/http://eilv.cie.co.at/term/1108
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-073
+  type: authoritative
+status: valid
+id: ad76e453-c29d-54bc-8baa-1a8e6fdfeaa3
+---
+data:
+  definition:
+  - content: signal light carried on a vehicle to illuminate the way behind the vehicle
+      and to indicate rearwards an intended, or actual, backward movement by the vehicle
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reversing light
+  - type: symbol
+    normative_status: preferred
+    designation: backup light
+  - type: symbol
+    normative_status: preferred
+    designation: backup light
+  language_code: eng
+  annotations: []
+termid: 17-1108
+id: aadda0b1-bcfb-55de-b73e-25ec6cffd1af

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-10
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101512/http://eilv.cie.co.at/term/10
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-086
+  type: authoritative
+status: valid
+id: 5837c960-6cf5-5d0d-b18b-25158e5b5c10
+---
+data:
+  definition:
+  - content: adjustment of the dioptric power of the crystalline lens by which the
+      image of an object, at a given distance, is focused on the retina
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-086
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accommodation
+  language_code: eng
+  annotations: []
+termid: 17-10
+id: d0baaead-b6c2-5d56-8c09-bdd6ba973862

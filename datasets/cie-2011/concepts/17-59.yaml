@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-59
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101537/http://eilv.cie.co.at/term/59
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-004
+  type: authoritative
+status: valid
+id: b1c66648-084f-5f25-86cc-3896538a6772
+---
+data:
+  definition:
+  - content: luminaire with an asymmetrical luminous intensity distribution
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: asymmetrical luminaire
+  language_code: eng
+  annotations: []
+termid: 17-59
+id: a5f613ac-41c3-5669-ab75-aac11f2e1e25

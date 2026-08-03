@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-514
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426114920/http://eilv.cie.co.at/term/514
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-043
+  type: authoritative
+status: valid
+id: b1612d25-be3f-5d2b-8097-0bd660791e67
+---
+data:
+  definition:
+  - content: angular extent of all the radius vectors of the polar curve of luminous
+      intensity in the specified plane having lengths greater than 50 % of the maximum
+    type: intensional
+  examples: []
+  notes:
+  - content: Outside US "beam spread" relates to the total angle within which the
+      illuminance on a plane normal to the axis of the beam exceeds 10 % of the maximum.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-043
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: half-peak divergence (of a projector, in a specified plane)
+  language_code: eng
+  annotations: []
+termid: 17-514
+id: 4463f039-e916-5e77-82e9-e7bccad92403

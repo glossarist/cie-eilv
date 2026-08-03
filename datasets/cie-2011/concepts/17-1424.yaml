@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1424
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123211/http://eilv.cie.co.at/term/1424
+  type: authoritative
+status: valid
+id: b3e044e6-b008-5ce1-a8a9-7aa35cdee262
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-995, protected luminaire}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: watertight luminaire
+  language_code: eng
+  annotations: []
+termid: 17-1424
+id: bab56796-7779-5f59-8fd6-a0eda280eca3

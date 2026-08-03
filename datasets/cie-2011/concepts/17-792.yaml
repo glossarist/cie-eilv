@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 17-792
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042322/http://eilv.cie.co.at/term/792
+  type: authoritative
+status: valid
+id: cae36ae3-6b20-59dd-8631-28f0b66756c4
+---
+data:
+  definition:
+  - content: |-
+      1. road reserved for motor traffic, accessible only from interchanges and on which, in particular, stopping and parking are prohibited; roads of this type should have 2 or several separate and one-way carriageways
+
+      2. divided road primarily for through traffic, usually on a continuous route, with control of access limited to interchanges with full grade separation between crossing roads only
+    type: intensional
+  examples: []
+  notes:
+  - content: In North America, the term "freeway" is used to apply to this type of
+      road.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: motorway
+  language_code: eng
+  annotations: []
+termid: 17-792
+id: 113eb704-07e6-5a47-84a7-43f1ab089cc4

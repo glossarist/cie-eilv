@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-370
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042139/http://eilv.cie.co.at/term/370
+  type: authoritative
+- id: 702-02-07
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 702-02-07
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=702-02-07
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-001
+  type: authoritative
+status: valid
+id: b254de94-99a7-564f-984d-4328a9658442
+---
+data:
+  definition:
+  - content: See {{cite:702-02-07, IEV 702-02-07}}
+    type: intensional
+  examples: []
+  notes:
+  - content: The French term "radiation" applies preferably to a single element of
+      any radiation, characterized by one wavelength or one frequency (see "{{17-788,
+      monochromatic radiation}}").
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 702-02-07
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 702-02-07
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=702-02-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-001
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electromagnetic radiation
+  language_code: eng
+  annotations: []
+termid: 17-370
+id: a4b2627a-6e57-5e28-827a-ff4275c5100d

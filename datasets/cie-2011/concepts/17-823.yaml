@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-823
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922032959/http://eilv.cie.co.at/term/823
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-011
+  type: authoritative
+status: valid
+id: 2e181286-2eff-5060-9265-268fd00e2569
+---
+data:
+  definition:
+  - content: thermal radiator whose spectral emissivity is constant with respect to
+      wavelength over the spectral range considered
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective radiator
+  language_code: eng
+  annotations: []
+termid: 17-823
+id: 52a851de-8080-5439-ae6a-76db5f7f9e31

@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-54
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101643/http://eilv.cie.co.at/term/54
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-023
+  type: authoritative
+status: valid
+id: c9000209-7034-5f51-9db7-d6d68dce8176
+---
+data:
+  definition:
+  - content: electric discharge characterized by a cathode fall which is small compared
+      to that in a glow discharge
+    type: intensional
+  examples: []
+  notes:
+  - content: The emission of the cathode results from various causes (thermionic emission,
+      field emission, etc.) acting simultaneously or separately, secondary emission
+      plays only a small part.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-023
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arc discharge
+  - type: symbol
+    normative_status: preferred
+    designation: electric arc, <in a gas or in a vapour>
+  - type: symbol
+    normative_status: preferred
+    designation: electric arc, <in a gas or in a vapour>
+  - type: expression
+    normative_status: admitted
+    designation: electric arc
+  language_code: eng
+  annotations: []
+termid: 17-54
+id: eccd912c-e25e-5e7c-aca0-4c1879983077

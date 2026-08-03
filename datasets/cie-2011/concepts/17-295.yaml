@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-295
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123800/http://eilv.cie.co.at/term/295
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-072
+  type: authoritative
+status: valid
+id: ad1165da-896f-514d-83d1-5e8a6bde135b
+---
+data:
+  definition:
+  - content: |-
+      reciprocal of the noise equivalent power, stem:[Phi_m]
+
+      stem:[D = (1)/((Phi_m))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-072
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: detectivity (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: D
+  - type: symbol
+    normative_status: preferred
+    designation: D
+  language_code: eng
+  annotations: []
+termid: 17-295
+id: 481e211c-9a43-5c04-9c92-010bcb69c287

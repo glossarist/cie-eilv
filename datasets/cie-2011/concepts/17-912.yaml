@@ -1,0 +1,61 @@
+---
+data:
+  identifier: 17-912
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013918/http://eilv.cie.co.at/term/912
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-104
+  type: authoritative
+status: valid
+id: dc2bc112-4691-51d7-9853-2c16ab2d6374
+---
+data:
+  definition:
+  - content: |-
+      law relating the illuminance, stem:[E], on a real or imaginary surface to the luminous intensity, stem:[I], of an illuminating point source whereby
+
+      stem:[E = ((I cos theta))/((d^2))]
+
+      where stem:[theta] is the angle between the normal to the surface and the line between the surface and the source and stem:[d] is the distance between the source and the surface
+    type: intensional
+  examples: []
+  notes:
+  - content: The photometric distance law strictly only applies for a point source.
+      However, it can also be applied for non-point sources at sufficiently large
+      distances within acceptable limits of error or measurement uncertainty; in this
+      case the degree of approximation at the distance used should be confirmed by
+      measurement.
+    type: intensional
+  - content: For radiometric sources the equivalent term is "radiometric distance
+      law".
+    type: intensional
+  - content: This entry was numbered 17-912 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-104
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometric distance law
+  language_code: eng
+  annotations: []
+termid: 17-912
+id: 8970eb2c-6241-5e5e-ac05-041095580c4a

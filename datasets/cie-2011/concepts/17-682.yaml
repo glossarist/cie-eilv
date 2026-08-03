@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-682
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124916/http://eilv.cie.co.at/term/682
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-056
+  type: authoritative
+status: valid
+id: 41cb226d-a9c5-528f-9f6b-d68ef4c59795
+---
+data:
+  definition:
+  - content: separation between lines of characters expressed in terms of the number
+      of inactive elements or the distance between centres of adjacent character elements
+      of consecutive character lines
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-056
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: line separation
+  language_code: eng
+  annotations: []
+termid: 17-682
+id: d939d9b2-d21b-5fe5-913a-36731aafd096

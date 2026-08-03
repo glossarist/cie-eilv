@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-561
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002090419/http://eilv.cie.co.at/term/561
+  type: authoritative
+status: valid
+id: 6480b218-9259-5382-b54b-f88f46e4642a
+---
+data:
+  definition:
+  - content: See "{{17-795, multispectral image capture}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image capture, multispectral
+  language_code: eng
+  annotations: []
+termid: 17-561
+id: 0dbcf3c2-eaa6-542c-a688-1aa8f99cc645

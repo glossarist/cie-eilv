@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-412
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121223/http://eilv.cie.co.at/term/412
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-092
+  type: authoritative
+status: valid
+id: 28de7929-0196-521b-bacc-18c669e6c5c7
+---
+data:
+  definition:
+  - content: lighting that provides the visual contact for the driver still in a road
+      tunnel with the open road beyond the road tunnel
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-092
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exit zone lighting
+  language_code: eng
+  annotations: []
+termid: 17-412
+id: a64ad810-a46f-5e69-aa2d-9df4f6efddcd

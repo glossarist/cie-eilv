@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-39
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101829/http://eilv.cie.co.at/term/39
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-115
+  type: authoritative
+status: valid
+id: d4737cb5-7568-510e-895f-9ee4adcb2252
+---
+data:
+  definition:
+  - content: |-
+      relative amplitude of the periodic fluctuation of the luminous flux as calculated by the ratio of the difference between the maximum and the minimum instantaneous luminous flux, stem:[Phi_(max)] and stem:[Phi_(min)] respectively, to the sum of both of these values:
+
+      stem:[((Phi_((max)) - Phi_((min))))/((Phi_((max)) + Phi_((min))))]
+    type: intensional
+  examples: []
+  notes:
+  - content: This ratio is usually expressed in % and is then known under the expression
+      "percent flicker" which, however, should be deprecated.
+    type: intensional
+  - content: Another means sometimes used by the lighting industry to characterize
+      the fluctuation in light output is "flicker index", which is defined by the
+      ratio of 2 areas deduced from the diagram representing the variation of the
+      instantaneous flux over a period of time; the area of the diagram above the
+      average value is divided by the total area under the curve (this total area
+      is the product of the average value and the given period of time).
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-115
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitude of fluctuation of the luminous flux (of a source run on
+      alternating current)
+  language_code: eng
+  annotations: []
+termid: 17-39
+id: b5301dbb-2df9-5cf3-b669-32bdcb48fb7d

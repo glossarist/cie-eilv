@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-864
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922040632/http://eilv.cie.co.at/term/864
+  type: authoritative
+status: valid
+id: f32d0ef8-9ed8-5438-8d74-5451922438e9
+---
+data:
+  definition:
+  - content: See "{{17-467, footway}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pavement (non-US)
+  language_code: eng
+  annotations: []
+termid: 17-864
+id: c8997775-9af4-5e53-8594-4c1c1b750213

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-708
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051236/http://eilv.cie.co.at/term/708
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-052
+  type: authoritative
+status: valid
+id: d1dad7af-1773-5cb7-b993-821e5cbcf8d3
+---
+data:
+  definition:
+  - content: quotient of the total luminous flux of the luminaire, measured under
+      specified practical conditions with its own lamp(s) and equipment, and the sum
+      of the individual luminous fluxes of the same lamp(s) when operated outside
+      the luminaire with the same equipment, under specified conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminaire efficiency (US)
+  - type: symbol
+    normative_status: preferred
+    designation: LOR
+  - type: symbol
+    normative_status: preferred
+    designation: LOR
+  language_code: eng
+  annotations: []
+termid: 17-708
+id: fa2e5b04-1e22-5b4c-99e1-aaef2edcd78d

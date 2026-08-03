@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-435
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140234/http://eilv.cie.co.at/term/435
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-033
+  type: authoritative
+status: valid
+id: fa1c4c63-87d3-5dee-8a41-af26d7cb636b
+---
+data:
+  definition:
+  - content: lighting that provides visual guidance in the case of fire and smoke
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-033
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fire emergency guidance lighting
+  language_code: eng
+  annotations: []
+termid: 17-435
+id: f5c7ca1d-1f48-507a-9c2f-977b3a52e0ec

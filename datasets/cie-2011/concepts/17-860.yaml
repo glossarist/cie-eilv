@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-860
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922040538/http://eilv.cie.co.at/term/860
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-131
+  type: authoritative
+status: valid
+id: fad3228f-ab0c-5897-9895-bc3c05f73424
+---
+data:
+  definition:
+  - content: type of heating of the electrodes of a discharge lamp in which the electrodes
+      are fed by separate circuits
+    type: intensional
+  examples: []
+  notes:
+  - content: Each electrode is usually connected across a low voltage winding which
+      may be part of the ballast and provides the heating current. In certain circuits,
+      this low voltage is automatically decreased after the arc has struck.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-131
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: parallel cathode heating (of a discharge lamp)
+  language_code: eng
+  annotations: []
+termid: 17-860
+id: a4d5d6a4-23b7-598d-ac7d-265ac7a3996f

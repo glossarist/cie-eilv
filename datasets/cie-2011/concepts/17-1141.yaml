@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1141
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163129/http://eilv.cie.co.at/term/1141
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-044
+  type: authoritative
+status: valid
+id: 5c26833c-2df3-5637-be67-c850eb20b45a
+---
+data:
+  definition:
+  - content: luminescent material, usually liquid or solid, showing radioluminescence
+      with a short afterglow
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scintillator
+  language_code: eng
+  annotations: []
+termid: 17-1141
+id: b8babe72-0887-5ce5-9a9c-d8ccaaf90478

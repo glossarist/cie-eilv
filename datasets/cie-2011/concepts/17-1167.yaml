@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-1167
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161726/http://eilv.cie.co.at/term/1167
+  type: authoritative
+status: valid
+id: 9cf5c4c3-e859-5294-a199-102ec4f0bfc8
+---
+data:
+  definition:
+  - content: subsidiary road, usually parallel to the major road, and giving access
+      to premises
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service road
+  language_code: eng
+  annotations: []
+termid: 17-1167
+id: 6686c4c3-f1b4-5921-8d49-e1d8130748d2

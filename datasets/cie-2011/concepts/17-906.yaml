@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-906
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012225/http://eilv.cie.co.at/term/906
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-035
+  type: authoritative
+status: valid
+id: f5162d7b-c02d-5489-b99c-b1301dacd526
+---
+data:
+  definition:
+  - content: quotient of the photon flux of the radiation emitted by a photoluminescent
+      material and the photon flux of the exciting radiation absorbed by that material
+    type: intensional
+  examples: []
+  notes:
+  - content: External photoluminescence quantum yield is the ratio of the emitted
+      to the incident photon flux.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-035
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photoluminescence quantum yield
+  language_code: eng
+  annotations: []
+termid: 17-906
+id: 7168a239-6dc1-501c-98b1-ed834afa0b60

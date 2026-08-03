@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-583
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172634/http://eilv.cie.co.at/term/583
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-152
+  type: authoritative
+status: valid
+id: d9652e23-f0d9-54ae-b902-075147204a23
+---
+data:
+  definition:
+  - content: average luminance of a specified surface when the lighting installation
+      is new
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-152
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: initial average luminance
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av,i; ; Lav,i;
+  - type: symbol
+    normative_status: preferred
+    designation: Lv,av,i; ; Lav,i;
+  language_code: eng
+  annotations: []
+termid: 17-583
+id: 49c6bc82-b40d-5805-bbc5-f12357250f24

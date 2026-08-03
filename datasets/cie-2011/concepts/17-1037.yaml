@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1037
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155325/http://eilv.cie.co.at/term/1037
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-099
+  type: authoritative
+status: valid
+id: d5c57be7-0aee-5759-abff-25877d251861
+---
+data:
+  definition:
+  - content: set of rated values and operating conditions of an electric lamp which
+      serve to characterize and designate it
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-099
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rating (of a lamp)
+  language_code: eng
+  annotations: []
+termid: 17-1037
+id: 3679e2a5-7ada-558e-8210-511cc18173c9

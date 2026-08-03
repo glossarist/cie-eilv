@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-641
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920140513/http://eilv.cie.co.at/term/641
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-077
+  type: authoritative
+status: valid
+id: f86c957a-6b4a-5b4d-82bc-c11468ecde83
+---
+data:
+  definition:
+  - content: source for which the size of the source image on the retina is so large
+      that radial heat flow from the centre of the image to the surrounding biological
+      tissue is negligibly small compared to heat flow in the axial direction
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-077
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: large source (in photobiology)
+  language_code: eng
+  annotations: []
+termid: 17-641
+id: ef587f56-5a85-5bfa-903f-0d5a8a092ed4

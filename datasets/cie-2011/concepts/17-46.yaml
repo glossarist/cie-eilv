@@ -1,0 +1,59 @@
+---
+data:
+  identifier: 17-46
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101416/http://eilv.cie.co.at/term/46
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-086
+  type: authoritative
+status: valid
+id: 3effd96d-efeb-5f92-a170-9a1aa569d771
+---
+data:
+  definition:
+  - content: opening that defines the area over which average optical emission is
+      measured
+    type: intensional
+  examples: []
+  notes:
+  - content: For spectral irradiance measurements this opening is usually the entrance
+      of a small sphere placed in front of the radiometer/spectroradiometer entrance
+      slit.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-086
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aperture
+  - type: symbol
+    normative_status: preferred
+    designation: aperture stop
+  - type: symbol
+    normative_status: preferred
+    designation: aperture stop
+  - type: expression
+    normative_status: admitted
+    designation: "{{17-49, aperture stop}}"
+  language_code: eng
+  annotations: []
+termid: 17-46
+id: c4237ae4-5535-54b2-b979-c855d9cb687f

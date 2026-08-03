@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-538
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426120117/http://eilv.cie.co.at/term/538
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-161
+  type: authoritative
+status: valid
+id: 6fecf090-a61e-5c5e-aba3-ee821725cba4
+---
+data:
+  definition:
+  - content: hollow light distribution structure of arbitrary shape, in which light
+      propagates mainly in air, and in which the average light ray undergoes reflections
+      and/or refractions before exiting
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-161
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hollow light guide
+  language_code: eng
+  annotations: []
+termid: 17-538
+id: 1ae05e88-f7bc-5a8a-a101-b246f68716fc

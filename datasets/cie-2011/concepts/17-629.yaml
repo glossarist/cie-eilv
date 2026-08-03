@@ -1,0 +1,70 @@
+---
+data:
+  identifier: 17-629
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202070035/http://eilv.cie.co.at/term/629
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-020
+  type: authoritative
+status: valid
+id: aee834b5-116b-5156-9992-fc5513fbf63a
+---
+data:
+  definition:
+  - content: |-
+      law relating the apparent contrast, stem:[Cd], of an object against a sky background, at a given distance of observation, stem:[d], to the inherent contrast, stem:[C_0], and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
+
+      stem:[C_d = C_0 T^(d // d_0)]
+
+      where stem:[d_0] is the length specified for the definition of stem:[T]
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The formula is sometimes written
+
+      stem:[C_d = C_0 T^(delta)]
+
+      where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of stem:[d] measured with stem:[d_0] as "unit".
+    type: intensional
+  - content: |-
+      Taking into account the relationship between atmospheric transmissivity, stem:[T], and {{17-772, meteorological optical range}}, stem:[v], given in Note 2 to entry of "meteorological optical range", Koschmieder's law can be also written as
+
+      stem:[C_d = C_0 ( 0,05^(d // v) )]
+    type: intensional
+  - content: The contrast is taken to be the quotient of the difference between the
+      luminance of the object and the luminance of the background, and the luminance
+      of the background.
+    type: intensional
+  - content: This entry was numbered 845-11-22 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-629 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-020
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Koschmieder's law
+  language_code: eng
+  annotations: []
+termid: 17-629
+id: ef5f07ee-317d-51c2-9e29-a43b19b0205a

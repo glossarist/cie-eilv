@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-670
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015442/http://eilv.cie.co.at/term/670
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-026
+  type: authoritative
+status: valid
+id: 75918e99-df27-5cb8-978f-93814abdaec3
+---
+data:
+  definition:
+  - content: |-
+      exposure of the human eye to visible radiation for the treatment of affective disorders or disorders due to circadian disruption
+
+      EXAMPLE<ol type="a">. for affective disorders: seasonal affective disorder or winter depression;. for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel.
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light therapy
+  language_code: eng
+  annotations: []
+termid: 17-670
+id: 1d76aba1-344b-55db-8f59-66a3cd762589

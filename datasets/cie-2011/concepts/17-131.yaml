@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-131
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20180314015001/http://eilv.cie.co.at/term/131
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-073
+  type: authoritative
+status: valid
+id: 22ee27c9-8cd0-50ad-bcf3-f304052d600b
+---
+data:
+  definition:
+  - content: quotient of the sum of the areas of the ceiling and the plane of the
+      luminaires and the sum of the area of the walls bounded by the ceiling and the
+      plane of the luminaires, used in the calculation of the utilization factor or
+      utilance
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The ceiling cavity index is given by the formula
+
+      stem:[K_c = ((a b))/((h_c ( a + b )))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_c] is the distance from the ceiling to the plane of the luminaires.
+    type: intensional
+  - content: See also "floor cavity index" and "{{17-1121, room index}}".
+    type: intensional
+  - content: The ceiling cavity index has unit one.
+    type: intensional
+  - content: This entry was numbered 17-131 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-073
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ceiling cavity index
+  - type: symbol
+    normative_status: preferred
+    designation: Kc; K
+  - type: symbol
+    normative_status: preferred
+    designation: Kc; K
+  language_code: eng
+  annotations: []
+termid: 17-131
+id: 38ba8ddd-f4be-58ed-a906-4c13f167b61d

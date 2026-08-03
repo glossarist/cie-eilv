@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-570
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162037/http://eilv.cie.co.at/term/570
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-011
+  type: authoritative
+status: valid
+id: d171ba3e-3845-5eb9-8d88-ec22cfcc9cae
+---
+data:
+  definition:
+  - content: electric lamp in which light is produced by means of an element heated
+      to incandescence by the passage of an electric current
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incandescent (electric) lamp
+  language_code: eng
+  annotations: []
+termid: 17-570
+id: 54ca84b3-c5f8-52a9-ae23-02e8c369d298

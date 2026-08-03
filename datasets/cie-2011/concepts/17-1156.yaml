@@ -1,0 +1,40 @@
+---
+data:
+  identifier: 17-1156
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160456/http://eilv.cie.co.at/term/1156
+  type: authoritative
+status: valid
+id: 3fc40445-2263-5bb0-97c7-c0e3d9df2880
+---
+data:
+  definition:
+  - content: |-
+      lamp containing in the same bulb a mercury vapour lamp and an incandescent lamp filament connected in series
+
+      Equivalent term used outside US: "blended lamp"
+    type: intensional
+  examples: []
+  notes:
+  - content: The bulb may be diffusing or coated with phosphors.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: self-ballasted mercury lamp (US)
+  language_code: eng
+  annotations: []
+termid: 17-1156
+id: f0167f5b-77a2-5f75-9e58-49da916e489f

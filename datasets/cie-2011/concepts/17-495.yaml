@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-495
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130306/http://eilv.cie.co.at/term/495
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-132
+  type: authoritative
+status: valid
+id: 97862886-dce0-5b93-be71-2640c04b7b28
+---
+data:
+  definition:
+  - content: illuminance produced by daylight on a horizontal surface on the Earth
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-132
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global horizontal illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,g
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,g
+  language_code: eng
+  annotations: []
+termid: 17-495
+id: cfab1099-bbeb-52e3-9b25-d5b1b8c4548f

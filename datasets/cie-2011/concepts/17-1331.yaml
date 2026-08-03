@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1331
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190910114255/http://eilv.cie.co.at/term/1331
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-117
+  type: authoritative
+status: valid
+id: 0fbf6b4d-bd6f-5462-a9c0-1afdd390284e
+---
+data:
+  definition:
+  - content: display which operates with an arrangement of internal illumination
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transilluminated display
+  language_code: eng
+  annotations: []
+termid: 17-1331
+id: 8cfa1042-6b9c-536d-8b5b-e6b61cfe2f48

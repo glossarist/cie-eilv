@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-911
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170203/http://eilv.cie.co.at/term/911
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-103
+  type: authoritative
+status: valid
+id: 33245a19-c547-5b97-aeae-1c93e6653665
+---
+data:
+  definition:
+  - content: point in a source from which the photometric distance law operates most
+      closely in the direction of maximum intensity
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometric centre
+  language_code: eng
+  annotations: []
+termid: 17-911
+id: '0091a2e8-ff89-5d2b-8897-035377350e43'

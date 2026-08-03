@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-788
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145841/http://eilv.cie.co.at/term/788
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-014
+  type: authoritative
+status: valid
+id: 8ff83152-2f6c-56c6-9fd4-ca4e95cca0fc
+---
+data:
+  definition:
+  - content: radiation characterized by a single {{cite:103-06-02, frequency}} or
+      a single wavelength
+    type: intensional
+  examples: []
+  notes:
+  - content: In practice, radiation of a very small range of frequencies which can
+      be described by stating a single frequency.
+    type: intensional
+  - content: The wavelength in air or in vacuum is also used to characterize a monochromatic
+      radiation. The medium must be stated.
+    type: intensional
+  - content: The wavelength in standard air is normally used in photometry and radiometry.
+      See also "{{17-1426, wavelength}}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-014
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: monochromatic radiation
+  language_code: eng
+  annotations: []
+termid: 17-788
+id: 78cd68fa-1cd8-5e48-a950-ac6564529612

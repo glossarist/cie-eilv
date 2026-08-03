@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-724
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818124834/http://eilv.cie.co.at/term/724
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-100
+  type: authoritative
+status: valid
+id: 86731eab-b850-5182-aea8-61f68ee33479
+---
+data:
+  definition:
+  - content: radiance in a given direction that results from emission at the surface
+      of a photoluminescent medium under specified conditions of irradiation compared
+      to the radiance in the same direction by the perfect reflecting diffuser identically
+      irradiated
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-100
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminescent radiance factor (at a surface of a photoluminescent medium
+      in a given direction, under specified conditions of illumination)
+  - type: symbol
+    normative_status: preferred
+    designation: βL
+  - type: symbol
+    normative_status: preferred
+    designation: βL
+  language_code: eng
+  annotations: []
+termid: 17-724
+id: bdcffd23-4a71-53fa-979f-fbce09d8e4ff

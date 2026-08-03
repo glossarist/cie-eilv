@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-342
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124917/http://eilv.cie.co.at/term/342
+  type: authoritative
+status: valid
+id: e495f0af-7a38-5e89-831b-800823c195a2
+---
+data:
+  definition:
+  - content: See "{{17-189, collector road}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distributor road
+  language_code: eng
+  annotations: []
+termid: 17-342
+id: 0f5d5c0b-77d5-520b-a098-8436088b169e

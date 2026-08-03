@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-966
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162246/http://eilv.cie.co.at/term/966
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-017
+  type: authoritative
+status: valid
+id: '09986044-cf05-5e44-8bfa-1f86b3f463a6'
+---
+data:
+  definition:
+  - content: radiation whose electromagnetic field, which is transversal, is oriented
+      in defined directions
+    type: intensional
+  examples: []
+  notes:
+  - content: The polarization can be linear, elliptic or circular.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarized radiation
+  language_code: eng
+  annotations: []
+termid: 17-966
+id: 91d211f7-51d1-5eaa-bcb9-fd0d967c526b

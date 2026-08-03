@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-622
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121317/http://eilv.cie.co.at/term/622
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-078
+  type: authoritative
+status: valid
+id: 3e8b0910-4284-5a6e-957c-53be34fcceea
+---
+data:
+  definition:
+  - content: locus of points on a surface where the illuminance has the same value
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-078
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isolux curve
+  - type: symbol
+    normative_status: preferred
+    designation: iso-illuminance line
+  - type: symbol
+    normative_status: preferred
+    designation: iso-illuminance line
+  language_code: eng
+  annotations: []
+termid: 17-622
+id: c3a384b3-2f7d-5757-bc48-0b8e1efba775

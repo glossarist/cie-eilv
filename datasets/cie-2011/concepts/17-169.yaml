@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-169
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002124341/http://eilv.cie.co.at/term/169
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-111
+  type: authoritative
+status: valid
+id: 74d249b7-5f8e-5f3e-8186-1d9649ebdd5c
+---
+data:
+  definition:
+  - content: |-
+      completely overcast sky for which the quotient of its luminance, stem:[Lgamma], in the direction at an angle, stem:[gamma], above the horizon and its luminance, stem:[L_z], at the zenith is given by the relation
+
+      stem:[((L_(gamma)))/((L_z)) = ((1 + 2 sin gamma))/(3)]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-111
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard overcast sky
+  language_code: eng
+  annotations: []
+termid: 17-169
+id: c069e32b-9283-5926-afd7-0bb81095c491

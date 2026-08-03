@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-36
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101356/http://eilv.cie.co.at/term/36
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-061
+  type: authoritative
+status: valid
+id: 0660174e-5a57-5aa6-a0b5-3f42c8415591
+---
+data:
+  definition:
+  - content: surface in tristimulus space that represents the locus of colour stimuli
+      of zero luminance
+    type: intensional
+  examples: []
+  notes:
+  - content: This surface passes through the origin of the space. It intersects any
+      chromaticity diagram in a straight line which is also called the alychne; this
+      line lies wholly outside the domain of chromaticities bounded by the spectrum
+      locus and the purple boundary.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alychne
+  language_code: eng
+  annotations: []
+termid: 17-36
+id: f759d7c0-c41a-5b15-8303-b6b16850cb8c

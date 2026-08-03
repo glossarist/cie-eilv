@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1096
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917172051/http://eilv.cie.co.at/term/1096
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-117
+  type: authoritative
+status: valid
+id: 0f31250f-f14b-537c-878c-c8d22da37824
+---
+data:
+  definition:
+  - content: combined illuminant colour shift and adaptive colour shift
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-117
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resultant colour shift
+  language_code: eng
+  annotations: []
+termid: 17-1096
+id: 8bc36a8c-6d98-5bf4-91c8-cd7f905042be

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-365
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922043211/http://eilv.cie.co.at/term/365
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-025
+  type: authoritative
+status: valid
+id: 2c8a3697-1ae5-54e2-899b-049ab8cd4f71
+---
+data:
+  definition:
+  - content: lighting by electric light sources
+    type: intensional
+  examples: []
+  notes:
+  - content: Formerly "artificial lighting" was used, but "artificial" is deprecated
+      for use in English.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric lighting
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: artificial lighting'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: artificial lighting'
+  language_code: eng
+  annotations: []
+termid: 17-365
+id: e632e029-460b-56d8-9d10-38d23e77d3f9

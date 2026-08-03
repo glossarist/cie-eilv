@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1263
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820003730/http://eilv.cie.co.at/term/1263
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-128
+  type: authoritative
+status: valid
+id: bcb55b0c-0094-5f02-a1fa-8f3803123418
+---
+data:
+  definition:
+  - content: period of time required for an arc discharge lamp to develop an electrically
+      stable arc discharge, the discharge lamp being operated under specified conditions
+      and the time being measured from the moment its circuit is energized
+    type: intensional
+  examples: []
+  notes:
+  - content: There is a time delay in the starting device between the time when power
+      is applied to this device and the time when power is applied to the lamp electrodes.
+      The starting time is measured from the latter moment.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-128
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starting time
+  language_code: eng
+  annotations: []
+termid: 17-1263
+id: d746d79b-5ef2-5667-8f92-310d165e5b05

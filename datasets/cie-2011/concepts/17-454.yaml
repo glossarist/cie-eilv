@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-454
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820013329/http://eilv.cie.co.at/term/454
+  type: authoritative
+status: valid
+id: 5abf60b8-efee-59f6-a73e-190e09c132ba
+---
+data:
+  definition:
+  - content: See "{{17-1028, radiant spherical exposure (at a point, for a given duration)}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluence (at a point, for a given exposure duration)
+  - type: symbol
+    normative_status: preferred
+    designation: stem:[H_(e,o)]; stem:[H_o]
+  language_code: eng
+  annotations: []
+termid: 17-454
+id: b6d3fd4e-88ee-56fd-bb8a-962af27ccb03

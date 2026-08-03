@@ -1,0 +1,93 @@
+---
+data:
+  identifier: 17-927
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015808/http://eilv.cie.co.at/term/927
+  type: authoritative
+- id: 113-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-040
+  type: authoritative
+status: valid
+id: 9b5c8cd2-80ec-54b0-a5a1-e75ebf1f30e1
+---
+data:
+  definition:
+  - content: |-
+      rate of photon number per time interval
+
+      stem:[Phi_p = ((d N_p))/((d t))]
+
+      where stem:[N_p] is photon number, transmitted or received, and stem:[t] is time
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Photon flux, stem:[Phi_p], is related to radiant flux, stem:[Phi_e], of monochromatic radiation by
+
+      stem:[Phi_p = ((Phi_e))/((h nu))]
+
+      where stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave.
+    type: intensional
+  - content: For a beam of radiation whose spectral distribution is stem:[((d Phi_e
+      ( lambda )))/((d lambda))] or stem:[((d Phi_e ( nu )))/((d nu))], the photon
+      flux can be expressed by stem:[Phi_p = int_0^(oo) ((d Phi_e ( lambda )))/((d
+      lambda)) * (lambda)/((h c_0)) d lambda = int_0^(oo) ((d Phi_e ( nu )))/((d nu))
+      * (1)/((h nu)) d nu], where stem:[h] is Planck's constant and stem:[c_0] is
+      the {{cite:113-01-34, speed of light in vacuum}}.
+    type: intensional
+  - content: The corresponding radiometric quantity is "radiant flux". The corresponding
+      photometric quantity is "luminous flux".
+    type: intensional
+  - content: The photon flux is expressed in second to the power minus one (s^−1^).
+    type: intensional
+  - content: This entry was numbered 845-01-26 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-927 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 113-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-040
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon flux
+  - type: symbol
+    normative_status: preferred
+    designation: Φp; Φ
+  - type: symbol
+    normative_status: preferred
+    designation: Φp; Φ
+  language_code: eng
+  annotations: []
+termid: 17-927
+id: 229ecd1a-518a-59fc-84cc-d47b2400457f

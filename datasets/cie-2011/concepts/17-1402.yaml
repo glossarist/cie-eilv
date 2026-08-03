@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-1402
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121837/http://eilv.cie.co.at/term/1402
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-003
+  type: authoritative
+status: valid
+id: 9d997850-5124-5ff5-aa5a-11f9a04e7f5d
+---
+data:
+  definition:
+  - content: optical radiation capable of causing a visual sensation directly
+    type: intensional
+  examples: []
+  notes:
+  - content: There are no precise limits for the spectral range of visible radiation
+      since they depend upon the amount of radiant power reaching the retina and the
+      responsivity of the observer. The lower limit is generally taken between 360
+      nm and 400 nm and the upper limit between 760 nm and 830 nm.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: visible radiation
+  language_code: eng
+  annotations: []
+termid: 17-1402
+id: 26d671ac-e39f-51ee-a77d-87ca400439b4

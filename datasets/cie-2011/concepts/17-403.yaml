@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-403
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144716/http://eilv.cie.co.at/term/403
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-067
+  type: authoritative
+status: valid
+id: 231cf9d3-c660-5116-9de8-5dc1414b42b1
+---
+data:
+  definition:
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally
+      weighted with the erythema spectral weighting function, stem:[s_(er)](stem:[lambda]),
+      normalized to 1 at its maximum
+    type: intensional
+  examples: []
+  notes:
+  - content: This definition implies that an action spectrum is adopted for the actinic
+      effect considered, and that its maximum value is 1. When giving a quantitative
+      amount, it is essential to specify according to which actinic action spectrum
+      the irradiance is meant, as the unit is the same.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal irradiance
+  - type: symbol
+    normative_status: preferred
+    designation: Eer
+  - type: symbol
+    normative_status: preferred
+    designation: Eer
+  language_code: eng
+  annotations: []
+termid: 17-403
+id: 751bf3a4-1e8e-5165-93f4-e28d07fdafd6

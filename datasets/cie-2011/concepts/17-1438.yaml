@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1438
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917130238/http://eilv.cie.co.at/term/1438
+  type: authoritative
+status: valid
+id: 809c35b9-0d3a-5512-bc47-c9d8f86c4fa5
+---
+data:
+  definition:
+  - content: See "{{17-92, black light lamp}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wood's glass lamp
+  language_code: eng
+  annotations: []
+termid: 17-1438
+id: f6af1be4-bdeb-577b-af3a-5a5a131e9403

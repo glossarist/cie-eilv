@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1081
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915162001/http://eilv.cie.co.at/term/1081
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-004
+  type: authoritative
+status: valid
+id: 2fbf7d00-581d-50f5-a688-33b9d7ce10ea
+---
+data:
+  definition:
+  - content: |-
+      quotient of the colour stimulus function, stem:[philambda](stem:[lambda]), and a fixed reference value, stem:[R]
+
+      stem:[phi ( lambda ) = ((phi_(lambda) ( lambda )))/(R)]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative colour stimulus function
+  - type: symbol
+    normative_status: preferred
+    designation: φ(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: φ(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1081
+id: 41e42b72-b56f-5aba-a4c4-7814bb7d15cd

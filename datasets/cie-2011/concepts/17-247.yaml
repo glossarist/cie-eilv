@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-247
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125535/http://eilv.cie.co.at/term/247
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-035
+  type: authoritative
+status: valid
+id: 89e12b52-bda7-50d9-9f22-eb8bde4c2b33
+---
+data:
+  definition:
+  - content: device consisting of electrical contacts, with insulation and mounted
+      on flexible conductors, which provides for connection of the electric lamp to
+      the power supply but does not support the electric lamp
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-035
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: connector (lamp)
+  - type: symbol
+    normative_status: preferred
+    designation: lamp connector
+  - type: symbol
+    normative_status: preferred
+    designation: lamp connector
+  language_code: eng
+  annotations: []
+termid: 17-247
+id: 7c555c0a-8743-53ef-952c-11cf51e07b84

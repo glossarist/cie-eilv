@@ -1,0 +1,69 @@
+---
+data:
+  identifier: 17-264
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134638/http://eilv.cie.co.at/term/264
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-093
+  type: authoritative
+status: valid
+id: 6f0a83ef-df9b-563a-a34a-faed825b4789
+---
+data:
+  definition:
+  - content: for a given set of conditions, the {{cite:103-06-02, frequency}} of alternation
+      of stimuli above which flicker is not perceptible
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-093
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: critical flicker frequency
+  - type: symbol
+    normative_status: preferred
+    designation: fusion frequency
+  - type: symbol
+    normative_status: preferred
+    designation: fusion frequency
+  - type: expression
+    normative_status: admitted
+    designation: fusion frequency
+  language_code: eng
+  annotations: []
+termid: 17-264
+id: 13effc21-5ddf-5b93-8b30-443d87e15dbe

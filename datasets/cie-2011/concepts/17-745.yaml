@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-745
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823043841/http://eilv.cie.co.at/term/745
+  type: authoritative
+status: valid
+id: fa5ed789-ce33-54e3-9df7-51bf9f9ef3d7
+---
+data:
+  definition:
+  - content: See "{{17-746, macrotexture}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: macroroughness
+  language_code: eng
+  annotations: []
+termid: 17-745
+id: 6d740f55-f893-579c-88e6-da0477805c26

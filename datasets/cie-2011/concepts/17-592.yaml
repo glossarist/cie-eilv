@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-592
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002104835/http://eilv.cie.co.at/term/592
+  type: authoritative
+status: valid
+id: ceaea2a3-5fa5-5e1c-8be0-9a4759ca9ad5
+---
+data:
+  definition:
+  - content: grade separated junction between 2 or more major roads with one or more
+      turning link roads which allow access between the major roads
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interchange
+  language_code: eng
+  annotations: []
+termid: 17-592
+id: 6c84576f-f590-5bdf-94ef-eb83da91132c

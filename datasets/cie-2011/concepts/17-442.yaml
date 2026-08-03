@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-442
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124403/http://eilv.cie.co.at/term/442
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-028
+  type: authoritative
+status: valid
+id: f75db4ec-965c-5057-92c6-2474d528faf3
+---
+data:
+  definition:
+  - content: luminaire designed to be carried by one person and which has an integral
+      energy source
+    type: intensional
+  examples: []
+  notes:
+  - content: In French, the term "lampe torche" refers to a torch with a cylindrical
+      container.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-028
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flashlight (US)
+  - type: symbol
+    normative_status: preferred
+    designation: flashlight, US
+  - type: symbol
+    normative_status: preferred
+    designation: flashlight, US
+  language_code: eng
+  annotations: []
+termid: 17-442
+id: f11f87f8-e188-5972-85c2-12e64effcede

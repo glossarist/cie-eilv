@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-234
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818131549/http://eilv.cie.co.at/term/234
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-031
+  type: authoritative
+status: valid
+id: fbc92076-ad29-57ac-a0d5-b130eb129994
+---
+data:
+  definition:
+  - content: action of making a colour stimulus appear the same in colour as a given
+      colour stimulus
+    type: intensional
+  examples: []
+  notes:
+  - content: The French term applies mainly to the adjustment of equality of the fields
+      of a visual colorimeter, whereas the English and German terms apply equally
+      well to the selection of 2 material specimens having the same colour under a
+      given illuminant.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-031
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour-matching
+  language_code: eng
+  annotations: []
+termid: 17-234
+id: 0ec7f9e0-e95b-5949-8b43-030d867faa36

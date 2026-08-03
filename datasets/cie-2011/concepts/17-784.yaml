@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-784
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134711/http://eilv.cie.co.at/term/784
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-056
+  type: authoritative
+status: valid
+id: 5230875c-1377-5a75-8281-6562eb01099c
+---
+data:
+  definition:
+  - content: partly regular and partly diffuse reflection
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-056
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mixed reflection
+  language_code: eng
+  annotations: []
+termid: 17-784
+id: b923cbab-a32b-55cc-a91a-8a59177cd933

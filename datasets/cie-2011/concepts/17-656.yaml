@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-656
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917124848/http://eilv.cie.co.at/term/656
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-101
+  type: authoritative
+status: valid
+id: 34a0f69c-ab00-51a5-81d0-57264668d005
+---
+data:
+  definition:
+  - content: total time for which an electric lamp has been operated before it becomes
+      useless, or is considered to be so according to specified criteria
+    type: intensional
+  examples: []
+  notes:
+  - content: Lamp life is usually expressed in hours.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: life (of a lamp)
+  language_code: eng
+  annotations: []
+termid: 17-656
+id: b99b61f1-c56c-51fb-b1e6-d5c5f88440dd

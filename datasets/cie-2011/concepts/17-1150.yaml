@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1150
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164522/http://eilv.cie.co.at/term/1150
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-030
+  type: authoritative
+status: valid
+id: c7cbe593-ddf5-5519-9459-0ec2a25d7673
+---
+data:
+  definition:
+  - content: signal light designed to indicate designated arcs of the horizon by dissimilar
+      characters
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-030
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sector light
+  language_code: eng
+  annotations: []
+termid: 17-1150
+id: 34d08e5e-6850-53f1-a2b0-895609cfd418

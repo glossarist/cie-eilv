@@ -1,0 +1,60 @@
+---
+data:
+  identifier: 17-1313
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004046/http://eilv.cie.co.at/term/1313
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-024
+  type: authoritative
+status: valid
+id: 89413dcf-b821-558a-ab70-8afcb8ea68ce
+---
+data:
+  definition:
+  - content: smallest illuminance (point brilliance), produced at the eye of an observer
+      by a light source seen in point vision, which renders the source perceptible
+      against a background of given luminance, where the illuminance is considered
+      on a surface element that is normal to the incident rays at the eye
+    type: intensional
+  examples: []
+  notes:
+  - content: For visual signalling, the light source must be rendered recognizable,
+      and hence a higher threshold of illuminance is to be expected.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-024
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: threshold of illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: visual threshold, <in point vision>
+  - type: symbol
+    normative_status: preferred
+    designation: visual threshold, <in point vision>
+  - type: expression
+    normative_status: admitted
+    designation: visual threshold
+  language_code: eng
+  annotations: []
+termid: 17-1313
+id: b3ca8a8d-aa3b-5602-a486-dd1c8c4a4d70

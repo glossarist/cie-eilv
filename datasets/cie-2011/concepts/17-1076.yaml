@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1076
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823053346/http://eilv.cie.co.at/term/1076
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-066
+  type: authoritative
+status: valid
+id: 358ac0e2-c248-513c-b13c-57508838ddf8
+---
+data:
+  definition:
+  - content: quotient of the regularly reflected part of the (whole) reflected flux
+      and the incident flux
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: regular reflectance
+  - type: symbol
+    normative_status: preferred
+    designation: ρr
+  - type: symbol
+    normative_status: preferred
+    designation: ρr
+  language_code: eng
+  annotations: []
+termid: 17-1076
+id: 64e28810-033d-5599-bde8-7992c2b853bf

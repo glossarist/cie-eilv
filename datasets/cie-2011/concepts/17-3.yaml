@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-3
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101352/http://eilv.cie.co.at/term/3
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-022
+  type: authoritative
+status: valid
+id: 8038a2fd-7f4d-58c0-b904-c8b7ea31a091
+---
+data:
+  definition:
+  - content: cathode fall that depends on the discharge current, which is distributed
+      over the whole active surface of the cathode
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-022
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abnormal cathode fall
+  language_code: eng
+  annotations: []
+termid: 17-3
+id: 77f0e3fb-2527-524c-b1aa-5cee50691c9a

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-461
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920144344/http://eilv.cie.co.at/term/461
+  type: authoritative
+status: valid
+id: a61fa5b7-df87-53b1-b62e-508cd5234ba9
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-457, fluorescent lamp}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent tube
+  language_code: eng
+  annotations: []
+termid: 17-461
+id: 679de111-5e43-5b1e-99a3-29729fa8699c

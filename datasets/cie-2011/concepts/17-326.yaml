@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-326
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121022/http://eilv.cie.co.at/term/326
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-031
+  type: authoritative
+status: valid
+id: 3df23dbf-26fc-5dca-ad01-a94f7816e2d7
+---
+data:
+  definition:
+  - content: signal light designed to show a signal of one character over a narrow
+      arc of the horizon, and used to indicate a particular direction
+    type: intensional
+  examples: []
+  notes:
+  - content: It may also indicate an arc of the horizon to each side by dissimilar
+      characters.
+    type: intensional
+  - content: In French, the term "feu de guidage" refers to a direction light in which
+      a very narrow arc of the horizon is used to indicate a particular direction,
+      and an arc of the horizon to each side must be indicated.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-031
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: direction light
+  language_code: eng
+  annotations: []
+termid: 17-326
+id: d93b3cce-008b-57e1-a383-cd009c670996

@@ -1,0 +1,71 @@
+---
+data:
+  identifier: 17-246
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125522/http://eilv.cie.co.at/term/246
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-093
+  type: authoritative
+status: valid
+id: b019fd7b-f4c4-5241-8a97-3062a17816b7
+---
+data:
+  definition:
+  - content: |-
+      quotient of the irradiance or illuminance, stem:[E_2] (or stem:[E_1]), at a point on surface S~2~ (or S~1~) due to the flux received from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+
+      stem:[c_((21)) = ((E_2))/((M_1))]
+
+      or
+
+      stem:[c_((12)) = ((E_1))/((M_2))]
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The relation between the configuration factor, stem:[c], and the (mutual) exchange coefficient, stem:[g], is
+
+      stem:[underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1)) = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2)) = underset((A_1))( int ) c_((12)) d A_1]
+
+      where stem:[Phi_2] (or stem:[Phi_1]) is the flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~)
+    type: intensional
+  - content: The configuration factor has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-72 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-246 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-093
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: configuration factor (between 2 surfaces S~1~ and S~2~)
+  - type: symbol
+    normative_status: preferred
+    designation: c21; c12
+  - type: symbol
+    normative_status: preferred
+    designation: c21; c12
+  language_code: eng
+  annotations: []
+termid: 17-246
+id: 55a51c2d-2eb1-53fd-a1b8-4c2ae727b496

@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-1332
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155504/http://eilv.cie.co.at/term/1332
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-084
+  type: authoritative
+status: valid
+id: 11d183d8-8bcb-5e3c-8e69-015d65bd8a52
+---
+data:
+  definition:
+  - content: part of a road tunnel that follows directly after the threshold zone
+      and ends at the beginning of the interior zone
+    type: intensional
+  examples: []
+  notes:
+  - content: In the transition zone, the lighting level is decreasing from the level
+      at the end of the threshold zone to the level of the interior zone.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-084
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transition zone (of a road tunnel)
+  language_code: eng
+  annotations: []
+termid: 17-1332
+id: 01fa95c6-e434-5254-8725-f059404139db

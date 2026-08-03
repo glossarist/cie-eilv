@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-277
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820113641/http://eilv.cie.co.at/term/277
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-060
+  type: authoritative
+status: valid
+id: 821fc6ac-1f23-5146-b116-6bb37bccbc48
+---
+data:
+  definition:
+  - content: output current of a photoelectric detector in the absence of incident
+      optical radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-060
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dark current
+  language_code: eng
+  annotations: []
+termid: 17-277
+id: 3244fd12-87b0-5b64-a736-1df8a5d69478

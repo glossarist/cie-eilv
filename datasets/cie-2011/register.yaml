@@ -1,0 +1,79 @@
+---
+schema_type: glossarist
+schema_version: '3'
+id: cie-2011
+ref: 'CIE S 017:2011 ILV: International Lighting Vocabulary, 1st edition'
+year: 2011
+urn: urn:cie:ilv:cie-2011
+status: historical
+owner: CIE
+source_repo: https://github.com/glossarist/cie-eilv
+tags:
+- lighting
+- illumination
+- photometry
+- colorimetry
+- cie
+- ilv
+- archive
+languages:
+- eng
+language_order:
+- eng
+ordering: systematic
+description:
+  eng: The International Lighting Vocabulary (ILV), 1st edition (CIE S 017:2011).
+    Archived snapshot of the defunct eilv.cie.co.at site, scraped from web.archive.org.
+sections:
+- id: '21'
+  names:
+    eng: Electromagnetic radiation and optical radiation
+  children: []
+- id: '22'
+  names:
+    eng: Visual perception
+  children: []
+- id: '23'
+  names:
+    eng: Colorimetry
+  children: []
+- id: '24'
+  names:
+    eng: Optical properties of materials and media
+  children: []
+- id: '25'
+  names:
+    eng: Radiometric and photometric measurement
+  children: []
+- id: '26'
+  names:
+    eng: Actinic effects of optical radiation
+  children: []
+- id: '27'
+  names:
+    eng: Optical radiation sources and lighting equipment
+  children: []
+- id: '28'
+  names:
+    eng: Lamp components and ancillaries
+  children: []
+- id: '29'
+  names:
+    eng: Lighting and daylighting
+  children: []
+- id: '30'
+  names:
+    eng: Luminaires and lighting equipment
+  children: []
+- id: '31'
+  names:
+    eng: Visual signalling
+  children: []
+- id: '32'
+  names:
+    eng: Imaging technology
+  children: []
+- id: unknown
+  names:
+    eng: Unmapped (no 2020 sibling)
+  children: []

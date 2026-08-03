@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-414
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134813/http://eilv.cie.co.at/term/414
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-070
+  type: authoritative
+status: valid
+id: 690e296a-d64a-5015-a54e-246766c4b350
+---
+data:
+  definition:
+  - content: distance of exposure from a lamp or lamp system
+    type: intensional
+  examples: []
+  notes:
+  - content: For lamp safety evaluations, this is the nearest distance consistent
+      with the application of the lamp or lamp system. For lamps radiating in all
+      directions the distance is measured from the centre of the filament or arc source.
+      For reflector-type lamps the distance is measured from the outside edge of the
+      lens or the plane defining the end of the reflector in a lens free reflector.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-070
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposure distance
+  language_code: eng
+  annotations: []
+termid: 17-414
+id: beac043e-895d-5a38-bc0a-e65b1bc046b2

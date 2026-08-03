@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-331
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917123414/http://eilv.cie.co.at/term/331
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-018
+  type: authoritative
+status: valid
+id: 5812d1ea-615f-5c53-ac10-5ab105131a63
+---
+data:
+  definition:
+  - content: passage of an electric current through gases and vapours by the production
+      and movements of charge carriers under the influence of an electric field
+    type: intensional
+  examples: []
+  notes:
+  - content: The phenomenon results in the emission of electromagnetic radiation which
+      plays an essential part in all its applications in lighting.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discharge, electric (in a gas)
+  language_code: eng
+  annotations: []
+termid: 17-331
+id: b09041a4-51ad-559c-a1ab-5b82fa95e8d4

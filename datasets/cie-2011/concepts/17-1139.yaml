@@ -1,0 +1,76 @@
+---
+data:
+  identifier: 17-1139
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145624/http://eilv.cie.co.at/term/1139
+  type: authoritative
+- id: 103-06-02
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 103-06-02
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-049
+  type: authoritative
+status: valid
+id: 53119088-4511-5dd8-928e-84f6559af678
+---
+data:
+  definition:
+  - content: process by which the spatial distribution of a beam of radiation is changed
+      when it is deviated in many directions by a surface or by a medium, without
+      change in {{cite:103-06-02, frequency}} of its monochromatic components
+    type: intensional
+  examples: []
+  notes:
+  - content: A distinction is made between selective scattering and non-selective
+      scattering according to whether or not the scattering properties vary with the
+      wavelength of the incident radiation.
+    type: intensional
+  - content: See NOTE 2 to "{{17-1065, reflection}}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 103-06-02
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 103-06-02
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scattering
+  - type: symbol
+    normative_status: preferred
+    designation: diffusion
+  - type: symbol
+    normative_status: preferred
+    designation: diffusion
+  - type: expression
+    normative_status: admitted
+    designation: diffusion
+  language_code: eng
+  annotations: []
+termid: 17-1139
+id: 522521e9-5dc4-5095-85f2-e1c5b4238357

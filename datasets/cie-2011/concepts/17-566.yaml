@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-566
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426121845/http://eilv.cie.co.at/term/566
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-053
+  type: authoritative
+status: valid
+id: 4fdd4fbd-b97d-58a2-a715-01b5bb842775
+---
+data:
+  definition:
+  - content: image state associated with image data that represents the colour space
+      coordinates of the elements of a hardcopy or softcopy, encompassing both original-referred
+      image data and output-referred image data
+    type: intensional
+  examples: []
+  notes:
+  - content: When the phrase "picture-referred" is used as a qualifier to an object,
+      it implies that the object is in a picture-referred image state. For example,
+      picture-referred image data are image data in a picture-referred image state.
+    type: intensional
+  - content: Picture-referred image data will generally be colour rendered for a specific
+      real or virtual imaging medium and viewing condition.
+    type: intensional
+  - content: Picture-referred image data can include image data that do not originate
+      from an original scene, such as text, line art, vector graphics and other forms
+      of original artwork.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image state, picture-referred
+  language_code: eng
+  annotations: []
+termid: 17-566
+id: d9912822-334f-579d-bd62-4cc09b1f2261

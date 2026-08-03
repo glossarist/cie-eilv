@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-852
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916122343/http://eilv.cie.co.at/term/852
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-059
+  type: authoritative
+status: valid
+id: 5e748c8e-13d6-57ad-a604-260b42fcef62
+---
+data:
+  definition:
+  - content: relationship between the log of the input levels and the corresponding
+      digital output levels for an opto-electronic digital image capture system
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      If the input log exposure points are very finely spaced and the output noise is small compared to the quantization interval, the OECF may have a step-like character. Such behaviour is an artefact of the quantization process and should be removed by using an appropriate smoothing algorithm or by fitting a smooth curve to the data.
+      Abbreviation: "OECF"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-059
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opto-electronic conversion function
+  - type: symbol
+    normative_status: preferred
+    designation: OECF
+  - type: symbol
+    normative_status: preferred
+    designation: OECF
+  language_code: eng
+  annotations: []
+termid: 17-852
+id: 7e5d71f0-1386-5a35-b597-b6581f3cbb15

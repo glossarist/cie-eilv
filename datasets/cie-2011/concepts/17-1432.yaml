@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1432
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120806/http://eilv.cie.co.at/term/1432
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-069
+  type: authoritative
+status: valid
+id: 464fa9c4-d9cf-5bdc-92cc-fadaa11ea327
+---
+data:
+  definition:
+  - content: colour stimulus to which colour space values are normalized
+    type: intensional
+  examples: []
+  notes:
+  - content: The colour space white point may or may not correspond to the adapted
+      white point and/or the reference medium white point for a colour image encoding.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-069
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white point, colour space
+  language_code: eng
+  annotations: []
+termid: 17-1432
+id: 11d539e3-3909-59ea-8afc-b438b803b84d

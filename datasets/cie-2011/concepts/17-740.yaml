@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-740
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823043731/http://eilv.cie.co.at/term/740
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-026
+  type: authoritative
+status: valid
+id: 2a47e568-ec46-5272-b235-01f8c3f5d8a9
+---
+data:
+  definition:
+  - content: greatest distance at which a given signal light can be recognized in
+      any particular circumstances, as limited only by the atmospheric transmissivity
+      and by the threshold of illuminance at the eye of the observer
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-026
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous range
+  language_code: eng
+  annotations: []
+termid: 17-740
+id: b4d4f066-04b8-5505-802c-7519f3abc7c7

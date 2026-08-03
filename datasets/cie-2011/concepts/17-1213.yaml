@@ -1,0 +1,63 @@
+---
+data:
+  identifier: 17-1213
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145629/http://eilv.cie.co.at/term/1213
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-029
+  type: authoritative
+status: valid
+id: ecc2a597-dbd3-57d7-9046-a11e3285ed05
+---
+data:
+  definition:
+  - content: |-
+      density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
+
+      stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]
+    type: intensional
+  examples: []
+  notes:
+  - content: The term “spectral distribution” is to be preferred to the equivalent
+      term “spectral concentration” when dealing with the function stem:[X_(stem:[lambda])](stem:[lambda])
+      over a range of wavelengths, not at a particular wavelength.
+    type: intensional
+  - content: See NOTES to “{{17-1206, spectral}}”.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-029
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral distribution
+  - type: symbol
+    normative_status: preferred
+    designation: spectral concentration
+  - type: symbol
+    normative_status: preferred
+    designation: spectral concentration
+  - type: expression
+    normative_status: admitted
+    designation: spectral concentration
+  language_code: eng
+  annotations: []
+termid: 17-1213
+id: ef76cd44-377b-5b4a-bf66-c2d5bc75df22

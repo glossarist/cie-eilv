@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-734
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125201/http://eilv.cie.co.at/term/734
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-004
+  type: authoritative
+status: valid
+id: 5f612ebc-eeb7-5224-a4ea-1bfe50771694
+---
+data:
+  definition:
+  - content: sum total of physical conditions of light in a scene that has the potential
+      to influence human vision
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-004
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous environment
+  language_code: eng
+  annotations: []
+termid: 17-734
+id: fa2c61af-9de7-5230-9c1d-78cd61773d9c

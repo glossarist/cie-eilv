@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-523
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172951/http://eilv.cie.co.at/term/523
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-067
+  type: authoritative
+status: valid
+id: ba36a29e-d612-5b4c-853f-380175999ea7
+---
+data:
+  definition:
+  - content: headlight designed to illuminate without causing undue glare to people
+      in front of the vehicle carrying it, particularly to the drivers of approaching
+      vehicles
+    type: intensional
+  examples: []
+  notes:
+  - content: The headlights as defined in "{{17-527, headlight, main-beam}}" and "headlight,
+      dipped-beam" can be provided by a single lighting device.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headlight, dipped-beam
+  - type: symbol
+    normative_status: preferred
+    designation: low-beam headlight
+  - type: symbol
+    normative_status: preferred
+    designation: low-beam headlight
+  language_code: eng
+  annotations: []
+termid: 17-523
+id: aa03497d-d68a-592f-a07d-c76f6129a05e

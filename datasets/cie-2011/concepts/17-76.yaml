@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-76
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101808/http://eilv.cie.co.at/term/76
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-015
+  type: authoritative
+status: valid
+id: 5c1dc06f-9589-52f8-8cfc-3e38598b2e82
+---
+data:
+  definition:
+  - content: part of an electric lamp which provides connection to the power supply
+      by means of a lampholder or lamp connector and, in most cases, also serves to
+      retain the electric lamp in the lampholder
+    type: intensional
+  examples: []
+  notes:
+  - content: See NOTES to non-US term "{{17-119, cap}}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base (US)
+  - type: symbol
+    normative_status: preferred
+    designation: base
+  - type: symbol
+    normative_status: preferred
+    designation: base
+  language_code: eng
+  annotations: []
+termid: 17-76
+id: edb29bac-c5a1-54cd-97cf-eb59678b7327

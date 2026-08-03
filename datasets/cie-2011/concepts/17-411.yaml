@@ -1,0 +1,49 @@
+---
+data:
+  identifier: 17-411
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820113520/http://eilv.cie.co.at/term/411
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-087
+  type: authoritative
+status: valid
+id: 9a94c48c-7eb9-5e96-8d95-1f0aad0e6ec6
+---
+data:
+  definition:
+  - content: part of a road tunnel where, during daytime, the vision of a driver approaching
+      the exit is predominantly influenced by the brightness outside the road tunnel
+    type: intensional
+  examples: []
+  notes:
+  - content: The exit zone begins at the end of the interior zone. It ends at the
+      exit portal of the tunnel.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-087
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exit zone (of a road tunnel)
+  language_code: eng
+  annotations: []
+termid: 17-411
+id: b0eb8c21-88e2-5316-b242-e56f9ec90299

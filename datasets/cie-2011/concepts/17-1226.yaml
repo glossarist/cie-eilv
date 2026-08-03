@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1226
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820004541/http://eilv.cie.co.at/term/1226
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-087
+  type: authoritative
+status: valid
+id: a2970327-1c59-5dc7-8f42-f7d19f5792f4
+---
+data:
+  definition:
+  - content: |-
+      integral of the spectral linear attenuation coefficient, stem:[mu](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
+
+      stem:[delta ( lambda ) = int_((x_1))^((x_2)) mu ( x , lambda ) d x]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-087
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral optical thickness (of a medium, for a given length)
+  - type: symbol
+    normative_status: preferred
+    designation: spectral optical depth, <of a medium>
+  - type: symbol
+    normative_status: preferred
+    designation: spectral optical depth, <of a medium>
+  language_code: eng
+  annotations: []
+termid: 17-1226
+id: 16a2efef-3d60-5f0b-af75-6de158edf39b

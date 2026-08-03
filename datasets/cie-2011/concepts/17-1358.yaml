@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1358
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917164801/http://eilv.cie.co.at/term/1358
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-028
+  type: authoritative
+status: valid
+id: f77ab19f-d0d6-5057-941f-89cba4da31fb
+---
+data:
+  definition:
+  - content: hollow sphere, the interior of which is formed from, or coated with,
+      a diffusely-reflecting material that is as spectrally neutral and as spatially
+      uniform as possible
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-028
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ulbricht sphere
+  - type: symbol
+    normative_status: preferred
+    designation: Ulbricht sphere
+  - type: symbol
+    normative_status: preferred
+    designation: Ulbricht sphere
+  language_code: eng
+  annotations: []
+termid: 17-1358
+id: d2846399-abe6-5728-9f81-397d3b9136b5

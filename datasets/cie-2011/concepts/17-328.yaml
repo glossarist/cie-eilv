@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-328
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917122121/http://eilv.cie.co.at/term/328
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-008
+  type: authoritative
+status: valid
+id: 2a566f4b-6ecd-5218-93a0-44e73650164a
+---
+data:
+  definition:
+  - content: quotient of the radiance of a thermal radiator in a given direction and
+      the radiance of a Planckian radiator at the same temperature
+    type: intensional
+  examples: []
+  notes:
+  - content: The symbols stem:[theta], stem:[phi] are chosen here as an example of
+      the angular coordinates defining the given direction.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: directional emissivity (of a thermal radiator, in a given direction)
+  - type: symbol
+    normative_status: preferred
+    designation: ε; ε(θ, φ)
+  - type: symbol
+    normative_status: preferred
+    designation: ε; ε(θ, φ)
+  language_code: eng
+  annotations: []
+termid: 17-328
+id: eb377bdb-536f-5fa9-bdec-693793843b22

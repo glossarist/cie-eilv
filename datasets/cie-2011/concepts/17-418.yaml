@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 17-418
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160344/http://eilv.cie.co.at/term/418
+  type: authoritative
+status: valid
+id: 69e38784-229b-5a67-a643-96d1991ef374
+---
+data:
+  definition:
+  - content: |-
+      road similar to, but lacking some feature of, a motorway, e.g.:
+
+      - not dual carriageway (PIARC)
+
+      - not fully access controlled (US)
+
+      - not all intersections grade separated (US)
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: express road
+  language_code: eng
+  annotations: []
+termid: 17-418
+id: 2a983c2d-211e-5473-aa3e-a75647ea2b17

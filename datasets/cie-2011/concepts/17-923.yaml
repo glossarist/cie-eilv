@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-923
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915164929/http://eilv.cie.co.at/term/923
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-082
+  type: authoritative
+status: valid
+id: 326f986e-1068-5683-a72d-5a69505a74fe
+---
+data:
+  definition:
+  - content: |-
+      density of exiting photon flux with respect to area at a point on a real or imaginary surface
+
+      stem:[M_p = ((d Phi_p))/((d A))]
+
+      where stem:[Phi_p] is photon flux and stem:[A] is the area from which the photon flux leaves
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-082
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon exitance (at a point of a surface)
+  - type: symbol
+    normative_status: preferred
+    designation: Mp; M
+  - type: symbol
+    normative_status: preferred
+    designation: Mp; M
+  language_code: eng
+  annotations: []
+termid: 17-923
+id: 50410bfd-e425-58df-a104-4ce4d34c08b3

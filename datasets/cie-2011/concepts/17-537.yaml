@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-537
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172734/http://eilv.cie.co.at/term/537
+  type: authoritative
+status: valid
+id: 315d0b35-a493-5492-88ef-6d40a46b6351
+---
+data:
+  definition:
+  - content: See NOTE 1 to "{{17-639, lampholder}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: holder
+  language_code: eng
+  annotations: []
+termid: 17-537
+id: b769be31-8514-5f86-a7e4-59231b3a92b2

@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-352
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051520/http://eilv.cie.co.at/term/352
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-053
+  type: authoritative
+status: valid
+id: 84700c24-4393-5b25-85c8-13484667d86c
+---
+data:
+  definition:
+  - content: quotient of the downward flux of a luminaire, measured under specified
+      practical conditions with its own lamps and equipment, and the sum of the individual
+      luminous fluxes of the same lamps when operated outside the luminaire with the
+      same equipment, under specified conditions
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: downward light output ratio (of a luminaire)
+  - type: symbol
+    normative_status: preferred
+    designation: DLOR
+  - type: symbol
+    normative_status: preferred
+    designation: DLOR
+  language_code: eng
+  annotations: []
+termid: 17-352
+id: a3a68217-8e29-5324-9a9d-81989e8e16d3

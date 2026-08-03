@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-636
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125604/http://eilv.cie.co.at/term/636
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-147
+  type: authoritative
+status: valid
+id: e2d37b61-332d-5175-b4fc-77442c974953
+---
+data:
+  definition:
+  - content: quotient of the luminous flux of a lamp at a given time in its operational
+      life and the initial luminous flux
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Initial luminous flux of lamps is usually declared at 1 h for incandescent and 100 h for discharge lamps.
+      Abbreviation: "LLMF"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-147
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lamp luminous flux maintenance factor
+  - type: symbol
+    normative_status: preferred
+    designation: LLMF
+  - type: symbol
+    normative_status: preferred
+    designation: LLMF
+  language_code: eng
+  annotations: []
+termid: 17-636
+id: 3a998b45-501a-57a5-841d-1a5c4ee5e04b

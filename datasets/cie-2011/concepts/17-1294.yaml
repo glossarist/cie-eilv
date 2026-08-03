@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1294
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915155649/http://eilv.cie.co.at/term/1294
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-003
+  type: authoritative
+status: valid
+id: 7f88a951-9a4c-5c4b-bf8d-5bc9bd0df976
+---
+data:
+  definition:
+  - content: luminaire with a symmetrical luminous intensity distribution
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-003
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symmetrical luminaire
+  language_code: eng
+  annotations: []
+termid: 17-1294
+id: 0476e3c1-4ab8-5b9a-ac84-3c5324c50f92

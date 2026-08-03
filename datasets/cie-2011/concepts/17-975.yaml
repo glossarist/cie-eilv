@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-975
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823051254/http://eilv.cie.co.at/term/975
+  type: authoritative
+status: valid
+id: 9ccc54d5-8ccb-5c73-a616-7929e7a0da2a
+---
+data:
+  definition:
+  - content: See NOTE to "{{17-643, lateral light}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: preferred-channel light
+  language_code: eng
+  annotations: []
+termid: 17-975
+id: 1c82827c-211d-5497-a0b0-e5b6008cc822

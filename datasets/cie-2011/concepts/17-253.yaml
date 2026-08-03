@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-253
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916125218/http://eilv.cie.co.at/term/253
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-081
+  type: authoritative
+status: valid
+id: d80a8c3b-acea-51d5-aef4-870310be99ce
+---
+data:
+  definition:
+  - content: quotient of the contrast of a task under the lighting system considered
+      and the contrast of the same task under reference lighting
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-081
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrast rendering factor (of a lighting system, for a task)
+  language_code: eng
+  annotations: []
+termid: 17-253
+id: 40613dd3-8cc6-5ce1-b4b2-26fba5b539c1

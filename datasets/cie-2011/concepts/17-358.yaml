@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 17-358
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917130546/http://eilv.cie.co.at/term/358
+  type: authoritative
+status: valid
+id: fc16f5bc-3f76-5914-8c11-1217c9d9fa9f
+---
+data:
+  definition:
+  - content: building in which people normally reside, especially during the hours
+      of darkness, e.g. house, hotel, motel, hospital
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dwelling
+  language_code: eng
+  annotations: []
+termid: 17-358
+id: 5d880a01-d156-5a05-a036-36816e2ac9e9

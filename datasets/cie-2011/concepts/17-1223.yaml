@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-1223
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161218/http://eilv.cie.co.at/term/1223
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-086
+  type: authoritative
+status: valid
+id: 659c5479-8dda-5b71-a3d2-8c7a1fff648c
+---
+data:
+  definition:
+  - content: |-
+      quotient of the spectral linear attenuation coefficient, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
+
+      stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_(())))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-086
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral mass attenuation coefficient
+  - type: symbol
+    normative_status: preferred
+    designation: μm(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: μm(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1223
+id: 5868cb53-97cb-529f-abc9-c9aa525cc797

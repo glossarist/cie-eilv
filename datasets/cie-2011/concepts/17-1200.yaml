@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1200
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915163657/http://eilv.cie.co.at/term/1200
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-096
+  type: authoritative
+status: valid
+id: 69a36077-ec46-52ef-ab1e-1ddab0421ca2
+---
+data:
+  definition:
+  - content: electromagnetic radiation from the Sun
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-096
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: solar radiation
+  language_code: eng
+  annotations: []
+termid: 17-1200
+id: 7d732df9-e7f7-5f92-a5a3-0a375d4ea01e

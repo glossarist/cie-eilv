@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-1305
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915160421/http://eilv.cie.co.at/term/1305
+  type: authoritative
+status: valid
+id: 4ef8eafe-1bb3-5bd9-a9a1-448df7767dd5
+---
+data:
+  definition:
+  - content: See "{{17-1303, thermal detector of radiation}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: thermal (radiation) detector
+  language_code: eng
+  annotations: []
+termid: 17-1305
+id: 7a2c6b64-558b-5bc5-90eb-c2493cc29c74

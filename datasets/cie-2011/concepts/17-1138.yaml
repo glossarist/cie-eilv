@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1138
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161849/http://eilv.cie.co.at/term/1138
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-057
+  type: authoritative
+status: valid
+id: 70435ee8-d25b-5f16-b805-2806dc88cb93
+---
+data:
+  definition:
+  - content: integrated radiance either on any surface from its half space or in any
+      point from the whole space
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-057
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scalar irradiance
+  language_code: eng
+  annotations: []
+termid: 17-1138
+id: 2459b74e-7505-51ef-b89f-86b4ad3f2055

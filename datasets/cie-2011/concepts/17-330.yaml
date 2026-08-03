@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-330
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202103146/http://eilv.cie.co.at/term/330
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-103
+  type: authoritative
+status: valid
+id: ca5140bb-0dcb-594c-9661-69cfd39fa4a2
+---
+data:
+  definition:
+  - content: glare that impairs the vision of objects without necessarily causing
+      discomfort
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-103
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disability glare
+  language_code: eng
+  annotations: []
+termid: 17-330
+id: 558c355a-a2d9-5349-8a75-efec2e1e4c30

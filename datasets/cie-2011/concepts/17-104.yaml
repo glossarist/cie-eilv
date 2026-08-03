@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-104
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426231948/http://eilv.cie.co.at/term/104
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-063
+  type: authoritative
+status: valid
+id: b3647bf8-3ca0-5484-a846-f16f772fa55a
+---
+data:
+  definition:
+  - content: post used to indicate an obstruction or to regulate traffic
+    type: intensional
+  examples: []
+  notes:
+  - content: A bollard may be internally illuminated and may incorporate a regulatory
+      traffic sign.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-063
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bollard
+  language_code: eng
+  annotations: []
+termid: 17-104
+id: c516362c-fc36-56e5-84ae-46f01055568b

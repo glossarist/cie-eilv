@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-576
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426113335/http://eilv.cie.co.at/term/576
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-070
+  type: authoritative
+status: valid
+id: a7428a1a-50ad-5d76-a36d-0c6280e62c45
+---
+data:
+  definition:
+  - content: mine luminaire connected to an electric network by means of the open
+      magnetic circuit of a transformer that is an integral part of the luminaire
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-070
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: induction luminaire
+  language_code: eng
+  annotations: []
+termid: 17-576
+id: 818d92f3-015b-5c9c-9470-d6d2d9cb26c5

@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-890
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916120439/http://eilv.cie.co.at/term/890
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-012
+  type: authoritative
+status: valid
+id: 359ba259-c577-5cde-a2cf-0b28bc491e47
+---
+data:
+  definition:
+  - content: carcinogenesis resulting from a reaction with a photoactivated drug or
+      chemical
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-012
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photochemical carcinogenesis
+  language_code: eng
+  annotations: []
+termid: 17-890
+id: a91008a9-e8de-566b-8a2a-06aa6df6a7e4

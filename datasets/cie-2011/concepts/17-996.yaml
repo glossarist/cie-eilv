@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-996
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922160334/http://eilv.cie.co.at/term/996
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-044
+  type: authoritative
+status: valid
+id: 0cce783e-459e-56cf-a1fb-7377d2b5b4a8
+---
+data:
+  definition:
+  - content: transparent or translucent part of an open or closed luminaire designed
+      to protect the electric light source(s) or other luminous element(s) from dust
+      or dirt, or to prevent their contact with liquids, vapours or gases and to render
+      them inaccessible
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-044
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: protective glass
+  language_code: eng
+  annotations: []
+termid: 17-996
+id: 9324e2b7-9927-5f44-ba52-db5a0bc52ec7

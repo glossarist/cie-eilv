@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1270
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922170456/http://eilv.cie.co.at/term/1270
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-074
+  type: authoritative
+status: valid
+id: 4f53e52e-4738-536c-9f48-3ae00cb95e0e
+---
+data:
+  definition:
+  - content: signal light carried on a vehicle to indicate rearwards that a brake
+      is being applied to the vehicle
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stop light
+  - type: symbol
+    normative_status: preferred
+    designation: brake light
+  - type: symbol
+    normative_status: preferred
+    designation: brake light
+  - type: expression
+    normative_status: admitted
+    designation: brake light
+  language_code: eng
+  annotations: []
+termid: 17-1270
+id: d4edba3d-fc66-5163-87a4-c61adb4de039

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-345
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145755/http://eilv.cie.co.at/term/345
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-062
+  type: authoritative
+status: valid
+id: 821bb200-57a8-58cd-b488-775542da8287
+---
+data:
+  definition:
+  - content: wavelength of the monochromatic stimulus that, when additively mixed
+      in suitable proportions with the specified achromatic stimulus, matches the
+      colour stimulus considered in the CIE 1931 stem:[x], stem:[y] chromaticity diagram
+    type: intensional
+  examples: []
+  notes:
+  - content: In the case of purple stimuli, the dominant wavelength is replaced by
+      the complementary wavelength.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-062
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dominant wavelength (of a colour stimulus)
+  - type: symbol
+    normative_status: preferred
+    designation: λd
+  - type: symbol
+    normative_status: preferred
+    designation: λd
+  language_code: eng
+  annotations: []
+termid: 17-345
+id: ae305ebd-32bc-5c38-a0db-5f4924eb879a

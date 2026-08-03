@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-306
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917132358/http://eilv.cie.co.at/term/306
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-100
+  type: authoritative
+status: valid
+id: 61295b4b-4473-583c-a99c-de2eaff02a2d
+---
+data:
+  definition:
+  - content: part of solar radiation that reaches the Earth as a result of being scattered
+      by air molecules, aerosol particles, cloud particles or other particles
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-100
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse sky radiation
+  language_code: eng
+  annotations: []
+termid: 17-306
+id: 3a32c07c-7b8d-5f89-8aa2-13865afe2508

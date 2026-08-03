@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1228
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161104/http://eilv.cie.co.at/term/1228
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-052
+  type: authoritative
+status: valid
+id: f6f9290a-007d-5cd0-8421-13d03fd0a3f8
+---
+data:
+  definition:
+  - content: |-
+      density of radiance, stem:[L_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+
+      stem:[L_((e , lambda)) = ((d L_e ( lambda )))/((d lambda))]
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-052
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral radiance (for a wavelength interval dl, in a given direction
+      at a given point)
+  - type: symbol
+    normative_status: preferred
+    designation: Le,λ, Lλ
+  - type: symbol
+    normative_status: preferred
+    designation: Le,λ, Lλ
+  language_code: eng
+  annotations: []
+termid: 17-1228
+id: e32daead-10dd-5834-80ad-a5c644765703

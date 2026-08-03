@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-212
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042332/http://eilv.cie.co.at/term/212
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-008
+  type: authoritative
+status: valid
+id: 5cdb842c-e013-5208-9d75-cd949224def3
+---
+data:
+  definition:
+  - content: outer surface of a colour gamut
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour gamut boundary
+  language_code: eng
+  annotations: []
+termid: 17-212
+id: 99fe471b-d1e0-5ac4-8c80-7fb30e9d1a73

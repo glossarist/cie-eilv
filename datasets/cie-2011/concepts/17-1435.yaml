@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-1435
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916122621/http://eilv.cie.co.at/term/1435
+  type: authoritative
+- id: 113-01-34
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-01-34
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-006
+  type: authoritative
+status: valid
+id: e9e3544a-d0c2-535d-ab13-d11e14f4332e
+---
+data:
+  definition:
+  - content: |-
+      approximate form of {{17-958, Planck's law}}, valid with an approximation better than one part in 1 000 when the product stem:[lambdaT] is smaller than 0,002 m·K
+
+      stem:[L_((e , lambda)) ( lambda , T ) = ((c_1))/(pi) lambda^(- 5) e^(((c_2))/((lambda T)))]
+
+      where stem:[L_(e,lambda)] is spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the {{cite:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 113-01-34
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-01-34
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-01-34
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-006
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wien's law (of radiation)
+  language_code: eng
+  annotations: []
+termid: 17-1435
+id: d45c5e81-d1b3-500c-97f9-a0507488f8dc

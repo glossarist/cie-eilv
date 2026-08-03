@@ -1,0 +1,64 @@
+---
+data:
+  identifier: 17-1094
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818134136/http://eilv.cie.co.at/term/1094
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-061
+  type: authoritative
+status: valid
+id: ed3a66aa-c7bd-5dae-988e-8f9fde469f6a
+---
+data:
+  definition:
+  - content: |-
+      quotient of the detector output, stem:[Y], and the detector input, stem:[X]
+
+      stem:[s = (Y)/(X)]
+    type: intensional
+  examples: []
+  notes:
+  - content: If the detector signal is stem:[Y_0] in the absence of input, and is
+      stem:[Y_t] when there is an input stem:[X], the responsivity is stem:[s = ((Y_t
+      - Y_0))/(X)].
+    type: intensional
+  - content: The term "sensitivity" is no longer used.
+    type: intensional
+  - content: This entry was numbered 845-05-54 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1094 and 17-1163 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-061
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: responsivity (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: sensitivity'
+  - type: symbol
+    normative_status: preferred
+    designation: 'DEPRECATED: sensitivity'
+  language_code: eng
+  annotations: []
+termid: 17-1094
+id: 031acb14-f848-5390-bbcc-f6214bf0005f

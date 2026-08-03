@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-639
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125642/http://eilv.cie.co.at/term/639
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-025
+  type: authoritative
+status: valid
+id: 5c53c3e9-151c-5a26-aa47-30ac8735844d
+---
+data:
+  definition:
+  - content: device that holds the electric lamp in position, usually by having the
+      cap inserted in it, in which case it also provides the means of connecting the
+      electric lamp to the power supply
+    type: intensional
+  examples: []
+  notes:
+  - content: The term "socket" or, when the context is clear, the abbreviation "holder"
+      are commonly used instead of "lampholder".
+    type: intensional
+  - content: See NOTE 2 to "{{17-119, cap}}" and to "{{17-76, base (US)}}".
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-025
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lampholder
+  - type: symbol
+    normative_status: preferred
+    designation: holder, <of an electric lamp>
+  - type: symbol
+    normative_status: preferred
+    designation: holder, <of an electric lamp>
+  language_code: eng
+  annotations: []
+termid: 17-639
+id: 234749ba-3d97-594a-9b6d-7dfda227c6e6

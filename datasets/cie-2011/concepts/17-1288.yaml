@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 17-1288
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010324/http://eilv.cie.co.at/term/1288
+  type: authoritative
+status: valid
+id: c2c585a8-ec87-50c1-866c-f269473548f1
+---
+data:
+  definition:
+  - content: |-
+      luminaire provided with a cord, chain, tube, etc., which permits it to be suspended from a ceiling or a wall support
+
+      Equivalent term used outside US: "pendant luminaire"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suspended luminaire (US)
+  language_code: eng
+  annotations: []
+termid: 17-1288
+id: 563d2de9-f222-5b27-9b8f-789c46871abf

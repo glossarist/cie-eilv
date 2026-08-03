@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-631
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121907/http://eilv.cie.co.at/term/631
+  type: authoritative
+status: valid
+id: de4bf1ea-b8bb-500c-90d8-c7a6abbd43d0
+---
+data:
+  definition:
+  - content: See NOTE 2 to "{{17-118, candela per square metre}}"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lambert
+  language_code: eng
+  annotations: []
+termid: 17-631
+id: c9792841-d540-50df-ab94-1915828e9651

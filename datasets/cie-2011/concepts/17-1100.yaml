@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-1100
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012116/http://eilv.cie.co.at/term/1100
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-049
+  type: authoritative
+status: valid
+id: 2f6b1f81-8abc-56b0-82fd-8d5ef1631186
+---
+data:
+  definition:
+  - content: function representing the normalized spectral sensitivity of the human
+      eye due to retinal thermal hazards
+    type: intensional
+  examples: []
+  notes:
+  - content: Specified in ICNIRP-recommendations for stem:[lambda] = 380 nm to stem:[lambda
+      =]1400 nm.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-049
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: retinal thermal hazard spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: R(λ); r(λ)
+  - type: symbol
+    normative_status: preferred
+    designation: R(λ); r(λ)
+  language_code: eng
+  annotations: []
+termid: 17-1100
+id: c25f8d89-dd79-519f-87b3-9bd3f838803f

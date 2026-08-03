@@ -1,0 +1,53 @@
+---
+data:
+  identifier: 17-1170
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820012332/http://eilv.cie.co.at/term/1170
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-018
+  type: authoritative
+status: valid
+id: af2b0ef9-72e2-5f04-8a52-55d5e8860fff
+---
+data:
+  definition:
+  - content: cap having a smooth cylindrical shell
+    type: intensional
+  examples: []
+  notes:
+  - content: The international designation is S.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-018
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: shell base (US)
+  - type: symbol
+    normative_status: preferred
+    designation: shell base
+  - type: symbol
+    normative_status: preferred
+    designation: shell base
+  language_code: eng
+  annotations: []
+termid: 17-1170
+id: 0733dcb7-0a1c-5bdb-8400-7a4699d89d7f

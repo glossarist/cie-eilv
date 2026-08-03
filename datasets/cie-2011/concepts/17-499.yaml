@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-499
+  domains:
+  - concept_id: section-30
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916121603/http://eilv.cie.co.at/term/499
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-30-041
+  type: authoritative
+status: valid
+id: 10544fd7-1da5-5d6a-9f26-7492e24195d0
+---
+data:
+  definition:
+  - content: envelope of transparent or diffusing material, intended to protect the
+      electric lamp, to diffuse the light, or to change the colour of the light
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-30-041
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: globe
+  language_code: eng
+  annotations: []
+termid: 17-499
+id: 2bd27357-cd50-5071-bd28-2e8b1f8d49f6

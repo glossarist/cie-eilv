@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-681
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823042058/http://eilv.cie.co.at/term/681
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-034
+  type: authoritative
+status: valid
+id: ec9c0412-7545-50eb-bc02-5383d251362e
+---
+data:
+  definition:
+  - content: vessel designed to carry a signal light of high luminous intensity, and
+      moored or anchored at a designated geographical location to assist maritime
+      navigation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-034
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lightship
+  - type: symbol
+    normative_status: preferred
+    designation: lightship
+  - type: symbol
+    normative_status: preferred
+    designation: lightship
+  - type: expression
+    normative_status: admitted
+    designation: light vessel
+  language_code: eng
+  annotations: []
+termid: 17-681
+id: 7d1e651d-4530-5eaf-8c0c-03e14cb708f3

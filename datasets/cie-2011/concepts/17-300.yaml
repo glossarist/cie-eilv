@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-300
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922172624/http://eilv.cie.co.at/term/300
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-027
+  type: authoritative
+status: valid
+id: 8ad2e717-d59a-52eb-8af8-d56ac80477dc
+---
+data:
+  definition:
+  - content: "{{17-287, defective colour vision}} in which all colours can be matched
+      using additive mixtures of only two matching stimuli"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dichromatism
+  language_code: eng
+  annotations: []
+termid: 17-300
+id: '02728f4d-9797-51cc-9159-595aefd58578'

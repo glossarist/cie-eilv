@@ -1,0 +1,55 @@
+---
+data:
+  identifier: 17-527
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172832/http://eilv.cie.co.at/term/527
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-066
+  type: authoritative
+status: valid
+id: bfe053ef-98c5-52de-817b-bf931e332059
+---
+data:
+  definition:
+  - content: headlight designed to illuminate for a considerable distance ahead of
+      the vehicle carrying it
+    type: intensional
+  examples: []
+  notes:
+  - content: The headlights as defined in "headlight, main-beam" and "{{17-523, headlight,
+      dipped-beam}}" can be provided by a single lighting device.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-066
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: headlight, main-beam
+  - type: symbol
+    normative_status: preferred
+    designation: high-beam headlight
+  - type: symbol
+    normative_status: preferred
+    designation: high-beam headlight
+  language_code: eng
+  annotations: []
+termid: 17-527
+id: df6353ec-787b-52bd-a1ed-c2564cad99c0

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-999
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917161410/http://eilv.cie.co.at/term/999
+  type: authoritative
+status: valid
+id: af2a79eb-3acd-51a2-92ba-fb76649af639
+---
+data:
+  definition:
+  - content: specification of a colour stimulus in terms of operationally defined
+      values, such as the tristimulus values
+    type: intensional
+  examples: []
+  notes:
+  - content: When the meaning is clear from the context the term "colour" can be used
+      alone.
+    type: intensional
+  - content: |-
+      In German, "Farbe" is often used instead of "Farbempfindung". The use of "Farbe" in the sense of "Farbvalenz" should be avoided. It is only when the sense is obvious from the context, or when "Farbempfindung" and "Farbvalenz" are equally suitable, that "Farbe" may be used in the sense of "Farbvalenz".
+      See also "{{17-197, colour}}"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: psychophysical colour
+  language_code: eng
+  annotations: []
+termid: 17-999
+id: a1e337e2-9634-5b06-89fe-5c770ad1c8a9

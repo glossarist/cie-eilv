@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-741
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818130329/http://eilv.cie.co.at/term/741
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-098
+  type: authoritative
+status: valid
+id: 45a652ad-30c2-5cf4-8362-60b097877829
+---
+data:
+  definition:
+  - content: illuminance produced by the extraterrestrial solar radiation on a surface
+      perpendicular to the Sun's rays at the mean Sun-Earth distance
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-098
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous solar constant
+  - type: symbol
+    normative_status: preferred
+    designation: Evo
+  - type: symbol
+    normative_status: preferred
+    designation: Evo
+  language_code: eng
+  annotations: []
+termid: 17-741
+id: a7521791-3e67-5338-90e5-2e70990bec4e

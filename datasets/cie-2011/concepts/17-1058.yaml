@@ -1,0 +1,58 @@
+---
+data:
+  identifier: 17-1058
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145609/http://eilv.cie.co.at/term/1058
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-064
+  type: authoritative
+status: valid
+id: f908e51e-f360-50ea-80e0-7bfcdd24f47f
+---
+data:
+  definition:
+  - content: |-
+      quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
+
+      stem:[rho = ((Phi_r))/((Phi_m))]
+    type: intensional
+  examples: []
+  notes:
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r],
+      and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r]+ stem:[rho_d].'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-064
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance (for incident radiation of given spectral composition,
+      polarization and geometrical distribution)
+  - type: symbol
+    normative_status: preferred
+    designation: ρ
+  - type: symbol
+    normative_status: preferred
+    designation: ρ
+  language_code: eng
+  annotations: []
+termid: 17-1058
+id: 042f9b32-1a9e-5be1-a8c0-ead5eb937433

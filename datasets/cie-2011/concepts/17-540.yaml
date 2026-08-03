@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-540
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426172905/http://eilv.cie.co.at/term/540
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-039
+  type: authoritative
+status: valid
+id: 249487fe-7ea5-5e70-b1c4-f5cd0a2fb22b
+---
+data:
+  definition:
+  - content: discharge lamp in which the light is produced by the positive column
+      of an arc discharge
+    type: intensional
+  examples: []
+  notes:
+  - content: Such a lamp generally requires a special starting device or circuit.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-039
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hot cathode lamp
+  language_code: eng
+  annotations: []
+termid: 17-540
+id: 0ffb3ee8-6846-59d6-9167-21544a4c7b89

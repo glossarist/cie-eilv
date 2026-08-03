@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-219
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135220/http://eilv.cie.co.at/term/219
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-017
+  type: authoritative
+status: valid
+id: 13697b07-7b8d-5ba5-8716-5c738c2b5884
+---
+data:
+  definition:
+  - content: arrangement of samples according to a set of principles for the ordering
+      and denotation of their colour, usually according to defined scales
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      A colour order system is usually exemplified by a set of physical samples, sometimes known as a colour atlas. This facilitates the communication of colour but is not a prerequisite for defining a colour order system.
+      See also "{{17-201, colour atlas}}"
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-017
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour order system
+  language_code: eng
+  annotations: []
+termid: 17-219
+id: 4cc096f8-f94f-5d20-a382-77a288f821c6

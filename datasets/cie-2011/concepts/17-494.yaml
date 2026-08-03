@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-494
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135936/http://eilv.cie.co.at/term/494
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-106
+  type: authoritative
+status: valid
+id: f2dd91a3-13f7-5e48-8b10-cedac7af9e03
+---
+data:
+  definition:
+  - content: maximum allowed value given by the CIE Glare Rating system
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-106
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: glare rating limit
+  - type: symbol
+    normative_status: preferred
+    designation: GRL
+  - type: symbol
+    normative_status: preferred
+    designation: GRL
+  language_code: eng
+  annotations: []
+termid: 17-494
+id: 2ba68e9a-e49e-514d-8088-f56034ba77a3

@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1232
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20170630144957/http://eilv.cie.co.at/term/1232
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-027
+  type: authoritative
+status: valid
+id: da4a0386-15be-52a2-adc5-57bcf565ad76
+---
+data:
+  definition:
+  - content: function representing the relative spectral effectiveness of optical
+      radiation, for a specified biological effect, in a specified system
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-027
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: spectral weighting function
+  - type: symbol
+    normative_status: preferred
+    designation: spectral weighting function
+  language_code: eng
+  annotations: []
+termid: 17-1232
+id: 0671c9df-7d97-58e9-a49e-46d3e9b82a28

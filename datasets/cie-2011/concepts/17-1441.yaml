@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1441
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121653/http://eilv.cie.co.at/term/1441
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-174
+  type: authoritative
+status: valid
+id: 31d6992b-9f69-58a1-8b09-b1b76ebde206
+---
+data:
+  definition:
+  - content: combination and spatial arrangement of work equipment, surrounded by
+      the work environment under the conditions imposed by the work tasks
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-174
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: work station
+  language_code: eng
+  annotations: []
+termid: 17-1441
+id: 4a95d6ba-edd1-5ac6-ad74-78326ee8b095

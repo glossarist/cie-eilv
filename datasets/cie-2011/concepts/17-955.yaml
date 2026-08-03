@@ -1,0 +1,54 @@
+---
+data:
+  identifier: 17-955
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010045/http://eilv.cie.co.at/term/955
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-019
+  type: authoritative
+status: valid
+id: c166947e-1400-5356-b549-3f223f31e472
+---
+data:
+  definition:
+  - content: cap which has at least one pin for electrical connection
+    type: intensional
+  examples: []
+  notes:
+  - content: The international designation is F for a single pin, G for 2 or more
+      pins.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pin cap
+  - type: symbol
+    normative_status: preferred
+    designation: pin base
+  - type: symbol
+    normative_status: preferred
+    designation: pin base
+  language_code: eng
+  annotations: []
+termid: 17-955
+id: 399793c1-1a95-5fdd-be7b-e7c81c5d7773

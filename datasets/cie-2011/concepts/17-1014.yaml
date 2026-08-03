@@ -1,0 +1,66 @@
+---
+data:
+  identifier: 17-1014
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818133930/http://eilv.cie.co.at/term/1014
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-067
+  type: authoritative
+status: valid
+id: e41bfbc7-9fcf-5359-a968-c3672e5f9578
+---
+data:
+  definition:
+  - content: |-
+      time integral of radiance, stem:[L_e], over a given duration, stem:[Delta t]
+
+      stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]
+    type: intensional
+  examples: []
+  notes:
+  - content: The corresponding photometric quantity is "luminance dose". The corresponding
+      quantity for photons is "photon radiance dose".
+    type: intensional
+  - content: The radiance dose is expressed in joule per square metre per steradian
+      (J·m^−2^·sr^−1^).
+    type: intensional
+  - content: This entry was numbered 17-1014 and 17-1319 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-067
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance dose (in a given direction, at a given point of a real or
+      imaginary surface)
+  - type: symbol
+    normative_status: preferred
+    designation: integrated radiance
+  - type: symbol
+    normative_status: preferred
+    designation: integrated radiance
+  - type: expression
+    normative_status: admitted
+    designation: "(time) integrated radiance"
+  language_code: eng
+  annotations: []
+termid: 17-1014
+id: bc453b7b-c34c-56ad-b2a5-b1c14e945a66

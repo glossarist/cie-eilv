@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-673
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818135307/http://eilv.cie.co.at/term/673
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-029
+  type: authoritative
+status: valid
+id: 280964a4-285a-53ef-9852-2166877da7ed
+---
+data:
+  definition:
+  - content: tower, or substantial building or structure, erected at a designated
+      geographical location to carry a signal light and to assist maritime navigation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-029
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighthouse
+  language_code: eng
+  annotations: []
+termid: 17-673
+id: 5be4e37e-c470-5185-91ba-c7a98b31a90d

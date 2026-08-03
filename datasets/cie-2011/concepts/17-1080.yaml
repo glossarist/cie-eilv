@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1080
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191228145619/http://eilv.cie.co.at/term/1080
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-047
+  type: authoritative
+status: valid
+id: 2c110263-b30d-5c60-92f1-8260179850a4
+---
+data:
+  definition:
+  - content: colour perceived to belong to an area seen in relation to other colours
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-047
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: related colour
+  language_code: eng
+  annotations: []
+termid: 17-1080
+id: 9079b98b-3ff4-56be-a85c-fd5f72fff243

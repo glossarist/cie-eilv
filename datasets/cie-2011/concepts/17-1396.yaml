@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-1396
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190915161211/http://eilv.cie.co.at/term/1396
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-101
+  type: authoritative
+status: valid
+id: 16fcf5b2-fcb1-5361-bd35-0095c560fee0
+---
+data:
+  definition:
+  - content: specular reflection that appears on the object viewed and that partially
+      or wholly obscures the details by reducing contrast
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-101
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: veiling reflections
+  language_code: eng
+  annotations: []
+termid: 17-1396
+id: 1cea27b1-1dee-5989-9822-c16d73e542f1

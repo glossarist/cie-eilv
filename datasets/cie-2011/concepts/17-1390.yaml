@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1390
+  domains:
+  - concept_id: section-27
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820015916/http://eilv.cie.co.at/term/1390
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-27-015
+  type: authoritative
+status: valid
+id: d98a7e27-6153-52ea-8221-67b2407719fc
+---
+data:
+  definition:
+  - content: incandescent lamp in which the luminous element operates in an evacuated
+      bulb
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-27-015
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vacuum (incandescent) lamp
+  - type: symbol
+    normative_status: preferred
+    designation: vacuum incandescent lamp
+  - type: symbol
+    normative_status: preferred
+    designation: vacuum incandescent lamp
+  language_code: eng
+  annotations: []
+termid: 17-1390
+id: d5e45d7d-e39d-581d-b0a4-5bb751858e02

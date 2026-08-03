@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-165
+  domains:
+  - concept_id: section-23
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20171002150648/http://eilv.cie.co.at/term/165
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-23-048
+  type: authoritative
+status: valid
+id: 86ee8890-9a91-5a62-81af-9aa4f394154f
+---
+data:
+  definition:
+  - content: standard colorimetric observer defined by the {{17-163, CIE colour-matching
+      functions}}
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-23-048
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE standard colorimetric observer
+  language_code: eng
+  annotations: []
+termid: 17-165
+id: '08ee2486-1b98-5406-a264-b8d5e873f640'

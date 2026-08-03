@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-1338
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818132343/http://eilv.cie.co.at/term/1338
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-074
+  type: authoritative
+status: valid
+id: 1fbe9cd9-ca46-538d-b03c-0dc20742eebc
+---
+data:
+  definition:
+  - content: quotient of the flux transmitted by a specimen in a given optical system
+      and the flux transmitted when the specimen is removed from the sampling aperture
+    type: intensional
+  examples: []
+  notes:
+  - content: This is the case when e.g. radiation penetrating a slide situated in
+      a projector and reaching a screen is compared to the radiation when the slide
+      is removed from the projector and only an empty slide mount is in the projector.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-074
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmittance factor (of a specimen in an optical system)
+  - type: symbol
+    normative_status: preferred
+    designation: T
+  - type: symbol
+    normative_status: preferred
+    designation: T
+  language_code: eng
+  annotations: []
+termid: 17-1338
+id: 2c769a98-b9f6-534d-b88a-4e7fe1894e96

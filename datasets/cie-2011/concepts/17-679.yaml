@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-679
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823053132/http://eilv.cie.co.at/term/679
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-002
+  type: authoritative
+status: valid
+id: 6920c10f-0b01-554a-83de-040da80b389b
+---
+data:
+  definition:
+  - content: equipment for lighting or its control
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-002
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lighting technology
+  language_code: eng
+  annotations: []
+termid: 17-679
+id: f6145fea-b2d8-5378-9040-ae59d472c0fe

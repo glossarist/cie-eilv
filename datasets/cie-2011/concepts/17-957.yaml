@@ -1,0 +1,67 @@
+---
+data:
+  identifier: 17-957
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917163139/http://eilv.cie.co.at/term/957
+  type: authoritative
+- id: 113-05-07
+  origin:
+    ref:
+      source: IEC 60050 (IEV)
+      id: 113-05-07
+    link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-05-07
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-108
+  type: authoritative
+status: valid
+id: c3d79bc3-8043-523b-8308-d60a6e25ebba
+---
+data:
+  definition:
+  - content: See {{cite:113-05-07, IEV 113-05-07}}
+    type: intensional
+  examples: []
+  notes:
+  - content: For the value of the Planck constant see CODATA.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - id: 113-05-07
+    origin:
+      ref:
+        source: IEC 60050 (IEV)
+        id: 113-05-07
+      link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=113-05-07
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-108
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planck constant
+  - type: symbol
+    normative_status: preferred
+    designation: h
+  - type: symbol
+    normative_status: preferred
+    designation: h
+  language_code: eng
+  annotations: []
+termid: 17-957
+id: bff7b1c2-00e4-5232-90a9-41b10fdf6c2d

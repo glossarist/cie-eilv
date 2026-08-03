@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-1328
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164136/http://eilv.cie.co.at/term/1328
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-062
+  type: authoritative
+status: valid
+id: dbd1fd33-c2b9-5382-99d8-55e62fda64c5
+---
+data:
+  definition:
+  - content: signal light used for regulating traffic
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-062
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: traffic light
+  - type: symbol
+    normative_status: preferred
+    designation: traffic light
+  - type: symbol
+    normative_status: preferred
+    designation: traffic light
+  language_code: eng
+  annotations: []
+termid: 17-1328
+id: 0c423d6a-122a-5198-bb42-ea6f79140210

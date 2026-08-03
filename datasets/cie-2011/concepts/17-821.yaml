@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-821
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130521/http://eilv.cie.co.at/term/821
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-115
+  type: authoritative
+status: valid
+id: 4e955029-2246-511f-8a5b-0d82a2175273
+---
+data:
+  definition:
+  - content: "{{17-434, filter}} that does not alter the relative spectral distribution
+      of the radiation"
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-115
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: non-selective filter
+  - type: symbol
+    normative_status: preferred
+    designation: neutral filter
+  - type: symbol
+    normative_status: preferred
+    designation: neutral filter
+  language_code: eng
+  annotations: []
+termid: 17-821
+id: c044adcd-8b6b-516d-9d8e-4231df0d9d18

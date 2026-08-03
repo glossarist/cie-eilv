@@ -1,0 +1,46 @@
+---
+data:
+  identifier: 17-307
+  domains:
+  - concept_id: section-24
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190916130429/http://eilv.cie.co.at/term/307
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-24-055
+  type: authoritative
+status: valid
+id: 2107c586-acd8-5c11-8b29-05fd9c865600
+---
+data:
+  definition:
+  - content: scattering by transmission in which, on the macroscopic scale, there
+      is no regular transmission
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-24-055
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffuse transmission
+  language_code: eng
+  annotations: []
+termid: 17-307
+id: 4b70fff5-440d-5847-a91a-d57ede2a6ec2

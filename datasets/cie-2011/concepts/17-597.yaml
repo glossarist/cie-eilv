@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-597
+  domains:
+  - concept_id: section-25
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20150426162055/http://eilv.cie.co.at/term/597
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-25-076
+  type: authoritative
+status: valid
+id: 912331e0-6824-56cd-b3d9-dbc193cc9b43
+---
+data:
+  definition:
+  - content: quotient of the number of elementary events (such as release of an electron)
+      contributing to the output and the number of absorbed photons
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-25-076
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internal quantum efficiency (of a detector)
+  - type: symbol
+    normative_status: preferred
+    designation: ηi
+  - type: symbol
+    normative_status: preferred
+    designation: ηi
+  language_code: eng
+  annotations: []
+termid: 17-597
+id: b8414119-3cb3-537c-ac1f-00f300747e5f

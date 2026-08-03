@@ -1,0 +1,47 @@
+---
+data:
+  identifier: 17-53
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191102101638/http://eilv.cie.co.at/term/53
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-053
+  type: authoritative
+status: valid
+id: c68c05a7-0865-50ae-a35d-085ff5f020aa
+---
+data:
+  definition:
+  - content: system of aeronautical ground lights that is sited in front of the threshold
+      of an aerodrome runway and designed to provide guidance to aircraft making an
+      approach to land on the runway
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-053
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: approach lighting system
+  language_code: eng
+  annotations: []
+termid: 17-53
+id: bb92b990-6654-53fb-a954-c60894b3522b

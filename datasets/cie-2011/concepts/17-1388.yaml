@@ -1,0 +1,52 @@
+---
+data:
+  identifier: 17-1388
+  domains:
+  - concept_id: section-21
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922164315/http://eilv.cie.co.at/term/1388
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-21-008
+  type: authoritative
+status: valid
+id: 99d88575-7024-50e4-9974-9c2177d152c6
+---
+data:
+  definition:
+  - content: optical radiation for which the wavelengths are shorter than those for
+      visible radiation
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-21-008
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UVR (abbreviation)
+  - type: symbol
+    normative_status: preferred
+    designation: UV radiation
+  - type: symbol
+    normative_status: preferred
+    designation: UV radiation
+  language_code: eng
+  annotations: []
+termid: 17-1388
+id: d1265f0e-961d-535a-9706-07de43442819

@@ -1,0 +1,56 @@
+---
+data:
+  identifier: 17-825
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920134651/http://eilv.cie.co.at/term/825
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-129
+  type: authoritative
+status: valid
+id: 568cc4da-b492-58fa-bf10-074b9eb8d8f7
+---
+data:
+  definition:
+  - content: illuminance produced by direct sunlight on a surface on the Earth that
+      is perpendicular to the direction of illumination by the Sun
+    type: intensional
+  examples: []
+  notes:
+  - content: This is not the same as direct solar illuminance, which is measured on
+      a horizontal surface on the Earth, not necessarily perpendicular to the direction
+      of illumination by the Sun.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-129
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normal solar illuminance
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,n; En
+  - type: symbol
+    normative_status: preferred
+    designation: Ev,n; En
+  language_code: eng
+  annotations: []
+termid: 17-825
+id: 42e8b482-01ee-55cc-8e6f-b1eb43624a77

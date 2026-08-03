@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 17-667
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917170310/http://eilv.cie.co.at/term/667
+  type: authoritative
+status: valid
+id: 64e56a41-e976-54ad-91b8-62cd9a0035e9
+---
+data:
+  definition:
+  - content: 'No longer in use: see "{{17-753, maintenance factor (of a lighting installation)}}"'
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: light loss factor
+  language_code: eng
+  annotations: []
+termid: 17-667
+id: 34ef97fc-41dc-5f3d-81b0-1efcd280669d

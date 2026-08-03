@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-1095
+  domains:
+  - concept_id: section-22
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917171330/http://eilv.cie.co.at/term/1095
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-22-114
+  type: authoritative
+status: valid
+id: 027a8b17-0af1-5531-9d68-c7aa0968e49c
+---
+data:
+  definition:
+  - content: combined illuminant colorimetric shift and adaptive colorimetric shift
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-22-114
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resultant colorimetric shift
+  language_code: eng
+  annotations: []
+termid: 17-1095
+id: 5ad2f2d2-0f0f-5678-96fb-f44ba3d110ed

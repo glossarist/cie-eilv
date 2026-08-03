@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-943
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190818125406/http://eilv.cie.co.at/term/943
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-079
+  type: authoritative
+status: valid
+id: dfef3787-006a-5f04-b658-bc0248548c6c
+---
+data:
+  definition:
+  - content: total photon exposure in the 400 nm to 700 nm waveband
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-079
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photosynthetically active radiation
+  - type: symbol
+    normative_status: preferred
+    designation: PAR
+  - type: symbol
+    normative_status: preferred
+    designation: PAR
+  language_code: eng
+  annotations: []
+termid: 17-943
+id: 5786e931-174e-58ea-bec9-adb553512a11

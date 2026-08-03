@@ -1,0 +1,51 @@
+---
+data:
+  identifier: 17-228
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190920135934/http://eilv.cie.co.at/term/228
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-019
+  type: authoritative
+status: valid
+id: b3d5e73a-9d2b-5a3e-9a93-7266748ed026
+---
+data:
+  definition:
+  - content: colour space defined by the characteristics of a real or idealized imaging
+      device
+    type: intensional
+  examples: []
+  notes:
+  - content: Device-dependent colour spaces having a simple functional relationship
+      to CIE colorimetry can also be categorized as colorimetric colour spaces. For
+      example, additive RGB colour spaces corresponding to real or idealized CRT displays
+      can be treated as colorimetric colour spaces.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-019
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour space, device-dependent
+  language_code: eng
+  annotations: []
+termid: 17-228
+id: 668a9b97-fba2-5702-8281-80c64397fc29

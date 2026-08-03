@@ -1,0 +1,50 @@
+---
+data:
+  identifier: 17-419
+  domains:
+  - concept_id: section-32
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917121245/http://eilv.cie.co.at/term/419
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-32-042
+  type: authoritative
+status: valid
+id: c3421e94-4e87-52a9-a3b1-746e832d2920
+---
+data:
+  definition:
+  - content: colour gamut extending outside that of the standard sRGB cathode ray
+      tube (CRT) display gamut
+    type: intensional
+  examples: []
+  notes:
+  - content: 'As defined by IEC 61966-2-1 stem:[Multimedia systems and equipment -
+      Colour measurement and management - Part 2-1: Colour management - Default RGB
+      colour space - sRGB].'
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-32-042
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extended gamut
+  language_code: eng
+  annotations: []
+termid: 17-419
+id: 32dcf9f4-3284-5fd6-b88e-a06296bd2ff8

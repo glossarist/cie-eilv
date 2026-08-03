@@ -1,0 +1,48 @@
+---
+data:
+  identifier: 17-1258
+  domains:
+  - concept_id: section-28
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190820010229/http://eilv.cie.co.at/term/1258
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-28-042
+  type: authoritative
+status: valid
+id: a2652a5d-11ac-5513-b8d5-c12d63f8e0f8
+---
+data:
+  definition:
+  - content: device, usually for fluorescent lamps, which is used for the purpose
+      of starting the discharge lamp by providing the necessary preheating of the
+      cathode and, in combination with the series inductance of the ballast, causes
+      a voltage surge applied to the discharge lamp
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-28-042
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: starter
+  language_code: eng
+  annotations: []
+termid: 17-1258
+id: 7bfb1914-cd02-5db2-9996-a1c63065e2eb

@@ -1,0 +1,43 @@
+---
+data:
+  identifier: 17-474
+  domains:
+  - concept_id: section-unknown
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190823041915/http://eilv.cie.co.at/term/474
+  type: authoritative
+status: valid
+id: eeee38b5-e2fa-5d07-acf9-cfec0f000595
+---
+data:
+  definition:
+  - content: |-
+      ratio of the sum of the solid angles subtended by clouds to the solid angle 2π sr of the whole sky
+
+      Unit: 1
+
+      Equivalent term used outside US: "total cloud amount"
+    type: intensional
+  examples: []
+  notes:
+  - content: Observation of fractional cloud cover is usually recorded in oktas or
+      tenths.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fractional cloud cover (US)
+  language_code: eng
+  annotations: []
+termid: 17-474
+id: 539d9ae8-4c86-5c0f-8bce-9dd67dde2709

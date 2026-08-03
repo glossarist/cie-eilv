@@ -1,0 +1,45 @@
+---
+data:
+  identifier: 17-346
+  domains:
+  - concept_id: section-26
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190917125013/http://eilv.cie.co.at/term/346
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-26-033
+  type: authoritative
+status: valid
+id: ab61f406-624d-5630-8014-2455d94cad7c
+---
+data:
+  definition:
+  - content: radiant exposure, when used in photochemistry, phototherapy and photobiology
+    type: intensional
+  examples: []
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-26-033
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose (of optical radiation of specified spectral distribution)
+  language_code: eng
+  annotations: []
+termid: 17-346
+id: 45ad3b14-5dc7-5451-993e-8465be008119

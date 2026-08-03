@@ -1,0 +1,57 @@
+---
+data:
+  identifier: 17-360
+  domains:
+  - concept_id: section-31
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20190922043105/http://eilv.cie.co.at/term/360
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-31-016
+  type: authoritative
+status: valid
+id: 6dc5fd95-4a51-57db-974a-9ec74b1dcf8c
+---
+data:
+  definition:
+  - content: luminous intensity of a source that has a constant output, of the same
+      relative spectral distribution as the flashing light, which would have the same
+      luminous range (or visual range in aviation terminology) as the flashing light
+      under identical conditions of observation
+    type: intensional
+  examples: []
+  notes:
+  - content: For practical purposes, a conventional effective intensity may be evaluated
+      for a flashing light from photometric data by an agreed method.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-31-016
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effective intensity (of a flashing light)
+  - type: symbol
+    normative_status: preferred
+    designation: Ieff
+  - type: symbol
+    normative_status: preferred
+    designation: Ieff
+  language_code: eng
+  annotations: []
+termid: 17-360
+id: a59d0008-bb55-55bc-8137-f87faaafedd3

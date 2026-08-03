@@ -1,0 +1,72 @@
+---
+data:
+  identifier: 17-1121
+  domains:
+  - concept_id: section-29
+    source: urn:cie:ilv:cie-2011
+    ref_type: section
+sources:
+- origin:
+    ref:
+      source: CIE S 017:2011
+    link: https://web.archive.org/web/20191202064553/http://eilv.cie.co.at/term/1121
+  type: authoritative
+- origin:
+    ref:
+      source: CIE S 017:2020
+      id: 17-29-071
+  type: authoritative
+status: valid
+id: cb000878-8d60-5478-bd5b-2b1a9489933c
+---
+data:
+  definition:
+  - content: quotient of the sum of the areas of the working plane and the plane of
+      the luminaires and the sum of the area of the walls bounded by the working plane
+      and the plane of the luminaires, used in the calculation of the utilization
+      factor or utilance
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      The room index is expressed by the formula
+
+      stem:[K = ((a b))/((h ( a + b )))]
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.
+    type: intensional
+  - content: See also "ceiling cavity index" and "floor cavity index".
+    type: intensional
+  - content: The room index has unit one.
+    type: intensional
+  - content: This entry was numbered 845-09-55 in IEC 60050-845:1987.
+    type: intensional
+  - content: This entry was numbered 17-1121 and 17-587 in CIE S 017:2011.
+    type: intensional
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  - origin:
+      ref:
+        source: CIE S 017:2020
+        id: 17-29-071
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: room index
+  - type: symbol
+    normative_status: preferred
+    designation: installation index
+  - type: symbol
+    normative_status: preferred
+    designation: installation index
+  - type: expression
+    normative_status: admitted
+    designation: installation index
+  language_code: eng
+  annotations: []
+termid: 17-1121
+id: 92c93f6f-8f64-576c-905f-521c8d8ba511
