@@ -5,6 +5,11 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1196
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: non-permanent image produced on a device capable of directly representing
       different analogue or digital images in succession
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1196 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-046
-id: 6f8cb2a2-f9ae-576a-9d6f-a920362b2e16
+id: 2ce946b8-fbaf-563a-acd2-3c181b017c75

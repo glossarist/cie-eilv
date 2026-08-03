@@ -5,6 +5,11 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-68
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: region that extends from the centre of the stimulus subtending approximately
       ten degrees
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-68 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-026
-id: 21b86fab-ded1-5392-9814-79ab1b7a7fb2
+id: ccdf8b31-fd9e-5676-b85c-03695dc15743

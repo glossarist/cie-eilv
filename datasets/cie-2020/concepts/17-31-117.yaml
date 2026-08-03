@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1331
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: 154db564-8b27-5613-8461-c35fc55d9df4
 data:
   definition:
   - content: display which operates with an arrangement of internal illumination
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1331 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-117
-id: ee707d05-8897-5086-9d4b-d25e148f0aa5
+id: 24e3f390-3030-5516-a067-31e481051829

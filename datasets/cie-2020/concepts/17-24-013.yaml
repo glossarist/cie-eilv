@@ -5,6 +5,11 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-383
 sources:
 - origin:
     ref:
@@ -17,9 +22,13 @@ id: 47abda6e-a368-54fb-9832-3fb8ac183611
 data:
   definition:
   - content: radiation-emitting component
+    type: intensional
+  examples: []
   notes:
   - content: A number of emitters can be combined to form a single element.
+    type: intensional
   - content: This entry was numbered 17-383 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-013
-id: 5b7221ec-29ba-5756-bee8-5895ad5d181a
+id: e48bbdd6-a6a9-54b8-a343-cc25d64b2182

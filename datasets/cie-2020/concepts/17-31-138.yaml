@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-693
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: e41cb255-dc15-52e6-9c98-1ecafbc4361a
 data:
   definition:
   - content: direction parallel to the axis of the road
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-693 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-138
-id: 10d90c40-2dcd-548e-9fda-1d1026c8ed40
+id: 711c7c6e-7122-58a7-a15d-951974ab819a

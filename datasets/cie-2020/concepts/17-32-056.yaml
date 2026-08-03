@@ -5,6 +5,11 @@ data:
   - concept_id: section-32
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-682
 sources:
 - origin:
     ref:
@@ -19,8 +24,11 @@ data:
   - content: separation between lines of characters expressed in terms of the number
       of inactive elements or the distance between centres of adjacent character elements
       of consecutive character lines
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-682 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -38,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-32-056
-id: 65a38c34-c5df-5ca6-8c51-dc481fb99057
+id: 7cb32d50-8802-51c0-9fb3-8711a564d087

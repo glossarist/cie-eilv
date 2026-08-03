@@ -5,6 +5,11 @@ data:
   - concept_id: section-24
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1103
 sources:
 - origin:
     ref:
@@ -18,9 +23,13 @@ data:
   definition:
   - content: quotient of reflected flux and incident flux, within the narrow confines
       of incident and reflected conditions
+    type: intensional
+  examples: []
   notes:
   - content: The retroreflectance has unit one.
+    type: intensional
   - content: This entry was numbered 17-1103 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -38,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-24-105
-id: 6dd6ee2d-88d9-5f69-ab85-1d280c64fe63
+id: 51f01aa2-360e-5fb5-be3a-83f13618c9a6

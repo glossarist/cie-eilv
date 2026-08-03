@@ -5,6 +5,11 @@ data:
   - concept_id: section-23
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-199
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: specification of a visual stimulus in terms of its spectral characteristics
       combined with its illuminating and viewing environment
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-199 (2.) in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -38,4 +46,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-23-026
-id: ce9d07b8-978a-51a5-a03c-9722defaf8d9
+id: b9d56627-6358-568d-bf51-0f77bb18fb76

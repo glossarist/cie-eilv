@@ -5,6 +5,11 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-191
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: f692b0ce-ab41-52f6-b1a2-e6937db9a3fe
 data:
   definition:
   - content: dye, pigment, or other agent used to impart colour to a material
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-191 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-076
-id: 9eb42a57-8e08-5b49-b648-05ab071544f9
+id: ad19ade4-1bca-5783-bac2-ef9bbf2a9ff1

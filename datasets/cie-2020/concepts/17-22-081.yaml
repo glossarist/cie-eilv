@@ -5,6 +5,11 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-430
 sources:
 - origin:
     ref:
@@ -17,12 +22,17 @@ id: e35bab72-0d93-572a-a38f-bbca1942dfa3
 data:
   definition:
   - content: extent of space in which objects are visible to an eye in a given position
+    type: intensional
+  examples: []
   notes:
   - content: In the horizontal plane meridian the field of vision extends to nearly
       190° with both eyes open, the area seen binocularly is about 120°, and the area
       seen by one eye only is about 154°.
+    type: intensional
   - content: The extent of the field of vision tends to diminish with age.
+    type: intensional
   - content: This entry was numbered 17-430 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -40,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-081
-id: fcd8526a-bbf8-5452-abf2-b45bf39bf64b
+id: 9ae21d57-4447-5982-96ed-22e411a2a5be

@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-773
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: greatest distance at which a black object of suitable dimensions can
       be recognized by day against the horizon sky
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-773 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-147
-id: 0fdfa3bb-a269-5cd9-8646-faca9f5d9541
+id: 0d138c63-71a5-5687-b5e3-1dff1aa7bf6a

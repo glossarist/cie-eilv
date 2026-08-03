@@ -5,6 +5,11 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-177
 sources:
 - origin:
     ref:
@@ -19,11 +24,15 @@ data:
   - content: radiation in which the electric field vector is of constant amplitude
       and rotates about the direction of propagation at a rate equal to the radiation
       frequency
+    type: intensional
+  examples: []
   notes:
   - content: Circularly polarized radiation is described as right-handed (or left-handed)
       if the rotation of the electric field vector is clockwise (or anticlockwise)
       as viewed by an observer receiving the radiation.
+    type: intensional
   - content: This entry was numbered 17-177 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -41,4 +50,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-018
-id: 6dca1c9b-815f-540d-a3d5-3498c0415236
+id: 30d3fe12-7ae9-5a64-b782-243056844f6d

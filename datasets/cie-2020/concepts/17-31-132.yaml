@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1292
 sources:
 - origin:
     ref:
@@ -17,8 +22,11 @@ id: e9517caa-a715-521d-8c1e-19b4e3a36b0f
 data:
   definition:
   - content: visually perceptible figure, intended to convey a particular meaning
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1292 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -36,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-132
-id: 8030d0fc-b289-5df7-8d53-05b68e7eae6d
+id: 8656c14f-de73-5619-8c1d-a42039c55e76

@@ -5,6 +5,11 @@ data:
   - concept_id: section-22
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-77
 sources:
 - origin:
     ref:
@@ -19,8 +24,11 @@ data:
   - content: 'eleven colour names found in anthropological surveys to be in wide use
       in fully developed languages: white, black, red, green, yellow, blue, brown,
       grey, orange, purple, pink'
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-77 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -47,4 +55,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-057
-id: ad2ff47b-2837-597e-b4e5-15cbb95d4301
+id: 3ae612e9-fb81-5e9e-a60d-8f5cdb7297c5

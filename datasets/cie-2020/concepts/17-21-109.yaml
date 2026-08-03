@@ -5,6 +5,11 @@ data:
   - concept_id: section-21
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1201
 sources:
 - origin:
     ref:
@@ -18,9 +23,13 @@ data:
   definition:
   - content: area intercepted on a unit sphere, centred at the point, by a cone having
       the given area as its base and the point as its vertex
+    type: intensional
+  examples: []
   notes:
   - content: The solid angle is expressed in steradian (sr).
+    type: intensional
   - content: This entry was numbered 17-1201 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -42,4 +51,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-21-109
-id: d95d9f50-bada-5e6b-8944-086ec0c7371d
+id: 1e44efe8-5a63-5e44-970c-061110d4e46f

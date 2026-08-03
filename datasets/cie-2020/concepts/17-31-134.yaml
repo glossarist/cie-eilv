@@ -5,6 +5,11 @@ data:
   - concept_id: section-31
     source: urn:cie:ilv:cie-2020
     ref_type: section
+related:
+- type: supersedes
+  ref:
+    source: CIE S 017:2011
+    id: 17-1409
 sources:
 - origin:
     ref:
@@ -18,8 +23,11 @@ data:
   definition:
   - content: means that ensure that motorists are given adequate information on the
       course of the road
+    type: intensional
+  examples: []
   notes:
   - content: This entry was numbered 17-1409 in CIE S 017:2011.
+    type: intensional
   sources:
   - origin:
       ref:
@@ -37,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-134
-id: 1487869e-44e4-5aff-a18a-9af1fb46d055
+id: 874a423d-9773-55a9-b032-e21d5de4faa5
