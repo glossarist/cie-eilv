@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-065
   domains:
@@ -28,25 +27,18 @@ id: 4c974273-1bad-5fc2-8f1c-1191ca5fd989
 ---
 data:
   definition:
-  - content: |-
-      stem:[p_c = ((L_d))/((L_n + L_d))]
+  - content: 'stem:[p_c = ((L_d))/((L_n + L_d))]
 
-      where stem:[L_d] and stem:[L_n] are the respective luminances of the monochromatic stimulus and of the specified achromatic stimulus that match the colour stimulus considered in an additive mixture
+
+      where stem:[L_d] and stem:[L_n] are the respective luminances of the monochromatic stimulus and of the specified achromatic stimulus that match the colour stimulus considered in an additive mixture'
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, the monochromatic stimulus is replaced
-      by a stimulus whose chromaticity is represented by a point on the purple boundary.
+  - content: In the case of purple stimuli, the monochromatic stimulus is replaced by a stimulus whose chromaticity is represented by a point on the purple boundary.
     type: intensional
-  - content: In the CIE 1931 standard colorimetric system, colorimetric purity, stem:[p_c],
-      is related to excitation purity, stem:[p_e], by the equation stem:[p_c] = stem:[p_e]stem:[y_d]/stem:[y]
-      where stem:[y_d] and stem:[y] are the stem:[y] chromaticity coordinates respectively,
-      of the monochromatic stimulus and the colour stimulus considered.
+  - content: In the CIE 1931 standard colorimetric system, colorimetric purity, stem:[p_c], is related to excitation purity, stem:[p_e], by the equation stem:[p_c] = stem:[p_e]stem:[y_d]/stem:[y] where stem:[y_d] and stem:[y] are the stem:[y] chromaticity coordinates respectively, of the monochromatic stimulus and the colour stimulus considered.
     type: intensional
-  - content: In the CIE 1964 standard colorimetric system, a measure, stem:[p_(c,10)],
-      is defined by the relation given in Note 2 to entry, but using stem:[p_(e,10)],
-      stem:[y_(d,10)] and stem:[y_(10)] instead of stem:[p_e], stem:[y_d], and stem:[y]
-      respectively.
+  - content: In the CIE 1964 standard colorimetric system, a measure, stem:[p_(c,10)], is defined by the relation given in Note 2 to entry, but using stem:[p_(e,10)], stem:[y_(d,10)] and stem:[y_(10)] instead of stem:[p_e], stem:[y_d], and stem:[y] respectively.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-47, 845-03-47}} in IEC 60050-845:1987.
     type: intensional
@@ -78,7 +70,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: colorimetric purity
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: pc
   language_code: eng

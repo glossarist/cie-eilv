@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-451
   domains:
@@ -21,18 +20,17 @@ id: d4a6435c-d982-52c5-8bfe-d1b04482db9c
 ---
 data:
   definition:
-  - content: quotient of the sum of the areas of the floor and the working plane and
-      the sum of the area of the walls bounded by the floor and the working plane,
-      used in the calculation of the utilization factor or utilance
+  - content: quotient of the sum of the areas of the floor and the working plane and the sum of the area of the walls bounded by the floor and the working plane, used in the calculation of the utilization factor or utilance
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The floor cavity index is given by the formula
+  - content: 'The floor cavity index is given by the formula
+
 
       stem:[K_f = ((a b))/((h_f ( a + b )))]
 
-      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.'
     type: intensional
   - content: See also "ceiling cavity index" and "{{17-1121, room index}}".
     type: intensional
@@ -51,7 +49,7 @@ data:
     designation: floor cavity index
   - type: symbol
     normative_status: preferred
-    designation: Kf; K
+    designation: stem:[K_f]
   language_code: eng
   annotations: []
 termid: 17-451

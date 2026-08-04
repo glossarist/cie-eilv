@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-146
   domains:
@@ -28,15 +27,11 @@ id: 9da57c87-576f-5e85-a0de-180ed471d811
 ---
 data:
   definition:
-  - content: quotient of the luminance of a field and the illuminance on the plane
-      of that field, for a {{concept:cie-2020:17-29-020, diffused lighting}} and an
-      observation direction forming a {{cite:IEV:705-04-04, grazing angle}} with the
-      road surface
+  - content: quotient of the luminance of a field and the illuminance on the plane of that field, for a {{concept:cie-2020:17-29-020, diffused lighting}} and an observation direction forming a {{cite:IEV:705-04-04, grazing angle}} with the road surface
     type: intensional
   examples: []
   notes:
-  - content: The luminance coefficient in diffuse illumination is expressed in candela
-      per square metre per lux (cd·m^−2^·lx^−1^).
+  - content: The luminance coefficient in diffuse illumination is expressed in candela per square metre per lux (cdcdotm^−2^cdotlx^−1^).
     type: intensional
   - content: This entry was numbered 17-713 in CIE S 017:2011.
     type: intensional

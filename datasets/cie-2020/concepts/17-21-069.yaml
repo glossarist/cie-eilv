@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-069
   domains:
@@ -21,24 +20,21 @@ id: 6a5de837-6b14-5b70-9531-66d45d976a52
 ---
 data:
   definition:
-  - content: mean value of photon irradiance on the outer curved surface of a very
-      small (real or imaginary) cylinder that is oriented vertically at a point in
-      space
+  - content: mean value of photon irradiance on the outer curved surface of a very small (real or imaginary) cylinder that is oriented vertically at a point in space
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Photon cylindrical irradiance is sometimes also defined as the arithmetic mean of the vertical photon irradiance, stem:[E_(p,v)], at a point
+  - content: 'Photon cylindrical irradiance is sometimes also defined as the arithmetic mean of the vertical photon irradiance, stem:[E_(p,v)], at a point
+
 
       stem:[E_((p ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((p ,v)) d phi]
 
-      where stem:[E_(p,v)] is the vertical photon irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.
+
+      where stem:[E_(p,v)] is the vertical photon irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.'
     type: intensional
-  - content: The corresponding radiometric quantity is "cylindrical irradiance". The
-      corresponding photometric quantity is "cylindrical illuminance".
+  - content: The corresponding radiometric quantity is "cylindrical irradiance". The corresponding photometric quantity is "cylindrical illuminance".
     type: intensional
-  - content: The photon cylindrical irradiance is expressed in second to the power
-      minus one per square metre (s^−1^·m^−2^).
+  - content: The photon cylindrical irradiance is expressed in second to the power minus one per square metre (s^−1^cdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-921 in CIE S 017:2011.
     type: intensional
@@ -58,7 +54,7 @@ data:
     designation: photon cylindrical irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ep,c; Ec
+    designation: stem:[E_(p,c)]
   language_code: eng
   annotations: []
 termid: 17-21-069

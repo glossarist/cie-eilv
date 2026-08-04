@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-799
   domains:
@@ -21,12 +20,13 @@ id: 3d17f369-cb28-56d7-bd40-fb6bf69c5b48
 ---
 data:
   definition:
-  - content: |-
-      quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
+  - content: 'quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
+
 
       stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l) ln(10) = ((A_n ( lambda )))/(l)]
 
-      where stem:[A_n](stem:[lambda]) is Napierian spectral absorbance.
+
+      where stem:[A_n](stem:[lambda]) is Napierian spectral absorbance.'
     type: intensional
   examples: []
   notes: []
@@ -38,14 +38,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Napierian spectral absorption coefficient (of a homogeneous non-diffusing
-      layer)
+    designation: Napierian spectral absorption coefficient (of a homogeneous non-diffusing layer)
   - type: symbol
     normative_status: preferred
-    designation: an(λ)
+    designation: stem:[a(n(lambda))]
   - type: symbol
     normative_status: preferred
-    designation: "<i>a</i><sub>n</sub>(<i>λ</i>)"
+    designation: stem:[a_n](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-799

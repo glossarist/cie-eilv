@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-455
   domains:
@@ -21,8 +20,7 @@ id: 904d8a1e-9cdb-5931-aa37-111587bb1b9a
 ---
 data:
   definition:
-  - content: mean value of irradiance on the outer curved surface of a very small
-      (real or imaginary) sphere at a point in space
+  - content: mean value of irradiance on the outer curved surface of a very small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes: []
@@ -35,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: fluence rate (at a point)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fluence rate
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e,o</sub>; <i>E</i><sub>o</sub>"
+    designation: stem:[E_e,o]; stem:[E_o]
   language_code: eng
   annotations: []
 termid: 17-455

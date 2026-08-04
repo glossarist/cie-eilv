@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1349
   domains:
@@ -25,18 +24,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: When the eye is viewing a surface of uniform luminance, the number of
-      trolands is equal to the product of the area in square millimetres of the limiting
-      pupil, natural or artificial, by the luminance of the surface in cd·m<sup>-2</sup>.
+  - content: When the eye is viewing a surface of uniform luminance, the number of trolands is equal to the product of the area in square millimetres of the limiting pupil, natural or artificial, by the luminance of the surface in cdcdotm^-2^.
     type: intensional
-  - content: In computing effective retinal illuminance, absorption, scattering, and
-      reflection losses, and the dimensions of the particular eye under consideration
-      must be taken into account as well as the Stiles-Crawford effect.
+  - content: In computing effective retinal illuminance, absorption, scattering, and reflection losses, and the dimensions of the particular eye under consideration must be taken into account as well as the Stiles-Crawford effect.
     type: intensional
   - content: In German,“Pupillenlichtstärke” designates the retinal illuminance.
     type: intensional
-  - content: "“troland at a scotopic level” is used when the luminance is evaluated
-      for scotopic vision."
+  - content: “troland at a scotopic level” is used when the luminance is evaluated for scotopic vision.
     type: intensional
   sources:
   - origin:
@@ -49,7 +43,7 @@ data:
     designation: troland
   - type: symbol
     normative_status: preferred
-    designation: Td
+    designation: stem:[T_d]
   language_code: eng
   annotations: []
 termid: 17-1349

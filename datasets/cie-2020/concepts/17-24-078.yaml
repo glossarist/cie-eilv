@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-078
   domains:
@@ -28,21 +27,19 @@ id: 5ee8b634-58b0-5ca8-925d-06b1aa9fcdcf
 ---
 data:
   definition:
-  - content: |-
-      quotient of the {{concept:cie-2020:17-21-049, radiance}} at a surface element of a medium in a given direction and the {{concept:cie-2020:17-21-053, irradiance}} on the medium
+  - content: 'quotient of the {{concept:cie-2020:17-21-049, radiance}} at a surface element of a medium in a given direction and the {{concept:cie-2020:17-21-053, irradiance}} on the medium
+
 
       stem:[q_e = ((L_e))/((E_e))]
 
-      where stem:[L_e] is radiance and stem:[E_e] is irradiance
+
+      where stem:[L_e] is radiance and stem:[E_e] is irradiance'
     type: intensional
   examples: []
   notes:
-  - content: The bi-directional reflectance distribution function (BRDF) is similar
-      to the radiance coefficient except that it is defined for directional incident
-      radiation.
+  - content: The bi-directional reflectance distribution function (BRDF) is similar to the radiance coefficient except that it is defined for directional incident radiation.
     type: intensional
-  - content: The radiance coefficient is expressed in steradian to the power minus
-      one (sr^−1^).
+  - content: The radiance coefficient is expressed in steradian to the power minus one (sr^−1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-70, 845-04-70}} in IEC 60050-845:1987.
     type: intensional
@@ -76,7 +73,7 @@ data:
     designation: radiance coefficient
   - type: symbol
     normative_status: preferred
-    designation: qe; q
+    designation: stem:[q_e]
   language_code: eng
   annotations: []
 termid: 17-24-078

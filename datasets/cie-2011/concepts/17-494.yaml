@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-494
   domains:
@@ -39,7 +38,7 @@ data:
     designation: GRL
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i><sub>G,L</sub>"
+    designation: stem:[R_G,L]
   language_code: eng
   annotations: []
 termid: 17-494

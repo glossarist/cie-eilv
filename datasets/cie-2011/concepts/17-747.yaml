@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-747
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: macula lutea
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: yellow spot
   - type: expression

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-092
   domains:
@@ -29,13 +28,11 @@ id: 1562ef90-485e-5792-816e-4447b3fa3cbb
 ---
 data:
   definition:
-  - content: angular distribution of the radiation incident on the sample being measured
-      with respect to the centre of the sampling aperture
+  - content: angular distribution of the radiation incident on the sample being measured with respect to the centre of the sampling aperture
     type: intensional
   examples: []
   notes:
-  - content: The influx geometry and efflux geometry together specify the geometric
-      nature of the measurement for reflectance and transmittance measurements.
+  - content: The influx geometry and efflux geometry together specify the geometric nature of the measurement for reflectance and transmittance measurements.
     type: intensional
   - content: This entry was numbered 17-577, 17-611, and 17-571 in CIE S 017:2011.
     type: intensional
@@ -53,7 +50,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: influx geometry
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: irradiation geometry
   language_code: eng

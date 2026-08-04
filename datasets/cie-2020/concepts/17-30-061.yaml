@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-061
   domains:
@@ -28,8 +27,7 @@ id: c772b849-e67d-587e-b327-4109c6446743
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-30-060, mine luminaire}} with integral energy
-      source, required for each person entering an underground mine"
+  - content: '{{concept:cie-2020:17-30-060, mine luminaire}} with integral energy source, required for each person entering an underground mine'
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: miner's personal lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: miner's lamp
   language_code: eng

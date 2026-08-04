@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-068
   domains:
@@ -28,7 +27,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: tj
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: junction temperature
   language_code: eng

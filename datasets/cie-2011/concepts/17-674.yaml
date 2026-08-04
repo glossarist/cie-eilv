@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-674
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lighting
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: illumination
   language_code: eng

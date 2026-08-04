@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-244
   domains:
@@ -21,8 +20,7 @@ id: cd8a2b35-86e1-5ece-a7a2-72e07b4ff5da
 ---
 data:
   definition:
-  - content: electric lamp or luminaire energized by an alternator driven by compressed
-      air
+  - content: electric lamp or luminaire energized by an alternator driven by compressed air
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: compressed air luminaire (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: compressed air luminaire, US
   language_code: eng

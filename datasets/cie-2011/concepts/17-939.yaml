@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-939
   domains:
@@ -21,8 +20,7 @@ id: 14991c1d-190c-5cb9-a6b6-dfed9617cb0c
 ---
 data:
   definition:
-  - content: photoelectric detector that utilizes the change in electrical conductivity
-      produced by the absorption of optical radiation
+  - content: photoelectric detector that utilizes the change in electrical conductivity produced by the absorption of optical radiation
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photoresistor
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: photoresistor
   language_code: eng

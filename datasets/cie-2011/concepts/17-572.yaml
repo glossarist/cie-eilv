@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-572
   domains:
@@ -21,19 +20,13 @@ id: 4f2dbd58-facb-51d9-ba0a-42cc53bca3ff
 ---
 data:
   definition:
-  - content: representation in space, in the form of a surface expressed in polar
-      coordinates, of the angular distribution of (relative) radiant intensity or
-      luminous intensity or of (relative) radiance or luminance of an element of the
-      surface of a medium that diffuses by reflection or transmission
+  - content: representation in space, in the form of a surface expressed in polar coordinates, of the angular distribution of (relative) radiant intensity or luminous intensity or of (relative) radiance or luminance of an element of the surface of a medium that diffuses by reflection or transmission
     type: intensional
   examples: []
   notes:
-  - content: For a narrow incident beam of radiation, it is convenient to represent
-      the indicatrix of diffusion in Cartesian coordinates. If the angular distribution
-      has rotational symmetry, a meridian section of the surface is sufficient.
+  - content: For a narrow incident beam of radiation, it is convenient to represent the indicatrix of diffusion in Cartesian coordinates. If the angular distribution has rotational symmetry, a meridian section of the surface is sufficient.
     type: intensional
-  - content: The term "indicatrix" is often used to denote, instead of the surface,
-      the curve obtained in a similar manner in a plane normal to the element concerned.
+  - content: The term "indicatrix" is often used to denote, instead of the surface, the curve obtained in a similar manner in a plane normal to the element concerned.
     type: intensional
   sources:
   - origin:
@@ -44,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: indicatrix of diffusion (for a specified incident beam)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: indicatrix of diffusion, <for a specified incident beam>
   - type: expression

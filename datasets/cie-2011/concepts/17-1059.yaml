@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1059
   domains:
@@ -21,22 +20,18 @@ id: 93eafbba-3e5d-5ef5-b775-6f5a5f9a2415
 ---
 data:
   definition:
-  - content: |-
-      quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
+  - content: 'quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
 
-      stem:[R = ((Phi_n))/((Phi_d))]
+
+      stem:[R = ((Phi_n))/((Phi_d))]'
     type: intensional
   examples: []
   notes:
-  - content: For regularly reflecting surfaces that are irradiated or illuminated
-      by a beam of small solid angle, the reflectance factor may be much larger than
-      1 if the cone includes the mirror image of the source.
+  - content: For regularly reflecting surfaces that are irradiated or illuminated by a beam of small solid angle, the reflectance factor may be much larger than 1 if the cone includes the mirror image of the source.
     type: intensional
-  - content: If the solid angle of the cone approaches 2π sr, the reflectance factor
-      approaches the reflectance for the same conditions of irradiation.
+  - content: If the solid angle of the cone approaches 2stem:[pi] sr, the reflectance factor approaches the reflectance for the same conditions of irradiation.
     type: intensional
-  - content: If the solid angle of the cone approaches 0, the reflectance factor approaches
-      the radiance factor or luminance factor for the same conditions of irradiation.
+  - content: If the solid angle of the cone approaches 0, the reflectance factor approaches the radiance factor or luminance factor for the same conditions of irradiation.
     type: intensional
   sources:
   - origin:
@@ -46,16 +41,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reflectance factor (at a surface element, for the part of the reflected
-      radiation contained in a given cone with apex at the surface element, and for
-      incident radiation of given spectral composition, polarisation and geometric
-      distribution)
+    designation: reflectance factor (at a surface element, for the part of the reflected radiation contained in a given cone with apex at the surface element, and for incident radiation of given spectral composition, polarisation and geometric distribution)
   - type: symbol
     normative_status: preferred
-    designation: R
+    designation: stem:[R]
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i>"
+    designation: stem:[R]
   language_code: eng
   annotations: []
 termid: 17-1059

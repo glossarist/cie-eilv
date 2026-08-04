@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1384
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: utilization plane
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: work plane
   language_code: eng

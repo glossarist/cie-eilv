@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-035
   domains:
@@ -28,22 +27,21 @@ id: 0ed848d4-7374-58df-90ef-acbbb9b9bc0a
 ---
 data:
   definition:
-  - content: |-
-      quantity obtained by spectrally weighting the spectral radiant exposure with the actinic action spectrum
+  - content: 'quantity obtained by spectrally weighting the spectral radiant exposure with the actinic action spectrum
+
 
       stem:[H_((act)) = int int E_((e , lambda)) ( t ) s_((act)) ( lambda ) d lambda d t]
 
-      where stem:[E_(e,stem:[lambda])] is the spectral irradiance in W·m^−2^·nm^−1^ and stem:[s_(act)](stem:[lambda]) is the actinic action spectrum normalized to 1 at its maximum
+
+      where stem:[E_(e,stem:[lambda])] is the spectral irradiance in Wcdotm^−2^cdotnm^−1^ and stem:[s_(act)](stem:[lambda]) is the actinic action spectrum normalized to 1 at its maximum'
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an action spectrum is
-      adopted for the actinic effect considered, and that its maximum value is 1.
+  - content: This definition is based on the assumption that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which actinic action spectrum is used, as
-      the unit is the same for any action spectrum.
+  - content: It is essential to specify which actinic action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The actinic dose is expressed in joule per square metre (J·m^−2^)
+  - content: The actinic dose is expressed in joule per square metre (Jcdotm^−2^)
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-23, 845-06-23}} in IEC 60050-845:1987.
     type: intensional
@@ -77,7 +75,7 @@ data:
     designation: actinic dose
   - type: symbol
     normative_status: preferred
-    designation: Hact
+    designation: stem:[H_act]
   language_code: eng
   annotations: []
 termid: 17-26-035

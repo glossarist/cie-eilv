@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-231
   domains:
@@ -21,14 +20,11 @@ id: 1711d850-0fe6-52d5-88b5-07029d887eca
 ---
 data:
   definition:
-  - content: temperature of a Planckian radiator whose radiation has the same chromaticity
-      as that of a given stimulus
+  - content: temperature of a Planckian radiator whose radiation has the same chromaticity as that of a given stimulus
     type: intensional
   examples: []
   notes:
-  - content: The reciprocal colour temperature is also used with unit K<sup>-1</sup>
-      or MK<sup>-1</sup> (where 1 MK<sup>-1</sup> = 10<sup>-6</sup>K<sup>-1</sup>)
-      whose previous name "mired" is now obsolete.
+  - content: The reciprocal colour temperature is also used with unit K^-1^ or MK^-1^ (where 1 MK^-1^ = 10^-6^K^-1^) whose previous name "mired" is now obsolete.
     type: intensional
   sources:
   - origin:
@@ -41,10 +37,10 @@ data:
     designation: colour temperature
   - type: symbol
     normative_status: preferred
-    designation: Tc
+    designation: stem:[T_c]
   - type: symbol
     normative_status: preferred
-    designation: "<i>T</i><sub>c</sub>"
+    designation: stem:[T_c]
   language_code: eng
   annotations: []
 termid: 17-231

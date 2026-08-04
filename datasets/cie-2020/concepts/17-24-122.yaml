@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-122
   domains:
@@ -25,8 +24,7 @@ id: 3259072b-04ad-53b7-9555-dfb37f76b6a3
 ---
 data:
   definition:
-  - content: exhibiting reflective or transmissive characteristics that are constant
-      over the wavelength range of interest
+  - content: exhibiting reflective or transmissive characteristics that are constant over the wavelength range of interest
     type: intensional
   examples: []
   notes:
@@ -46,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: spectrally neutral
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectrally non-selective
   language_code: eng

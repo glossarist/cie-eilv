@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-735
   domains:
@@ -21,12 +20,13 @@ id: 8b56fee5-29af-5b24-8866-803dd100d31e
 ---
 data:
   definition:
-  - content: |-
-      density of exiting luminous flux with respect to area at a point on a real or imaginary surface
+  - content: 'density of exiting luminous flux with respect to area at a point on a real or imaginary surface
+
 
       stem:[M_v = ((d Phi_v))/((d A))]
 
-      where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves
+
+      where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: luminous exitance (at a point on a surface)
   - type: symbol
     normative_status: preferred
-    designation: Mv; M
+    designation: stem:[M_v]
   - type: symbol
     normative_status: preferred
-    designation: "<i>M</i><sub>v</sub>; <i>M</i>"
+    designation: stem:[M_v]; stem:[M]
   language_code: eng
   annotations: []
 termid: 17-735

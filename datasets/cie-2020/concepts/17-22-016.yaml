@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-016
   domains:
@@ -32,8 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Photopic vision normally occurs when the eye is adapted to levels of
-      luminance of at least 5 cd·m^−2^.
+  - content: Photopic vision normally occurs when the eye is adapted to levels of luminance of at least 5 cdcdotm^−2^.
     type: intensional
   - content: Colour perception is typical of photopic vision.
     type: intensional

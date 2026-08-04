@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-273
   domains:
@@ -21,8 +20,7 @@ id: 3020441c-ceda-5a4f-87d4-0c5cf492bc99
 ---
 data:
   definition:
-  - content: mean value of illuminance on the outer curved surface of a very small
-      (real or imaginary) cylinder that is oriented vertically at a point in space
+  - content: mean value of illuminance on the outer curved surface of a very small (real or imaginary) cylinder that is oriented vertically at a point in space
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: cylindrical illuminance (at a point, for a given direction of incidence)
   - type: symbol
     normative_status: preferred
-    designation: Ev,c; Ec
+    designation: stem:[E_(v,c)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v,z</sub>; <i>E</i><sub>z</sub>"
+    designation: stem:[E_v,z]; stem:[E_z]
   language_code: eng
   annotations: []
 termid: 17-273

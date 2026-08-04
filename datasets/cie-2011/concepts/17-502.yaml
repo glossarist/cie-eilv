@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-502
   domains:
@@ -21,13 +20,11 @@ id: 2c77e846-da52-5a22-a1c4-f19098ef5174
 ---
 data:
   definition:
-  - content: electric discharge in which the secondary emission from the cathode is
-      much greater than the thermionic emission
+  - content: electric discharge in which the secondary emission from the cathode is much greater than the thermionic emission
     type: intensional
   examples: []
   notes:
-  - content: This discharge is characterized by a considerable cathode fall (typically
-      70 V or more) and by low current density at the cathode (some 10 A⋅m<sup>-2</sup>).
+  - content: This discharge is characterized by a considerable cathode fall (typically 70 V or more) and by low current density at the cathode (some 10 A⋅m^-2^).
     type: intensional
   sources:
   - origin:

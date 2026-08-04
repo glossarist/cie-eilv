@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1372
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: uniformity ratio of illuminance (on a given plane)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: uniformity ratio of illuminance
   language_code: eng

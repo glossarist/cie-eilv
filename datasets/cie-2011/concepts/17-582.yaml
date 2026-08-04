@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-582
   domains:
@@ -21,8 +20,7 @@ id: b950a563-a6d4-52ea-80c0-294a7f22f959
 ---
 data:
   definition:
-  - content: average illuminance on a specified surface when the lighting installation
-      is new
+  - content: average illuminance on a specified surface when the lighting installation is new
     type: intensional
   examples: []
   notes: []
@@ -37,7 +35,7 @@ data:
     designation: initial average illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,av,i; ; Eav,i;
+    designation: stem:[E_(v,av,i)]
   language_code: eng
   annotations: []
 termid: 17-582

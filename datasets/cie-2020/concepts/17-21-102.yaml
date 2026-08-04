@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-102
   domains:
@@ -21,16 +20,11 @@ id: 3ccc2784-69c5-5867-b1ee-039525c89488
 ---
 data:
   definition:
-  - content: luminance in a given direction that results from emission at the surface
-      of a photoluminescent medium under specified conditions of illumination, compared
-      to the luminance in the same direction by the perfect reflecting diffuser identically
-      illuminated
+  - content: luminance in a given direction that results from emission at the surface of a photoluminescent medium under specified conditions of illumination, compared to the luminance in the same direction by the perfect reflecting diffuser identically illuminated
     type: intensional
   examples: []
   notes:
-  - content: The luminescent luminance factor depends upon the spectral power distribution
-      of the illumination and this quantity is typically specified for a given CIE
-      illuminant condition.
+  - content: The luminescent luminance factor depends upon the spectral power distribution of the illumination and this quantity is typically specified for a given CIE illuminant condition.
     type: intensional
   - content: The luminescent luminance factor has unit one.
     type: intensional
@@ -53,7 +47,7 @@ data:
     usage_info: of a photoluminescent material
   - type: symbol
     normative_status: preferred
-    designation: βv,L
+    designation: stem:[beta]v,L
   language_code: eng
   annotations: []
 termid: 17-21-102

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-066
   domains:
@@ -36,13 +35,11 @@ id: faeb8708-c9cc-5dcb-99ce-00fb0364eceb
 ---
 data:
   definition:
-  - content: headlight designed to illuminate for a considerable distance ahead of
-      the vehicle carrying it
+  - content: headlight designed to illuminate for a considerable distance ahead of the vehicle carrying it
     type: intensional
   examples: []
   notes:
-  - content: The headlights as defined in "main-beam headlight" and "dipped-beam headlight"
-      can be provided by a single lighting device.
+  - content: The headlights as defined in "main-beam headlight" and "dipped-beam headlight" can be provided by a single lighting device.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-70, 845-11-70}} in IEC 60050-845:1987.
     type: intensional
@@ -74,7 +71,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: main-beam headlight
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: high-beam headlight
   language_code: eng

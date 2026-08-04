@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-827
   domains:
@@ -21,19 +20,17 @@ id: ff08a6c1-d33d-5644-8fef-3678d57e376c
 ---
 data:
   definition:
-  - content: |-
-      detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
+  - content: 'detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
+
 
       stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
 
-      where stem:[Phi_m] is noise equivalent power
+
+      where stem:[Phi_m] is noise equivalent power'
     type: intensional
   examples: []
   notes:
-  - content: This concept is realistic only if the responsivity and noise output of
-      the detector are frequency independent throughout the frequency range under
-      consideration and if the noise equivalent input varies as the square root of
-      the detector area; this is not always the case.
+  - content: This concept is realistic only if the responsivity and noise output of the detector are frequency independent throughout the frequency range under consideration and if the noise equivalent input varies as the square root of the detector area; this is not always the case.
     type: intensional
   sources:
   - origin:
@@ -46,10 +43,10 @@ data:
     designation: normalized detectivity (of a detector)
   - type: symbol
     normative_status: preferred
-    designation: D*
+    designation: stem:[D^*]
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i>*"
+    designation: stem:[D]*
   language_code: eng
   annotations: []
 termid: 17-827

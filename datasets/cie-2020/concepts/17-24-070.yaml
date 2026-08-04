@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-070
   domains:
@@ -28,34 +27,24 @@ id: 3708523b-7630-5878-816e-b824e3d18bc0
 ---
 data:
   definition:
-  - content: |-
-      quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
+  - content: 'quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
 
-      stem:[R = ((Phi_n))/((Phi_d))]
+
+      stem:[R = ((Phi_n))/((Phi_d))]'
     type: intensional
   examples: []
   notes:
-  - content: The definition holds for a surface element, for the part of the reflected
-      radiation contained in a given cone with apex at the surface element, and for
-      incident radiation of given spectral composition, polarization and geometric
-      distribution.
+  - content: The definition holds for a surface element, for the part of the reflected radiation contained in a given cone with apex at the surface element, and for incident radiation of given spectral composition, polarization and geometric distribution.
     type: intensional
-  - content: The reflectance factor is also defined spectrally and is called spectral
-      reflectance factor, stem:[R](stem:[lambda]).
+  - content: The reflectance factor is also defined spectrally and is called spectral reflectance factor, stem:[R](stem:[lambda]).
     type: intensional
-  - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance
-      equal to 1 is called a perfect diffuser.
+  - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance equal to 1 is called a perfect diffuser.
     type: intensional
-  - content: For regularly reflecting surfaces that are irradiated or illuminated
-      by a beam of small solid angle, the reflectance factor can be much larger than
-      1 if the cone includes the mirror image of the source.
+  - content: For regularly reflecting surfaces that are irradiated or illuminated by a beam of small solid angle, the reflectance factor can be much larger than 1 if the cone includes the mirror image of the source.
     type: intensional
-  - content: If the solid angle of the cone approaches 2π sr, the reflectance factor
-      approaches the reflectance for the same conditions of irradiation.
+  - content: If the solid angle of the cone approaches 2stem:[pi] sr, the reflectance factor approaches the reflectance for the same conditions of irradiation.
     type: intensional
-  - content: If the solid angle of the cone approaches 0 sr, the reflectance factor
-      approaches the radiance factor or luminance factor for the same conditions of
-      irradiation.
+  - content: If the solid angle of the cone approaches 0 sr, the reflectance factor approaches the radiance factor or luminance factor for the same conditions of irradiation.
     type: intensional
   - content: The reflectance factor has unit one.
     type: intensional
@@ -91,7 +80,7 @@ data:
     designation: reflectance factor
   - type: symbol
     normative_status: preferred
-    designation: R
+    designation: stem:[R]
   language_code: eng
   annotations: []
 termid: 17-24-070

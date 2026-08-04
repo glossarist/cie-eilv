@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-489
   domains:
@@ -21,14 +20,11 @@ id: 1a25dc13-4081-54c5-92eb-833fd11b0f85
 ---
 data:
   definition:
-  - content: quantity that determines the maximum geometric throughput of radiation
-      transmitted, received or emitted in a single-pass, passive optical arrangement
+  - content: quantity that determines the maximum geometric throughput of radiation transmitted, received or emitted in a single-pass, passive optical arrangement
     type: intensional
   examples: []
   notes:
-  - content: For a beam propagating through successive non-diffusing media, the quantity
-      <i>Gn</i><sup>2</sup> , where <i>n</i> is the refractive index, is invariant.
-      That quantity is called “optical extent”.
+  - content: For a beam propagating through successive non-diffusing media, the quantity stem:[Gn^(2)] , where stem:[n] is the refractive index, is invariant. That quantity is called “optical extent”.
     type: intensional
   sources:
   - origin:
@@ -41,10 +37,10 @@ data:
     designation: geometric extent (of a beam of rays)
   - type: symbol
     normative_status: preferred
-    designation: G
+    designation: stem:[G]
   - type: symbol
     normative_status: preferred
-    designation: "<i>G</i>"
+    designation: stem:[G]
   language_code: eng
   annotations: []
 termid: 17-489

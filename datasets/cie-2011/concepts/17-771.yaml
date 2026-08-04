@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-771
   domains:
@@ -21,8 +20,7 @@ id: 2fe70b64-c516-57d7-bd11-f7adf4ca684e
 ---
 data:
   definition:
-  - content: spectrally different colour stimuli that have the same tristimulus values
-      in a specified colorimetric system
+  - content: spectrally different colour stimuli that have the same tristimulus values in a specified colorimetric system
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: metamers
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: metamers, pl
   language_code: eng

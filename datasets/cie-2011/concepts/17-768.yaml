@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-768
   domains:
@@ -21,15 +20,13 @@ id: e131fd83-ef14-5d86-a131-8667aeea32c8
 ---
 data:
   definition:
-  - content: spectrally different colour stimuli that have the same tristimulus values
-      in a specified colorimetric system
+  - content: spectrally different colour stimuli that have the same tristimulus values in a specified colorimetric system
     type: intensional
   examples: []
   notes:
   - content: The corresponding property is called "metamerism".
     type: intensional
-  - content: In German, colours ("Farbvalenzen") consisting of spectrally identical
-      colour stimuli are described as "unbedingt-gleich".
+  - content: In German, colours ("Farbvalenzen") consisting of spectrally identical colour stimuli are described as "unbedingt-gleich".
     type: intensional
   sources:
   - origin:
@@ -40,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: metameric colour stimuli
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: metamers, pl
   - type: expression

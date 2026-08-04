@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-063
   domains:
@@ -16,23 +15,16 @@ id: 0a41dc11-59fe-54f3-b144-7576e5f741bf
 ---
 data:
   definition:
-  - content: |-
-      quotient of blue light hazard weighted radiant flux and radiant flux
+  - content: 'quotient of blue light hazard weighted radiant flux and radiant flux
 
-      stem:[eta_B = ((int Phi_((e , lambda)) ( lambda ) B ( lambda ) d lambda))/((int Phi_((e , lambda)) ( lambda ) d lambda))]
+
+      stem:[eta_B = ((int Phi_((e , lambda)) ( lambda ) B ( lambda ) d lambda))/((int Phi_((e , lambda)) ( lambda ) d lambda))]'
     type: intensional
   examples: []
   notes:
-  - content: The blue light hazard efficiency of radiation, stem:[eta_B], is related
-      to the blue light hazard efficacy of luminous radiation, stem:[K_(B,v)], through
-      stem:[eta_B] = stem:[K·K_(B,v)], where stem:[K] is luminous efficacy of radiation,
-      and to the blue light hazard factor of luminous radiation, stem:[alpha_(B,v)],
-      through stem:[eta_B] = stem:[V·alpha_(B,v)], where stem:[V] is luminous efficiency
-      of radiation.
+  - content: The blue light hazard efficiency of radiation, stem:[eta_B], is related to the blue light hazard efficacy of luminous radiation, stem:[K_(B,v)], through stem:[eta_B] = stem:[K·K_(B,v)], where stem:[K] is luminous efficacy of radiation, and to the blue light hazard factor of luminous radiation, stem:[alpha_(B,v)], through stem:[eta_B] = stem:[V·alpha_(B,v)], where stem:[V] is luminous efficiency of radiation.
     type: intensional
-  - content: For some applications it might be necessary to state both blue light
-      hazard efficiency of radiation, stem:[eta_B], and blue light hazard efficacy
-      of luminous radiation, stem:[K_(B,v)].
+  - content: For some applications it might be necessary to state both blue light hazard efficiency of radiation, stem:[eta_B], and blue light hazard efficacy of luminous radiation, stem:[K_(B,v)].
     type: intensional
   - content: The blue light hazard efficiency of radiation has unit one.
     type: intensional
@@ -47,7 +39,7 @@ data:
     designation: blue light hazard efficiency of radiation
   - type: symbol
     normative_status: preferred
-    designation: ηB
+    designation: stem:[eta]B
   language_code: eng
   annotations: []
 termid: 17-26-063

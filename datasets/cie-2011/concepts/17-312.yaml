@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-312
   domains:
@@ -21,25 +20,26 @@ id: ee436a04-3a49-51ba-ba51-e00c90b4576d
 ---
 data:
   definition:
-  - content: |-
-      quotient of the mean of the values of luminance, stem:[L], measured at 20° and 70° (0,35 rad and 1,22 rad) and the luminance measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated normally
+  - content: 'quotient of the mean of the values of luminance, stem:[L], measured at 20° and 70° (0,35 rad and 1,22 rad) and the luminance measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated normally
 
-      stem:[sigma = ((L ( 20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))]
+
+      stem:[sigma = ((L ( 20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))]'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The diffusion factor is intended to give an indication of the spatial distribution of the
+  - content: 'The diffusion factor is intended to give an indication of the spatial distribution of the
+
       diffused flux. It is equal to 1 for every isotropic diffuser, whatever the value of the
-      diffuse reflectance or diffuse transmittance.
+
+      diffuse reflectance or diffuse transmittance.'
     type: intensional
-  - content: |-
-      This way of defining the diffusion factor can be applied only to materials for which
+  - content: 'This way of defining the diffusion factor can be applied only to materials for which
+
       the indicatrix of diffusion does not differ appreciably from that of ordinary opal
-      glasses.
+
+      glasses.'
     type: intensional
-  - content: See NOTE to “{{17-515, half-value angle (for a diffusing surface by reflection
-      or by transmission)}}”.
+  - content: See NOTE to “{{17-515, half-value angle (for a diffusing surface by reflection or by transmission)}}”.
     type: intensional
   sources:
   - origin:
@@ -52,10 +52,10 @@ data:
     designation: diffusion factor (of a diffusing surface, by reflection or by transmission)
   - type: symbol
     normative_status: preferred
-    designation: σ
+    designation: stem:[sigma]
   - type: symbol
     normative_status: preferred
-    designation: "<i>σ</i>"
+    designation: stem:[σ]
   language_code: eng
   annotations: []
 termid: 17-312

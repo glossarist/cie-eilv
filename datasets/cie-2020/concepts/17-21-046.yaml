@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-046
   domains:
@@ -28,25 +27,24 @@ id: 7770ab6e-a693-5336-857f-4ee87a770ba9
 ---
 data:
   definition:
-  - content: |-
-      density of photon flux with respect to solid angle in a specified direction
+  - content: 'density of photon flux with respect to solid angle in a specified direction
+
 
       stem:[I_p = ((d Phi_p))/((d omega))]
 
-      where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction
+
+      where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
 
-      stem:[Phi_p = underset(omega)( ∬ ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].
+
+      stem:[Phi_p = underset(omega)( ∬ ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
     type: intensional
-  - content: The corresponding radiometric quantity is "radiant intensity". The corresponding
-      photometric quantity is "luminous intensity".
+  - content: The corresponding radiometric quantity is "radiant intensity". The corresponding photometric quantity is "luminous intensity".
     type: intensional
-  - content: The photon intensity is expressed in second to the power minus one times
-      steradian to the power minus one (s^−1^·sr^−1^).
+  - content: The photon intensity is expressed in second to the power minus one times steradian to the power minus one (s^−1^cdotsr^−1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-32, 845-01-32}} in IEC 60050-845:1987.
     type: intensional
@@ -80,7 +78,7 @@ data:
     designation: photon intensity
   - type: symbol
     normative_status: preferred
-    designation: Ip; I
+    designation: stem:[I_p]
   language_code: eng
   annotations: []
 termid: 17-21-046

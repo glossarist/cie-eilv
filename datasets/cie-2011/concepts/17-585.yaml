@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-585
   domains:
@@ -21,14 +20,11 @@ id: 633d7aee-9e09-5da5-9915-af21c49aa927
 ---
 data:
   definition:
-  - content: angle a chosen reference direction makes with the vertical plane through
-      a given point on a road surface and the first axis of a luminaire, when the
-      luminaire is at its tilt during measurement
+  - content: angle a chosen reference direction makes with the vertical plane through a given point on a road surface and the first axis of a luminaire, when the luminaire is at its tilt during measurement
     type: intensional
   examples: []
   notes:
-  - content: The reference direction for a straight road is by convention the longitudinal
-      direction.
+  - content: The reference direction for a straight road is by convention the longitudinal direction.
     type: intensional
   sources:
   - origin:
@@ -38,14 +34,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: installation azimuth (with respect to a given point on a road surface
-      and a given luminaire at its tilt during measurement)
+    designation: installation azimuth (with respect to a given point on a road surface and a given luminaire at its tilt during measurement)
   - type: symbol
     normative_status: preferred
-    designation: φ
+    designation: stem:[phi]
   - type: symbol
     normative_status: preferred
-    designation: "<i>φ</i>"
+    designation: stem:[φ]
   language_code: eng
   annotations: []
 termid: 17-585

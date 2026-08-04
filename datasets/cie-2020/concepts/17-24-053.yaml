@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-053
   domains:
@@ -28,8 +27,7 @@ id: 0350750c-38c6-57e7-a184-b836906ac39c
 ---
 data:
   definition:
-  - content: transmission in accordance with the laws of geometrical optics, without
-      scattering
+  - content: transmission in accordance with the laws of geometrical optics, without scattering
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: regular transmission
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: direct transmission
   language_code: eng

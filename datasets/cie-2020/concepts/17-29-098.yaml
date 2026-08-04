@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-098
   domains:
@@ -21,12 +20,11 @@ id: 9a60080e-e993-523d-a658-9308c9656d19
 ---
 data:
   definition:
-  - content: illuminance produced by the extraterrestrial solar radiation on a surface
-      perpendicular to the Sun's rays at the mean Sun-Earth distance
+  - content: illuminance produced by the extraterrestrial solar radiation on a surface perpendicular to the Sun's rays at the mean Sun-Earth distance
     type: intensional
   examples: []
   notes:
-  - content: The luminous solar constant is expressed in lux (lx = lm·m^−2^).
+  - content: The luminous solar constant is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-741 in CIE S 017:2011.
     type: intensional
@@ -46,7 +44,7 @@ data:
     designation: luminous solar constant
   - type: symbol
     normative_status: preferred
-    designation: Evo
+    designation: stem:[E_vo]
   language_code: eng
   annotations: []
 termid: 17-29-098

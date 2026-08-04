@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1206
   domains:
@@ -21,21 +20,15 @@ id: 0027643d-cb7d-5f64-af82-b4b0f0623713
 ---
 data:
   definition:
-  - content: property of a quantity, stem:[X], pertaining to electromagnetic radiation
-      that indicates that the quantity referred to is the spectral distribution of
-      stem:[X]
+  - content: property of a quantity, stem:[X], pertaining to electromagnetic radiation that indicates that the quantity referred to is the spectral distribution of stem:[X]
     type: intensional
   examples: []
   notes:
   - content: In the latter case, in French, "spectrique" is preferred to "spectral".
     type: intensional
-  - content: "<i>X</i><sub><i>λ</i></sub> is also a function of <i>λ</i> and in order
-      to stress this, may be written <i>X</i><sub><i>λ</i></sub>(<i>λ</i>) without
-      any change of meaning."
+  - content: stem:[X]~stem:[λ]~ is also a function of stem:[λ] and in order to stress this, may be written stem:[X]~stem:[λ]~(stem:[λ]) without any change of meaning.
     type: intensional
-  - content: The quantity <i>X</i> can also be expressed as a function of frequency
-      <i>ν</i>, wave number <i>σ</i>, etc.; the corresponding symbols are <i>X</i>(<i>ν</i>),
-      <i>X</i>(σ), etc. and <i>X</i><sub><i>ν</i></sub>, <i>X</i><sub>σ</sub>, etc.
+  - content: The quantity stem:[X] can also be expressed as a function of frequency stem:[ν], wave number stem:[σ], etc.; the corresponding symbols are stem:[X](stem:[ν]), stem:[X](stem:[sigma]), etc. and stem:[X]~stem:[ν]~, stem:[X_σ], etc.
     type: intensional
   sources:
   - origin:

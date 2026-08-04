@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-597
   domains:
@@ -21,8 +20,7 @@ id: 912331e0-6824-56cd-b3d9-dbc193cc9b43
 ---
 data:
   definition:
-  - content: quotient of the number of elementary events (such as release of an electron)
-      contributing to the output and the number of absorbed photons
+  - content: quotient of the number of elementary events (such as release of an electron) contributing to the output and the number of absorbed photons
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: internal quantum efficiency (of a detector)
   - type: symbol
     normative_status: preferred
-    designation: ηi
+    designation: stem:[eta]i
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i><sub>i</sub>"
+    designation: stem:[η_i]
   language_code: eng
   annotations: []
 termid: 17-597

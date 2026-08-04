@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-145
   domains:
@@ -21,17 +20,13 @@ id: e1484d29-6b3e-5b80-be8b-a2a70a36f736
 ---
 data:
   definition:
-  - content: coordinates expressing the quotients of each of a set of three tristimulus
-      values and their sum
+  - content: coordinates expressing the quotients of each of a set of three tristimulus values and their sum
     type: intensional
   examples: []
   notes:
-  - content: As the sum of the 3 chromaticity coordinates is equal to 1, 2 of them
-      are sufficient to define a chromaticity.
+  - content: As the sum of the 3 chromaticity coordinates is equal to 1, 2 of them are sufficient to define a chromaticity.
     type: intensional
-  - content: In the CIE standard colorimetric systems, the chromaticity coordinates
-      are represented by the symbols <i>x</i>, <i>y</i>, <i>z</i> and <i>x</i><sub>10</sub>,
-      <i>y</i><sub>10</sub>, <i>z</i><sub>10</sub>.
+  - content: In the CIE standard colorimetric systems, the chromaticity coordinates are represented by the symbols stem:[x], stem:[y], stem:[z] and stem:[x_10], stem:[y_10], stem:[z_10].
     type: intensional
   sources:
   - origin:

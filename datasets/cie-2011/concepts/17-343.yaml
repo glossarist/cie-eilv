@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-343
   domains:
@@ -21,8 +20,7 @@ id: 475e2eaf-4b8c-51ff-8c76-b0727ee736a7
 ---
 data:
   definition:
-  - content: quotient of minimum illuminance and maximum illuminance on a surface,
-      or of minimum luminance and maximum luminance of a surface
+  - content: quotient of minimum illuminance and maximum illuminance on a surface, or of minimum luminance and maximum luminance of a surface
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: diversity
   - type: symbol
     normative_status: preferred
-    designation: Ud
+    designation: stem:[U_d]
   - type: symbol
     normative_status: preferred
-    designation: "<i>U</i><sub>d</sub>"
+    designation: stem:[U_d]
   language_code: eng
   annotations: []
 termid: 17-343

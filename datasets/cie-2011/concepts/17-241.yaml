@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-241
   domains:
@@ -21,9 +20,7 @@ id: e1558c4f-19bf-5a91-a35c-60cb8e3903d6
 ---
 data:
   definition:
-  - content: wavelength of the monochromatic stimulus that, when additively mixed
-      in suitable proportions with the colour stimulus considered, matches the specified
-      achromatic stimulus
+  - content: wavelength of the monochromatic stimulus that, when additively mixed in suitable proportions with the colour stimulus considered, matches the specified achromatic stimulus
     type: intensional
   examples: []
   notes: []
@@ -38,10 +35,10 @@ data:
     designation: complementary wavelength (of a colour stimulus)
   - type: symbol
     normative_status: preferred
-    designation: λc
+    designation: stem:[lambda]c
   - type: symbol
     normative_status: preferred
-    designation: "<i>λ</i><sub>c</sub>"
+    designation: stem:[λ_c]
   language_code: eng
   annotations: []
 termid: 17-241

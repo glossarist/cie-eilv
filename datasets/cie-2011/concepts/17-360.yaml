@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-360
   domains:
@@ -21,15 +20,11 @@ id: 6dc5fd95-4a51-57db-974a-9ec74b1dcf8c
 ---
 data:
   definition:
-  - content: luminous intensity of a source that has a constant output, of the same
-      relative spectral distribution as the flashing light, which would have the same
-      luminous range (or visual range in aviation terminology) as the flashing light
-      under identical conditions of observation
+  - content: luminous intensity of a source that has a constant output, of the same relative spectral distribution as the flashing light, which would have the same luminous range (or visual range in aviation terminology) as the flashing light under identical conditions of observation
     type: intensional
   examples: []
   notes:
-  - content: For practical purposes, a conventional effective intensity may be evaluated
-      for a flashing light from photometric data by an agreed method.
+  - content: For practical purposes, a conventional effective intensity may be evaluated for a flashing light from photometric data by an agreed method.
     type: intensional
   sources:
   - origin:
@@ -42,7 +37,7 @@ data:
     designation: effective intensity (of a flashing light)
   - type: symbol
     normative_status: preferred
-    designation: Ieff
+    designation: stem:[I_eff]
   language_code: eng
   annotations: []
 termid: 17-360

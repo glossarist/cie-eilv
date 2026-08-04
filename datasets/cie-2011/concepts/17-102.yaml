@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-102
   domains:
@@ -21,14 +20,11 @@ id: 482071c5-b0d7-5318-8ca6-17464001d9cc
 ---
 data:
   definition:
-  - content: function representing the relative spectral sensitivity of the human
-      eye to blue light hazards, based upon the relative spectral effectiveness of
-      optical radiation to induce retinal photochemical injury (e.g. photic maculopathy)
+  - content: function representing the relative spectral sensitivity of the human eye to blue light hazards, based upon the relative spectral effectiveness of optical radiation to induce retinal photochemical injury (e.g. photic maculopathy)
     type: intensional
   examples: []
   notes:
-  - content: Specified in ICNIRP-recommendations for <i>λ</i><i></i>= 300 nm to 700
-      nm.
+  - content: Specified in ICNIRP-recommendations for stem:[λ]stem:[]= 300 nm to 700 nm.
     type: intensional
   sources:
   - origin:
@@ -41,11 +37,11 @@ data:
     designation: blue light hazard spectral weighting function
   - type: symbol
     normative_status: preferred
-    designation: B(λ)
+    designation: stem:[B(lambda)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>b</i>(<i>λ</i>)"
+    designation: stem:[b](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-102
-id: '0051349b-8847-5adf-985f-a5fe4400c356'
+id: 0051349b-8847-5adf-985f-a5fe4400c356

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-20
   domains:
@@ -25,9 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The terms "light adaptation" and "dark adaptation" are also used, the
-      former when the luminances of the stimuli are of at least 10 cd·m<sup>-2</sup>,
-      and the latter when the luminances are of less than some hundredths of a cd·m<sup>-2</sup>.
+  - content: The terms "light adaptation" and "dark adaptation" are also used, the former when the luminances of the stimuli are of at least 10 cdcdotm^-2^, and the latter when the luminances are of less than some hundredths of a cdcdotm^-2^.
     type: intensional
   sources:
   - origin:

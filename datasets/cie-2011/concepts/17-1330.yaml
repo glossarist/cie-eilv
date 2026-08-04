@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1330
   domains:
@@ -25,9 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A 3-colour set, with red, yellow/amber and green lights, is the common
-      arrangement for the regulation of vehicular traffic. In French, the term "feu
-      tricolore" is used for such a 3-colour set.
+  - content: A 3-colour set, with red, yellow/amber and green lights, is the common arrangement for the regulation of vehicular traffic. In French, the term "feu tricolore" is used for such a 3-colour set.
     type: intensional
   sources:
   - origin:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: traffic signal
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: traffic light
   - type: expression

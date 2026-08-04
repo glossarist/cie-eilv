@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1170
   domains:
@@ -36,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: shell base (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: shell base
   language_code: eng

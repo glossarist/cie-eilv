@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-879
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: phosphor
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: phosphor
   language_code: eng

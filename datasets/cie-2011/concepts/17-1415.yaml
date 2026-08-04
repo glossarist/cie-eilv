@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1415
   domains:
@@ -21,10 +20,7 @@ id: 9267ab60-3f35-587a-bc1c-a3f0300bab28
 ---
 data:
   definition:
-  - content: measure of spatial discrimination such as the reciprocal of the value
-      of the angular separation in minutes of arc of two neighbouring objects (points
-      or lines or other specified stimuli) which the observer can just perceive to
-      be separate
+  - content: measure of spatial discrimination such as the reciprocal of the value of the angular separation in minutes of arc of two neighbouring objects (points or lines or other specified stimuli) which the observer can just perceive to be separate
     type: intensional
   examples: []
   notes: []
@@ -37,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: visual resolution
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: visual resolution, <quantitatively>
   language_code: eng

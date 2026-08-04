@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-054
   domains:
@@ -36,35 +35,25 @@ id: 3546c688-389c-5d8e-b5c0-60264bb3ccfe
 ---
 data:
   definition:
-  - content: mean value of irradiance on the outer curved surface of a very small
-      (real or imaginary) sphere at a point in space
+  - content: mean value of irradiance on the outer curved surface of a very small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The spherical irradiance can be expressed by
+  - content: 'The spherical irradiance can be expressed by
+
 
       stem:[E_((e,o)) = int_((4 pi)) L_e d omega]
 
-      where stem:[Omega] is solid angle and stem:[L_e] is radiance.
+
+      where stem:[Omega] is solid angle and stem:[L_e] is radiance.'
     type: intensional
-  - content: The spherical irradiance is the quotient of the radiant flux of all the
-      radiation incident on the outer surface of an infinitely small sphere centred
-      at the specified point and the area of the diametrical cross-section of that
-      sphere.
+  - content: The spherical irradiance is the quotient of the radiant flux of all the radiation incident on the outer surface of an infinitely small sphere centred at the specified point and the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities "spherical illuminance", stem:[E_(v,o)], and
-      "photon spherical irradiance", stem:[E_(p,o)], are defined in a similar way,
-      replacing radiance, stem:[L_e], by luminance, stem:[L_v], and photon radiance,
-      stem:[L_p], respectively.
+  - content: The analogous quantities "spherical illuminance", stem:[E_(v,o)], and "photon spherical irradiance", stem:[E_(p,o)], are defined in a similar way, replacing radiance, stem:[L_e], by luminance, stem:[L_v], and photon radiance, stem:[L_p], respectively.
     type: intensional
-  - content: The spherical irradiance is the appropriate radiometric quantity for
-      describing a dose rate for a photobiological or photochemical effect in a scattering
-      medium (e.g. light in skin). The spherical irradiance is also the appropriate
-      quantity for describing the irradiation of microorganisms. The spherical irradiance
-      is frequently used incorrectly as a substitute for irradiance in some publications.
+  - content: The spherical irradiance is the appropriate radiometric quantity for describing a dose rate for a photobiological or photochemical effect in a scattering medium (e.g. light in skin). The spherical irradiance is also the appropriate quantity for describing the irradiation of microorganisms. The spherical irradiance is frequently used incorrectly as a substitute for irradiance in some publications.
     type: intensional
-  - content: The spherical irradiance is expressed in watt per square metre (W·m^−2^).
+  - content: The spherical irradiance is expressed in watt per square metre (Wcdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-40, 845-01-40}} in IEC 60050-845:1987.
     type: intensional
@@ -96,7 +85,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: spherical irradiance
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fluence rate
   language_code: eng

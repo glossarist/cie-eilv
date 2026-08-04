@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-973
   domains:
@@ -21,9 +20,7 @@ id: e3143745-53a6-5c01-90c4-d8cbb720fb3d
 ---
 data:
   definition:
-  - content: piece of metal, usually of cylindrical shape, fixed at the end of the
-      cap so as to engage in the corresponding hole in a lampholder for fixing the
-      cap and/or for making contact
+  - content: piece of metal, usually of cylindrical shape, fixed at the end of the cap so as to engage in the corresponding hole in a lampholder for fixing the cap and/or for making contact
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: post
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: post
   language_code: eng

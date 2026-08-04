@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-46
   domains:
@@ -21,14 +20,11 @@ id: 3effd96d-efeb-5f92-a170-9a1aa569d771
 ---
 data:
   definition:
-  - content: opening that defines the area over which average optical emission is
-      measured
+  - content: opening that defines the area over which average optical emission is measured
     type: intensional
   examples: []
   notes:
-  - content: For spectral irradiance measurements this opening is usually the entrance
-      of a small sphere placed in front of the radiometer/spectroradiometer entrance
-      slit.
+  - content: For spectral irradiance measurements this opening is usually the entrance of a small sphere placed in front of the radiometer/spectroradiometer entrance slit.
     type: intensional
   sources:
   - origin:
@@ -39,12 +35,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: aperture
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: aperture stop
   - type: expression
     normative_status: admitted
-    designation: "{{17-49, aperture stop}}"
+    designation: '{{17-49, aperture stop}}'
   language_code: eng
   annotations: []
 termid: 17-46

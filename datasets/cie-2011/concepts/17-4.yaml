@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-4
   domains:
@@ -21,8 +20,7 @@ id: b23e207f-73d3-50e0-9abc-bc8e43bcf216
 ---
 data:
   definition:
-  - content: thermal detector of optical radiation that can compare radiant flux directly
-      with electric power
+  - content: thermal detector of optical radiation that can compare radiant flux directly with electric power
     type: intensional
   examples: []
   notes: []
@@ -35,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: absolute thermal detector
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: self-calibrating thermal detector
   - type: expression
     normative_status: admitted
-    designation: "{{17-1157, self-calibrating thermal detector}}"
+    designation: '{{17-1157, self-calibrating thermal detector}}'
   language_code: eng
   annotations: []
 termid: 17-4

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1354
   domains:
@@ -25,8 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This type of lamp is particularly used as a standard in pyrometry and
-      spectral radiometry.
+  - content: This type of lamp is particularly used as a standard in pyrometry and spectral radiometry.
     type: intensional
   sources:
   - origin:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: tungsten ribbon lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: strip lamp, US
   language_code: eng

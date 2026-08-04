@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1204
   domains:
@@ -21,8 +20,7 @@ id: 258327c5-2dfe-5bea-b01a-bdc4d65c4e86
 ---
 data:
   definition:
-  - content: presentation, by means of curves or tables, of the values of the luminous
-      intensity of a source as a function of direction in space
+  - content: presentation, by means of curves or tables, of the values of the luminous intensity of a source as a function of direction in space
     type: intensional
   examples: []
   notes: []
@@ -34,8 +32,8 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "(spatial) distribution of luminous intensity (of a source)"
-  - type: symbol
+    designation: (spatial) distribution of luminous intensity (of a source)
+  - type: expression
     normative_status: preferred
     designation: distribution of luminous intensity
   language_code: eng

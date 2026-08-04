@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1324
   domains:
@@ -21,9 +20,7 @@ id: 95f21965-6f9f-52c9-b50e-9d638fb85e55
 ---
 data:
   definition:
-  - content: quotient of the vertical optical thickness of a turbid atmosphere and
-      the vertical optical thickness of the pure and dry atmosphere (Rayleigh atmosphere),
-      related to the whole solar spectrum
+  - content: quotient of the vertical optical thickness of a turbid atmosphere and the vertical optical thickness of the pure and dry atmosphere (Rayleigh atmosphere), related to the whole solar spectrum
     type: intensional
   examples: []
   notes: []
@@ -36,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: total turbidity factor (according to Linke)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: total turbidity factor
   - type: symbol
     normative_status: preferred
-    designation: "<i>T</i><sub>L</sub>"
+    designation: stem:[T_L]
   language_code: eng
   annotations: []
 termid: 17-1324

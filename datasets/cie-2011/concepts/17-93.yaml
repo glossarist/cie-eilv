@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-93
   domains:
@@ -21,8 +20,7 @@ id: c702ab07-805f-5bea-99d3-a46332db65b3
 ---
 data:
   definition:
-  - content: ideal thermal radiator that absorbs completely all incident radiation,
-      whatever the wavelength, the direction of incidence or the polarization
+  - content: ideal thermal radiator that absorbs completely all incident radiation, whatever the wavelength, the direction of incidence or the polarization
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: blackbody
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blackbody
   language_code: eng

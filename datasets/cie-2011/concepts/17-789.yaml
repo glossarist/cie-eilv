@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-789
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: monochromatic stimulus
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectral stimulus
   - type: expression

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-363
   domains:
@@ -21,18 +20,15 @@ id: d7a2a925-a20c-5b33-8613-12059fdaa177
 ---
 data:
   definition:
-  - content: irradiation or measurement of reflecting materials at 8° to the normal,
-      at one azimuth angle
+  - content: irradiation or measurement of reflecting materials at 8° to the normal, at one azimuth angle
     type: intensional
   examples: []
   notes:
-  - content: This geometry is used to substitute the 0° directional geometry in many
-      practical applications of reflection measurements, as it permits differentiation
-      between specular component included and excluded measurements.
+  - content: This geometry is used to substitute the 0° directional geometry in many practical applications of reflection measurements, as it permits differentiation between specular component included and excluded measurements.
     type: intensional
-  - content: |-
-      This geometry is restricted to measurements using an integrating sphere as described in CIE 15 <i>Colorimetry</i>.
-      See also CIE 15 <i>Colorimetry</i>(section 5)
+  - content: 'This geometry is restricted to measurements using an integrating sphere as described in CIE 15 stem:[Colorimetry].
+
+      See also CIE 15 stem:[Colorimetry](section 5)'
     type: intensional
   sources:
   - origin:

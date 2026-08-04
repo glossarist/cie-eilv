@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-637
   domains:
@@ -17,12 +16,11 @@ sources:
     link: https://web.archive.org/web/20190820114639/http://eilv.cie.co.at/term/637
   type: authoritative
 status: valid
-id: '09bdfc07-715d-503c-96b7-54afc6cbede2'
+id: 09bdfc07-715d-503c-96b7-54afc6cbede2
 ---
 data:
   definition:
-  - content: fraction of the total number of lamps which continue to operate at a
-      given instant under defined conditions and the switching frequency
+  - content: fraction of the total number of lamps which continue to operate at a given instant under defined conditions and the switching frequency
     type: intensional
   examples: []
   notes: []
@@ -40,7 +38,7 @@ data:
     designation: LSF
   - type: symbol
     normative_status: preferred
-    designation: "<i>f</i><sub>LS</sub>"
+    designation: stem:[f_LS]
   language_code: eng
   annotations: []
 termid: 17-637

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-071
   domains:
@@ -28,24 +27,21 @@ id: ede6eb3b-ad36-5ee3-ba2d-14509f878fa2
 ---
 data:
   definition:
-  - content: |-
-      density of incident radiant energy with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident radiant energy with respect to area at a point on a real or imaginary surface
+
 
       stem:[H_e = ((d Q_e))/((d A))]
 
-      where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident
+
+      where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident'
     type: intensional
   examples: []
   notes:
-  - content: The quantity "radiant exposure" defined here must not be confused with
-      the quantity named "exposure" which is used in the field of X- and γ-rays, the
-      unit of which is coulomb per kilogram (C·kg^−1^).
+  - content: The quantity "radiant exposure" defined here must not be confused with the quantity named "exposure" which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram (Ccdotkg^−1^).
     type: intensional
-  - content: The corresponding photometric quantity is "luminous exposure". The corresponding
-      quantity for photons is "photon exposure".
+  - content: The corresponding photometric quantity is "luminous exposure". The corresponding quantity for photons is "photon exposure".
     type: intensional
-  - content: The radiant exposure is expressed in joule per square metre (J·m^−2^ =
-      W·s·m^−2^).
+  - content: The radiant exposure is expressed in joule per square metre (Jcdotm^−2^ = Wcdotscdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-42, 845-01-42}} in IEC 60050-845:1987.
     type: intensional
@@ -79,7 +75,7 @@ data:
     designation: radiant exposure
   - type: symbol
     normative_status: preferred
-    designation: He; H
+    designation: stem:[H_e]
   language_code: eng
   annotations: []
 termid: 17-21-071

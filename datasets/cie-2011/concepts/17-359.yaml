@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-359
   domains:
@@ -25,10 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This definition implies that an action spectrum is adopted for the actinic
-      effect considered, and that its maximum value is 1. When giving a quantitative
-      amount, it is essential to specify according to which actinic action spectrum
-      the dose is meant, as the unit is the same.
+  - content: This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the dose is meant, as the unit is the same.
     type: intensional
   sources:
   - origin:
@@ -41,10 +37,10 @@ data:
     designation: effective dose
   - type: symbol
     normative_status: preferred
-    designation: Heff
+    designation: stem:[H_eff]
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>eff</sub>"
+    designation: stem:[H_eff]
   language_code: eng
   annotations: []
 termid: 17-359

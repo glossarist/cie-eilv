@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-188
   domains:
@@ -17,7 +16,7 @@ sources:
     link: https://web.archive.org/web/20150426195658/http://eilv.cie.co.at/term/188
   type: authoritative
 status: valid
-id: '0359e333-f51c-554f-9327-5d81e6371825'
+id: 0359e333-f51c-554f-9327-5d81e6371825
 ---
 data:
   definition:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: cold start lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: instant-start lamp
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-681
   domains:
@@ -21,9 +20,7 @@ id: ec9c0412-7545-50eb-bc02-5383d251362e
 ---
 data:
   definition:
-  - content: vessel designed to carry a signal light of high luminous intensity, and
-      moored or anchored at a designated geographical location to assist maritime
-      navigation
+  - content: vessel designed to carry a signal light of high luminous intensity, and moored or anchored at a designated geographical location to assist maritime navigation
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lightship
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: lightship
   - type: expression

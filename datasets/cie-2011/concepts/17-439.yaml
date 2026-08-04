@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-439
   domains:
@@ -21,13 +20,11 @@ id: 20563eef-4a76-5bac-98d2-e98bc319fe7e
 ---
 data:
   definition:
-  - content: discharge lamp to be operated with an electronic equipment in order to
-      give a high light output for a very brief period, capable of repetition
+  - content: discharge lamp to be operated with an electronic equipment in order to give a high light output for a very brief period, capable of repetition
     type: intensional
   examples: []
   notes:
-  - content: This type of lamp may be used for lighting objects to be photographed,
-      for stroboscopic observation, or for signalling purposes.
+  - content: This type of lamp may be used for lighting objects to be photographed, for stroboscopic observation, or for signalling purposes.
     type: intensional
   sources:
   - origin:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: flash tube
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: electronic-flash lamp
   - type: expression
@@ -47,4 +44,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-439
-id: '08595225-249d-53be-aa15-2bf8d138c0fb'
+id: 08595225-249d-53be-aa15-2bf8d138c0fb

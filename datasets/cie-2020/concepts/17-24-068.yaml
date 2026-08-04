@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-068
   domains:
@@ -28,13 +27,11 @@ id: 0fd9a3e0-9de0-55d2-8a4b-b9894732cedb
 ---
 data:
   definition:
-  - content: quotient of the diffusely reflected part of the (whole) reflected flux
-      and the incident flux
+  - content: quotient of the diffusely reflected part of the (whole) reflected flux and the incident flux
     type: intensional
   examples: []
   notes:
-  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r],
-      and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The diffuse reflectance has unit one.
     type: intensional
@@ -70,7 +67,7 @@ data:
     designation: diffuse reflectance
   - type: symbol
     normative_status: preferred
-    designation: ρd
+    designation: stem:[rho]d
   language_code: eng
   annotations: []
 termid: 17-24-068

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-090
   domains:
@@ -32,10 +31,10 @@ id: d693a77a-f4c5-57ee-bdb9-7a3d0b9ee232
 ---
 data:
   definition:
-  - content: |-
-      logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
+  - content: 'logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
 
-      stem:[A_i](stem:[lambda]) = −log~10~ stem:[tau_i](stem:[lambda])
+
+      stem:[A_i](stem:[lambda]) = −log~10~ stem:[tau_i](stem:[lambda])'
     type: intensional
   examples: []
   notes:
@@ -72,7 +71,7 @@ data:
     normative_status: preferred
     designation: spectral absorbance
     usage_info: of a homogeneous non-diffusing layer
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectral internal transmittance density
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1363
   domains:
@@ -21,13 +20,11 @@ id: a761ab47-8d94-572d-92b0-004d8bb6788b
 ---
 data:
   definition:
-  - content: weighting function that combines the normalized spectral sensitivities
-      of the human eye and skin to ultraviolet radiation for radiation protection
-      purposes
+  - content: weighting function that combines the normalized spectral sensitivities of the human eye and skin to ultraviolet radiation for radiation protection purposes
     type: intensional
   examples: []
   notes:
-  - content: Specified in ICNIRP-recommendations for <i>λ</i>= 180 nm to 400 nm.
+  - content: Specified in ICNIRP-recommendations for stem:[λ]= 180 nm to 400 nm.
     type: intensional
   sources:
   - origin:
@@ -40,10 +37,10 @@ data:
     designation: ultraviolet hazard spectral weighting function
   - type: symbol
     normative_status: preferred
-    designation: SUV(λ); S(λ)
+    designation: SUstem:[V(lambda)]; stem:[S(lambda)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>s</i>(<i>λ</i>)"
+    designation: stem:[s](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1363

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1315
   domains:
@@ -21,8 +20,7 @@ id: a6900f05-0cfc-5505-a1c7-334eb4856004
 ---
 data:
   definition:
-  - content: average road surface luminance at a specific location in the threshold
-      zone
+  - content: average road surface luminance at a specific location in the threshold zone
     type: intensional
   examples: []
   notes: []
@@ -34,14 +32,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: threshold zone luminance (at a specific location in the threshold
-      zone)
+    designation: threshold zone luminance (at a specific location in the threshold zone)
   - type: symbol
     normative_status: preferred
-    designation: Lth
+    designation: stem:[L_th]
   - type: symbol
     normative_status: preferred
-    designation: "<i>L</i><sub>th</sub>"
+    designation: stem:[L_th]
   language_code: eng
   annotations: []
 termid: 17-1315

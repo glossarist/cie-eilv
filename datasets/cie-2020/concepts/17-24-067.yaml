@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-067
   domains:
@@ -28,13 +27,11 @@ id: 68d05ace-3478-5ce3-aed4-18e65803e415
 ---
 data:
   definition:
-  - content: quotient of the regularly transmitted part of the (whole) transmitted
-      flux and the incident flux
+  - content: quotient of the regularly transmitted part of the (whole) transmitted flux and the incident flux
     type: intensional
   examples: []
   notes:
-  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r],
-      and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   - content: The regular transmittance has unit one.
     type: intensional
@@ -70,7 +67,7 @@ data:
     designation: regular transmittance
   - type: symbol
     normative_status: preferred
-    designation: τr
+    designation: stem:[tau]r
   language_code: eng
   annotations: []
 termid: 17-24-067

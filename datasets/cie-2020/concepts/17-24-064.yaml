@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-064
   domains:
@@ -28,22 +27,18 @@ id: 6a7c3a34-ffd0-51eb-a380-2af482c9c7b8
 ---
 data:
   definition:
-  - content: |-
-      quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
 
-      stem:[rho = ((Phi_r))/((Phi_m))]
+
+      stem:[rho = ((Phi_r))/((Phi_m))]'
     type: intensional
   examples: []
   notes:
-  - content: Reflectance is also defined spectrally in terms of wavelength, in which
-      case, "spectral" is added before the quantity name.
+  - content: Reflectance is also defined spectrally in terms of wavelength, in which case, "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] =
-      1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed,
-      where stem:[alpha] is absorptance and stem:[tau] is transmittance.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[alpha] is absorptance and stem:[tau] is transmittance.
     type: intensional
-  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r],
-      and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The reflectance has unit one.
     type: intensional
@@ -79,7 +74,7 @@ data:
     designation: reflectance
   - type: symbol
     normative_status: preferred
-    designation: ρ
+    designation: stem:[rho]
   language_code: eng
   annotations: []
 termid: 17-24-064

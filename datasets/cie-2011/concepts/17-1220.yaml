@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1220
   domains:
@@ -21,10 +20,10 @@ id: fdb52da9-db21-535c-80ef-cb881517d0ef
 ---
 data:
   definition:
-  - content: |-
-      relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
+  - content: 'relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
 
-      stem:[mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]
+
+      stem:[mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]'
     type: intensional
   examples: []
   notes: []
@@ -36,14 +35,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: spectral linear attenuation coefficient (at a point in an absorbing
-      and scattering medium, for a collimated beam of radiation)
+    designation: spectral linear attenuation coefficient (at a point in an absorbing and scattering medium, for a collimated beam of radiation)
   - type: symbol
     normative_status: preferred
-    designation: μ(λ)
+    designation: stem:[mu](stem:[lambda])
   - type: symbol
     normative_status: preferred
-    designation: "<i>µ</i>(<i>λ</i>)"
+    designation: stem:[µ](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1220

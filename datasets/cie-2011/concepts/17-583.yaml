@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-583
   domains:
@@ -21,8 +20,7 @@ id: d9652e23-f0d9-54ae-b902-075147204a23
 ---
 data:
   definition:
-  - content: average luminance of a specified surface when the lighting installation
-      is new
+  - content: average luminance of a specified surface when the lighting installation is new
     type: intensional
   examples: []
   notes: []
@@ -37,8 +35,8 @@ data:
     designation: initial average luminance
   - type: symbol
     normative_status: preferred
-    designation: Lv,av,i; ; Lav,i;
+    designation: stem:[L_(v,av,i)]
   language_code: eng
   annotations: []
 termid: 17-583
-id: '0749d9dc-4aa2-5134-b122-0d66ed933d4e'
+id: 0749d9dc-4aa2-5134-b122-0d66ed933d4e

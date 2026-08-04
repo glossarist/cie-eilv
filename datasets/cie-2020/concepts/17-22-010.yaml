@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-010
   domains:
@@ -21,18 +20,13 @@ id: 1a282a0e-2d79-5ad2-90af-c8267382c2f0
 ---
 data:
   definition:
-  - content: product of the luminance in a specified direction and the apparent area
-      of the pupil (natural or artificial) seen from that direction
+  - content: product of the luminance in a specified direction and the apparent area of the pupil (natural or artificial) seen from that direction
     type: intensional
   examples: []
   notes:
-  - content: Conventional retinal illuminance applies to situations where the eye
-      is viewing a surface of uniform luminance larger than the area of the natural
-      or artificial pupil.
+  - content: Conventional retinal illuminance applies to situations where the eye is viewing a surface of uniform luminance larger than the area of the natural or artificial pupil.
     type: intensional
-  - content: The conventional retinal illuminance is expressed in candela (cd), candela
-      per square metre times square millimetre (cd·m^−2^·mm^2^), or {{concept:cie-2020:17-22-038,
-      troland}}.
+  - content: The conventional retinal illuminance is expressed in candela (cd), candela per square metre times square millimetre (cdcdotm^−2^cdotmm^2^), or {{concept:cie-2020:17-22-038, troland}}.
     type: intensional
   - content: This entry was numbered 17-256 in CIE S 017:2011.
     type: intensional

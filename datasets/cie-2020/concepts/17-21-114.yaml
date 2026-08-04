@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-114
   domains:
@@ -12,23 +11,17 @@ sources:
     link: https://cie.co.at/eilvterm/17-21-114
   type: authoritative
 status: valid
-id: '084260a7-898b-50cf-a216-7ac6d7c48a9c'
+id: 084260a7-898b-50cf-a216-7ac6d7c48a9c
 ---
 data:
   definition:
-  - content: illuminance averaged over a circular aperture of 100 mm² area normal
-      to the LED's mechanical axis at a distance of 100 mm for CIE Standard Condition
-      A or 316 mm for CIE Standard Condition B from the tip of the LED, multiplied
-      by the square of the distance and divided by a unit solid angle
+  - content: illuminance averaged over a circular aperture of 100 mm^2^ area normal to the LED's mechanical axis at a distance of 100 mm for CIE Standard Condition A or 316 mm for CIE Standard Condition B from the tip of the LED, multiplied by the square of the distance and divided by a unit solid angle
     type: intensional
   examples: []
   notes:
-  - content: A detailed method of measurement is given in CIE 127, _Measurement of
-      LEDs_.
+  - content: A detailed method of measurement is given in CIE 127, _Measurement of LEDs_.
     type: intensional
-  - content: The geometric conditions CIE Standard Condition A and CIE Standard Condition
-      B, which correspond to symbols stem:[I_(LED,A)] and stem:[I_(LED,B)] respectively,
-      are defined in CIE 127, _Measurement of LEDs_.
+  - content: The geometric conditions CIE Standard Condition A and CIE Standard Condition B, which correspond to symbols stem:[I_(LED,A)] and stem:[I_(LED,B)] respectively, are defined in CIE 127, _Measurement of LEDs_.
     type: intensional
   - content: The averaged LED intensity is expressed in candela (cd).
     type: intensional

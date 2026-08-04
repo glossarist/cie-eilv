@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-40
   domains:
@@ -34,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: angle of incidence
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: incidence angle
   - type: symbol
     normative_status: preferred
-    designation: "<i>ε</i>"
+    designation: stem:[ε]
   language_code: eng
   annotations: []
 termid: 17-40

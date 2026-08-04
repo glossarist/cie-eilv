@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-763
   domains:
@@ -21,14 +20,13 @@ id: 80378d51-4b7f-54db-aaa6-3bc343ffd83a
 ---
 data:
   definition:
-  - content: vision by the normal eye, intermediate between photopic vision and scotopic
-      vision
+  - content: vision by the normal eye, intermediate between photopic vision and scotopic vision
     type: intensional
   examples: []
   notes:
-  - content: |-
-      In mesopic vision, both the cones and the rods are active.
-      See also CIE 191:2010 <i>Recommended System for Mesopic Photometry based on Visual Performance</i>
+  - content: 'In mesopic vision, both the cones and the rods are active.
+
+      See also CIE 191:2010 stem:[Recommended System for Mesopic Photometry based on Visual Performance]'
     type: intensional
   sources:
   - origin:

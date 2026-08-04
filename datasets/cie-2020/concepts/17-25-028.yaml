@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-028
   domains:
@@ -32,21 +31,13 @@ id: a4e4c842-6cad-519b-9d58-ca9f203da9c1
 ---
 data:
   definition:
-  - content: hollow sphere, the interior of which is formed from, or coated with,
-      a diffusely-reflecting material that is as spectrally neutral and as spatially
-      uniform as possible
+  - content: hollow sphere, the interior of which is formed from, or coated with, a diffusely-reflecting material that is as spectrally neutral and as spatially uniform as possible
     type: intensional
   examples: []
   notes:
-  - content: Owing to the internal reflections within the sphere, the illuminance
-      on any part of the inside surface of the sphere for which the direct flux is
-      hidden is theoretically proportional to the luminous flux entering the sphere
-      or produced inside the sphere. The illuminance of the internal sphere wall can
-      be measured via a small window.
+  - content: Owing to the internal reflections within the sphere, the illuminance on any part of the inside surface of the sphere for which the direct flux is hidden is theoretically proportional to the luminous flux entering the sphere or produced inside the sphere. The illuminance of the internal sphere wall can be measured via a small window.
     type: intensional
-  - content: The window of an integrating sphere is often used in radiometric measurement
-      systems to provide a source with good spatial uniformity and with an angular
-      distribution of radiance or luminance that is close to Lambert's cosine law.
+  - content: The window of an integrating sphere is often used in radiometric measurement systems to provide a source with good spatial uniformity and with an angular distribution of radiance or luminance that is close to Lambert's cosine law.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-05-24, 845-05-24}} in IEC 60050-845:1987.
     type: intensional
@@ -78,7 +69,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: integrating sphere
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: Ulbricht sphere
   language_code: eng

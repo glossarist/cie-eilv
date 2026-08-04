@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1255
   domains:
@@ -25,11 +24,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: |-
-      standard erythema dose (SED) is equivalent to an erythemal radiant exposure of 100 J·m<sup>-2</sup>.
+  - content: 'standard erythema dose (SED) is equivalent to an erythemal radiant exposure of 100 Jcdotm^-2^.
+
       See also “{{17-782, minimal erythema dose}}”
-      See also ISO 17166:1999(E)/CIE S 007/E-1998 <i>Erythema Reference Action Spectrum and Standard Erythema Dose</i>
-      Abbreviation: “SED”
+
+      See also ISO 17166:1999(E)/CIE S 007/E-1998 stem:[Erythema Reference Action Spectrum and Standard Erythema Dose]
+
+      Abbreviation: “SED”'
     type: intensional
   sources:
   - origin:
@@ -46,4 +47,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-1255
-id: '06419b50-efb5-57c0-95e3-1b028b393423'
+id: 06419b50-efb5-57c0-95e3-1b028b393423

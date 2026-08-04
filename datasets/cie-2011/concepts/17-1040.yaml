@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1040
   domains:
@@ -21,13 +20,11 @@ id: 5479904e-2f9e-5340-89b2-8eb1154f4fd9
 ---
 data:
   definition:
-  - content: signal light carried on a vehicle to indicate its location when it is
-      viewed from the back
+  - content: signal light carried on a vehicle to indicate its location when it is viewed from the back
     type: intensional
   examples: []
   notes:
-  - content: A rear position light may also, particularly if paired with an identical
-      light, provide an indication of the width of the vehicle.
+  - content: A rear position light may also, particularly if paired with an identical light, provide an indication of the width of the vehicle.
     type: intensional
   sources:
   - origin:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: rear position light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: tail-light
   - type: expression

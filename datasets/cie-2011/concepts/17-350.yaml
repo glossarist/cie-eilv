@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-350
   domains:
@@ -21,8 +20,7 @@ id: 746fdff2-f981-5225-bcac-c2d1a9a3458c
 ---
 data:
   definition:
-  - content: cumulative flux for the solid angle 2π sr, below the horizontal plane
-      passing through the light source
+  - content: cumulative flux for the solid angle 2stem:[pi] sr, below the horizontal plane passing through the light source
     type: intensional
   examples: []
   notes: []

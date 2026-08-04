@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-404
   domains:
@@ -21,12 +20,13 @@ id: ce8b2525-5806-5680-9698-fa82e1394e75
 ---
 data:
   definition:
-  - content: |-
-      time integral of erythemal irradiance
+  - content: 'time integral of erythemal irradiance
+
 
       stem:[H_((er)) = int int E_(lambda) ( lambda , t ) s_((er)) ( lambda ) d lambda d t]
 
-      where stem:[Elambda](stem:[lambda], stem:[t]) is spectral irradiance and stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function normalized to 1 at its maximum
+
+      where stem:[Elambda](stem:[lambda], stem:[t]) is spectral irradiance and stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function normalized to 1 at its maximum'
     type: intensional
   examples: []
   notes: []
@@ -39,12 +39,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: erythemal radiant exposure
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: erythemal radiant exposure
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>er</sub>"
+    designation: stem:[H_er]
   language_code: eng
   annotations: []
 termid: 17-404

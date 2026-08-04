@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-325
   domains:
@@ -21,8 +20,7 @@ id: 366ad0b4-1875-5671-81c3-02b3ffbdb6e0
 ---
 data:
   definition:
-  - content: signal light, one of a set, carried on a vehicle to indicate an intended,
-      or actual, movement by the vehicle to the left or the right
+  - content: signal light, one of a set, carried on a vehicle to indicate an intended, or actual, movement by the vehicle to the left or the right
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: direction-indicator light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: turn-signal light
   language_code: eng

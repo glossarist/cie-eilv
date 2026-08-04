@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1144
   domains:
@@ -21,8 +20,7 @@ id: b74428d5-57e5-5ce9-b849-b32a495fc1a9
 ---
 data:
   definition:
-  - content: cap having its shell in the form of a screw thread which engages the
-      lampholder
+  - content: cap having its shell in the form of a screw thread which engages the lampholder
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: screw cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: screw base
   language_code: eng

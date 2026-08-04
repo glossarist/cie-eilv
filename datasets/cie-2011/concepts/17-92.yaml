@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-92
   domains:
@@ -21,8 +20,7 @@ id: 7ac89706-1689-5550-97f8-cad2bc265e64
 ---
 data:
   definition:
-  - content: electric lamp designed to emit UV-A radiation and very little visible
-      radiation
+  - content: electric lamp designed to emit UV-A radiation and very little visible radiation
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: black light lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blacklight lamp
   - type: expression

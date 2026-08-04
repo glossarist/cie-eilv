@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-119
   domains:
@@ -21,21 +20,13 @@ id: e57d7bd6-ac59-595d-bbd8-7a58f1643fde
 ---
 data:
   definition:
-  - content: part of an electric lamp which provides connection to the power supply
-      by means of a lampholder or lamp connector and, in most cases, also serves to
-      retain the electric lamp in the lampholder
+  - content: part of an electric lamp which provides connection to the power supply by means of a lampholder or lamp connector and, in most cases, also serves to retain the electric lamp in the lampholder
     type: intensional
   examples: []
   notes:
-  - content: The term "base" is used in both outside and in the US to denote an integral
-      part of a lamp envelope which has been shaped so that it fulfils the function
-      of a cap. It may engage also either a holder or a connector, depending on other
-      design features of the lamp-and-holder system.
+  - content: The term "base" is used in both outside and in the US to denote an integral part of a lamp envelope which has been shaped so that it fulfils the function of a cap. It may engage also either a holder or a connector, depending on other design features of the lamp-and-holder system.
     type: intensional
-  - content: The cap of a lamp and its corresponding holder are generally identified
-      by one or more letters followed by a number which indicates approximately the
-      principal dimension (generally the diameter) of the cap in millimetres. The
-      standard code is to be found in IEC Publication 60061.
+  - content: The cap of a lamp and its corresponding holder are generally identified by one or more letters followed by a number which indicates approximately the principal dimension (generally the diameter) of the cap in millimetres. The standard code is to be found in IEC Publication 60061.
     type: intensional
   sources:
   - origin:
@@ -46,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: base
   language_code: eng

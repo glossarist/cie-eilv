@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1007
   domains:
@@ -21,8 +20,7 @@ id: 9aa476c7-55ca-5c0d-ad67-fd843140fefb
 ---
 data:
   definition:
-  - content: energy of electromagnetic waves weighted by the spectral luminous efficiency
-      multiplied by maximum luminous efficacy of a specified photometric condition
+  - content: energy of electromagnetic waves weighted by the spectral luminous efficiency multiplied by maximum luminous efficacy of a specified photometric condition
     type: intensional
   examples: []
   notes: []
@@ -40,7 +38,7 @@ data:
     designation: 'DEPRECATED: quantity of light'
   - type: symbol
     normative_status: preferred
-    designation: "<i>Q</i><sub>v</sub>; <i>Q</i>"
+    designation: stem:[Q_v]; stem:[Q]
   language_code: eng
   annotations: []
 termid: 17-1007

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1278
   domains:
@@ -21,18 +20,17 @@ id: 4c1fe2d3-b8f0-57df-ae25-486978818dde
 ---
 data:
   definition:
-  - content: factor describing the protective quality of a sunscreen against solar
-      ultraviolet radiation, normally determined by in vivo testing
+  - content: factor describing the protective quality of a sunscreen against solar ultraviolet radiation, normally determined by in vivo testing
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The sun protection factor is determined by comparing the dose of solar simulated ultraviolet radiation required to produce just-perceptible erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (<i>F</i><sub>MED,f</sub> and <i>F</i><sub>MED,i</sub>, respectively) and is calculated as follows:
-      <i>F</i><sub>SP</sub>= <i>F</i><sub>MED,f</sub> / <i>F</i><sub>MED,i</sub>.
+  - content: 'The sun protection factor is determined by comparing the dose of solar simulated ultraviolet radiation required to produce just-perceptible erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (stem:[F_MED,f] and stem:[F_MED,i], respectively) and is calculated as follows:
+
+      stem:[F_SP]= stem:[F_MED,f] / stem:[F_MED,i].'
     type: intensional
-  - content: |-
-      The sun protection factor may also be determined by equivalent in vitro methods.
-      Abbreviation: "SPF"
+  - content: 'The sun protection factor may also be determined by equivalent in vitro methods.
+
+      Abbreviation: "SPF"'
     type: intensional
   sources:
   - origin:
@@ -48,7 +46,7 @@ data:
     designation: SPF
   - type: symbol
     normative_status: preferred
-    designation: F</i><sub>SP</sub>
+    designation: stem:[F_SP]
   language_code: eng
   annotations: []
 termid: 17-1278

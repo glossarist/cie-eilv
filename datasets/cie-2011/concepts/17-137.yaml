@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-137
   domains:
@@ -21,8 +20,7 @@ id: afdebf91-941d-5718-b2f6-dc5fcbd7f10d
 ---
 data:
   definition:
-  - content: distinctive rhythm and colour, or colours, of a light signal that provide
-      the identification or a message
+  - content: distinctive rhythm and colour, or colours, of a light signal that provide the identification or a message
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: characteristic (of a light signal) (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: characteristic, <of a light signal>
   language_code: eng

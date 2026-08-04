@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-888
   domains:
@@ -36,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photocataractogenesis
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: ultraviolet photocataractogenesis
   language_code: eng

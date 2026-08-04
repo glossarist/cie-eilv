@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1199
   domains:
@@ -21,14 +20,13 @@ id: 23dac94f-2515-50e0-b91e-69659da50c3f
 ---
 data:
   definition:
-  - content: quotient of the quantity of heat penetrating into an interior through
-      the glazing and the solar radiant energy incident on that glazing
+  - content: quotient of the quantity of heat penetrating into an interior through the glazing and the solar radiant energy incident on that glazing
     type: intensional
   examples: []
   notes:
-  - content: |-
-      This ratio is the sum of 2 quantities: the radiant transmittance, <i>τ</i><sub>e</sub>, of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, <i>Q</i><sub>2</sub>, to the solar radiant energy, <i>Q</i><sub>1</sub>, incident on the glazing:
-      <i>g</i> = <i>τ</i><sub>e</sub> + <i>Q</i><sub>2</sub>/ <i>Q</i><sub>1</sub>.
+  - content: 'This ratio is the sum of 2 quantities: the radiant transmittance, stem:[τ_e], of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], to the solar radiant energy, stem:[Q_1], incident on the glazing:
+
+      stem:[g] = stem:[τ_e] + stem:[Q_2]/ stem:[Q_1].'
     type: intensional
   sources:
   - origin:
@@ -39,12 +37,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: solar factor (of glazing material)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: total transmittance, <of glazing material>
   - type: symbol
     normative_status: preferred
-    designation: "<i>g</i>"
+    designation: stem:[g]
   - type: expression
     normative_status: admitted
     designation: total (energy) transmittance

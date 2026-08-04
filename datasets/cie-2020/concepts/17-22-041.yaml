@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-041
   domains:
@@ -42,7 +41,7 @@ data:
     normative_status: preferred
     designation: colour difference
     usage_info: perceptual
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: perceived colour difference
   language_code: eng

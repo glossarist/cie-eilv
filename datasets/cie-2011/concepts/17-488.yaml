@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-488
   domains:
@@ -21,10 +20,7 @@ id: b22d97cc-f5ac-5d19-86d1-68a3dd446175
 ---
 data:
   definition:
-  - content: greatest distance at which an object or a light source could be seen
-      under conditions of perfect visibility, as limited only by the curvature of
-      the Earth, by refraction in the atmosphere, and by the heights of the observer
-      and the object or light source
+  - content: greatest distance at which an object or a light source could be seen under conditions of perfect visibility, as limited only by the curvature of the Earth, by refraction in the atmosphere, and by the heights of the observer and the object or light source
     type: intensional
   examples: []
   notes: []
@@ -37,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: geographical range
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: geographic range
   language_code: eng

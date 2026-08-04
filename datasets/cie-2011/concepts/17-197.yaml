@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-197
   domains:
@@ -21,18 +20,13 @@ id: 70182c09-378b-578f-8f75-eb7c1368ec83
 ---
 data:
   definition:
-  - content: specification of a colour stimulus in terms of operationally defined
-      values, such as three tristimulus values
+  - content: specification of a colour stimulus in terms of operationally defined values, such as three tristimulus values
     type: intensional
   examples: []
   notes:
-  - content: When the meaning is clear from the context the term "colour" can be used
-      alone.
+  - content: When the meaning is clear from the context the term "colour" can be used alone.
     type: intensional
-  - content: In German "Farbe" is often used instead of "Farbempfindung". The use
-      of "Farbe" in the sense of "Farbvalenz" should be avoided. It is only when the
-      sense is obvious from the context, or when "Farbempfindung" and "Farbvalenz"
-      are equally suitable, that "Farbe" may be used in the sense of "Farbvalenz".
+  - content: In German "Farbe" is often used instead of "Farbempfindung". The use of "Farbe" in the sense of "Farbvalenz" should be avoided. It is only when the sense is obvious from the context, or when "Farbempfindung" and "Farbvalenz" are equally suitable, that "Farbe" may be used in the sense of "Farbvalenz".
     type: intensional
   sources:
   - origin:
@@ -43,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: colour
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: color, <psychophysical> US
   language_code: eng

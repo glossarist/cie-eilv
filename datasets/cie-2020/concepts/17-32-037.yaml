@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-037
   domains:
@@ -28,15 +27,11 @@ id: 16816e74-6881-546e-ae34-0fb74c835963
 ---
 data:
   definition:
-  - content: display technology that modulates the light from a backlight to make
-      a grey scale image and uses red, green, and blue colour filters to make a colour
-      image
+  - content: display technology that modulates the light from a backlight to make a grey scale image and uses red, green, and blue colour filters to make a colour image
     type: intensional
   examples: []
   notes:
-  - content: The modulator consists of a liquid crystal layer that can change the
-      polarization of the light and two (in most cases crossed) polarizers that block
-      the light from the backlight in the off state.
+  - content: The modulator consists of a liquid crystal layer that can change the polarization of the light and two (in most cases crossed) polarizers that block the light from the backlight in the off state.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-99, 845-04-99}} in IEC 60050-845:1987.
     type: intensional
@@ -68,7 +63,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: LCD
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: liquid crystal display
   language_code: eng

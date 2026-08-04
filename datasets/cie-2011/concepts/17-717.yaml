@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-717
   domains:
@@ -21,16 +20,16 @@ id: 7f70ab70-3f55-56a8-9de6-25c987f825e7
 ---
 data:
   definition:
-  - content: |-
-      quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
+  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
 
-      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]
+
+      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, <i>β</i><sub>v,R</sub>, and the luminescent luminance factor, <i>β</i><sub>v,L</sub>. The sum of the reflected and luminescent luminance factors is the total luminance factor, <i>β</i><sub>v,T</sub>: <i>β</i><sub>v,T</sub>= <i>β</i><sub>v,R</sub>+ <i>β</i><sub>v,L</sub>.
-      The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
+  - content: 'For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, stem:[β_v,R], and the luminescent luminance factor, stem:[β_v,L]. The sum of the reflected and luminescent luminance factors is the total luminance factor, stem:[β_v,T]: stem:[β_v,T]= stem:[β_v,R]+ stem:[β_v,L].
+
+      The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.'
     type: intensional
   sources:
   - origin:
@@ -40,14 +39,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: luminance factor (at a surface of a non-self-radiating medium in
-      a given direction, under specified conditions of illumination)
+    designation: luminance factor (at a surface of a non-self-radiating medium in a given direction, under specified conditions of illumination)
   - type: symbol
     normative_status: preferred
-    designation: βv; β
+    designation: stem:[beta]v; stem:[beta]
   - type: symbol
     normative_status: preferred
-    designation: "<i>β</i><sub>v</sub>"
+    designation: stem:[β_v]
   language_code: eng
   annotations: []
 termid: 17-717

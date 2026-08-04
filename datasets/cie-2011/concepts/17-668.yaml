@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-668
   domains:
@@ -21,10 +20,7 @@ id: 89611aa8-c4da-523a-a151-26035801d345
 ---
 data:
   definition:
-  - content: quotient of the total luminous flux of the luminaire, measured under
-      specified practical conditions with its own lamp(s) and equipment, and the sum
-      of the individual luminous fluxes of the same lamp(s) when operated outside
-      the luminaire with the same equipment, under specified conditions
+  - content: quotient of the total luminous flux of the luminaire, measured under specified practical conditions with its own lamp(s) and equipment, and the sum of the individual luminous fluxes of the same lamp(s) when operated outside the luminaire with the same equipment, under specified conditions
     type: intensional
   examples: []
   notes: []
@@ -42,7 +38,7 @@ data:
     designation: LOR
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i><sub>LO</sub>"
+    designation: stem:[R_LO]
   language_code: eng
   annotations: []
 termid: 17-668

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1010
   domains:
@@ -21,9 +20,7 @@ id: 8e9e5e80-923c-50cf-8a3b-c7bda9ae0f6c
 ---
 data:
   definition:
-  - content: quotient of the number of elementary events (such as release of an electron)
-      contributing to the output and the number of incident photons, including those
-      reflected by the detector
+  - content: quotient of the number of elementary events (such as release of an electron) contributing to the output and the number of incident photons, including those reflected by the detector
     type: intensional
   examples: []
   notes: []
@@ -36,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: quantum efficiency (of a detector)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: quantum efficiency, <of a detector>
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i>"
+    designation: stem:[η]
   language_code: eng
   annotations: []
 termid: 17-1010

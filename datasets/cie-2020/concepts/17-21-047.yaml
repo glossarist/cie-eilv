@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-047
   domains:
@@ -28,29 +27,29 @@ id: b9e2daa2-cbea-5e15-8de7-86a89a369cfe
 ---
 data:
   definition:
-  - content: quantity that determines the maximum geometric throughput of radiation
-      transmitted, received or emitted in a single-pass, passive optical arrangement
+  - content: quantity that determines the maximum geometric throughput of radiation transmitted, received or emitted in a single-pass, passive optical arrangement
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Defining a ray as the confined radiation exchange between two subtended surface area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal vectors stem:[n_A] and stem:[n^( ' )_A] and orientation angles stem:[theta] and stem:[theta]′ with respect to a common optical axis, the geometric extent is equal to the action of all possible rays between both surface areas stem:[A] and stem:[A]′. This is expressed by the integral over the product of all projected area elements dstem:[A] cos stem:[theta] and dstem:[A]′ cos stem:[theta]′ weighted by the distance squared to account for the apparent size of the subtending surfaces areas:
+  - content: 'Defining a ray as the confined radiation exchange between two subtended surface area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal vectors stem:[n_A] and stem:[n^( '' )_A] and orientation angles stem:[theta] and stem:[theta]′ with respect to a common optical axis, the geometric extent is equal to the action of all possible rays between both surface areas stem:[A] and stem:[A]′. This is expressed by the integral over the product of all projected area elements dstem:[A] cos stem:[theta] and dstem:[A]′ cos stem:[theta]′ weighted by the distance squared to account for the apparent size of the subtending surfaces areas:
 
-      stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( ' ))( int ) d A cos theta * d A^( ' ) cos theta^( ' ) = int d G]
+
+      stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta * d A^( '' ) cos theta^( '' ) = int d G]
+
 
       with
 
-      stem:[d G \ = ((d A cos theta * d A^( ' ) cos theta^( ' )))/((l^2)) = d A cos Theta * d omega = d A^( ' ) cos theta^( ' ) * d omega^( ' ) = d G^( ' )]
 
-      where dstem:[Omega] and dstem:[Omega]′ are the solid angle elements defining the angular extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′ respectively.
+      stem:[d G \ = ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2)) = d A cos Theta * d omega = d A^( '' ) cos theta^( '' ) * d omega^( '' ) = d G^( '' )]
+
+
+      where dstem:[Omega] and dstem:[Omega]′ are the solid angle elements defining the angular extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′ respectively.'
     type: intensional
-  - content: '"Single-pass" means that the term applies only for radiation transfer
-      in a single defined direction. It does not apply to devices such as Fabry–Pérot
-      cavities.'
+  - content: '"Single-pass" means that the term applies only for radiation transfer in a single defined direction. It does not apply to devices such as Fabry–Pérot cavities.'
     type: intensional
   - content: See also "{{concept:cie-2020:17-21-048, optical extent}}".
     type: intensional
-  - content: The geometric extent is expressed in square metre times steradian (m^2^·sr).
+  - content: The geometric extent is expressed in square metre times steradian (m^2^cdotsr).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-33, 845-01-33}} in IEC 60050-845:1987.
     type: intensional
@@ -84,7 +83,7 @@ data:
     designation: geometric extent
   - type: symbol
     normative_status: preferred
-    designation: G
+    designation: stem:[G]
   language_code: eng
   annotations: []
 termid: 17-21-047

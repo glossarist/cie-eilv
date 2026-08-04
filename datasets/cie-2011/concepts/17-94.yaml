@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-94
   domains:
@@ -21,8 +20,7 @@ id: ce037487-3538-5438-ad81-846b53b462ce
 ---
 data:
   definition:
-  - content: electric lamp containing in the same bulb the arc tube of a mercury vapour
-      lamp and an incandescent lamp filament connected in series
+  - content: electric lamp containing in the same bulb the arc tube of a mercury vapour lamp and an incandescent lamp filament connected in series
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: blended lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: integrated mercury lamp, US
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1217
   domains:
@@ -21,10 +20,10 @@ id: d6631719-8af6-55af-92be-1708df69e09c
 ---
 data:
   definition:
-  - content: |-
-      density of irradiance, stem:[E_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+  - content: 'density of irradiance, stem:[E_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
 
-      stem:[E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))]
+
+      stem:[E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))]'
     type: intensional
   examples: []
   notes: []
@@ -39,10 +38,10 @@ data:
     designation: spectral irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee,λ; Eλ
+    designation: stem:[E_(e,lambda)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub><i>λ</i></sub>"
+    designation: stem:[E]~stem:[λ]~
   language_code: eng
   annotations: []
 termid: 17-1217

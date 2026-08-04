@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-055
   domains:
@@ -73,7 +72,7 @@ data:
       preposition: false
   - type: symbol
     normative_status: preferred
-    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+    designation: stem:[r(lambda)], stem:[g(lambda)], stem:[b(lambda)], <CIE 1931 RGB colorimetric system>
   language_code: eng
   annotations: []
 termid: 17-23-055

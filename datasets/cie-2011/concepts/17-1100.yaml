@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1100
   domains:
@@ -21,13 +20,11 @@ id: 2f6b1f81-8abc-56b0-82fd-8d5ef1631186
 ---
 data:
   definition:
-  - content: function representing the normalized spectral sensitivity of the human
-      eye due to retinal thermal hazards
+  - content: function representing the normalized spectral sensitivity of the human eye due to retinal thermal hazards
     type: intensional
   examples: []
   notes:
-  - content: Specified in ICNIRP-recommendations for <i>λ</i> = 380 nm to <i>λ =</i>1400
-      nm.
+  - content: Specified in ICNIRP-recommendations for stem:[λ] = 380 nm to stem:[λ =]1400 nm.
     type: intensional
   sources:
   - origin:
@@ -40,10 +37,10 @@ data:
     designation: retinal thermal hazard spectral weighting function
   - type: symbol
     normative_status: preferred
-    designation: R(λ); r(λ)
+    designation: stem:[R(lambda)]; stem:[r(lambda)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>r</i>(<i>λ</i>)"
+    designation: stem:[r](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1100

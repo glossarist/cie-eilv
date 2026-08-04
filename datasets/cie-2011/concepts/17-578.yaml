@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-578
   domains:
@@ -21,8 +20,7 @@ id: f3825948-058a-5950-8393-194941d062f5
 ---
 data:
   definition:
-  - content: clouding (opacification) of the lens resulting from exposure to excessive
-      near-infrared radiant energy producing an elevated temperature of the lens
+  - content: clouding (opacification) of the lens resulting from exposure to excessive near-infrared radiant energy producing an elevated temperature of the lens
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: infrared "heat" cataract hazard
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: heat cataract hazard
   language_code: eng

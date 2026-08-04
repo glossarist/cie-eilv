@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-037
   domains:
@@ -21,19 +20,15 @@ id: e39f3fdb-7e69-5906-828c-9412fe778485
 ---
 data:
   definition:
-  - content: effective dose with the spectral radiant exposure spectrally weighted
-      with a stated photobiological action spectrum
+  - content: effective dose with the spectral radiant exposure spectrally weighted with a stated photobiological action spectrum
     type: intensional
   examples: []
   notes:
-  - content: This definition is based on the assumption that an action spectrum is
-      adopted for the photobiological effect considered, and that its maximum value
-      is 1.
+  - content: This definition is based on the assumption that an action spectrum is adopted for the photobiological effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which action spectrum is used, as the unit
-      is the same for any action spectrum.
+  - content: It is essential to specify which action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The photobiological dose is expressed in joule per square metre (J·m^−2^).
+  - content: The photobiological dose is expressed in joule per square metre (Jcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-882 in CIE S 017:2011.
     type: intensional
@@ -53,7 +48,7 @@ data:
     designation: photobiological dose
   - type: symbol
     normative_status: preferred
-    designation: Heff
+    designation: stem:[H_eff]
   language_code: eng
   annotations: []
 termid: 17-26-037

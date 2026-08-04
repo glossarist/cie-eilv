@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1382
   domains:
@@ -21,8 +20,7 @@ id: 4ddedb71-2b1c-5bec-99ca-f065261123d7
 ---
 data:
   definition:
-  - content: quotient of the luminous flux received by a reference surface and the
-      sum of the individual output fluxes of the luminaires of the installation
+  - content: quotient of the luminous flux received by a reference surface and the sum of the individual output fluxes of the luminaires of the installation
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: utilance (of an installation, for a reference surface)
   - type: symbol
     normative_status: preferred
-    designation: U
+    designation: stem:[U]
   - type: symbol
     normative_status: preferred
-    designation: "<i>U</i>"
+    designation: stem:[U]
   language_code: eng
   annotations: []
 termid: 17-1382

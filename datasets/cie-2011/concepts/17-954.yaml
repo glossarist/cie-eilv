@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-954
   domains:
@@ -25,8 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The international designation is F for a single pin, G for 2 or more
-      pins.
+  - content: The international designation is F for a single pin, G for 2 or more pins.
     type: intensional
   sources:
   - origin:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: pin base (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: pin base
   language_code: eng

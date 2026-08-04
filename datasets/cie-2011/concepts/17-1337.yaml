@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1337
   domains:
@@ -21,16 +20,14 @@ id: b8f1b9a0-b036-5151-80ba-0afd336c082a
 ---
 data:
   definition:
-  - content: |-
-      quotient of transmitted radiant flux, stem:[Phi_t], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of transmitted radiant flux, stem:[Phi_t], and incident radiant flux, stem:[Phi_m]
 
-      stem:[tau = ((Phi_t))/((Phi_m))]
+
+      stem:[tau = ((Phi_t))/((Phi_m))]'
     type: intensional
   examples: []
   notes:
-  - content: 'Transmittance, <i>τ</i>, is the sum of regular transmittance, <i>τ</i><sub>r</sub>,
-      and diffuse transmittance, <i>τ</i><sub>d</sub>: <i>τ</i> = <i>τ</i><sub>r</sub>
-      + <i>τ</i><sub>d</sub>.'
+  - content: 'Transmittance, stem:[τ], is the sum of regular transmittance, stem:[τ_r], and diffuse transmittance, stem:[τ_d]: stem:[τ] = stem:[τ_r] + stem:[τ_d].'
     type: intensional
   sources:
   - origin:
@@ -40,14 +37,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: transmittance (for incidence radiation of given spectral composition,
-      polarization and geometric distribution)
+    designation: transmittance (for incidence radiation of given spectral composition, polarization and geometric distribution)
   - type: symbol
     normative_status: preferred
-    designation: τ
+    designation: stem:[tau]
   - type: symbol
     normative_status: preferred
-    designation: "<i>τ</i>"
+    designation: stem:[τ]
   language_code: eng
   annotations: []
 termid: 17-1337

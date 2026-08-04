@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-059
   domains:
@@ -21,23 +20,17 @@ id: 299afd6f-bfba-5ec2-afc0-8a112a6abc5f
 ---
 data:
   definition:
-  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda],
-      spectrally weighted with the blue light hazard spectral weighting function,
-      stem:[B](stem:[lambda])
+  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda], spectrally weighted with the blue light hazard spectral weighting function, stem:[B](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The wavelength range for the blue light hazard radiant exposure is specified
-      in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
+  - content: The wavelength range for the blue light hazard radiant exposure is specified in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
     type: intensional
-  - content: This definition is based on the assumption that an action spectrum is
-      adopted for the actinic effect considered, and that its maximum value is 1.
+  - content: This definition is based on the assumption that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1.
     type: intensional
-  - content: It is essential to specify which actinic action spectrum is used, as
-      the unit is the same for any action spectrum.
+  - content: It is essential to specify which actinic action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The blue light hazard radiant exposure is expressed in joule per square
-      metre (J·m^−2^).
+  - content: The blue light hazard radiant exposure is expressed in joule per square metre (Jcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-101 in CIE S 017:2011.
     type: intensional

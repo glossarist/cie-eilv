@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1211
   domains:
@@ -36,13 +35,10 @@ data:
     designation: spectral chromaticity coordinates
   - type: symbol
     normative_status: preferred
-    designation: r(λ), g(λ), b(λ), <CIE 1931 RGB colorimetric system>
+    designation: stem:[r(lambda)], stem:[g(lambda)], stem:[b(lambda)], <CIE 1931 RGB colorimetric system>
   - type: symbol
     normative_status: preferred
-    designation: "<i>r</i>(<i>λ</i>), <i>g</i>(<i>λ</i>), b(<i>λ</i>); <i>x</i>(<i>λ</i>),
-      <i>y</i>(<i>λ</i>), <i>z</i>(<i>λ</i>); <i>r</i><sub>10</sub>(<i>λ</i>), <i>g</i><sub>10</sub>(<i>λ</i>),
-      <i>b</i><sub>10</sub>(<i>λ</i>); <i>x</i><sub>10</sub>(<i>λ</i>), <i>y</i><sub>10</sub>(<i>λ</i>),
-      <i>z</i><sub>10</sub>(<i>λ</i>)"
+    designation: stem:[r](stem:[λ]), stem:[g](stem:[λ]), b(stem:[λ]); stem:[x](stem:[λ]), stem:[y](stem:[λ]), stem:[z](stem:[λ]); stem:[r_10](stem:[λ]), stem:[g_10](stem:[λ]), stem:[b_10](stem:[λ]); stem:[x_10](stem:[λ]), stem:[y_10](stem:[λ]), stem:[z_10](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1211

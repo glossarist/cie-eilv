@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-024
   domains:
@@ -28,15 +27,11 @@ id: 60a91b77-f560-5411-8c2e-3b54bae2bdea
 ---
 data:
   definition:
-  - content: smallest illuminance (point brilliance), produced at the eye of an observer
-      by a light source seen in point vision, which renders the source perceptible
-      against a background of given luminance, where the illuminance is considered
-      on a surface element that is normal to the incident rays at the eye
+  - content: smallest illuminance (point brilliance), produced at the eye of an observer by a light source seen in point vision, which renders the source perceptible against a background of given luminance, where the illuminance is considered on a surface element that is normal to the incident rays at the eye
     type: intensional
   examples: []
   notes:
-  - content: For visual signalling, the light source has to be rendered recognizable,
-      and hence a higher threshold of illuminance is to be expected.
+  - content: For visual signalling, the light source has to be rendered recognizable, and hence a higher threshold of illuminance is to be expected.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-26, 845-11-26}} in IEC 60050-845:1987.
     type: intensional
@@ -68,7 +63,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: threshold of illuminance
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: visual threshold, <in point vision>
   language_code: eng

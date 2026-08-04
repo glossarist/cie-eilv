@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-069
   domains:
@@ -32,8 +31,7 @@ id: ddbc5544-60e5-5b2e-bdaf-455be16cd7f2
 ---
 data:
   definition:
-  - content: quotient of the luminous flux received by a reference surface and the
-      sum of the rated individual luminous fluxes of the lamps of the installation
+  - content: quotient of the luminous flux received by a reference surface and the sum of the rated individual luminous fluxes of the lamps of the installation
     type: intensional
   examples: []
   notes:
@@ -70,7 +68,7 @@ data:
     normative_status: preferred
     designation: utilization factor
     usage_info: of an installation
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: coefficient of utilization, <of an installation>
   language_code: eng

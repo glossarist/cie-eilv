@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-408
   domains:
@@ -21,29 +20,30 @@ id: 8ba4c816-e054-5c1b-a72f-8552f884de1c
 ---
 data:
   definition:
-  - content: |-
-      quotient NC/ND of two collinear distances on the chromaticity diagram of the CIE 1931 or 1964 standard colorimetric systems, the first distance being that between the point C representing the colour stimulus considered and the point N representing the specified achromatic stimulus, the second distance being that between the point N and the point D on the spectrum locus at the dominant wavelength of the colour stimulus considered, leading to the following expressions:
+  - content: 'quotient NC/ND of two collinear distances on the chromaticity diagram of the CIE 1931 or 1964 standard colorimetric systems, the first distance being that between the point C representing the colour stimulus considered and the point N representing the specified achromatic stimulus, the second distance being that between the point N and the point D on the spectrum locus at the dominant wavelength of the colour stimulus considered, leading to the following expressions:
+
 
       stem:[p_e = ((y - y_n))/((y_d - y_n))]
 
+
       and
+
 
       stem:[p_e = ((x - x_n))/((x_d - x_n))]
 
-      where (stem:[x], stem:[y]), (stem:[x_n], stem:[y_n]), (stem:[x_d], stem:[y_d]) are the stem:[x], stem:[y] chromaticity coordinates of the points C, N and D respectively
+
+      where (stem:[x], stem:[y]), (stem:[x_n], stem:[y_n]), (stem:[x_d], stem:[y_d]) are the stem:[x], stem:[y] chromaticity coordinates of the points C, N and D respectively'
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, the monochromatic stimulus is replaced
-      by a stimulus whose chromaticity is represented by a point on the purple boundary.
+  - content: In the case of purple stimuli, the monochromatic stimulus is replaced by a stimulus whose chromaticity is represented by a point on the purple boundary.
     type: intensional
-  - content: The formulae in stem:[x] and stem:[y] are equivalent, but greater precision
-      is given by the formula which has the greater value in the numerator.
+  - content: The formulae in stem:[x] and stem:[y] are equivalent, but greater precision is given by the formula which has the greater value in the numerator.
     type: intensional
-  - content: |-
-      The excitation purity, stem:[p_e], is related to the colorimetric purity, stem:[p_c], by the equation:
+  - content: 'The excitation purity, stem:[p_e], is related to the colorimetric purity, stem:[p_c], by the equation:
 
-      stem:[p_e = ((p_c y))/((y_d))]
+
+      stem:[p_e = ((p_c y))/((y_d))]'
     type: intensional
   - content: The excitation purity has unit one.
     type: intensional
@@ -60,12 +60,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: excitation purity
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: pe
   - type: symbol
     normative_status: preferred
-    designation: "<i>p</i><sub>e</sub>"
+    designation: stem:[p_e]
   language_code: eng
   annotations: []
 termid: 17-408

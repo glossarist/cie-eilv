@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-82
   domains:
@@ -36,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: bayonet cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: bayonet base
   language_code: eng

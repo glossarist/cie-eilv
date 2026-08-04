@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-930
   domains:
@@ -21,12 +20,13 @@ id: 064e366a-443f-580a-92f0-6dceedb8fc66
 ---
 data:
   definition:
-  - content: |-
-      quotient of radiant energy and photon energy
+  - content: 'quotient of radiant energy and photon energy
+
 
       stem:[N_p = ((Q_e))/((h nu))]
 
-      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave
+
+      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave'
     type: intensional
   examples: []
   notes: []
@@ -39,12 +39,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: photon number
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: number of photons
   - type: symbol
     normative_status: preferred
-    designation: "<i>N</i><sub>p</sub>; <i>Q</i><sub>p</sub>"
+    designation: stem:[N_p]; stem:[Q_p]
   language_code: eng
   annotations: []
 termid: 17-930

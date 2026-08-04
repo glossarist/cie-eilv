@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1339
   domains:
@@ -31,7 +30,7 @@ data:
     designation: transmittance (optical) density
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i><sub><i>τ</i></sub>"
+    designation: stem:[D]~stem:[τ]~
   language_code: eng
   annotations: []
 termid: 17-1339

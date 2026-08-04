@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-159
   domains:
@@ -21,12 +20,11 @@ id: 7924f4e4-6f5f-51e4-856b-69e6fde164f7
 ---
 data:
   definition:
-  - content: illuminance produced by multiple reflections from internal and/or external
-      surfaces
+  - content: illuminance produced by multiple reflections from internal and/or external surfaces
     type: intensional
   examples: []
   notes:
-  - content: The indirect illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: The indirect illuminance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-574 in CIE S 017:2011.
     type: intensional

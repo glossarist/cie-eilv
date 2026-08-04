@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-112
   domains:
@@ -16,19 +15,13 @@ id: 7457e455-235e-5d20-9a06-bbc25afa14f2
 ---
 data:
   definition:
-  - content: luminous flux leaving the LED and propagating within a given cone angle,
-      stem:[alpha], (centred from the LED's mechanical axis) that is determined by
-      a circular aperture of 50 mm in diameter and the distance measured from the
-      tip of the LED
+  - content: luminous flux leaving the LED and propagating within a given cone angle, stem:[alpha], (centred from the LED's mechanical axis) that is determined by a circular aperture of 50 mm in diameter and the distance measured from the tip of the LED
     type: intensional
   examples: []
   notes:
-  - content: A detailed method of measurement is given in CIE 127, _Measurement of
-      LEDs_.
+  - content: A detailed method of measurement is given in CIE 127, _Measurement of LEDs_.
     type: intensional
-  - content: Partial LED flux is a quantity that applies to a single LED only and
-      should not be confused with the term "{{concept:cie-2020:17-21-110, partial
-      luminous flux}}".
+  - content: Partial LED flux is a quantity that applies to a single LED only and should not be confused with the term "{{concept:cie-2020:17-21-110, partial luminous flux}}".
     type: intensional
   - content: The partial LED flux is expressed in lumen (lm).
     type: intensional
@@ -43,7 +36,7 @@ data:
     designation: partial LED flux
   - type: symbol
     normative_status: preferred
-    designation: Φv,LED,α ; ΦLED,α
+    designation: stem:[Phi]v,LED,stem:[alpha] ; stem:[Phi]LED,stem:[alpha]
   language_code: eng
   annotations: []
 termid: 17-21-112

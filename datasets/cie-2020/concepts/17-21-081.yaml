@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-081
   domains:
@@ -28,28 +27,30 @@ id: 4ac7ce64-da91-5fc2-9e0d-0715f53527aa
 ---
 data:
   definition:
-  - content: |-
-      density of exiting luminous flux with respect to area at a point on a real or imaginary surface
+  - content: 'density of exiting luminous flux with respect to area at a point on a real or imaginary surface
+
 
       stem:[M_v = ((d Phi_v))/((d A))]
 
-      where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves
+
+      where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Luminous exitance can be derived from the spectral radiant exitance distribution by
+  - content: 'Luminous exitance can be derived from the spectral radiant exitance distribution by
+
 
       stem:[M_v = K_m int_0^(oo) M_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
+
       where stem:[K_m] is maximum luminous efficacy, stem:[M_(e,lambda)](stem:[lambda]) is the spectral radiant exitance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.
 
-      Integral limits can be confined depending on the spectral {{concept:cie-2020:17-25-061, responsivity}} of the detectors used as a sensor.
+
+      Integral limits can be confined depending on the spectral {{concept:cie-2020:17-25-061, responsivity}} of the detectors used as a sensor.'
     type: intensional
-  - content: The corresponding radiometric quantity is "radiant exitance". The corresponding
-      quantity for photons is "photon exitance".
+  - content: The corresponding radiometric quantity is "radiant exitance". The corresponding quantity for photons is "photon exitance".
     type: intensional
-  - content: The luminous exitance is expressed in lumen per square metre (lm·m^−2^).
+  - content: The luminous exitance is expressed in lumen per square metre (lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-48, 845-01-48}} in IEC 60050-845:1987.
     type: intensional
@@ -83,7 +84,7 @@ data:
     designation: luminous exitance
   - type: symbol
     normative_status: preferred
-    designation: Mv; M
+    designation: stem:[M_v]
   language_code: eng
   annotations: []
 termid: 17-21-081

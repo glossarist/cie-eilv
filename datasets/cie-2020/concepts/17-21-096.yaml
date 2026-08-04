@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-096
   domains:
@@ -28,15 +27,13 @@ id: 0ee77593-8a01-5f87-aec9-ed4e23ae2d06
 ---
 data:
   definition:
-  - content: quantity involved in the visual observation of a source of light when
-      viewed directly from the distance where its apparent diameter just becomes inappreciable
+  - content: quantity involved in the visual observation of a source of light when viewed directly from the distance where its apparent diameter just becomes inappreciable
     type: intensional
   examples: []
   notes:
-  - content: The point brilliance is measured by the illuminance produced by the source
-      on a plane, at the observer's eye, normal to the direction of the source.
+  - content: The point brilliance is measured by the illuminance produced by the source on a plane, at the observer's eye, normal to the direction of the source.
     type: intensional
-  - content: The point brilliance is expressed in lux (lx = lm·m^−2^).
+  - content: The point brilliance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-59, 845-01-59}} in IEC 60050-845:1987.
     type: intensional
@@ -70,7 +67,7 @@ data:
     designation: point brilliance
   - type: symbol
     normative_status: preferred
-    designation: Epb
+    designation: stem:[E_pb]
   language_code: eng
   annotations: []
 termid: 17-21-096

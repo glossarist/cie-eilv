@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1067
   domains:
@@ -17,12 +16,11 @@ sources:
     link: https://web.archive.org/web/20190917161258/http://eilv.cie.co.at/term/1067
   type: authoritative
 status: valid
-id: '093437f2-877f-5189-b77b-d1778b951296'
+id: 093437f2-877f-5189-b77b-d1778b951296
 ---
 data:
   definition:
-  - content: reflectance of a layer of a material that is of sufficient thickness
-      so that there is no change in reflectance with increase in thickness
+  - content: reflectance of a layer of a material that is of sufficient thickness so that there is no change in reflectance with increase in thickness
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: reflectivity (of a material)
   - type: symbol
     normative_status: preferred
-    designation: ρ∝
+    designation: stem:[rho]∝
   - type: symbol
     normative_status: preferred
-    designation: "<i>ρ</i><sub>∞</sub>"
+    designation: stem:[ρ_∞]
   language_code: eng
   annotations: []
 termid: 17-1067

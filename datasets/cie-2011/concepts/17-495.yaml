@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-495
   domains:
@@ -36,10 +35,10 @@ data:
     designation: global horizontal illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,g
+    designation: stem:[E_(v,g)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v,g</sub>"
+    designation: stem:[E_v,g]
   language_code: eng
   annotations: []
 termid: 17-495

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-064
   domains:
@@ -28,15 +27,14 @@ id: 1275c26d-b42c-528d-9bf9-3013c1420d27
 ---
 data:
   definition:
-  - content: |-
-      quotient of the spectral responsivity, stem:[s](stem:[lambda]), of the detector at wavelength, stem:[lambda], and a specified reference value, stem:[s_m]
+  - content: 'quotient of the spectral responsivity, stem:[s](stem:[lambda]), of the detector at wavelength, stem:[lambda], and a specified reference value, stem:[s_m]
 
-      stem:[s_r ( lambda ) = ((s ( lambda )))/((s_m))]
+
+      stem:[s_r ( lambda ) = ((s ( lambda )))/((s_m))]'
     type: intensional
   examples: []
   notes:
-  - content: The specified reference value, stem:[s_m], can be an average value, a
-      maximum value or an arbitrarily chosen value of stem:[s](stem:[lambda]).
+  - content: The specified reference value, stem:[s_m], can be an average value, a maximum value or an arbitrarily chosen value of stem:[s](stem:[lambda]).
     type: intensional
   - content: The relative spectral responsivity has unit one.
     type: intensional
@@ -73,7 +71,7 @@ data:
     usage_info: of a detector
   - type: symbol
     normative_status: preferred
-    designation: sr(λ)
+    designation: stem:[s(r(lambda))]
   language_code: eng
   annotations: []
 termid: 17-25-064

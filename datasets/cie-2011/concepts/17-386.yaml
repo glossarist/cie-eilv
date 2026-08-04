@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-386
   domains:
@@ -36,10 +35,10 @@ data:
     designation: entrance angle (of a retroreflector)
   - type: symbol
     normative_status: preferred
-    designation: β
+    designation: stem:[beta]
   - type: symbol
     normative_status: preferred
-    designation: "<i>β</i>"
+    designation: stem:[β]
   language_code: eng
   annotations: []
 termid: 17-386

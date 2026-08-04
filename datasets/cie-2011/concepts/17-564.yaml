@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-564
   domains:
@@ -21,44 +20,19 @@ id: 266dfd9f-3944-519c-8d7d-7148ebd626b8
 ---
 data:
   definition:
-  - content: image state associated with colour image data that represent the colour
-      space coordinates of the elements of a two-dimensional hardcopy or softcopy,
-      typically produced by scanning artwork, photographic transparencies or prints,
-      or photomechanical or other reproductions
+  - content: image state associated with colour image data that represent the colour space coordinates of the elements of a two-dimensional hardcopy or softcopy, typically produced by scanning artwork, photographic transparencies or prints, or photomechanical or other reproductions
     type: intensional
   examples: []
   notes:
-  - content: When the phrase "original-referred" is used as a qualifier to an object,
-      it implies that the object is in an original-referred image state. For example,
-      original-referred image data are image data in an original-referred image state.
+  - content: When the phrase "original-referred" is used as a qualifier to an object, it implies that the object is in an original-referred image state. For example, original-referred image data are image data in an original-referred image state.
     type: intensional
-  - content: Original-referred image data are related to the colour space coordinates
-      of the original, typically measured according to ISO 13655<i>Graphic technology
-      - Spectral measurement and colorimetric computation for graphic arts images</i>,
-      and does not include any additional veiling glare or other flare.
+  - content: Original-referred image data are related to the colour space coordinates of the original, typically measured according to ISO 13655stem:[Graphic technology - Spectral measurement and colorimetric computation for graphic arts images], and does not include any additional veiling glare or other flare.
     type: intensional
-  - content: The characteristics of original-referred image data that most generally
-      distinguish them from scene-referred image data are that they are referred to
-      a 2-dimensional surface, and the illumination incident on the 2- dimensional
-      surface is assumed to be uniform (or the image data corrected for any non-uniformity
-      in the illumination).
+  - content: The characteristics of original-referred image data that most generally distinguish them from scene-referred image data are that they are referred to a 2-dimensional surface, and the illumination incident on the 2- dimensional surface is assumed to be uniform (or the image data corrected for any non-uniformity in the illumination).
     type: intensional
-  - content: There are classes of originals that produce original-referred image data
-      with different characteristics. Examples include various types of artwork, photographic
-      prints, photographic transparencies, emissive displays, etc. When selecting
-      a colour re-rendering algorithm, it is usually necessary to know the class of
-      the original in order to determine the appropriate colour re-rendering to be
-      applied. For example, a colorimetric intent is generally applied to artwork,
-      while different perceptual algorithms are applied to produce photographic prints
-      from transparencies, or newsprint reproductions from photographic prints. In
-      some cases the assumed viewing conditions are also different between the original
-      classes, such as between photographic prints and transparencies, and will usually
-      be considered in well-designed systems.
+  - content: There are classes of originals that produce original-referred image data with different characteristics. Examples include various types of artwork, photographic prints, photographic transparencies, emissive displays, etc. When selecting a colour re-rendering algorithm, it is usually necessary to know the class of the original in order to determine the appropriate colour re-rendering to be applied. For example, a colorimetric intent is generally applied to artwork, while different perceptual algorithms are applied to produce photographic prints from transparencies, or newsprint reproductions from photographic prints. In some cases the assumed viewing conditions are also different between the original classes, such as between photographic prints and transparencies, and will usually be considered in well-designed systems.
     type: intensional
-  - content: In a few cases, it may be desirable to introduce slight colorimetric
-      errors in the production of original-referred image data, for example to make
-      the gamut of the original more closely fit the colour space, or because of the
-      way the image data were captured (such as a Status A densitometry-based scanner).
+  - content: In a few cases, it may be desirable to introduce slight colorimetric errors in the production of original-referred image data, for example to make the gamut of the original more closely fit the colour space, or because of the way the image data were captured (such as a Status A densitometry-based scanner).
     type: intensional
   sources:
   - origin:

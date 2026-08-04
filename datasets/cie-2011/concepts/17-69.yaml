@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-69
   domains:
@@ -21,16 +20,18 @@ id: 3b61ab43-79bf-5d9a-84c2-f3a14eadc813
 ---
 data:
   definition:
-  - content: |-
-      surround or extension to a sign used
+  - content: 'surround or extension to a sign used
+
 
 
 
       * to improve conspicuity of a sign by increasing its size and isolating it from its background;
 
+
       * to improve conspicuity of a sign by virtue of the colour of the backing board;
 
-      * to reduce the effects of glare when the Sun is low and behind the sign
+
+      * to reduce the effects of glare when the Sun is low and behind the sign'
     type: intensional
   examples: []
   notes: []
@@ -43,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: backing board (of a traffic control device)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: backboard, <of a sign>
   - type: expression

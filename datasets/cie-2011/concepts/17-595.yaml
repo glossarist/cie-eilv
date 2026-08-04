@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-595
   domains:
@@ -33,14 +32,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: interior zone luminance (at any location in the interior zone of
-      the tunnel)
+    designation: interior zone luminance (at any location in the interior zone of the tunnel)
   - type: symbol
     normative_status: preferred
-    designation: Lin
+    designation: stem:[L_in]
   - type: symbol
     normative_status: preferred
-    designation: "<i>L</i><sub>in</sub>"
+    designation: stem:[L_in]
   language_code: eng
   annotations: []
 termid: 17-595

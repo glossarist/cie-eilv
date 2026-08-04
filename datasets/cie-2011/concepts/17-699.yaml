@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-699
   domains:
@@ -21,8 +20,7 @@ id: c769858c-612c-545b-b518-34cc0892bdc6
 ---
 data:
   definition:
-  - content: screen made of translucent or opaque components and geometrically disposed
-      to prevent electric lamps from being directly visible over a given angle
+  - content: screen made of translucent or opaque components and geometrically disposed to prevent electric lamps from being directly visible over a given angle
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: louvre
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spill shield
   language_code: eng

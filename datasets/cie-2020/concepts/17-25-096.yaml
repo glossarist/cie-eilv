@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-096
   domains:
@@ -21,20 +20,13 @@ id: 8ccb8ae6-7fab-594f-9445-a291ced6637b
 ---
 data:
   definition:
-  - content: irradiation of reflecting materials at 45° to the normal, from all azimuthal
-      directions, simultaneously
+  - content: irradiation of reflecting materials at 45° to the normal, from all azimuthal directions, simultaneously
     type: intensional
   examples: []
   notes:
-  - content: In measuring the colours of reflecting samples by irradiating with the
-      forty-five degree annular geometry, the effects of texture and directionality
-      are minimized. The forty-five degree annular geometry can be achieved by the
-      use of a small source and an elliptic ring reflector or other aspheric optics.
+  - content: In measuring the colours of reflecting samples by irradiating with the forty-five degree annular geometry, the effects of texture and directionality are minimized. The forty-five degree annular geometry can be achieved by the use of a small source and an elliptic ring reflector or other aspheric optics.
     type: intensional
-  - content: Forty-five degree annular geometry is sometimes approximated by the use
-      of a number of sources in a ring or a number of fibre bundles illuminated by
-      a single source and terminated in a ring. Such an approximation to annular geometry
-      is called "circumferential geometry", with notation "45°c".
+  - content: Forty-five degree annular geometry is sometimes approximated by the use of a number of sources in a ring or a number of fibre bundles illuminated by a single source and terminated in a ring. Such an approximation to annular geometry is called "circumferential geometry", with notation "45°c".
     type: intensional
   - content: This entry was numbered 17-469 in CIE S 017:2011.
     type: intensional
@@ -52,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: forty-five degree annular geometry
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: 45°a geometry
   language_code: eng

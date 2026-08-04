@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-068
   domains:
@@ -32,15 +31,14 @@ id: 2988a41e-73fd-5f9a-bcad-994b997abbda
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-22-067, hue}} that cannot be further described
-      by the use of hue names other than its own"
+  - content: '{{concept:cie-2020:17-22-067, hue}} that cannot be further described by the use of hue names other than its own'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      There are four unique hues: red, green, yellow and blue forming two pairs of opponent hues: red and green, yellow and blue.
+  - content: 'There are four unique hues: red, green, yellow and blue forming two pairs of opponent hues: red and green, yellow and blue.
 
-      Note 2 to entry added: A "unique hue" is sometimes referred to as an "elementary hue".
+
+      Note 2 to entry added: A "unique hue" is sometimes referred to as an "elementary hue".'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-36, 845-02-36}} in IEC 60050-845:1987.
     type: intensional
@@ -74,7 +72,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: unique hue
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: unitary hue
   language_code: eng

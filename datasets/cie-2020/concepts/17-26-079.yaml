@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-079
   domains:
@@ -29,8 +28,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The photosynthetically active radiation is expressed in mole per square
-      metre per second (mol·m^−2^·s^−1^) or mole per square metre per day (mol·m^−2^·d^−1^).
+  - content: The photosynthetically active radiation is expressed in mole per square metre per second (molcdotm^−2^cdots^−1^) or mole per square metre per day (molcdotm^−2^cdotd^−1^).
     type: intensional
   - content: This entry was numbered 17-943 and 17-859 in CIE S 017:2011.
     type: intensional

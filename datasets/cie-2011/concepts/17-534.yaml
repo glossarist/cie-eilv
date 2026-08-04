@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-534
   domains:
@@ -21,13 +20,11 @@ id: ba0342c5-84de-5802-b14c-5e3fe158d7cd
 ---
 data:
   definition:
-  - content: discharge lamp in which the light-producing arc is stabilized by wall
-      temperature and the arc has a bulb wall loading in excess of 3 W·cm^−2^
+  - content: discharge lamp in which the light-producing arc is stabilized by wall temperature and the arc has a bulb wall loading in excess of 3 Wcdotcm^−2^
     type: intensional
   examples: []
   notes:
-  - content: High intensity discharge lamps include groups of lamps known as high
-      pressure mercury, metal halide and high pressure sodium lamps.
+  - content: High intensity discharge lamps include groups of lamps known as high pressure mercury, metal halide and high pressure sodium lamps.
     type: intensional
   sources:
   - origin:

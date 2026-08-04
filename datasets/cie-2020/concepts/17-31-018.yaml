@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-018
   domains:
@@ -28,28 +27,28 @@ id: ad1bf4cf-8e38-5e1d-af5c-62cc75ad5ac4
 ---
 data:
   definition:
-  - content: length of the path in the atmosphere that is required to attenuate by
-      95 % the luminous flux in a collimated beam from a source at a colour temperature
-      of 2 700 K
+  - content: length of the path in the atmosphere that is required to attenuate by 95 % the luminous flux in a collimated beam from a source at a colour temperature of 2 700 K
     type: intensional
   examples: []
   notes:
-  - content: The value of the attenuation has been chosen so that the meteorological
-      optical range provides an approximate measure of the commonly used concept of
-      meteorological visibility.
+  - content: The value of the attenuation has been chosen so that the meteorological optical range provides an approximate measure of the commonly used concept of meteorological visibility.
     type: intensional
-  - content: |-
-      The meteorological optical range, stem:[v], is related to the atmospheric transmissivity, stem:[T], assumed to be uniform, by the formula
+  - content: 'The meteorological optical range, stem:[v], is related to the atmospheric transmissivity, stem:[T], assumed to be uniform, by the formula
+
 
       stem:[v = d_0 ((log 0,05))/((log T))] or stem:[T = 0,05^(d_0 // v)]
 
+
       where stem:[d_0] is the length specified in the definition of atmospheric transmissivity.
+
 
       These formulae are sometimes written
 
+
       stem:[v = ((log 0,05))/((log T))] or stem:[T = 0,05^(1 // v)]
 
-      with stem:[d_0] set to unity.
+
+      with stem:[d_0] set to unity.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-20, 845-11-20}} in IEC 60050-845:1987.
     type: intensional
@@ -83,7 +82,7 @@ data:
     designation: meteorological optical range
   - type: symbol
     normative_status: preferred
-    designation: v
+    designation: stem:[v]
   language_code: eng
   annotations: []
 termid: 17-31-018

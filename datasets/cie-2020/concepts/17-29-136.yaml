@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-136
   domains:
@@ -21,13 +20,11 @@ id: ac3049a2-c9ec-5399-a511-539b27ee24da
 ---
 data:
   definition:
-  - content: irradiance produced by the diffuse solar radiation on a horizontal surface
-      on the Earth
+  - content: irradiance produced by the diffuse solar radiation on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes:
-  - content: The diffuse horizontal irradiance is expressed in watt per square metre
-      (W·m^−2^).
+  - content: The diffuse horizontal irradiance is expressed in watt per square metre (Wcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-303 in CIE S 017:2011.
     type: intensional
@@ -47,7 +44,7 @@ data:
     designation: diffuse horizontal irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee,d
+    designation: stem:[E_(e,d)]
   language_code: eng
   annotations: []
 termid: 17-29-136

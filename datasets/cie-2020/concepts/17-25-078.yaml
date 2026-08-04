@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-078
   domains:
@@ -43,7 +42,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: angle of incidence
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: incidence angle
   language_code: eng

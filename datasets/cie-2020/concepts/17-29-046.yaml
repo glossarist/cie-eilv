@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-046
   domains:
@@ -28,7 +27,7 @@ id: 55ec1886-0c7c-545e-829c-3b37ebfafe49
 ---
 data:
   definition:
-  - content: cumulative flux for the solid angle 4π sr
+  - content: cumulative flux for the solid angle 4stem:[pi] sr
     type: intensional
   examples: []
   notes:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1122
   domains:
@@ -21,9 +20,7 @@ id: 075e80fb-8623-52a6-9a35-9620b80a9cec
 ---
 data:
   definition:
-  - content: quotient of the light reflected by the surfaces of a room after a certain
-      time interval and light reflected when the installation is considered conventionally
-      as new
+  - content: quotient of the light reflected by the surfaces of a room after a certain time interval and light reflected when the installation is considered conventionally as new
     type: intensional
   examples: []
   notes: []
@@ -41,7 +38,7 @@ data:
     designation: RSMF
   - type: symbol
     normative_status: preferred
-    designation: "<i>f</i><sub>RSM</sub>"
+    designation: stem:[f_RSM]
   language_code: eng
   annotations: []
 termid: 17-1122

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-025
   domains:
@@ -35,29 +34,19 @@ id: c2681e26-6bf6-5613-861c-2368509f7a86
 ---
 data:
   definition:
-  - content: distance in the direction of propagation of a periodic wave between two
-      successive positions at which the phase is the same
+  - content: distance in the direction of propagation of a periodic wave between two successive positions at which the phase is the same
     type: intensional
   examples: []
   notes:
-  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided
-      by the refractive index of the medium. In photometry, unless otherwise stated,
-      values of wavelength are generally those in air. The refractive index of standard
-      air (for spectroscopy: stem:[T] = 15 °C, stem:[p] = 101 325 Pa) lies between
-      1,000 27 and 1,000 29 for {{concept:cie-2020:17-21-003, visible radiation}}.'
+  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. In photometry, unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 °C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for {{concept:cie-2020:17-21-003, visible radiation}}.'
     type: intensional
-  - content: In some specific applications, such as fluorescence measurements, the
-      symbol stem:[mu] is used for the wavelengths of excitation radiation.
+  - content: In some specific applications, such as fluorescence measurements, the symbol stem:[mu] is used for the wavelengths of excitation radiation.
     type: intensional
-  - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength
-      in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is
-      the {{cite:IEV:103-06-02, frequency}}.
+  - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is the {{cite:IEV:103-06-02, frequency}}.
     type: intensional
-  - content: The wavelength is expressed in metres (m) or decimal submultiples of
-      metre.
+  - content: The wavelength is expressed in metres (m) or decimal submultiples of metre.
     type: intensional
-  - content: In {{concept:cie-2020:17-21-002, optical radiation}}, the units nanometre
-      (nm) and micrometre (μm) are generally used.
+  - content: In {{concept:cie-2020:17-21-002, optical radiation}}, the units nanometre (nm) and micrometre (stem:[mu]m) are generally used.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-14, 845-01-14}} in IEC 60050-845:1987.
     type: intensional
@@ -98,7 +87,7 @@ data:
     designation: wavelength
   - type: symbol
     normative_status: preferred
-    designation: λ
+    designation: stem:[lambda]
   language_code: eng
   annotations: []
 termid: 17-21-025

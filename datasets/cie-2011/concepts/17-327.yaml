@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-327
   domains:
@@ -21,8 +20,7 @@ id: a66fded4-a938-5af4-9b84-975046787377
 ---
 data:
   definition:
-  - content: decrease in the brightness of a light stimulus with increasing eccentricity
-      of the position of entry of a pencil of light through the pupil
+  - content: decrease in the brightness of a light stimulus with increasing eccentricity of the position of entry of a pencil of light through the pupil
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: directional effect
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: Stiles–Crawford effect of the first kind
   language_code: eng

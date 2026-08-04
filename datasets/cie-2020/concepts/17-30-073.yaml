@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-073
   domains:
@@ -60,7 +59,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: paddy lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: trip lamp, US
   language_code: eng

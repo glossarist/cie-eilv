@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-040
   domains:
@@ -39,13 +38,11 @@ id: 04b20e2b-147c-5791-848b-f5fde159bfa4
 ---
 data:
   definition:
-  - content: signal light used to indicate, with reference to the cardinal points
-      of the compass, where navigable water can be found
+  - content: signal light used to indicate, with reference to the cardinal points of the compass, where navigable water can be found
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered {{cite:IEV:845-11-42, 845-11-42}} and {{cite:IEV:845-11-43,
-      845-11-43}} in IEC 60050-845:1987.
+  - content: This entry was numbered {{cite:IEV:845-11-42, 845-11-42}} and {{cite:IEV:845-11-43, 845-11-43}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered 17-122 and 17-123 in CIE S 017:2011.
     type: intensional
@@ -82,7 +79,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: cardinal light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: cardinal mark
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-135
   domains:
@@ -28,13 +27,11 @@ id: a1112790-e075-5936-83dc-3630aa00c5b2
 ---
 data:
   definition:
-  - content: solar irradiance incident on the outer limit of the Earth's atmosphere
-      considering the whole solar spectrum
+  - content: solar irradiance incident on the outer limit of the Earth's atmosphere considering the whole solar spectrum
     type: intensional
   examples: []
   notes:
-  - content: The extraterrestrial solar irradiance is expressed in watt per square
-      metre (W·m^−2^).
+  - content: The extraterrestrial solar irradiance is expressed in watt per square metre (Wcdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-77, 845-09-77}} in IEC 60050-845:1987.
     type: intensional
@@ -68,8 +65,8 @@ data:
     designation: extraterrestrial solar irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee
+    designation: stem:[E_e]
   language_code: eng
   annotations: []
 termid: 17-29-135
-id: '0738ff29-621c-5376-a25a-1d1c7089073e'
+id: 0738ff29-621c-5376-a25a-1d1c7089073e

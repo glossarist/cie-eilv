@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-598
   domains:
@@ -21,12 +20,7 @@ id: 3b03a209-393d-525d-b8c1-fc268dedc0dc
 ---
 data:
   definition:
-  - content: quotient of that part of the illuminance at a point on a given plane
-      in an interior which is received directly from internal reflecting surfaces
-      illuminated directly or indirectly by a sky of assumed or known luminance distribution
-      and the illuminance on a horizontal plane due to an unobstructed hemisphere
-      of this sky, where the contribution of direct sunlight to both illuminances
-      is excluded
+  - content: quotient of that part of the illuminance at a point on a given plane in an interior which is received directly from internal reflecting surfaces illuminated directly or indirectly by a sky of assumed or known luminance distribution and the illuminance on a horizontal plane due to an unobstructed hemisphere of this sky, where the contribution of direct sunlight to both illuminances is excluded
     type: intensional
   examples: []
   notes: []
@@ -41,10 +35,10 @@ data:
     designation: internally reflected component of daylight factor
   - type: symbol
     normative_status: preferred
-    designation: Di
+    designation: stem:[D_i]
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i><sub>i</sub>"
+    designation: stem:[D_i]
   language_code: eng
   annotations: []
 termid: 17-598

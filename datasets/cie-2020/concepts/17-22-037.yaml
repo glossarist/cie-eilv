@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-037
   domains:
@@ -32,13 +31,11 @@ id: 90765c60-fb30-51ea-b7a0-1e9cb2013cd9
 ---
 data:
   definition:
-  - content: decrease in the brightness of a light stimulus with increasing eccentricity
-      of the position of entry of a pencil of light through the pupil
+  - content: decrease in the brightness of a light stimulus with increasing eccentricity of the position of entry of a pencil of light through the pupil
     type: intensional
   examples: []
   notes:
-  - content: When the variation is in hue and saturation instead of in brightness,
-      the effect is called "Stiles–Crawford effect of the second kind".
+  - content: When the variation is in hue and saturation instead of in brightness, the effect is called "Stiles–Crawford effect of the second kind".
     type: intensional
   - content: The Stiles–Crawford effect is predominantly present for cone vision.
     type: intensional
@@ -72,7 +69,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: Stiles–Crawford effect
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: Stiles–Crawford effect of the first kind
   language_code: eng

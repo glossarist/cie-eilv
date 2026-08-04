@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-345
   domains:
@@ -21,14 +20,11 @@ id: 821bb200-57a8-58cd-b488-775542da8287
 ---
 data:
   definition:
-  - content: wavelength of the monochromatic stimulus that, when additively mixed
-      in suitable proportions with the specified achromatic stimulus, matches the
-      colour stimulus considered in the CIE 1931 stem:[x], stem:[y] chromaticity diagram
+  - content: wavelength of the monochromatic stimulus that, when additively mixed in suitable proportions with the specified achromatic stimulus, matches the colour stimulus considered in the CIE 1931 stem:[x], stem:[y] chromaticity diagram
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, the dominant wavelength is replaced by
-      the complementary wavelength.
+  - content: In the case of purple stimuli, the dominant wavelength is replaced by the complementary wavelength.
     type: intensional
   sources:
   - origin:
@@ -41,10 +37,10 @@ data:
     designation: dominant wavelength (of a colour stimulus)
   - type: symbol
     normative_status: preferred
-    designation: λd
+    designation: stem:[lambda]d
   - type: symbol
     normative_status: preferred
-    designation: "<i>λ</i><sub>d</sub>"
+    designation: stem:[λ_d]
   language_code: eng
   annotations: []
 termid: 17-345

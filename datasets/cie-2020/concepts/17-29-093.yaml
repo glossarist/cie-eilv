@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-093
   domains:
@@ -28,23 +27,26 @@ id: aa48b554-0a1a-5bb6-a494-2a7690e0df95
 ---
 data:
   definition:
-  - content: |-
-      quotient of the irradiance or illuminance, stem:[E_2] (or stem:[E_1]), at a point on surface S~2~ (or S~1~) due to the flux received from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+  - content: 'quotient of the irradiance or illuminance, stem:[E_2] (or stem:[E_1]), at a point on surface S~2~ (or S~1~) due to the flux received from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+
 
       stem:[c_((21)) = ((E_2))/((M_1))]
 
+
       or
 
-      stem:[c_((12)) = ((E_1))/((M_2))]
+
+      stem:[c_((12)) = ((E_1))/((M_2))]'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The relation between the configuration factor, stem:[c], and the (mutual) exchange coefficient, stem:[g], is
+  - content: 'The relation between the configuration factor, stem:[c], and the (mutual) exchange coefficient, stem:[g], is
+
 
       stem:[underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1)) = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2)) = underset((A_1))( int ) c_((12)) d A_1]
 
-      where stem:[Phi_2] (or stem:[Phi_1]) is the flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~)
+
+      where stem:[Phi_2] (or stem:[Phi_1]) is the flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~)'
     type: intensional
   - content: The configuration factor has unit one.
     type: intensional
@@ -81,7 +83,7 @@ data:
     usage_info: between two surfaces
   - type: symbol
     normative_status: preferred
-    designation: c21; c12
+    designation: stem:[c_(21)]
   language_code: eng
   annotations: []
 termid: 17-29-093

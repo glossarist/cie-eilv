@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1074
   domains:
@@ -21,15 +20,11 @@ id: 0e54cb94-4310-514a-9b5a-5097b9a6807a
 ---
 data:
   definition:
-  - content: quotient of the speed of light in vacuum and the speed of light in a
-      medium
+  - content: quotient of the speed of light in vacuum and the speed of light in a medium
     type: intensional
   examples: []
   notes:
-  - content: 'For isotropic media, this index is equal to the ratio of the sines of
-      the angles of incidence, <i>Θ</i><sub>1</sub>, and refraction, <i>Θ</i><sub>2</sub>,
-      of a ray passing through the surface separating vacuum and medium: <i>n</i>(<i>λ</i>)=sin
-      <i>Θ</i><sub>1</sub>/sin <i>Θ</i><sub>2</sub>.'
+  - content: 'For isotropic media, this index is equal to the ratio of the sines of the angles of incidence, stem:[Θ_1], and refraction, stem:[Θ_2], of a ray passing through the surface separating vacuum and medium: stem:[n](stem:[λ])=sin stem:[Θ_1]/sin stem:[Θ_2].'
     type: intensional
   sources:
   - origin:
@@ -39,14 +34,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: refractive index (of a medium, for a monochromatic radiation of wavelength,
-      <i>λ</i>, in vacuum)
+    designation: refractive index (of a medium, for a monochromatic radiation of wavelength, <i>λ</i>, in vacuum)
   - type: symbol
     normative_status: preferred
-    designation: "n"
+    designation: stem:[n]
   - type: symbol
     normative_status: preferred
-    designation: "<i>n</i>(<i>λ</i>)"
+    designation: stem:[n](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1074

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-141
   domains:
@@ -21,8 +20,7 @@ id: 1519978d-9cf4-5477-8ba6-4e8e9b9ee128
 ---
 data:
   definition:
-  - content: quotient of the minimum luminance and the maximum luminance in the longitudinal
-      direction along the centreline of each lane
+  - content: quotient of the minimum luminance and the maximum luminance in the longitudinal direction along the centreline of each lane
     type: intensional
   examples: []
   notes:
@@ -46,7 +44,7 @@ data:
     designation: longitudinal uniformity of road surface luminance
   - type: symbol
     normative_status: preferred
-    designation: Ul
+    designation: stem:[U_l]
   language_code: eng
   annotations: []
 termid: 17-31-141

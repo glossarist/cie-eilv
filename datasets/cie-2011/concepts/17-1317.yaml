@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1317
   domains:
@@ -21,19 +20,13 @@ id: 6fe33429-1d7c-561b-97f7-1ba9ee23ac0f
 ---
 data:
   definition:
-  - content: angle between a defined datum axis on the luminaire and the horizontal
-      when the luminaire is mounted for field use
+  - content: angle between a defined datum axis on the luminaire and the horizontal when the luminaire is mounted for field use
     type: intensional
   examples: []
   notes:
-  - content: The defined datum axis may be any feature of the luminaire but generally
-      for a side- mounted luminaire it lies in the mouth of the luminaire canopy,
-      in line with the spigot axis. Another commonly used feature is the spigot entry
-      axis.
+  - content: The defined datum axis may be any feature of the luminaire but generally for a side- mounted luminaire it lies in the mouth of the luminaire canopy, in line with the spigot axis. Another commonly used feature is the spigot entry axis.
     type: intensional
-  - content: This is the actual tilt of the luminaire when it is mounted for field
-      use and should not be confused with "tilt normal in application" or "designed
-      attitude" (see CIE 121- 1996).
+  - content: This is the actual tilt of the luminaire when it is mounted for field use and should not be confused with "tilt normal in application" or "designed attitude" (see CIE 121- 1996).
     type: intensional
   sources:
   - origin:
@@ -46,10 +39,10 @@ data:
     designation: tilt in application (of a luminaire)
   - type: symbol
     normative_status: preferred
-    designation: θf
+    designation: stem:[theta]f
   - type: symbol
     normative_status: preferred
-    designation: "<i>θ</i><sub>f</sub>"
+    designation: stem:[θ_f]
   language_code: eng
   annotations: []
 termid: 17-1317

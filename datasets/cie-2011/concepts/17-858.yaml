@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-858
   domains:
@@ -21,10 +20,10 @@ id: a76138f7-065b-5ade-999e-957eb685580d
 ---
 data:
   definition:
-  - content: |-
-      battery-powered portable mine luminaire showing a red light, designed for mounting at the rear of a train of cars
+  - content: 'battery-powered portable mine luminaire showing a red light, designed for mounting at the rear of a train of cars
 
-      Equivalent term used in the US: "trip lamp"
+
+      Equivalent term used in the US: "trip lamp"'
     type: intensional
   examples: []
   notes: []
@@ -37,7 +36,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: paddy lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: trip lamp, US
   language_code: eng

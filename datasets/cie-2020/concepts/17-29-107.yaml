@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-107
   domains:
@@ -28,20 +27,20 @@ id: e655ad83-8d54-5ae7-8f6b-d32a154aa939
 ---
 data:
   definition:
-  - content: quotient of the vertical optical thickness of a turbid atmosphere and
-      the vertical optical thickness of the pure and dry atmosphere (Rayleigh atmosphere),
-      related to the whole solar spectrum
+  - content: quotient of the vertical optical thickness of a turbid atmosphere and the vertical optical thickness of the pure and dry atmosphere (Rayleigh atmosphere), related to the whole solar spectrum
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The total turbidity factor can be expressed by
+  - content: 'The total turbidity factor can be expressed by
+
 
       stem:[T_L] = (stem:[delta_R] + stem:[delta_A] + stem:[delta_Z] + stem:[delta_W]) / stem:[delta_R]
 
+
       ~
 
-      where~ stem:[delta_R] is the optical thickness with respect to Rayleigh scattering at the air molecules, and stem:[delta_A], stem:[delta_Z], stem:[delta_W] are the optical thicknesses with respect to Mie scattering and absorption at the aerosol particles, to ozone absorption, and to water vapour absorption respectively.
+
+      where~ stem:[delta_R] is the optical thickness with respect to Rayleigh scattering at the air molecules, and stem:[delta_A], stem:[delta_Z], stem:[delta_W] are the optical thicknesses with respect to Mie scattering and absorption at the aerosol particles, to ozone absorption, and to water vapour absorption respectively.'
     type: intensional
   - content: The total turbidity factor has unit one.
     type: intensional
@@ -75,7 +74,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: Linke turbidity factor
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: total turbidity factor
   language_code: eng

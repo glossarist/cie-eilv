@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-152
   domains:
@@ -21,20 +20,15 @@ id: 880d4b1c-c8e2-5812-a40d-572243e5e1a3
 ---
 data:
   definition:
-  - content: system for determining the tristimulus values of any spectral power distribution
-      using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;,
-      &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching functions stem:[bar
-      x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] adopted
-      by the CIE in 1964
+  - content: system for determining the tristimulus values of any spectral power distribution using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
-  - content: This standard colorimetric system is applicable to centrally-viewed fields
-      of angular subtense greater than about 4° (0,07 rad).
+  - content: This standard colorimetric system is applicable to centrally-viewed fields of angular subtense greater than about 4° (0,07 rad).
     type: intensional
-  - content: |-
-      When this system is used, all symbols that represent colorimetric measures are distinguished by use of the subscript 10.
-      See also CIE 15 <i>Colorimetry</i>
+  - content: 'When this system is used, all symbols that represent colorimetric measures are distinguished by use of the subscript 10.
+
+      See also CIE 15 stem:[Colorimetry]'
     type: intensional
   sources:
   - origin:
@@ -47,10 +41,10 @@ data:
     designation: CIE 1964 standard colorimetric system
   - type: symbol
     normative_status: preferred
-    designation: X10, Y10, Z10
+    designation: stem:[X_10, Y_10, Z_10]
   - type: symbol
     normative_status: preferred
-    designation: "<i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>"
+    designation: stem:[X_10], stem:[Y_10], stem:[Z_10]
   language_code: eng
   annotations: []
 termid: 17-152

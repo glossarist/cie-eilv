@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-090
   domains:
@@ -21,13 +20,11 @@ id: cd9dae49-8902-51bf-8832-d0ffd5133a12
 ---
 data:
   definition:
-  - content: average road surface luminance in a transverse section at a particular
-      location in the transition zone
+  - content: average road surface luminance in a transverse section at a particular location in the transition zone
     type: intensional
   examples: []
   notes:
-  - content: The transition zone luminance is expressed in candela per square metre
-      (cd·m^−2^).
+  - content: The transition zone luminance is expressed in candela per square metre (cdcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-1333 in CIE S 017:2011.
     type: intensional
@@ -47,7 +44,7 @@ data:
     designation: transition zone luminance
   - type: symbol
     normative_status: preferred
-    designation: Ltr
+    designation: stem:[L_tr]
   language_code: eng
   annotations: []
 termid: 17-31-090

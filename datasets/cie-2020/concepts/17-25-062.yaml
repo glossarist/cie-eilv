@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-062
   domains:
@@ -28,10 +27,10 @@ id: bb4e7e9f-2b2c-5506-b469-bf84392efb98
 ---
 data:
   definition:
-  - content: |-
-      quotient of the responsivity, stem:[s](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
+  - content: 'quotient of the responsivity, stem:[s](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
 
-      stem:[s_r = ((s ( Z )))/((s ( N )))]
+
+      stem:[s_r = ((s ( Z )))/((s ( N )))]'
     type: intensional
   examples: []
   notes:
@@ -68,7 +67,7 @@ data:
     normative_status: preferred
     designation: relative responsivity
     usage_info: of a detector
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: sr
   language_code: eng

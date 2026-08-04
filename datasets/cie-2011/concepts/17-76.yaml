@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-76
   domains:
@@ -21,9 +20,7 @@ id: 5c1dc06f-9589-52f8-8cfc-3e38598b2e82
 ---
 data:
   definition:
-  - content: part of an electric lamp which provides connection to the power supply
-      by means of a lampholder or lamp connector and, in most cases, also serves to
-      retain the electric lamp in the lampholder
+  - content: part of an electric lamp which provides connection to the power supply by means of a lampholder or lamp connector and, in most cases, also serves to retain the electric lamp in the lampholder
     type: intensional
   examples: []
   notes:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: base (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: base
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1027
   domains:
@@ -21,12 +20,13 @@ id: c2867ff5-a554-5017-96f4-c5199225c85c
 ---
 data:
   definition:
-  - content: |-
-      change in radiant energy with time
+  - content: 'change in radiant energy with time
+
 
       stem:[Phi_e = ((d Q_e))/((d t))]
 
-      where stem:[Q_e] is the radiant energy emitted, transferred or received, and stem:[t] is time
+
+      where stem:[Q_e] is the radiant energy emitted, transferred or received, and stem:[t] is time'
     type: intensional
   examples: []
   notes: []
@@ -39,12 +39,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: radiant power
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: radiant power
   - type: symbol
     normative_status: preferred
-    designation: "<i>Φ</i><sub>e</sub>; <i>P</i>"
+    designation: stem:[Φ_e]; stem:[P]
   - type: expression
     normative_status: admitted
     designation: radiant flux

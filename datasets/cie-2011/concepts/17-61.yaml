@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-61
   domains:
@@ -21,8 +20,7 @@ id: ee653d4a-e02a-5475-be35-3fd80c818af9
 ---
 data:
   definition:
-  - content: transmittance when the solar radiation is incident perpendicularly on
-      the Earth's atmosphere
+  - content: transmittance when the solar radiation is incident perpendicularly on the Earth's atmosphere
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: atmospheric transmittance
   - type: symbol
     normative_status: preferred
-    designation: P
+    designation: stem:[P]
   - type: symbol
     normative_status: preferred
-    designation: "<i>P</i>"
+    designation: stem:[P]
   language_code: eng
   annotations: []
 termid: 17-61

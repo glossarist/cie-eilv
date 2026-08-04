@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1108
   domains:
@@ -21,8 +20,7 @@ id: ad76e453-c29d-54bc-8baa-1a8e6fdfeaa3
 ---
 data:
   definition:
-  - content: signal light carried on a vehicle to illuminate the way behind the vehicle
-      and to indicate rearwards an intended, or actual, backward movement by the vehicle
+  - content: signal light carried on a vehicle to illuminate the way behind the vehicle and to indicate rearwards an intended, or actual, backward movement by the vehicle
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: reversing light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: backup light
   language_code: eng

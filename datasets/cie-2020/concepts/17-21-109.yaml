@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-109
   domains:
@@ -21,8 +20,7 @@ id: 8bf72cd0-f0be-5fe8-ab61-285127c82b1c
 ---
 data:
   definition:
-  - content: area intercepted on a unit sphere, centred at the point, by a cone having
-      the given area as its base and the point as its vertex
+  - content: area intercepted on a unit sphere, centred at the point, by a cone having the given area as its base and the point as its vertex
     type: intensional
   examples: []
   notes:
@@ -47,7 +45,7 @@ data:
     usage_info: of an area subtended at a point
   - type: symbol
     normative_status: preferred
-    designation: Ω ; ω
+    designation: stem:[Omega] ; stem:[omega]
   language_code: eng
   annotations: []
 termid: 17-21-109

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-424
   domains:
@@ -21,8 +20,7 @@ id: 7c1b36c8-656e-5e06-ade8-6b441b4c6bc0
 ---
 data:
   definition:
-  - content: solar irradiance incident on the outer limit of the Earth's atmosphere
-      considering the whole solar spectrum
+  - content: solar irradiance incident on the outer limit of the Earth's atmosphere considering the whole solar spectrum
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: extraterrestrial solar irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee
+    designation: stem:[E_e]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e</sub>"
+    designation: stem:[E_e]
   language_code: eng
   annotations: []
 termid: 17-424

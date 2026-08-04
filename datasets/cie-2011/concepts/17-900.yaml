@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-900
   domains:
@@ -21,8 +20,7 @@ id: 00f04966-a5a8-5325-910e-d718cc2170c3
 ---
 data:
   definition:
-  - content: photoelectric detector that utilizes the emission of electrons caused
-      by optical radiation
+  - content: photoelectric detector that utilizes the emission of electrons caused by optical radiation
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photoemissive cell
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: phototube
   - type: expression

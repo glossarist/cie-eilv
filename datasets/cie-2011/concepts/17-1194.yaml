@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1194
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: skylight
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: skylight, <of a building>
   language_code: eng

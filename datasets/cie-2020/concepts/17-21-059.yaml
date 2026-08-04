@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-059
   domains:
@@ -25,20 +24,19 @@ id: 00c449a2-c32f-5b5c-b157-3d1f9c387b9f
 ---
 data:
   definition:
-  - content: mean value of photon irradiance on the outer curved surface of a very
-      small (real or imaginary) sphere at a point in space
+  - content: mean value of photon irradiance on the outer curved surface of a very small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The photon spherical irradiance can be expressed by
+  - content: 'The photon spherical irradiance can be expressed by
+
 
       stem:[E_((p ,o)) = underset((4 pi))( int ) L_p d omega]
 
-      where stem:[Omega] is solid angle and stem:[L_p] is photon radiance.
+
+      where stem:[Omega] is solid angle and stem:[L_p] is photon radiance.'
     type: intensional
-  - content: The photon spherical irradiance is expressed in second to the power minus
-      one per square metre (s^−1^·m^−2^).
+  - content: The photon spherical irradiance is expressed in second to the power minus one per square metre (s^−1^cdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-934 and 17-926 in CIE S 017:2011.
     type: intensional
@@ -56,7 +54,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photon spherical irradiance
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: photon fluence rate
   language_code: eng

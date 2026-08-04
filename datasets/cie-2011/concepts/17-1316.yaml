@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1316
   domains:
@@ -21,15 +20,11 @@ id: fdce9235-3235-5a37-bcd1-47ff9d389577
 ---
 data:
   definition:
-  - content: angle between a defined datum axis related to the luminaire and the horizontal
-      when the luminaire is mounted for photometric measurement
+  - content: angle between a defined datum axis related to the luminaire and the horizontal when the luminaire is mounted for photometric measurement
     type: intensional
   examples: []
   notes:
-  - content: The defined datum axis may be any feature of the luminaire, but generally
-      for a side- mounted luminaire it lies in the mouth of the luminaire canopy,
-      in line with the spigot axis. Another commonly used feature is the spigot entry
-      axis.
+  - content: The defined datum axis may be any feature of the luminaire, but generally for a side- mounted luminaire it lies in the mouth of the luminaire canopy, in line with the spigot axis. Another commonly used feature is the spigot entry axis.
     type: intensional
   sources:
   - origin:
@@ -42,10 +37,10 @@ data:
     designation: tilt during measurement (of a luminaire)
   - type: symbol
     normative_status: preferred
-    designation: θm
+    designation: stem:[theta]m
   - type: symbol
     normative_status: preferred
-    designation: θ<sub>m</sub>
+    designation: stem:[theta]~m~
   language_code: eng
   annotations: []
 termid: 17-1316

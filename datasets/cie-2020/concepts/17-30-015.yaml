@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-015
   domains:
@@ -28,8 +27,7 @@ id: 23541b7a-690d-516e-9209-021f0b15bf4d
 ---
 data:
   definition:
-  - content: luminaire provided with a cord, chain, tube, etc., which permits it to
-      be suspended from a ceiling or a wall support
+  - content: luminaire provided with a cord, chain, tube, etc., which permits it to be suspended from a ceiling or a wall support
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: pendant luminaire
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: suspended luminaire, US
   language_code: eng

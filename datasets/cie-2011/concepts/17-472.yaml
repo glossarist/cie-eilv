@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-472
   domains:
@@ -21,8 +20,7 @@ id: b375a45b-938b-5d38-9d7a-296192417435
 ---
 data:
   definition:
-  - content: central part of the retina, thin and depressed, which contains almost
-      exclusively cones and forming the site of most distinct vision
+  - content: central part of the retina, thin and depressed, which contains almost exclusively cones and forming the site of most distinct vision
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: fovea centralis
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fovea centralis
   language_code: eng

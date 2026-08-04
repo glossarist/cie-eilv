@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-295
   domains:
@@ -21,10 +20,10 @@ id: ad1165da-896f-514d-83d1-5e8a6bde135b
 ---
 data:
   definition:
-  - content: |-
-      reciprocal of the noise equivalent power, stem:[Phi_m]
+  - content: 'reciprocal of the noise equivalent power, stem:[Phi_m]
 
-      stem:[D = (1)/((Phi_m))]
+
+      stem:[D = (1)/((Phi_m))]'
     type: intensional
   examples: []
   notes: []
@@ -39,10 +38,10 @@ data:
     designation: detectivity (of a detector)
   - type: symbol
     normative_status: preferred
-    designation: D
+    designation: stem:[D]
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i>"
+    designation: stem:[D]
   language_code: eng
   annotations: []
 termid: 17-295

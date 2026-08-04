@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-060
   domains:
@@ -21,16 +20,11 @@ id: 17a5b4fb-2b35-5c73-b8e5-72f3fee08ceb
 ---
 data:
   definition:
-  - content: function representing the relative spectral sensitivity of the human
-      eye to blue light hazards, based upon the relative spectral effectiveness of
-      {{concept:cie-2020:17-21-002, optical radiation}} to induce retinal photochemical
-      injury (e.g. photic maculopathy)
+  - content: function representing the relative spectral sensitivity of the human eye to blue light hazards, based upon the relative spectral effectiveness of {{concept:cie-2020:17-21-002, optical radiation}} to induce retinal photochemical injury (e.g. photic maculopathy)
     type: intensional
   examples: []
   notes:
-  - content: The wavelength range for the blue light hazard spectral weighting function
-      is specified in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] =
-      700 nm.
+  - content: The wavelength range for the blue light hazard spectral weighting function is specified in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
     type: intensional
   - content: The blue light hazard spectral weighting function has unit one.
     type: intensional
@@ -52,7 +46,7 @@ data:
     designation: blue light hazard spectral weighting function
   - type: symbol
     normative_status: preferred
-    designation: B(λ)
+    designation: stem:[B(lambda)]
   language_code: eng
   annotations: []
 termid: 17-26-060

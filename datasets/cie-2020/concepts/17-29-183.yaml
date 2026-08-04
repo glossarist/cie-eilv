@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-183
   domains:
@@ -25,14 +24,11 @@ id: e206e8fd-6802-5c27-81ce-4c49c10020ef
 ---
 data:
   definition:
-  - content: location (in a designated zone of a certain zone rating) for which the
-      light pollution (the sky glow) is assessed
+  - content: location (in a designated zone of a certain zone rating) for which the light pollution (the sky glow) is assessed
     type: intensional
   examples: []
   notes:
-  - content: Environmental zones are indicated by a zone rating (E0 … E4) in accordance
-      with CIE 150:2017, _Guide on the Limitation of the Effects of Obtrusive Light
-      from Outdoor Lighting Installations, 2nd Edition_.
+  - content: Environmental zones are indicated by a zone rating (E0 … E4) in accordance with CIE 150:2017, _Guide on the Limitation of the Effects of Obtrusive Light from Outdoor Lighting Installations, 2nd Edition_.
     type: intensional
   sources:
   - origin:
@@ -49,7 +45,7 @@ data:
     normative_status: preferred
     designation: reference location
     usage_info: for the assessment of light pollution
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: reference point, <for the assessment of light pollution>
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1123
   domains:
@@ -21,8 +20,7 @@ id: 7b87f77d-323d-5fba-a620-c81bacdd6602
 ---
 data:
   definition:
-  - content: angle that the first axis of the luminaire makes with the nadir of the
-      luminaire, when the tilt during measurement is 0°
+  - content: angle that the first axis of the luminaire makes with the nadir of the luminaire, when the tilt during measurement is 0°
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: rotation (of a luminaire)
   - type: symbol
     normative_status: preferred
-    designation: ψ
+    designation: stem:[psi]
   - type: symbol
     normative_status: preferred
-    designation: "<i>ψ</i>"
+    designation: stem:[ψ]
   language_code: eng
   annotations: []
 termid: 17-1123

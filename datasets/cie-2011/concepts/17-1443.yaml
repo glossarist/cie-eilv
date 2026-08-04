@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1443
   domains:
@@ -17,7 +16,7 @@ sources:
     link: https://web.archive.org/web/20190922034214/http://eilv.cie.co.at/term/1443
   type: authoritative
 status: valid
-id: '09c836e0-c1d2-5f48-b75a-da89b24de3f0'
+id: 09c836e0-c1d2-5f48-b75a-da89b24de3f0
 ---
 data:
   definition:
@@ -25,10 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: In interior lighting and unless otherwise indicated, this plane is assumed
-      to be a horizontal plane 0,85 m above the floor and limited by the walls of
-      the room. In the US the working plane is usually assumed to be 0,76 m above
-      the floor, in Russia 0,8 m above the floor.
+  - content: In interior lighting and unless otherwise indicated, this plane is assumed to be a horizontal plane 0,85 m above the floor and limited by the walls of the room. In the US the working plane is usually assumed to be 0,76 m above the floor, in Russia 0,8 m above the floor.
     type: intensional
   sources:
   - origin:
@@ -39,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: working plane
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: work plane
   - type: expression

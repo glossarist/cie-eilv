@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-105
   domains:
@@ -21,15 +20,11 @@ id: 4c1977f5-b1ed-5291-a7cb-f8ace5d08392
 ---
 data:
   definition:
-  - content: quotient of the reflected luminance at a point on a surface of a non-self-radiating
-      medium in a given direction and that of the perfect reflecting diffuser identically
-      irradiated and viewed
+  - content: quotient of the reflected luminance at a point on a surface of a non-self-radiating medium in a given direction and that of the perfect reflecting diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes:
-  - content: The reflected luminance factor for a spectrally non-neutral surface depends
-      upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the
-      illumination. This quantity has to be specified.
+  - content: The reflected luminance factor for a spectrally non-neutral surface depends upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the illumination. This quantity has to be specified.
     type: intensional
   - content: The reflected luminance factor has unit one.
     type: intensional
@@ -51,7 +46,7 @@ data:
     designation: reflected luminance factor
   - type: symbol
     normative_status: preferred
-    designation: βv,R
+    designation: stem:[beta]v,R
   language_code: eng
   annotations: []
 termid: 17-21-105

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-038
   domains:
@@ -16,17 +15,13 @@ id: b1c90a12-7910-5100-8b41-d9d6c18ef1fc
 ---
 data:
   definition:
-  - content: discharge tube having cathodes which can be coated with an electron emitting
-      material and which, during the starting process without external heating, emits
-      electrons by field emission
+  - content: discharge tube having cathodes which can be coated with an electron emitting material and which, during the starting process without external heating, emits electrons by field emission
     type: intensional
   examples: []
   notes:
-  - content: Tubular cold-cathode discharge lamps have a low-pressure filling of a
-      rare gas (or a mixture of rare gases) and possibly mercury vapour.
+  - content: Tubular cold-cathode discharge lamps have a low-pressure filling of a rare gas (or a mixture of rare gases) and possibly mercury vapour.
     type: intensional
-  - content: Tubular cold-cathode discharge lamps can have an inside coating of {{concept:cie-2020:17-24-041,
-      fluorescent material}}s.
+  - content: Tubular cold-cathode discharge lamps can have an inside coating of {{concept:cie-2020:17-24-041, fluorescent material}}s.
     type: intensional
   sources:
   - origin:
@@ -37,7 +32,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: tubular cold-cathode discharge lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: neon tube
   language_code: eng

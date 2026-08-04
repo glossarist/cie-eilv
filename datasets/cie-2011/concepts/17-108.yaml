@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-108
   domains:
@@ -21,8 +20,7 @@ id: e09be432-e222-5e34-91aa-bb6008505788
 ---
 data:
   definition:
-  - content: signal light carried on a vehicle to indicate rearwards that a brake
-      is being applied to the vehicle
+  - content: signal light carried on a vehicle to indicate rearwards that a brake is being applied to the vehicle
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: brake light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: brake light
   language_code: eng

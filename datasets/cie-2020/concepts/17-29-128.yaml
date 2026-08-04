@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-128
   domains:
@@ -21,12 +20,11 @@ id: fc81e6b7-7dd3-5fdd-9830-1d2b60b5af94
 ---
 data:
   definition:
-  - content: illuminance produced by direct sunlight on a horizontal surface on the
-      Earth
+  - content: illuminance produced by direct sunlight on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes:
-  - content: The direct solar illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: The direct solar illuminance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-321 in CIE S 017:2011.
     type: intensional
@@ -46,7 +44,7 @@ data:
     designation: direct solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,s
+    designation: stem:[E_(v,s)]
   language_code: eng
   annotations: []
 termid: 17-29-128

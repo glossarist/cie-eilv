@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-926
   domains:
@@ -21,8 +20,7 @@ id: 2aa0bb6a-1233-5be9-87f3-dfa28ffa500e
 ---
 data:
   definition:
-  - content: mean value of photon irradiance on the outer curved surface of a very
-      small (real or imaginary) sphere at a point in space
+  - content: mean value of photon irradiance on the outer curved surface of a very small (real or imaginary) sphere at a point in space
     type: intensional
   examples: []
   notes: []
@@ -35,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: photon fluence rate (at a point)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: photon fluence rate
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>p,o</sub>"
+    designation: stem:[E_p,o]
   language_code: eng
   annotations: []
 termid: 17-926

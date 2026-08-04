@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-017
   domains:
@@ -28,8 +27,7 @@ id: e738539d-6f2c-5502-9c25-65acb46fe78a
 ---
 data:
   definition:
-  - content: regular transmittance of the atmosphere over a path of a specified length
-      stem:[d_0]
+  - content: regular transmittance of the atmosphere over a path of a specified length stem:[d_0]
     type: intensional
   examples: []
   notes:
@@ -65,7 +63,7 @@ data:
     designation: atmospheric transmissivity
   - type: symbol
     normative_status: preferred
-    designation: T
+    designation: stem:[T]
   language_code: eng
   annotations: []
 termid: 17-31-017

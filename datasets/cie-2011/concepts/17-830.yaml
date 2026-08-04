@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-830
   domains:
@@ -21,8 +20,7 @@ id: 1b485f13-e993-5bd7-ba06-8f4b3aafdf79
 ---
 data:
   definition:
-  - content: lighting device carried on a vehicle to illuminate the number plate,
-      or registration plate, or licence plate, at the rear of the vehicle
+  - content: lighting device carried on a vehicle to illuminate the number plate, or registration plate, or licence plate, at the rear of the vehicle
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: number-plate light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: rear registration-plate light
   - type: expression

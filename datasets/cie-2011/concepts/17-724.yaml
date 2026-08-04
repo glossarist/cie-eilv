@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-724
   domains:
@@ -21,10 +20,7 @@ id: 86731eab-b850-5182-aea8-61f68ee33479
 ---
 data:
   definition:
-  - content: radiance in a given direction that results from emission at the surface
-      of a photoluminescent medium under specified conditions of irradiation compared
-      to the radiance in the same direction by the perfect reflecting diffuser identically
-      irradiated
+  - content: radiance in a given direction that results from emission at the surface of a photoluminescent medium under specified conditions of irradiation compared to the radiance in the same direction by the perfect reflecting diffuser identically irradiated
     type: intensional
   examples: []
   notes: []
@@ -36,14 +32,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: luminescent radiance factor (at a surface of a photoluminescent medium
-      in a given direction, under specified conditions of illumination)
+    designation: luminescent radiance factor (at a surface of a photoluminescent medium in a given direction, under specified conditions of illumination)
   - type: symbol
     normative_status: preferred
-    designation: βL
+    designation: stem:[beta]L
   - type: symbol
     normative_status: preferred
-    designation: "<i>β</i><sub>L</sub>"
+    designation: stem:[β_L]
   language_code: eng
   annotations: []
 termid: 17-724

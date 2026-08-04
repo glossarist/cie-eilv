@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1175
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: sidelight (of vehicles)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: side-marker light
   language_code: eng

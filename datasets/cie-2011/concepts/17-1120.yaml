@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1120
   domains:
@@ -21,19 +20,17 @@ id: b8a9c400-3060-5573-82b9-966e67678d97
 ---
 data:
   definition:
-  - content: quotient of five times the sum of the area of the walls bounded by the
-      working plane and the plane of the luminaires and the sum of the areas of the
-      working plane and the plane of the luminaires, used in the calculation of the
-      utilization factor or utilance
+  - content: quotient of five times the sum of the area of the walls bounded by the working plane and the plane of the luminaires and the sum of the areas of the working plane and the plane of the luminaires, used in the calculation of the utilization factor or utilance
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The room cavity ratio is expressed by the formula
+  - content: 'The room cavity ratio is expressed by the formula
+
 
       stem:[K = ((5 h ( a + b )))/((a b))]
 
-      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h] the mounting height, that is the distance between the working plane and the plane of the luminaires.'
     type: intensional
   - content: See also "ceiling cavity ratio" and "floor cavity ratio".
     type: intensional
@@ -52,10 +49,10 @@ data:
     designation: room cavity ratio
   - type: symbol
     normative_status: preferred
-    designation: K
+    designation: stem:[K]
   - type: symbol
     normative_status: preferred
-    designation: "<i>K</i>"
+    designation: stem:[K]
   language_code: eng
   annotations: []
 termid: 17-1120

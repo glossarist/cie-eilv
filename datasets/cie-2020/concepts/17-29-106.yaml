@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-106
   domains:
@@ -32,10 +31,10 @@ id: a533818e-e723-5d56-9133-0f88ff581a0b
 ---
 data:
   definition:
-  - content: |-
-      stem:[delta ( epsilon ) = - ln ((Phi^( ' )_e))/((Phi_e))]
+  - content: 'stem:[delta ( epsilon ) = - ln ((Phi^( '' )_e))/((Phi_e))]
 
-      where stem:[Phi_e] is the radiant flux of a collimated beam entering the upper limit layers of the atmosphere at an angle stem:[epsilon] to the vertical, and stem:[Phi^( ' )_e] is the attenuated radiant flux of that beam reaching the surface of the Earth
+
+      where stem:[Phi_e] is the radiant flux of a collimated beam entering the upper limit layers of the atmosphere at an angle stem:[epsilon] to the vertical, and stem:[Phi^( '' )_e] is the attenuated radiant flux of that beam reaching the surface of the Earth'
     type: intensional
   examples: []
   notes:
@@ -74,7 +73,7 @@ data:
     normative_status: preferred
     designation: optical thickness
     usage_info: of the atmosphere
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: optical depth, <of the atmosphere>
   language_code: eng

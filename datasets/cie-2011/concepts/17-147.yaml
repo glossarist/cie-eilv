@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-147
   domains:
@@ -21,14 +20,11 @@ id: a9dfd43d-22cc-5c3e-89ac-1b7ba10c9607
 ---
 data:
   definition:
-  - content: plane diagram in which points specified by chromaticity coordinates represent
-      the chromaticities of colour stimuli
+  - content: plane diagram in which points specified by chromaticity coordinates represent the chromaticities of colour stimuli
     type: intensional
   examples: []
   notes:
-  - content: In the CIE standard colorimetric systems <i>y</i> is normally plotted
-      as ordinate and x as abscissa, to obtain an <i>x</i>, <i>y</i> chromaticity
-      diagram.
+  - content: In the CIE standard colorimetric systems stem:[y] is normally plotted as ordinate and x as abscissa, to obtain an stem:[x], stem:[y] chromaticity diagram.
     type: intensional
   sources:
   - origin:

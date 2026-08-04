@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1358
   domains:
@@ -21,9 +20,7 @@ id: f77ab19f-d0d6-5057-941f-89cba4da31fb
 ---
 data:
   definition:
-  - content: hollow sphere, the interior of which is formed from, or coated with,
-      a diffusely-reflecting material that is as spectrally neutral and as spatially
-      uniform as possible
+  - content: hollow sphere, the interior of which is formed from, or coated with, a diffusely-reflecting material that is as spectrally neutral and as spatially uniform as possible
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: Ulbricht sphere
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: Ulbricht sphere
   language_code: eng

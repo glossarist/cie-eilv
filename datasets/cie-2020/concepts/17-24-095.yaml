@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-095
   domains:
@@ -28,17 +27,11 @@ id: 986a3f27-0aa3-5e76-8e80-fbb4aece5a08
 ---
 data:
   definition:
-  - content: spectral internal absorptance of a layer of an absorbing material such
-      that the path of the radiation is of dimension length, and under conditions
-      in which the boundary of the material has no influence
+  - content: spectral internal absorptance of a layer of an absorbing material such that the path of the radiation is of dimension length, and under conditions in which the boundary of the material has no influence
     type: intensional
   examples: []
   notes:
-  - content: The unit of the quantity length has to be specified. If a new unit of
-      length is used that is stem:[k] times the magnitude of the original one, then
-      the value of stem:[alpha_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )]
-      will change to stem:[alpha^( ' )_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda
-      )^k].
+  - content: The unit of the quantity length has to be specified. If a new unit of length is used that is stem:[k] times the magnitude of the original one, then the value of stem:[alpha_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )] will change to stem:[alpha^( ' )_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )^k].
     type: intensional
   - content: The spectral absorptivity has unit one.
     type: intensional
@@ -75,7 +68,7 @@ data:
     usage_info: of an absorbing material
   - type: symbol
     normative_status: preferred
-    designation: αi,o(λ)
+    designation: stem:[alpha]i,o(stem:[lambda])
   language_code: eng
   annotations: []
 termid: 17-24-095

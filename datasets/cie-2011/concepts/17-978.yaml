@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-978
   domains:
@@ -21,10 +20,7 @@ id: 57e38938-e8b7-5f02-a828-fa86549e4f70
 ---
 data:
   definition:
-  - content: cap which enables the luminous element to be brought into a specified
-      position relative to the cap during manufacture of the electric lamp so that
-      reproducible positioning can be assured when the electric lamp is inserted in
-      a suitable lampholder
+  - content: cap which enables the luminous element to be brought into a specified position relative to the cap during manufacture of the electric lamp so that reproducible positioning can be assured when the electric lamp is inserted in a suitable lampholder
     type: intensional
   examples: []
   notes:
@@ -39,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: prefocus cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: prefocus base
   language_code: eng

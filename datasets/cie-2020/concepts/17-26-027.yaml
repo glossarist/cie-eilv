@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-027
   domains:
@@ -32,16 +31,11 @@ id: fa6690d5-27ea-5715-9633-4a3bd3f1367f
 ---
 data:
   definition:
-  - content: function representing the relative spectral effectiveness of {{concept:cie-2020:17-21-002,
-      optical radiation}}, for a specified biological effect, in a specified system
+  - content: function representing the relative spectral effectiveness of {{concept:cie-2020:17-21-002, optical radiation}}, for a specified biological effect, in a specified system
     type: intensional
   examples: []
   notes:
-  - content: The normalized action spectrum is the wavelength dependence of the inverse
-      of the dose of {{concept:cie-2020:17-21-014, monochromatic radiation}} required
-      to induce a certain (biologic) response; the action spectrum is commonly normalized
-      to a value of 1 at the wavelength of "maximum action", i.e. where the smallest
-      dose suffices to induce the required effect.
+  - content: The normalized action spectrum is the wavelength dependence of the inverse of the dose of {{concept:cie-2020:17-21-014, monochromatic radiation}} required to induce a certain (biologic) response; the action spectrum is commonly normalized to a value of 1 at the wavelength of "maximum action", i.e. where the smallest dose suffices to induce the required effect.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-14, 845-06-14}} in IEC 60050-845:1987.
     type: intensional
@@ -73,7 +67,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: action spectrum
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectral weighting function
   language_code: eng

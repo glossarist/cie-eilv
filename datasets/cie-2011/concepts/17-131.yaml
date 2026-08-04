@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-131
   domains:
@@ -21,19 +20,17 @@ id: 22ee27c9-8cd0-50ad-bcf3-f304052d600b
 ---
 data:
   definition:
-  - content: quotient of the sum of the areas of the ceiling and the plane of the
-      luminaires and the sum of the area of the walls bounded by the ceiling and the
-      plane of the luminaires, used in the calculation of the utilization factor or
-      utilance
+  - content: quotient of the sum of the areas of the ceiling and the plane of the luminaires and the sum of the area of the walls bounded by the ceiling and the plane of the luminaires, used in the calculation of the utilization factor or utilance
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The ceiling cavity index is given by the formula
+  - content: 'The ceiling cavity index is given by the formula
+
 
       stem:[K_c = ((a b))/((h_c ( a + b )))]
 
-      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_c] is the distance from the ceiling to the plane of the luminaires.
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_c] is the distance from the ceiling to the plane of the luminaires.'
     type: intensional
   - content: See also "floor cavity index" and "{{17-1121, room index}}".
     type: intensional
@@ -52,7 +49,7 @@ data:
     designation: ceiling cavity index
   - type: symbol
     normative_status: preferred
-    designation: Kc; K
+    designation: stem:[K_c]
   language_code: eng
   annotations: []
 termid: 17-131

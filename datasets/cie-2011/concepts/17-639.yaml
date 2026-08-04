@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-639
   domains:
@@ -21,14 +20,11 @@ id: 5c53c3e9-151c-5a26-aa47-30ac8735844d
 ---
 data:
   definition:
-  - content: device that holds the electric lamp in position, usually by having the
-      cap inserted in it, in which case it also provides the means of connecting the
-      electric lamp to the power supply
+  - content: device that holds the electric lamp in position, usually by having the cap inserted in it, in which case it also provides the means of connecting the electric lamp to the power supply
     type: intensional
   examples: []
   notes:
-  - content: The term "socket" or, when the context is clear, the abbreviation "holder"
-      are commonly used instead of "lampholder".
+  - content: The term "socket" or, when the context is clear, the abbreviation "holder" are commonly used instead of "lampholder".
     type: intensional
   - content: See NOTE 2 to "{{17-119, cap}}" and to "{{17-76, base (US)}}".
     type: intensional
@@ -41,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lampholder
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: holder, <of an electric lamp>
   language_code: eng

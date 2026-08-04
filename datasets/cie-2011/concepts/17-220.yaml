@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-220
   domains:
@@ -21,9 +20,7 @@ id: 19c32855-843d-55af-a4be-3072328441cb
 ---
 data:
   definition:
-  - content: colour image from an output device or a reflective or transparent hardcopy
-      to be measured, in which the device control values are kept constant within
-      the image area
+  - content: colour image from an output device or a reflective or transparent hardcopy to be measured, in which the device control values are kept constant within the image area
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: colour patch, test area
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: test area
   language_code: eng

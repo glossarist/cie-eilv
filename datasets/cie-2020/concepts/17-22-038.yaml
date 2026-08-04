@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-038
   domains:
@@ -32,11 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: When the eye is viewing a surface of uniform luminance, the numerical
-      value of the conventional retinal illuminance or the natural pupil luminance,
-      expressed in troland, is equal to the product of the area in square millimetres
-      of the limiting pupil, natural or artificial, by the luminance of the surface
-      in candela per square metre.
+  - content: When the eye is viewing a surface of uniform luminance, the numerical value of the conventional retinal illuminance or the natural pupil luminance, expressed in troland, is equal to the product of the area in square millimetres of the limiting pupil, natural or artificial, by the luminance of the surface in candela per square metre.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-16, 845-02-16}} in IEC 60050-845:1987.
     type: intensional
@@ -70,7 +65,7 @@ data:
     designation: troland
   - type: symbol
     normative_status: preferred
-    designation: Td
+    designation: stem:[T_d]
   language_code: eng
   annotations: []
 termid: 17-22-038

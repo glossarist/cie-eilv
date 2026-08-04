@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-090
   domains:
@@ -28,14 +27,11 @@ id: 9f87b7cc-b299-5b17-95b1-0000c114423e
 ---
 data:
   definition:
-  - content: reciprocal of the least perceptible luminance contrast, usually expressed
-      as stem:[L]/stem:[Delta L_(th)], where stem:[L] is the average luminance and
-      stem:[Delta L_(th)] is the luminance difference threshold
+  - content: reciprocal of the least perceptible luminance contrast, usually expressed as stem:[L]/stem:[Delta L_(th)], where stem:[L] is the average luminance and stem:[Delta L_(th)] is the luminance difference threshold
     type: intensional
   examples: []
   notes:
-  - content: The value of stem:[S_c] depends on a number of factors including the
-      luminance, the viewing conditions and the state of adaptation.
+  - content: The value of stem:[S_c] depends on a number of factors including the luminance, the viewing conditions and the state of adaptation.
     type: intensional
   - content: The contrast sensitivity has unit one.
     type: intensional
@@ -71,7 +67,7 @@ data:
     designation: contrast sensitivity
   - type: symbol
     normative_status: preferred
-    designation: Sc
+    designation: stem:[S_c]
   language_code: eng
   annotations: []
 termid: 17-22-090

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-739
   domains:
@@ -21,12 +20,13 @@ id: 4c26c5c9-3da1-509e-af71-5423efae25c3
 ---
 data:
   definition:
-  - content: |-
-      density of luminous flux with respect to solid angle in a specified direction
+  - content: 'density of luminous flux with respect to solid angle in a specified direction
+
 
       stem:[I_v = ((d Phi_v))/((d omega))]
 
-      where stem:[Phi_v] is the luminous flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction
+
+      where stem:[Phi_v] is the luminous flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction'
     type: intensional
   examples: []
   notes:
@@ -43,10 +43,10 @@ data:
     designation: luminous intensity (of a source, in a given direction)
   - type: symbol
     normative_status: preferred
-    designation: Iv; I
+    designation: stem:[I_v]
   - type: symbol
     normative_status: preferred
-    designation: "<i>I</i><sub>v</sub>; <i>I</i>"
+    designation: stem:[I_v]; stem:[I]
   language_code: eng
   annotations: []
 termid: 17-739

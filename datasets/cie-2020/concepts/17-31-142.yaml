@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-142
   domains:
@@ -21,13 +20,11 @@ id: 04b0fb11-71d5-50de-a49c-ace95e6f6883
 ---
 data:
   definition:
-  - content: quotient of the minimum luminance at a point and the average road surface
-      luminance over an evaluation area
+  - content: quotient of the minimum luminance at a point and the average road surface luminance over an evaluation area
     type: intensional
   examples: []
   notes:
-  - content: Where the luminance value refers only to the carriageway part of the
-      road it can be known as "carriageway luminance".
+  - content: Where the luminance value refers only to the carriageway part of the road it can be known as "carriageway luminance".
     type: intensional
   - content: The overall uniformity of road surface luminance has unit one.
     type: intensional
@@ -49,7 +46,7 @@ data:
     designation: overall uniformity of road surface luminance
   - type: symbol
     normative_status: preferred
-    designation: Uo
+    designation: stem:[U_o]
   language_code: eng
   annotations: []
 termid: 17-31-142

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-454
   domains:
@@ -31,7 +30,7 @@ data:
     designation: fluence (at a point, for a given exposure duration)
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>e,o</sub>; <i>H</i><sub>o</sub>"
+    designation: stem:[H_e,o]; stem:[H_o]
   language_code: eng
   annotations: []
 termid: 17-454

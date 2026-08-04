@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-002
   domains:
@@ -28,9 +27,7 @@ id: 71f23036-bb91-5062-858a-0e3fa71e5546
 ---
 data:
   definition:
-  - content: electromagnetic radiation at wavelengths between the region of transition
-      to X-rays (stem:[lambda] ≈ 1 nm) and the region of transition to radio waves
-      (stem:[lambda] ≈ 1 mm)
+  - content: electromagnetic radiation at wavelengths between the region of transition to X-rays (stem:[lambda] ~~ 1 nm) and the region of transition to radio waves (stem:[lambda] ~~ 1 mm)
     type: intensional
   examples: []
   notes:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1227
   domains:
@@ -21,10 +20,7 @@ id: 2bfbea17-6149-5fb7-b617-5f37e2b3757e
 ---
 data:
   definition:
-  - content: quotient of the total photon number of all wavelengths emitted from a
-      specimen by a fluorescent process for an excitation at wavelength stem:[mu],
-      and the photon number of wavelength stem:[mu] reflected from the perfect reflecting
-      diffuser identically irradiated and viewed
+  - content: quotient of the total photon number of all wavelengths emitted from a specimen by a fluorescent process for an excitation at wavelength stem:[mu], and the photon number of wavelength stem:[mu] reflected from the perfect reflecting diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes: []
@@ -39,10 +35,10 @@ data:
     designation: spectral quantum efficiency of the fluorescent process
   - type: symbol
     normative_status: preferred
-    designation: ημ(μ)
+    designation: stem:[eta]stem:[mu](stem:[mu])
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i><sub><i>µ</i></sub>(<i>µ</i>)"
+    designation: stem:[η]~stem:[µ]~(stem:[µ])
   language_code: eng
   annotations: []
 termid: 17-1227

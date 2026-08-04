@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-023
   domains:
@@ -32,9 +31,7 @@ id: 36641ef2-2381-5230-a080-09b17ab037d5
 ---
 data:
   definition:
-  - content: piece of metal, insulated from the shell of the {{concept:cie-2020:17-28-015,
-      cap}}, which is connected to one of the lead-in wires and provides connection
-      to the power supply
+  - content: piece of metal, insulated from the shell of the {{concept:cie-2020:17-28-015, cap}}, which is connected to one of the lead-in wires and provides connection to the power supply
     type: intensional
   examples: []
   notes:
@@ -68,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: contact plate
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: eyelet, US
   language_code: eng

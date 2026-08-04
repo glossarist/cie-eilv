@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-039
   domains:
@@ -28,13 +27,11 @@ id: 29ba2d66-6691-5959-8f65-221d7f539e3c
 ---
 data:
   definition:
-  - content: characteristic of all sensations and perceptions that is specific to
-      the visual system
+  - content: characteristic of all sensations and perceptions that is specific to the visual system
     type: intensional
   examples: []
   notes:
-  - content: Light is normally, but not always, perceived as a result of the action
-      of a light stimulus on the visual system.
+  - content: Light is normally, but not always, perceived as a result of the action of a light stimulus on the visual system.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-17, 845-02-17}} in IEC 60050-845:1987.
     type: intensional
@@ -74,7 +71,7 @@ data:
       adverb: false
       noun: true
       preposition: false
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: perceived light
   language_code: eng

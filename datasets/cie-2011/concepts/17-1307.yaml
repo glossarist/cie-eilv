@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1307
   domains:
@@ -21,8 +20,7 @@ id: ca6c7c7c-d085-55c8-998b-70a5fd3c35e0
 ---
 data:
   definition:
-  - content: luminescence occurring when a previously excited luminescent material
-      is heated
+  - content: luminescence occurring when a previously excited luminescent material is heated
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: thermally activated luminescence
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: thermally activated luminescence
   language_code: eng

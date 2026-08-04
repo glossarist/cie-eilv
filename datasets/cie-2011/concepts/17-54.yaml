@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-54
   domains:
@@ -21,14 +20,11 @@ id: c9000209-7034-5f51-9db7-d6d68dce8176
 ---
 data:
   definition:
-  - content: electric discharge characterized by a cathode fall which is small compared
-      to that in a glow discharge
+  - content: electric discharge characterized by a cathode fall which is small compared to that in a glow discharge
     type: intensional
   examples: []
   notes:
-  - content: The emission of the cathode results from various causes (thermionic emission,
-      field emission, etc.) acting simultaneously or separately, secondary emission
-      plays only a small part.
+  - content: The emission of the cathode results from various causes (thermionic emission, field emission, etc.) acting simultaneously or separately, secondary emission plays only a small part.
     type: intensional
   sources:
   - origin:
@@ -39,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: arc discharge
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: electric arc, <in a gas or in a vapour>
   - type: expression

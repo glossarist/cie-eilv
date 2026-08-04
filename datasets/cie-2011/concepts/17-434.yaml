@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-434
   domains:
@@ -21,19 +20,11 @@ id: ef672300-7857-58cf-9f8d-88af2361a093
 ---
 data:
   definition:
-  - content: regularly transmitting device used to modify the absolute flux level
-      (radiant or luminous) or relative spectral distribution, or both, of the radiation
-      passing through it
+  - content: regularly transmitting device used to modify the absolute flux level (radiant or luminous) or relative spectral distribution, or both, of the radiation passing through it
     type: intensional
   examples: []
   notes:
-  - content: A distinction is made between selective filters and non-selective filters
-      or neutral filters according to whether they do or do not alter the relative
-      spectral distribution of the radiation. A selective filter that makes a significant
-      change in the chromaticity of the radiation is called a colour filter; one that
-      alters the spectral distribution but, because of metamerism, transmits radiation
-      of nearly the same chromaticity as that of the incident radiation, may be called
-      a grey filter.
+  - content: A distinction is made between selective filters and non-selective filters or neutral filters according to whether they do or do not alter the relative spectral distribution of the radiation. A selective filter that makes a significant change in the chromaticity of the radiation is called a colour filter; one that alters the spectral distribution but, because of metamerism, transmits radiation of nearly the same chromaticity as that of the incident radiation, may be called a grey filter.
     type: intensional
   sources:
   - origin:
@@ -44,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: filter
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: optical filter
   language_code: eng
