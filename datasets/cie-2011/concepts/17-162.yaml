@@ -20,7 +20,7 @@ id: c1a130c8-f387-5137-95f7-19a493cb72b4
 ---
 data:
   definition:
-  - content: "uniform chromaticity scale diagram produced by plotting in rectangular coordinates stem:[v]′ against stem:[u]′, quantities defined by the equations:<ul style=\"list-style-type:none;\">* stem:[u]′ = 4 stem:[X] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 4stem:[x] / (−2stem:[x] + 12stem:[y] + 3) * stem:[v]′ = 9 stem:[Y] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (−2stem:[x] +12stem:[y] + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the tristimulus values in the CIE 1931 or 1964 standard colorimetric systems, and stem:[x], stem:[y] are the corresponding chromaticity coordinates of the colour stimulus considered"
+  - content: "uniform chromaticity scale diagram produced by plotting in rectangular coordinates stem:[v]' against stem:[u]', quantities defined by the equations:<ul style=\"list-style-type:none;\">* stem:[u]' = 4 stem:[X] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 4stem:[x] / (-2stem:[x] + 12stem:[y] + 3) * stem:[v]' = 9 stem:[Y] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (-2stem:[x] +12stem:[y] + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the tristimulus values in the CIE 1931 or 1964 standard colorimetric systems, and stem:[x], stem:[y] are the corresponding chromaticity coordinates of the colour stimulus considered"
     type: intensional
   examples: []
   notes:

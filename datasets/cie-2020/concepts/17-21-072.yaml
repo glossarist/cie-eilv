@@ -49,7 +49,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "radiant exposure". The corresponding quantity for photons is "photon exposure"
     type: intensional
-  - content: The luminous exposure is expressed in lux second (lxcdots = lmcdotscdotm^−2^).
+  - content: The luminous exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-43, 845-01-43}} in IEC 60050-845:1987.
     type: intensional

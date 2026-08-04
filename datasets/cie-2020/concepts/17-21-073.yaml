@@ -39,7 +39,7 @@ data:
   notes:
   - content: The corresponding radiometric quantity is "radiant exposure". The corresponding photometric quantity is "luminous exposure".
     type: intensional
-  - content: The photon exposure is expressed in metre to the power minus two (m^−2^).
+  - content: The photon exposure is expressed in metre to the power minus two (m^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-44, 845-01-44}} in IEC 60050-845:1987.
     type: intensional

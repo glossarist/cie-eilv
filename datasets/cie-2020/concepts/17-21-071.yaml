@@ -37,11 +37,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The quantity "radiant exposure" defined here must not be confused with the quantity named "exposure" which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram (Ccdotkg^−1^).
+  - content: The quantity "radiant exposure" defined here must not be confused with the quantity named "exposure" which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram (Ccdotkg^-1^).
     type: intensional
   - content: The corresponding photometric quantity is "luminous exposure". The corresponding quantity for photons is "photon exposure".
     type: intensional
-  - content: The radiant exposure is expressed in joule per square metre (Jcdotm^−2^ = Wcdotscdotm^−2^).
+  - content: The radiant exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-42, 845-01-42}} in IEC 60050-845:1987.
     type: intensional

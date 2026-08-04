@@ -42,7 +42,7 @@ data:
     type: intensional
   - content: A comparison field can also be used in which the radiation has any {{concept:cie-2020:17-21-030, relative spectral distribution}}, if the equivalent luminance of this field is known under the same conditions of measurement.
     type: intensional
-  - content: The equivalent luminance is expressed in candela per square metre (cdcdotm^−2^).
+  - content: The equivalent luminance is expressed in candela per square metre (cdcdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-58, 845-01-58}} in IEC 60050-845:1987.
     type: intensional

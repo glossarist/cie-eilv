@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-170
   domains:
@@ -21,10 +20,7 @@ id: 41f11391-ffd1-56f2-91c7-d899fc40fdd8
 ---
 data:
   definition:
-  - content: ideal observer having a relative spectral responsivity curve that conforms
-      to the spectral luminous efficiency function for photopic vision, stem:[V](stem:[lambda]),
-      or to the function for scotopic vision, stem:[V]′(stem:[lambda]), and that complies
-      with the summation law implied in the definition of luminous flux
+  - content: ideal observer having a relative spectral responsivity curve that conforms to the spectral luminous efficiency function for photopic vision, stem:[V](stem:[lambda]), or to the function for scotopic vision, stem:[V]'(stem:[lambda]), and that complies with the summation law implied in the definition of luminous flux
     type: intensional
   examples: []
   notes: []

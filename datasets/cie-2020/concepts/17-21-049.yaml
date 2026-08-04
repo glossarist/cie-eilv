@@ -43,7 +43,7 @@ data:
       The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of radiant intensity with projected area) and could alternatively be rewritten in terms of the average radiant intensity, stem:[bar I_e], as:
 
 
-      stem:[L_e = underset((A -&gt; 0))((lim)) ((bar I_e))/(A) (1)/((cos alpha))].
+      stem:[L_e = underset((A -> 0))((lim)) ((bar I_e))/(A) (1)/((cos alpha))].
 
 
       Hence, radiance is often considered as a quotient of averaged quantities; the area, stem:[A], should be small enough so that uncertainties due to variations in radiant intensity within that area are negligible; otherwise, the quotient stem:[bar L_e = ((bar I_e))/(A) (1)/((cos alpha))] gives the average radiance and the specific measurement conditions have to be reported with the result.'
@@ -54,7 +54,7 @@ data:
     type: intensional
   - content: 'Radiant flux can be obtained by integrating radiance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]: stem:[Phi_e = ​ ∬ L_e * cos alpha d A d omega].'
     type: intensional
-  - content: Since the {{concept:cie-2020:17-21-048, optical extent}}, expressed by stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_e]stem:[·n^(−2)] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic radiance".
+  - content: Since the {{concept:cie-2020:17-21-048, optical extent}}, expressed by stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_e]stem:[·n^(-2)] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic radiance".
     type: intensional
   - content: 'The equation in the definition can also be described as a function of radiant flux, stem:[Phi_e]. In this case, it is mathematically interpreted as a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:
 
@@ -66,7 +66,7 @@ data:
     type: intensional
   - content: The corresponding photometric quantity is "luminance". The corresponding quantity for photons is "photon radiance".
     type: intensional
-  - content: The radiance is expressed in watt per square metre per steradian (Wcdotm^−2^cdotsr^−1^).
+  - content: The radiance is expressed in watt per square metre per steradian (Wcdotm^-2^cdotsr^-1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-34, 845-01-34}} in IEC 60050-845:1987.
     type: intensional

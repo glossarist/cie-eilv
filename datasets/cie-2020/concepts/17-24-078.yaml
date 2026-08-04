@@ -39,7 +39,7 @@ data:
   notes:
   - content: The bi-directional reflectance distribution function (BRDF) is similar to the radiance coefficient except that it is defined for directional incident radiation.
     type: intensional
-  - content: The radiance coefficient is expressed in steradian to the power minus one (sr^−1^).
+  - content: The radiance coefficient is expressed in steradian to the power minus one (sr^-1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-70, 845-04-70}} in IEC 60050-845:1987.
     type: intensional

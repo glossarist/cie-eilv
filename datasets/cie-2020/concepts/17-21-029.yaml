@@ -49,7 +49,7 @@ data:
     type: intensional
   - content: Usually stem:[Xlambda] is also a function of stem:[lambda] and in this case, in order to stress this, can be written stem:[Xlambda](stem:[lambda]) without any change of meaning.
     type: intensional
-  - content: The spectral distribution of radiant flux is expressed in watt per nanometre (Wcdotnm^−1^), the spectral distribution of luminous flux is expressed in lumen per nanometre (lmcdotnm^−1^), the spectral distribution of photon flux is expressed in nanometre to the power minus one (nm^−1^). The units of spectral distributions of other quantities are expressed accordingly.
+  - content: The spectral distribution of radiant flux is expressed in watt per nanometre (Wcdotnm^-1^), the spectral distribution of luminous flux is expressed in lumen per nanometre (lmcdotnm^-1^), the spectral distribution of photon flux is expressed in nanometre to the power minus one (nm^-1^). The units of spectral distributions of other quantities are expressed accordingly.
     type: intensional
   - content: The quantity stem:[X] can also be expressed as a function of {{cite:IEV:103-06-02, frequency}}, stem:[nu], {{concept:cie-2020:17-21-026, wavenumber}}, stem:[sigma], etc.; the corresponding symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and the corresponding densities with respect to frequency, stem:[nu], wavenumber, stem:[sigma], etc. are stem:[Xnu], stem:[Xsigma], etc., in which case the expression of units will also change accordingly.
     type: intensional

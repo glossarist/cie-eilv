@@ -35,7 +35,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: relative spectral distribution (of a radiant, luminous or photon quantity <i>X</i>(<i>λ</i>))
+    designation: relative spectral distribution (of a radiant, luminous or photon quantity <i>X</i>(<i>stem:[lambda]</i>))
   - type: symbol
     normative_status: preferred
     designation: stem:[S(lambda)]

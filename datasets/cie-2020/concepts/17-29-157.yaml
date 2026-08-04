@@ -26,7 +26,7 @@ data:
   notes:
   - content: The maintained average illuminance is the average illuminance over the specified surface at the time maintenance should be carried out.
     type: intensional
-  - content: The maintained average illuminance is expressed in lux (lx &amp;equals; lmcdotm^−2^).
+  - content: The maintained average illuminance is expressed in lux (lx &equals; lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-750 in CIE S 017:2011.
     type: intensional

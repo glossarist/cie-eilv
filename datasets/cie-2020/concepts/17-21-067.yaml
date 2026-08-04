@@ -33,7 +33,7 @@ data:
   notes:
   - content: The corresponding photometric quantity is "luminance dose". The corresponding quantity for photons is "photon radiance dose".
     type: intensional
-  - content: The radiance dose is expressed in joule per square metre per steradian (Jcdotm^−2^cdotsr^−1^).
+  - content: The radiance dose is expressed in joule per square metre per steradian (Jcdotm^-2^cdotsr^-1^).
     type: intensional
   - content: This entry was numbered 17-1014 and 17-1319 in CIE S 017:2011.
     type: intensional

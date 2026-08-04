@@ -20,7 +20,7 @@ id: 880d4b1c-c8e2-5812-a40d-572243e5e1a3
 ---
 data:
   definition:
-  - content: system for determining the tristimulus values of any spectral power distribution using the set of reference colour stimuli &amp;lsqb;X~10~&amp;rsqb;, &amp;lsqb;Y~10~&amp;rsqb;, &amp;lsqb;Z~10~&amp;rsqb; and the three CIE colour-matching functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
+  - content: system for determining the tristimulus values of any spectral power distribution using the set of reference colour stimuli [X~10~], [Y~10~], [Z~10~] and the three CIE colour-matching functions stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
