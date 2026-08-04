@@ -1,3 +1,4 @@
+---
 data:
   identifier: 17-1397
   domains:
@@ -23,7 +24,9 @@ data:
   - content: illuminance on a vertical plane
     type: intensional
   examples: []
-  notes: []
+  notes:
+  - content: |-
+      The vertical illuminance is expressed in stem:[lx = lm cdot m^(-2)].
   sources:
   - origin:
       ref:
@@ -35,8 +38,39 @@ data:
     designation: vertical illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,v; Ev
+    designation: stem:[E_v]
+  - type: symbol
+    normative_status: admitted
+    designation: stem:[E_{v,v}]
   language_code: eng
   annotations: []
 termid: 17-1397
 id: e800d0d6-7bb3-53c3-9f37-7d82790a7c08
+---
+data:
+  definition:
+  - content: iluminancia sobre un plano vertical
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      Unidad: stem:[lx = lm cdot m^(-2)]
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iluminancia vertical
+  - type: symbol
+    normative_status: preferred
+    designation: stem:[E_v]
+  - type: symbol
+    normative_status: admitted
+    designation: stem:[E_{v,v}]
+  language_code: spa
+  annotations: []
+termid: 17-1397
+id: e800d0d6-7bb3-53c3-9f37-7d82790a7c09

@@ -1,3 +1,4 @@
+---
 data:
   identifier: 17-1367
   domains:
@@ -20,10 +21,17 @@ id: d349ff2f-956a-5e11-a397-0a5933729ca5
 ---
 data:
   definition:
-  - content: optical radiation for which the wavelengths are shorter than those for visible radiation
+  - content: radiation for which the wavelengths are shorter than those for visible
+      radiation
     type: intensional
   examples: []
-  notes: []
+  notes:
+  - content: |-
+      The range between 100 nm and 400 nm is commonly subdivided into UV-A: 315 nm to 400 nm; UV-B: 280 nm to 315 nm; UV-C: 100 nm to 280 nm.
+  - content: |-
+      A precise border between ultraviolet and visible radiation cannot be defined because visual sensation at wavelengths shorter than 400 nm can be experienced for very high luminance sources.
+  - content: |-
+      In some fields the ultraviolet spectrum has also been subdivided into "extreme", "far", and "near"; however, the borders necessarily vary with the field of application.
   sources:
   - origin:
       ref:
@@ -33,10 +41,40 @@ data:
   - type: expression
     normative_status: preferred
     designation: ultraviolet radiation
-  - type: symbol
+  - type: abbreviation
     normative_status: preferred
-    designation: UV radiation
+    designation: UVR
   language_code: eng
   annotations: []
 termid: 17-1367
 id: 433cd1ee-a7da-5b41-9c94-51d2888f9578
+---
+data:
+  definition:
+  - content: radiacion cuyas longitudes de onda son mas cortas que los de la radiacion
+      visible
+    type: intensional
+  examples: []
+  notes:
+  - content: |-
+      El rango entre 100 nm y 400 nm generalmente se subdivide en UV-A: 315 nm a 400 nm; UV-B: 280 nm a 315 nm; UV-C: 100 nm a 280 nm.
+  - content: |-
+      No se puede definir un borde preciso entre "ultravioleta" y "visible" porque hay sensacion visual a longitudes de onda inferiores a 400 nm para fuentes muy luminosas.
+  - content: |-
+      En algunos ambitos, el espectro ultravioleta tambien se subdivide en "extremo", "lejano" y "cercano"; sin embargo, los bordes necesariamente cambian con el ambito.
+  sources:
+  - origin:
+      ref:
+        source: CIE S 017:2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiacion ultravioleta
+  - type: abbreviation
+    normative_status: preferred
+    designation: UVR
+  language_code: spa
+  annotations: []
+termid: 17-1367
+id: 433cd1ee-a7da-5b41-9c94-51d2888f9579
