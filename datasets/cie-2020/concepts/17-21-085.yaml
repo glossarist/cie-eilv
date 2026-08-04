@@ -31,12 +31,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 1 lx is equal to the illuminance produced on a surface of area 1 m^2^ by a luminous flux of 1 lm uniformly distributed over that surface.
+  - content: 1 lx is equal to the illuminance produced on a surface of area 1 m^2^ by a luminous flux of 1 lm uniformly distributed over that surface.
     type: intensional
   - content: 'Non-metric, non-SI units: lumen per square foot (symbol: lmcdotft^-2^), footcandle (symbol: fc):
 
 
-      1 lmcdotft^-2^ = 1 fc = 10,764 lx.'
+      1 lmcdotft^-2^ = 1 fc = 10,764 lx.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-52, 845-01-52}} in IEC 60050-845:1987.
     type: intensional

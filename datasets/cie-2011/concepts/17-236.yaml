@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-236
   domains:
@@ -27,18 +26,16 @@ data:
   notes:
   - content: See also "colour-matching coefficients".
     type: intensional
-  - content: The colour-matching functions can be used to calculate the tristimulus
-      values of a colour stimulus from its colour stimulus functions stem:[philambda](stem:[lambda]).
+  - content: The colour-matching functions can be used to calculate the tristimulus values of a colour stimulus from its colour stimulus functions stem:[philambda](stem:[lambda]).
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers_.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry stem:[-] Part 1: CIE Standard Colorimetric Observers_.'
     type: intensional
-  - content: |-
-      In the CIE standard colorimetric systems, the colour-matching functions are represented by the symbols stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )]
+  - content: 'In the CIE standard colorimetric systems, the colour-matching functions are represented by the symbols stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )]
 
-      and stem:[bar x_((10)) ( lambda ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )].
+
+      and stem:[bar x_{(10)} ( lambda ) , bar y_{(10)} ( lambda ) , bar z_{(10)} ( lambda )].'
     type: intensional
   - content: This entry was numbered 845-03-23 in IEC 60050-845:1987.
     type: intensional

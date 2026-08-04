@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-016
   domains:
@@ -28,10 +27,7 @@ id: a53dc3cc-fdef-5c1c-bdba-38869008d03c
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-29-001, lighting}} by means of luminaires having
-      a distribution of luminous intensity such that the fraction of the emitted luminous
-      flux directly reaching the working plane, assumed to be of infinite extent,
-      is 40 % to 60 %"
+  - content: '{{concept:cie-2020:17-29-001, lighting}} by means of luminaires having a distribution of luminous intensity such that the fraction of the emitted luminous flux directly reaching the working plane, assumed to be of infinite extent, is 40 % to 60 %'
     type: intensional
   examples: []
   notes:

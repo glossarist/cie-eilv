@@ -23,7 +23,7 @@ data:
   - content: 'difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the u'', v'' chromaticity diagram and calculated as:
 
 
-      stem:[Delta c] = [(stem:[Delta u]'')^2^ + (stem:[Delta v]'')^2^]^1/2^'
+      stem:[Delta c] = [(stem:[Delta u]'')^2^ + (stem:[Delta v]'')^2^]^1/2^'
     type: intensional
   examples: []
   notes:

@@ -17,7 +17,7 @@ data:
   definition:
   - content: temperature at the p-n junction
   notes:
-  - content: Junction temperature is expressed in degree Celsius (°C).
+  - content: Junction temperature is expressed in degree Celsius (stem:[deg]C).
   sources:
   - origin:
       ref:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-580
   domains:
@@ -21,25 +20,21 @@ id: da696486-f2bb-5f23-82d1-5bf7676e7e37
 ---
 data:
   definition:
-  - content: optical radiation for which the wavelengths are longer than those for
-      visible radiation
+  - content: optical radiation for which the wavelengths are longer than those for visible radiation
     type: intensional
   examples: []
   notes:
-  - content: |-
-      For infrared radiation, the range between 780 nm and 1 mm is commonly subdivided into:
-      IR-A: 780 nm to 1400 nm, or 0,78 µm to 1,4 µm;
-      IR-B: 1,4 µm to 3,0 µm;
-      IR-C: 3 µm to 1 mm.
+  - content: 'For infrared radiation, the range between 780 nm and 1 mm is commonly subdivided into:
+
+      IR-A: 780 nm to 1400 nm, or 0,78 microm to 1,4 microm;
+
+      IR-B: 1,4 microm to 3,0 microm;
+
+      IR-C: 3 microm to 1 mm.'
     type: intensional
-  - content: A precise border between "visible" and "infrared" cannot be defined,
-      because visual sensation at wavelengths greater than 780 nm is noted for very
-      bright sources at longer wavelengths.
+  - content: A precise border between "visible" and "infrared" cannot be defined, because visual sensation at wavelengths greater than 780 nm is noted for very bright sources at longer wavelengths.
     type: intensional
-  - content: In some applications the infrared spectrum has also been divided into
-      "near," "middle," and "far" infrared; however, the borders necessarily vary
-      with the application (e.g. in meteorology, photochemistry, optical design, thermal
-      physics, etc.).
+  - content: In some applications the infrared spectrum has also been divided into "near," "middle," and "far" infrared; however, the borders necessarily vary with the application (e.g. in meteorology, photochemistry, optical design, thermal physics, etc.).
     type: intensional
   sources:
   - origin:

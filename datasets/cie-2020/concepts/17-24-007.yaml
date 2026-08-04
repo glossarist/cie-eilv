@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-007
   domains:
@@ -35,19 +34,17 @@ id: 588b34aa-e230-57fb-afc3-431da8bbfa4e
 ---
 data:
   definition:
-  - content: |-
-      relation between the {{concept:cie-2020:17-21-080, radiant exitance}}, stem:[M_e], of a Planckian radiator and its temperature, stem:[T], given by
+  - content: 'relation between the {{concept:cie-2020:17-21-080, radiant exitance}}, stem:[M_e], of a Planckian radiator and its temperature, stem:[T], given by
 
-      stem:[M_e] = stem:[sigma] stem:[T^4]
 
-      where stem:[sigma] is the Stefan-Boltzmann constant and stem:[T] is the thermodynamic temperature
+      stem:[M_e] = stem:[sigma] stem:[T^4]
+
+
+      where stem:[sigma] is the Stefan-Boltzmann constant and stem:[T] is the thermodynamic temperature'
     type: intensional
   examples: []
   notes:
-  - content: The Stefan-Boltzmann constant can be calculated by stem:[sigma = ((2
-      pi^5 k^4))/((15 h^3 c_0^2))] where stem:[h] is the Planck constant, stem:[c_0]
-      is the {{cite:IEV:113-01-34, speed of light in vacuum}}, and stem:[k] is the
-      Boltzmann constant.
+  - content: The Stefan-Boltzmann constant can be calculated by stem:[sigma = ((2 pi^5 k^4))/((15 h^3 c_0^2))] where stem:[h] is the Planck constant, stem:[c_0] is the {{cite:IEV:113-01-34, speed of light in vacuum}}, and stem:[k] is the Boltzmann constant.
     type: intensional
   - content: For the value of the Stefan-Boltzmann constant, stem:[sigma,] see CODATA.
     type: intensional
@@ -87,7 +84,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Stefan–Boltzmann's law
+    designation: Stefanstem:[-]Boltzmann's law
   language_code: eng
   annotations: []
 termid: 17-24-007

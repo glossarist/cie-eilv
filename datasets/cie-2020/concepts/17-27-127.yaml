@@ -18,14 +18,14 @@ data:
   - content: 'ratio of the absolute value of the fundamental active power stem:[P_1] to the fundamental apparent power stem:[S_1]
 
 
-      stem:[lambda_1] = |stem:[P_1]| / stem:[S_1]'
+      stem:[lambda_1] = |stem:[P_1]| / stem:[S_1]'
     type: intensional
   examples: []
   notes:
   - content: 'The fundamental power factor is also given by:
 
 
-      stem:[lambda_1] = |cos stem:[phi_1]|'
+      stem:[lambda_1] = |cos stem:[phi_1]|'
     type: intensional
   - content: The fundamental power factor only refers to fundamental quantities.
     type: intensional

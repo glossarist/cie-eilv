@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-104
   domains:
@@ -28,10 +27,7 @@ id: eda5d499-fde4-56e2-a4dd-d771d3799cef
 ---
 data:
   definition:
-  - content: length of time during which stem:[X] % of the electric lamps subjected
-      to a life test reach the end of their lives, the electric lamps being operated
-      under specified conditions and the end of life judged according to specified
-      criteria
+  - content: length of time during which stem:[X] % of the electric lamps subjected to a life test reach the end of their lives, the electric lamps being operated under specified conditions and the end of life judged according to specified criteria
     type: intensional
   examples: []
   notes:

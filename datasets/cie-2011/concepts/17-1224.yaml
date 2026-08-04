@@ -27,10 +27,10 @@ data:
   - content: 'Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to CIE standard illuminant A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
 
 
-      stem:[F^( * ) = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)( int ) S ( lambda ) s_((rel)) ( lambda ) d lambda)) ((underset(lambda)( int ) S_A ( lambda ) s_((rel)) ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda ) V ( lambda ) d lambda))]
+      stem:[F^{ * } = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)( int ) S ( lambda ) s_{(rel)} ( lambda ) d lambda)) ((underset(lambda)( int ) S_A ( lambda ) s_{(rel)} ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda ) V ( lambda ) d lambda))]
 
 
-      where stem:[s_(rel)](stem:[lambda]) is the relative spectral responsivity of the photometer and stem:[S](stem:[lambda]) and stem:[S_A](stem:[lambda]) are the respective relative spectral power distributions of the source to be measured and CIE standard illuminant A.'
+      where stem:[s_{rel}](stem:[lambda]) is the relative spectral responsivity of the photometer and stem:[S](stem:[lambda]) and stem:[S_A](stem:[lambda]) are the respective relative spectral power distributions of the source to be measured and CIE standard illuminant A.'
     type: intensional
   - content: The term "colour correction factor" is no longer used.
     type: intensional

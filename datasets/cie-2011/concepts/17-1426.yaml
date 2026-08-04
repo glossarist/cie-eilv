@@ -24,11 +24,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. Unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 ° C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for visible radiation.'
+  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. Unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 stem:[deg] C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for visible radiation.'
     type: intensional
-  - content: stem:[λ] = stem:[ν] / stem:[v], where stem:[λ]is the wavelength in a medium, stem:[ν] is the phase velocity in that medium and stem:[v] the frequency.
+  - content: stem:[lambda] = stem:[nu] / stem:[v], where stem:[lambda]is the wavelength in a medium, stem:[nu] is the phase velocity in that medium and stem:[v] the frequency.
     type: intensional
-  - content: In optical radiation the units “nm” and “µm” are generally used.
+  - content: In optical radiation the units "nm" and "microm" are generally used.
     type: intensional
   sources:
   - origin:
@@ -44,7 +44,7 @@ data:
     designation: stem:[lambda]
   - type: symbol
     normative_status: preferred
-    designation: stem:[λ]
+    designation: stem:[stem:[lambda]]
   language_code: eng
   annotations: []
 termid: 17-1426

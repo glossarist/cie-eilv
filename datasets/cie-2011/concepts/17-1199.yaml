@@ -24,9 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'This ratio is the sum of 2 quantities: the radiant transmittance, stem:[τ_e], of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], to the solar radiant energy, stem:[Q_1], incident on the glazing:
+  - content: 'This ratio is the sum of 2 quantities: the radiant transmittance, stem:[tau_e], of the glazing and the quantity equal to the ratio of the convected and radiated heat gain from the glazing into the interior, stem:[Q_2], to the solar radiant energy, stem:[Q_1], incident on the glazing:
 
-      stem:[g] = stem:[τ_e] + stem:[Q_2]/ stem:[Q_1].'
+      stem:[g] = stem:[tau_e] + stem:[Q_2]/ stem:[Q_1].'
     type: intensional
   sources:
   - origin:

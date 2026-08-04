@@ -27,10 +27,10 @@ id: 1ef7b267-0725-5096-b06e-a8dc6101d3f7
 ---
 data:
   definition:
-  - content: 'quotient of the mean of the values of luminance, stem:[L], measured at 20° and 70° (0,35 rad and 1,22 rad) and the luminance measured at 5° (0,09 rad) from the normal, when the surface considered is illuminated normally
+  - content: 'quotient of the mean of the values of luminance, stem:[L], measured at 20stem:[deg] and 70stem:[deg] (0,35 rad and 1,22 rad) and the luminance measured at 5stem:[deg] (0,09 rad) from the normal, when the surface considered is illuminated normally
 
 
-      stem:[sigma = ((L ( 20 ° ) + L ( 70 ° )))/((2 L ( 5 ° )))]'
+      stem:[sigma = ((L ( 20 deg ) + L ( 70 deg )))/((2 L ( 5 deg )))]'
     type: intensional
   examples: []
   notes:

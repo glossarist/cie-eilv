@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-238
   domains:
@@ -17,12 +16,11 @@ sources:
     link: https://web.archive.org/web/20190917124138/http://eilv.cie.co.at/term/238
   type: authoritative
 status: valid
-id: '08e4a564-e847-50a0-8289-f9a4eb334d09'
+id: 08e4a564-e847-50a0-8289-f9a4eb334d09
 ---
 data:
   definition:
-  - content: arc lamp, generally of very high pressure, in which the distance between
-      the electrodes is of the order of 1 mm to 10 mm
+  - content: arc lamp, generally of very high pressure, in which the distance between the electrodes is of the order of 1 mm to 10 mm
     type: intensional
   examples: []
   notes: []

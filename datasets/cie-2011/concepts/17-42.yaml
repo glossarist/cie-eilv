@@ -26,7 +26,7 @@ data:
   notes:
   - content: Subtended angles are denoted by the full included angle, not the half angle.
     type: intensional
-  - content: The angular subtense, stem:[α], will often be modified by incorporation of lenses and mirrors as projector optics, in which case the angular subtense of the apparent source will differ from the angular subtense of the physical source.
+  - content: The angular subtense, stem:[alpha], will often be modified by incorporation of lenses and mirrors as projector optics, in which case the angular subtense of the apparent source will differ from the angular subtense of the physical source.
     type: intensional
   - content: The angular subtense of an oblong source shall be determined by the arithmetic mean of the maximum and minimum angular dimension of the source.
     type: intensional
@@ -46,7 +46,7 @@ data:
     designation: stem:[alpha]
   - type: symbol
     normative_status: preferred
-    designation: stem:[α]
+    designation: stem:[stem:[alpha]]
   language_code: eng
   annotations: []
 termid: 17-42

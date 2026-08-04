@@ -27,13 +27,13 @@ id: be1aac6a-2927-54cd-a991-2a4899cf4869
 ---
 data:
   definition:
-  - content: angle of observation at which the luminance has half the value of the luminance of the diffused light at the angle of 0°, with perpendicular incidence of the light
+  - content: angle of observation at which the luminance has half the value of the luminance of the diffused light at the angle of 0stem:[deg], with perpendicular incidence of the light
     type: intensional
   examples: []
   notes:
   - content: For indicating the shape of the scattering indicatrix it is recommended that the diffusion factor, stem:[sigma], be used for strongly diffusing materials, and the half-value angle, stem:[gamma], for poorly diffusing materials.
     type: intensional
-  - content: The half-value angle is expressed in radian (rad) or degree (°).
+  - content: The half-value angle is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-90, 845-04-90}} in IEC 60050-845:1987.
     type: intensional

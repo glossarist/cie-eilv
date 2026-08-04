@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-97
   domains:
@@ -21,18 +20,15 @@ id: e1e85d7c-a33f-5e38-92d8-600ea0596b3c
 ---
 data:
   definition:
-  - content: potential for a photochemically induced retinal injury (photic maculopathy)
-      resulting from optical radiation exposure at wavelengths primarily between 400 nm
-      and 500 nm
+  - content: potential for a photochemically induced retinal injury (photic maculopathy) resulting from optical radiation exposure at wavelengths primarily between 400 nm and 500 nm
     type: intensional
   examples: []
   notes:
-  - content: This damage mechanism dominates over the thermal damage mechanism for
-      exposure durations exceeding 10 s.
+  - content: This damage mechanism dominates over the thermal damage mechanism for exposure durations exceeding 10 s.
     type: intensional
-  - content: |-
-      The action spectrum extends into the UV-A for persons without a normal UV-A absorbing lens.
-      Abbreviation: "BLH"
+  - content: 'The action spectrum extends into the UV-A for persons without a normal UV-A absorbing lens.
+
+      Abbreviation: "BLH"'
     type: intensional
   sources:
   - origin:

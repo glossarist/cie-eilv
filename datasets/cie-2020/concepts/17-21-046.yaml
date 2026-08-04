@@ -37,10 +37,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[theta], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
 
 
-      stem:[Phi_p = underset(omega)( ∬ ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
+      stem:[Phi_p = underset(omega)( iint ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
     type: intensional
   - content: The corresponding radiometric quantity is "radiant intensity". The corresponding photometric quantity is "luminous intensity".
     type: intensional

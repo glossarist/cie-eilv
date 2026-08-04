@@ -40,14 +40,14 @@ data:
   - content: 'Illuminance can be derived from the spectral irradiance distribution by
 
 
-      stem:[E_v \ = \ K_m int_0^(oo) E_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+      stem:[E_v \ = \ K_m int_0^{oo} E_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
 
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[E_(e,stem:[lambda])](stem:[lambda]) is the spectral irradiance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'
+      where stem:[K_m] is maximum luminous efficacy, stem:[E_{e,stem:[lambd}])](stem:[lambda]) is the spectral irradiance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'
     type: intensional
   - content: The corresponding radiometric quantity is "irradiance". The corresponding quantity for photons is "photon irradiance".
     type: intensional
-  - content: The illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-38, 845-01-38}} in IEC 60050-845:1987.
     type: intensional

@@ -26,7 +26,7 @@ data:
   notes:
   - content: When stating the average illuminance it is necessary to provide a clear indication of the type of illuminance at the points of the surface, i.e. horizontal, vertical, spherical, cylindrical or semi-cylindrical.
     type: intensional
-  - content: The average illuminance is expressed in lux (lx &equals; lmcdotm^-2^).
+  - content: The average illuminance is expressed in lux (lx &equals; lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-63 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     designation: average illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,av)]
+    designation: stem:[E_{v,av}]
   language_code: eng
   annotations: []
 termid: 17-29-155

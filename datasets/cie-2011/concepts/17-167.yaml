@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The relative luminance distributions are described in ISO 15469:2004/CIE S 011:2003 stem:[Spatial distribution of daylight – CIE standard general sky]. The CIE standard clear sky is incorporated as a particular case, and the CIE standard overcast sky is added as a separate formula.
+  - content: The relative luminance distributions are described in ISO 15469:2004/CIE S 011:2003 stem:[Spatial distribution of daylight - CIE standard general sky]. The CIE standard clear sky is incorporated as a particular case, and the CIE standard overcast sky is added as a separate formula.
     type: intensional
   sources:
   - origin:

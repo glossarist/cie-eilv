@@ -23,7 +23,7 @@ data:
   - content: 'cloudless sky for which the relative luminance distribution is given by the luminance gradation function, stem:[phi](stem:[Z]), which relates the luminance of a sky element to its zenith angle, stem:[Z]:
 
 
-      stem:[phi ( Z ) = 1 - e^(((- 0,32))/((cos Z)))] if stem:[0 <= Z (pi)/(2)], and stem:[phi ( Z ) = 1]
+      stem:[phi ( Z ) = 1 - e^{((- 0,32))/((cos Z))}] if stem:[0 <= Z (pi)/(2)], and stem:[phi ( Z ) = 1]
 
 
       if stem:[Z = (pi)/(2)] (at the horizon)'

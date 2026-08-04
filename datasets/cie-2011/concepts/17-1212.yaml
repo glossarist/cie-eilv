@@ -23,7 +23,7 @@ data:
   - content: 'density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
 
 
-      stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]'
+      stem:[X_{lambda} = ((d X ( lambda )))/((d lambda))]'
     type: intensional
   examples: []
   notes: []
@@ -41,7 +41,7 @@ data:
     designation: spectral concentration
   - type: symbol
     normative_status: preferred
-    designation: stem:[X]~stem:[λ]~(stem:[λ]); (stem:[X]~stem:[λ]~)
+    designation: stem:[X]~stem:[stem:[lambda]]~(stem:[stem:[lambda]]); (stem:[X]~stem:[stem:[lambda]]~)
   language_code: eng
   annotations: []
 termid: 17-1212

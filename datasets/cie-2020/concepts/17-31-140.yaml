@@ -26,7 +26,7 @@ data:
   notes:
   - content: The reference direction for a straight road is by convention the longitudinal direction.
     type: intensional
-  - content: The installation azimuth is expressed in radian (rad) or degree (°).
+  - content: The installation azimuth is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered 17-585 in CIE S 017:2011.
     type: intensional

@@ -23,7 +23,7 @@ data:
   - content: 'time integral of radiance, stem:[L_e], over a given duration, stem:[Delta t]
 
 
-      stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]'
+      stem:[L_{(e , t)} = underset((Delta t))( int ) L_e d t]'
     type: intensional
   examples: []
   notes:

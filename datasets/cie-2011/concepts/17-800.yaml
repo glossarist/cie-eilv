@@ -23,7 +23,7 @@ data:
   - content: 'natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
 
 
-      stem:[A_n](stem:[lambda]) = stem:[B](stem:[lambda]) = - ln stem:[tau_i](stem:[lambda])'
+      stem:[A_n](stem:[lambda]) = stem:[B](stem:[lambda]) = - ln stem:[tau_i](stem:[lambda])'
     type: intensional
   examples: []
   notes: []
@@ -41,7 +41,7 @@ data:
     designation: Napierian spectral internal transmittance density
   - type: symbol
     normative_status: preferred
-    designation: stem:[A_n](stem:[λ]); stem:[B](stem:[λ])
+    designation: stem:[A_n](stem:[stem:[lambda]]); stem:[B](stem:[stem:[lambda]])
   language_code: eng
   annotations: []
 termid: 17-800

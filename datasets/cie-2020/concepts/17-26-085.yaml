@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-085
   domains:
@@ -16,13 +15,11 @@ id: 3b8841d8-18e7-5687-9d3f-806a5b9f1957
 ---
 data:
   definition:
-  - content: potential for a thermally induced retinal injury resulting from {{concept:cie-2020:17-21-002,
-      optical radiation}} exposure at wavelengths primarily between 380 nm and 1 400 nm
+  - content: potential for a thermally induced retinal injury resulting from {{concept:cie-2020:17-21-002, optical radiation}} exposure at wavelengths primarily between 380 nm and 1 400 nm
     type: intensional
   examples: []
   notes:
-  - content: The retinal thermal hazard is only likely to be of concern for lasers
-      or high-radiance arc lamps.
+  - content: The retinal thermal hazard is only likely to be of concern for lasers or high-radiance arc lamps.
     type: intensional
   sources:
   - origin:

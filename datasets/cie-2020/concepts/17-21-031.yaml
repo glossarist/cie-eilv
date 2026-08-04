@@ -21,10 +21,10 @@ data:
   notes:
   - content: Fluorescence is understood to include both fluorescent and phosphorescent phenomena with time constants short enough to be ignored for the application.
     type: intensional
-  - content: 'The relative spectral fluorescence distribution, stem:[F](stem:[lambda]), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, stem:[Q], for excitation at wavelength, stem:[mu], gives the bispectral luminescent radiance factor, stem:[beta_(L,lambda)](stem:[mu]), of a {{concept:cie-2020:17-24-040, photoluminescent material}} according to:
+  - content: 'The relative spectral fluorescence distribution, stem:[F](stem:[lambda]), when multiplied by the spectral external radiant efficiency of the fluorescent specimen, stem:[Q], for excitation at wavelength, stem:[mu], gives the bispectral luminescent radiance factor, stem:[beta_{L,lambda}](stem:[mu]), of a {{concept:cie-2020:17-24-040, photoluminescent material}} according to:
 
 
-      stem:[beta_(L,lambda)](stem:[mu]) = stem:[F](stem:[lambda])cdotstem:[Q](stem:[mu])'
+      stem:[beta_{L,lambda}](stem:[mu]) = stem:[F](stem:[lambda])cdotstem:[Q](stem:[mu])'
     type: intensional
   - content: The relative spectral fluorescence distribution has unit one.
     type: intensional

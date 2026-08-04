@@ -42,14 +42,14 @@ data:
   - content: 'Luminous exposure can be derived from the spectral radiant exposure distribution by
 
 
-      stem:[H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+      stem:[H_v \ = \ K_m int_0^{oo} H_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
 
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[H_(e,lambda)](stem:[lambda]) is the spectral radiant exposure at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}. Integral limits can be confined depending on the spectral {{concept:cie-2020:17-25-061, responsivity}} of the detectors used as a sensor.'
+      where stem:[K_m] is maximum luminous efficacy, stem:[H_{e,lambda}](stem:[lambda]) is the spectral radiant exposure at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}. Integral limits can be confined depending on the spectral {{concept:cie-2020:17-25-061, responsivity}} of the detectors used as a sensor.'
     type: intensional
   - content: The corresponding radiometric quantity is "radiant exposure". The corresponding quantity for photons is "photon exposure"
     type: intensional
-  - content: The luminous exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
+  - content: The luminous exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-43, 845-01-43}} in IEC 60050-845:1987.
     type: intensional

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-071
   domains:
@@ -28,19 +27,13 @@ id: 985d0b66-e13d-5154-91fe-2c7ebaac31c1
 ---
 data:
   definition:
-  - content: change in {{concept:cie-2020:17-22-067, hue}} produced by changing the
-      luminance (within the range of photopic vision) of a colour stimulus while keeping
-      its chromaticity constant
+  - content: change in {{concept:cie-2020:17-22-067, hue}} produced by changing the luminance (within the range of photopic vision) of a colour stimulus while keeping its chromaticity constant
     type: intensional
   examples: []
   notes:
-  - content: With certain monochromatic stimuli, hue remains constant over a wide
-      range of luminances (for a given condition of adaptation). The wavelengths of
-      these stimuli are sometimes referred to as "invariant wavelengths".
+  - content: With certain monochromatic stimuli, hue remains constant over a wide range of luminances (for a given condition of adaptation). The wavelengths of these stimuli are sometimes referred to as "invariant wavelengths".
     type: intensional
-  - content: With increasing intensity, below 510 nm hues shift more towards blue,
-      and above 510 nm hues shift more towards yellow (reds become yellower with increasing
-      brightness).
+  - content: With increasing intensity, below 510 nm hues shift more towards blue, and above 510 nm hues shift more towards yellow (reds become yellower with increasing brightness).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-39, 845-02-39}} in IEC 60050-845:1987.
     type: intensional
@@ -71,7 +64,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Bezold–Brücke phenomenon
+    designation: Bezoldstem:[-]Brücke phenomenon
   language_code: eng
   annotations: []
 termid: 17-22-071

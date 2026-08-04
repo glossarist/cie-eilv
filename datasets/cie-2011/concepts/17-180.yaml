@@ -20,10 +20,10 @@ id: c4900e52-3b55-58a7-a684-7e4d8ee520e0
 ---
 data:
   definition:
-  - content: 'quotient of the luminous intensity, stem:[I], of the retroreflector in the direction of observation and the illuminance, stem:[E_( _|_ )], at the retroreflector on a plane perpendicular to the direction of the incident light
+  - content: 'quotient of the luminous intensity, stem:[I], of the retroreflector in the direction of observation and the illuminance, stem:[E_{ _|_ }], at the retroreflector on a plane perpendicular to the direction of the incident light
 
 
-      stem:[R = (I)/((E_( _|_ )))]'
+      stem:[R = (I)/((E_{ _|_ }))]'
     type: intensional
   examples: []
   notes: []

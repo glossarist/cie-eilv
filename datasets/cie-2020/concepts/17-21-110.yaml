@@ -18,13 +18,13 @@ data:
   - content: 'luminous flux emitted within a specified cone angle, stem:[alpha], determined from the luminous intensity distribution, stem:[I_v](stem:[theta],stem:[phi]), of the light source
 
 
-      stem:[Phi_((v ,p , alpha)) = int_((phi = 0))^((2 pi)) int_((theta = 0))^((alpha // 2)) I_v ( theta , phi ) sin theta d theta d phi]'
+      stem:[Phi_{(v ,p , alpha)} = int_{(phi = 0)}^{(2 pi)} int_{(theta = 0)}^{(alpha // 2)} I_v ( theta , phi ) sin theta d theta d phi]'
     type: intensional
   examples: []
   notes:
-  - content: (stem:[theta],stem:[phi]) = (0,0) is the direction of the cone axis, which can be coincident with the mechanical axis or optical beam axis of the light source or any other direction, and should be specified.
+  - content: (stem:[theta],stem:[phi]) = (0,0) is the direction of the cone axis, which can be coincident with the mechanical axis or optical beam axis of the light source or any other direction, and should be specified.
     type: intensional
-  - content: The cone angle, stem:[alpha], which can be expressed either in degree (°) or radian (rad), is given by the full conic angle and has to be specified, e.g. stem:[Phi_(p,90°)] or stem:[Phi_(p,pi/2)].
+  - content: The cone angle, stem:[alpha], which can be expressed either in degree (stem:[deg]) or radian (rad), is given by the full conic angle and has to be specified, e.g. stem:[Phi_{p,90deg}] or stem:[Phi_{p,pi/2}].
     type: intensional
   - content: The term "cone luminous flux" is also used in some applications with the same meaning.
     type: intensional

@@ -24,13 +24,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The International Global UV Index, stem:[I_(UV)], is defined by the formula:
+  - content: 'The International Global UV Index, stem:[I_{UV}], is defined by the formula:
 
 
-      stem:[I_((uv)) = k_((er)) int_((250 nm))^((400 nm)) E_(lambda) ( lambda ) s_((er)) ( lambda ) d lambda]
+      stem:[I_{(uv)} = k_{(er)} int_{(250 nm)}^{(400 nm)} E_{lambda} ( lambda ) s_{(er)} ( lambda ) d lambda]
 
 
-      where stem:[Elambda](stem:[lambda]) is the solar spectral irradiance expressed in Wcdotm^-2^cdotnm^-1^ at wavelength stem:[lambda], stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, and stem:[k_(er)] is a constant equal to 40 m^2^cdotW^-1^.'
+      where stem:[Elambda](stem:[lambda]) is the solar spectral irradiance expressed in Wcdotm^-2^cdotnm^-1^ at wavelength stem:[lambda], stem:[s_{er}](stem:[lambda]) is the erythema spectral weighting function, and stem:[k_{er}] is a constant equal to 40 m^2^cdotW^-1^.'
     type: intensional
   - content: The global UV index has unit one.
     type: intensional

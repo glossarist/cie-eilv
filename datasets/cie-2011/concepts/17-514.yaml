@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-514
   domains:
@@ -21,13 +20,11 @@ id: b1612d25-be3f-5d2b-8097-0bd660791e67
 ---
 data:
   definition:
-  - content: angular extent of all the radius vectors of the polar curve of luminous
-      intensity in the specified plane having lengths greater than 50 % of the maximum
+  - content: angular extent of all the radius vectors of the polar curve of luminous intensity in the specified plane having lengths greater than 50 % of the maximum
     type: intensional
   examples: []
   notes:
-  - content: Outside US "beam spread" relates to the total angle within which the
-      illuminance on a plane normal to the axis of the beam exceeds 10 % of the maximum.
+  - content: Outside US "beam spread" relates to the total angle within which the illuminance on a plane normal to the axis of the beam exceeds 10 % of the maximum.
     type: intensional
   sources:
   - origin:

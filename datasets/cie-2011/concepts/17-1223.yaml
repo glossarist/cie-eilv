@@ -23,7 +23,7 @@ data:
   - content: 'quotient of the spectral linear attenuation coefficient, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
 
 
-      stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_(())))]'
+      stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_{()}))]'
     type: intensional
   examples: []
   notes: []

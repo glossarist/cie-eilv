@@ -30,19 +30,19 @@ data:
   - content: 'quotient of the average radiant flux density or luminous flux density, stem:[Phi_2]/stem:[A_2] (or stem:[Phi_1]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
 
 
-      stem:[f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]
+      stem:[f_{(21)} = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]
 
 
       or
 
 
-      stem:[f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))]
+      stem:[f_{(12)} = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))]
 
 
       with
 
 
-      stem:[A_2 f_((21)) = g = A_1 f_((12))]
+      stem:[A_2 f_{(21)} = g = A_1 f_{(12)}]
 
 
       where stem:[Phi_2] (or stem:[Phi_1]) is the radiant flux or luminous flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~) and stem:[g] is the mutual exchange coefficient'
@@ -84,7 +84,7 @@ data:
     usage_info: between two surfaces
   - type: symbol
     normative_status: preferred
-    designation: stem:[f_(12)]
+    designation: stem:[f_{12}]
   language_code: eng
   annotations: []
 termid: 17-29-094

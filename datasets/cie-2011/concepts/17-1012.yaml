@@ -45,11 +45,11 @@ data:
     type: intensional
   - content: An equivalent formula is stem:[L_e = ((d Phi_e))/((d G))], where stem:[Phi_e] is radiant flux and stem:[G] is geometric extent.
     type: intensional
-  - content: 'Radiant flux can be obtained by integrating radiance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]: stem:[Phi_e = ​ ∬ L_e * cos alpha d A d omega].'
+  - content: 'Radiant flux can be obtained by integrating radiance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]: stem:[Phi_e =  iint L_e * cos alpha d A d omega].'
     type: intensional
-  - content: Since the optical extent, expressed by stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_e]stem:[·n^(-2)] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic radiance".
+  - content: Since the optical extent, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_e]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic radiance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of radiant flux, stem:[Phi_e]. In this case, it is mathematically interpreted as a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:
+  - content: 'The equation in the definition can also be described as a function of radiant flux, stem:[Phi_e]. In this case, it is mathematically interpreted as a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:
 
 
       stem:[L_e ( x , y , vartheta , phi ) = ((del^2 Phi_e ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]

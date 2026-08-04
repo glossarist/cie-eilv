@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-031
   domains:
@@ -28,8 +27,7 @@ id: b33af6b1-9d47-5133-ad0b-fd2dcfa0104c
 ---
 data:
   definition:
-  - content: high-intensity {{concept:cie-2020:17-30-030, projector}} having an aperture
-      usually greater than 0,2 m and giving an approximately parallel beam of light
+  - content: high-intensity {{concept:cie-2020:17-30-030, projector}} having an aperture usually greater than 0,2 m and giving an approximately parallel beam of light
     type: intensional
   examples: []
   notes:

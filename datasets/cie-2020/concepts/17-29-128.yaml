@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The direct solar illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The direct solar illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-321 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     designation: direct solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,s)]
+    designation: stem:[E_{v,s}]
   language_code: eng
   annotations: []
 termid: 17-29-128

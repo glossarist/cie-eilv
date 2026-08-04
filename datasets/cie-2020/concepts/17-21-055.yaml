@@ -31,13 +31,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical irradiance stem:[E_(e,v)] at a point
+  - content: 'Cylindrical irradiance is sometimes also defined as arithmetic mean of the vertical irradiance stem:[E_{e,v}] at a point
 
 
-      stem:[E_((e ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((e ,v)) d phi]
+      stem:[E_{(e ,c)} = (1)/((2 pi)) int_0^{(2 pi)} E_{(e ,v)} d phi]
 
 
-      where stem:[E_(e,v)] is the vertical irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.'
+      where stem:[E_{e,v}] is the vertical irradiance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.'
     type: intensional
   - content: The corresponding photometric quantity is "cylindrical illuminance". The corresponding quantity for photons is "photon cylindrical irradiance".
     type: intensional
@@ -75,7 +75,7 @@ data:
     designation: cylindrical irradiance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(e,c)]
+    designation: stem:[E_{e,c}]
   language_code: eng
   annotations: []
 termid: 17-21-055

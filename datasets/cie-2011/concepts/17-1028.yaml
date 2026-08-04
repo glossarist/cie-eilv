@@ -20,16 +20,16 @@ id: 62a55e11-b804-5dcb-b7ce-9d1c691c20f6
 ---
 data:
   definition:
-  - content: 'time integral of spherical irradiance, stem:[E_(e,o)], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical irradiance, stem:[E_{e,o}], at a given point over a given duration, stem:[Delta t]
 
 
-      stem:[H_((e,o)) = underset((Delta t))( int ) E_(e,o) d t]'
+      stem:[H_{(e,o)} = underset((Delta t))( int ) E_{e,o} d t]'
     type: intensional
   examples: []
   notes:
   - content: This quantity is the quotient of the radiant energy of all radiation incident on the outer surface of an infinitely small sphere centred at the given point by the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities “luminous spherical exposure”, stem:[H_v,o], and “photon spherical exposure” (also termed “photon fluence”), stem:[H_p,o], are defined in a similar way, replacing spherical irradiance, stem:[E_e,o], by spherical illuminance, stem:[E_v,o], or photon spherical irradiance, stem:[E_p,o].
+  - content: The analogous quantities "luminous spherical exposure", stem:[H_v,o], and "photon spherical exposure" (also termed "photon fluence"), stem:[H_p,o], are defined in a similar way, replacing spherical irradiance, stem:[E_e,o], by spherical illuminance, stem:[E_v,o], or photon spherical irradiance, stem:[E_p,o].
     type: intensional
   - content: This is the appropriate radiometric quantity for describing a dose for a photobiological or photochemical effect in a scattering medium (e.g., light in skin). It is also the appropriate radiometric quantity for describing the irradiation of microorganisms. It is frequently used incorr ctly as a substitute for radiant exposure in some publications.
     type: intensional

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-859
   domains:
@@ -21,7 +20,7 @@ id: 4a063162-2589-5624-8881-43e74a239b01
 ---
 data:
   definition:
-  - content: total photon exposure in the 400 nm to 700 nm waveband
+  - content: total photon exposure in the 400 nm to 700 nm waveband
     type: intensional
   examples: []
   notes:

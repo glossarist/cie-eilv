@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The horizontal illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The horizontal illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-539 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     designation: horizontal illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,h)]
+    designation: stem:[E_{v,h}]
   language_code: eng
   annotations: []
 termid: 17-21-061

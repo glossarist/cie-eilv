@@ -27,16 +27,16 @@ data:
   - content: 'The spherical illuminance can be expressed by
 
 
-      stem:[E_((v,o)) = underset((4 pi))( int ) L_v d omega]
+      stem:[E_{(v,o)} = underset((4 pi))( int ) L_v d omega]
 
 
       where stem:[Omega] is solid angle and stem:[L_v] is luminance.'
     type: intensional
   - content: The spherical illuminance is the quotient of the luminous flux of all the light incident on the outer surface of an infinitely small sphere centred at the given point and the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The analogous quantities "{{concept:cie-2020:17-21-054, spherical irradiance}}", stem:[E_(e,o)], and "{{concept:cie-2020:17-21-059, photon spherical irradiance}}" (also termed "photon fluence rate"), stem:[E_(p,o)], are defined in a similar way, replacing {{concept:cie-2020:17-21-050, luminance}}, stem:[L_v], by {{concept:cie-2020:17-21-049, radiance}}, stem:[L_e], and photon radiance, stem:[L_p], respectively.
+  - content: The analogous quantities "{{concept:cie-2020:17-21-054, spherical irradiance}}", stem:[E_{e,o}], and "{{concept:cie-2020:17-21-059, photon spherical irradiance}}" (also termed "photon fluence rate"), stem:[E_{p,o}], are defined in a similar way, replacing {{concept:cie-2020:17-21-050, luminance}}, stem:[L_v], by {{concept:cie-2020:17-21-049, radiance}}, stem:[L_e], and photon radiance, stem:[L_p], respectively.
     type: intensional
-  - content: The spherical illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The spherical illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-1244 in CIE S 017:2011.
     type: intensional
@@ -56,7 +56,7 @@ data:
     designation: spherical illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,o)]
+    designation: stem:[E_{v,o}]
   language_code: eng
   annotations: []
 termid: 17-21-066

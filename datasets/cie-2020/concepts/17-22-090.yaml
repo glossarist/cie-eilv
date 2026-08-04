@@ -27,7 +27,7 @@ id: 9f87b7cc-b299-5b17-95b1-0000c114423e
 ---
 data:
   definition:
-  - content: reciprocal of the least perceptible luminance contrast, usually expressed as stem:[L]/stem:[Delta L_(th)], where stem:[L] is the average luminance and stem:[Delta L_(th)] is the luminance difference threshold
+  - content: reciprocal of the least perceptible luminance contrast, usually expressed as stem:[L]/stem:[Delta L_{th}], where stem:[L] is the average luminance and stem:[Delta L_{th}] is the luminance difference threshold
     type: intensional
   examples: []
   notes:

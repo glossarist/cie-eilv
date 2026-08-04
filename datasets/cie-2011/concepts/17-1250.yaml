@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1250
   domains:
@@ -21,8 +20,7 @@ id: bbf2e6e8-d498-5bde-bde8-87d6c129e094
 ---
 data:
   definition:
-  - content: projector having a smaller aperture and giving a concentrated beam of
-      light of usually not more than 0,35 rad (20°) divergence
+  - content: projector having a smaller aperture and giving a concentrated beam of light of usually not more than 0,35 rad (20stem:[deg]) divergence
     type: intensional
   examples: []
   notes: []

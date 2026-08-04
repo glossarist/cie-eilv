@@ -17,7 +17,7 @@ data:
   definition:
   - content: temperature of air or another medium in the vicinity of the device under test
   notes:
-  - content: Ambient temperature is expressed in degree Celsius (°C).
+  - content: Ambient temperature is expressed in degree Celsius (stem:[deg]C).
   - content: During the measurement of the ambient temperature, the measuring instrument/probe should be shielded from draughts and radiant heating.
   sources:
   - origin:

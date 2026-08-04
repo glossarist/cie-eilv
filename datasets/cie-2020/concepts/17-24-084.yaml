@@ -27,10 +27,10 @@ id: 9913788b-ecf7-5231-bb68-f51b75c8dc50
 ---
 data:
   definition:
-  - content: 'relative decrease in radiant flux caused by scattering expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in a diffusing medium
+  - content: 'relative decrease in radiant flux caused by scattering expressed by the relative density of the spectral radiant flux, stem:[Phi_{e,lambda}](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in a diffusing medium
 
 
-      stem:[s ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]'
+      stem:[s ( lambda ) = (1)/((Phi_{(e , lambda)} ( lambda ))) ((d Phi_{(e , lambda)} ( lambda )))/((d l))]'
     type: intensional
   examples: []
   notes:

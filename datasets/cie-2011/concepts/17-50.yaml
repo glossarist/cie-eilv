@@ -23,10 +23,10 @@ data:
   - content: 'quantity that correlates with the more or less luminous aspect of a star and that is defined by the formula
 
 
-      stem:[m] = stem:[m_o] - 2,5 log~10~(stem:[E_(pb)]/stem:[E_o])
+      stem:[m] = stem:[m_o] - 2,5 log~10~(stem:[E_{pb}]/stem:[E_o])
 
 
-      where stem:[E_(pb)] is the point brilliance of the star considered, stem:[m_o] and stem:[E_o] are constants based on the magnitudes ascribed to certain standard stars'
+      where stem:[E_{pb}] is the point brilliance of the star considered, stem:[m_o] and stem:[E_o] are constants based on the magnitudes ascribed to certain standard stars'
     type: intensional
   examples: []
   notes:

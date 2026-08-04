@@ -23,7 +23,7 @@ data:
   - content: 'logarithm to base 10 of the reciprocal of the reflectance, stem:[rho]
 
 
-      stem:[Drho] = -log~10~ stem:[rho]'
+      stem:[Drho] = -log~10~ stem:[rho]'
     type: intensional
   examples: []
   notes: []
@@ -41,7 +41,7 @@ data:
     designation: reflectance density
   - type: symbol
     normative_status: preferred
-    designation: stem:[D]~stem:[ρ]~
+    designation: stem:[D]~stem:[stem:[rho]]~
   language_code: eng
   annotations: []
 termid: 17-1061

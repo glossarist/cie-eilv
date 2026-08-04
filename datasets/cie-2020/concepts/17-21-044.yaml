@@ -39,10 +39,10 @@ data:
   notes:
   - content: The definition holds strictly only for a {{concept:cie-2020:17-21-033, point source}}.
     type: intensional
-  - content: 'The distribution of the radiant intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the radiant flux, stem:[Phi_e], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the radiant intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[theta], stem:[phi]), is used to determine the radiant flux, stem:[Phi_e], within a certain solid angle, stem:[Omega], of a source:
 
 
-      stem:[Phi_e = underset(omega)( ∬ ) I_e ( vartheta , phi ) sin vartheta d phi \ d vartheta].'
+      stem:[Phi_e = underset(omega)( iint ) I_e ( vartheta , phi ) sin vartheta d phi \ d vartheta].'
     type: intensional
   - content: The corresponding photometric quantity is "luminous intensity". The corresponding quantity for photons is "photon intensity".
     type: intensional

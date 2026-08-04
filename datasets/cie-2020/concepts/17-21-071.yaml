@@ -41,7 +41,7 @@ data:
     type: intensional
   - content: The corresponding photometric quantity is "luminous exposure". The corresponding quantity for photons is "photon exposure".
     type: intensional
-  - content: The radiant exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
+  - content: The radiant exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-42, 845-01-42}} in IEC 60050-845:1987.
     type: intensional

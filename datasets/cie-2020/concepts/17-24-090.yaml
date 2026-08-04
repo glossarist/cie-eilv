@@ -34,7 +34,7 @@ data:
   - content: 'logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
 
 
-      stem:[A_i](stem:[lambda]) = -log~10~ stem:[tau_i](stem:[lambda])'
+      stem:[A_i](stem:[lambda]) = -log~10~ stem:[tau_i](stem:[lambda])'
     type: intensional
   examples: []
   notes:

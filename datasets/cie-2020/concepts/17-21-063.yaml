@@ -24,17 +24,17 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Cylindrical illuminance is sometimes also defined as the arithmetic mean of the vertical illuminance stem:[E_(v,v)] at a point
+  - content: 'Cylindrical illuminance is sometimes also defined as the arithmetic mean of the vertical illuminance stem:[E_{v,v}] at a point
 
 
-      stem:[E_((v ,c)) = (1)/((2 pi)) int_0^((2 pi)) E_((v ,v)) d phi]
+      stem:[E_{(v ,c)} = (1)/((2 pi)) int_0^{(2 pi)} E_{(v ,v)} d phi]
 
 
-      where stem:[E_(v,v)] is the vertical illuminance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.'
+      where stem:[E_{v,v}] is the vertical illuminance for an area element with its normal in the direction stem:[phi], and stem:[phi] is the angle in the plane perpendicular to the axis of the cylinder.'
     type: intensional
   - content: The corresponding radiometric quantity is "cylindrical irradiance". The corresponding quantity for photons is "photon cylindrical irradiance".
     type: intensional
-  - content: The cylindrical illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The cylindrical illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-273 in CIE S 017:2011.
     type: intensional
@@ -54,7 +54,7 @@ data:
     designation: cylindrical illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,c)]
+    designation: stem:[E_{v,c}]
   language_code: eng
   annotations: []
 termid: 17-21-063

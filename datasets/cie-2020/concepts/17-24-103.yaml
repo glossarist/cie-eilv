@@ -30,10 +30,10 @@ data:
   - content: 'quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
 
 
-      stem:[R_A = (R)/(A) = ((I // E_( _|_ )))/(A)]
+      stem:[R_A = (R)/(A) = ((I // E_{ _|_ }))/(A)]
 
 
-      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_( _|_ )] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light'
+      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_{ _|_ }] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light'
     type: intensional
   examples: []
   notes:

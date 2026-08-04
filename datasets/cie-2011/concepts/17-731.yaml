@@ -29,10 +29,10 @@ data:
   - content: 'Luminous efficiency for photopic vision is expressed by
 
 
-      stem:[V = ((int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda))/((int_0^(oo) Phi_((e , lambda)) ( lambda ) d lambda)) = (K)/((K_m))]
+      stem:[V = ((int_0^{oo} Phi_{(e , lambda)} ( lambda ) V ( lambda ) d lambda))/((int_0^{oo} Phi_{(e , lambda)} ( lambda ) d lambda)) = (K)/((K_m))]
 
 
-      where stem:[Phi_(e,lambda)] is spectral radiant flux, stem:[V](stem:[lambda]) is spectral luminous efficiency, stem:[lambda] is wavelength, stem:[K] is luminous efficacy of radiation, and stem:[K_m] is maximum luminous efficacy.'
+      where stem:[Phi_{e,lambda}] is spectral radiant flux, stem:[V](stem:[lambda]) is spectral luminous efficiency, stem:[lambda] is wavelength, stem:[K] is luminous efficacy of radiation, and stem:[K_m] is maximum luminous efficacy.'
     type: intensional
   - content: The luminous efficiency has unit one.
     type: intensional

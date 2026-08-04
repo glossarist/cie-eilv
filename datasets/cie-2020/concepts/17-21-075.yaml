@@ -20,14 +20,14 @@ id: 1bedeb3c-a98b-5827-9ce6-900bc40256e9
 ---
 data:
   definition:
-  - content: 'time integral of spherical illuminance, stem:[E_(v,o)], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical illuminance, stem:[E_{v,o}], at a given point over a given duration, stem:[Delta t]
 
 
-      stem:[H_((v,o)) = underset((Delta t))( int ) E_(v,o) d t]'
+      stem:[H_{(v,o)} = underset((Delta t))( int ) E_{v,o} d t]'
     type: intensional
   examples: []
   notes:
-  - content: The luminous spherical exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
+  - content: The luminous spherical exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-742 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     designation: luminous spherical exposure
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(v,o)]
+    designation: stem:[H_{v,o}]
   language_code: eng
   annotations: []
 termid: 17-21-075

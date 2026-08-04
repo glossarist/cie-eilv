@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-074
   domains:
@@ -25,19 +24,16 @@ id: 463f7e9d-e5e0-54aa-8544-abe3eaaefb15
 ---
 data:
   definition:
-  - content: factor describing the protective quality of a sunscreen against solar
-      {{concept:cie-2020:17-21-008, ultraviolet radiation}}, normally determined by
-      in vivo testing
+  - content: factor describing the protective quality of a sunscreen against solar {{concept:cie-2020:17-21-008, ultraviolet radiation}}, normally determined by in vivo testing
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The sun protection factor is usually determined by comparing the dose of ultraviolet radiation from a solar simulator (often a xenon lamp) required to produce just-perceptible actinic erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (F~MED,f~ and F~MED,i~, respectively) and is calculated as follows:
+  - content: 'The sun protection factor is usually determined by comparing the dose of ultraviolet radiation from a solar simulator (often a xenon lamp) required to produce just-perceptible actinic erythema approximately 24 h after exposure in ultraviolet-irradiated human volunteers, with and without a standard amount of the sunscreen being present (F~MED,f~ and F~MED,i~, respectively) and is calculated as follows:
 
-      stem:[F_(SP)] = stem:[F_(MED,f)] / stem:[F_(MED,i)].
+
+      stem:[F_{SP}] = stem:[F_{MED,f}] / stem:[F_{MED,i}].'
     type: intensional
-  - content: The sun protection factor can also be determined by equivalent in vitro
-      methods.
+  - content: The sun protection factor can also be determined by equivalent in vitro methods.
     type: intensional
   - content: The sun protection factor has unit one.
     type: intensional

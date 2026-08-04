@@ -23,7 +23,7 @@ data:
     type: intensional
   - content: For directional light sources the useful luminous flux is the partial luminous flux in a defined cone angle, the axis of the cone being the optical beam axis of the light source.
     type: intensional
-  - content: The cone angle, stem:[alpha], which can be expressed either in degree (°) or radian (rad), is given by the full conic angle and has to be specified, e.g. stem:[Phi_(u,90°)] or stem:[Phi_(u,pi/2)].
+  - content: The cone angle, stem:[alpha], which can be expressed either in degree (stem:[deg]) or radian (rad), is given by the full conic angle and has to be specified, e.g. stem:[Phi_{u,90deg}] or stem:[Phi_{u,pi/2}].
     type: intensional
   - content: The optical beam axis of a light source is the axis about which the luminous intensity is substantially symmetrical.
     type: intensional

@@ -26,7 +26,7 @@ data:
   notes:
   - content: Normal solar illuminance is not the same as direct solar illuminance, which is measured on a horizontal surface on the Earth, not necessarily perpendicular to the direction of illumination by the Sun.
     type: intensional
-  - content: The normal solar illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The normal solar illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-825 in CIE S 017:2011.
     type: intensional
@@ -46,7 +46,7 @@ data:
     designation: normal solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,n)]
+    designation: stem:[E_{v,n}]
   language_code: eng
   annotations: []
 termid: 17-29-129

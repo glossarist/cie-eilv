@@ -44,7 +44,7 @@ data:
     type: intensional
   - content: If the solid angle of the cone approaches 2stem:[pi] sr, the reflectance factor approaches the reflectance for the same conditions of irradiation.
     type: intensional
-  - content: If the solid angle of the cone approaches 0 sr, the reflectance factor approaches the radiance factor or luminance factor for the same conditions of irradiation.
+  - content: If the solid angle of the cone approaches 0 sr, the reflectance factor approaches the radiance factor or luminance factor for the same conditions of irradiation.
     type: intensional
   - content: The reflectance factor has unit one.
     type: intensional

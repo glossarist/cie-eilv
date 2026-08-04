@@ -31,7 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The unit of the quantity length has to be specified. If a new unit of length is used that is stem:[k] times the magnitude of the original one, then the value of stem:[alpha_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )] will change to stem:[alpha^( ' )_(i ,o)^() ( lambda ) = 1 - tau_((i ,o)) ( lambda )^k].
+  - content: The unit of the quantity length has to be specified. If a new unit of length is used that is stem:[k] times the magnitude of the original one, then the value of stem:[alpha_{i ,o}^{} ( lambda ) = 1 - tau_{(i ,o)} ( lambda )] will change to stem:[alpha^{ ' }_{i ,o}^{} ( lambda ) = 1 - tau_{(i ,o)} ( lambda )^k].
     type: intensional
   - content: The spectral absorptivity has unit one.
     type: intensional

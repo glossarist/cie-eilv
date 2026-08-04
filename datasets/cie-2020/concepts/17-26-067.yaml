@@ -20,7 +20,7 @@ id: 734aad9b-fdd3-5b68-860b-3a4bb69a42c7
 ---
 data:
   definition:
-  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally weighted with the erythema spectral weighting function, stem:[s_(er)](stem:[lambda]), normalized to 1 at its maximum
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally weighted with the erythema spectral weighting function, stem:[s_{er}](stem:[lambda]), normalized to 1 at its maximum
     type: intensional
   examples: []
   notes:

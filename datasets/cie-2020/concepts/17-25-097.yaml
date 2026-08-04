@@ -20,7 +20,7 @@ id: 5fef468a-fdb4-52e3-a113-f847fa5d6d67
 ---
 data:
   definition:
-  - content: irradiation of reflecting materials at 45° to the normal, at one azimuth angle
+  - content: irradiation of reflecting materials at 45stem:[deg] to the normal, at one azimuth angle
     type: intensional
   examples: []
   notes:
@@ -46,7 +46,7 @@ data:
     designation: forty-five degree directional geometry
   - type: expression
     normative_status: preferred
-    designation: 45°x geometry
+    designation: 45stem:[deg]x geometry
   language_code: eng
   annotations: []
 termid: 17-25-097

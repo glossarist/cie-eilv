@@ -27,10 +27,10 @@ id: e056120f-acda-5c88-ab67-86d142f9cb69
 ---
 data:
   definition:
-  - content: 'relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_(e,lambda)](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
+  - content: 'relative decrease in radiant flux caused by absorption and scattering, expressed by the relative density of the spectral radiant flux, stem:[Phi_{e,lambda}](stem:[lambda]), with respect to propagation length, stem:[l], of a collimated beam at a point in an absorbing and scattering medium
 
 
-      stem:[mu ( lambda ) = (1)/((Phi_((e , lambda)) ( lambda ))) ((d Phi_((e , lambda)) ( lambda )))/((d l))]'
+      stem:[mu ( lambda ) = (1)/((Phi_{(e , lambda)} ( lambda ))) ((d Phi_{(e , lambda)} ( lambda )))/((d l))]'
     type: intensional
   examples: []
   notes:

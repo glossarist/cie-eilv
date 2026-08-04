@@ -37,7 +37,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For Planckian radiation, stem:[M_e] = stem:[sigmaT^4] where stem:[sigma] is the Stefan-Boltzmann constant and stem:[T] is thermodynamic temperature.
+  - content: For Planckian radiation, stem:[M_e] = stem:[sigmaT^4] where stem:[sigma] is the Stefan-Boltzmann constant and stem:[T] is thermodynamic temperature.
     type: intensional
   - content: The corresponding photometric quantity is "luminous exitance". The corresponding photon quantity is "photon exitance".
     type: intensional

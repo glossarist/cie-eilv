@@ -20,7 +20,7 @@ id: 99611360-0805-5b87-a9ed-f9ca8938b57b
 ---
 data:
   definition:
-  - content: length of the path in the atmosphere that is required to attenuate by 95 % the luminous flux in a collimated beam from a source at a colour temperature of 2 700 K
+  - content: length of the path in the atmosphere that is required to attenuate by 95 % the luminous flux in a collimated beam from a source at a colour temperature of 2 700 K
     type: intensional
   examples: []
   notes:
@@ -29,7 +29,7 @@ data:
   - content: 'The meteorological optical range, stem:[v], is related to the atmospheric transmissivity, stem:[T], assumed to be uniform, by the formula
 
 
-      stem:[v = d_0 ((log 0,05))/((log T))] or stem:[T = 0,05^(d_0 // v)]
+      stem:[v = d_0 ((log 0,05))/((log T))] or stem:[T = 0,05^{d_0 // v}]
 
 
       where stem:[d_0] is the length specified in the definition of atmospheric transmissivity.
@@ -38,7 +38,7 @@ data:
       These formulae are sometimes written
 
 
-      stem:[v = ((log 0,05))/((log T))] or stem:[T = 0,05^(1 // v)]
+      stem:[v = ((log 0,05))/((log T))] or stem:[T = 0,05^{1 // v}]
 
 
       with stem:[d_0] set to unity.'

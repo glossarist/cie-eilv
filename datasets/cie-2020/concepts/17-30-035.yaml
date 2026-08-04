@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-035
   domains:
@@ -28,13 +27,11 @@ id: 5ea6aa16-f736-5f58-8e18-9ee07c331856
 ---
 data:
   definition:
-  - content: angle, measured up from nadir, between the vertical axis and the first
-      line of sight at which the light source(s) and the surfaces of high luminance
-      are not visible
+  - content: angle, measured up from nadir, between the vertical axis and the first line of sight at which the light source(s) and the surfaces of high luminance are not visible
     type: intensional
   examples: []
   notes:
-  - content: The cut-off angle is expressed in radian (rad) or degree (°).
+  - content: The cut-off angle is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-10-30, 845-10-30}} in IEC 60050-845:1987.
     type: intensional

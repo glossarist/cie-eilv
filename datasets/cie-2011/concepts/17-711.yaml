@@ -45,11 +45,11 @@ data:
     type: intensional
   - content: An equivalent formula is stem:[L_v = ((d Phi_v))/((d G))], where stem:[Phi_v] is luminous flux and stem:[G] is geometric extent.
     type: intensional
-  - content: "Luminous flux can be obtained by integrating luminance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:\r\nstem:[Phi_v = ​ ∬ L_v * cos alpha d A d omega]."
+  - content: "Luminous flux can be obtained by integrating luminance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:\r\nstem:[Phi_v =  iint L_v * cos alpha d A d omega]."
     type: intensional
-  - content: Since the optical extent, expressed by stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_v]stem:[·n^(-2)] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic luminance".
+  - content: Since the optical extent, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_v]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic luminance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of luminous flux, stem:[Phi_v]. In this case, it is mathematically interpreted as a second partial derivative of the luminous flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega],
+  - content: 'The equation in the definition can also be described as a function of luminous flux, stem:[Phi_v]. In this case, it is mathematically interpreted as a second partial derivative of the luminous flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega],
 
 
       stem:[L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
@@ -59,7 +59,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "radiance". The corresponding quantity for photons is "photon radiance".
     type: intensional
-  - content: The luminance is expressed in candela per square metre (cdcdotm^-2^ = lmcdotm^-2^cdotsr^-1^).
+  - content: The luminance is expressed in candela per square metre (cdcdotm^-2^ = lmcdotm^-2^cdotsr^-1^).
     type: intensional
   - content: This entry was numbered 845-01-35 in IEC 60050-845:1987.
     type: intensional

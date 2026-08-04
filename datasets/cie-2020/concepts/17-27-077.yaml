@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-077
   domains:
@@ -16,16 +15,13 @@ id: ceae1af7-c2ed-507e-9f13-c7acabd7d396
 ---
 data:
   definition:
-  - content: angle between two imaginary lines in a plane through the optical beam
-      axis, such that these lines pass through the centre of the front face of the
-      device and through points at which the luminous intensity is 50 % of the centre
-      beam intensity
+  - content: angle between two imaginary lines in a plane through the optical beam axis, such that these lines pass through the centre of the front face of the device and through points at which the luminous intensity is 50 % of the centre beam intensity
     type: intensional
   examples: []
   notes:
   - content: The beam angle is a full angle measure, not a half angle measure.
     type: intensional
-  - content: The beam angle is expressed in degree (°).
+  - content: The beam angle is expressed in degree (stem:[deg]).
     type: intensional
   sources:
   - origin:

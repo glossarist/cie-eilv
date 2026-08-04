@@ -23,7 +23,7 @@ data:
   - content: 'time integral of photon radiance, stem:[L_p], over a given duration, stem:[Delta t]
 
 
-      stem:[L_((p , t)) = underset((Delta t))( int ) L_p d t]'
+      stem:[L_{(p , t)} = underset((Delta t))( int ) L_p d t]'
     type: intensional
   examples: []
   notes:
@@ -49,7 +49,7 @@ data:
     designation: photon radiance dose
   - type: symbol
     normative_status: preferred
-    designation: stem:[L_(p,t)]
+    designation: stem:[L_{p,t}]
   language_code: eng
   annotations: []
 termid: 17-21-070

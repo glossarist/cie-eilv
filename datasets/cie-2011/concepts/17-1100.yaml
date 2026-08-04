@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Specified in ICNIRP-recommendations for stem:[λ] = 380 nm to stem:[λ =]1400 nm.
+  - content: Specified in ICNIRP-recommendations for stem:[lambda] = 380 nm to stem:[lambda =]1400 nm.
     type: intensional
   sources:
   - origin:
@@ -40,7 +40,7 @@ data:
     designation: stem:[R(lambda)]; stem:[r(lambda)]
   - type: symbol
     normative_status: preferred
-    designation: stem:[r](stem:[λ])
+    designation: stem:[r](stem:[stem:[lambda]])
   language_code: eng
   annotations: []
 termid: 17-1100

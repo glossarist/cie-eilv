@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-129
   domains:
@@ -16,12 +15,11 @@ id: 494c1779-15b1-5749-b277-b909935adf69
 ---
 data:
   definition:
-  - content: non-uniformity of colour appearance of a surface on a scale that is larger
-      than the colorant particles
+  - content: non-uniformity of colour appearance of a surface on a scale that is larger than the colorant particles
     type: intensional
   examples: []
   notes:
-  - content: The scale is typically 1 mm to 10 mm.
+  - content: The scale is typically 1 mm to 10 mm.
     type: intensional
   sources:
   - origin:

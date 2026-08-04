@@ -39,22 +39,22 @@ data:
   notes:
   - content: For practical realization of the quantity, the source is approximated by a {{concept:cie-2020:17-21-033, point source}}.
     type: intensional
-  - content: 'The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[theta], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
 
 
-      stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
+      stem:[Phi_v = underset(omega)( iint ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
     type: intensional
   - content: 'Luminous intensity can be derived from the spectral radiant intensity distribution by
 
 
-      stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+      stem:[I_v = \ K_m int_0^{oo} I_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
 
 
-      where stem:[K_m] is maximum luminous efficacy, stem:[I_(e,stem:[lambda])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'
+      where stem:[K_m] is maximum luminous efficacy, stem:[I_{e,stem:[lambd}])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'
     type: intensional
   - content: The corresponding radiometric quantity is "radiant intensity". The corresponding quantity for photons is "photon intensity".
     type: intensional
-  - content: The luminous intensity is expressed in candela (cd = lmcdotsr^-1^).
+  - content: The luminous intensity is expressed in candela (cd = lmcdotsr^-1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-31, 845-01-31}} in IEC 60050-845:1987.
     type: intensional

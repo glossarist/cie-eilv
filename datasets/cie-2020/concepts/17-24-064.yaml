@@ -36,9 +36,9 @@ data:
   notes:
   - content: Reflectance is also defined spectrally in terms of wavelength, in which case, "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[alpha] is absorptance and stem:[tau] is transmittance.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[alpha] is absorptance and stem:[tau] is transmittance.
     type: intensional
-  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The reflectance has unit one.
     type: intensional

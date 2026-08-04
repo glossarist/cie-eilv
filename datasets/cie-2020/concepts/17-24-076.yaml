@@ -18,7 +18,7 @@ data:
   - content: 'sum of the reflected spectral radiance factor, stem:[beta_R](stem:[lambda]), and the luminescent spectral radiance factor, stem:[beta_L](stem:[lambda])
 
 
-      stem:[beta_T](stem:[lambda]) = stem:[beta_R](stem:[lambda]) + stem:[beta_L](stem:[lambda])'
+      stem:[beta_T](stem:[lambda]) = stem:[beta_R](stem:[lambda]) + stem:[beta_L](stem:[lambda])'
     type: intensional
   examples: []
   notes:

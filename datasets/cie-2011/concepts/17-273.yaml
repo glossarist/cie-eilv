@@ -35,7 +35,7 @@ data:
     designation: cylindrical illuminance (at a point, for a given direction of incidence)
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,c)]
+    designation: stem:[E_{v,c}]
   - type: symbol
     normative_status: preferred
     designation: stem:[E_v,z]; stem:[E_z]

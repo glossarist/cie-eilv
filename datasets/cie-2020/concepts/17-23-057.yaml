@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-057
   domains:
@@ -28,10 +27,7 @@ id: 15308f63-5820-584e-af78-05cf52a5df44
 ---
 data:
   definition:
-  - content: stimulus that is represented in a chromaticity diagram by a point lying
-      within the triangle defined by the point representing the specified achromatic
-      stimulus and the two ends of the spectrum locus which correspond approximately
-      to the wavelengths 380 nm and 780 nm
+  - content: stimulus that is represented in a chromaticity diagram by a point lying within the triangle defined by the point representing the specified achromatic stimulus and the two ends of the spectrum locus which correspond approximately to the wavelengths 380 nm and 780 nm
     type: intensional
   examples: []
   notes:

@@ -23,13 +23,13 @@ data:
   - content: 'density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
 
 
-      stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]'
+      stem:[X_{lambda} = ((d X ( lambda )))/((d lambda))]'
     type: intensional
   examples: []
   notes:
-  - content: The term “spectral distribution” is to be preferred to the equivalent term “spectral concentration” when dealing with the function stem:[X]~stem:[λ]~(stem:[λ]) over a range of wavelengths, not at a particular wavelength.
+  - content: The term "spectral distribution" is to be preferred to the equivalent term "spectral concentration" when dealing with the function stem:[X]~stem:[lambda]~(stem:[lambda]) over a range of wavelengths, not at a particular wavelength.
     type: intensional
-  - content: See NOTES to “{{17-1206, spectral}}”.
+  - content: See NOTES to "{{17-1206, spectral}}".
     type: intensional
   sources:
   - origin:
@@ -45,7 +45,7 @@ data:
     designation: spectral concentration
   - type: symbol
     normative_status: preferred
-    designation: stem:[X]~stem:[λ]~(stem:[λ]); (stem:[X]~stem:[λ]~)
+    designation: stem:[X]~stem:[stem:[lambda]]~(stem:[stem:[lambda]]); (stem:[X]~stem:[stem:[lambda]]~)
   - type: expression
     normative_status: admitted
     designation: spectral concentration

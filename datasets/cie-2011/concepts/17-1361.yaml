@@ -20,11 +20,11 @@ id: 3d955f04-5277-57cc-b97f-a13f1ee71714
 ---
 data:
   definition:
-  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally weighted with the ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda])
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally weighted with the ultraviolet hazard spectral weighting function, stem:[S_{UV}](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: stem:[λ_1] = 180 nm, stem:[λ_2] = 400 nm.'
+  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] = 180 nm, stem:[lambda_2] = 400 nm.'
     type: intensional
   sources:
   - origin:

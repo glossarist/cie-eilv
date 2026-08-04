@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-036
   domains:
@@ -32,10 +31,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The shielding angle is the angle measured from the horizontal, down to
-      which the light source(s) is (are) screened by the luminaire.
+  - content: The shielding angle is the angle measured from the horizontal, down to which the light source(s) is (are) screened by the luminaire.
     type: intensional
-  - content: The shielding angle is expressed in radian (rad) or degree (°).
+  - content: The shielding angle is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-10-31, 845-10-31}} in IEC 60050-845:1987.
     type: intensional
