@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-015
   domains:
@@ -32,14 +31,11 @@ id: 0b58dce1-1250-5627-98cd-fbefea14a675
 ---
 data:
   definition:
-  - content: part of an electric lamp which provides connection to the power supply
-      by means of a lampholder or lamp connector and, in most cases, also serves to
-      retain the electric lamp in the lampholder
+  - content: part of an electric lamp which provides connection to the power supply by means of a lampholder or lamp connector and, in most cases, also serves to retain the electric lamp in the lampholder
     type: intensional
   examples: []
   notes:
-  - content: In some cases a cap serves as a thermal connection to the luminaire (or
-      its heatsink).
+  - content: In some cases a cap serves as a thermal connection to the luminaire (or its heatsink).
     type: intensional
   - content: A cap can be an integral part of an electric lamp.
     type: intensional
@@ -73,7 +69,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: base
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-010
   domains:
@@ -25,8 +24,7 @@ id: 82f802c8-baef-5f79-bfea-bd67d49dd3e4
 ---
 data:
   definition:
-  - content: retinal injury produced by staring at an extremely bright source of {{concept:cie-2020:17-21-002,
-      optical radiation}}
+  - content: retinal injury produced by staring at an extremely bright source of {{concept:cie-2020:17-21-002, optical radiation}}
     type: intensional
   examples: []
   notes:
@@ -46,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photic maculopathy
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blue light photoretinitis
   language_code: eng

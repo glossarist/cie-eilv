@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-130
   domains:
@@ -25,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The extraterrestrial solar illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: The extraterrestrial solar illuminance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-423 in CIE S 017:2011.
     type: intensional
@@ -45,7 +44,7 @@ data:
     designation: extraterrestrial solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev
+    designation: stem:[E_v]
   language_code: eng
   annotations: []
 termid: 17-29-130

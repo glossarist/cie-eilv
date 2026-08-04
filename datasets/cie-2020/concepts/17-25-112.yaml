@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-112
   domains:
@@ -21,15 +20,11 @@ id: 27d4cc2b-7282-5bbd-aa28-0074ea41d150
 ---
 data:
   definition:
-  - content: angle between a defined datum axis related to the luminaire and the horizontal
-      when the luminaire is mounted for photometric measurement
+  - content: angle between a defined datum axis related to the luminaire and the horizontal when the luminaire is mounted for photometric measurement
     type: intensional
   examples: []
   notes:
-  - content: The defined datum axis can be any feature of the luminaire, but it will
-      usually relate to a feature that is nominally aligned with the horizontal such
-      as an axis through the luminous opening or an axis through an array of LEDs
-      or a fixing spigot entry axis.
+  - content: The defined datum axis can be any feature of the luminaire, but it will usually relate to a feature that is nominally aligned with the horizontal such as an axis through the luminous opening or an axis through an array of LEDs or a fixing spigot entry axis.
     type: intensional
   - content: The tilt during measurement is expressed in radian (rad) or degree (°).
     type: intensional
@@ -52,7 +47,7 @@ data:
     usage_info: of a luminaire
   - type: symbol
     normative_status: preferred
-    designation: θm
+    designation: stem:[theta]m
   language_code: eng
   annotations: []
 termid: 17-25-112

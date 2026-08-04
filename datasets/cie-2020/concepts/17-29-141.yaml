@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-141
   domains:
@@ -66,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: rooflight
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: skylight, <of a building>
   language_code: eng

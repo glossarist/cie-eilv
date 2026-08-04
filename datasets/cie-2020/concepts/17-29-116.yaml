@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-116
   domains:
@@ -28,14 +27,11 @@ id: e0c58f34-2bf0-52b3-ad32-c0e38bfb99e7
 ---
 data:
   definition:
-  - content: quotient of the sum of the solid angles subtended by clouds and the solid
-      angle 2π sr of the whole sky
+  - content: quotient of the sum of the solid angles subtended by clouds and the solid angle 2stem:[pi] sr of the whole sky
     type: intensional
   examples: []
   notes:
-  - content: Observation of total cloud amount is usually recorded in tenths or oktas,
-      where one okta indicates an extent of cloud cover equal to one eighth of the
-      sky.
+  - content: Observation of total cloud amount is usually recorded in tenths or oktas, where one okta indicates an extent of cloud cover equal to one eighth of the sky.
     type: intensional
   - content: The total cloud amount has unit one.
     type: intensional
@@ -69,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: total cloud amount
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fractional cloud cover
   language_code: eng

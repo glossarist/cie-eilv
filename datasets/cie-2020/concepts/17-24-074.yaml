@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-074
   domains:
@@ -21,8 +20,7 @@ id: d1adbc62-c3b3-575d-bebe-7e136bb70ba0
 ---
 data:
   definition:
-  - content: quotient of the flux transmitted by a specimen in a given optical system
-      and the flux transmitted when the specimen is removed from the sampling aperture
+  - content: quotient of the flux transmitted by a specimen in a given optical system and the flux transmitted when the specimen is removed from the sampling aperture
     type: intensional
   examples: []
   notes:
@@ -48,7 +46,7 @@ data:
     designation: transmittance factor
   - type: symbol
     normative_status: preferred
-    designation: T
+    designation: stem:[T]
   language_code: eng
   annotations: []
 termid: 17-24-074

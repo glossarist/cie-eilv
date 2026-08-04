@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-018
   domains:
@@ -66,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: shell cap
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: shell base
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-390
   domains:
@@ -21,13 +20,11 @@ id: 77d8e9a4-6ee9-5357-a726-fb913a2c2aca
 ---
 data:
   definition:
-  - content: spectrum of radiation whose spectral distribution of a radiometric quantity
-      as a function of wavelength is constant throughout the visible region
+  - content: spectrum of radiation whose spectral distribution of a radiometric quantity as a function of wavelength is constant throughout the visible region
     type: intensional
   examples: []
   notes:
-  - content: The radiation of the equal energy spectrum is sometimes regarded as an
-      illuminant, in which case it is denoted by the symbol E.
+  - content: The radiation of the equal energy spectrum is sometimes regarded as an illuminant, in which case it is denoted by the symbol E.
     type: intensional
   sources:
   - origin:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: equal energy spectrum (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: equal energy spectrum
   language_code: eng

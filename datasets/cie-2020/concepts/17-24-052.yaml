@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-052
   domains:
@@ -28,8 +27,7 @@ id: 9d59225e-ec42-517c-b473-6c78b7d13abd
 ---
 data:
   definition:
-  - content: reflection in accordance with the laws of geometrical optics, without
-      scattering
+  - content: reflection in accordance with the laws of geometrical optics, without scattering
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: regular reflection
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: specular reflection
   language_code: eng

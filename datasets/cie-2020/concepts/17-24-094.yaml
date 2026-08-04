@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-094
   domains:
@@ -28,16 +27,11 @@ id: 41ff98fa-dc00-5399-b082-68d77dd36740
 ---
 data:
   definition:
-  - content: spectral internal transmittance of a layer of an absorbing material such
-      that the path of the radiation is of dimension length, and under conditions
-      in which the boundary of the material has no influence
+  - content: spectral internal transmittance of a layer of an absorbing material such that the path of the radiation is of dimension length, and under conditions in which the boundary of the material has no influence
     type: intensional
   examples: []
   notes:
-  - content: The unit of length has to be specified. If a new unit of length is used
-      that is stem:[k] times the magnitude of the original one, then the value of
-      stem:[tau_(i,o)](stem:[lambda]) will change to stem:[tau^( ' )_(i ,o)^() ( lambda
-      ) = tau_((i ,o)) ( lambda )^k].
+  - content: The unit of length has to be specified. If a new unit of length is used that is stem:[k] times the magnitude of the original one, then the value of stem:[tau_(i,o)](stem:[lambda]) will change to stem:[tau^( ' )_(i ,o)^() ( lambda ) = tau_((i ,o)) ( lambda )^k].
     type: intensional
   - content: The spectral transmissivity has unit one.
     type: intensional
@@ -74,7 +68,7 @@ data:
     usage_info: of an absorbing material
   - type: symbol
     normative_status: preferred
-    designation: τi,o(λ)
+    designation: stem:[tau]i,o(stem:[lambda])
   language_code: eng
   annotations: []
 termid: 17-24-094

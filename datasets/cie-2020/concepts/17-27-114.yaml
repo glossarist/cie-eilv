@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-114
   domains:
@@ -16,17 +15,13 @@ id: e2ace782-3832-5d11-a3d1-c45ccc97151a
 ---
 data:
   definition:
-  - content: ratio of the luminous flux of an electric light source at a given time
-      in its operational life to its initial luminous flux, the electric light source
-      being operated under specified conditions
+  - content: ratio of the luminous flux of an electric light source at a given time in its operational life to its initial luminous flux, the electric light source being operated under specified conditions
     type: intensional
   examples: []
   notes:
-  - content: In IEC standards, “lumen maintenance” is also commonly used with the
-      same meaning.
+  - content: In IEC standards, “lumen maintenance” is also commonly used with the same meaning.
     type: intensional
-  - content: The luminous flux maintenance factor has unit one and is usually expressed
-      in per cent.
+  - content: The luminous flux maintenance factor has unit one and is usually expressed in per cent.
     type: intensional
   sources:
   - origin:
@@ -38,7 +33,7 @@ data:
     normative_status: preferred
     designation: luminous flux maintenance factor
     usage_info: of an electric light source
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: lumen maintenance factor, <of an electric light source>
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-42
   domains:
@@ -25,20 +24,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Subtended angles are denoted by the full included angle, not the half
-      angle.
+  - content: Subtended angles are denoted by the full included angle, not the half angle.
     type: intensional
-  - content: The angular subtense, <i>α</i>, will often be modified by incorporation
-      of lenses and mirrors as projector optics, in which case the angular subtense
-      of the apparent source will differ from the angular subtense of the physical
-      source.
+  - content: The angular subtense, stem:[α], will often be modified by incorporation of lenses and mirrors as projector optics, in which case the angular subtense of the apparent source will differ from the angular subtense of the physical source.
     type: intensional
-  - content: The angular subtense of an oblong source shall be determined by the arithmetic
-      mean of the maximum and minimum angular dimension of the source.
+  - content: The angular subtense of an oblong source shall be determined by the arithmetic mean of the maximum and minimum angular dimension of the source.
     type: intensional
-  - content: 'In safety applications (IEC62471/CIES009:2006 <i>Photobiological safety
-      of lamp and lamp systems</i>) the term is used as: angle subtended by an apparent
-      source as viewed from a point in space.'
+  - content: 'In safety applications (IEC62471/CIES009:2006 stem:[Photobiological safety of lamp and lamp systems]) the term is used as: angle subtended by an apparent source as viewed from a point in space.'
     type: intensional
   sources:
   - origin:
@@ -51,10 +43,10 @@ data:
     designation: angular subtense
   - type: symbol
     normative_status: preferred
-    designation: α
+    designation: stem:[alpha]
   - type: symbol
     normative_status: preferred
-    designation: "<i>α</i>"
+    designation: stem:[α]
   language_code: eng
   annotations: []
 termid: 17-42

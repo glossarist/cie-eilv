@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-957
   domains:
@@ -38,10 +37,10 @@ data:
     designation: Planck constant
   - type: symbol
     normative_status: preferred
-    designation: h
+    designation: stem:[h]
   - type: symbol
     normative_status: preferred
-    designation: "<i>h</i>"
+    designation: stem:[h]
   language_code: eng
   annotations: []
 termid: 17-957

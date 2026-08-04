@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-098
   domains:
@@ -21,13 +20,11 @@ id: 7d8b2d97-7664-5b6c-8cc1-e8d2b0199197
 ---
 data:
   definition:
-  - content: quotient of the luminance, stem:[L_v]stem:[,] of a road surface and the
-      vertical illuminance, stem:[E_(v,v)], at a specific location in a tunnel
+  - content: quotient of the luminance, stem:[L_v]stem:[,] of a road surface and the vertical illuminance, stem:[E_(v,v)], at a specific location in a tunnel
     type: intensional
   examples: []
   notes:
-  - content: The contrast revealing coefficient is expressed in steradian to the power
-      minus one (sr^−1^).
+  - content: The contrast revealing coefficient is expressed in steradian to the power minus one (sr^−1^).
     type: intensional
   - content: This entry was numbered 17-254 in CIE S 017:2011.
     type: intensional
@@ -46,7 +43,7 @@ data:
     normative_status: preferred
     designation: contrast revealing coefficient
     usage_info: of a tunnel lighting installation
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: qc
   language_code: eng

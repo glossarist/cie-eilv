@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-521
   domains:
@@ -21,8 +20,7 @@ id: cdc03d91-3d18-5ec4-b754-f425a1a147f6
 ---
 data:
   definition:
-  - content: projector carried on a vehicle for illuminating the way or scene in front
-      of the vehicle
+  - content: projector carried on a vehicle for illuminating the way or scene in front of the vehicle
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: headlamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: headlamp
   - type: expression

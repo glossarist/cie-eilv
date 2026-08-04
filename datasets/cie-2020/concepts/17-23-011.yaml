@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-011
   domains:
@@ -66,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: monochromatic stimulus
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectral stimulus
   language_code: eng

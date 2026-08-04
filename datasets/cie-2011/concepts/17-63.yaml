@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-63
   domains:
@@ -25,13 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: In practice, this may be approximated by an average of the illuminance
-      at a representative number of points on the surface. The number and positions
-      of these points should be specified in the relevant application guide.
+  - content: In practice, this may be approximated by an average of the illuminance at a representative number of points on the surface. The number and positions of these points should be specified in the relevant application guide.
     type: intensional
-  - content: The specification must include a clear indication of the type of illuminance
-      at the points of the surface, i.e. horizontal, vertical, spherical, cylindrical
-      or semi-cylindrical.
+  - content: The specification must include a clear indication of the type of illuminance at the points of the surface, i.e. horizontal, vertical, spherical, cylindrical or semi-cylindrical.
     type: intensional
   sources:
   - origin:
@@ -44,10 +39,10 @@ data:
     designation: average illuminance (over a surface)
   - type: symbol
     normative_status: preferred
-    designation: Ev,av; ; Eav;
+    designation: stem:[E_(v,av)]
   - type: symbol
     normative_status: preferred
-    designation: Ev,av; ; Eav;
+    designation: stem:[E_(v,av)]
   language_code: eng
   annotations: []
 termid: 17-63

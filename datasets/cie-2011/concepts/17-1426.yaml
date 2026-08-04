@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1426
   domains:
@@ -21,19 +20,13 @@ id: 257638a8-58d5-5630-89ee-491ce36ed32a
 ---
 data:
   definition:
-  - content: distance in the direction of propagation of a periodic wave between two
-      successive positions at which the phase is the same
+  - content: distance in the direction of propagation of a periodic wave between two successive positions at which the phase is the same
     type: intensional
   examples: []
   notes:
-  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided
-      by the refractive index of the medium. Unless otherwise stated, values of wavelength
-      are generally those in air. The refractive index of standard air (for spectroscopy:
-      <i>T</i> = 15 ° C, <i>p</i> = 101 325 Pa) lies between 1,000 27 and 1,000 29
-      for visible radiation.'
+  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. Unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 ° C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for visible radiation.'
     type: intensional
-  - content: "<i>λ</i> = <i>ν</i> / <i>v</i>, where <i>λ</i>is the wavelength in a
-      medium, <i>ν</i> is the phase velocity in that medium and <i>v</i> the frequency."
+  - content: stem:[λ] = stem:[ν] / stem:[v], where stem:[λ]is the wavelength in a medium, stem:[ν] is the phase velocity in that medium and stem:[v] the frequency.
     type: intensional
   - content: In optical radiation the units “nm” and “µm” are generally used.
     type: intensional
@@ -48,10 +41,10 @@ data:
     designation: wavelength
   - type: symbol
     normative_status: preferred
-    designation: λ
+    designation: stem:[lambda]
   - type: symbol
     normative_status: preferred
-    designation: "<i>λ</i>"
+    designation: stem:[λ]
   language_code: eng
   annotations: []
 termid: 17-1426

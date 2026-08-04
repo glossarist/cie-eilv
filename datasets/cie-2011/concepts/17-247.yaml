@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-247
   domains:
@@ -21,9 +20,7 @@ id: 89e12b52-bda7-50d9-9f22-eb8bde4c2b33
 ---
 data:
   definition:
-  - content: device consisting of electrical contacts, with insulation and mounted
-      on flexible conductors, which provides for connection of the electric lamp to
-      the power supply but does not support the electric lamp
+  - content: device consisting of electrical contacts, with insulation and mounted on flexible conductors, which provides for connection of the electric lamp to the power supply but does not support the electric lamp
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: connector (lamp)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: lamp connector
   language_code: eng

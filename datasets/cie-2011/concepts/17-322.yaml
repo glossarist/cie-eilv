@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-322
   domains:
@@ -21,8 +20,7 @@ id: bad0d3e6-57c4-5e21-a2fa-848028359e05
 ---
 data:
   definition:
-  - content: irradiance produced by direct solar radiation on a horizontal surface
-      on the Earth
+  - content: irradiance produced by direct solar radiation on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: direct solar irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee,s
+    designation: stem:[E_(e,s)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e,s</sub>"
+    designation: stem:[E_e,s]
   language_code: eng
   annotations: []
 termid: 17-322

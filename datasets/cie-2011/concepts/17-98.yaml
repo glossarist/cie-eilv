@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-98
   domains:
@@ -21,21 +20,15 @@ id: 0c3eeeef-952f-5935-8de5-9e201ebd2051
 ---
 data:
   definition:
-  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally
-      weighted with the blue light hazard spectral weighting function, stem:[B](stem:[lambda])
+  - content: effective irradiance with the spectral irradiance, stem:[Elambda], spectrally weighted with the blue light hazard spectral weighting function, stem:[B](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: This quantity is typically of interest for small sources subtending less
-      than 0,011 rad.
+  - content: This quantity is typically of interest for small sources subtending less than 0,011 rad.
     type: intensional
-  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> =300 nm, <i>λ</i><sub>2</sub>
-      =700 nm.'
+  - content: 'Specified in ICNIRP-recommendations: stem:[λ_1] =300 nm, stem:[λ_2] =700 nm.'
     type: intensional
-  - content: This definition implies that an action spectrum is adopted for the actinic
-      effect considered, and that its maximum value is 1. When giving a quantitative
-      amount, it is essential to specify according to which actinic action spectrum
-      the irradiance is meant, as the unit is the same.
+  - content: This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the irradiance is meant, as the unit is the same.
     type: intensional
   sources:
   - origin:
@@ -51,7 +44,7 @@ data:
     designation: EB
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>b</sub>"
+    designation: stem:[E_b]
   language_code: eng
   annotations: []
 termid: 17-98

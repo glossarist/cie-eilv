@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-065
   domains:
@@ -21,12 +20,11 @@ id: 7b78c855-1a88-5b9d-bf4f-909b37abb152
 ---
 data:
   definition:
-  - content: integrated luminance either on any surface from its half space, or in
-      any point from the whole space
+  - content: integrated luminance either on any surface from its half space, or in any point from the whole space
     type: intensional
   examples: []
   notes:
-  - content: The scalar illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: The scalar illuminance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-1137 in CIE S 017:2011.
     type: intensional

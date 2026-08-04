@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-074
   domains:
@@ -28,26 +27,18 @@ id: f87a0b7e-6ce9-53d8-83c1-28c3bfac5eb9
 ---
 data:
   definition:
-  - content: |-
-      time integral of spherical irradiance, stem:[E_(e,o)], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical irradiance, stem:[E_(e,o)], at a given point over a given duration, stem:[Delta t]
 
-      stem:[H_((e,o)) = underset((Delta t))( int ) E_(e,o) d t]
+
+      stem:[H_((e,o)) = underset((Delta t))( int ) E_(e,o) d t]'
     type: intensional
   examples: []
   notes:
-  - content: The radiant spherical exposure is the quotient of the radiant energy
-      of all radiation incident on the outer surface of an infinitely small sphere
-      centred at the specified point and the area of the diametrical cross-section
-      of that sphere.
+  - content: The radiant spherical exposure is the quotient of the radiant energy of all radiation incident on the outer surface of an infinitely small sphere centred at the specified point and the area of the diametrical cross-section of that sphere.
     type: intensional
-  - content: The radiant spherical exposure is the appropriate radiometric quantity
-      for describing a dose for a photobiological or photochemical effect in a scattering
-      medium (e.g. light in skin). It is also the appropriate radiometric quantity
-      for describing the irradiation of microorganisms. The radiant spherical exposure
-      is frequently used incorrectly as a substitute for radiant exposure.
+  - content: The radiant spherical exposure is the appropriate radiometric quantity for describing a dose for a photobiological or photochemical effect in a scattering medium (e.g. light in skin). It is also the appropriate radiometric quantity for describing the irradiation of microorganisms. The radiant spherical exposure is frequently used incorrectly as a substitute for radiant exposure.
     type: intensional
-  - content: The radiant spherical exposure is expressed in joule per square metre
-      (J·m^−2^ = W·s·m^−2^).
+  - content: The radiant spherical exposure is expressed in joule per square metre (Jcdotm^−2^ = Wcdotscdotm^−2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-45, 845-01-45}} in IEC 60050-845:1987.
     type: intensional
@@ -79,7 +70,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: radiant spherical exposure
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fluence
   language_code: eng

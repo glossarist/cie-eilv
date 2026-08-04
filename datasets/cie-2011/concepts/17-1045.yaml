@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1045
   domains:
@@ -21,9 +20,7 @@ id: f27659a7-370c-5f46-ae99-75b428fef0ec
 ---
 data:
   definition:
-  - content: law stating that the total radiant exposure required to elicit a given
-      photobiological or photochemical response is independent of the duration over
-      which the exposure occurs
+  - content: law stating that the total radiant exposure required to elicit a given photobiological or photochemical response is independent of the duration over which the exposure occurs
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: reciprocity law
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: reciprocity law
   language_code: eng

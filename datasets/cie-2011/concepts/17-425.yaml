@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-425
   domains:
@@ -21,8 +20,7 @@ id: 79ef5460-9457-5864-ba63-438d7a98090b
 ---
 data:
   definition:
-  - content: piece of metal, insulated from the shell of the cap, which is connected
-      to one of the lead-in wires and provides connection to the power supply
+  - content: piece of metal, insulated from the shell of the cap, which is connected to one of the lead-in wires and provides connection to the power supply
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: eyelet (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: eyelet, US
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1023
   domains:
@@ -31,7 +30,7 @@ data:
     designation: radiant fluence (at a point, for a given exposure duration)
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>e,o</sub>"
+    designation: stem:[H_e,o]
   language_code: eng
   annotations: []
 termid: 17-1023

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-093
   domains:
@@ -28,8 +27,7 @@ id: 495783e2-041d-5055-b6fc-1e48065ebb5d
 ---
 data:
   definition:
-  - content: reflectance of a layer of a material that is of sufficient thickness
-      so that there is no change in reflectance with increase in thickness
+  - content: reflectance of a layer of a material that is of sufficient thickness so that there is no change in reflectance with increase in thickness
     type: intensional
   examples: []
   notes:
@@ -68,7 +66,7 @@ data:
     usage_info: of a material
   - type: symbol
     normative_status: preferred
-    designation: ρ∝
+    designation: stem:[rho]∝
   language_code: eng
   annotations: []
 termid: 17-24-093

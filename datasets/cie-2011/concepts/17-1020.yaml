@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1020
   domains:
@@ -21,12 +20,13 @@ id: 175d0677-49b0-557c-8012-bc75c187fd50
 ---
 data:
   definition:
-  - content: |-
-      density of exiting radiant flux with respect to area at a point on a real or imaginary surface
+  - content: 'density of exiting radiant flux with respect to area at a point on a real or imaginary surface
+
 
       stem:[M_e = ((d Phi_e))/((d A))]
 
-      where stem:[Phi_e] is radiant flux and stem:[A] is the area from which the radiant flux leaves
+
+      where stem:[Phi_e] is radiant flux and stem:[A] is the area from which the radiant flux leaves'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: radiant exitance (at a point of a surface)
   - type: symbol
     normative_status: preferred
-    designation: Me; M
+    designation: stem:[M_e]
   - type: symbol
     normative_status: preferred
-    designation: "<i>M</i><sub>e</sub>"
+    designation: stem:[M_e]
   language_code: eng
   annotations: []
 termid: 17-1020

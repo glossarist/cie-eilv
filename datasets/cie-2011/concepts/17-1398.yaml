@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1398
   domains:
@@ -36,10 +35,10 @@ data:
     designation: vertical photometric angle (of a light path)
   - type: symbol
     normative_status: preferred
-    designation: γ
+    designation: stem:[gamma]
   - type: symbol
     normative_status: preferred
-    designation: γ
+    designation: stem:[gamma]
   language_code: eng
   annotations: []
 termid: 17-1398

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-193
   domains:
@@ -25,9 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: CIE <i>XYZ</i> tristimulus values are colorimetric coordinates, as are
-      <i>RGB</i> values that have an exact and invertible mathematical relationship
-      to CIE <i>XYZ</i>tristimulus values.
+  - content: CIE stem:[XYZ] tristimulus values are colorimetric coordinates, as are stem:[RGB] values that have an exact and invertible mathematical relationship to CIE stem:[XYZ]tristimulus values.
     type: intensional
   sources:
   - origin:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1298
   domains:
@@ -21,8 +20,7 @@ id: f60c7a75-08e1-5ecc-900e-1802742e35cf
 ---
 data:
   definition:
-  - content: signal light carried on a vehicle to indicate its location when it is
-      viewed from the back
+  - content: signal light carried on a vehicle to indicate its location when it is viewed from the back
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: tail-light
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: tail-light
   language_code: eng

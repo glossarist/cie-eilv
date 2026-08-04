@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-040
   domains:
@@ -28,8 +27,7 @@ id: 673d1896-b070-50fa-9ab7-7a6aa0ddced4
 ---
 data:
   definition:
-  - content: narrow conducting strip placed longitudinally on the internal or external
-      wall of a tubular discharge lamp for assisting in starting
+  - content: narrow conducting strip placed longitudinally on the internal or external wall of a tubular discharge lamp for assisting in starting
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: starting strip
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: starting stripe, US
   language_code: eng

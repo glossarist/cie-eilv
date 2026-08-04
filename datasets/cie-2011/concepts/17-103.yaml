@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-103
   domains:
@@ -21,14 +20,13 @@ id: 9d9bd52a-9977-5569-afb8-785043990d6c
 ---
 data:
   definition:
-  - content: time integral of the blue light hazard radiance, stem:[L_B], as integrated
-      with respect to the exposure duration
+  - content: time integral of the blue light hazard radiance, stem:[L_B], as integrated with respect to the exposure duration
     type: intensional
   examples: []
   notes:
-  - content: |-
-      This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the integrated radiance is meant, as the unit is the same.
-      See also "{{17-1014, radiance dose (in a given direction, at a given point of a real or imaginary surface)}}"
+  - content: 'This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the integrated radiance is meant, as the unit is the same.
+
+      See also "{{17-1014, radiance dose (in a given direction, at a given point of a real or imaginary surface)}}"'
     type: intensional
   sources:
   - origin:
@@ -39,12 +37,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: blue light hazard (time) integrated radiance
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blue light hazard time integrated radiance
   - type: symbol
     normative_status: preferred
-    designation: "<i>L</i><sub>b,t</sub>"
+    designation: stem:[L_b,t]
   - type: expression
     normative_status: admitted
     designation: blue light hazard radiance dose

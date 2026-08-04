@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-116
   domains:
@@ -21,15 +20,11 @@ id: ea3b2413-cf0f-53f9-8625-0330591df51f
 ---
 data:
   definition:
-  - content: coordinate system commonly used in the photometry of luminaires in which
-      the C-planes are half-planes that rotate round the vertical line through the
-      photometric centre of the luminaire, and the γ-angles are measured up to 180°
-      from the direction of the perpendicular to the rotation axis of the C-planes
+  - content: coordinate system commonly used in the photometry of luminaires in which the C-planes are half-planes that rotate round the vertical line through the photometric centre of the luminaire, and the stem:[gamma]-angles are measured up to 180° from the direction of the perpendicular to the rotation axis of the C-planes
     type: intensional
   examples: []
   notes:
-  - content: Other coordinate systems (<i>A</i>, <i>α</i>) and (<i>B</i>, <i>β</i>)
-      exist as well. See CIE 121-1996.
+  - content: Other coordinate systems (stem:[A], stem:[α]) and (stem:[B], stem:[β]) exist as well. See CIE 121-1996.
     type: intensional
   sources:
   - origin:
@@ -39,7 +34,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: "<i>C</i>, <i>γ</i> coordinate system"
+    designation: <i>C</i>, <i>γ</i> coordinate system
   language_code: eng
   annotations: []
 termid: 17-116

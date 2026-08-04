@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-079
   domains:
@@ -21,8 +20,7 @@ id: 2603e88d-fe0a-5488-a516-9952e3403838
 ---
 data:
   definition:
-  - content: angle that the viewing direction makes with the normal of the surface
-      being viewed
+  - content: angle that the viewing direction makes with the normal of the surface being viewed
     type: intensional
   examples: []
   notes:
@@ -44,7 +42,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: angle of observation
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: angle of view
   language_code: eng

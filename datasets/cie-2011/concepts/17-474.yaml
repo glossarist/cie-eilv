@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-474
   domains:
@@ -16,17 +15,17 @@ id: eeee38b5-e2fa-5d07-acf9-cfec0f000595
 ---
 data:
   definition:
-  - content: |-
-      ratio of the sum of the solid angles subtended by clouds to the solid angle 2π sr of the whole sky
+  - content: 'ratio of the sum of the solid angles subtended by clouds to the solid angle 2stem:[pi] sr of the whole sky
+
 
       Unit: 1
 
-      Equivalent term used outside US: "total cloud amount"
+
+      Equivalent term used outside US: "total cloud amount"'
     type: intensional
   examples: []
   notes:
-  - content: Observation of fractional cloud cover is usually recorded in oktas or
-      tenths.
+  - content: Observation of fractional cloud cover is usually recorded in oktas or tenths.
     type: intensional
   sources:
   - origin:

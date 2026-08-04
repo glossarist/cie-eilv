@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-636
   domains:
@@ -21,14 +20,13 @@ id: e2d37b61-332d-5175-b4fc-77442c974953
 ---
 data:
   definition:
-  - content: quotient of the luminous flux of a lamp at a given time in its operational
-      life and the initial luminous flux
+  - content: quotient of the luminous flux of a lamp at a given time in its operational life and the initial luminous flux
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Initial luminous flux of lamps is usually declared at 1 h for incandescent and 100 h for discharge lamps.
-      Abbreviation: "LLMF"
+  - content: 'Initial luminous flux of lamps is usually declared at 1 h for incandescent and 100 h for discharge lamps.
+
+      Abbreviation: "LLMF"'
     type: intensional
   sources:
   - origin:
@@ -44,7 +42,7 @@ data:
     designation: LLMF
   - type: symbol
     normative_status: preferred
-    designation: "<i>f</i><sub>LLM</sub>"
+    designation: stem:[f_LLM]
   language_code: eng
   annotations: []
 termid: 17-636

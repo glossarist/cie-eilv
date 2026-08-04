@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-608
   domains:
@@ -21,12 +20,13 @@ id: b74f4a7d-02fd-5c57-a517-349ad46f447f
 ---
 data:
   definition:
-  - content: |-
-      density of incident radiant flux with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident radiant flux with respect to area at a point on a real or imaginary surface
+
 
       stem:[E_e = ((d Phi_e))/((d A))]
 
-      where stem:[Phi_e] is radiant flux and stem:[A] is the area on which the radiant flux is incident
+
+      where stem:[Phi_e] is radiant flux and stem:[A] is the area on which the radiant flux is incident'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: irradiance (at a point of a surface)
   - type: symbol
     normative_status: preferred
-    designation: Ee, E
+    designation: stem:[E_e]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e</sub>"
+    designation: stem:[E_e]
   language_code: eng
   annotations: []
 termid: 17-608

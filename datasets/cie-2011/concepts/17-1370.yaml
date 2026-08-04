@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1370
   domains:
@@ -21,7 +20,7 @@ id: a91b1a30-37bc-5598-b645-84c2465fb53a
 ---
 data:
   definition:
-  - content: "{{17-964, point source}} which emits uniformly in all directions"
+  - content: '{{17-964, point source}} which emits uniformly in all directions'
     type: intensional
   examples: []
   notes: []
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: uniform point source
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: isotropic point source
   language_code: eng

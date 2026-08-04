@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-059
   domains:
@@ -28,13 +27,11 @@ id: a8f7c8d3-130a-5623-8cda-52e5fcd770e6
 ---
 data:
   definition:
-  - content: that part of the output current of a photoelectric detector which is
-      caused by incident radiation
+  - content: that part of the output current of a photoelectric detector which is caused by incident radiation
     type: intensional
   examples: []
   notes:
-  - content: In photomultipliers a distinction has to be made between the cathode
-      photocurrent and the anode photocurrent.
+  - content: In photomultipliers a distinction has to be made between the cathode photocurrent and the anode photocurrent.
     type: intensional
   - content: The photocurrent is expressed in ampere (A).
     type: intensional
@@ -70,7 +67,7 @@ data:
     designation: photocurrent
   - type: symbol
     normative_status: preferred
-    designation: Iph
+    designation: stem:[I_ph]
   language_code: eng
   annotations: []
 termid: 17-25-059

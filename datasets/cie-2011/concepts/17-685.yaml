@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-685
   domains:
@@ -21,9 +20,7 @@ id: 39f77c01-5717-5933-8a26-8b10523d62d4
 ---
 data:
   definition:
-  - content: display technology that modulates the light from a backlight to make
-      a grey scale image and uses red, green, and blue colour filters to make a colour
-      image
+  - content: display technology that modulates the light from a backlight to make a grey scale image and uses red, green, and blue colour filters to make a colour image
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: liquid crystal display
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: liquid crystal display
   language_code: eng

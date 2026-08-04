@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1018
   domains:
@@ -21,14 +20,11 @@ id: fa9a96e5-23ea-5d2d-9c6d-3b7deab5c5c6
 ---
 data:
   definition:
-  - content: quotient of the radiant flux of the emitted radiation and the power consumed
-      by the source
+  - content: quotient of the radiant flux of the emitted radiation and the power consumed by the source
     type: intensional
   examples: []
   notes:
-  - content: It must be specified whether or not the power dissipated by auxiliary
-      equipment such as ballasts, etc., if any, is included in the power consumed
-      by the source.
+  - content: It must be specified whether or not the power dissipated by auxiliary equipment such as ballasts, etc., if any, is included in the power consumed by the source.
     type: intensional
   sources:
   - origin:
@@ -41,10 +37,10 @@ data:
     designation: radiant efficiency (of a source of radiation)
   - type: symbol
     normative_status: preferred
-    designation: ηe; η
+    designation: stem:[eta]e; stem:[eta]
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i><sub>e</sub>"
+    designation: stem:[η_e]
   language_code: eng
   annotations: []
 termid: 17-1018

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1183
   domains:
@@ -21,14 +20,11 @@ id: 95691c1a-be6f-5dd8-b2c7-7bf5e3ac3590
 ---
 data:
   definition:
-  - content: authorized sign that conveys, to vehicular and pedestrian traffic, a
-      prohibition, restriction, requirement or warning, or information
+  - content: authorized sign that conveys, to vehicular and pedestrian traffic, a prohibition, restriction, requirement or warning, or information
     type: intensional
   examples: []
   notes:
-  - content: In French, the term "panneau de signalisation (routière)" refers only
-      to a panel that contains a sign, and it may in some cases be equivalent to the
-      English term "sign plate" or "sign panel (US)".
+  - content: In French, the term "panneau de signalisation (routière)" refers only to a panel that contains a sign, and it may in some cases be equivalent to the English term "sign plate" or "sign panel (US)".
     type: intensional
   sources:
   - origin:
@@ -39,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: sign panel (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: sign panel
   language_code: eng

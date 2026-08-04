@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-088
   domains:
@@ -32,14 +31,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: A field superimposed on a second larger field (background) can also be
-      taken as two adjacent fields.
+  - content: A field superimposed on a second larger field (background) can also be taken as two adjacent fields.
     type: intensional
-  - content: The value of the luminance difference threshold depends on the methodology,
-      luminance, and on the viewing conditions, including the state of adaptation.
+  - content: The value of the luminance difference threshold depends on the methodology, luminance, and on the viewing conditions, including the state of adaptation.
     type: intensional
-  - content: The luminance difference threshold is expressed in candela per square
-      metre (cd·m^−2^ = lm·m^−2^·sr^−1^).
+  - content: The luminance difference threshold is expressed in candela per square metre (cdcdotm^−2^ = lmcdotm^−2^cdotsr^−1^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-46, 845-02-46}} in IEC 60050-845:1987.
     type: intensional
@@ -73,7 +69,7 @@ data:
     designation: luminance difference threshold
   - type: symbol
     normative_status: preferred
-    designation: ΔLth
+    designation: stem:[Delta]Lth
   language_code: eng
   annotations: []
 termid: 17-22-088

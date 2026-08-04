@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1058
   domains:
@@ -21,16 +20,14 @@ id: f908e51e-f360-50ea-80e0-7bfcdd24f47f
 ---
 data:
   definition:
-  - content: |-
-      quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
 
-      stem:[rho = ((Phi_r))/((Phi_m))]
+
+      stem:[rho = ((Phi_r))/((Phi_m))]'
     type: intensional
   examples: []
   notes:
-  - content: 'Reflectance, <i>ρ</i>, is the sum of regular reflectance, <i>ρ</i><sub>r</sub>,
-      and diffuse reflectance, <i>ρ</i><sub>d</sub>: <i>ρ</i> = <i>ρ</i><sub>r</sub>+
-      <i>ρ</i><sub>d</sub>.'
+  - content: 'Reflectance, stem:[ρ], is the sum of regular reflectance, stem:[ρ_r], and diffuse reflectance, stem:[ρ_d]: stem:[ρ] = stem:[ρ_r]+ stem:[ρ_d].'
     type: intensional
   sources:
   - origin:
@@ -40,14 +37,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reflectance (for incident radiation of given spectral composition,
-      polarization and geometrical distribution)
+    designation: reflectance (for incident radiation of given spectral composition, polarization and geometrical distribution)
   - type: symbol
     normative_status: preferred
-    designation: ρ
+    designation: stem:[rho]
   - type: symbol
     normative_status: preferred
-    designation: "<i>ρ</i>"
+    designation: stem:[ρ]
   language_code: eng
   annotations: []
 termid: 17-1058

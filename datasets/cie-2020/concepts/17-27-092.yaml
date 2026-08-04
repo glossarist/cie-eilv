@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-092
   domains:
@@ -62,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: bactericidal light source
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: germicidal light source
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1214
   domains:
@@ -21,15 +20,11 @@ id: f7c88ca8-0746-5721-8973-4dfb9d82979a
 ---
 data:
   definition:
-  - content: quotient of the spectral radiant flux absorbed between the internal entry
-      and exit surfaces of the layer and the spectral flux that enters into the layer
-      after crossing the entry surface
+  - content: quotient of the spectral radiant flux absorbed between the internal entry and exit surfaces of the layer and the spectral flux that enters into the layer after crossing the entry surface
     type: intensional
   examples: []
   notes:
-  - content: For a given layer the spectral internal absorptance depends on the path
-      length of the radiation in the layer, and hence, in particular, on the angle
-      of incidence.
+  - content: For a given layer the spectral internal absorptance depends on the path length of the radiation in the layer, and hence, in particular, on the angle of incidence.
     type: intensional
   sources:
   - origin:
@@ -42,10 +37,10 @@ data:
     designation: spectral internal absorptance (of a homogeneous non-diffusing layer)
   - type: symbol
     normative_status: preferred
-    designation: αi(λ)
+    designation: stem:[alpha]i(stem:[lambda])
   - type: symbol
     normative_status: preferred
-    designation: "<i>α</i><sub>i</sub>(<i>λ</i>)"
+    designation: stem:[α_i](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1214

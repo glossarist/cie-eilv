@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-230
   domains:
@@ -36,10 +35,10 @@ data:
     designation: colour stimulus function
   - type: symbol
     normative_status: preferred
-    designation: φλ(λ)
+    designation: stem:[phi]stem:[lambda](stem:[lambda])
   - type: symbol
     normative_status: preferred
-    designation: "<i>φ</i><sub><i>λ</i></sub>(<i>λ</i>)"
+    designation: stem:[φ]~stem:[λ]~(stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-230

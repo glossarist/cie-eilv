@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-423
   domains:
@@ -36,10 +35,10 @@ data:
     designation: extraterrestrial solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev
+    designation: stem:[E_v]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v</sub>"
+    designation: stem:[E_v]
   language_code: eng
   annotations: []
 termid: 17-423

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-121
   domains:
@@ -28,18 +27,13 @@ id: 53c6b931-f792-5cc4-b99d-9a66c54f3963
 ---
 data:
   definition:
-  - content: quotient of the illuminance at a point on a given plane due to the light
-      received directly and indirectly from a sky of assumed or known luminance distribution
-      and the illuminance on a horizontal plane due to an unobstructed hemisphere
-      of this sky, where the contribution of direct sunlight to both illuminances
-      is excluded
+  - content: quotient of the illuminance at a point on a given plane due to the light received directly and indirectly from a sky of assumed or known luminance distribution and the illuminance on a horizontal plane due to an unobstructed hemisphere of this sky, where the contribution of direct sunlight to both illuminances is excluded
     type: intensional
   examples: []
   notes:
   - content: Glazing, dirt effects, etc. are included.
     type: intensional
-  - content: When calculating the {{concept:cie-2020:17-29-001, lighting}} of interiors,
-      the contribution of direct sunlight has to be considered separately.
+  - content: When calculating the {{concept:cie-2020:17-29-001, lighting}} of interiors, the contribution of direct sunlight has to be considered separately.
     type: intensional
   - content: The daylight factor has unit one.
     type: intensional
@@ -75,7 +69,7 @@ data:
     designation: daylight factor
   - type: symbol
     normative_status: preferred
-    designation: D
+    designation: stem:[D]
   language_code: eng
   annotations: []
 termid: 17-29-121

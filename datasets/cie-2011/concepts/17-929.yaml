@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-929
   domains:
@@ -21,12 +20,13 @@ id: 2db4821a-b115-5389-abc4-a915f68c33a6
 ---
 data:
   definition:
-  - content: |-
-      density of incident photon flux with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident photon flux with respect to area at a point on a real or imaginary surface
+
 
       stem:[E_p = ((d Phi_p))/((d A))]
 
-      where stem:[Phi_p] is photon flux and stem:[A] is the area on which the photon flux is incident
+
+      where stem:[Phi_p] is photon flux and stem:[A] is the area on which the photon flux is incident'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: photon irradiance (at a point of a surface)
   - type: symbol
     normative_status: preferred
-    designation: Ep; E
+    designation: stem:[E_p]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>p</sub>"
+    designation: stem:[E_p]
   language_code: eng
   annotations: []
 termid: 17-929

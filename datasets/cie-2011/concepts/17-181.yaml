@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-181
   domains:
@@ -21,15 +20,14 @@ id: ca0e20f2-eb5e-56c1-9402-64c01f4d2e82
 ---
 data:
   definition:
-  - content: |-
-      quotient of the luminance, stem:[L], of a plane retroreflective surface in the direction of observation and the illuminance, stem:[E_( _|_ )], at the retroreflector on a plane perpendicular to the direction of the incident light
+  - content: 'quotient of the luminance, stem:[L], of a plane retroreflective surface in the direction of observation and the illuminance, stem:[E_( _|_ )], at the retroreflector on a plane perpendicular to the direction of the incident light
 
-      stem:[R_L = (L)/((E_( _|_ )))]
+
+      stem:[R_L = (L)/((E_( _|_ )))]'
     type: intensional
   examples: []
   notes:
-  - content: This quantity is particularly suitable for describing materials in sheet
-      form.
+  - content: This quantity is particularly suitable for describing materials in sheet form.
     type: intensional
   sources:
   - origin:
@@ -39,14 +37,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: coefficient of retroreflected luminance (of a plane retroreflecting
-      surface)
+    designation: coefficient of retroreflected luminance (of a plane retroreflecting surface)
   - type: abbreviation
     normative_status: preferred
     designation: RL
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i><i><sub>L</sub></i>"
+    designation: stem:[R]~L~
   language_code: eng
   annotations: []
 termid: 17-181

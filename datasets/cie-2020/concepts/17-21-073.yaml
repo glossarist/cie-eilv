@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-073
   domains:
@@ -28,17 +27,17 @@ id: d8155e61-2fa1-5401-87d4-c0f17dea8248
 ---
 data:
   definition:
-  - content: |-
-      density of incident photon number with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident photon number with respect to area at a point on a real or imaginary surface
+
 
       stem:[H_p = ((d N_p))/((d A))]
 
-      where stem:[N_p] is photon number and stem:[A] is the area on which the photons are incident
+
+      where stem:[N_p] is photon number and stem:[A] is the area on which the photons are incident'
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "radiant exposure". The corresponding
-      photometric quantity is "luminous exposure".
+  - content: The corresponding radiometric quantity is "radiant exposure". The corresponding photometric quantity is "luminous exposure".
     type: intensional
   - content: The photon exposure is expressed in metre to the power minus two (m^−2^).
     type: intensional
@@ -74,7 +73,7 @@ data:
     designation: photon exposure
   - type: symbol
     normative_status: preferred
-    designation: Hp; H
+    designation: stem:[H_p]
   language_code: eng
   annotations: []
 termid: 17-21-073

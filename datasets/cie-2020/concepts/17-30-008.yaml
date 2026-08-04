@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-008
   domains:
@@ -32,9 +31,7 @@ id: 46344b8a-375a-5706-84ae-c08906e987e3
 ---
 data:
   definition:
-  - content: luminaire that satisfies the appropriate regulations applicable to equipment
-      with explosion-proof enclosure, for use in situations where there is a risk
-      of explosion
+  - content: luminaire that satisfies the appropriate regulations applicable to equipment with explosion-proof enclosure, for use in situations where there is a risk of explosion
     type: intensional
   examples: []
   notes:
@@ -68,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: flameproof luminaire
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: explosion-proof luminaire, US
   language_code: eng

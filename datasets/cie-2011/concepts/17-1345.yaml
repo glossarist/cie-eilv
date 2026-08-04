@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1345
   domains:
@@ -21,15 +20,11 @@ id: 6e45da2f-051e-5c15-a4f6-80946d046819
 ---
 data:
   definition:
-  - content: amounts of the reference colour stimuli, in a given trichromatic system,
-      required to match the colour of the stimulus considered
+  - content: amounts of the reference colour stimuli, in a given trichromatic system, required to match the colour of the stimulus considered
     type: intensional
   examples: []
   notes:
-  - content: In the CIE standard colorimetric systems, the tristimulus values are
-      represented by the symbols <i>R</i>, <i>G</i>, <i>B</i>; <i>X</i>, <i>Y</i>,
-      <i>Z</i>; <i>R</i><sub>10</sub>, <i>G</i><sub>10</sub>, <i>B</i><sub>10</sub>
-      and <i>X</i><sub>10</sub>, <i>Y</i><sub>10</sub>, <i>Z</i><sub>10</sub>.
+  - content: In the CIE standard colorimetric systems, the tristimulus values are represented by the symbols stem:[R], stem:[G], stem:[B]; stem:[X], stem:[Y], stem:[Z]; stem:[R_10], stem:[G_10], stem:[B_10] and stem:[X_10], stem:[Y_10], stem:[Z_10].
     type: intensional
   sources:
   - origin:

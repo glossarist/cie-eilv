@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-480
   domains:
@@ -21,8 +20,7 @@ id: 9aac39b5-9954-5b2c-9080-005057dcc6a7
 ---
 data:
   definition:
-  - content: for a given set of conditions, the frequency of alternation of stimuli
-      above which flicker is not perceptible
+  - content: for a given set of conditions, the frequency of alternation of stimuli above which flicker is not perceptible
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: fusion frequency
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fusion frequency
   language_code: eng

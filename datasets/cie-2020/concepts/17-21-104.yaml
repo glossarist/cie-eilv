@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-104
   domains:
@@ -21,16 +20,11 @@ id: 1831b0b6-645a-5796-8374-05c52e24abc0
 ---
 data:
   definition:
-  - content: quotient of the reflected radiance at a point on a surface of a non-self-radiating
-      medium in a given direction and that of the perfect reflecting diffuser identically
-      irradiated and viewed
+  - content: quotient of the reflected radiance at a point on a surface of a non-self-radiating medium in a given direction and that of the perfect reflecting diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes:
-  - content: In general, the reflected radiance factor from a surface does not depend
-      upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the
-      irradiation. This is not the case for a photoluminescent surface, where it is
-      necessary to specify this quantity.
+  - content: In general, the reflected radiance factor from a surface does not depend upon the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the irradiation. This is not the case for a photoluminescent surface, where it is necessary to specify this quantity.
     type: intensional
   - content: The reflected radiance factor has unit one.
     type: intensional
@@ -52,7 +46,7 @@ data:
     designation: reflected radiance factor
   - type: symbol
     normative_status: preferred
-    designation: βR
+    designation: stem:[beta]R
   language_code: eng
   annotations: []
 termid: 17-21-104

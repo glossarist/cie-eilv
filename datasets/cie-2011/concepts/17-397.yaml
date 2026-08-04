@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-397
   domains:
@@ -21,19 +20,13 @@ id: 0d5977ea-46b1-50b8-b478-35f8831a4d75
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of frequency 540 × 10^12^ Hz
-      has the same brightness as the field considered under the specified photometric
-      conditions of measurement, where the comparison field must have a specified
-      size and shape which can be different from that of the field considered
+  - content: luminance of a comparison field in which radiation of frequency 540 xx 10^12^ Hz has the same brightness as the field considered under the specified photometric conditions of measurement, where the comparison field must have a specified size and shape which can be different from that of the field considered
     type: intensional
   examples: []
   notes:
-  - content: Radiation at a frequency of 540×10<sup>12</sup> Hz has a wavelength in
-      standard air of 555,016 nm.
+  - content: Radiation at a frequency of 540xx10^12^ Hz has a wavelength in standard air of 555,016 nm.
     type: intensional
-  - content: A comparison field may also be used in which the radiation has any relative
-      spectral distribution, if the equivalent luminance of this field is known under
-      the same conditions of measurement.
+  - content: A comparison field may also be used in which the radiation has any relative spectral distribution, if the equivalent luminance of this field is known under the same conditions of measurement.
     type: intensional
   sources:
   - origin:
@@ -43,14 +36,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: equivalent luminance (of a field of given size and shape, for a radiation
-      of arbitrary relative spectral distribution)
+    designation: equivalent luminance (of a field of given size and shape, for a radiation of arbitrary relative spectral distribution)
   - type: symbol
     normative_status: preferred
-    designation: Leq
+    designation: stem:[L_eq]
   - type: symbol
     normative_status: preferred
-    designation: "<i>L</i><sub>eq</sub>"
+    designation: stem:[L_eq]
   language_code: eng
   annotations: []
 termid: 17-397

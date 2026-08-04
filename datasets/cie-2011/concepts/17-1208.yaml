@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1208
   domains:
@@ -21,10 +20,10 @@ id: d93a2865-0b91-5f9b-b64b-9401f3ee8ea2
 ---
 data:
   definition:
-  - content: |-
-      stem:[kappa ( lambda ) = (lambda)/((4 pi)) a ( lambda )]
+  - content: 'stem:[kappa ( lambda ) = (lambda)/((4 pi)) a ( lambda )]
 
-      where stem:[a](stem:[lambda]) is the spectral linear absorption coefficient
+
+      where stem:[a](stem:[lambda]) is the spectral linear absorption coefficient'
     type: intensional
   examples: []
   notes: []
@@ -39,10 +38,10 @@ data:
     designation: spectral absorption index (of a heavily absorbing material)
   - type: symbol
     normative_status: preferred
-    designation: κ(λ)
+    designation: stem:[kappa](stem:[lambda])
   - type: symbol
     normative_status: preferred
-    designation: "<i>κ</i>(<i>λ</i>)"
+    designation: stem:[κ](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-1208

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-845
   domains:
@@ -21,8 +20,7 @@ id: 8e967a6b-caa9-5bb8-a225-4c5771e789f3
 ---
 data:
   definition:
-  - content: product of geometric extent and the squared refractive index of a medium
-      through which the beam propagates
+  - content: product of geometric extent and the squared refractive index of a medium through which the beam propagates
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: optical extent
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: etendue
   language_code: eng

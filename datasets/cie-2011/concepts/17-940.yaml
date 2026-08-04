@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-940
   domains:
@@ -21,8 +20,7 @@ id: 7dec43de-6a6c-5595-b07e-ef153ce13a58
 ---
 data:
   definition:
-  - content: retinal injury produced by staring at an extremely bright source of optical
-      radiation
+  - content: retinal injury produced by staring at an extremely bright source of optical radiation
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photoretinitis
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blue light photoretinitis
   language_code: eng

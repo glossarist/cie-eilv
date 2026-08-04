@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1048
   domains:
@@ -25,16 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: These stimuli are either real colour stimuli or theoretical stimuli which
-      are defined by linear combinations of real colour stimuli; the magnitude of
-      each of these 3 reference colour stimuli is expressed in terms of either photometric
-      or radiometric units, or more commonly by specifying the ratios of their magnitudes
-      or by stating that a specified additive mixture of these stimuli matches a specified
-      achromatic stimulus.
+  - content: These stimuli are either real colour stimuli or theoretical stimuli which are defined by linear combinations of real colour stimuli; the magnitude of each of these 3 reference colour stimuli is expressed in terms of either photometric or radiometric units, or more commonly by specifying the ratios of their magnitudes or by stating that a specified additive mixture of these stimuli matches a specified achromatic stimulus.
     type: intensional
-  - content: In the CIE standard colorimetric systems, the reference colour stimuli
-      are represented by the symbols [R], [G], [B]; [X], [Y], [Z], [R<sub>10</sub>],
-      [G<sub>10</sub>], [B<sub>10</sub>] and [X<sub>10</sub>], [Y<sub>10</sub>], [Z<sub>10</sub>].
+  - content: In the CIE standard colorimetric systems, the reference colour stimuli are represented by the symbols [R], [G], [B]; [X], [Y], [Z], [R~10~], [G~10~], [B~10~] and [X~10~], [Y~10~], [Z~10~].
     type: intensional
   sources:
   - origin:

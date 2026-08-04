@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-933
   domains:
@@ -21,10 +20,10 @@ id: 6a0f409c-d122-52ed-aa6c-742a78be2a20
 ---
 data:
   definition:
-  - content: |-
-      time integral of photon spherical irradiance, stem:[E_(p,o)], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of photon spherical irradiance, stem:[E_(p,o)], at a given point over a given duration, stem:[Delta t]
 
-      stem:[H_((p,o)) = underset((Delta t))( int ) E_(p,o) d t]
+
+      stem:[H_((p,o)) = underset((Delta t))( int ) E_(p,o) d t]'
     type: intensional
   examples: []
   notes: []
@@ -37,12 +36,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: photon spherical exposure (at a point, for a given exposure duration)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: photon fluence
   - type: symbol
     normative_status: preferred
-    designation: H<sub>p,o</sub>
+    designation: stem:[H_p,o]
   language_code: eng
   annotations: []
 termid: 17-933

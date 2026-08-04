@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-400
   domains:
@@ -21,8 +20,7 @@ id: fef7328c-8085-5bd5-8c1d-663ca7efcc56
 ---
 data:
   definition:
-  - content: function representing the spectral dependence of the ability of ultraviolet
-      radiation to produce just perceptible actinic erythema in human skin
+  - content: function representing the spectral dependence of the ability of ultraviolet radiation to produce just perceptible actinic erythema in human skin
     type: intensional
   examples: []
   notes: []
@@ -35,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: erythema action spectrum
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: erythema action spectrum
   - type: symbol
     normative_status: preferred
-    designation: "<i>s</i><sub>er</sub>(<i>λ</i>)"
+    designation: stem:[s_er](stem:[λ])
   language_code: eng
   annotations: []
 termid: 17-400

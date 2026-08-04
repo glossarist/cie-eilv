@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-070
   domains:
@@ -21,18 +20,16 @@ id: 5c64a5d5-b390-5e07-baae-a061329592b1
 ---
 data:
   definition:
-  - content: |-
-      time integral of photon radiance, stem:[L_p], over a given duration, stem:[Delta t]
+  - content: 'time integral of photon radiance, stem:[L_p], over a given duration, stem:[Delta t]
 
-      stem:[L_((p , t)) = underset((Delta t))( int ) L_p d t]
+
+      stem:[L_((p , t)) = underset((Delta t))( int ) L_p d t]'
     type: intensional
   examples: []
   notes:
-  - content: The corresponding radiometric quantity is "radiance dose". The corresponding
-      photometric quantity is "luminance dose".
+  - content: The corresponding radiometric quantity is "radiance dose". The corresponding photometric quantity is "luminance dose".
     type: intensional
-  - content: The photon radiance dose is expressed in metre to the power minus two
-      per steradian (m^−2^·sr^−1^).
+  - content: The photon radiance dose is expressed in metre to the power minus two per steradian (m^−2^cdotsr^−1^).
     type: intensional
   - content: This entry was numbered 17-932 in CIE S 017:2011.
     type: intensional
@@ -52,7 +49,7 @@ data:
     designation: photon radiance dose
   - type: symbol
     normative_status: preferred
-    designation: Lp,t; Lt
+    designation: stem:[L_(p,t)]
   language_code: eng
   annotations: []
 termid: 17-21-070

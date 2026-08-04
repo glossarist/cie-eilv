@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-014
   domains:
@@ -29,11 +28,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Photocataractogenesis results in most cases from chronic exposure to
-      excessive ultraviolet radiant energy incident upon the lens.
+  - content: Photocataractogenesis results in most cases from chronic exposure to excessive ultraviolet radiant energy incident upon the lens.
     type: intensional
-  - content: Cataracts can also be produced by acute over-exposure to an excimer laser
-      beam.
+  - content: Cataracts can also be produced by acute over-exposure to an excimer laser beam.
     type: intensional
   - content: This entry was numbered 17-888 and 17-1365 in CIE S 017:2011.
     type: intensional
@@ -51,7 +48,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photocataractogenesis
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: ultraviolet photocataractogenesis
   language_code: eng

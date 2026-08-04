@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1014
   domains:
@@ -21,18 +20,16 @@ id: e41bfbc7-9fcf-5359-a968-c3672e5f9578
 ---
 data:
   definition:
-  - content: |-
-      time integral of radiance, stem:[L_e], over a given duration, stem:[Delta t]
+  - content: 'time integral of radiance, stem:[L_e], over a given duration, stem:[Delta t]
 
-      stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]
+
+      stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]'
     type: intensional
   examples: []
   notes:
-  - content: The corresponding photometric quantity is "luminance dose". The corresponding
-      quantity for photons is "photon radiance dose".
+  - content: The corresponding photometric quantity is "luminance dose". The corresponding quantity for photons is "photon radiance dose".
     type: intensional
-  - content: The radiance dose is expressed in joule per square metre per steradian
-      (J·m^−2^·sr^−1^).
+  - content: The radiance dose is expressed in joule per square metre per steradian (Jcdotm^−2^cdotsr^−1^).
     type: intensional
   - content: This entry was numbered 17-1014 and 17-1319 in CIE S 017:2011.
     type: intensional
@@ -44,17 +41,16 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: radiance dose (in a given direction, at a given point of a real or
-      imaginary surface)
-  - type: symbol
+    designation: radiance dose (in a given direction, at a given point of a real or imaginary surface)
+  - type: expression
     normative_status: preferred
     designation: integrated radiance
   - type: symbol
     normative_status: preferred
-    designation: "<i>L</i><sub>t</sub>"
+    designation: stem:[L_t]
   - type: expression
     normative_status: admitted
-    designation: "(time) integrated radiance"
+    designation: (time) integrated radiance
   language_code: eng
   annotations: []
 termid: 17-1014

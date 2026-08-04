@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-388
   domains:
@@ -21,12 +20,11 @@ id: 3c5e9160-5e94-58c9-be44-220089183242
 ---
 data:
   definition:
-  - content: area where specific activities take place or are planned and where specific
-      requirements for the restriction of obtrusive light are recommended
+  - content: area where specific activities take place or are planned and where specific requirements for the restriction of obtrusive light are recommended
     type: intensional
   examples: []
   notes:
-  - content: Zones are indicated by the zone rating (E<sub>1</sub>… E<sub>4</sub>).
+  - content: Zones are indicated by the zone rating (E~1~… E~4~).
     type: intensional
   sources:
   - origin:

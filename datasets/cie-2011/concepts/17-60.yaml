@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-60
   domains:
@@ -21,13 +20,11 @@ id: 627eb3a5-d951-5a7f-b251-c8131ce9ec39
 ---
 data:
   definition:
-  - content: regular transmittance of the atmosphere over a path of a specified length
-      stem:[d_0]
+  - content: regular transmittance of the atmosphere over a path of a specified length stem:[d_0]
     type: intensional
   examples: []
   notes:
-  - content: In German, the terms "Transmissionsfaktor" and "Sichtwert" refer to lengths
-      of one kilometre and one nautical mile respectively.
+  - content: In German, the terms "Transmissionsfaktor" and "Sichtwert" refer to lengths of one kilometre and one nautical mile respectively.
     type: intensional
   sources:
   - origin:
@@ -40,10 +37,10 @@ data:
     designation: atmospheric transmissivity
   - type: symbol
     normative_status: preferred
-    designation: T
+    designation: stem:[T]
   - type: symbol
     normative_status: preferred
-    designation: "<i>T</i>"
+    designation: stem:[T]
   language_code: eng
   annotations: []
 termid: 17-60

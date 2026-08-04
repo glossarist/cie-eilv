@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-106
   domains:
@@ -16,8 +15,7 @@ id: de032fdd-eb8e-5b25-a955-b46917a02bbd
 ---
 data:
   definition:
-  - content: fraction of the population that lost the ability to perform a required
-      function in a specified time interval
+  - content: fraction of the population that lost the ability to perform a required function in a specified time interval
     type: intensional
   examples: []
   notes:
@@ -34,7 +32,7 @@ data:
     designation: failure fraction
   - type: symbol
     normative_status: preferred
-    designation: Fx
+    designation: stem:[F_x]
   language_code: eng
   annotations: []
 termid: 17-27-106

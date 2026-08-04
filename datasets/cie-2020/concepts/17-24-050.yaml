@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-050
   domains:
@@ -21,8 +20,7 @@ id: aa358579-0cdb-5b47-acbf-e5ff0188be31
 ---
 data:
   definition:
-  - content: scattering in which the properties of the scattering vary with the wavelength
-      of the incident radiation
+  - content: scattering in which the properties of the scattering vary with the wavelength of the incident radiation
     type: intensional
   examples: []
   notes:
@@ -42,7 +40,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: selective scattering
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: selective diffusion
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-004
   domains:
@@ -32,15 +31,11 @@ id: 1f8f91d1-75a0-5cdc-a79c-68ba2279e984
 ---
 data:
   definition:
-  - content: ideal {{concept:cie-2020:17-24-003, thermal radiator}} that absorbs completely
-      all incident radiation, whatever the wavelength, the direction of incidence
-      or the polarization
+  - content: ideal {{concept:cie-2020:17-24-003, thermal radiator}} that absorbs completely all incident radiation, whatever the wavelength, the direction of incidence or the polarization
     type: intensional
   examples: []
   notes:
-  - content: A Planckian radiator has, for any wavelength and any direction, the maximum
-      {{concept:cie-2020:17-21-029, spectral distribution}} of radiance for a thermal
-      radiator in thermal equilibrium at a given temperature.
+  - content: A Planckian radiator has, for any wavelength and any direction, the maximum {{concept:cie-2020:17-21-029, spectral distribution}} of radiance for a thermal radiator in thermal equilibrium at a given temperature.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-04, 845-04-04}} in IEC 60050-845:1987.
     type: intensional
@@ -72,7 +67,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: Planckian radiator
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: blackbody
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-101
   domains:
@@ -21,19 +20,13 @@ id: 45106c9b-ba29-521b-b91e-ce5fb6b089ea
 ---
 data:
   definition:
-  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda],
-      spectrally weighted with the blue light hazard spectral weighting function,
-      stem:[B](stem:[lambda])
+  - content: effective radiant exposure with the spectral radiant exposure, stem:[Hlambda], spectrally weighted with the blue light hazard spectral weighting function, stem:[B](stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: <i>λ</i><sub>1</sub> =300 nm, <i>λ</i><sub>2</sub>
-      =700 nm.'
+  - content: 'Specified in ICNIRP-recommendations: stem:[λ_1] =300 nm, stem:[λ_2] =700 nm.'
     type: intensional
-  - content: This definition implies that an action spectrum is adopted for the actinic
-      effect considered, and that its maximum value is 1. When giving a quantitative
-      amount, it is essential to specify according to which actinic action spectrum
-      the radiant exposure is meant, as the unit is the same.
+  - content: This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the radiant exposure is meant, as the unit is the same.
     type: intensional
   sources:
   - origin:
@@ -49,7 +42,7 @@ data:
     designation: HB
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>b</sub>"
+    designation: stem:[H_b]
   language_code: eng
   annotations: []
 termid: 17-101

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-303
   domains:
@@ -21,8 +20,7 @@ id: eacde439-1ddd-5f21-9abc-57e7828becce
 ---
 data:
   definition:
-  - content: irradiance produced by the diffuse solar radiation on a horizontal surface
-      on the Earth
+  - content: irradiance produced by the diffuse solar radiation on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: diffuse horizontal irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee,d
+    designation: stem:[E_(e,d)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e,d</sub>"
+    designation: stem:[E_e,d]
   language_code: eng
   annotations: []
 termid: 17-303

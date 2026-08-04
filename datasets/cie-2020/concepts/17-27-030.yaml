@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-030
   domains:
@@ -28,9 +27,7 @@ id: f0483e47-98cd-5b87-8b7c-3a66fed653a4
 ---
 data:
   definition:
-  - content: discharge lamp of the mercury vapour type, with or without a coating
-      of phosphors, in which during operation the partial pressure of the vapour does
-      not exceed 100 Pa
+  - content: discharge lamp of the mercury vapour type, with or without a coating of phosphors, in which during operation the partial pressure of the vapour does not exceed 100 Pa
     type: intensional
   examples: []
   notes:
@@ -64,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: low-pressure mercury lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: low-pressure mercury vapour lamp
   language_code: eng

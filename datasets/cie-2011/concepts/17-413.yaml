@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-413
   domains:
@@ -21,9 +20,7 @@ id: d10dce4d-d111-5bd1-bc7e-e7018a3fd4ab
 ---
 data:
   definition:
-  - content: luminaire that satisfies the appropriate regulations applicable to equipment
-      with explosion-proof enclosure, for use in situations where there is a risk
-      of explosion
+  - content: luminaire that satisfies the appropriate regulations applicable to equipment with explosion-proof enclosure, for use in situations where there is a risk of explosion
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: explosion-proof luminaire (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: explosion-proof luminaire, US
   language_code: eng

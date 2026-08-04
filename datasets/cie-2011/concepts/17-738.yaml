@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-738
   domains:
@@ -21,12 +20,13 @@ id: a9c175c1-8492-5288-b93f-360d2167fe0a
 ---
 data:
   definition:
-  - content: |-
-      change in luminous energy with time
+  - content: 'change in luminous energy with time
+
 
       stem:[Phi_v = ((d Q_v))/((d t))]
 
-      where stem:[Q_v] is the luminous energy emitted, transferred or received, and stem:[t] is time
+
+      where stem:[Q_v] is the luminous energy emitted, transferred or received, and stem:[t] is time'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: luminous flux
   - type: symbol
     normative_status: preferred
-    designation: Φv; Φ
+    designation: stem:[Phi]v; stem:[Phi]
   - type: symbol
     normative_status: preferred
-    designation: "<i>Φ</i><sub>v</sub>; <i>Φ</i>"
+    designation: stem:[Φ_v]; stem:[Φ]
   language_code: eng
   annotations: []
 termid: 17-738

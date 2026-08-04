@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-899
   domains:
@@ -21,8 +20,7 @@ id: d60e12b0-95c5-5923-a5bf-1e79984b801d
 ---
 data:
   definition:
-  - content: photoelectric detector that utilizes the electromotive force produced
-      by the absorption of optical radiation
+  - content: photoelectric detector that utilizes the electromotive force produced by the absorption of optical radiation
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photoelement
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: photoelement
   language_code: eng

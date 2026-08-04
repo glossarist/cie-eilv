@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1139
   domains:
@@ -21,15 +20,11 @@ id: 53119088-4511-5dd8-928e-84f6559af678
 ---
 data:
   definition:
-  - content: process by which the spatial distribution of a beam of radiation is changed
-      when it is deviated in many directions by a surface or by a medium, without
-      change in frequency of its monochromatic components
+  - content: process by which the spatial distribution of a beam of radiation is changed when it is deviated in many directions by a surface or by a medium, without change in frequency of its monochromatic components
     type: intensional
   examples: []
   notes:
-  - content: A distinction is made between selective scattering and non-selective
-      scattering according to whether or not the scattering properties vary with the
-      wavelength of the incident radiation.
+  - content: A distinction is made between selective scattering and non-selective scattering according to whether or not the scattering properties vary with the wavelength of the incident radiation.
     type: intensional
   - content: See NOTE 2 to "{{17-1065, reflection}}".
     type: intensional
@@ -42,7 +37,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: scattering
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: diffusion
   - type: expression

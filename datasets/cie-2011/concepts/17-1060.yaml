@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1060
   domains:
@@ -21,10 +20,10 @@ id: f89dac54-9ca3-5cd4-b6c7-e651118f7385
 ---
 data:
   definition:
-  - content: |-
-      logarithm to base 10 of the reciprocal of the reflectance factor, stem:[R]
+  - content: 'logarithm to base 10 of the reciprocal of the reflectance factor, stem:[R]
 
-      stem:[DR] = −log~10~stem:[R]
+
+      stem:[DR] = −log~10~stem:[R]'
     type: intensional
   examples: []
   notes: []
@@ -37,12 +36,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: reflectance factor (optical) density
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: reflectance factor density
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i><i><sub>R</sub></i>"
+    designation: stem:[D]~R~
   language_code: eng
   annotations: []
 termid: 17-1060

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-821
   domains:
@@ -21,8 +20,7 @@ id: 4e955029-2246-511f-8a5b-0d82a2175273
 ---
 data:
   definition:
-  - content: "{{17-434, filter}} that does not alter the relative spectral distribution
-      of the radiation"
+  - content: '{{17-434, filter}} that does not alter the relative spectral distribution of the radiation'
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: non-selective filter
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: neutral filter
   language_code: eng

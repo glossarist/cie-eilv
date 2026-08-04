@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-061
   domains:
@@ -16,24 +15,21 @@ id: 16261991-6775-58a1-9c03-e6ee0bcfe95e
 ---
 data:
   definition:
-  - content: |-
-      quotient of blue light hazard weighted radiant flux, stem:[Phi_B], and luminous flux, stem:[Phi_v]
+  - content: 'quotient of blue light hazard weighted radiant flux, stem:[Phi_B], and luminous flux, stem:[Phi_v]
+
 
       stem:[K_((B ,v)) = ((Phi_B))/((Phi_v)) = ((int Phi_((e , lambda)) ( lambda ) * B ( lambda ) * d lambda))/((K_m * int Phi_((e , lambda)) ( lambda ) * V ( lambda ) * d lambda))]
 
-      where stem:[lambda] is wavelength, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[B](stem:[lambda]) is the blue light hazard spectral weighting function, stem:[V](stem:[lambda]) is the CIE {{concept:cie-2020:17-21-035, spectral luminous efficiency}} function for photopic vision, and stem:[K_m] is maximum luminous efficacy (≈ 683 lm·W^−1^)
+
+      where stem:[lambda] is wavelength, stem:[Phi_(e,stem:[lambda])](stem:[lambda]) is spectral radiant flux, stem:[B](stem:[lambda]) is the blue light hazard spectral weighting function, stem:[V](stem:[lambda]) is the CIE {{concept:cie-2020:17-21-035, spectral luminous efficiency}} function for photopic vision, and stem:[K_m] is maximum luminous efficacy (~~ 683 lmcdotW^−1^)'
     type: intensional
   examples: []
   notes:
-  - content: The term "luminous radiation" refers to {{concept:cie-2020:17-21-002,
-      optical radiation}} weighted with the CIE spectral luminous efficiency function
-      for photopic vision, stem:[V](stem:[lambda]).
+  - content: The term "luminous radiation" refers to {{concept:cie-2020:17-21-002, optical radiation}} weighted with the CIE spectral luminous efficiency function for photopic vision, stem:[V](stem:[lambda]).
     type: intensional
-  - content: The use of this term is only reasonable if parts of the optical radiation
-      are in the visible range and thus stem:[Phi_v] ≠ 0.
+  - content: The use of this term is only reasonable if parts of the optical radiation are in the visible range and thus stem:[Phi_v] != 0.
     type: intensional
-  - content: The blue light hazard efficacy of luminous radiation is expressed in
-      watt per lumen (W·lm^−1^), possibly with a metric prefix.
+  - content: The blue light hazard efficacy of luminous radiation is expressed in watt per lumen (Wcdotlm^−1^), possibly with a metric prefix.
     type: intensional
   sources:
   - origin:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-321
   domains:
@@ -21,8 +20,7 @@ id: ee001121-4dc4-5688-bd95-af9bc95aacba
 ---
 data:
   definition:
-  - content: illuminance produced by direct sunlight on a horizontal surface on the
-      Earth
+  - content: illuminance produced by direct sunlight on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes: []
@@ -37,11 +35,11 @@ data:
     designation: direct solar illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,s
+    designation: stem:[E_(v,s)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v,s</sub>"
+    designation: stem:[E_v,s]
   language_code: eng
   annotations: []
 termid: 17-321
-id: '0923fed6-d7ef-528f-80d9-c289c76d810c'
+id: 0923fed6-d7ef-528f-80d9-c289c76d810c

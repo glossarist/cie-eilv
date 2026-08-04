@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-098
   domains:
@@ -28,19 +27,13 @@ id: a9fab205-b35a-57b3-85ee-e384a2201e37
 ---
 data:
   definition:
-  - content: representation in space, in the form of a surface expressed in polar
-      coordinates, of the angular distribution of (relative) radiant intensity or
-      luminous intensity or of (relative) radiance or luminance of an element of the
-      surface of a medium that diffuses by reflection or transmission
+  - content: representation in space, in the form of a surface expressed in polar coordinates, of the angular distribution of (relative) radiant intensity or luminous intensity or of (relative) radiance or luminance of an element of the surface of a medium that diffuses by reflection or transmission
     type: intensional
   examples: []
   notes:
-  - content: For a narrow incident beam of radiation, it is convenient to represent
-      the scattering indicatrix in Cartesian coordinates. If the angular distribution
-      has rotational symmetry, a meridian section of the surface is sufficient.
+  - content: For a narrow incident beam of radiation, it is convenient to represent the scattering indicatrix in Cartesian coordinates. If the angular distribution has rotational symmetry, a meridian section of the surface is sufficient.
     type: intensional
-  - content: The term "indicatrix" is often used to denote, instead of the surface,
-      the curve obtained in a similar manner in a plane normal to the element concerned.
+  - content: The term "indicatrix" is often used to denote, instead of the surface, the curve obtained in a similar manner in a plane normal to the element concerned.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-91, 845-04-91}} in IEC 60050-845:1987.
     type: intensional
@@ -73,7 +66,7 @@ data:
     normative_status: preferred
     designation: scattering indicatrix
     usage_info: for a specified incident beam
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: indicatrix of diffusion, <for a specified incident beam>
   language_code: eng

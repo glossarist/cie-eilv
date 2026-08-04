@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-527
   domains:
@@ -21,13 +20,11 @@ id: bfe053ef-98c5-52de-817b-bf931e332059
 ---
 data:
   definition:
-  - content: headlight designed to illuminate for a considerable distance ahead of
-      the vehicle carrying it
+  - content: headlight designed to illuminate for a considerable distance ahead of the vehicle carrying it
     type: intensional
   examples: []
   notes:
-  - content: The headlights as defined in "headlight, main-beam" and "{{17-523, headlight,
-      dipped-beam}}" can be provided by a single lighting device.
+  - content: The headlights as defined in "headlight, main-beam" and "{{17-523, headlight, dipped-beam}}" can be provided by a single lighting device.
     type: intensional
   sources:
   - origin:
@@ -38,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: headlight, main-beam
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: high-beam headlight
   language_code: eng

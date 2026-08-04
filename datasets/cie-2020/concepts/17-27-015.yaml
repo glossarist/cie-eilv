@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-015
   domains:
@@ -28,8 +27,7 @@ id: 35f0f3f9-b149-59d2-9e91-39ffe080ded1
 ---
 data:
   definition:
-  - content: incandescent lamp in which the luminous element operates in an evacuated
-      bulb
+  - content: incandescent lamp in which the luminous element operates in an evacuated bulb
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: vacuum lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: vacuum incandescent lamp
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-535
   domains:
@@ -17,20 +16,15 @@ sources:
     link: https://web.archive.org/web/20150426172758/http://eilv.cie.co.at/term/535
   type: authoritative
 status: valid
-id: '0386f14c-1f45-5d23-9a70-26c4effec19b'
+id: 0386f14c-1f45-5d23-9a70-26c4effec19b
 ---
 data:
   definition:
-  - content: high-intensity discharge lamp in which the major portion of the light
-      is produced, directly or indirectly, by radiation from mercury operating at
-      a partial pressure in excess of 100 kPa
+  - content: high-intensity discharge lamp in which the major portion of the light is produced, directly or indirectly, by radiation from mercury operating at a partial pressure in excess of 100 kPa
     type: intensional
   examples: []
   notes:
-  - content: This terms covers clear, phosphor coated (mercury fluorescent) and blended
-      lamps. In fluorescent mercury discharge lamp, the light is produced partly by
-      the mercury vapour and partly by a layer of phosphors excited by the ultraviolet
-      radiation of the discharge.
+  - content: This terms covers clear, phosphor coated (mercury fluorescent) and blended lamps. In fluorescent mercury discharge lamp, the light is produced partly by the mercury vapour and partly by a layer of phosphors excited by the ultraviolet radiation of the discharge.
     type: intensional
   sources:
   - origin:
@@ -41,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: high pressure mercury (vapour) lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: high-pressure mercury vapour lamp
   language_code: eng

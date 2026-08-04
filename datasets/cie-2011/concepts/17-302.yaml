@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-302
   domains:
@@ -34,12 +33,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: diffuse horizontal illuminance (from the sky)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: sky illuminance
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v,d</sub>"
+    designation: stem:[E_v,d]
   language_code: eng
   annotations: []
 termid: 17-302

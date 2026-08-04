@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-399
   domains:
@@ -21,8 +20,7 @@ id: bd21eb63-f491-528c-9682-bf52707343ab
 ---
 data:
   definition:
-  - content: reddening of the skin caused by the actinic effect of solar radiation
-      or artificial optical radiation
+  - content: reddening of the skin caused by the actinic effect of solar radiation or artificial optical radiation
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: erythema, actinic
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: erythema
   language_code: eng

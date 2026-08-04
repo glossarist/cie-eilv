@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-093
   domains:
@@ -39,8 +38,7 @@ id: 4761eced-6b14-5756-bc1c-2a746e1a8b63
 ---
 data:
   definition:
-  - content: for a given set of conditions, the {{cite:IEV:103-06-02, frequency}}
-      of alternation of stimuli above which flicker is not perceptible
+  - content: for a given set of conditions, the {{cite:IEV:103-06-02, frequency}} of alternation of stimuli above which flicker is not perceptible
     type: intensional
   examples: []
   notes:
@@ -81,7 +79,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: critical flicker frequency
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: fusion frequency
   language_code: eng

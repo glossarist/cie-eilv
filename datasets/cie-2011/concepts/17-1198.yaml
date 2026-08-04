@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1198
   domains:
@@ -21,8 +20,7 @@ id: 402a0a38-c9a7-5e3d-8811-c2f36d412b2c
 ---
 data:
   definition:
-  - content: irradiance produced by the extraterrestrial solar radiation on a surface
-      perpendicular to the Sun's rays at mean Sun-Earth distance
+  - content: irradiance produced by the extraterrestrial solar radiation on a surface perpendicular to the Sun's rays at mean Sun-Earth distance
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: solar constant
   - type: symbol
     normative_status: preferred
-    designation: Eeo
+    designation: stem:[E_eo]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>eo</sub>"
+    designation: stem:[E_eo]
   language_code: eng
   annotations: []
 termid: 17-1198

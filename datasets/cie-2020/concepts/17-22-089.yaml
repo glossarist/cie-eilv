@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-089
   domains:
@@ -28,8 +27,7 @@ id: 407dacf6-5fc9-55f0-9a4d-e751859353c8
 ---
 data:
   definition:
-  - content: assessment of the difference in appearance of two or more parts of a
-      field seen simultaneously or successively
+  - content: assessment of the difference in appearance of two or more parts of a field seen simultaneously or successively
     type: intensional
   examples: []
   notes:
@@ -66,7 +64,7 @@ data:
     normative_status: preferred
     designation: contrast
     usage_info: in the perceptual sense
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: perceived contrast
   language_code: eng

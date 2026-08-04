@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-088
   domains:
@@ -28,15 +27,11 @@ id: 95bea9a9-6235-5b6f-885b-9394de2ce8da
 ---
 data:
   definition:
-  - content: quotient of the spectral radiant flux reaching the exit internal surface
-      of the layer and the spectral flux that enters into the layer after crossing
-      the entry surface
+  - content: quotient of the spectral radiant flux reaching the exit internal surface of the layer and the spectral flux that enters into the layer after crossing the entry surface
     type: intensional
   examples: []
   notes:
-  - content: For a given layer, the spectral internal transmittance depends on the
-      path length of the radiation in the layer, and hence, in particular, on the
-      angle of incidence.
+  - content: For a given layer, the spectral internal transmittance depends on the path length of the radiation in the layer, and hence, in particular, on the angle of incidence.
     type: intensional
   - content: The spectral internal transmittance has unit one.
     type: intensional
@@ -73,7 +68,7 @@ data:
     usage_info: of a homogeneous non-diffusing layer
   - type: symbol
     normative_status: preferred
-    designation: τi (λ)
+    designation: stem:[tau]i (stem:[lambda])
   language_code: eng
   annotations: []
 termid: 17-24-088

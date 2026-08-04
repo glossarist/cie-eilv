@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-009
   domains:
@@ -28,10 +27,10 @@ id: db422997-df51-5a89-84c7-f37c81914002
 ---
 data:
   definition:
-  - content: |-
-      quotient of the radiant exitance of a radiator, stem:[M_e], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
+  - content: 'quotient of the radiant exitance of a radiator, stem:[M_e], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
 
-      stem:[epsilon = ((M_e))/((M_b))]
+
+      stem:[epsilon = ((M_e))/((M_b))]'
     type: intensional
   examples: []
   notes:
@@ -67,7 +66,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: emissivity
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: hemispherical emissivity
   language_code: eng

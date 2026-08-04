@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-041
   domains:
@@ -40,14 +39,11 @@ id: 353fe9be-91b8-55ab-a9f1-70328153e1d4
 ---
 data:
   definition:
-  - content: curve traced on a sphere that has its centre at the light centre of the
-      light source, joining all the points corresponding to those directions in which
-      the luminous intensity is the same, or a plane projection of that curve
+  - content: curve traced on a sphere that has its centre at the light centre of the light source, joining all the points corresponding to those directions in which the luminous intensity is the same, or a plane projection of that curve
     type: intensional
   examples: []
   notes:
-  - content: The English terms "isocandela curve" and "isocandela line", and the French
-      term "courbe isocandela" are no longer in use.
+  - content: The English terms "isocandela curve" and "isocandela line", and the French term "courbe isocandela" are no longer in use.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-28, 845-09-28}} in IEC 60050-845:1987.
     type: intensional
@@ -79,7 +75,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: iso-intensity curve
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: iso-intensity line
   language_code: eng

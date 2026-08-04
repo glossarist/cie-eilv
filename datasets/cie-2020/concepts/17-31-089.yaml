@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-089
   domains:
@@ -21,13 +20,11 @@ id: 48a181d6-958d-5e1e-af73-b1829bc93b95
 ---
 data:
   definition:
-  - content: average road surface luminance at a specific location in the threshold
-      zone
+  - content: average road surface luminance at a specific location in the threshold zone
     type: intensional
   examples: []
   notes:
-  - content: The threshold zone luminance is expressed in candela per square metre
-      (cd·m^−2^).
+  - content: The threshold zone luminance is expressed in candela per square metre (cdcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-1315 in CIE S 017:2011.
     type: intensional
@@ -47,7 +44,7 @@ data:
     designation: threshold zone luminance
   - type: symbol
     normative_status: preferred
-    designation: Lth
+    designation: stem:[L_th]
   language_code: eng
   annotations: []
 termid: 17-31-089

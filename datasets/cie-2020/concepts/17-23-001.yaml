@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-001
   domains:
@@ -32,9 +31,7 @@ id: 2e9bfe48-deb5-5d33-bf52-4a0edd2a5c46
 ---
 data:
   definition:
-  - content: specification of a {{concept:cie-2020:17-23-002, colour stimulus}} in
-      terms of operationally defined values, such as three {{concept:cie-2020:17-23-038,
-      tristimulus values}}
+  - content: specification of a {{concept:cie-2020:17-23-002, colour stimulus}} in terms of operationally defined values, such as three {{concept:cie-2020:17-23-038, tristimulus values}}
     type: intensional
   examples: []
   notes:
@@ -69,7 +66,7 @@ data:
     normative_status: preferred
     designation: colour
     usage_info: psychophysical
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: color, <psychophysical> US
   language_code: eng

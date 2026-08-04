@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-737
   domains:
@@ -21,12 +20,13 @@ id: 14196aa0-b7e1-538d-ae43-31cbb7d149b9
 ---
 data:
   definition:
-  - content: |-
-      measure that expresses the attenuation of the direct illuminance when the Sun's rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
+  - content: 'measure that expresses the attenuation of the direct illuminance when the Sun''s rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
+
 
       stem:[a_v = ((0,1))/((1 + 0,004 5 m))]
 
-      where stem:[m] is the relative optical air mass weighted to take account of the relative spectral transmittance characteristics of the atmosphere
+
+      where stem:[m] is the relative optical air mass weighted to take account of the relative spectral transmittance characteristics of the atmosphere'
     type: intensional
   examples: []
   notes:
@@ -43,12 +43,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: luminous extinction coefficient (of the atmosphere)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: av
   - type: symbol
     normative_status: preferred
-    designation: "<i>a</i><sub>v</sub>"
+    designation: stem:[a_v]
   language_code: eng
   annotations: []
 termid: 17-737

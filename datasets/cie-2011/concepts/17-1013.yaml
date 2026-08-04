@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1013
   domains:
@@ -21,19 +20,17 @@ id: 5e42415c-e5c6-523f-a9fe-911cad68df2c
 ---
 data:
   definition:
-  - content: |-
-      quotient of the radiance at a surface element of a medium in a given direction and the irradiance on the medium
+  - content: 'quotient of the radiance at a surface element of a medium in a given direction and the irradiance on the medium
+
 
       stem:[q_e = ((L_e))/((E_e))]
 
-      where stem:[L_e] is radiance and stem:[E_e] is irradiance
+
+      where stem:[L_e] is radiance and stem:[E_e] is irradiance'
     type: intensional
   examples: []
   notes:
-  - content: The {{17-87, bi-directional reflectance distribution function (at a surface
-      element of a medium, in a given direction, for a given direction of irradiation)}}
-      (BRDF) is similar to the above coefficient except that it is defined for directional
-      incident radiation.
+  - content: The {{17-87, bi-directional reflectance distribution function (at a surface element of a medium, in a given direction, for a given direction of irradiation)}} (BRDF) is similar to the above coefficient except that it is defined for directional incident radiation.
     type: intensional
   sources:
   - origin:
@@ -43,14 +40,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: radiance coefficient (at a surface element of a medium, in a given
-      direction, under specified conditions of irradiation)
+    designation: radiance coefficient (at a surface element of a medium, in a given direction, under specified conditions of irradiation)
   - type: symbol
     normative_status: preferred
-    designation: qe; q
+    designation: stem:[q_e]
   - type: symbol
     normative_status: preferred
-    designation: "<i>q</i><sub>e</sub>"
+    designation: stem:[q_e]
   language_code: eng
   annotations: []
 termid: 17-1013

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-468
   domains:
@@ -21,20 +20,25 @@ id: 5168ea5a-30e0-58a8-ba1e-692a0013f78c
 ---
 data:
   definition:
-  - content: |-
-      quotient of the average radiant flux density or luminous flux density, stem:[Phi_2]/stem:[A_2] (or stem:[Phi_1]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+  - content: 'quotient of the average radiant flux density or luminous flux density, stem:[Phi_2]/stem:[A_2] (or stem:[Phi_1]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+
 
       stem:[f_((21)) = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]
 
+
       or
+
 
       stem:[f_((12)) = ((Phi_1))/((A_1 M_2)) = (g)/((A_1))]
 
+
       with
+
 
       stem:[A_2 f_((21)) = g = A_1 f_((12))]
 
-      where stem:[Phi_2] (or stem:[Phi_1]) is the radiant flux or luminous flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~) and stem:[g] is the mutual exchange coefficient
+
+      where stem:[Phi_2] (or stem:[Phi_1]) is the radiant flux or luminous flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~), stem:[A_2] (or stem:[A_1]) is the area of surface S~2~ (or S~1~) and stem:[g] is the mutual exchange coefficient'
     type: intensional
   examples: []
   notes: []
@@ -49,10 +53,10 @@ data:
     designation: form factor (between two surfaces S<sub>1</sub> and S<sub>2</sub>)
   - type: symbol
     normative_status: preferred
-    designation: f12; f21
+    designation: stem:[f_(12)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>f</i><sub>12</sub>; <i>f</i><sub>21</sub>"
+    designation: stem:[f_12]; stem:[f_21]
   language_code: eng
   annotations: []
 termid: 17-468

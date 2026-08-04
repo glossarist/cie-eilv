@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-049
   domains:
@@ -28,9 +27,7 @@ id: 8838ae2f-47f1-5cc3-91f0-add58a19efbe
 ---
 data:
   definition:
-  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} in which
-      a measurable physical effect is produced by the heating of the part that absorbs
-      radiation
+  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} in which a measurable physical effect is produced by the heating of the part that absorbs radiation
     type: intensional
   examples: []
   notes:
@@ -65,7 +62,7 @@ data:
     normative_status: preferred
     designation: thermal detector
     usage_info: of optical radiation
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: thermal radiation detector
   language_code: eng

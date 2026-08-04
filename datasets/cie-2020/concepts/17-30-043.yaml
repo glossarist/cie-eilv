@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-043
   domains:
@@ -32,12 +31,11 @@ sources:
     link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-38
   type: authoritative
 status: valid
-id: '0719e7ea-be0d-59d7-a972-2913b5a456e9'
+id: 0719e7ea-be0d-59d7-a972-2913b5a456e9
 ---
 data:
   definition:
-  - content: screen made of translucent or opaque components and geometrically disposed
-      to prevent electric lamps from being directly visible over a given angle
+  - content: screen made of translucent or opaque components and geometrically disposed to prevent electric lamps from being directly visible over a given angle
     type: intensional
   examples: []
   notes:
@@ -71,7 +69,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: louvre
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spill shield
   language_code: eng

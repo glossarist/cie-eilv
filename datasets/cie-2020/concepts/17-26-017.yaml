@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-017
   domains:
@@ -21,18 +20,13 @@ id: 53a8c7d5-2900-52d6-86d2-49e1aec4ca6d
 ---
 data:
   definition:
-  - content: inflammatory response of the cornea and conjunctiva following exposure
-      to {{concept:cie-2020:17-21-008, ultraviolet radiation}}
+  - content: inflammatory response of the cornea and conjunctiva following exposure to {{concept:cie-2020:17-21-008, ultraviolet radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Wavelengths shorter than 320 nm are most effective in causing photokeratoconjunctivitis.
-      The peak of the action spectrum is at approximately 270 nm.
+  - content: Wavelengths shorter than 320 nm are most effective in causing photokeratoconjunctivitis. The peak of the action spectrum is at approximately 270 nm.
     type: intensional
-  - content: Different action spectra have been published for photokeratitis and photoconjuctivitis
-      (CIE 106/2-1993 and CIE 106/3-1993); however, the latest studies support the
-      use of a single action spectrum for both ocular effects (CIE 106/1-1993). See
-      CIE 106-1993, _CIE Collection in Photobiology and Photochemistry (1993)._
+  - content: Different action spectra have been published for photokeratitis and photoconjuctivitis (CIE 106/2-1993 and CIE 106/3-1993); however, the latest studies support the use of a single action spectrum for both ocular effects (CIE 106/1-1993). See CIE 106-1993, _CIE Collection in Photobiology and Photochemistry (1993)._
     type: intensional
   - content: This entry was numbered 17-904 in CIE S 017:2011.
     type: intensional
@@ -50,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: photokeratoconjunctivitis
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: snowblindness
   language_code: eng

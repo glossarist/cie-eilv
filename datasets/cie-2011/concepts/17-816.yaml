@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-816
   domains:
@@ -21,8 +20,7 @@ id: b453c587-3e9d-5e66-9777-56e0cb3520f7
 ---
 data:
   definition:
-  - content: noise-equivalent input when the quantity that the detector is being used
-      to measure or detect is radiant flux
+  - content: noise-equivalent input when the quantity that the detector is being used to measure or detect is radiant flux
     type: intensional
   examples: []
   notes: []
@@ -40,7 +38,7 @@ data:
     designation: NEP
   - type: symbol
     normative_status: preferred
-    designation: "<i>Φ</i><sub>m</sub>"
+    designation: stem:[Φ_m]
   language_code: eng
   annotations: []
 termid: 17-816

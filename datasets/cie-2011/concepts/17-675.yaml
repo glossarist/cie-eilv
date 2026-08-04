@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-675
   domains:
@@ -21,9 +20,7 @@ id: c9c5fe49-390a-587e-81b6-c990db52e262
 ---
 data:
   definition:
-  - content: luminaire comprising an assembly of series-connected electric lamps,
-      parallel-connected electric lamps or series/parallel-connected electric lamps
-      and interconnecting insulated conductors
+  - content: luminaire comprising an assembly of series-connected electric lamps, parallel-connected electric lamps or series/parallel-connected electric lamps and interconnecting insulated conductors
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lighting chain
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: lighting string, US
   language_code: eng

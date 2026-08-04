@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-209
   domains:
@@ -21,27 +20,18 @@ id: 3d5f5354-b199-5360-9aa3-7de2af64d831
 ---
 data:
   definition:
-  - content: |-
-      algebraic or vector representation of the match of two colour stimuli, of which, for instance, one can be an additive mixture of three reference colour stimuli
+  - content: 'algebraic or vector representation of the match of two colour stimuli, of which, for instance, one can be an additive mixture of three reference colour stimuli
 
 
 
-      In this equation, the sign "≡" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus stem:[R]&amp;lsqb;R&amp;rsqb; means stem:[R] units of stimulus &amp;lsqb;R&amp;rsqb;, and the sign "+" means an additive mixture of colour stimuli. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.
+
+      In this equation, the sign "-=" indicates a colour match and is read as "matches". The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus stem:[R]&amp;lsqb;R&amp;rsqb; means stem:[R] units of stimulus &amp;lsqb;R&amp;rsqb;, and the sign "+" means an additive mixture of colour stimuli. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.'
     type: intensional
   examples: []
   notes:
-  - content: 'In this equation, the sign ≡ indicates a colour match and is read as
-      “matches”. The unbracketed symbols represent the amounts of the stimuli indicated
-      by the bracketed symbols: thus <i>R</i>[R] means <i>R</i> units of stimulus
-      [R], and the sign + means an additive mixture of colour stimuli. In such an
-      equation, a minus sign means that the stimulus is added to those on the other
-      side of the equation when the colour match is made.'
+  - content: 'In this equation, the sign -= indicates a colour match and is read as “matches”. The unbracketed symbols represent the amounts of the stimuli indicated by the bracketed symbols: thus stem:[R][R] means stem:[R] units of stimulus [R], and the sign + means an additive mixture of colour stimuli. In such an equation, a minus sign means that the stimulus is added to those on the other side of the equation when the colour match is made.'
     type: intensional
-  - content: 'The reference stimuli are represented as [R], [G] and [B] in which case
-      the sign ‘≡’, pronounced “matches” should be used. As an alternative the colour
-      equation can be written using boldface Roman letters when the equal sign ‘=’,
-      pronounced “equals” should be used: <b>C</b>= <i>X</i><b>X</b> + <i>Y</i><b>Y</b>
-      + <i>Z</i><b>Z</b>.'
+  - content: 'The reference stimuli are represented as [R], [G] and [B] in which case the sign ‘-=’, pronounced “matches” should be used. As an alternative the colour equation can be written using boldface Roman letters when the equal sign ‘=’, pronounced “equals” should be used: <b>C</b>= stem:[X]<b>X</b> + stem:[Y]<b>Y</b> + stem:[Z]<b>Z</b>.'
     type: intensional
   sources:
   - origin:

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-920
   domains:
@@ -21,10 +20,10 @@ id: bbbbc79f-43a7-5d75-970a-530fd264c107
 ---
 data:
   definition:
-  - content: |-
-      time integral of the photon cylindrical irradiance, stem:[E_(p,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of the photon cylindrical irradiance, stem:[E_(p,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
 
-      stem:[H_((p,c)) = underset((Delta t))( int ) E_(p,c) d t]
+
+      stem:[H_((p,c)) = underset((Delta t))( int ) E_(p,c) d t]'
     type: intensional
   examples: []
   notes: []
@@ -36,14 +35,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: photon cylindrical exposure (at a point, for a given direction and
-      duration)
+    designation: photon cylindrical exposure (at a point, for a given direction and duration)
   - type: symbol
     normative_status: preferred
-    designation: Hp,c; Hc
+    designation: stem:[H_(p,c)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>p,z</sub>"
+    designation: stem:[H_p,z]
   language_code: eng
   annotations: []
 termid: 17-920

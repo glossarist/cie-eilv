@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-062
   domains:
@@ -25,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The vertical illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: The vertical illuminance is expressed in lux (lx = lmcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-1397 in CIE S 017:2011.
     type: intensional
@@ -45,7 +44,7 @@ data:
     designation: vertical illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,v; Ev
+    designation: stem:[E_(v,v)]
   language_code: eng
   annotations: []
 termid: 17-21-062

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1046
   domains:
@@ -21,20 +20,21 @@ id: ca81c90f-dbbc-5a03-ad56-9bbad280e7a7
 ---
 data:
   definition:
-  - content: luminance coefficient multiplied by the cube of the cosine of the angle
-      of incidence of the light on a point on a surface
+  - content: luminance coefficient multiplied by the cube of the cosine of the angle of incidence of the light on a point on a surface
     type: intensional
   examples: []
   notes:
-  - content: |-
-      This can be expressed by the equation
-      <i>r</i>= <i>q</i> (cos<i>ε</i>)<sup>3</sup>
+  - content: 'This can be expressed by the equation
+
+      stem:[r]= stem:[q] (cosstem:[ε])^3^
+
       where
-      <i>q</i> is the luminance coefficient in sr<sup>-1</sup>;
-      <i>ε</i> is the angle of incidence in °.
+
+      stem:[q] is the luminance coefficient in sr^-1^;
+
+      stem:[ε] is the angle of incidence in °.'
     type: intensional
-  - content: The angle of observation, <i>α</i>, affects the value of <i>r</i>. By
-      convention this angle is fixed at 1° for road lighting calculations.
+  - content: The angle of observation, stem:[α], affects the value of stem:[r]. By convention this angle is fixed at 1° for road lighting calculations.
     type: intensional
   sources:
   - origin:
@@ -47,10 +47,10 @@ data:
     designation: reduced luminance coefficient (for a point on a surface)
   - type: symbol
     normative_status: preferred
-    designation: r
+    designation: stem:[r]
   - type: symbol
     normative_status: preferred
-    designation: "<i>r</i>"
+    designation: stem:[r]
   language_code: eng
   annotations: []
 termid: 17-1046

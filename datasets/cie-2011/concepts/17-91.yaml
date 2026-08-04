@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-91
   domains:
@@ -21,30 +20,15 @@ id: ecd34bc4-9c24-582c-86d8-cc9e9cd42fd0
 ---
 data:
   definition:
-  - content: quotient of the radiance per unit emission bandpass, dstem:[lambda],
-      at a specified emission wavelength, stem:[lambda], due to photoluminescence
-      from the specimen when irradiated at a specified excitation wavelength, stem:[mu],
-      and the radiance of the perfect reflecting diffuser identically irradiated and
-      viewed
+  - content: quotient of the radiance per unit emission bandpass, dstem:[lambda], at a specified emission wavelength, stem:[lambda], due to photoluminescence from the specimen when irradiated at a specified excitation wavelength, stem:[mu], and the radiance of the perfect reflecting diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes:
-  - content: Spectral quantities with a subscript <i>λ</i> in their designation indicate
-      differential spectral radiometric quantities.
+  - content: Spectral quantities with a subscript stem:[λ] in their designation indicate differential spectral radiometric quantities.
     type: intensional
-  - content: When integrated or summed over the spectral bandpass of the instrument,
-      this quantity becomes the bandpass-weighted bispectral luminescent radiance
-      factor, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>)∆<i>λ</i>.
+  - content: When integrated or summed over the spectral bandpass of the instrument, this quantity becomes the bandpass-weighted bispectral luminescent radiance factor, stem:[β_L,]~stem:[lambda]~(stem:[μ])∆stem:[λ].
     type: intensional
-  - content: The tabular form of complete bispectral luminescent radiance factor and
-      reflected radiance factor data is the Donaldson matrix representation of bispectral
-      radiance factor, <i>D</i>(<i>μ, λ</i>). The excitation wavelengths, <i>μ</i>,
-      are tabulated in the vertical direction, the emission wavelengths, <i>λ</i>,
-      in the horizontal direction, the reflected radiance factors, <i>β</i><sub>R</sub>(<i>λ</i>),
-      appear on the diagonal where the excitation and emission (detection) wavelengths
-      are equal, and the array of bandpass-weighted bispectral luminescent radiance
-      factor data, <i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>)∆<i>λ</i>, appear
-      on the off-diagonals.
+  - content: The tabular form of complete bispectral luminescent radiance factor and reflected radiance factor data is the Donaldson matrix representation of bispectral radiance factor, stem:[D](stem:[μ, λ]). The excitation wavelengths, stem:[μ], are tabulated in the vertical direction, the emission wavelengths, stem:[λ], in the horizontal direction, the reflected radiance factors, stem:[β_R](stem:[λ]), appear on the diagonal where the excitation and emission (detection) wavelengths are equal, and the array of bandpass-weighted bispectral luminescent radiance factor data, stem:[β_L,]~stem:[lambda]~(stem:[μ])∆stem:[λ], appear on the off-diagonals.
     type: intensional
   sources:
   - origin:
@@ -57,10 +41,10 @@ data:
     designation: bispectral luminescent radiance factor
   - type: symbol
     normative_status: preferred
-    designation: βL,λ(μ)
+    designation: stem:[beta]L,stem:[lambda](stem:[mu])
   - type: symbol
     normative_status: preferred
-    designation: "<i>β</i><sub>L,</sub><i><sub>λ</sub></i>(<i>μ</i>)"
+    designation: stem:[β_L,]~stem:[lambda]~(stem:[μ])
   language_code: eng
   annotations: []
 termid: 17-91

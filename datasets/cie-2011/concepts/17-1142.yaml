@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1142
   domains:
@@ -25,12 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Scotopic vision normally occurs when the eye is adapted to levels of
-      luminance of less than ~10<sup>-3</sup> cd·m<sup>-2</sup>.
+  - content: Scotopic vision normally occurs when the eye is adapted to levels of luminance of less than ~10^-3^ cdcdotm^-2^.
     type: intensional
-  - content: In comparison to photopic vision, scotopic vision is characterized by
-      the lack of colour perception and by a shift of the visual sensitivity towards
-      shorter wavelengths.
+  - content: In comparison to photopic vision, scotopic vision is characterized by the lack of colour perception and by a shift of the visual sensitivity towards shorter wavelengths.
     type: intensional
   sources:
   - origin:

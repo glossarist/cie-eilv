@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-729
   domains:
@@ -21,12 +20,13 @@ id: 73358a6f-7220-5656-ab11-6602817daba9
 ---
 data:
   definition:
-  - content: |-
-      quotient of the emitted luminous flux and the power consumed
+  - content: 'quotient of the emitted luminous flux and the power consumed
+
 
       stem:[eta_v = ((Phi_v))/(P)]
 
-      where stem:[Phi_v] is luminous flux and stem:[P] is the power consumed by the light source
+
+      where stem:[Phi_v] is luminous flux and stem:[P] is the power consumed by the light source'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: luminous efficacy (of a source)
   - type: symbol
     normative_status: preferred
-    designation: ηv; η
+    designation: stem:[eta]v; stem:[eta]
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i><sub>v</sub>; <i>η</i>"
+    designation: stem:[η_v]; stem:[η]
   language_code: eng
   annotations: []
 termid: 17-729

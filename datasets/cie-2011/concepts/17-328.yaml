@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-328
   domains:
@@ -21,13 +20,11 @@ id: 2a566f4b-6ecd-5218-93a0-44e73650164a
 ---
 data:
   definition:
-  - content: quotient of the radiance of a thermal radiator in a given direction and
-      the radiance of a Planckian radiator at the same temperature
+  - content: quotient of the radiance of a thermal radiator in a given direction and the radiance of a Planckian radiator at the same temperature
     type: intensional
   examples: []
   notes:
-  - content: The symbols <i>θ</i>, <i>φ</i> are chosen here as an example of the angular
-      coordinates defining the given direction.
+  - content: The symbols stem:[θ], stem:[φ] are chosen here as an example of the angular coordinates defining the given direction.
     type: intensional
   sources:
   - origin:
@@ -40,10 +37,10 @@ data:
     designation: directional emissivity (of a thermal radiator, in a given direction)
   - type: symbol
     normative_status: preferred
-    designation: ε; ε(θ, φ)
+    designation: stem:[epsilon]; stem:[epsilon](stem:[theta], stem:[phi])
   - type: symbol
     normative_status: preferred
-    designation: "<i>ε</i>; <i>ε</i>(<i>θ</i>, <i>φ</i>)"
+    designation: stem:[ε]; stem:[ε](stem:[θ], stem:[φ])
   language_code: eng
   annotations: []
 termid: 17-328

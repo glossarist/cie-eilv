@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-032
   domains:
@@ -28,8 +27,7 @@ id: 4f436683-7585-5f12-8163-edf888630ec2
 ---
 data:
   definition:
-  - content: discharge lamp in which the light is produced by radiation from sodium
-      vapour operating at a partial pressure of 0,1 Pa to 1,5 Pa
+  - content: discharge lamp in which the light is produced by radiation from sodium vapour operating at a partial pressure of 0,1 Pa to 1,5 Pa
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: low-pressure sodium lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: low-pressure sodium vapour lamp
   language_code: eng

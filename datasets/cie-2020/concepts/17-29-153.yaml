@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-153
   domains:
@@ -21,16 +20,13 @@ id: 3e81d39b-26d0-56f6-aad9-d0cc38c55450
 ---
 data:
   definition:
-  - content: value below which the average luminance of a specified surface is not
-      permitted to fall
+  - content: value below which the average luminance of a specified surface is not permitted to fall
     type: intensional
   examples: []
   notes:
-  - content: The maintained average luminance is the average luminance of the specified
-      surface at the time maintenance should be carried out.
+  - content: The maintained average luminance is the average luminance of the specified surface at the time maintenance should be carried out.
     type: intensional
-  - content: The maintained average luminance is expressed in candela per square metre
-      (cd·m^−2^).
+  - content: The maintained average luminance is expressed in candela per square metre (cdcdotm^−2^).
     type: intensional
   - content: This entry was numbered 17-751 in CIE S 017:2011.
     type: intensional
@@ -50,7 +46,7 @@ data:
     designation: maintained average luminance
   - type: symbol
     normative_status: preferred
-    designation: Lv,av,m; ; Lav,m;
+    designation: stem:[L_(v,av,m)]
   language_code: eng
   annotations: []
 termid: 17-29-153

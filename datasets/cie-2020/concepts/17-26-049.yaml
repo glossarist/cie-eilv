@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-049
   domains:
@@ -21,13 +20,11 @@ id: b36e5b68-7b81-510a-97c3-2f700a2bfa54
 ---
 data:
   definition:
-  - content: function representing the normalized spectral sensitivity of the human
-      eye due to retinal thermal hazards
+  - content: function representing the normalized spectral sensitivity of the human eye due to retinal thermal hazards
     type: intensional
   examples: []
   notes:
-  - content: The wavelength range for the retinal thermal hazard spectral weighting
-      function is the "{{concept:cie-2020:17-26-048, retinal hazard spectral region}}".
+  - content: The wavelength range for the retinal thermal hazard spectral weighting function is the "{{concept:cie-2020:17-26-048, retinal hazard spectral region}}".
     type: intensional
   - content: This entry was numbered 17-1100 in CIE S 017:2011.
     type: intensional
@@ -47,7 +44,7 @@ data:
     designation: retinal thermal hazard spectral weighting function
   - type: symbol
     normative_status: preferred
-    designation: R(λ); r(λ)
+    designation: stem:[R(lambda)]; stem:[r(lambda)]
   language_code: eng
   annotations: []
 termid: 17-26-049

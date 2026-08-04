@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-539
   domains:
@@ -36,10 +35,10 @@ data:
     designation: horizontal illuminance
   - type: symbol
     normative_status: preferred
-    designation: Ev,h; Eh
+    designation: stem:[E_(v,h)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>v,h</sub>; E<sub>h</sub>"
+    designation: stem:[E_v,h]; E~h~
   language_code: eng
   annotations: []
 termid: 17-539

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-613
   domains:
@@ -21,9 +20,7 @@ id: 5e713ab0-b1fc-5bb0-9d4f-7f08b7f20cf0
 ---
 data:
   definition:
-  - content: curve traced on a sphere that has its centre at the light centre of the
-      light source, joining all the points corresponding to those directions in which
-      the luminous intensity is the same, or a plane projection of that curve
+  - content: curve traced on a sphere that has its centre at the light centre of the light source, joining all the points corresponding to those directions in which the luminous intensity is the same, or a plane projection of that curve
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: isocandela curve
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: iso-intensity line
   language_code: eng

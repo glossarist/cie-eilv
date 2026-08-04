@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-034
   domains:
@@ -32,9 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 1 sr is equal to the solid angle that, having its vertex at the centre
-      of a sphere, cuts off an area of the surface of the sphere equal to the square
-      of the radius of the sphere.
+  - content: 1 sr is equal to the solid angle that, having its vertex at the centre of a sphere, cuts off an area of the surface of the sphere equal to the square of the radius of the sphere.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-20, 845-01-20}} in IEC 60050-845:1987.
     type: intensional
@@ -66,7 +63,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: steradian
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: sr
   language_code: eng

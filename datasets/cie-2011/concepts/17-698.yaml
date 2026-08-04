@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-698
   domains:
@@ -21,8 +20,7 @@ id: 85d45ec0-9fef-551d-abdc-4911f1e14b13
 ---
 data:
   definition:
-  - content: lighting system comprising light sources arranged above louvres which
-      cover the ceiling
+  - content: lighting system comprising light sources arranged above louvres which cover the ceiling
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: louvered ceiling (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: louvered ceiling
   language_code: eng

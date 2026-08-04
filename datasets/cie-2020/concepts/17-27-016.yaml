@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-016
   domains:
@@ -28,8 +27,7 @@ id: af843e2b-19f4-5179-9eca-8ffbf652aae8
 ---
 data:
   definition:
-  - content: incandescent lamp in which the luminous element operates in a bulb filled
-      with an inert gas
+  - content: incandescent lamp in which the luminous element operates in a bulb filled with an inert gas
     type: intensional
   examples: []
   notes:
@@ -63,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: gas-filled lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: gas-filled incandescent lamp
   language_code: eng

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-108
   domains:
@@ -57,7 +56,7 @@ data:
     designation: Planck constant
   - type: symbol
     normative_status: preferred
-    designation: h
+    designation: stem:[h]
   language_code: eng
   annotations: []
 termid: 17-21-108

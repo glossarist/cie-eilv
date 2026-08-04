@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-110
   domains:
@@ -28,15 +27,11 @@ id: c6bdeddf-ffe0-5714-b273-cbe6d10fb037
 ---
 data:
   definition:
-  - content: measure of the degree to which the psychophysical colour of a CIE test
-      sample illuminated by the test illuminant conforms to that of the same sample
-      illuminated by the reference illuminant, suitable allowance having been made
-      for the state of chromatic adaptation
+  - content: measure of the degree to which the psychophysical colour of a CIE test sample illuminated by the test illuminant conforms to that of the same sample illuminated by the reference illuminant, suitable allowance having been made for the state of chromatic adaptation
     type: intensional
   examples: []
   notes:
-  - content: See also CIE 13, _Method of Measuring and Specifying Colour Rendering
-      of Light Sources_.
+  - content: See also CIE 13, _Method of Measuring and Specifying Colour Rendering of Light Sources_.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-62, 845-02-62}} in IEC 60050-845:1987.
     type: intensional
@@ -70,7 +65,7 @@ data:
     designation: CIE 1974 special colour rendering index
   - type: symbol
     normative_status: preferred
-    designation: Ri
+    designation: stem:[R_i]
   language_code: eng
   annotations: []
 termid: 17-22-110

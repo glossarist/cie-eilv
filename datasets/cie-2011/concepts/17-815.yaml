@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-815
   domains:
@@ -21,8 +20,7 @@ id: fbc5b0b6-5551-578c-ba78-03efac8be9b7
 ---
 data:
   definition:
-  - content: noise-equivalent input when the quantity that the detector is being used
-      to measure or detect is irradiance
+  - content: noise-equivalent input when the quantity that the detector is being used to measure or detect is irradiance
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: noise equivalent irradiance (of a detector)
   - type: symbol
     normative_status: preferred
-    designation: Em
+    designation: stem:[E_m]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>m</sub>"
+    designation: stem:[E_m]
   language_code: eng
   annotations: []
 termid: 17-815

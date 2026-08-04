@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1286
   domains:
@@ -21,15 +20,13 @@ id: 523b036e-78e0-5720-8abf-0fed4ea96a06
 ---
 data:
   definition:
-  - content: average illuminance on strips, which are adjacent to the edges of both
-      sides of the carriageway, to the average illuminance on the adjacent strips
-      in the carriageway
+  - content: average illuminance on strips, which are adjacent to the edges of both sides of the carriageway, to the average illuminance on the adjacent strips in the carriageway
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Specific requirements regarding the width of the strips are defined in CIE 140.
-      Abbreviation: "SR"
+  - content: 'Specific requirements regarding the width of the strips are defined in CIE 140.
+
+      Abbreviation: "SR"'
     type: intensional
   sources:
   - origin:
@@ -45,7 +42,7 @@ data:
     designation: SR, <in road lighting>
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i><sub>s</sub>"
+    designation: stem:[R_s]
   language_code: eng
   annotations: []
 termid: 17-1286

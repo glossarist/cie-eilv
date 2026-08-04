@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-145
   domains:
@@ -21,14 +20,11 @@ id: a0ee2eb3-9c9a-5dc5-8f55-c4e6e9978342
 ---
 data:
   definition:
-  - content: measure of disability glare expressed as the percentage increase in luminance
-      contrast threshold required between an object and its background for it to be
-      seen equally well with a source of glare present
+  - content: measure of disability glare expressed as the percentage increase in luminance contrast threshold required between an object and its background for it to be seen equally well with a source of glare present
     type: intensional
   examples: []
   notes:
-  - content: Increasing values of threshold increment correspond to increasing disability
-      glare.
+  - content: Increasing values of threshold increment correspond to increasing disability glare.
     type: intensional
   - content: The threshold increment has unit one.
     type: intensional
@@ -51,7 +47,7 @@ data:
     usage_info: glare evaluation
   - type: symbol
     normative_status: preferred
-    designation: fTI
+    designation: stem:[f_(TI)]
   language_code: eng
   annotations: []
 termid: 17-31-145

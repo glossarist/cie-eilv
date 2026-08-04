@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-516
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: hand lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: trouble lamp, US
   language_code: eng

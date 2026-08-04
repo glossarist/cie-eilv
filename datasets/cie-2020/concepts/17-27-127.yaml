@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-127
   domains:
@@ -16,22 +15,21 @@ id: 6d1e37aa-2bd4-5977-8c04-85b1c4ddc768
 ---
 data:
   definition:
-  - content: |-
-      ratio of the absolute value of the fundamental active power stem:[P_1] to the fundamental apparent power stem:[S_1]
+  - content: 'ratio of the absolute value of the fundamental active power stem:[P_1] to the fundamental apparent power stem:[S_1]
 
-      stem:[lambda_1] = |stem:[P_1]| / stem:[S_1]
+
+      stem:[lambda_1] = |stem:[P_1]| / stem:[S_1]'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The fundamental power factor is also given by:
+  - content: 'The fundamental power factor is also given by:
 
-      stem:[lambda_1] = |cos stem:[phi_1]|
+
+      stem:[lambda_1] = |cos stem:[phi_1]|'
     type: intensional
   - content: The fundamental power factor only refers to fundamental quantities.
     type: intensional
-  - content: The fundamental power factor is sometimes called displacement factor
-      or displacement power factor.
+  - content: The fundamental power factor is sometimes called displacement factor or displacement power factor.
     type: intensional
   sources:
   - origin:
@@ -44,7 +42,7 @@ data:
     designation: fundamental power factor
   - type: symbol
     normative_status: preferred
-    designation: λ1
+    designation: stem:[lambda]1
   language_code: eng
   annotations: []
 termid: 17-27-127

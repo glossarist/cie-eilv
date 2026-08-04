@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-182
   domains:
@@ -21,19 +20,19 @@ id: f62ff6bf-69e6-5877-942f-faba94611d57
 ---
 data:
   definition:
-  - content: |-
-      quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
+  - content: 'quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
+
 
       stem:[R_A = (R)/(A) = ((I // E_( _|_ )))/(A)]
 
-      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_( _|_ )] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light
+
+      where stem:[I] is the luminous intensity of the retroreflector in the direction of observation, and stem:[E_( _|_ )] is the illuminance at the retroreflector on a plane perpendicular to the direction of the incident light'
     type: intensional
   examples: []
   notes:
-  - content: This quantity is particularly suitable for describing materials in sheet
-      form.
+  - content: This quantity is particularly suitable for describing materials in sheet form.
     type: intensional
-  - content: Formerly the symbol <i>R</i>' was used for this quantity.
+  - content: Formerly the symbol stem:[R]' was used for this quantity.
     type: intensional
   sources:
   - origin:
@@ -49,7 +48,7 @@ data:
     designation: RA
   - type: symbol
     normative_status: preferred
-    designation: "<i>R</i><i><sub>A</sub></i>"
+    designation: stem:[R]~A~
   language_code: eng
   annotations: []
 termid: 17-182

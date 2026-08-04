@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-047
   domains:
@@ -28,14 +27,11 @@ id: d73232fa-2292-500b-8ef1-934fc4805873
 ---
 data:
   definition:
-  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} whose quantum
-      efficiency is independent of wavelength over the spectral range considered
+  - content: detector of {{concept:cie-2020:17-21-002, optical radiation}} whose quantum efficiency is independent of wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
-  - content: Quantum efficiency can refer to {{concept:cie-2020:17-25-074, external
-      quantum efficiency}} or {{concept:cie-2020:17-25-076, internal quantum efficiency}}.
-      If not explicitly stated, external quantum efficiency is assumed.
+  - content: Quantum efficiency can refer to {{concept:cie-2020:17-25-074, external quantum efficiency}} or {{concept:cie-2020:17-25-076, internal quantum efficiency}}. If not explicitly stated, external quantum efficiency is assumed.
     type: intensional
   - content: See also "{{concept:cie-2020:17-25-109, quantum counter}}".
     type: intensional
@@ -69,7 +65,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: non-selective quantum detector
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: quantum detector
   language_code: eng

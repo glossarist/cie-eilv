@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-122
   domains:
@@ -31,7 +30,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lamp power
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: lamp wattage
   language_code: eng

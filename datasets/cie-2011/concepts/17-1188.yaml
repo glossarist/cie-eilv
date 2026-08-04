@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1188
   domains:
@@ -21,14 +20,11 @@ id: 05fa10e1-42eb-57f1-80b3-328e0ed0eb0d
 ---
 data:
   definition:
-  - content: distance from a source at which the irradiance equals the applicable
-      exposure limit for the skin for the exposure duration
+  - content: distance from a source at which the irradiance equals the applicable exposure limit for the skin for the exposure duration
     type: intensional
   examples: []
   notes:
-  - content: Where the duration of exposure is not known, IEC62471:2006/CIES009:2002
-      <i>Photobiological safety of lamp and lamp systems</i>applies a duration of
-      8 h.
+  - content: Where the duration of exposure is not known, IEC62471:2006/CIES009:2002 stem:[Photobiological safety of lamp and lamp systems]applies a duration of 8 h.
     type: intensional
   sources:
   - origin:

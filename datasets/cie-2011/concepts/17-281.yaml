@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-281
   domains:
@@ -21,8 +20,7 @@ id: c7103ef8-3476-541a-a535-a92abc044081
 ---
 data:
   definition:
-  - content: illuminant having the same or nearly the same relative spectral distribution
-      of the radiant flux as a phase of daylight
+  - content: illuminant having the same or nearly the same relative spectral distribution of the radiant flux as a phase of daylight
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: daylight illuminant
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: D illuminant
   language_code: eng

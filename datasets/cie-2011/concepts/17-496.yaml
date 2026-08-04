@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-496
   domains:
@@ -21,8 +20,7 @@ id: eb27331f-e153-579d-b14d-c7ffbd06d351
 ---
 data:
   definition:
-  - content: irradiance produced by global solar radiation on a horizontal surface
-      on the Earth
+  - content: irradiance produced by global solar radiation on a horizontal surface on the Earth
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: global horizontal irradiance
   - type: symbol
     normative_status: preferred
-    designation: Ee,g
+    designation: stem:[E_(e,g)]
   - type: symbol
     normative_status: preferred
-    designation: "<i>E</i><sub>e,g</sub>"
+    designation: stem:[E_e,g]
   language_code: eng
   annotations: []
 termid: 17-496

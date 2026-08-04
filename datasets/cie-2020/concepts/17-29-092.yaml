@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-092
   domains:
@@ -28,31 +27,33 @@ id: f716b76f-6d57-5f41-bf61-a8c8e4809ab7
 ---
 data:
   definition:
-  - content: |-
-      quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the {{concept:cie-2020:17-21-080, radiant exitance}} or {{concept:cie-2020:17-21-081, luminous exitance}} stem:[M_1] (or stem:[M_2])
+  - content: 'quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the {{concept:cie-2020:17-21-080, radiant exitance}} or {{concept:cie-2020:17-21-081, luminous exitance}} stem:[M_1] (or stem:[M_2])
 
-      stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]
+
+      stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
+  - content: 'Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
+
 
       stem:[g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G]
 
-      where stem:[l] is the distance between the elements of areas dstem:[A_1] and dstem:[A_2] on the surfaces S~1~ and S~2~, stem:[G] is the geometric extent of the beam delimited by the boundaries of S~1~ and S~2~, and stem:[theta_1] and stem:[theta_2] are the angles between the surface normals of the two elementary areas dstem:[A_1] and dstem:[A_2] respectively and the line joining the two elementary areas.
+
+      where stem:[l] is the distance between the elements of areas dstem:[A_1] and dstem:[A_2] on the surfaces S~1~ and S~2~, stem:[G] is the geometric extent of the beam delimited by the boundaries of S~1~ and S~2~, and stem:[theta_1] and stem:[theta_2] are the angles between the surface normals of the two elementary areas dstem:[A_1] and dstem:[A_2] respectively and the line joining the two elementary areas.'
     type: intensional
-  - content: |-
-      For two elementary areas dA~1~ and dA~2~
+  - content: 'For two elementary areas dA~1~ and dA~2~
+
 
       stem:[d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2]
 
-      where dstem:[Omega_1] (or dstem:[Omega_2]) is the solid angle which the area dstem:[A_2] (or dstem:[A_1]) subtends from the centre of dstem:[A_1] (or dstem:[A_2]).
-    type: intensional
-  - content: |-
-      The radiance or luminance stem:[L] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
 
-      stem:[L = (1)/(pi) ((d Phi))/((d g))].
+      where dstem:[Omega_1] (or dstem:[Omega_2]) is the solid angle which the area dstem:[A_2] (or dstem:[A_1]) subtends from the centre of dstem:[A_1] (or dstem:[A_2]).'
+    type: intensional
+  - content: 'The radiance or luminance stem:[L] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
+
+
+      stem:[L = (1)/(pi) ((d Phi))/((d g))].'
     type: intensional
   - content: The mutual exchange coefficient is expressed in square metre (m^2^).
     type: intensional
@@ -87,7 +88,7 @@ data:
     normative_status: preferred
     designation: mutual exchange coefficient
     usage_info: of radiance or luminance between surfaces
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: exchange coefficient, <of radiance or luminance between surfaces>
   language_code: eng

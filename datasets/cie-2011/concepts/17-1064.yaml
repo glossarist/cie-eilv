@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1064
   domains:
@@ -21,9 +20,7 @@ id: 918f2696-cbd7-5b90-9bfe-b8fbad4aee98
 ---
 data:
   definition:
-  - content: quotient of the reflected radiance at a point on a surface of a non-self-radiating
-      medium in a given direction and that of the perfect reflecting diffuser identically
-      irradiated and viewed
+  - content: quotient of the reflected radiance at a point on a surface of a non-self-radiating medium in a given direction and that of the perfect reflecting diffuser identically irradiated and viewed
     type: intensional
   examples: []
   notes: []
@@ -35,14 +32,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: reflected radiance factor (at a surface of a non-self-radiating medium
-      in a given direction, under specified conditions of illumination)
+    designation: reflected radiance factor (at a surface of a non-self-radiating medium in a given direction, under specified conditions of illumination)
   - type: symbol
     normative_status: preferred
-    designation: βR
+    designation: stem:[beta]R
   - type: symbol
     normative_status: preferred
-    designation: "<i>β</i><sub>R</sub>"
+    designation: stem:[β_R]
   language_code: eng
   annotations: []
 termid: 17-1064

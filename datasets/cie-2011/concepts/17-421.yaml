@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-421
   domains:
@@ -21,14 +20,11 @@ id: b04608c6-f80c-55ce-adb0-120e64f7167b
 ---
 data:
   definition:
-  - content: quotient of the number of elementary events (such as release of an electron)
-      contributing to the output and the number of incident photons, including those
-      reflected by the detector
+  - content: quotient of the number of elementary events (such as release of an electron) contributing to the output and the number of incident photons, including those reflected by the detector
     type: intensional
   examples: []
   notes:
-  - content: The use of the unqualified term "quantum efficiency" (<i>η</i>) always
-      implies external quantum efficiency.
+  - content: The use of the unqualified term "quantum efficiency" (stem:[η]) always implies external quantum efficiency.
     type: intensional
   sources:
   - origin:
@@ -39,12 +35,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: external quantum efficiency (of a detector)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: quantum efficiency, <of a detector>
   - type: symbol
     normative_status: preferred
-    designation: "<i>η</i><sub>e</sub>; <i>η</i>"
+    designation: stem:[η_e]; stem:[η]
   language_code: eng
   annotations: []
 termid: 17-421

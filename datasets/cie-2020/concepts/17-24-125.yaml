@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-125
   domains:
@@ -21,10 +20,10 @@ id: ac39c4e0-2712-5929-9f18-10c8e4eb8976
 ---
 data:
   definition:
-  - content: |-
-      logarithm to base 10 of the quotient of the luminance of the {{concept:cie-2020:17-32-058, adopted white}} of a scene or original, stem:[Y_(adopted white)], and the luminance of a measured area of the scene or original, stem:[Y_(measured area)]
+  - content: 'logarithm to base 10 of the quotient of the luminance of the {{concept:cie-2020:17-32-058, adopted white}} of a scene or original, stem:[Y_(adopted white)], and the luminance of a measured area of the scene or original, stem:[Y_(measured area)]
 
-      stem:[D_v = (log)_((10)) ((Y_((adopted white))))/((Y_((measured area))))]
+
+      stem:[D_v = (log)_((10)) ((Y_((adopted white))))/((Y_((measured area))))]'
     type: intensional
   examples: []
   notes:
@@ -46,7 +45,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: effective visual density
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: effective luminous density
   language_code: eng

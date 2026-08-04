@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-057
   domains:
@@ -45,7 +44,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: multispectral image capture
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: multispectral imaging
   language_code: eng

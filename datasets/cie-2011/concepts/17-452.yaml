@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-452
   domains:
@@ -21,18 +20,17 @@ id: c1d5fd5b-d8f2-549d-ba23-281ad1d33323
 ---
 data:
   definition:
-  - content: quotient of five times the sum of the area of the walls bounded by the
-      floor and the working plane and the sum of the areas of the floor and the working
-      plane, used in the calculation of the utilization factor or utilance
+  - content: quotient of five times the sum of the area of the walls bounded by the floor and the working plane and the sum of the areas of the floor and the working plane, used in the calculation of the utilization factor or utilance
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The floor cavity ratio is given by the formula
+  - content: 'The floor cavity ratio is given by the formula
+
 
       stem:[K_f = ((5 h_f ( a + b )))/((a b))]
 
-      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.
+
+      where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.'
     type: intensional
   - content: See also "ceiling cavity ratio" and "room cavity ratio".
     type: intensional
@@ -51,7 +49,7 @@ data:
     designation: floor cavity ratio (US)
   - type: symbol
     normative_status: preferred
-    designation: Kf; K
+    designation: stem:[K_f]
   language_code: eng
   annotations: []
 termid: 17-452

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-151
   domains:
@@ -25,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The average luminance is expressed in candela per square metre (cd·m^−2^)
+  - content: The average luminance is expressed in candela per square metre (cdcdotm^−2^)
     type: intensional
   - content: This entry was numbered 17-65 in CIE S 017:2011.
     type: intensional
@@ -45,7 +44,7 @@ data:
     designation: average luminance
   - type: symbol
     normative_status: preferred
-    designation: Lv,av; ; Lav;
+    designation: stem:[L_(v,av)]
   language_code: eng
   annotations: []
 termid: 17-29-151

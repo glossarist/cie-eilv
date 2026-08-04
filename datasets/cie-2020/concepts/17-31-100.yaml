@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-100
   domains:
@@ -21,16 +20,18 @@ id: dbc07f74-8d5a-50a0-9022-8e71a98467ea
 ---
 data:
   definition:
-  - content: |-
-      surround or extension to a sign used
+  - content: 'surround or extension to a sign used
+
 
 
 
       * to improve conspicuity of a sign by increasing its size and isolating it from its background;
 
+
       * to improve conspicuity of a sign by virtue of the colour of the backing board;
 
-      * to reduce the effects of glare when the Sun is low and behind the sign
+
+      * to reduce the effects of glare when the Sun is low and behind the sign'
     type: intensional
   examples: []
   notes:
@@ -51,7 +52,7 @@ data:
     normative_status: preferred
     designation: backing board
     usage_info: of a sign
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: backboard, <of a sign>
   language_code: eng

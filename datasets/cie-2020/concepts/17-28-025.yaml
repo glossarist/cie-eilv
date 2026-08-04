@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-025
   domains:
@@ -28,9 +27,7 @@ id: 02fbd429-7fda-5d22-a371-0dd0fe6b8ba3
 ---
 data:
   definition:
-  - content: device that holds the electric lamp in position, usually by having the
-      {{concept:cie-2020:17-28-015, cap}} inserted in it, in which case it also provides
-      the means of connecting the electric lamp to the power supply
+  - content: device that holds the electric lamp in position, usually by having the {{concept:cie-2020:17-28-015, cap}} inserted in it, in which case it also provides the means of connecting the electric lamp to the power supply
     type: intensional
   examples: []
   notes:
@@ -64,7 +61,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: lampholder
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: holder, <of an electric lamp>
   language_code: eng

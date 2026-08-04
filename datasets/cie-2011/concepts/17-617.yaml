@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-617
   domains:
@@ -34,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: iso-illuminance line (US)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: iso-illuminance line
   language_code: eng

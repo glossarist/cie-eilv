@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-031
   domains:
@@ -28,14 +27,11 @@ id: 8d6d2978-dc13-55b0-b4d7-359cc7971bf6
 ---
 data:
   definition:
-  - content: high-intensity discharge lamp in which the light is produced mainly by
-      radiation from sodium vapour operating at a partial pressure of the order of
-      10 kPa
+  - content: high-intensity discharge lamp in which the light is produced mainly by radiation from sodium vapour operating at a partial pressure of the order of 10 kPa
     type: intensional
   examples: []
   notes:
-  - content: The term "high-pressure sodium lamp" includes electric lamps with clear
-      or diffusing bulb.
+  - content: The term "high-pressure sodium lamp" includes electric lamps with clear or diffusing bulb.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-07-23, 845-07-23}} in IEC 60050-845:1987.
     type: intensional
@@ -67,7 +63,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: high-pressure sodium lamp
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: high-pressure sodium vapour lamp
   language_code: eng

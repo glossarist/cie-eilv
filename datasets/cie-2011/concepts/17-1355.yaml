@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1355
   domains:
@@ -21,9 +20,7 @@ id: 739f229a-fb7f-5ae2-97ee-3de7821a545f
 ---
 data:
   definition:
-  - content: structure over a road that restricts the normal daytime illumination
-      of a road section such that the driver's capability to see is substantially
-      diminished
+  - content: structure over a road that restricts the normal daytime illumination of a road section such that the driver's capability to see is substantially diminished
     type: intensional
   examples: []
   notes: []
@@ -36,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: tunnel
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: tunnel
   language_code: eng

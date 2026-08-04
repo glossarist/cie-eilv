@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-49
   domains:
@@ -21,8 +20,7 @@ id: dec87a1e-bdce-56e0-b5c5-5de6cec6243e
 ---
 data:
   definition:
-  - content: opening that defines the area over which average optical emission is
-      measured
+  - content: opening that defines the area over which average optical emission is measured
     type: intensional
   examples: []
   notes: []
@@ -35,7 +33,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: aperture stop
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: aperture stop
   language_code: eng

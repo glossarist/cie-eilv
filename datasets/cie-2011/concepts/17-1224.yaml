@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1224
   domains:
@@ -21,27 +20,21 @@ id: 6efa835c-7b26-5046-96ce-fbba5fa253ce
 ---
 data:
   definition:
-  - content: factor by which the readings of a physical photometer can be multiplied
-      in order to correct for the error caused by differences between the relative
-      spectral responsivity of the photometer and the spectral luminous efficiency
-      for photopic vision, stem:[V](stem:[lambda]), that it is intended to simulate
-      when the photometer is used to measure a source having a relative spectral distribution
-      different from that of the source with which the photometer was calibrated
+  - content: factor by which the readings of a physical photometer can be multiplied in order to correct for the error caused by differences between the relative spectral responsivity of the photometer and the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), that it is intended to simulate when the photometer is used to measure a source having a relative spectral distribution different from that of the source with which the photometer was calibrated
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to CIE standard illuminant A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
+  - content: 'Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to CIE standard illuminant A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
+
 
       stem:[F^( * ) = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)( int ) S ( lambda ) s_((rel)) ( lambda ) d lambda)) ((underset(lambda)( int ) S_A ( lambda ) s_((rel)) ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda ) V ( lambda ) d lambda))]
 
-      where stem:[s_(rel)](stem:[lambda]) is the relative spectral responsivity of the photometer and stem:[S](stem:[lambda]) and stem:[S_A](stem:[lambda]) are the respective relative spectral power distributions of the source to be measured and CIE standard illuminant A.
+
+      where stem:[s_(rel)](stem:[lambda]) is the relative spectral responsivity of the photometer and stem:[S](stem:[lambda]) and stem:[S_A](stem:[lambda]) are the respective relative spectral power distributions of the source to be measured and CIE standard illuminant A.'
     type: intensional
   - content: The term "colour correction factor" is no longer used.
     type: intensional
-  - content: The term spectral mismatch correction factor can also be applied to other
-      detectors whose response is intended to simulate a particular observer function,
-      such as actinic radiometers.
+  - content: The term spectral mismatch correction factor can also be applied to other detectors whose response is intended to simulate a particular observer function, such as actinic radiometers.
     type: intensional
   - content: The spectral mismatch correction factor has unit one.
     type: intensional
@@ -61,7 +54,7 @@ data:
     designation: 'DEPRECATED: colour correction factor'
   - type: symbol
     normative_status: preferred
-    designation: "<i>F</i>*"
+    designation: stem:[F]*
   language_code: eng
   annotations: []
 termid: 17-1224

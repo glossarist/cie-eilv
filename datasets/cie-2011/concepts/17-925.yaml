@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-925
   domains:
@@ -16,10 +15,10 @@ id: e4a7ad1c-75f7-59da-a114-17e870ec0e9b
 ---
 data:
   definition:
-  - content: |-
-      See NOTE 2 to "{{17-1028, radiant spherical exposure (at a point, for a given duration)}}"
+  - content: 'See NOTE 2 to "{{17-1028, radiant spherical exposure (at a point, for a given duration)}}"
 
-      Unit: m<sup>-2</sup>
+
+      Unit: m^-2^'
     type: intensional
   examples: []
   notes: []
@@ -34,7 +33,7 @@ data:
     designation: photon fluence (at a point, for a given exposure duration)
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>p,o</sub>"
+    designation: stem:[H_p,o]
   language_code: eng
   annotations: []
 termid: 17-925

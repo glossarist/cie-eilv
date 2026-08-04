@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-050
   domains:
@@ -28,10 +27,7 @@ id: 248f0d5a-57b4-5c65-befb-1ae72f7e0547
 ---
 data:
   definition:
-  - content: set of the values of the cumulative downward flux proportions of the
-      light source for the solid angle π/2 sr, π sr, and 3π/2 sr, representative for
-      the relative downward flux distribution of the light source, used in the calculation
-      of the direct ratio of installations of that light source
+  - content: set of the values of the cumulative downward flux proportions of the light source for the solid angle stem:[pi]/2 sr, stem:[pi] sr, and 3stem:[pi]/2 sr, representative for the relative downward flux distribution of the light source, used in the calculation of the direct ratio of installations of that light source
     type: intensional
   examples: []
   notes:

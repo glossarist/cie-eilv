@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-071
   domains:
@@ -25,16 +24,11 @@ id: 336fac54-15d4-5905-8943-065d01bdafa7
 ---
 data:
   definition:
-  - content: time difference between the end time, stem:[t_e], and the start time,
-      stem:[t_s], of an {{concept:cie-2020:17-21-002, optical radiation}} exposure
+  - content: time difference between the end time, stem:[t_e], and the start time, stem:[t_s], of an {{concept:cie-2020:17-21-002, optical radiation}} exposure
     type: intensional
   examples: []
   notes:
-  - content: For a single pulse, the exposure duration is the duration between the
-      half-peak power point of the leading edge and the corresponding point on the
-      trailing edge. For a train of pulses (or subsections of a train of pulses),
-      the exposure duration is the duration between the first half-peak power point
-      of the leading pulse and the last half-peak power point of the trailing pulse.
+  - content: For a single pulse, the exposure duration is the duration between the half-peak power point of the leading edge and the corresponding point on the trailing edge. For a train of pulses (or subsections of a train of pulses), the exposure duration is the duration between the first half-peak power point of the leading pulse and the last half-peak power point of the trailing pulse.
     type: intensional
   - content: The exposure duration is expressed in seconds (s).
     type: intensional
@@ -54,7 +48,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: exposure duration
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: duration of exposure
   language_code: eng

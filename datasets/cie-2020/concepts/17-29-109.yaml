@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-109
   domains:
@@ -28,26 +27,27 @@ id: de219543-d5ca-533b-839e-5d93696c5129
 ---
 data:
   definition:
-  - content: |-
-      quotient of the {{concept:cie-2020:17-29-106, optical thickness}} of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
+  - content: 'quotient of the {{concept:cie-2020:17-29-106, optical thickness}} of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
 
-      stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]
+
+      stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]'
     type: intensional
   examples: []
   notes:
   - content: See also "{{concept:cie-2020:17-29-106, optical thickness}}".
     type: intensional
-  - content: |-
-      Several equations are available to express this concept. Usually the Kasten–Young formula is used:
+  - content: 'Several equations are available to express this concept. Usually the Kasten–Young formula is used:
+
 
       stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(- 1 , 636 4)))]
 
-      where stem:[gamma_s] (= 90° − stem:[epsilon]) is solar altitude (complementary angle of zenith angle, stem:[epsilon]) in degree.
-    type: intensional
-  - content: |-
-      When the curvature of the atmosphere and atmospheric refraction are neglected:
 
-      stem:[m = (1)/((cos epsilon))].
+      where stem:[gamma_s] (= 90° − stem:[epsilon]) is solar altitude (complementary angle of zenith angle, stem:[epsilon]) in degree.'
+    type: intensional
+  - content: 'When the curvature of the atmosphere and atmospheric refraction are neglected:
+
+
+      stem:[m = (1)/((cos epsilon))].'
     type: intensional
   - content: The relative optical air mass has unit one.
     type: intensional
@@ -83,7 +83,7 @@ data:
     designation: relative optical air mass
   - type: symbol
     normative_status: preferred
-    designation: m
+    designation: stem:[m]
   language_code: eng
   annotations: []
 termid: 17-29-109

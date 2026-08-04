@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1189
   domains:
@@ -21,11 +20,7 @@ id: 544ec944-b3a5-54ba-8735-2c88b83574f2
 ---
 data:
   definition:
-  - content: quotient of that part of the illuminance at a point on a given plane
-      which is received directly (or through clear glass) from a sky of assumed or
-      known luminance distribution and the illuminance on a horizontal plane due to
-      an unobstructed hemisphere of this sky, where the contribution of direct sunlight
-      to both illuminances is excluded
+  - content: quotient of that part of the illuminance at a point on a given plane which is received directly (or through clear glass) from a sky of assumed or known luminance distribution and the illuminance on a horizontal plane due to an unobstructed hemisphere of this sky, where the contribution of direct sunlight to both illuminances is excluded
     type: intensional
   examples: []
   notes: []
@@ -40,10 +35,10 @@ data:
     designation: sky component of daylight factor
   - type: symbol
     normative_status: preferred
-    designation: Ds
+    designation: stem:[D_s]
   - type: symbol
     normative_status: preferred
-    designation: "<i>D</i><sub>s</sub>"
+    designation: stem:[D_s]
   language_code: eng
   annotations: []
 termid: 17-1189

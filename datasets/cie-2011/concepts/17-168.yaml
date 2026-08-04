@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-168
   domains:
@@ -25,15 +24,17 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: |-
-      These illuminants are intended to represent:
+  - content: 'These illuminants are intended to represent:
+
       A: Planckian radiation at a temperature of about 2 856 K;
+
       D65: The relative spectral power distribution representing a phase of daylight with a correlated colour temperature of approximately 6 500 K (called also "nominal correlated colour temperature of the daylight illuminant").
-      See also CIE 15 <i>Colorimetry</i>
-      See also ISO 11664-2:2007(E)/CIE S 014-2/E:2006 <i>Colorimetry - Part 2: CIE Standard llluminants for Colorimetry</i>
+
+      See also CIE 15 stem:[Colorimetry]
+
+      See also ISO 11664-2:2007(E)/CIE S 014-2/E:2006 stem:[Colorimetry - Part 2: CIE Standard llluminants for Colorimetry]'
     type: intensional
-  - content: Illuminants B, C and other D illuminants, previously denoted as "standard
-      illuminants", should now be termed "CIE illuminants".
+  - content: Illuminants B, C and other D illuminants, previously denoted as "standard illuminants", should now be termed "CIE illuminants".
     type: intensional
   sources:
   - origin:

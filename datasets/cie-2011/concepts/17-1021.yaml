@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1021
   domains:
@@ -21,18 +20,17 @@ id: e11c8b8c-39b5-5117-be86-5bcc8302ba14
 ---
 data:
   definition:
-  - content: |-
-      density of incident radiant energy with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident radiant energy with respect to area at a point on a real or imaginary surface
+
 
       stem:[H_e = ((d Q_e))/((d A))]
 
-      where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident
+
+      where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident'
     type: intensional
   examples: []
   notes:
-  - content: The quantity “exposure” here defined must not be confused with the quantity
-      also named “exposure” which is used in the field of X- and γ-rays, the unit
-      of which is coulomb per kilogram (C·kg<sup>-1</sup>).
+  - content: The quantity “exposure” here defined must not be confused with the quantity also named “exposure” which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram (Ccdotkg^-1^).
     type: intensional
   sources:
   - origin:
@@ -45,10 +43,10 @@ data:
     designation: radiant exposure (at a point of a surface, for a given duration)
   - type: symbol
     normative_status: preferred
-    designation: He; H
+    designation: stem:[H_e]
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>e</sub>"
+    designation: stem:[H_e]
   language_code: eng
   annotations: []
 termid: 17-1021

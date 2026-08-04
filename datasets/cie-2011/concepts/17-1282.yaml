@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1282
   domains:
@@ -21,9 +20,7 @@ id: aa8c3457-bd27-5cb3-80da-5ee88cd507ec
 ---
 data:
   definition:
-  - content: duration within a given time interval during which the irradiance from
-      direct solar radiation on a plane normal to the sun direction is equal to or
-      greater than 120 W·m^−2^
+  - content: duration within a given time interval during which the irradiance from direct solar radiation on a plane normal to the sun direction is equal to or greater than 120 Wcdotm^−2^
     type: intensional
   examples: []
   notes: []
@@ -38,10 +35,10 @@ data:
     designation: sunshine duration
   - type: symbol
     normative_status: preferred
-    designation: S
+    designation: stem:[S]
   - type: symbol
     normative_status: preferred
-    designation: "<i>S</i>"
+    designation: stem:[S]
   language_code: eng
   annotations: []
 termid: 17-1282

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1222
   domains:
@@ -21,67 +20,29 @@ id: b52d3014-48d5-5fd5-ba47-9911cde21363
 ---
 data:
   definition:
-  - content: quotient of the radiant flux at wavelength stem:[lambda_m] and that at
-      wavelength stem:[lambda], such that both produce equally intense luminous sensations
-      for a specified photometric condition and stem:[lambda_m] is chosen so that
-      the maximum value of this quotient is equal to 1
+  - content: quotient of the radiant flux at wavelength stem:[lambda_m] and that at wavelength stem:[lambda], such that both produce equally intense luminous sensations for a specified photometric condition and stem:[lambda_m] is chosen so that the maximum value of this quotient is equal to 1
     type: intensional
   examples: []
   notes:
-  - content: The spectral luminous efficiency of the human eye depends on a number
-      of factors, particularly the state of visual adaptation and the size and position
-      of the source in the visual field. The photometric condition should be specified
-      (e.g. photopic, scotopic, mesopic). If it is not specified, photopic vision
-      is assumed and the symbol stem:[V](stem:[lambda]) is used. The values of the
-      stem:[V](stem:[lambda]) function have been internationally agreed in 1924 by
-      the CIE (_Compte Rendu 6e session_, p. 67), completed by interpolation and extrapolation
-      &amp;lsqb;ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry – The CIE System of
-      Physical Photometry_&amp;rsqb;, and recommended by the International Committee
-      of Weights and Measures (CIPM) in 1972.
+  - content: The spectral luminous efficiency of the human eye depends on a number of factors, particularly the state of visual adaptation and the size and position of the source in the visual field. The photometric condition should be specified (e.g. photopic, scotopic, mesopic). If it is not specified, photopic vision is assumed and the symbol stem:[V](stem:[lambda]) is used. The values of the stem:[V](stem:[lambda]) function have been internationally agreed in 1924 by the CIE (_Compte Rendu 6e session_, p. 67), completed by interpolation and extrapolation &amp;lsqb;ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry – The CIE System of Physical Photometry_&amp;rsqb;, and recommended by the International Committee of Weights and Measures (CIPM) in 1972.
     type: intensional
-  - content: For scotopic vision, the symbol stem:[V]′(stem:[lambda]) is used. The
-      values of the stem:[V]′(stem:[lambda]) function were adopted by the CIE in 1951,
-      were published in _Compte Rendu 12e session, Vol. 3_, p. 37 and in ISO 23539:2005(E)/CIE
-      S 010/E:2004, _Photometry – The CIE System of Physical Photometry_, and ratified
-      by the CIPM in 1976.
+  - content: For scotopic vision, the symbol stem:[V]′(stem:[lambda]) is used. The values of the stem:[V]′(stem:[lambda]) function were adopted by the CIE in 1951, were published in _Compte Rendu 12e session, Vol. 3_, p. 37 and in ISO 23539:2005(E)/CIE S 010/E:2004, _Photometry – The CIE System of Physical Photometry_, and ratified by the CIPM in 1976.
     type: intensional
-  - content: For mesopic vision, the spectral luminous efficiency function is denoted
-      by stem:[V_(mes;)]stem:[m](stem:[lambda]), where stem:[m] is a coefficient determined
-      by the visual adaptation level. The values of the stem:[V_(mes;)]stem:[m](stem:[lambda])
-      function at representative values of stem:[m] are given in CIE 191:2010, _Recommended
-      System for Mesopic Photometry based on Visual Performance_.
+  - content: For mesopic vision, the spectral luminous efficiency function is denoted by stem:[V_(mes;)]stem:[m](stem:[lambda]), where stem:[m] is a coefficient determined by the visual adaptation level. The values of the stem:[V_(mes;)]stem:[m](stem:[lambda]) function at representative values of stem:[m] are given in CIE 191:2010, _Recommended System for Mesopic Photometry based on Visual Performance_.
     type: intensional
-  - content: 'The stem:[V](stem:[lambda]) function applies at all luminance levels
-      for foveal conditions, i.e. for all on-axis visual tasks (where objects seen
-      by the eye are in a narrow field of view). For visual tasks that are not on-axis,
-      the following specifications are given by CIE 191:2010, _Recommended System
-      for Mesopic Photometry based on Visual Performance_: Scotopic photometric quantities
-      are applicable to the condition where the eye is adapted to an average luminance
-      of &lt; 0,005 cd·m^−2^; mesopic photometric quantities are applicable to the
-      condition where the eye is adapted to average luminance levels between 0,005
-      cd·m^−2^ and 5 cd·m^−2^; photopic photometric quantities are applicable to the
-      condition where the eye is adapted to an average luminance greater than 5 cd·m^−2^.'
+  - content: 'The stem:[V](stem:[lambda]) function applies at all luminance levels for foveal conditions, i.e. for all on-axis visual tasks (where objects seen by the eye are in a narrow field of view). For visual tasks that are not on-axis, the following specifications are given by CIE 191:2010, _Recommended System for Mesopic Photometry based on Visual Performance_: Scotopic photometric quantities are applicable to the condition where the eye is adapted to an average luminance of &lt; 0,005 cdcdotm^−2^; mesopic photometric quantities are applicable to the condition where the eye is adapted to average luminance levels between 0,005 cdcdotm^−2^ and 5 cdcdotm^−2^; photopic photometric quantities are applicable to the condition where the eye is adapted to an average luminance greater than 5 cdcdotm^−2^.'
     type: intensional
-  - content: Considering that the spectral luminous efficiency function of the human
-      eye changes with visual angle, in 2005 CIE adopted the "CIE 10° photopic photometric
-      observer", stem:[V_(10)](stem:[lambda]), and recommended it for situations where
-      the eye is fully light adapted and the visual target has an angular subtense
-      larger than 4° or is seen off-axis (see CIE 165:2005, _CIE 10 Degree Photopic
-      Photometric Observer_).
+  - content: Considering that the spectral luminous efficiency function of the human eye changes with visual angle, in 2005 CIE adopted the "CIE 10° photopic photometric observer", stem:[V_(10)](stem:[lambda]), and recommended it for situations where the eye is fully light adapted and the visual target has an angular subtense larger than 4° or is seen off-axis (see CIE 165:2005, _CIE 10 Degree Photopic Photometric Observer_).
     type: intensional
-  - content: Considering the discrepancies between the average human spectral luminous
-      efficiency and the stem:[V](stem:[lambda]) function, in 1990 CIE adopted the
-      "CIE 1988 Modified 2° Spectral Luminous Efficiency Function for Photopic Vision",
-      stem:[V_M](stem:[lambda]), and recommended it for applications in visual sciences
-      (see CIE 86-1990, _CIE 1988 2° Spectral Luminous Efficiency Function for Photopic
-      Vision_).
+  - content: Considering the discrepancies between the average human spectral luminous efficiency and the stem:[V](stem:[lambda]) function, in 1990 CIE adopted the "CIE 1988 Modified 2° Spectral Luminous Efficiency Function for Photopic Vision", stem:[V_M](stem:[lambda]), and recommended it for applications in visual sciences (see CIE 86-1990, _CIE 1988 2° Spectral Luminous Efficiency Function for Photopic Vision_).
     type: intensional
-  - content: |-
-      Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full optical radiation spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_(e,lambda)](stem:[lambda]) is expressed by
+  - content: 'Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full optical radiation spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_(e,lambda)](stem:[lambda]) is expressed by
+
 
       stem:[Phi_v = K_m int_0^(oo) Phi_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
 
-      where stem:[K_m] ≈ 683 lm·W^−1^ (see also "maximum luminous efficacy").
+
+      where stem:[K_m] ~~ 683 lmcdotW^−1^ (see also "maximum luminous efficacy").'
     type: intensional
   - content: The spectral luminous efficiency has unit one.
     type: intensional
@@ -97,18 +58,13 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: spectral luminous efficiency (of a monochromatic radiation of wavelength
-      <i>λ</i>)
+    designation: spectral luminous efficiency (of a monochromatic radiation of wavelength <i>λ</i>)
   - type: symbol
     normative_status: preferred
-    designation: V(λ), <for photopic vision>; V′(λ), <for scotopic vision>; Vmes;m(λ),
-      <for mesopic vision>; V10(λ), <for the CIE 10° photopic photometric observer>;
-      VM(λ), <for the CIE 1988 modified 2° spectral luminous efficiency function for
-      photopic vision>
+    designation: stem:[V(lambda)], <for photopic vision>; V′(stem:[lambda]), <for scotopic vision>; Vmes;stem:[m(lambda)], <for mesopic vision>; V1stem:[0(lambda)], <for the CIE 10° photopic photometric observer>; Vstem:[M(lambda)], <for the CIE 1988 modified 2° spectral luminous efficiency function for photopic vision>
   - type: symbol
     normative_status: preferred
-    designation: "<i>V</i>(<i>λ</i>) for photopic vision; <i>V</i>'(<i>λ</i>) for
-      scotopic vision"
+    designation: stem:[V](stem:[λ]) for photopic vision; stem:[V]'(stem:[λ]) for scotopic vision
   language_code: eng
   annotations: []
 termid: 17-1222

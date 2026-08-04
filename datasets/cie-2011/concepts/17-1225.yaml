@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1225
   domains:
@@ -21,15 +20,14 @@ id: 69b07783-e83f-5199-8564-a323fecbd95e
 ---
 data:
   definition:
-  - content: |-
-      integral of the spectral linear attenuation coefficient, stem:[mu](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
+  - content: 'integral of the spectral linear attenuation coefficient, stem:[mu](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
 
-      stem:[delta ( lambda ) = int_((x_1))^((x_2)) mu ( x , lambda ) d x]
+
+      stem:[delta ( lambda ) = int_((x_1))^((x_2)) mu ( x , lambda ) d x]'
     type: intensional
   examples: []
   notes:
-  - content: The spectral optical thickness is used in atmospheric physics and physical
-      oceanography.
+  - content: The spectral optical thickness is used in atmospheric physics and physical oceanography.
     type: intensional
   - content: The spectral optical thickness has unit one.
     type: intensional
@@ -46,12 +44,12 @@ data:
   - type: expression
     normative_status: preferred
     designation: spectral optical depth (of a medium, for a given length)
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: spectral optical depth, <of a medium>
   - type: symbol
     normative_status: preferred
-    designation: "<i>δ</i>(<i>λ</i>)"
+    designation: stem:[δ](stem:[λ])
   - type: expression
     normative_status: admitted
     designation: spectral optical thickness

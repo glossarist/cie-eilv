@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-928
   domains:
@@ -21,12 +20,13 @@ id: db5ec82b-c583-5d15-946d-8d73980fba91
 ---
 data:
   definition:
-  - content: |-
-      density of photon flux with respect to solid angle in a specified direction
+  - content: 'density of photon flux with respect to solid angle in a specified direction
+
 
       stem:[I_p = ((d Phi_p))/((d omega))]
 
-      where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction
+
+      where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction'
     type: intensional
   examples: []
   notes: []
@@ -41,10 +41,10 @@ data:
     designation: photon intensity (of a source, in a given direction)
   - type: symbol
     normative_status: preferred
-    designation: Ip; I
+    designation: stem:[I_p]
   - type: symbol
     normative_status: preferred
-    designation: "<i>I</i><sub>p</sub>"
+    designation: stem:[I_p]
   language_code: eng
   annotations: []
 termid: 17-928

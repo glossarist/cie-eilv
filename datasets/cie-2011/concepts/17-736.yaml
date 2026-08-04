@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-736
   domains:
@@ -21,12 +20,13 @@ id: 67a229cb-61f7-523a-9972-7935134fe42f
 ---
 data:
   definition:
-  - content: |-
-      density of incident luminous energy with respect to area at a point on a real or imaginary surface
+  - content: 'density of incident luminous energy with respect to area at a point on a real or imaginary surface
+
 
       stem:[H_v = ((d Q_v))/((d A))]
 
-      where stem:[Q_v] is luminous energy and stem:[A] is the area on which the luminous energy is incident
+
+      where stem:[Q_v] is luminous energy and stem:[A] is the area on which the luminous energy is incident'
     type: intensional
   examples: []
   notes: []
@@ -44,7 +44,7 @@ data:
     designation: 'DEPRECATED: light exposure'
   - type: symbol
     normative_status: preferred
-    designation: "<i>H</i><sub>v</sub>; <i>H</i>"
+    designation: stem:[H_v]; stem:[H]
   language_code: eng
   annotations: []
 termid: 17-736

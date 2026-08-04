@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1381
   domains:
@@ -21,15 +20,13 @@ id: b5c513c5-efdb-5fe5-a4e9-d6232476cef6
 ---
 data:
   definition:
-  - content: proportion of the flux of a luminaire or installation that is emitted,
-      at and above the horizontal, when the luminaire(s) is (are) mounted in its (their)
-      installed position
+  - content: proportion of the flux of a luminaire or installation that is emitted, at and above the horizontal, when the luminaire(s) is (are) mounted in its (their) installed position
     type: intensional
   examples: []
   notes:
-  - content: |-
-      ULR is exactly the same as ULOR<sub>inst</sub> as used in CIE 126-1997.
-      Abbreviation: "ULR"
+  - content: 'ULR is exactly the same as ULOR~inst~ as used in CIE 126-1997.
+
+      Abbreviation: "ULR"'
     type: intensional
   sources:
   - origin:

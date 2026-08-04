@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1076
   domains:
@@ -21,8 +20,7 @@ id: 358ac0e2-c248-513c-b13c-57508838ddf8
 ---
 data:
   definition:
-  - content: quotient of the regularly reflected part of the (whole) reflected flux
-      and the incident flux
+  - content: quotient of the regularly reflected part of the (whole) reflected flux and the incident flux
     type: intensional
   examples: []
   notes: []
@@ -37,10 +35,10 @@ data:
     designation: regular reflectance
   - type: symbol
     normative_status: preferred
-    designation: ρr
+    designation: stem:[rho]r
   - type: symbol
     normative_status: preferred
-    designation: "<i>ρ</i><sub>r</sub>"
+    designation: stem:[ρ_r]
   language_code: eng
   annotations: []
 termid: 17-1076

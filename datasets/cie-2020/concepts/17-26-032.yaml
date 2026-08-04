@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-032
   domains:
@@ -36,8 +35,7 @@ id: 1878111a-d948-5058-b2b3-d4d25df0e856
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-21-002, optical radiation}} capable of inactivating
-      or killing pathogenic micro-organisms"
+  - content: '{{concept:cie-2020:17-21-002, optical radiation}} capable of inactivating or killing pathogenic micro-organisms'
     type: intensional
   examples: []
   notes:
@@ -73,7 +71,7 @@ data:
   - type: expression
     normative_status: preferred
     designation: bactericidal radiation
-  - type: symbol
+  - type: expression
     normative_status: preferred
     designation: germicidal radiation
   language_code: eng

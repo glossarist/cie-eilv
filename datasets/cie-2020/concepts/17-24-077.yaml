@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-077
   domains:
@@ -28,23 +27,21 @@ id: 21c7bbdb-3bdf-5aef-96b4-e79e9101486b
 ---
 data:
   definition:
-  - content: |-
-      quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
+  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
 
-      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]
+
+      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]'
     type: intensional
   examples: []
   notes:
-  - content: The definition holds for a surface element of a non-luminous medium,
-      in a given direction and under specified conditions of irradiation.
+  - content: The definition holds for a surface element of a non-luminous medium, in a given direction and under specified conditions of irradiation.
     type: intensional
-  - content: This quantity is also defined spectrally and is called "spectral luminance
-      factor".
+  - content: This quantity is also defined spectrally and is called "spectral luminance factor".
     type: intensional
-  - content: |-
-      For photoluminescent media, the luminance factor consists of two components: the reflected luminance factor, stem:[beta_(v,R)], and the luminescent luminance factor, stem:[beta_(v,L)]. The sum of the reflected and luminescent luminance factors is called "total luminance factor" and can be expressed by stem:[beta_(v,T)]: stem:[beta_(v,T)] = stem:[beta_(v,R)] + stem:[beta_(v,L)].
+  - content: 'For photoluminescent media, the luminance factor consists of two components: the reflected luminance factor, stem:[beta_(v,R)], and the luminescent luminance factor, stem:[beta_(v,L)]. The sum of the reflected and luminescent luminance factors is called "total luminance factor" and can be expressed by stem:[beta_(v,T)]: stem:[beta_(v,T)] = stem:[beta_(v,R)] + stem:[beta_(v,L)].
 
-      The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.
+
+      The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.'
     type: intensional
   - content: The luminance factor has unit one.
     type: intensional
@@ -80,7 +77,7 @@ data:
     designation: luminance factor
   - type: symbol
     normative_status: preferred
-    designation: βv; β
+    designation: stem:[beta]v; stem:[beta]
   language_code: eng
   annotations: []
 termid: 17-24-077
