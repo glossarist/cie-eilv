@@ -30,7 +30,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The quantity "exposure" here defined must not be confused with the quantity also named "exposure" which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram (Ccdotkg^-1^).
+  - content: The quantity "exposure" here defined must not be confused with the quantity also named "exposure" which is used in the field of X- and stem:[gamma]-rays, the unit of which is coulomb per kilogram stem:[C cdot kg^(-1)].
     type: intensional
   sources:
   - origin:

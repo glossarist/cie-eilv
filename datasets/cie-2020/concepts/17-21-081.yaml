@@ -50,7 +50,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "radiant exitance". The corresponding quantity for photons is "photon exitance".
     type: intensional
-  - content: The luminous exitance is expressed in lumen per square metre (lmcdotm^-2^).
+  - content: The luminous exitance is expressed in lumen per square metre stem:[lm cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-48, 845-01-48}} in IEC 60050-845:1987.
     type: intensional

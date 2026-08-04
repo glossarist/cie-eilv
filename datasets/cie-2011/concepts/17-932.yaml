@@ -29,7 +29,7 @@ data:
   notes:
   - content: The corresponding radiometric quantity is "radiance dose". The corresponding photometric quantity is "luminance dose".
     type: intensional
-  - content: The photon radiance dose is expressed in metre to the power minus two per steradian (m^-2^cdotsr^-1^).
+  - content: The photon radiance dose is expressed in metre to the power minus two per steradian stem:[m^(-2) cdot sr^(-1)].
     type: intensional
   - content: This entry was numbered 17-932 in CIE S 017:2011.
     type: intensional

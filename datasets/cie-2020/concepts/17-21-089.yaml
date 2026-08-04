@@ -39,7 +39,7 @@ data:
   notes:
   - content: It has to be specified whether or not the power dissipated by auxiliary equipment such as ballasts, if any, is included in the power consumed by the light source.
     type: intensional
-  - content: The luminous efficacy of a light source is expressed in lumen per watt (lmcdotW^-1^).
+  - content: The luminous efficacy of a light source is expressed in lumen per watt stem:[lm cdot W^(-1)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-55, 845-01-55}} in IEC 60050-845:1987.
     type: intensional

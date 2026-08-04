@@ -31,7 +31,7 @@ id: 6323dc37-d5a7-5e18-af07-16c129d26087
 ---
 data:
   definition:
-  - content: "three-dimensional, approximately uniform colour space produced by plotting in rectangular coordinates stem:[L^*], stem:[u^*], stem:[v^*], quantities defined by the equations:<ul style=\"list-style-type:none;\">* stem:[[[L^{ ** },=,116,f,( Y // Y_n ),-,16],[u^( ** ),=,13,L^( ** ),( u^( ' ) - u^( ' )_n )],[v^( ** ),=,13,L^( ** ),( v^( ' ) - v^( ' )_n )]]]\n\nwhere\n\n<ul style=\"list-style-type:none;\">\n* stem:[f ( Y // Y_n ) = ( Y // Y_n )^{1 // 3}]\n\nif stem:[( Y // Y_n ) > ( 6 // 29 )^3]\r\n\r\n* stem:[f ( Y // Y_n ) = ( 841 // 108 ) ( Y // Y_n ) + 4 // 29] if stem:[( Y // Y_n ) <= ( 6 // 29 )^3]\n\n\nand stem:[Y], stem:[u'], stem:[v'] describe the colour stimulus considered and stem:[Y_n], stem:[u'_n], stem:[v'_n] describe a specified white achromatic stimulus"
+  - content: "three-dimensional, approximately uniform colour space produced by plotting in rectangular coordinates stem:[L^*], stem:[u^*], stem:[v^*], quantities defined by the equations:<ul style=\"list-style-type:none;\">* stem:[[[L^{ ** },=,116,f,( Y // Y_n ),-,16],[ustem:[^{( ** ),=,13,L}]( ** ),( ustem:[^{( ' ) - u}]( ' )_n )],[vstem:[^{( ** ),=,13,L}]( ** ),( vstem:[^{( ' ) - v}]( ' )_n )]]]\n\nwhere\n\n<ul style=\"list-style-type:none;\">\n* stem:[f ( Y // Y_n ) = ( Y // Y_n )^{1 // 3}]\n\nif stem:[( Y // Y_n ) > ( 6 // 29 )^3]\r\n\r\n* stem:[f ( Y // Y_n ) = ( 841 // 108 ) ( Y // Y_n ) + 4 // 29] if stem:[( Y // Y_n ) <= ( 6 // 29 )^3]\n\n\nand stem:[Y], stem:[u'], stem:[v'] describe the colour stimulus considered and stem:[Y_n], stem:[u'_n], stem:[v'_n] describe a specified white achromatic stimulus"
     type: intensional
   examples: []
   notes:

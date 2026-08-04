@@ -15,7 +15,7 @@ id: 084260a7-898b-50cf-a216-7ac6d7c48a9c
 ---
 data:
   definition:
-  - content: illuminance averaged over a circular aperture of 100 mm^2^ area normal to the LED's mechanical axis at a distance of 100 mm for CIE Standard Condition A or 316 mm for CIE Standard Condition B from the tip of the LED, multiplied by the square of the distance and divided by a unit solid angle
+  - content: stem:[illuminance] stem:[averaged] stem:[over] stem:[a] stem:[circular] stem:[aperture] stem:[of] 100 stem:[mm^(2)] stem:[area] stem:[normal] stem:[to] stem:[the] stem:[LED]'stem:[s] stem:[mechanical] stem:[axis] stem:[at] stem:[a] stem:[distance] stem:[of] 100 stem:[mm] stem:[for] stem:[CIE] stem:[Standard] stem:[Condition] stem:[A] stem:[or] 316 stem:[mm] stem:[for] stem:[CIE] stem:[Standard] stem:[Condition] stem:[B] stem:[from] stem:[the] stem:[tip] stem:[of] stem:[the] stem:[LED], stem:[multiplied] stem:[by] stem:[the] stem:[square] stem:[of] stem:[the] stem:[distance] stem:[and] stem:[divided] stem:[by] stem:[a] stem:[unit] stem:[solid] stem:[angle]
     type: intensional
   examples: []
   notes:

@@ -39,7 +39,7 @@ data:
   notes:
   - content: The corresponding radiometric quantity is "radiant exitance". The corresponding photometric quantity is "luminous exitance".
     type: intensional
-  - content: The photon exitance is expressed in second to the power minus one per square metre (s^-1^cdotm^-2^).
+  - content: The photon exitance is expressed in second to the power minus one per square metre stem:[s^(-1) cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-49, 845-01-49}} in IEC 60050-845:1987.
     type: intensional

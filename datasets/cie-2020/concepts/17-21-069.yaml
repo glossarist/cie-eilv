@@ -34,7 +34,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "cylindrical irradiance". The corresponding photometric quantity is "cylindrical illuminance".
     type: intensional
-  - content: The photon cylindrical irradiance is expressed in second to the power minus one per square metre (s^-1^cdotm^-2^).
+  - content: The photon cylindrical irradiance is expressed in second to the power minus one per square metre stem:[s^(-1) cdot m^(-2)].
     type: intensional
   - content: This entry was numbered 17-921 in CIE S 017:2011.
     type: intensional

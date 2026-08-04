@@ -29,7 +29,7 @@ data:
 
       where stem:[K_m] is maximum luminous efficacy, stem:[V](stem:[lambda]) is spectral luminous efficiency and stem:[lambda] is wavelength.'
     type: intensional
-  - content: The spectral luminous efficacy is expressed in lumen per watt (lmcdotW^-1^).
+  - content: The spectral luminous efficacy is expressed in lumen per watt stem:[lm cdot W^(-1)].
     type: intensional
   sources:
   - origin:

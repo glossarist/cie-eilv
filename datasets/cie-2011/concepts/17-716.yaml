@@ -29,7 +29,7 @@ data:
   notes:
   - content: The corresponding radiometric quantity is "radiance dose". The corresponding quantity for photons is "photon radiance dose".
     type: intensional
-  - content: The luminance dose is expressed in candela times second per square metre (cdcdotscdotm^-2^).
+  - content: The luminance dose is expressed in candela times second per square metre stem:[cd cdot s cdot m^(-2)].
     type: intensional
   - content: This entry was numbered 17-716 in CIE S 017:2011.
     type: intensional

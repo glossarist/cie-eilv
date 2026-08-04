@@ -53,7 +53,7 @@ data:
     type: intensional
   - content: The spherical irradiance is the appropriate radiometric quantity for describing a dose rate for a photobiological or photochemical effect in a scattering medium (e.g. light in skin). The spherical irradiance is also the appropriate quantity for describing the irradiation of microorganisms. The spherical irradiance is frequently used incorrectly as a substitute for irradiance in some publications.
     type: intensional
-  - content: The spherical irradiance is expressed in watt per square metre (Wcdotm^-2^).
+  - content: The spherical irradiance is expressed in watt per square metre stem:[W cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-40, 845-01-40}} in IEC 60050-845:1987.
     type: intensional

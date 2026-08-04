@@ -47,7 +47,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "irradiance". The corresponding quantity for photons is "photon irradiance".
     type: intensional
-  - content: The illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The illuminance is expressed in lux stem:[lx = lm cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-38, 845-01-38}} in IEC 60050-845:1987.
     type: intensional

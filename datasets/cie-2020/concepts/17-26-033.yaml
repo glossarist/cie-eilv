@@ -33,7 +33,7 @@ data:
   notes:
   - content: See also "{{concept:cie-2020:17-26-034, effective dose}}".
     type: intensional
-  - content: The dose is expressed in joule per square metre (Jcdotm^-2^).
+  - content: The dose is expressed in joule per square metre stem:[J cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-21, 845-06-21}} in IEC 60050-845:1987.
     type: intensional
