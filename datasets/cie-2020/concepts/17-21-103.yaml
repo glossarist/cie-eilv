@@ -33,11 +33,11 @@ data:
       ^
 
 
-      where^ stem:[q] is the luminance coefficient in steradian to the power minus one (sr^−1^), and stem:[epsilon] is the angle of incidence in degree (°).'
+      where^ stem:[q] is the luminance coefficient in steradian to the power minus one (sr^-1^), and stem:[epsilon] is the angle of incidence in degree (°).'
     type: intensional
   - content: The angle of observation, stem:[alpha], affects the value of stem:[r]. By convention this angle is fixed at 1° for road lighting calculations.
     type: intensional
-  - content: The reduced luminance coefficient is expressed in steradian to the power minus one (sr^−1^).
+  - content: The reduced luminance coefficient is expressed in steradian to the power minus one (sr^-1^).
     type: intensional
   - content: This entry was numbered 17-1046 in CIE S 017:2011.
     type: intensional

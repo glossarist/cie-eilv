@@ -32,7 +32,7 @@ data:
 
       where stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, stem:[Elambda] is the spectral irradiance, stem:[tau](stem:[lambda]) is the measured spectral transmittance of the item, and stem:[lambda] is the wavelength.'
     type: intensional
-  - content: The ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda]), has been substituted for stem:[s_(er)](stem:[lambda]) in special instances. If so used, the ultraviolet protection factor, stem:[F_(UVP)], has to be noted as stem:[F_(UVP)] &amp;lsqb;stem:[S](stem:[lambda])-weighted&amp;rsqb;.
+  - content: The ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda]), has been substituted for stem:[s_(er)](stem:[lambda]) in special instances. If so used, the ultraviolet protection factor, stem:[F_(UVP)], has to be noted as stem:[F_(UVP)] [stem:[S](stem:[lambda])-weighted].
     type: intensional
   - content: The ultraviolet protection factor has unit one.
     type: intensional

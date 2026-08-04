@@ -20,10 +20,10 @@ id: f45abd96-e2a9-5d68-8428-4b69c7724138
 ---
 data:
   definition:
-  - content: 'difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the u′, v′ chromaticity diagram and calculated as:
+  - content: 'difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the u'', v'' chromaticity diagram and calculated as:
 
 
-      stem:[Delta c] = &amp;lsqb;(stem:[Delta u]′)^2^ + (stem:[Delta v]′)^2^&amp;rsqb;^1/2^'
+      stem:[Delta c] = [(stem:[Delta u]'')^2^ + (stem:[Delta v]'')^2^]^1/2^'
     type: intensional
   examples: []
   notes: []

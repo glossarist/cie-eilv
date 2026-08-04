@@ -33,7 +33,7 @@ data:
   notes:
   - content: The value of the luminance threshold depends on field size, surround, state of adaptation, methodology, and other viewing conditions.
     type: intensional
-  - content: The luminance threshold is expressed in candela per square metre (cdcdotm^−2^).
+  - content: The luminance threshold is expressed in candela per square metre (cdcdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-45, 845-02-45}} in IEC 60050-845:1987.
     type: intensional

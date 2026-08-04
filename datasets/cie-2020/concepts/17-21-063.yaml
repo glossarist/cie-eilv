@@ -34,7 +34,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "cylindrical irradiance". The corresponding quantity for photons is "photon cylindrical irradiance".
     type: intensional
-  - content: The cylindrical illuminance is expressed in lux (lx = lmcdotm^−2^).
+  - content: The cylindrical illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-273 in CIE S 017:2011.
     type: intensional

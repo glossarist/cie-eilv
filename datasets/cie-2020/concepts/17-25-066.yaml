@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-066
   domains:
@@ -28,10 +27,7 @@ id: 25cb3c24-0254-50c9-b3fe-d63073683090
 ---
 data:
   definition:
-  - content: time required for the output to change, after a step variation from one
-      steady input to another steady input, by the fraction (1 − 1/e) of its total
-      change in value, where the total change in value is the difference between the
-      initial value and the final (asymptotic) value
+  - content: time required for the output to change, after a step variation from one steady input to another steady input, by the fraction (1 - 1/e) of its total change in value, where the total change in value is the difference between the initial value and the final (asymptotic) value
     type: intensional
   examples: []
   notes:

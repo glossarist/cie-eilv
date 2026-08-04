@@ -30,7 +30,7 @@ data:
     type: intensional
   - content: It is essential to specify which actinic action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The blue light hazard radiance is expressed in watt per square metre per steradian (Wcdotm^−2^cdotsr^−1^).
+  - content: The blue light hazard radiance is expressed in watt per square metre per steradian (Wcdotm^-2^cdotsr^-1^).
     type: intensional
   - content: This entry was numbered 17-99 in CIE S 017:2011.
     type: intensional

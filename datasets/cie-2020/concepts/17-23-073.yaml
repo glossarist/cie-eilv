@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-073
   domains:
@@ -32,22 +31,11 @@ id: 8a9414ad-1210-5e02-a6be-9c0ccd750452
 ---
 data:
   definition:
-  - content: "uniform chromaticity scale diagram produced by plotting in rectangular
-      coordinates stem:[v]′ against stem:[u]′, quantities defined by the equations:<ul
-      style=\"list-style-type:none;\">* stem:[u]′ = 4 stem:[X] / (stem:[X] + 15stem:[Y]
-      + 3stem:[Z]) = 4stem:[x] / (−2stem:[x] + 12stem:[y] + 3) * stem:[v]′ = 9 stem:[Y]
-      / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (−2stem:[x] +12stem:[y]
-      + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the {{concept:cie-2020:17-23-038,
-      tristimulus values}} in the CIE 1931 or 1964 standard colorimetric systems,
-      and stem:[x], stem:[y] are the corresponding chromaticity coordinates of the
-      colour stimulus considered"
+  - content: "uniform chromaticity scale diagram produced by plotting in rectangular coordinates stem:[v]' against stem:[u]', quantities defined by the equations:<ul style=\"list-style-type:none;\">* stem:[u]' = 4 stem:[X] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 4stem:[x] / (-2stem:[x] + 12stem:[y] + 3) * stem:[v]' = 9 stem:[Y] / (stem:[X] + 15stem:[Y] + 3stem:[Z]) = 9stem:[y] / (-2stem:[x] +12stem:[y] + 3) \n\nwhere stem:[X], stem:[Y], stem:[Z] are the {{concept:cie-2020:17-23-038, tristimulus values}} in the CIE 1931 or 1964 standard colorimetric systems, and stem:[x], stem:[y] are the corresponding chromaticity coordinates of the colour stimulus considered"
     type: intensional
   examples: []
   notes:
-  - content: 'The CIE 1976 uniform-chromaticity-scale diagram is a modification of,
-      and supersedes, the CIE 1960 uniform-chromaticity-scale diagram in which stem:[v]
-      was plotted against stem:[u] in rectangular coordinates. The relationships between
-      the two pairs of coordinates are: stem:[u]′ = stem:[u]; stem:[v]′ = 1,5 stem:[v].'
+  - content: 'The CIE 1976 uniform-chromaticity-scale diagram is a modification of, and supersedes, the CIE 1960 uniform-chromaticity-scale diagram in which stem:[v] was plotted against stem:[u] in rectangular coordinates. The relationships between the two pairs of coordinates are: stem:[u]'' = stem:[u]; stem:[v]'' = 1,5 stem:[v].'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-53, 845-03-53}} in IEC 60050-845:1987.
     type: intensional

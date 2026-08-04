@@ -26,7 +26,7 @@ data:
   notes:
   - content: Normal solar irradiance is not the same as {{concept:cie-2020:17-29-133, direct solar irradiance}}, which is measured on a horizontal surface on the Earth, not necessarily perpendicular to the direction of irradiation by the Sun.
     type: intensional
-  - content: The normal solar irradiance is expressed in watt per square metre (Wcdotm^−2^).
+  - content: The normal solar irradiance is expressed in watt per square metre (Wcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-826 in CIE S 017:2011.
     type: intensional

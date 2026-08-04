@@ -15,7 +15,7 @@ id: 743fa6b6-e56b-5eb7-9744-fbb2ffc82b10
 ---
 data:
   definition:
-  - content: ratio of the luminous output of a source evaluated according to the CIE scotopic {{concept:cie-2020:17-21-035, spectral luminous efficiency}}, stem:[V′](stem:[lambda]), to the luminous output evaluated according to the CIE photopic spectral luminous efficiency, stem:[V](stem:[lambda])
+  - content: ratio of the luminous output of a source evaluated according to the CIE scotopic {{concept:cie-2020:17-21-035, spectral luminous efficiency}}, stem:[V'](stem:[lambda]), to the luminous output evaluated according to the CIE photopic spectral luminous efficiency, stem:[V](stem:[lambda])
     type: intensional
   examples: []
   notes:
@@ -25,7 +25,7 @@ data:
       stem:[R_((SP)) = ((K^( '' )_m int_0^(oo) S ( lambda ) V^( '' ) ( lambda ) d lambda))/((K_m int_0^(oo) S ( lambda ) V ( lambda ) d lambda))]
 
 
-      where stem:[K]′~m~ ~~ 1 700 lmcdotW^−1^ is the maximum luminous efficacy for scotopic vision, stem:[K_m] ~~ 683 lmcdotW^−1^ is the maximum luminous efficacy for photopic vision, stem:[S](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.'
+      where stem:[K]''~m~ ~~ 1 700 lmcdotW^-1^ is the maximum luminous efficacy for scotopic vision, stem:[K_m] ~~ 683 lmcdotW^-1^ is the maximum luminous efficacy for photopic vision, stem:[S](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.'
     type: intensional
   - content: The S/P ratio has unit one.
     type: intensional

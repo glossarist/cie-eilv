@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-013
   domains:
@@ -28,15 +27,11 @@ id: 9d1258ca-605d-5eda-81b0-e14149640766
 ---
 data:
   definition:
-  - content: measurement of quantities referring to radiation as evaluated according
-      to a given {{concept:cie-2020:17-21-035, spectral luminous efficiency}}, e.g.
-      stem:[V](stem:[lambda]) or stem:[V]′(stem:[lambda])
+  - content: measurement of quantities referring to radiation as evaluated according to a given {{concept:cie-2020:17-21-035, spectral luminous efficiency}}, e.g. stem:[V](stem:[lambda]) or stem:[V]'(stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The term "photometry" is sometimes used in a broader sense covering the
-      science of {{concept:cie-2020:17-21-002, optical radiation}} measurement ({{concept:cie-2020:17-25-005,
-      radiometry}}), but this use is deprecated.
+  - content: The term "photometry" is sometimes used in a broader sense covering the science of {{concept:cie-2020:17-21-002, optical radiation}} measurement ({{concept:cie-2020:17-25-005, radiometry}}), but this use is deprecated.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-05-09, 845-05-09}} in IEC 60050-845:1987.
     type: intensional

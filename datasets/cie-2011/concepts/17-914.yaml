@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-914
   domains:
@@ -21,14 +20,11 @@ id: 82aa4adf-5f35-50aa-aea4-59ee3071ceef
 ---
 data:
   definition:
-  - content: measurement of quantities referring to radiation as evaluated according
-      to a given spectral luminous efficiency, e.g. stem:[V](stem:[lambda]) or stem:[V]′(stem:[lambda])
+  - content: measurement of quantities referring to radiation as evaluated according to a given spectral luminous efficiency, e.g. stem:[V](stem:[lambda]) or stem:[V]'(stem:[lambda])
     type: intensional
   examples: []
   notes:
-  - content: The term "photometry" is sometimes used in a broader sense covering the
-      science of optical radiation measurement (radiometry), but this use should be
-      deprecated.
+  - content: The term "photometry" is sometimes used in a broader sense covering the science of optical radiation measurement (radiometry), but this use should be deprecated.
     type: intensional
   sources:
   - origin:

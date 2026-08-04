@@ -30,7 +30,7 @@ data:
     type: intensional
   - content: The complete tabular form of bispectral luminescent radiance factor and reflected radiance factor data is the Donaldson matrix representation of bispectral radiance factor, stem:[D](stem:[mu], stem:[lambda]). The excitation wavelengths, stem:[mu], are tabulated in the vertical direction, the emission wavelengths, stem:[lambda], in the horizontal direction, the reflected radiance factors, stem:[beta_R](stem:[lambda]), appear on the diagonal where the excitation and emission (detection) wavelengths are equal, and the array of bandpass-weighted bispectral luminescent radiance factor data, stem:[beta_L]stem:[,lambda](stem:[mu])stem:[Delta lambda], appear on the off-diagonals.
     type: intensional
-  - content: The bispectral luminescent radiance factor is expressed in nanometre to the power minus one (nm^−1^).
+  - content: The bispectral luminescent radiance factor is expressed in nanometre to the power minus one (nm^-1^).
     type: intensional
   - content: This entry was numbered 17-91 in CIE S 017:2011.
     type: intensional

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-075
   domains:
@@ -25,23 +24,19 @@ id: 97cad04a-5adc-5c87-9559-8ccb02bceaa6
 ---
 data:
   definition:
-  - content: measurement of the protective quality of a fabric sample against solar
-      {{concept:cie-2020:17-21-008, ultraviolet radiation}}, determined by in-vitro
-      testing
+  - content: measurement of the protective quality of a fabric sample against solar {{concept:cie-2020:17-21-008, ultraviolet radiation}}, determined by in-vitro testing
     type: intensional
   examples: []
   notes:
-  - content: |-
-      For in-vitro testing, the erythemal irradiance measured by a detector with the fabric sample under test in place is compared to the erythemal irradiance measured with no fabric present, where the source is typically a solar simulator. This is expressed as the quotient of the erythemal irradiance without fabric to the erythemal irradiance through fabric:
+  - content: 'For in-vitro testing, the erythemal irradiance measured by a detector with the fabric sample under test in place is compared to the erythemal irradiance measured with no fabric present, where the source is typically a solar simulator. This is expressed as the quotient of the erythemal irradiance without fabric to the erythemal irradiance through fabric:
+
 
       stem:[F_((UVP)) = ((int_((290\ nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) d lambda))/((int_((290\ nm))^((400\ nm)) E_(lambda) s_((er)) ( lambda ) tau ( lambda ) d lambda))]
 
-      where stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, stem:[Elambda] is the spectral irradiance, stem:[tau](stem:[lambda]) is the measured spectral transmittance of the item, and stem:[lambda] is the wavelength.
+
+      where stem:[s_(er)](stem:[lambda]) is the erythema spectral weighting function, stem:[Elambda] is the spectral irradiance, stem:[tau](stem:[lambda]) is the measured spectral transmittance of the item, and stem:[lambda] is the wavelength.'
     type: intensional
-  - content: The ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda]),
-      has been substituted for stem:[s_(er)](stem:[lambda]) in special instances.
-      If so used, the ultraviolet protection factor, stem:[F_(UVP)], has to be noted
-      as stem:[F_(UVP)] &amp;lsqb;stem:[S](stem:[lambda])-weighted&amp;rsqb;.
+  - content: The ultraviolet hazard spectral weighting function, stem:[S_(UV)](stem:[lambda]), has been substituted for stem:[s_(er)](stem:[lambda]) in special instances. If so used, the ultraviolet protection factor, stem:[F_(UVP)], has to be noted as stem:[F_(UVP)] [stem:[S](stem:[lambda])-weighted].
     type: intensional
   - content: The ultraviolet protection factor has unit one.
     type: intensional

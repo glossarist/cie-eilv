@@ -46,7 +46,7 @@ data:
   notes:
   - content: The formula is sometimes written with stem:[((c_1))/((pi omega_0))] instead of stem:[((c_1))/(pi)], where stem:[Omega_0] is the solid angle of magnitude 1 sr.
     type: intensional
-  - content: For a detector in a medium of refractive index stem:[n], the measured radiance is stem:[n^(−2)]stem:[L_(e,lambda)](stem:[lambda], stem:[T]).
+  - content: For a detector in a medium of refractive index stem:[n], the measured radiance is stem:[n^(-2)]stem:[L_(e,lambda)](stem:[lambda], stem:[T]).
     type: intensional
   - content: Wien's law can also be expressed to give the approximate {{concept:cie-2020:17-21-029, spectral distribution}} of radiant exitance stem:[M_(e,lambda)](stem:[lambda], stem:[T]); the first factor in the formula is then stem:[c_1] instead of stem:[((c_1))/(pi)].
     type: intensional

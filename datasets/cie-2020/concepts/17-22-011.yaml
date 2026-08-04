@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The natural pupil luminance is expressed in candela (cd), candela per square metre times square millimetre (cdcdotm^−2^cdotmm^2^), or {{concept:cie-2020:17-22-038, troland}}.
+  - content: The natural pupil luminance is expressed in candela (cd), candela per square metre times square millimetre (cdcdotm^-2^cdotmm^2^), or {{concept:cie-2020:17-22-038, troland}}.
     type: intensional
   - content: This entry was numbered 17-802 in CIE S 017:2011.
     type: intensional

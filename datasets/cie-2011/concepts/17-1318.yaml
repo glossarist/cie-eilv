@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1318
   domains:
@@ -21,10 +20,7 @@ id: dada352a-82cf-5502-8507-8b58cd929d3c
 ---
 data:
   definition:
-  - content: time required for the output to change, after a step variation from one
-      steady input to another steady input, by the fraction (1 − 1/e) of its total
-      change in value, where the total change in value is the difference between the
-      initial value and the final (asymptotic) value
+  - content: time required for the output to change, after a step variation from one steady input to another steady input, by the fraction (1 - 1/e) of its total change in value, where the total change in value is the difference between the initial value and the final (asymptotic) value
     type: intensional
   examples: []
   notes: []
@@ -36,8 +32,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: time constant (of a detector whose output varies exponentially with
-      time)
+    designation: time constant (of a detector whose output varies exponentially with time)
   language_code: eng
   annotations: []
 termid: 17-1318

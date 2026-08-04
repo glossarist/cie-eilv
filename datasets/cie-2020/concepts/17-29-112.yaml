@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-112
   domains:
@@ -28,17 +27,17 @@ id: dd8e088d-5d55-5547-ae29-b213828fc3ff
 ---
 data:
   definition:
-  - content: |-
-      cloudless sky for which the relative luminance distribution is given by the luminance gradation function, stem:[phi](stem:[Z]), which relates the luminance of a sky element to its zenith angle, stem:[Z]:
+  - content: 'cloudless sky for which the relative luminance distribution is given by the luminance gradation function, stem:[phi](stem:[Z]), which relates the luminance of a sky element to its zenith angle, stem:[Z]:
 
-      stem:[phi ( Z ) = 1 - e^(((- 0,32))/((cos Z)))] if stem:[0 &lt;= Z (pi)/(2)], and stem:[phi ( Z ) = 1]
 
-      if stem:[Z = (pi)/(2)] (at the horizon)
+      stem:[phi ( Z ) = 1 - e^(((- 0,32))/((cos Z)))] if stem:[0 <= Z (pi)/(2)], and stem:[phi ( Z ) = 1]
+
+
+      if stem:[Z = (pi)/(2)] (at the horizon)'
     type: intensional
   examples: []
   notes:
-  - content: For additional information, see ISO 15469/CIE S 011, _Spatial distribution
-      of daylight – CIE standard general sky_.
+  - content: For additional information, see ISO 15469/CIE S 011, _Spatial distribution of daylight – CIE standard general sky_.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-91, 845-09-91}} in IEC 60050-845:1987.
     type: intensional
