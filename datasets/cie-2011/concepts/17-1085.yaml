@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The given reference value, stem:[s_m], can be an average value, a maximum value or an arbitrarily chosen value of stem:[s](stem:[λ]).
+  - content: The given reference value, stem:[s_m], can be an average value, a maximum value or an arbitrarily chosen value of stem:[s](stem:[lambda]).
     type: intensional
   sources:
   - origin:
@@ -43,7 +43,7 @@ data:
     designation: stem:[s(r(lambda))]
   - type: symbol
     normative_status: preferred
-    designation: stem:[s_r](stem:[λ])
+    designation: stem:[s_r](stem:[stem:[lambda]])
   language_code: eng
   annotations: []
 termid: 17-1085

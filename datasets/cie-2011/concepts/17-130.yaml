@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-130
   domains:
@@ -21,10 +20,7 @@ id: 071fe493-96c0-57e6-bb63-317631844bae
 ---
 data:
   definition:
-  - content: temperature of a Planckian radiator having the chromaticity nearest the
-      chromaticity associated with the given spectral distribution on a modified 1976
-      UCS diagram where stem:[u^( ' ) , (2)/(3) v^( ' )] are the coordinates of the
-      Planckian locus and the test stimulus
+  - content: temperature of a Planckian radiator having the chromaticity nearest the chromaticity associated with the given spectral distribution on a modified 1976 UCS diagram where stem:[u^{ ' } , (2)/(3) v^{ ' }] are the coordinates of the Planckian locus and the test stimulus
     type: intensional
   examples: []
   notes: []

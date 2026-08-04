@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-021
   domains:
@@ -32,18 +31,13 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: CIE standard illuminants should be used whenever appropriate in order
-      to facilitate the comparison of published results.
+  - content: CIE standard illuminants should be used whenever appropriate in order to facilitate the comparison of published results.
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO 11664-2/CIE S 014-2, _Colorimetry – Part 2: CIE Standard
-      llluminants for Colorimetry_, in which examples are given for applications of
-      use of CIE standard illuminants.'
+  - content: 'See also ISO 11664-2/CIE S 014-2, _Colorimetry stem:[-] Part 2: CIE Standard llluminants for Colorimetry_, in which examples are given for applications of use of CIE standard illuminants.'
     type: intensional
-  - content: Illuminants B, C and other {{concept:cie-2020:17-23-020, daylight illuminants}},
-      previously denoted as "standard illuminants", should now be termed "{{concept:cie-2020:17-23-019,
-      CIE illuminants}}".
+  - content: Illuminants B, C and other {{concept:cie-2020:17-23-020, daylight illuminants}}, previously denoted as "standard illuminants", should now be termed "{{concept:cie-2020:17-23-019, CIE illuminants}}".
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-12, 845-03-12}} in IEC 60050-845:1987.
     type: intensional

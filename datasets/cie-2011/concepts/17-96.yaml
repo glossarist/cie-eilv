@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-96
   domains:
@@ -21,9 +20,7 @@ id: 20623c33-c785-520b-8aab-eb3b408e834a
 ---
 data:
   definition:
-  - content: potential for a photochemically induced retinal injury (photic maculopathy)
-      resulting from optical radiation exposure at wavelengths primarily between 400 nm
-      and 500 nm
+  - content: potential for a photochemically induced retinal injury (photic maculopathy) resulting from optical radiation exposure at wavelengths primarily between 400 nm and 500 nm
     type: intensional
   examples: []
   notes: []

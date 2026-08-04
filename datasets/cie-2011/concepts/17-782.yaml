@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-782
   domains:
@@ -21,16 +20,15 @@ id: 5b862c5f-feb4-5734-9b90-0fcded124b89
 ---
 data:
   definition:
-  - content: actinic dose, using the erythema spectral weighting function, that produces
-      a just noticeable actinic erythema on a single individual's previously unexposed
-      skin
+  - content: actinic dose, using the erythema spectral weighting function, that produces a just noticeable actinic erythema on a single individual's previously unexposed skin
     type: intensional
   examples: []
   notes:
-  - content: |-
-      This is a subjective measure based on the reddening of the skin; it depends on many variables, e.g. individual sensitivity to UVR, radiometric characteristics of the source, skin pigmentation, anatomic site, elapsed time between irradiation and observing the reddening (typical value: 24 h), etc. Since it varies with each individual, it should be reserved solely for observational studies in humans and other animals.
-      See also “{{17-1255, standard erythema dose}}”
-      Abbreviation: “MED”
+  - content: 'This is a subjective measure based on the reddening of the skin; it depends on many variables, e.g. individual sensitivity to UVR, radiometric characteristics of the source, skin pigmentation, anatomic site, elapsed time between irradiation and observing the reddening (typical value: 24 h), etc. Since it varies with each individual, it should be reserved solely for observational studies in humans and other animals.
+
+      See also "{{17-1255, standard erythema dose}}"
+
+      Abbreviation: "MED"'
     type: intensional
   sources:
   - origin:
@@ -47,4 +45,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-782
-id: '0190f3e0-2524-57eb-8cbd-b25ba59f4839'
+id: 0190f3e0-2524-57eb-8cbd-b25ba59f4839

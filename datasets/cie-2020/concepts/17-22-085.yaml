@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-085
   domains:
@@ -21,15 +20,14 @@ id: 89244797-a2f0-51d5-9862-bb3722e1d2f1
 ---
 data:
   definition:
-  - content: |-
-      quotient of the real difference in luminance between the target and its background, stem:[Delta L], and the luminance difference needed between a target of a certain angular size and its background for the target to be just visible, stem:[Delta L_(th)], that is at the threshold
+  - content: 'quotient of the real difference in luminance between the target and its background, stem:[Delta L], and the luminance difference needed between a target of a certain angular size and its background for the target to be just visible, stem:[Delta L_{th}], that is at the threshold
 
-      stem:[F_(VL)] = stem:[Delta L] / stem:[Delta L_(th)]
+
+      stem:[F_{VL}] = stem:[Delta L] / stem:[Delta L_{th}]'
     type: intensional
   examples: []
   notes:
-  - content: The visibility level indicates how much the contrast of the target is
-      above threshold contrast.
+  - content: The visibility level indicates how much the contrast of the target is above threshold contrast.
     type: intensional
   - content: The visibility level has unit one.
     type: intensional

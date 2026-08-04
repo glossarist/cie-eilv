@@ -26,9 +26,9 @@ data:
   notes:
   - content: In the latter case, in French, "spectrique" is preferred to "spectral".
     type: intensional
-  - content: stem:[X]~stem:[λ]~ is also a function of stem:[λ] and in order to stress this, may be written stem:[X]~stem:[λ]~(stem:[λ]) without any change of meaning.
+  - content: stem:[X]~stem:[lambda]~ is also a function of stem:[lambda] and in order to stress this, may be written stem:[X]~stem:[lambda]~(stem:[lambda]) without any change of meaning.
     type: intensional
-  - content: The quantity stem:[X] can also be expressed as a function of frequency stem:[ν], wave number stem:[σ], etc.; the corresponding symbols are stem:[X](stem:[ν]), stem:[X](stem:[sigma]), etc. and stem:[X]~stem:[ν]~, stem:[X_σ], etc.
+  - content: The quantity stem:[X] can also be expressed as a function of frequency stem:[nu], wave number stem:[sigma], etc.; the corresponding symbols are stem:[X](stem:[nu]), stem:[X](stem:[sigma]), etc. and stem:[X]~stem:[nu]~, stem:[X_sigma], etc.
     type: intensional
   sources:
   - origin:

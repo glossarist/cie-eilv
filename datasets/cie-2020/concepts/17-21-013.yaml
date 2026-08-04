@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-013
   domains:
@@ -16,15 +15,11 @@ id: dde12731-8f44-5fe9-8056-79242e66ff7b
 ---
 data:
   definition:
-  - content: radiation within the spectral range of {{concept:cie-2020:17-21-003,
-      visible radiation}}
+  - content: radiation within the spectral range of {{concept:cie-2020:17-21-003, visible radiation}}
     type: intensional
   examples: []
   notes:
-  - content: Sometimes, the term "light" is also used in physics as a synonym of {{concept:cie-2020:17-21-002,
-      optical radiation}}, covering the spectral range from 100 nm to 1 mm and sometimes
-      even covering the X-ray spectral range. This misuse of the term ‘'light'' should
-      be avoided.
+  - content: Sometimes, the term "light" is also used in physics as a synonym of {{concept:cie-2020:17-21-002, optical radiation}}, covering the spectral range from 100 nm to 1 mm and sometimes even covering the X-ray spectral range. This misuse of the term ''light'' should be avoided.
     type: intensional
   sources:
   - origin:

@@ -20,10 +20,10 @@ id: ee5ce6db-60ab-5d77-8ea0-598e00c2e285
 ---
 data:
   definition:
-  - content: 'time integral of cylindrical illuminance, stem:[E_(v,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of cylindrical illuminance, stem:[E_{v,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
-      stem:[H_((v,c)) = underset((Delta t))( int ) E_(v,c) d t]'
+      stem:[H_{(v,c)} = underset((Delta t))( int ) E_{v,c} d t]'
     type: intensional
   examples: []
   notes: []
@@ -38,7 +38,7 @@ data:
     designation: luminous cylindrical exposure (at a point, for a given direction and duration)
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(v,c)]
+    designation: stem:[H_{v,c}]
   - type: symbol
     normative_status: preferred
     designation: stem:[H_v,z]; stem:[H_v]

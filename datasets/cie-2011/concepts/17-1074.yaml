@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'For isotropic media, this index is equal to the ratio of the sines of the angles of incidence, stem:[Θ_1], and refraction, stem:[Θ_2], of a ray passing through the surface separating vacuum and medium: stem:[n](stem:[λ])=sin stem:[Θ_1]/sin stem:[Θ_2].'
+  - content: 'For isotropic media, this index is equal to the ratio of the sines of the angles of incidence, stem:[Theta_1], and refraction, stem:[Theta_2], of a ray passing through the surface separating vacuum and medium: stem:[n](stem:[lambda])=sin stem:[Theta_1]/sin stem:[Theta_2].'
     type: intensional
   sources:
   - origin:
@@ -40,7 +40,7 @@ data:
     designation: stem:[n]
   - type: symbol
     normative_status: preferred
-    designation: stem:[n](stem:[λ])
+    designation: stem:[n](stem:[stem:[lambda]])
   language_code: eng
   annotations: []
 termid: 17-1074

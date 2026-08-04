@@ -23,7 +23,7 @@ data:
   - content: 'density of irradiance, stem:[E_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
 
 
-      stem:[E_((e , lambda)) = ((d E_e ( lambda )))/((d lambda))]'
+      stem:[E_{(e , lambda)} = ((d E_e ( lambda )))/((d lambda))]'
     type: intensional
   examples: []
   notes: []
@@ -38,10 +38,10 @@ data:
     designation: spectral irradiance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(e,lambda)]
+    designation: stem:[E_{e,lambda}]
   - type: symbol
     normative_status: preferred
-    designation: stem:[E]~stem:[λ]~
+    designation: stem:[E]~stem:[stem:[lambda]]~
   language_code: eng
   annotations: []
 termid: 17-1217

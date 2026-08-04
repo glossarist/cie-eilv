@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-069
   domains:
@@ -35,14 +34,11 @@ id: e5bc2adc-e051-507c-92d1-1d753aa1b544
 ---
 data:
   definition:
-  - content: value of the detector input that produces an output equal to the root
-      mean square (RMS) noise output, for a stated {{cite:IEV:103-06-02, frequency}}
-      and bandwidth of the measuring instrument
+  - content: value of the detector input that produces an output equal to the root mean square (RMS) noise output, for a stated {{cite:IEV:103-06-02, frequency}} and bandwidth of the measuring instrument
     type: intensional
   examples: []
   notes:
-  - content: It is usual to consider a 1 Hz bandwidth, and this value is implied unless
-      stated otherwise.
+  - content: It is usual to consider a 1 Hz bandwidth, and this value is implied unless stated otherwise.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-05-62, 845-05-62}} in IEC 60050-845:1987.
     type: intensional

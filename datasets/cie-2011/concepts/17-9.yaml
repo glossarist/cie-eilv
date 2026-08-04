@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-9
   domains:
@@ -21,9 +20,7 @@ id: 7b0e3d6d-6096-59a2-b699-75532dd817fb
 ---
 data:
   definition:
-  - content: average of the luminances contained in a conical part of the field of
-      vision, subtending an angle of 20° at the eye of the approaching driver and
-      centred on a point at a height of one quarter of the height of the tunnel mouth
+  - content: average of the luminances contained in a conical part of the field of vision, subtending an angle of 20stem:[deg] at the eye of the approaching driver and centred on a point at a height of one quarter of the height of the tunnel mouth
     type: intensional
   examples: []
   notes: []

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-109
   domains:
@@ -21,10 +20,10 @@ id: fc484cc5-a5b8-5a57-b237-ad37c6ada951
 ---
 data:
   definition:
-  - content: |-
-      function describing the change with direction of irradiation (stem:[theta_i],stem:[ϕ_i]) and direction of view (stem:[theta_r],stem:[ϕ_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
+  - content: 'function describing the change with direction of irradiation (stem:[theta_i],stem:[phi_i]) and direction of view (stem:[theta_r],stem:[phi_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
 
-      stem:[rho ( theta_i , varphi_i , theta_r , varphi_r , x_r , y_r , lambda ) = ((d L_r ( theta_r , varphi_r , x_r , y_r , lambda )))/((d E_i ( theta_i , varphi_i , lambda )))]
+
+      stem:[rho ( theta_i , varphi_i , theta_r , varphi_r , x_r , y_r , lambda ) = ((d L_r ( theta_r , varphi_r , x_r , y_r , lambda )))/((d E_i ( theta_i , varphi_i , lambda )))]'
     type: intensional
   examples: []
   notes: []

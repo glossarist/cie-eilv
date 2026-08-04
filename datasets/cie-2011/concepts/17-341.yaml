@@ -23,7 +23,7 @@ data:
   - content: 'temperature of the Planckian radiator whose relative spectral distribution, stem:[S](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
 
 
-      stem:[int_((lambda_1))^((lambda_2)) 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
+      stem:[int_{(lambda_1)}^{(lambda_2)} 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
 
 
       where stem:[lambda] is the wavelength, stem:[S_t](stem:[lambda]) is the relative spectral distribution of the radiation being considered, stem:[S_b](stem:[lambda], stem:[T]) is the relative spectral distribution of the Planckian radiator at temperature stem:[T], and stem:[a] is a scaling factor'
@@ -36,7 +36,7 @@ data:
       stem:[S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))]
 
 
-      with stem:[P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)], where stem:[c_2] is the second radiation constant.'
+      with stem:[P ( lambda , T ) = lambda^{- 5} ( e^{((c_2))/((lambda T))} - 1 )^{- 1}], where stem:[c_2] is the second radiation constant.'
     type: intensional
   - content: Distribution temperature is a meaningful characteristic for radiators having a relative spectral distribution similar to that of a Planckian radiator, but only if calculated for an expanded wavelength range and for radiation whose spectral distribution of radiant flux is a continuous function of wavelength in that range.
     type: intensional
@@ -46,7 +46,7 @@ data:
     type: intensional
   - content: The distribution temperature is expressed in kelvin (K).
     type: intensional
-  - content: For further information, see CIE 114-1994, _CIE Collection in Photometry and Radiometry – 114/4 Distribution Temperature and Ratio Temperature_.
+  - content: For further information, see CIE 114-1994, _CIE Collection in Photometry and Radiometry stem:[-] 114/4 Distribution Temperature and Ratio Temperature_.
     type: intensional
   - content: This entry was numbered 845-04-14 in IEC 60050-845:1987.
     type: intensional

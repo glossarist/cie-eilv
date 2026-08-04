@@ -27,10 +27,10 @@ id: 21c7bbdb-3bdf-5aef-96b4-e79e9101486b
 ---
 data:
   definition:
-  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
+  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_{v,n}], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_{v,d}]
 
 
-      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]'
+      stem:[beta_v = ((L_{(v ,n)}))/((L_{(v ,d)}))]'
     type: intensional
   examples: []
   notes:
@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: This quantity is also defined spectrally and is called "spectral luminance factor".
     type: intensional
-  - content: 'For photoluminescent media, the luminance factor consists of two components: the reflected luminance factor, stem:[beta_(v,R)], and the luminescent luminance factor, stem:[beta_(v,L)]. The sum of the reflected and luminescent luminance factors is called "total luminance factor" and can be expressed by stem:[beta_(v,T)]: stem:[beta_(v,T)] = stem:[beta_(v,R)] + stem:[beta_(v,L)].
+  - content: 'For photoluminescent media, the luminance factor consists of two components: the reflected luminance factor, stem:[beta_{v,R}], and the luminescent luminance factor, stem:[beta_{v,L}]. The sum of the reflected and luminescent luminance factors is called "total luminance factor" and can be expressed by stem:[beta_{v,T}]: stem:[beta_{v,T}] = stem:[beta_{v,R}] + stem:[beta_{v,L}].
 
 
       The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.'

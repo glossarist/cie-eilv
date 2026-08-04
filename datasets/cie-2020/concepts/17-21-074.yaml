@@ -27,10 +27,10 @@ id: f87a0b7e-6ce9-53d8-83c1-28c3bfac5eb9
 ---
 data:
   definition:
-  - content: 'time integral of spherical irradiance, stem:[E_(e,o)], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical irradiance, stem:[E_{e,o}], at a given point over a given duration, stem:[Delta t]
 
 
-      stem:[H_((e,o)) = underset((Delta t))( int ) E_(e,o) d t]'
+      stem:[H_{(e,o)} = underset((Delta t))( int ) E_{e,o} d t]'
     type: intensional
   examples: []
   notes:
@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The radiant spherical exposure is the appropriate radiometric quantity for describing a dose for a photobiological or photochemical effect in a scattering medium (e.g. light in skin). It is also the appropriate radiometric quantity for describing the irradiation of microorganisms. The radiant spherical exposure is frequently used incorrectly as a substitute for radiant exposure.
     type: intensional
-  - content: The radiant spherical exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
+  - content: The radiant spherical exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-45, 845-01-45}} in IEC 60050-845:1987.
     type: intensional

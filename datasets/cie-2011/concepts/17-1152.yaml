@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1152
   domains:
@@ -21,13 +20,11 @@ id: c95838c7-dee8-5df9-b592-7a5883fbba55
 ---
 data:
   definition:
-  - content: detector of optical radiation whose spectral responsivity varies with
-      wavelength over the spectral range considered
+  - content: detector of optical radiation whose spectral responsivity varies with wavelength over the spectral range considered
     type: intensional
   examples: []
   notes:
-  - content: In French, the terms "récepteur” or “capteur” are also used instead of
-      "détecteur".
+  - content: In French, the terms "récepteur" or "capteur" are also used instead of "détecteur".
     type: intensional
   sources:
   - origin:

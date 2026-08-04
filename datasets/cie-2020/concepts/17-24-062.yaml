@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-062
   domains:
@@ -28,17 +27,17 @@ id: 04ca5cb6-e752-5bc1-8e24-2e16872c590f
 ---
 data:
   definition:
-  - content: Lambert's law for a surface element whose radiance or luminance is the
-      same in all directions of the hemisphere above the surface
+  - content: Lambert's law for a surface element whose radiance or luminance is the same in all directions of the hemisphere above the surface
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Lambert's cosine law can be expressed by
+  - content: 'Lambert''s cosine law can be expressed by
 
-      stem:[I](stem:[theta]) = stem:[I_(n )]cos stem:[theta]
 
-      where stem:[I](stem:[theta]) and stem:[I_n] are the radiant intensities or luminous intensities of the surface element in a direction at an angle, stem:[theta], from the normal to the surface and in the direction of that normal, respectively.
+      stem:[I](stem:[theta]) = stem:[I_{n }]cos stem:[theta]
+
+
+      where stem:[I](stem:[theta]) and stem:[I_n] are the radiant intensities or luminous intensities of the surface element in a direction at an angle, stem:[theta], from the normal to the surface and in the direction of that normal, respectively.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-56, 845-04-56}} in IEC 60050-845:1987.
     type: intensional

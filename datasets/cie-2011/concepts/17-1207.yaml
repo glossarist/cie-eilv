@@ -23,13 +23,13 @@ data:
   - content: 'logarithm to base 10 of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda])
 
 
-      stem:[A_i](stem:[lambda]) = -log~10~ stem:[tau_i](stem:[lambda])'
+      stem:[A_i](stem:[lambda]) = -log~10~ stem:[tau_i](stem:[lambda])'
     type: intensional
   examples: []
   notes:
   - content: See NOTE to "{{17-1215, spectral internal transmittance (of a homogeneous non-diffusing layer)}}".
     type: intensional
-  - content: The symbol stem:[E](stem:[λ]) is still in use.
+  - content: The symbol stem:[E](stem:[lambda]) is still in use.
     type: intensional
   sources:
   - origin:
@@ -45,7 +45,7 @@ data:
     designation: spectral internal transmittance density
   - type: symbol
     normative_status: preferred
-    designation: stem:[A_i](stem:[λ])
+    designation: stem:[A_i](stem:[stem:[lambda]])
   - type: expression
     normative_status: admitted
     designation: spectral internal transmittance density

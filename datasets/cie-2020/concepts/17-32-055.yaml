@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-055
   domains:
@@ -21,14 +20,11 @@ id: 0b97af51-27a1-5b72-9b9b-4622ffb2681d
 ---
 data:
   definition:
-  - content: quotient of the maximum luminance level that appears unclipped and the
-      minimum luminance level that can be reproduced with an incremental signal to
-      temporal noise ratio of at least 1
+  - content: quotient of the maximum luminance level that appears unclipped and the minimum luminance level that can be reproduced with an incremental signal to temporal noise ratio of at least 1
     type: intensional
   examples: []
   notes:
-  - content: As determined according to ISO 15739, _Photography – Electronic still-picture
-      imaging – Noise measurements_.
+  - content: As determined according to ISO 15739, _Photography stem:[-] Electronic still-picture imaging stem:[-] Noise measurements_.
     type: intensional
   - content: The ISO digital still camera dynamic range has unit one.
     type: intensional

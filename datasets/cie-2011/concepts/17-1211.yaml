@@ -38,7 +38,7 @@ data:
     designation: stem:[r(lambda)], stem:[g(lambda)], stem:[b(lambda)], <CIE 1931 RGB colorimetric system>
   - type: symbol
     normative_status: preferred
-    designation: stem:[r](stem:[λ]), stem:[g](stem:[λ]), b(stem:[λ]); stem:[x](stem:[λ]), stem:[y](stem:[λ]), stem:[z](stem:[λ]); stem:[r_10](stem:[λ]), stem:[g_10](stem:[λ]), stem:[b_10](stem:[λ]); stem:[x_10](stem:[λ]), stem:[y_10](stem:[λ]), stem:[z_10](stem:[λ])
+    designation: stem:[r](stem:[stem:[lambda]]), stem:[g](stem:[stem:[lambda]]), b(stem:[stem:[lambda]]); stem:[x](stem:[stem:[lambda]]), stem:[y](stem:[stem:[lambda]]), stem:[z](stem:[stem:[lambda]]); stem:[r_10](stem:[stem:[lambda]]), stem:[g_10](stem:[stem:[lambda]]), stem:[b_10](stem:[stem:[lambda]]); stem:[x_10](stem:[stem:[lambda]]), stem:[y_10](stem:[stem:[lambda]]), stem:[z_10](stem:[stem:[lambda]])
   language_code: eng
   annotations: []
 termid: 17-1211

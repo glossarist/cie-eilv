@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The symbols stem:[θ], stem:[φ] are chosen here as an example of the angular coordinates defining the given direction.
+  - content: The symbols stem:[theta], stem:[phi] are chosen here as an example of the angular coordinates defining the given direction.
     type: intensional
   sources:
   - origin:
@@ -40,7 +40,7 @@ data:
     designation: stem:[epsilon]; stem:[epsilon](stem:[theta], stem:[phi])
   - type: symbol
     normative_status: preferred
-    designation: stem:[ε]; stem:[ε](stem:[θ], stem:[φ])
+    designation: stem:[stem:[epsilon]]; stem:[stem:[epsilon]](stem:[stem:[theta]], stem:[stem:[phi]])
   language_code: eng
   annotations: []
 termid: 17-328

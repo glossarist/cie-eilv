@@ -20,7 +20,7 @@ id: 292a6b32-04ce-5c59-be34-71878541b768
 ---
 data:
   definition:
-  - content: quotient of the luminance, stem:[L_v]stem:[,] of a road surface and the vertical illuminance, stem:[E_(v,v)], at a specific location in a tunnel
+  - content: quotient of the luminance, stem:[L_v]stem:[,] of a road surface and the vertical illuminance, stem:[E_{v,v}], at a specific location in a tunnel
     type: intensional
   examples: []
   notes: []

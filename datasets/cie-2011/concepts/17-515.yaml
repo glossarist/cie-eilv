@@ -20,11 +20,11 @@ id: edf5f62e-4c81-54be-b7b6-1576462fb8f9
 ---
 data:
   definition:
-  - content: angle of observation at which the luminance has half the value of the luminance of the diffused light at the angle of 0°, with perpendicular incidence of the light
+  - content: angle of observation at which the luminance has half the value of the luminance of the diffused light at the angle of 0stem:[deg], with perpendicular incidence of the light
     type: intensional
   examples: []
   notes:
-  - content: For indicating the shape of the indicatrix of diffusion it is recommended that the diffusion factor stem:[σ] be used for strongly diffusing materials, and the half-value angle stem:[γ] for poorly diffusing materials.
+  - content: For indicating the shape of the indicatrix of diffusion it is recommended that the diffusion factor stem:[sigma] be used for strongly diffusing materials, and the half-value angle stem:[gamma] for poorly diffusing materials.
     type: intensional
   sources:
   - origin:
@@ -40,7 +40,7 @@ data:
     designation: stem:[gamma]
   - type: symbol
     normative_status: preferred
-    designation: stem:[γ]
+    designation: stem:[stem:[gamma]]
   language_code: eng
   annotations: []
 termid: 17-515

@@ -21,7 +21,7 @@ data:
   notes:
   - content: A detailed method of measurement is given in CIE 127, _Measurement of LEDs_.
     type: intensional
-  - content: The geometric conditions CIE Standard Condition A and CIE Standard Condition B, which correspond to symbols stem:[I_(LED,A)] and stem:[I_(LED,B)] respectively, are defined in CIE 127, _Measurement of LEDs_.
+  - content: The geometric conditions CIE Standard Condition A and CIE Standard Condition B, which correspond to symbols stem:[I_{LED,A}] and stem:[I_{LED,B}] respectively, are defined in CIE 127, _Measurement of LEDs_.
     type: intensional
   - content: The averaged LED intensity is expressed in candela (cd).
     type: intensional

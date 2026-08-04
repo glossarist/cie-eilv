@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-058
   domains:
@@ -28,9 +27,7 @@ id: 8941f53a-5432-5db0-9e5e-a20ce9685879
 ---
 data:
   definition:
-  - content: line in a chromaticity diagram, or the plane surface in a tristimulus
-      space, that represents additive mixtures of monochromatic stimuli of wavelengths
-      approximately 380 nm and 780 nm
+  - content: line in a chromaticity diagram, or the plane surface in a tristimulus space, that represents additive mixtures of monochromatic stimuli of wavelengths approximately 380 nm and 780 nm
     type: intensional
   examples: []
   notes:

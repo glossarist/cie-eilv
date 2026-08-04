@@ -38,11 +38,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. In photometry, unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 °C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for {{concept:cie-2020:17-21-003, visible radiation}}.'
+  - content: 'The wavelength in a medium is equal to the wavelength in vacuo divided by the refractive index of the medium. In photometry, unless otherwise stated, values of wavelength are generally those in air. The refractive index of standard air (for spectroscopy: stem:[T] = 15 stem:[deg]C, stem:[p] = 101 325 Pa) lies between 1,000 27 and 1,000 29 for {{concept:cie-2020:17-21-003, visible radiation}}.'
     type: intensional
   - content: In some specific applications, such as fluorescence measurements, the symbol stem:[mu] is used for the wavelengths of excitation radiation.
     type: intensional
-  - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is the {{cite:IEV:103-06-02, frequency}}.
+  - content: stem:[lambda] = stem:[v] / stem:[nu], where stem:[lambda] is the wavelength in a medium, stem:[v] is the phase velocity in that medium and stem:[nu] is the {{cite:IEV:103-06-02, frequency}}.
     type: intensional
   - content: The wavelength is expressed in metres (m) or decimal submultiples of metre.
     type: intensional

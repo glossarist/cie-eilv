@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-115
   domains:
@@ -28,18 +27,16 @@ id: fb7377d1-667f-5545-8c38-a1053f7bf170
 ---
 data:
   definition:
-  - content: |-
-      relative amplitude of the periodic fluctuation of the luminous flux as calculated by the ratio of the difference between the maximum and the minimum instantaneous luminous flux, stem:[Phi_(max)] and stem:[Phi_(min)] respectively, to the sum of both of these values:
+  - content: 'relative amplitude of the periodic fluctuation of the luminous flux as calculated by the ratio of the difference between the maximum and the minimum instantaneous luminous flux, stem:[Phi_{max}] and stem:[Phi_{min}] respectively, to the sum of both of these values:
 
-      stem:[((Phi_((max)) - Phi_((min))))/((Phi_((max)) + Phi_((min))))]
+
+      stem:[((Phi_{(max)} - Phi_{(min)}))/((Phi_{(max)} + Phi_{(min)}))]'
     type: intensional
   examples: []
   notes:
-  - content: The amplitude of fluctuation can be applied also for "luminance" and
-      "illuminance". Additional photometric quantities can be used.
+  - content: The amplitude of fluctuation can be applied also for "luminance" and "illuminance". Additional photometric quantities can be used.
     type: intensional
-  - content: The amplitude of fluctuation of the luminous flux has unit one and is
-      usually expressed in per cent (%).
+  - content: The amplitude of fluctuation of the luminous flux has unit one and is usually expressed in per cent (%).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-07-66, 845-07-66}} in IEC 60050-845:1987.
     type: intensional

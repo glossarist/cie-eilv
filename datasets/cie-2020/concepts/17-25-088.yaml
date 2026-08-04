@@ -20,14 +20,14 @@ id: ebe1941d-5b7e-513e-91b5-f2a8d482ac86
 ---
 data:
   definition:
-  - content: general principle that, in the absence of losses, the elementary radiant flux or luminous flux, dstem:[Phi], between two elementary areas dstem:[A] and dstem:[A]' defining an elementary beam is proportional to the elementary projected areas dstem:[A] cos stem:[theta] and dstem:[A]' cos stem:[theta] ' in the direction of the beam and inversely proportional to the squared distance, stem:[l], between the areas
+  - content: general principle that, in the absence of losses, the elementary radiant flux or luminous flux, dstem:[Phi], between two elementary areas dstem:[A] and dstem:[A]' defining an elementary beam is proportional to the elementary projected areas dstem:[A] cos stem:[theta] and dstem:[A]' cos stem:[theta] ' in the direction of the beam and inversely proportional to the squared distance, stem:[l], between the areas
     type: intensional
   examples: []
   notes:
   - content: 'The basic law of radiometry and photometry is expressed by
 
 
-      stem:[d Phi = L * ((d A cos theta * d A^( '' ) cos theta^( '' )))/((l^2))]
+      stem:[d Phi = L * ((d A cos theta * d A^{ '' } cos theta^{ '' }))/((l^2))]
 
 
       where the proportionality factor for this geometrical condition is equal to the radiance or luminance, respectively, within the elementary beam.'

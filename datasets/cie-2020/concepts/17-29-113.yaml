@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-113
   domains:
@@ -21,15 +20,11 @@ id: 577735da-f01f-5ef4-b95c-850bb0a30051
 ---
 data:
   definition:
-  - content: set of 15 sky luminance distributions which model the sky from heavily
-      overcast sky to cloudless sky
+  - content: set of 15 sky luminance distributions which model the sky from heavily overcast sky to cloudless sky
     type: intensional
   examples: []
   notes:
-  - content: The relative luminance distributions are described in ISO 15469/CIE S
-      011, _Spatial distribution of daylight – CIE standard general sky_. The CIE
-      standard clear sky is incorporated as a particular case, and the CIE standard
-      overcast sky is added as a separate formula.
+  - content: The relative luminance distributions are described in ISO 15469/CIE S 011, _Spatial distribution of daylight stem:[-] CIE standard general sky_. The CIE standard clear sky is incorporated as a particular case, and the CIE standard overcast sky is added as a separate formula.
     type: intensional
   - content: This entry was numbered 17-167 in CIE S 017:2011.
     type: intensional

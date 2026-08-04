@@ -27,10 +27,10 @@ id: e8c0cb1e-498b-54b7-88d8-700b9a61cad5
 ---
 data:
   definition:
-  - content: 'quotient of the luminance, stem:[L], of a plane retroreflective surface in the direction of observation and the illuminance, stem:[E_( _|_ )], at the retroreflector on a plane perpendicular to the direction of the incident light
+  - content: 'quotient of the luminance, stem:[L], of a plane retroreflective surface in the direction of observation and the illuminance, stem:[E_{ _|_ }], at the retroreflector on a plane perpendicular to the direction of the incident light
 
 
-      stem:[R_L = (L)/((E_( _|_ )))]'
+      stem:[R_L = (L)/((E_{ _|_ }))]'
     type: intensional
   examples: []
   notes:

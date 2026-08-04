@@ -51,7 +51,7 @@ data:
   - content: 'Photon number can also be expressed by the time integral of the photon flux, stem:[Phi_p], over a given duration, stem:[Delta t]:
 
 
-      stem:[N_p = int_((Delta t)) Phi_p d t]'
+      stem:[N_p = int_{(Delta t)} Phi_p d t]'
     type: intensional
   - content: The photon number has unit one.
     type: intensional

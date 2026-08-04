@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-319
   domains:
@@ -21,9 +20,7 @@ id: e7e94895-34d5-5c10-8bbc-7208c5c11ea1
 ---
 data:
   definition:
-  - content: lighting by means of primary light sources and luminaires having a distribution
-      of luminous intensity such that the fraction of the emitted luminous flux directly
-      reaching the working plane, assumed to be of infinite extent, is 90 % to 100 %
+  - content: lighting by means of primary light sources and luminaires having a distribution of luminous intensity such that the fraction of the emitted luminous flux directly reaching the working plane, assumed to be of infinite extent, is 90 % to 100 %
     type: intensional
   examples: []
   notes: []

@@ -48,11 +48,11 @@ data:
   - content: 'Photon flux can be obtained by integrating photon radiance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:
 
 
-      stem:[Phi_p = ​ ∬ L_p * cos alpha d A d omega].'
+      stem:[Phi_p =  iint L_p * cos alpha d A d omega].'
     type: intensional
-  - content: Since the optical extent, expressed by stem:[G·n^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_p]stem:[·n^(-2)] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic photon radiance".
+  - content: Since the optical extent, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_p]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic photon radiance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[Phi_p]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega],
+  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[Phi_p]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega],
 
 
       stem:[L_p ( x , y , vartheta , phi ) = ((del^2 Phi_p ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]

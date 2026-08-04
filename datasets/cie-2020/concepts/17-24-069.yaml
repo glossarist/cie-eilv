@@ -31,7 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   - content: The diffuse transmittance has unit one.
     type: intensional

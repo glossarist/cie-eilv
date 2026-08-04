@@ -23,7 +23,7 @@ data:
   - content: 'time integral of luminance, stem:[L_v], over a given duration, stem:[Delta t]
 
 
-      stem:[L_((v , t)) = underset((Delta t))( int ) L_v d t]'
+      stem:[L_{(v , t)} = underset((Delta t))( int ) L_v d t]'
     type: intensional
   examples: []
   notes:
@@ -44,7 +44,7 @@ data:
     designation: luminance dose (in a given direction, at a given point of a real or imaginary surface)
   - type: symbol
     normative_status: preferred
-    designation: stem:[L_(v,t)]
+    designation: stem:[L_{v,t}]
   - type: symbol
     normative_status: preferred
     designation: stem:[L_t,v]

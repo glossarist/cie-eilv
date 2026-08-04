@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Specified in ICNIRP-recommendations: stem:[λ_1] =300 nm, stem:[λ_2] =700 nm.'
+  - content: 'Specified in ICNIRP-recommendations: stem:[lambda_1] =300 nm, stem:[lambda_2] =700 nm.'
     type: intensional
   - content: This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the radiance is meant, as the unit is the same.
     type: intensional

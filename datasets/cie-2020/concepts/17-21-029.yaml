@@ -41,7 +41,7 @@ data:
   - content: 'density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
 
 
-      stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]'
+      stem:[X_{lambda} = ((d X ( lambda )))/((d lambda))]'
     type: intensional
   examples: []
   notes:

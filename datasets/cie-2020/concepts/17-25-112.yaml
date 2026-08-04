@@ -26,7 +26,7 @@ data:
   notes:
   - content: The defined datum axis can be any feature of the luminaire, but it will usually relate to a feature that is nominally aligned with the horizontal such as an axis through the luminous opening or an axis through an array of LEDs or a fixing spigot entry axis.
     type: intensional
-  - content: The tilt during measurement is expressed in radian (rad) or degree (°).
+  - content: The tilt during measurement is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered 17-1316 in CIE S 017:2011.
     type: intensional

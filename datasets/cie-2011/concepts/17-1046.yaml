@@ -26,15 +26,15 @@ data:
   notes:
   - content: 'This can be expressed by the equation
 
-      stem:[r]= stem:[q] (cosstem:[ε])^3^
+      stem:[r]= stem:[q] (cosstem:[epsilon])^3^
 
       where
 
       stem:[q] is the luminance coefficient in sr^-1^;
 
-      stem:[ε] is the angle of incidence in °.'
+      stem:[epsilon] is the angle of incidence in stem:[deg].'
     type: intensional
-  - content: The angle of observation, stem:[α], affects the value of stem:[r]. By convention this angle is fixed at 1° for road lighting calculations.
+  - content: The angle of observation, stem:[alpha], affects the value of stem:[r]. By convention this angle is fixed at 1stem:[deg] for road lighting calculations.
     type: intensional
   sources:
   - origin:

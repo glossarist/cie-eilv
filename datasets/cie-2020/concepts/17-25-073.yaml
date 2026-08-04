@@ -37,7 +37,7 @@ data:
   - content: 'detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
 
 
-      stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
+      stem:[D * = D ( A Delta f )^{1 // 2} = Phi_m^{- 1} ( A Delta f )^{1 // 2}]
 
 
       where stem:[Phi_m] is noise equivalent power'

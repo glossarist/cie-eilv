@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-087
   domains:
@@ -16,9 +15,7 @@ id: 20907b57-8c11-504f-9711-dc2da4ee1e0f
 ---
 data:
   definition:
-  - content: potential for erythema of the skin resulting from {{concept:cie-2020:17-21-002,
-      optical radiation}} exposure at wavelengths primarily between generally 250 nm
-      and 400 nm
+  - content: potential for erythema of the skin resulting from {{concept:cie-2020:17-21-002, optical radiation}} exposure at wavelengths primarily between generally 250 nm and 400 nm
     type: intensional
   examples: []
   notes: []

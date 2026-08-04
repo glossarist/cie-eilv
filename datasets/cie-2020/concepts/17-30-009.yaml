@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-009
   domains:
@@ -20,18 +19,18 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: |-
-      The luminaire can:
+  - content: 'The luminaire can:
 
-      – be permanently fixed, or
 
-      – be temporarily fixed on a construction or stand, or
+      stem:[-] be permanently fixed, or
 
-      – incorporate an integral stand or handle.
+
+      stem:[-] be temporarily fixed on a construction or stand, or
+
+
+      stem:[-] incorporate an integral stand or handle.'
     type: intensional
-  - content: Rough service luminaires are for use where normally rough circumstances
-      occur, or where temporary lighting is required, for example on building sites,
-      in engineering workshops and for similar applications.
+  - content: Rough service luminaires are for use where normally rough circumstances occur, or where temporary lighting is required, for example on building sites, in engineering workshops and for similar applications.
     type: intensional
   sources:
   - origin:

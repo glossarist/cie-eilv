@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-087
   domains:
@@ -21,8 +20,7 @@ id: b501a832-a791-5033-aa39-e30977927aac
 ---
 data:
   definition:
-  - content: total angle within which the illuminance on a plane normal to the axis
-      of a beam exceeds 10 % of the maximum illuminance
+  - content: total angle within which the illuminance on a plane normal to the axis of a beam exceeds 10 % of the maximum illuminance
     type: intensional
   examples: []
   notes:

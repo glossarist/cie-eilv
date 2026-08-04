@@ -20,11 +20,11 @@ id: 37184a5b-a5cf-5ac1-a7e8-5fcda48f3d5a
 ---
 data:
   definition:
-  - content: angle that the first axis of the luminaire makes with the nadir of the luminaire, when the tilt during measurement is 0°
+  - content: angle that the first axis of the luminaire makes with the nadir of the luminaire, when the tilt during measurement is 0stem:[deg]
     type: intensional
   examples: []
   notes:
-  - content: The rotation is expressed in radian (rad) or degree (°).
+  - content: The rotation is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered 17-1123 in CIE S 017:2011.
     type: intensional

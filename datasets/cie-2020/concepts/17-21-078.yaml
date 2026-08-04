@@ -20,14 +20,14 @@ id: bf36ac72-30a4-5b33-8867-408cb38c39ee
 ---
 data:
   definition:
-  - content: 'time integral of cylindrical illuminance, stem:[E_(v,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of cylindrical illuminance, stem:[E_{v,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
-      stem:[H_((v,c)) = underset((Delta t))( int ) E_(v,c) d t]'
+      stem:[H_{(v,c)} = underset((Delta t))( int ) E_{v,c} d t]'
     type: intensional
   examples: []
   notes:
-  - content: The luminous cylindrical exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
+  - content: The luminous cylindrical exposure is expressed in lux second (lxcdots = lmcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-728 in CIE S 017:2011.
     type: intensional
@@ -47,7 +47,7 @@ data:
     designation: luminous cylindrical exposure
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(v,c)]
+    designation: stem:[H_{v,c}]
   language_code: eng
   annotations: []
 termid: 17-21-078

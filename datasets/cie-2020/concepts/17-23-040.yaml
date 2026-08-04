@@ -36,7 +36,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The reference stimuli are represented as [R], [G] and [B] in which case the sign "-=", read as "matches" should be used. As an alternative, the colour equation can be written using boldface Roman letters when the equal sign "&equals;", read as "equals" should be used: *C* = stem:[X]*X* + stem:[Y]*Y* + stem:[Z]*Z*'
+  - content: 'The reference stimuli are represented as [R], [G] and [B] in which case the sign "-=", read as "matches" should be used. As an alternative, the colour equation can be written using boldface Roman letters when the equal sign "&equals;", read as "equals" should be used: *C* = stem:[X]*X* + stem:[Y]*Y* + stem:[Z]*Z*'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-24, 845-03-24}} in IEC 60050-845:1987.
     type: intensional

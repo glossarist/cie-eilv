@@ -34,7 +34,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
+  - content: 'Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
 
 
       stem:[g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G]

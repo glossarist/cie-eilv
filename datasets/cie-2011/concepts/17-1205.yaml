@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-1205
   domains:
@@ -21,8 +20,7 @@ id: 1554ef2c-eb90-5a8e-b4c4-8ea936d26aaa
 ---
 data:
   definition:
-  - content: lighting device with a specified half-peak divergence less than 1,74 rad
-      (100°) and with a specified total divergence
+  - content: lighting device with a specified half-peak divergence less than 1,74 rad (100stem:[deg]) and with a specified total divergence
     type: intensional
   examples: []
   notes: []

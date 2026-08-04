@@ -27,14 +27,14 @@ id: a4e41c4f-0229-58ab-8a56-0c1176d4bb7c
 ---
 data:
   definition:
-  - content: 'time integral of the cylindrical irradiance, stem:[E_(e,c)], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of the cylindrical irradiance, stem:[E_{e,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
-      stem:[H_((e,c)) = underset((Delta t))( int ) E_(e,c) d t]'
+      stem:[H_{(e,c)} = underset((Delta t))( int ) E_{e,c} d t]'
     type: intensional
   examples: []
   notes:
-  - content: The radiant cylindrical exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
+  - content: The radiant cylindrical exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-46, 845-01-46}} in IEC 60050-845:1987.
     type: intensional
@@ -68,7 +68,7 @@ data:
     designation: radiant cylindrical exposure
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(e,c)]
+    designation: stem:[H_{e,c}]
   language_code: eng
   annotations: []
 termid: 17-21-077

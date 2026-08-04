@@ -47,11 +47,11 @@ data:
   notes:
   - content: The value of the refractive index can depend on the {{cite:IEV:103-06-02, frequency}}, polarization, and direction.
     type: intensional
-  - content: The refractive index is expressed by stem:[n] = stem:[c_0]/stem:[c,] where stem:[c_0] is the speed of light in vacuum and stem:[c] is the speed of light in the medium.
+  - content: The refractive index is expressed by stem:[n] = stem:[c_0]/stem:[c,] where stem:[c_0] is the speed of light in vacuum and stem:[c] is the speed of light in the medium.
     type: intensional
   - content: See also "{{concept:cie-2020:17-24-111, complex refractive index}}.
     type: intensional
-  - content: The refractivity is expressed by stem:[n] - 1, where stem:[n] is refractive index.
+  - content: The refractivity is expressed by stem:[n] - 1, where stem:[n] is refractive index.
     type: intensional
   - content: The refractive index has unit one.
     type: intensional

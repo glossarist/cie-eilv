@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-002
   domains:
@@ -34,8 +33,7 @@ data:
   notes:
   - content: See also "{{concept:cie-2020:17-29-003, illuminating engineering}}".
     type: intensional
-  - content: In French, the term “éclairagisme” has a different meaning in engineering
-      (see {{concept:cie-2020:17-29-003, IEV 845-29-003}}).
+  - content: In French, the term "éclairagisme" has a different meaning in engineering (see {{concept:cie-2020:17-29-003, IEV 845-29-003}}).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-02, 845-09-02}} in IEC 60050-845:1987.
     type: intensional

@@ -31,7 +31,7 @@ data:
   - content: 'The photon spherical irradiance can be expressed by
 
 
-      stem:[E_((p ,o)) = underset((4 pi))( int ) L_p d omega]
+      stem:[E_{(p ,o)} = underset((4 pi))( int ) L_p d omega]
 
 
       where stem:[Omega] is solid angle and stem:[L_p] is photon radiance.'

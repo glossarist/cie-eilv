@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: The tilt in application is the actual tilt of the luminaire when it is mounted for field use and should not be confused with "tilt normal in application" or "designed attitude" (see CIE 121, _The Photometry and Goniophotometry of Luminaires_).
     type: intensional
-  - content: The tilt in application is expressed in radian (rad) or degree (°).
+  - content: The tilt in application is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
   - content: This entry was numbered 17-1317 in CIE S 017:2011.
     type: intensional

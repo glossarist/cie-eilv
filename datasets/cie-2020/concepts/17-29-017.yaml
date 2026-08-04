@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-017
   domains:
@@ -28,9 +27,7 @@ id: afb37ad4-ed15-57e3-8589-d41527078f6c
 ---
 data:
   definition:
-  - content: lighting by means of luminaires having a distribution of luminous intensity
-      such that the fraction of the emitted luminous flux directly reaching the working
-      plane, assumed to be of infinite extent, is 10 % to 40 %
+  - content: lighting by means of luminaires having a distribution of luminous intensity such that the fraction of the emitted luminous flux directly reaching the working plane, assumed to be of infinite extent, is 10 % to 40 %
     type: intensional
   examples: []
   notes:

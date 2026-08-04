@@ -30,7 +30,7 @@ data:
   - content: 'quotient of the {{concept:cie-2020:17-21-029, spectral distribution}}, stem:[Xlambda](stem:[lambda]), of a radiant, luminous or photon quantity, stem:[X](stem:[lambda]), and a fixed reference value, stem:[R], which can be an average value, a maximum value or an arbitrarily chosen value of this distribution
 
 
-      stem:[S ( lambda ) = ((X_(lambda) ( lambda )))/(R)]'
+      stem:[S ( lambda ) = ((X_{lambda} ( lambda )))/(R)]'
     type: intensional
   examples: []
   notes:

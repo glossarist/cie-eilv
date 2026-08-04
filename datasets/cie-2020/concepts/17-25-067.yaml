@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-067
   domains:
@@ -28,14 +27,11 @@ id: 8e74c963-567b-5c57-b72b-ad8fb806757b
 ---
 data:
   definition:
-  - content: time required for a detector output to rise from a stated low percentage
-      to a stated high percentage of the maximum value when a steady input is instantaneously
-      applied
+  - content: time required for a detector output to rise from a stated low percentage to a stated high percentage of the maximum value when a steady input is instantaneously applied
     type: intensional
   examples: []
   notes:
-  - content: A value of 10 % is usually considered to be the low percentage value,
-      whereas a value of 90 % is usually considered to be the high percentage value.
+  - content: A value of 10 % is usually considered to be the low percentage value, whereas a value of 90 % is usually considered to be the high percentage value.
     type: intensional
   - content: The rise time is expressed in seconds (s).
     type: intensional
@@ -73,4 +69,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-25-067
-id: '0352187c-b07c-5808-ada7-ba286e5899dd'
+id: 0352187c-b07c-5808-ada7-ba286e5899dd

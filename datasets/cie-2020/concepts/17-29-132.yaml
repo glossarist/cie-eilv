@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The global horizontal illuminance is expressed in lux (lx = lmcdotm^-2^).
+  - content: The global horizontal illuminance is expressed in lux (lx = lmcdotm^-2^).
     type: intensional
   - content: This entry was numbered 17-495 in CIE S 017:2011.
     type: intensional
@@ -44,7 +44,7 @@ data:
     designation: global horizontal illuminance
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,g)]
+    designation: stem:[E_{v,g}]
   language_code: eng
   annotations: []
 termid: 17-29-132

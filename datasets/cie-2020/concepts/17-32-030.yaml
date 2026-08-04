@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-030
   domains:
@@ -21,14 +20,11 @@ id: 6f81e519-2faa-5097-af3d-6c0436a302f0
 ---
 data:
   definition:
-  - content: point in a chromaticity diagram that represents the colour of the addition
-      of 100 % of the three display primaries measured in a direction perpendicular
-      to the display faceplate
+  - content: point in a chromaticity diagram that represents the colour of the addition of 100 % of the three display primaries measured in a direction perpendicular to the display faceplate
     type: intensional
   examples: []
   notes:
-  - content: Some displays incorporate more than three display primaries and in those
-      cases, the manufacturer of the display decides how to create the white point.
+  - content: Some displays incorporate more than three display primaries and in those cases, the manufacturer of the display decides how to create the white point.
     type: intensional
   - content: This entry was numbered 17-1433 in CIE S 017:2011.
     type: intensional

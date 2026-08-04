@@ -31,7 +31,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r] + stem:[rho_d].'
     type: intensional
   - content: The regular reflectance has unit one.
     type: intensional

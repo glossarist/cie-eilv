@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-111
   domains:
@@ -16,12 +15,11 @@ id: c2a820f5-c331-5191-8b00-9381c44dea2c
 ---
 data:
   definition:
-  - content: ambient temperature related to the performance of a light source or a
-      luminaire with a light source
+  - content: ambient temperature related to the performance of a light source or a luminaire with a light source
     type: intensional
   examples: []
   notes:
-  - content: Ambient performance temperature is expressed in degree Celsius (°C).
+  - content: Ambient performance temperature is expressed in degree Celsius (stem:[deg]C).
     type: intensional
   sources:
   - origin:

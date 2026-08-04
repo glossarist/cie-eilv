@@ -20,10 +20,10 @@ id: d4153f5f-0b5c-5c88-ac0b-1b9e061056e2
 ---
 data:
   definition:
-  - content: 'arithmetic mean of the vertical illuminances, stem:[E_(v,v)], at a point in the range of azimuth angles stem:[- (pi)/(2) <= phi <= (pi)/(2)]
+  - content: 'arithmetic mean of the vertical illuminances, stem:[E_{v,v}], at a point in the range of azimuth angles stem:[- (pi)/(2) <= phi <= (pi)/(2)]
 
 
-      stem:[E_((v ,sc)) = (1)/(pi) int_((- (pi)/(2)))^(((pi)/(2))) E_((v ,v)) d phi]'
+      stem:[E_{(v ,sc)} = (1)/(pi) int_{(- (pi)/(2))}^{((pi)/(2))} E_{(v ,v)} d phi]'
     type: intensional
   examples: []
   notes: []
@@ -38,7 +38,7 @@ data:
     designation: semi-cylindrical illuminance (at a point)
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_(v,sc)]
+    designation: stem:[E_{v,sc}]
   - type: symbol
     normative_status: preferred
     designation: stem:[E_sc]

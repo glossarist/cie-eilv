@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The use of the unqualified term "quantum efficiency" (stem:[η]) always implies external quantum efficiency.
+  - content: The use of the unqualified term "quantum efficiency" (stem:[eta]) always implies external quantum efficiency.
     type: intensional
   sources:
   - origin:
@@ -40,7 +40,7 @@ data:
     designation: quantum efficiency, <of a detector>
   - type: symbol
     normative_status: preferred
-    designation: stem:[η_e]; stem:[η]
+    designation: stem:[stem:[eta]_e]; stem:[stem:[eta]]
   language_code: eng
   annotations: []
 termid: 17-421

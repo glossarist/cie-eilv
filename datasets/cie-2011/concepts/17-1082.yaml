@@ -20,22 +20,22 @@ id: ead96965-6460-5bc0-8df0-797c49250622
 ---
 data:
   definition:
-  - content: 'quotient of the optical thickness of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0°), of the atmosphere
+  - content: 'quotient of the optical thickness of the atmosphere at angle stem:[epsilon] to the vertical, stem:[delta](stem:[epsilon]), and the vertical optical thickness, stem:[delta](0stem:[deg]), of the atmosphere
 
 
-      stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]'
+      stem:[m = ((delta ( epsilon )))/((delta ( 0 deg )))]'
     type: intensional
   examples: []
   notes:
   - content: See also "optical thickness".
     type: intensional
-  - content: 'Several equations are available to express this concept. Usually the Kasten–Young formula is used:
+  - content: 'Several equations are available to express this concept. Usually the Kastenstem:[-]Young formula is used:
 
 
-      stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(- 1 , 636 4)))]
+      stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^{- 1 , 636 4}))]
 
 
-      where stem:[gamma_s] (= 90° - stem:[epsilon]) is solar altitude (complementary angle of zenith angle, stem:[epsilon]) in degree.'
+      where stem:[gamma_s] (= 90stem:[deg] - stem:[epsilon]) is solar altitude (complementary angle of zenith angle, stem:[epsilon]) in degree.'
     type: intensional
   - content: 'When the curvature of the atmosphere and atmospheric refraction are neglected:
 

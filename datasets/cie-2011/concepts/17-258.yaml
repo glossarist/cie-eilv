@@ -20,11 +20,11 @@ id: c8a00c69-7848-5109-9956-052a629d4632
 ---
 data:
   definition:
-  - content: temperature of a Planckian radiator having the chromaticity nearest the chromaticity associated with the given spectral distribution on a modified 1976 UCS diagram where stem:[u^( ' ) , (2)/(3) v^( ' )] are the coordinates of the Planckian locus and the test stimulus
+  - content: temperature of a Planckian radiator having the chromaticity nearest the chromaticity associated with the given spectral distribution on a modified 1976 UCS diagram where stem:[u^{ ' } , (2)/(3) v^{ ' }] are the coordinates of the Planckian locus and the test stimulus
     type: intensional
   examples: []
   notes:
-  - content: The concept of correlated colour temperature should not be used if the chromaticity of the test source differs more than stem:[Delta C = ( u^( ' )_t - u^( ' )_p )^2 + (4)/(9) ( v^( ' )_t - v^( ' )_p )^2^((1)/(2)) = 5 xx 10^(- 2)] from the Planckian radiator, where stem:[u^( ' )_t , v^( ' )_t] refer to the test source, and stem:[u^( ' )_p , v^( ' )_p] to the Planckian radiator.
+  - content: The concept of correlated colour temperature should not be used if the chromaticity of the test source differs more than stem:[Delta C = ( u^{ ' }_t - u^{ ' }_p )^2 + (4)/(9) ( v^{ ' }_t - v^{ ' }_p )^2^{(1)/(2)} = 5 xx 10^{- 2}] from the Planckian radiator, where stem:[u^{ ' }_t , v^{ ' }_t] refer to the test source, and stem:[u^{ ' }_p , v^{ ' }_p] to the Planckian radiator.
     type: intensional
   - content: Correlated colour temperature can be calculated by a simple minimum search computer program that searches for that Planckian temperature that provides the smallest chromaticity difference between the test chromaticity and the Planckian locus, or for example by a method recommended by Robertson, A.R. "Computation of correlated color temperature and distribution temperature", _J. Opt. Soc. Am_. *58*, 1528-1535, 1968. (Note that the values in some of the tables in this reference are not up to date.)
     type: intensional

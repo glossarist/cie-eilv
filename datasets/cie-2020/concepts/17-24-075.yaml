@@ -27,20 +27,20 @@ id: f3e23620-88b0-5333-a813-d9088f7fad8b
 ---
 data:
   definition:
-  - content: 'quotient of the radiance of a surface element in a specified direction, stem:[L_(e,n)], and the radiance of the perfect reflecting diffuser or perfect transmitting diffuser identically irradiated and viewed, stem:[L_(e,d)]
+  - content: 'quotient of the radiance of a surface element in a specified direction, stem:[L_{e,n}], and the radiance of the perfect reflecting diffuser or perfect transmitting diffuser identically irradiated and viewed, stem:[L_{e,d}]
 
 
-      stem:[beta_e = ((L_((e ,n))))/((L_((e ,d))))]'
+      stem:[beta_e = ((L_{(e ,n)}))/((L_{(e ,d)}))]'
     type: intensional
   examples: []
   notes:
   - content: The definition holds for a surface element of a non-self-radiating medium, in a specified direction and under specified conditions of irradiation.
     type: intensional
-  - content: Radiance factor is equivalent to reflectance factor or luminance factor when the cone angle is infinitely small, and is equivalent to reflectance when the cone angle is 2stem:[pi] sr. These quantities are also defined spectrally and called spectral radiance factor, stem:[beta](stem:[lambda]), and spectral reflectance factor, stem:[R](stem:[lambda]).
+  - content: Radiance factor is equivalent to reflectance factor or luminance factor when the cone angle is infinitely small, and is equivalent to reflectance when the cone angle is 2stem:[pi] sr. These quantities are also defined spectrally and called spectral radiance factor, stem:[beta](stem:[lambda]), and spectral reflectance factor, stem:[R](stem:[lambda]).
     type: intensional
   - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance equal to 1 is called a "perfect diffuser".
     type: intensional
-  - content: 'For photoluminescent media, the radiance factor contains two components, the reflected radiance factor, stem:[beta_R], and the luminescent radiance factor, stem:[beta_(L.)] The sum of reflected radiance factor and luminescent radiance factor is the total radiance factor, stem:[beta_T]: stem:[beta_T] = stem:[beta_R] + stem:[beta_L].
+  - content: 'For photoluminescent media, the radiance factor contains two components, the reflected radiance factor, stem:[beta_R], and the luminescent radiance factor, stem:[beta_{L.}] The sum of reflected radiance factor and luminescent radiance factor is the total radiance factor, stem:[beta_T]: stem:[beta_T] = stem:[beta_R] + stem:[beta_L].
 
 
       The subscript R is used here for the reflected radiance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.'

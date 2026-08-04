@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-047
   domains:
@@ -28,21 +27,15 @@ id: 94f3aa63-ab65-5db0-a1f1-53565ab6ae58
 ---
 data:
   definition:
-  - content: functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda
-      )] in the CIE 1931 standard colorimetric system or stem:[bar x_((10)) ( lambda
-      ) , bar y_((10)) ( lambda ) , bar z_((10)) ( lambda )] in the CIE 1964 standard
-      colorimetric system
+  - content: functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] in the CIE 1931 standard colorimetric system or stem:[bar x_{(10)} ( lambda ) , bar y_{(10)} ( lambda ) , bar z_{(10)} ( lambda )] in the CIE 1964 standard colorimetric system
     type: intensional
   examples: []
   notes:
-  - content: See also "{{concept:cie-2020:17-23-048, CIE standard colorimetric observer}}",
-      "{{concept:cie-2020:17-23-049, CIE 1931 standard colorimetric observer}}" and
-      "{{concept:cie-2020:17-23-050, CIE 1964 standard colorimetric observer}}".
+  - content: See also "{{concept:cie-2020:17-23-048, CIE standard colorimetric observer}}", "{{concept:cie-2020:17-23-049, CIE 1931 standard colorimetric observer}}" and "{{concept:cie-2020:17-23-050, CIE 1964 standard colorimetric observer}}".
     type: intensional
   - content: See also CIE 15, stem:[Colorimetry].
     type: intensional
-  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers_.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry stem:[-] Part 1: CIE Standard Colorimetric Observers_.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-30, 845-03-30}} in IEC 60050-845:1987.
     type: intensional

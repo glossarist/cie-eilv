@@ -37,7 +37,7 @@ data:
     designation: photobiological fluence (at a point, for a given exposure duration)
   - type: symbol
     normative_status: preferred
-    designation: stem:[H_(eff,o)]
+    designation: stem:[H_{eff,o}]
   - type: symbol
     normative_status: preferred
     designation: stem:[H_eff,o]

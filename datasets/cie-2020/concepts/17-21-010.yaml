@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-010
   domains:
@@ -21,8 +20,7 @@ id: 12a16739-ff2b-55db-8f17-a0670ff6889f
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-21-008, ultraviolet radiation}} covering the range
-      from 280 nm to 315 nm"
+  - content: '{{concept:cie-2020:17-21-008, ultraviolet radiation}} covering the range from 280 nm to 315 nm'
     type: intensional
   examples: []
   notes:

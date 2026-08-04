@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The wavelength range for the blue light hazard radiance is specified in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
+  - content: The wavelength range for the blue light hazard radiance is specified in ICNIRP-recommendations as stem:[lambda] = 300 nm to stem:[lambda] = 700 nm.
     type: intensional
   - content: This definition is based on the assumption that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1.
     type: intensional

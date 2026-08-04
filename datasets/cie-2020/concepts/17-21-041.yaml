@@ -41,13 +41,13 @@ data:
   - content: 'Radiant energy can be expressed by the time integral of radiant flux, stem:[Phi_e], over a given duration, stem:[Delta t]:
 
 
-      stem:[Q_e = int_((Delta t)) Phi_e d t]'
+      stem:[Q_e = int_{(Delta t)} Phi_e d t]'
     type: intensional
   - content: Radiant energy is expressed as a function of wavelength, stem:[lambda], as a function of {{cite:IEV:103-06-02, frequency}}, stem:[nu], or as a function of {{concept:cie-2020:17-21-026, wavenumber}}, stem:[sigma].
     type: intensional
   - content: The corresponding photometric quantity is "{{concept:cie-2020:17-21-037, luminous energy}}". The corresponding quantity for photons is "photon energy".
     type: intensional
-  - content: The radiant energy is expressed in joule (J = Wcdots).
+  - content: The radiant energy is expressed in joule (J = Wcdots).
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-27, 845-01-27}} in IEC 60050-845:1987.
     type: intensional

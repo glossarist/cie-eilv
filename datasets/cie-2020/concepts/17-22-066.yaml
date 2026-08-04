@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-066
   domains:
@@ -28,14 +27,11 @@ id: ccb073e7-5d81-59c5-a24f-820fd4ae706b
 ---
 data:
   definition:
-  - content: change in brightness of perceived colour, produced by increasing the
-      purity of a colour stimulus while keeping its luminance constant within the
-      range of photopic vision
+  - content: change in brightness of perceived colour, produced by increasing the purity of a colour stimulus while keeping its luminance constant within the range of photopic vision
     type: intensional
   examples: []
   notes:
-  - content: For related colours, a change in lightness can also occur when the purity
-      is increased while keeping the luminance factor of the colour stimulus constant.
+  - content: For related colours, a change in lightness can also occur when the purity is increased while keeping the luminance factor of the colour stimulus constant.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-34, 845-02-34}} in IEC 60050-845:1987.
     type: intensional
@@ -66,7 +62,7 @@ data:
   terms:
   - type: expression
     normative_status: preferred
-    designation: Helmholtz–Kohlrausch phenomenon
+    designation: Helmholtzstem:[-]Kohlrausch phenomenon
   language_code: eng
   annotations: []
 termid: 17-22-066

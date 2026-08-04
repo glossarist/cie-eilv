@@ -36,7 +36,7 @@ data:
   notes:
   - content: The absorptance is also defined spectrally in terms of wavelength, in which case, "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[rho] is reflectance and stem:[tau] is transmittance.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[rho] is reflectance and stem:[tau] is transmittance.
     type: intensional
   - content: The absorptance has unit one.
     type: intensional

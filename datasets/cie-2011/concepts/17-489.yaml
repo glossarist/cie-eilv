@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For a beam propagating through successive non-diffusing media, the quantity stem:[Gn^(2)] , where stem:[n] is the refractive index, is invariant. That quantity is called “optical extent”.
+  - content: For a beam propagating through successive non-diffusing media, the quantity stem:[Gn^{2}] , where stem:[n] is the refractive index, is invariant. That quantity is called "optical extent".
     type: intensional
   sources:
   - origin:

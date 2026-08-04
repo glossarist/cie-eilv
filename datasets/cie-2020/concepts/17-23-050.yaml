@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-050
   domains:
@@ -21,14 +20,11 @@ id: 3230b83f-b3bc-555b-8806-9d6bb90804a7
 ---
 data:
   definition:
-  - content: ideal observer whose colour-matching properties correspond to the {{concept:cie-2020:17-23-047,
-      CIE colour-matching functions}} stem:[bar x_((10)) ( lambda ) , bar y_((10))
-      ( lambda ) , bar z_((10)) ( lambda )] adopted by the CIE in 1964
+  - content: ideal observer whose colour-matching properties correspond to the {{concept:cie-2020:17-23-047, CIE colour-matching functions}} stem:[bar x_{(10)} ( lambda ) , bar y_{(10)} ( lambda ) , bar z_{(10)} ( lambda )] adopted by the CIE in 1964
     type: intensional
   examples: []
   notes:
-  - content: 'See also ISO/CIE 11664-1, _Colorimetry – Part 1: CIE Standard Colorimetric
-      Observers_.'
+  - content: 'See also ISO/CIE 11664-1, _Colorimetry stem:[-] Part 1: CIE Standard Colorimetric Observers_.'
     type: intensional
   - content: This entry was numbered 17-151 in CIE S 017:2011.
     type: intensional

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-961
   domains:
@@ -21,11 +20,7 @@ id: b9fc168b-c30f-5e5e-b8c6-072fa1398adc
 ---
 data:
   definition:
-  - content: type of flat panel display common to large television displays (81 cm
-      or larger) consisting of a matrix of pixels between two glass plates holding
-      an inert mixture of noble gases that can be turned into a plasma by applying
-      a voltage across the cell such that the plasma starts emitting electrons, which
-      then excite phosphors to emit light and create a colour image
+  - content: type of flat panel display common to large television displays (81 cm or larger) consisting of a matrix of pixels between two glass plates holding an inert mixture of noble gases that can be turned into a plasma by applying a voltage across the cell such that the plasma starts emitting electrons, which then excite phosphors to emit light and create a colour image
     type: intensional
   examples: []
   notes: []

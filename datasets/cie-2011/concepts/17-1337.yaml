@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Transmittance, stem:[τ], is the sum of regular transmittance, stem:[τ_r], and diffuse transmittance, stem:[τ_d]: stem:[τ] = stem:[τ_r] + stem:[τ_d].'
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   sources:
   - origin:
@@ -43,7 +43,7 @@ data:
     designation: stem:[tau]
   - type: symbol
     normative_status: preferred
-    designation: stem:[τ]
+    designation: stem:[stem:[tau]]
   language_code: eng
   annotations: []
 termid: 17-1337

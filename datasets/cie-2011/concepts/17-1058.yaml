@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Reflectance, stem:[ρ], is the sum of regular reflectance, stem:[ρ_r], and diffuse reflectance, stem:[ρ_d]: stem:[ρ] = stem:[ρ_r]+ stem:[ρ_d].'
+  - content: 'Reflectance, stem:[rho], is the sum of regular reflectance, stem:[rho_r], and diffuse reflectance, stem:[rho_d]: stem:[rho] = stem:[rho_r]+ stem:[rho_d].'
     type: intensional
   sources:
   - origin:
@@ -43,7 +43,7 @@ data:
     designation: stem:[rho]
   - type: symbol
     normative_status: preferred
-    designation: stem:[ρ]
+    designation: stem:[stem:[rho]]
   language_code: eng
   annotations: []
 termid: 17-1058

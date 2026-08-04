@@ -20,14 +20,14 @@ id: 7f70ab70-3f55-56a8-9de6-25c987f825e7
 ---
 data:
   definition:
-  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_(v,n)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_(v,d)]
+  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_{v,n}], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_{v,d}]
 
 
-      stem:[beta_v = ((L_((v ,n))))/((L_((v ,d))))]'
+      stem:[beta_v = ((L_{(v ,n)}))/((L_{(v ,d)}))]'
     type: intensional
   examples: []
   notes:
-  - content: 'For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, stem:[β_v,R], and the luminescent luminance factor, stem:[β_v,L]. The sum of the reflected and luminescent luminance factors is the total luminance factor, stem:[β_v,T]: stem:[β_v,T]= stem:[β_v,R]+ stem:[β_v,L].
+  - content: 'For photoluminescent media, the luminance factor consists of 2 components: the reflected luminance factor, stem:[beta_v,R], and the luminescent luminance factor, stem:[beta_v,L]. The sum of the reflected and luminescent luminance factors is the total luminance factor, stem:[beta_v,T]: stem:[beta_v,T]= stem:[beta_v,R]+ stem:[beta_v,L].
 
       The subscript R is used here for the reflected luminance factor because it is more intuitive than the traditional S and avoids confusion with the use of S to denote a state of polarization.'
     type: intensional
@@ -45,7 +45,7 @@ data:
     designation: stem:[beta]v; stem:[beta]
   - type: symbol
     normative_status: preferred
-    designation: stem:[β_v]
+    designation: stem:[stem:[beta]_v]
   language_code: eng
   annotations: []
 termid: 17-717

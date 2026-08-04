@@ -36,9 +36,9 @@ data:
   notes:
   - content: Transmittance is also defined spectrally in terms of wavelength, in which case "spectral" is added before the quantity name.
     type: intensional
-  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[alpha] is absorptance and stem:[rho] is reflectance.
+  - content: Due to energy conservation, stem:[alpha] + stem:[rho] + stem:[tau] = 1 except when {{concept:cie-2020:17-21-017, polarized radiation}} is observed, where stem:[alpha] is absorptance and stem:[rho] is reflectance.
     type: intensional
-  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
+  - content: 'Transmittance, stem:[tau], is the sum of regular transmittance, stem:[tau_r], and diffuse transmittance, stem:[tau_d]: stem:[tau] = stem:[tau_r] + stem:[tau_d].'
     type: intensional
   - content: The transmittance has unit one.
     type: intensional
