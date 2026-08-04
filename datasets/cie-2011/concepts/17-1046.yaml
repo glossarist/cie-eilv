@@ -26,11 +26,11 @@ data:
   notes:
   - content: 'This can be expressed by the equation
 
-      stem:[r]= stem:[q] (cosstem:[epsilon])^3^
+      stem:[r]= stem:[q] (cosstem:[epsilon])stem:[^{3}]
 
-      where
+      stem:[where]
 
-      stem:[q] is the luminance coefficient in sr^-1^;
+      stem:[q] stem:[is] stem:[the] stem:[luminance] stem:[coefficient] stem:[in] stem:[sr^(-1)];
 
       stem:[epsilon] is the angle of incidence in stem:[deg].'
     type: intensional

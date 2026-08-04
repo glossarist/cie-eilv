@@ -47,7 +47,7 @@ data:
     type: intensional
   - content: The corresponding photometric quantity is "{{concept:cie-2020:17-21-037, luminous energy}}". The corresponding quantity for photons is "photon energy".
     type: intensional
-  - content: The radiant energy is expressed in joule (J = Wcdots).
+  - content: The radiant energy is expressed in joule stem:[J = W cdot s].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-27, 845-01-27}} in IEC 60050-845:1987.
     type: intensional

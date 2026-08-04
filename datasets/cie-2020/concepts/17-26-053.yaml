@@ -26,7 +26,7 @@ data:
   notes:
   - content: The wavelength range for ultraviolet hazard radiant exposure is specified in ICNIRP-recommendations as stem:[lambda_1] = 180 nm to stem:[lambda_2] = 400 nm.
     type: intensional
-  - content: The ultraviolet hazard radiant exposure is expressed in joule per square metre (Jcdotm^-2^).
+  - content: The ultraviolet hazard radiant exposure is expressed in joule per square metre stem:[J cdot m^(-2)].
     type: intensional
   - content: This entry was numbered 17-1362 in CIE S 017:2011.
     type: intensional

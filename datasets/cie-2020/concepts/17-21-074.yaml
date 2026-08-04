@@ -38,7 +38,7 @@ data:
     type: intensional
   - content: The radiant spherical exposure is the appropriate radiometric quantity for describing a dose for a photobiological or photochemical effect in a scattering medium (e.g. light in skin). It is also the appropriate radiometric quantity for describing the irradiation of microorganisms. The radiant spherical exposure is frequently used incorrectly as a substitute for radiant exposure.
     type: intensional
-  - content: The radiant spherical exposure is expressed in joule per square metre (Jcdotm^-2^ = Wcdotscdotm^-2^).
+  - content: The radiant spherical exposure is expressed in joule per square metre stem:[J cdot m^(-2) = W cdot s cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-45, 845-01-45}} in IEC 60050-845:1987.
     type: intensional

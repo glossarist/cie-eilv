@@ -30,7 +30,7 @@ data:
     type: intensional
   - content: It is essential to specify which actinic action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The blue light hazard radiant exposure is expressed in joule per square metre (Jcdotm^-2^).
+  - content: The blue light hazard radiant exposure is expressed in joule per square metre stem:[J cdot m^(-2)].
     type: intensional
   - content: This entry was numbered 17-101 in CIE S 017:2011.
     type: intensional

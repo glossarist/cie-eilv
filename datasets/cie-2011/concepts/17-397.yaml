@@ -20,11 +20,11 @@ id: 0d5977ea-46b1-50b8-b478-35f8831a4d75
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of frequency 540 xx 10^12^ Hz has the same brightness as the field considered under the specified photometric conditions of measurement, where the comparison field must have a specified size and shape which can be different from that of the field considered
+  - content: stem:[luminance] stem:[of] stem:[a] stem:[comparison] stem:[field] stem:[in] stem:[which] stem:[radiation] stem:[of] stem:[frequency] 540 stem:[xx] stem:[10^{12}] stem:[Hz] stem:[has] stem:[the] stem:[same] stem:[brightness] stem:[as] stem:[the] stem:[field] stem:[considered] stem:[under] stem:[the] stem:[specified] stem:[photometric] stem:[conditions] stem:[of] stem:[measurement], stem:[where] stem:[the] stem:[comparison] stem:[field] stem:[must] stem:[have] stem:[a] stem:[specified] stem:[size] stem:[and] stem:[shape] stem:[which] stem:[can] stem:[be] stem:[different] stem:[from] stem:[that] stem:[of] stem:[the] stem:[field] stem:[considered]
     type: intensional
   examples: []
   notes:
-  - content: Radiation at a frequency of 540xx10^12^ Hz has a wavelength in standard air of 555,016 nm.
+  - content: stem:[Radiation] stem:[at] stem:[a] stem:[frequency] stem:[of] 540stem:[xx]stem:[10^{12}] stem:[Hz] stem:[has] stem:[a] stem:[wavelength] stem:[in] stem:[standard] stem:[air] stem:[of] 555,016 stem:[nm].
     type: intensional
   - content: A comparison field may also be used in which the radiation has any relative spectral distribution, if the equivalent luminance of this field is known under the same conditions of measurement.
     type: intensional

@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The spectral radiance is expressed in watt per square metre per nanometre per steradian (Wcdotm^-2^cdotnm^-1^cdotsr^-1^).
+  - content: The spectral radiance is expressed in watt per square metre per nanometre per steradian stem:[W cdot m^(-2) cdot nm^(-1) cdot sr^(-1)].
     type: intensional
   - content: This entry was numbered 17-1228 in CIE S 017:2011.
     type: intensional

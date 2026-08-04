@@ -21,8 +21,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: See also "{{concept:cie-2020:17-23-077, CIE 1976 L^*^a^*^b^*^ colour
-      difference}}", "{{concept:cie-2020:17-23-075, CIE 1976 L^*^u^*^v^*^ colour difference}}".
+  - content: See also "{{concept:cie-2020:17-23-077, CIE 1976 stem:[L^* a^* b^*] colour
+      difference}}", "{{concept:cie-2020:17-23-075, CIE 1976 stem:[L^* u^* v^*] colour difference}}".
     type: intensional
   sources:
   - origin:

@@ -31,12 +31,12 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 1 lx is equal to the illuminance produced on a surface of area 1 m^2^ by a luminous flux of 1 lm uniformly distributed over that surface.
+  - content: 1 stem:[lx] stem:[is] stem:[equal] stem:[to] stem:[the] stem:[illuminance] stem:[produced] stem:[on] stem:[a] stem:[surface] stem:[of] stem:[area] 1 stem:[m^(2)] stem:[by] stem:[a] stem:[luminous] stem:[flux] stem:[of] 1 stem:[lm] stem:[uniformly] stem:[distributed] stem:[over] stem:[that] stem:[surface].
     type: intensional
-  - content: 'Non-metric, non-SI units: lumen per square foot (symbol: lmcdotft^-2^), footcandle (symbol: fc):
+  - content: 'Non-metric, non-SI units: lumen per square foot stem:[symbol: lm cdot ft^(-2)], stem:[footcandle] (stem:[symbol]: stem:[fc]):
 
 
-      1 lmcdotft^-2^ = 1 fc = 10,764 lx.'
+      1 stem:[lm cdot ft^(-2)] = 1 stem:[fc] = 10,764 stem:[lx].'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-52, 845-01-52}} in IEC 60050-845:1987.
     type: intensional

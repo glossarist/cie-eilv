@@ -52,14 +52,14 @@ data:
     type: intensional
   - content: An equivalent formula is stem:[L_p = ((d Phi_p))/((d G))], where stem:[Phi_p] is photon flux and stem:[G] is geometric extent.
     type: intensional
-  - content: 'Photon flux can be obtained by integrating photon radiance over projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega]:
+  - content: 'Photon flux can be obtained by integrating photon radiance over projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega]:
 
 
       stem:[Phi_p =  iint L_p * cos alpha d A d omega].'
     type: intensional
   - content: Since the optical extent, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_p]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic photon radiance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[Phi_p]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]cdotcos stem:[alpha], and solid angle, stem:[Omega],
+  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[Phi_p]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega],
 
 
       stem:[L_p ( x , y , vartheta , phi ) = ((del^2 Phi_p ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
@@ -69,7 +69,7 @@ data:
     type: intensional
   - content: The corresponding radiometric quantity is "radiance". The corresponding photometric quantity is "luminance".
     type: intensional
-  - content: The photon radiance is expressed in second to the power minus one per square metre per steradian (s^-1^cdotm^-2^cdotsr^-1^).
+  - content: The photon radiance is expressed in second to the power minus one per square metre per steradian stem:[s^(-1) cdot m^(-2) cdot sr^(-1)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-36, 845-01-36}} in IEC 60050-845:1987.
     type: intensional

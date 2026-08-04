@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: It is essential to specify which action spectrum is used, as the unit is the same for any action spectrum.
     type: intensional
-  - content: The erythemal irradiance is expressed in watt per square metre (Wcdotm^-2^).
+  - content: The erythemal irradiance is expressed in watt per square metre stem:[W cdot m^(-2)].
     type: intensional
   - content: This entry was numbered 17-403 in CIE S 017:2011.
     type: intensional

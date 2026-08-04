@@ -25,7 +25,7 @@ data:
   - content: 'product of the Planck constant and {{cite:IEV:103-06-02, frequency}}
 
 
-      stem:[Q_p] = stem:[h]cdotstem:[nu]
+      stem:[Q_p] = stem:[h]stem:[cdot]stem:[nu]
 
 
       where stem:[h] is the Planck constant and stem:[nu] is the frequency of the corresponding electromagnetic wave'
@@ -34,11 +34,11 @@ data:
   notes:
   - content: Photon energy can be emitted, transferred or received.
     type: intensional
-  - content: The energy of {{concept:cie-2020:17-21-014, monochromatic radiation}}, stem:[Q_{PF}], by a photon flux of photons of frequency stem:[nu] is equal to the photon number, stem:[N_p], times the photon energy (stem:[Q_{PF}] = stem:[N_p]cdotstem:[h]cdotstem:[nu]).
+  - content: The energy of {{concept:cie-2020:17-21-014, monochromatic radiation}}, stem:[Q_{PF}], by a photon flux of photons of frequency stem:[nu] is equal to the photon number, stem:[N_p], times the photon energy (stem:[Q_{PF}] = stem:[N_p]stem:[cdot]stem:[h]stem:[cdot]stem:[nu]).
     type: intensional
   - content: The corresponding radiometric quantity is "radiant energy". The corresponding photometric quantity is "{{concept:cie-2020:17-21-037, luminous energy}}".
     type: intensional
-  - content: The photon energy is expressed in joule (J = Wcdots).
+  - content: The photon energy is expressed in joule stem:[J = W cdot s].
     type: intensional
   sources:
   - origin:

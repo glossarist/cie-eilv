@@ -34,15 +34,15 @@ id: ae13402c-8ff2-50b2-90d0-afc188f7cd62
 ---
 data:
   definition:
-  - content: luminance of a comparison field in which radiation of {{cite:IEV:103-06-02, frequency}} 540 xx 10^12^ Hz has the same brightness as the field considered under the specified photometric conditions of measurement, where the comparison field must have a specified size and shape which can be different from that of the field considered
+  - content: luminance of a comparison field in which radiation of {{cite:IEV:103-06-02, frequency}} 540 stem:[xx] stem:[10^{12}] stem:[Hz] stem:[has] stem:[the] stem:[same] stem:[brightness] stem:[as] stem:[the] stem:[field] stem:[considered] stem:[under] stem:[the] stem:[specified] stem:[photometric] stem:[conditions] stem:[of] stem:[measurement], stem:[where] stem:[the] stem:[comparison] stem:[field] stem:[must] stem:[have] stem:[a] stem:[specified] stem:[size] stem:[and] stem:[shape] stem:[which] stem:[can] stem:[be] stem:[different] stem:[from] stem:[that] stem:[of] stem:[the] stem:[field] stem:[considered]
     type: intensional
   examples: []
   notes:
-  - content: Radiation at a frequency of 540 xx 10^12^ Hz has a wavelength in standard air of approximately 555,017 nm.
+  - content: stem:[Radiation] stem:[at] stem:[a] stem:[frequency] stem:[of] 540 stem:[xx] stem:[10^{12}] stem:[Hz] stem:[has] stem:[a] stem:[wavelength] stem:[in] stem:[standard] stem:[air] stem:[of] stem:[approximately] 555,017 stem:[nm].
     type: intensional
   - content: A comparison field can also be used in which the radiation has any {{concept:cie-2020:17-21-030, relative spectral distribution}}, if the equivalent luminance of this field is known under the same conditions of measurement.
     type: intensional
-  - content: The equivalent luminance is expressed in candela per square metre (cdcdotm^-2^).
+  - content: The equivalent luminance is expressed in candela per square metre stem:[cd cdot m^(-2)].
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-58, 845-01-58}} in IEC 60050-845:1987.
     type: intensional
