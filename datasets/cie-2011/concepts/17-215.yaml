@@ -33,7 +33,7 @@ data:
     type: intensional
   - content: |-
       Standard output-referred image data may become the starting point for a subsequent reproduction process. For example, sRGB standard output-referred image data are frequently considered to be the starting point for the colour re-rendering performed by a printer designed to receive sRGB image data.
-      See also "{{17-565, image state, output-referred}}"
+      See also "{{concept:cie-2011:17-565, image state, output-referred}}"
     type: intensional
   sources:
   - origin:

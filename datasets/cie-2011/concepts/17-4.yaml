@@ -38,7 +38,7 @@ data:
     designation: self-calibrating thermal detector
   - type: expression
     normative_status: admitted
-    designation: '{{17-1157, self-calibrating thermal detector}}'
+    designation: '{{concept:cie-2011:17-1157, self-calibrating thermal detector}}'
   language_code: eng
   annotations: []
 termid: 17-4

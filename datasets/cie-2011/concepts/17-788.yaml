@@ -32,7 +32,7 @@ data:
       radiation. The medium must be stated.
     type: intensional
   - content: The wavelength in standard air is normally used in photometry and radiometry.
-      See also "{{17-1426, wavelength}}".
+      See also "{{concept:cie-2011:17-1426, wavelength}}".
     type: intensional
   sources:
   - origin:

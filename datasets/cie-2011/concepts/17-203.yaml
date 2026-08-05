@@ -34,7 +34,7 @@ data:
       such as a power-law (i.e., "gamma") function or a logarithmic function. However,
       in some cases a linear colour component transfer function may be used.
     type: intensional
-  - content: For more information on "colour channels" see NOTE 2 to "{{17-227, colour
+  - content: For more information on "colour channels" see NOTE 2 to "{{concept:cie-2011:17-227, colour
       space encoding}}".
     type: intensional
   sources:

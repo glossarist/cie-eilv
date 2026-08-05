@@ -29,7 +29,7 @@ data:
   notes:
   - content: The term "spectral distribution" is to be preferred to the equivalent term "spectral concentration" when dealing with the function stem:[X]~stem:[lambda]~(stem:[lambda]) over a range of wavelengths, not at a particular wavelength.
     type: intensional
-  - content: See NOTES to "{{17-1206, spectral}}".
+  - content: See NOTES to "{{concept:cie-2011:17-1206, spectral}}".
     type: intensional
   sources:
   - origin:

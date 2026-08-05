@@ -31,7 +31,7 @@ data:
       thickness, for the transmitted light.
     type: intensional
   - content: In indoor and outdoor applications this term is used as an equivalent
-      to "{{17-1057, reference surface}}".
+      to "{{concept:cie-2011:17-1057, reference surface}}".
     type: intensional
   sources:
   - origin:

@@ -20,7 +20,7 @@ id: 4e955029-2246-511f-8a5b-0d82a2175273
 ---
 data:
   definition:
-  - content: '{{17-434, filter}} that does not alter the relative spectral distribution of the radiation'
+  - content: '{{concept:cie-2011:17-434, filter}} that does not alter the relative spectral distribution of the radiation'
     type: intensional
   examples: []
   notes: []

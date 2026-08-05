@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'CIE sources are artificial sources that represent CIE illuminants. See "{{17-168, CIE standard illuminants}}".
+  - content: 'CIE sources are artificial sources that represent CIE illuminants. See "{{concept:cie-2011:17-168, CIE standard illuminants}}".
 
       See also CIE 15 stem:[Colorimetry]
 

@@ -30,7 +30,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The {{17-87, bi-directional reflectance distribution function (at a surface element of a medium, in a given direction, for a given direction of irradiation)}} (BRDF) is similar to the above coefficient except that it is defined for directional incident radiation.
+  - content: The {{concept:cie-2011:17-87, bi-directional reflectance distribution function (at a surface element of a medium, in a given direction, for a given direction of irradiation)}} (BRDF) is similar to the above coefficient except that it is defined for directional incident radiation.
     type: intensional
   sources:
   - origin:
