@@ -23,7 +23,7 @@ data:
   - content: 'measure that expresses the attenuation of the direct illuminance when the Sun''s rays cross vertically the pure and dry atmosphere (Rayleigh atmosphere)
 
 
-      stem:[a_v = ((0,1))/((1 + 0,004 5 m))]
+      stem:[a_v = (0,1)/(1 + 0,004 5 m)]
 
 
       where stem:[m] is the relative optical air mass weighted to take account of the relative spectral transmittance characteristics of the atmosphere'

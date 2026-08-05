@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The unit of length has to be specified. If a new unit of length is used that is stem:[k] times the magnitude of the original one, then the value of stem:[tau_{i,o}](stem:[lambda]) will change to stem:[tau^{ ' }_{i ,o}^{} ( lambda ) = tau_{(i ,o)} ( lambda )^k].
+  - content: The unit of length has to be specified. If a new unit of length is used that is stem:[tau_(i,o)^'(lambda) = [tau_(i,o)(lambda)]^k] times the magnitude of the original one, then the value of stem:[tau_{i,o}](stem:[lambda]) will change to stem:[tau^{ ' }_{i ,o}^{} ( lambda ) = tau_{(i ,o)} ( lambda )^k].
     type: intensional
   - content: The spectral transmissivity has unit one.
     type: intensional

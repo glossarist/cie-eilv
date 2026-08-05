@@ -20,7 +20,7 @@ id: f6f9290a-007d-5cd0-8421-13d03fd0a3f8
 ---
 data:
   definition:
-  - content: 'density of radiance, stem:[L_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+  - content: 'density of radiance, stem:[L_(e,lambda) = ("d"L_"e"(lambda))/("d"lambda)](stem:[lambda]), with respect to wavelength, stem:[lambda]
 
 
       stem:[L_{(e , lambda)} = ((d L_e ( lambda )))/((d lambda))]'

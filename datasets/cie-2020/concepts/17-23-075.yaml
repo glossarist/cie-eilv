@@ -31,7 +31,7 @@ id: d5be5e25-1ac7-5906-9e9a-b8fb4be06e1c
 ---
 data:
   definition:
-  - content: "difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the CIE 1976 L*u*v* colour space and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_{uv}^* = ( Delta L_{}^* )^2 + ( Delta u_{}^* )^2 + ( Delta v_{}^* )^2^{1 // 2}]"
+  - content: "difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the CIE 1976 L*u*v* colour space and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_(uv)^** = [(Delta L^**)^2 + (Delta u^**)^2 + (Delta v^**)^2]^(1//2)]"
     type: intensional
   examples: []
   notes:
@@ -71,7 +71,7 @@ data:
     designation: CIE 1976 L*u*v* colour difference
   - type: symbol
     normative_status: preferred
-    designation: CIELUV colour difference
+    designation: stem:[Delta E_(uv)^**]
   language_code: eng
   annotations: []
 termid: 17-23-075

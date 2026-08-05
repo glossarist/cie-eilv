@@ -20,7 +20,7 @@ id: 5c64a5d5-b390-5e07-baae-a061329592b1
 ---
 data:
   definition:
-  - content: 'time integral of photon radiance, stem:[L_p], over a given duration, stem:[Delta t]
+  - content: 'time integral of photon radiance, stem:[L_(p,t) = int_(Delta t)L_p"d"t], over a given duration, stem:[Delta t]
 
 
       stem:[L_{(p , t)} = underset((Delta t))( int ) L_p d t]'

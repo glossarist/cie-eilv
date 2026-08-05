@@ -20,7 +20,7 @@ id: 5168ea5a-30e0-58a8-ba1e-692a0013f78c
 ---
 data:
   definition:
-  - content: 'quotient of the average radiant flux density or luminous flux density, stem:[Phi_2]/stem:[A_2] (or stem:[Phi_1]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
+  - content: 'quotient of the average radiant flux density or luminous flux density, stem:[f_(21) = Phi_2/(A_2M_1) = g/A_2]/stem:[f_(12) = Phi_1/(A_1M_2) = g/A_1] (or stem:[A_2f_(21) = g = A_1f_(12)]/stem:[A_1]), received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M_1] (or stem:[M_2]), of surface S~1~ (or S~2~)
 
 
       stem:[f_{(21)} = ((Phi_2))/((A_2 M_1)) = (g)/((A_2))]

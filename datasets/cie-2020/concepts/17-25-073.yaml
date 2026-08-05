@@ -34,7 +34,7 @@ id: ca7cdf3c-3f93-54e3-8634-451df7b8c74f
 ---
 data:
   definition:
-  - content: 'detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
+  - content: 'detectivity, stem:[D^** = D(A Delta f)^(1//2) = Phi_m^(-1)(A Delta f)^(1//2)], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, stem:[Delta f]
 
 
       stem:[D * = D ( A Delta f )^{1 // 2} = Phi_m^{- 1} ( A Delta f )^{1 // 2}]

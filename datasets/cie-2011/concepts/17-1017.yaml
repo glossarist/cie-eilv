@@ -20,7 +20,7 @@ id: c9851846-4397-5930-be60-d02d4dc1d194
 ---
 data:
   definition:
-  - content: 'time integral of the cylindrical irradiance, stem:[E_{e,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of the cylindrical irradiance, stem:[H_(e,c) = int_(Delta t) E_(e,c) "d"t], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
       stem:[H_{(e,c)} = underset((Delta t))( int ) E_{e,c} d t]'

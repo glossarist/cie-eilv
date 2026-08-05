@@ -24,7 +24,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This quantity is the quotient of the radiant flux of all the radiation incident on the outer surface of an infinitely small sphere centred at the given point, by the area of the diametrical cross-section of that sphere.
+  - content: 'This quantity is the quotient of the radiant flux of all the radiation incident on the outer surface of an infinitely small sphere centred at the given point, by the area of the diametrical cross-section of that sphere.
+
+
+      stem:[E_(e,o) = int_(4 pi) L_e "d" Omega]'
     type: intensional
   - content: The analogous quantities "spherical illuminance", stem:[E_v,o], and "photon spherical irradiance" (also termed "photon fluence rate"), stem:[E_p,o], are defined in a similar way, replacing radiance, stem:[L_e], by luminance, stem:[L_v], or photon radiance, stem:[L_p].
     type: intensional

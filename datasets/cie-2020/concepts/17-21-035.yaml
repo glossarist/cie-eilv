@@ -43,7 +43,7 @@ data:
     type: intensional
   - content: Considering the discrepancies between the average human spectral luminous efficiency and the stem:[V](stem:[lambda]) function, in 1990 CIE adopted the "CIE 1988 Modified 2stem:[deg] Spectral Luminous Efficiency Function for Photopic Vision", stem:[V_M](stem:[lambda]), and recommended it for applications in visual sciences (see CIE 86-1990, _CIE 1988 2stem:[deg] Spectral Luminous Efficiency Function for Photopic Vision_).
     type: intensional
-  - content: 'Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full {{concept:cie-2020:17-21-002, optical radiation}} spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_{e,lambda}](stem:[lambda]) is expressed by
+  - content: 'Photometric quantities are calculated by integrating the product of the radiometric quantity by the spectral luminous efficiency function and then multiplying by the maximum of the stated spectral luminous efficacy function, with the integral being taken across the full {{concept:cie-2020:17-21-002, optical radiation}} spectrum. For example, for the CIE standard observer for photopic vision, the luminous flux of a source with spectral radiant flux stem:[Phi_v = K_m int_0^oo Phi_(e,lambda)(lambda) V(lambda) "d" lambda](stem:[lambda]) is expressed by
 
 
       stem:[Phi_v = K_m int_0^{oo} Phi_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]

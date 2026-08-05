@@ -15,7 +15,7 @@ id: edfdbb80-c2c0-5c17-a366-882cde8ad73f
 ---
 data:
   definition:
-  - content: 'quotient of blue light hazard weighted radiant flux and the stem:[V](stem:[lambda]) weighted radiant flux
+  - content: 'quotient of blue light hazard weighted radiant flux and the stem:[a_(B,V) = (int Phi_(e,lambda)(lambda)*B(lambda)*"d"lambda)/(int Phi_(e,lambda)(lambda)*V(lambda)*"d"lambda)](stem:[lambda]) weighted radiant flux
 
 
       stem:[a_{(B ,v)} = ((int Phi_{(e , lambda)} ( lambda ) * B ( lambda ) * d lambda))/((int Phi_{(e , lambda)} ( lambda ) * V ( lambda ) * d lambda))]
@@ -27,7 +27,7 @@ data:
   notes:
   - content: Luminous radiation refers to {{concept:cie-2020:17-21-002, optical radiation}} weighted with the CIE spectral luminous efficiency function for photopic vision, stem:[V](stem:[lambda]).
     type: intensional
-  - content: The use of this term is only reasonable if parts of the optical radiation are in the visible range and thus stem:[int Phi_{(e , lambda)} ( lambda ) * V ( lambda ) * d lambda != 0].
+  - content: The use of this term is only reasonable if parts of the optical radiation are in the visible range and thus stem:[int Phi_(e,lambda)(lambda) * V(lambda) * "d" lambda != 0].
     type: intensional
   - content: The blue light hazard factor of luminous radiation has unit one.
     type: intensional

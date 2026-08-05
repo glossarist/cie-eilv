@@ -20,7 +20,7 @@ id: 4340e56d-afe6-50b9-91f2-5388da42b5be
 ---
 data:
   definition:
-  - content: 'quotient of the radiance of a surface element in a specified direction, stem:[L_{e,n}], and the radiance of the perfect reflecting diffuser or perfect transmitting diffuser identically irradiated and viewed, stem:[L_{e,d}]
+  - content: 'quotient of the radiance of a surface element in a specified direction, stem:[beta_e = L_(e,n)/L_(e,d)], and the radiance of the perfect reflecting diffuser or perfect transmitting diffuser identically irradiated and viewed, stem:[L_{e,d}]
 
 
       stem:[beta_e = ((L_{(e ,n)}))/((L_{(e ,d)}))]'

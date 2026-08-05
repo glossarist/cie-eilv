@@ -27,7 +27,7 @@ id: 94f3aa63-ab65-5db0-a1f1-53565ab6ae58
 ---
 data:
   definition:
-  - content: functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] in the CIE 1931 standard colorimetric system or stem:[bar x_{(10)} ( lambda ) , bar y_{(10)} ( lambda ) , bar z_{(10)} ( lambda )] in the CIE 1964 standard colorimetric system
+  - content: functions stem:[bar x(lambda), bar y(lambda), bar z(lambda)] in the CIE 1931 standard colorimetric system or stem:[bar x_(10)(lambda), bar y_(10)(lambda), bar z_(10)(lambda)] in the CIE 1964 standard colorimetric system
     type: intensional
   examples: []
   notes:

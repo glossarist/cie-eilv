@@ -27,7 +27,7 @@ id: 6a7c3a34-ffd0-51eb-a380-2af482c9c7b8
 ---
 data:
   definition:
-  - content: 'quotient of reflected radiant flux, stem:[Phi_r], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of reflected radiant flux, stem:[rho = Phi_r/Phi_m], and incident radiant flux, stem:[Phi_m]
 
 
       stem:[rho = ((Phi_r))/((Phi_m))]'

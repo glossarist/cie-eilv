@@ -23,7 +23,7 @@ data:
   - content: 'density of photon flux with respect to solid angle in a specified direction
 
 
-      stem:[I_p = ((d Phi_p))/((d omega))]
+      stem:[I_p = (d Phi_p)/(d Omega)]
 
 
       where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction'

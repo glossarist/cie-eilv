@@ -23,10 +23,10 @@ data:
   - content: 'quotient of radiant energy and photon energy
 
 
-      stem:[N_p = ((Q_e))/((h nu))]
+      stem:[N_p = (Q_e) / (h v)]
 
 
-      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave'
+      where stem:[v] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave'
     type: intensional
   examples: []
   notes: []

@@ -27,7 +27,7 @@ data:
   - content: 'time integral of erythemal irradiance
 
 
-      stem:[H_{(er)} = int int E_{lambda} ( lambda , t ) s_{(er)} ( lambda ) d lambda d t]
+      stem:[H_(er) = int int E_(lambda)(lambda,t) s_(er)(lambda) "d" lambda "d" t]
 
 
       where stem:[Elambda](stem:[lambda], stem:[t]) is spectral irradiance and stem:[s_{er}](stem:[lambda]) is the erythema spectral weighting function normalized to 1 at its maximum'

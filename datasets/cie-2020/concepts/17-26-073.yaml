@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The International Global UV Index, stem:[I_{UV}], is defined by the formula:
+  - content: 'The International Global UV Index, stem:[I_(UV)=k_(er) int_(250\ "nm")^(400\ "nm") E_lambda(lambda)s_(er)(lambda)"d"lambda], is defined by the formula:
 
 
       stem:[I_{(uv)} = k_{(er)} int_{(250 nm)}^{(400 nm)} E_{lambda} ( lambda ) s_{(er)} ( lambda ) d lambda]

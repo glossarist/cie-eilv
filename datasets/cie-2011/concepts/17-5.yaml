@@ -20,7 +20,7 @@ id: 85d21584-f606-5e34-9fe0-df27ce796f77
 ---
 data:
   definition:
-  - content: 'quotient of absorbed radiant flux, stem:[Phi_a], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of absorbed radiant flux, stem:[alpha = Phi_a/Phi_m], and incident radiant flux, stem:[Phi_m]
 
 
       stem:[alpha = ((Phi_a))/((Phi_m))]'

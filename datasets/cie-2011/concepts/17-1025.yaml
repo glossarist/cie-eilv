@@ -23,7 +23,7 @@ data:
   - content: 'change in radiant energy with time
 
 
-      stem:[Phi_e = ((d Q_e))/((d t))]
+      stem:[Phi_e = ("d" Q_e)/("d" t)]
 
 
       where stem:[Q_e] is the radiant energy emitted, transferred or received, and stem:[t] is time'

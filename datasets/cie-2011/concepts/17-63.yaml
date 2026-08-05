@@ -39,10 +39,10 @@ data:
     designation: average illuminance (over a surface)
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_{v,av}]
+    designation: stem:[bar E_v]
   - type: symbol
     normative_status: preferred
-    designation: stem:[E_{v,av}]
+    designation: stem:[bar E]
   language_code: eng
   annotations: []
 termid: 17-63

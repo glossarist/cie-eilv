@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Cylindrical illuminance is sometimes also defined as the arithmetic mean of the vertical illuminance stem:[E_{v,v}] at a point
+  - content: 'Cylindrical illuminance is sometimes also defined as the arithmetic mean of the vertical illuminance stem:[E_(v,c) = 1/(2pi) int_0^(2pi) E_(v,v) "d"varphi] at a point
 
 
       stem:[E_{(v ,c)} = (1)/((2 pi)) int_0^{(2 pi)} E_{(v ,v)} d phi]

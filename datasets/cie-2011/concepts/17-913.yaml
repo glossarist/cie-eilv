@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-913
   domains:
@@ -21,9 +20,7 @@ id: 5783c204-595f-572a-b41f-d9ad4f47d7fe
 ---
 data:
   definition:
-  - content: special case of the {{17-912, photometric distance law}} where the surface
-      is perpendicular to the direction of illumination and the relationship becomes
-      stem:[E = (I)/((d^2))]
+  - content: special case of the {{17-912, photometric distance law}} where the surface is perpendicular to the direction of illumination and the relationship becomes stem:[E = I/(d^2)]
     type: intensional
   examples: []
   notes: []

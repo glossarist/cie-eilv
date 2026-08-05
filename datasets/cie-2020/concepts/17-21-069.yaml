@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Photon cylindrical irradiance is sometimes also defined as the arithmetic mean of the vertical photon irradiance, stem:[E_{p,v}], at a point
+  - content: 'Photon cylindrical irradiance is sometimes also defined as the arithmetic mean of the vertical photon irradiance, stem:[E_(p,c) = 1/(2pi) int_0^(2pi) E_(p,v) "d" varphi], at a point
 
 
       stem:[E_{(p ,c)} = (1)/((2 pi)) int_0^{(2 pi)} E_{(p ,v)} d phi]

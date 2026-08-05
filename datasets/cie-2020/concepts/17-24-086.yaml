@@ -27,7 +27,7 @@ id: b26d6215-86ce-5bde-83f3-e3a25b21215f
 ---
 data:
   definition:
-  - content: 'quotient of the {{concept:cie-2020:17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[lambda]), and the mass density, stem:[rho], of the medium
+  - content: 'quotient of the {{concept:cie-2020:17-24-083, spectral linear attenuation coefficient}}, stem:[mu_m(lambda)=(mu(lambda))/rho](stem:[lambda]), and the mass density, stem:[rho], of the medium
 
 
       stem:[mu_m ( lambda ) = ((mu ( lambda )))/((rho_{()}))]'

@@ -15,7 +15,7 @@ id: 4462242c-573e-5122-9c51-e11770a7fb10
 ---
 data:
   definition:
-  - content: 'luminous flux emitted within a specified cone angle, stem:[alpha], determined from the luminous intensity distribution, stem:[I_v](stem:[theta],stem:[phi]), of the light source
+  - content: 'luminous flux emitted within a specified cone angle, stem:[phi_(v,p,alpha) = int_(varphi=0)^(2pi) int_(theta=0)^(alpha/2) I_v(theta,varphi) sin theta "d"theta "d"varphi], determined from the luminous intensity distribution, stem:[I_v](stem:[theta],stem:[phi]), of the light source
 
 
       stem:[Phi_{(v ,p , alpha)} = int_{(phi = 0)}^{(2 pi)} int_{(theta = 0)}^{(alpha // 2)} I_v ( theta , phi ) sin theta d theta d phi]'

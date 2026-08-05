@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-111
   domains:
@@ -28,12 +27,13 @@ id: 64d92950-b169-5a51-bbb7-3f6af85ca3aa
 ---
 data:
   definition:
-  - content: |-
-      complex value where the real part is the refractive index and the imaginary part is related to the spectral absorption index
+  - content: 'complex value where the real part is the refractive index and the imaginary part is related to the spectral absorption index
 
-      stem:[hat n ( lambda ) = n ( lambda ) - i kappa ( lambda )]
 
-      where where stem:[n](stem:[lambda]) is the refractive index at wavelength stem:[lambda], stem:[kappa](stem:[lambda]) is the spectral absorption index and stem:[i = sqrt(- 1)]
+      stem:[hat n(lambda) = n(lambda)-i kappa(lambda)]
+
+
+      where where stem:[i = sqrt(-1)](stem:[lambda]) is the refractive index at wavelength stem:[lambda], stem:[kappa](stem:[lambda]) is the spectral absorption index and stem:[i = sqrt(- 1)]'
     type: intensional
   examples: []
   notes:

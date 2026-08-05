@@ -30,14 +30,14 @@ data:
   - content: 'density of photon flux with respect to solid angle in a specified direction
 
 
-      stem:[I_p = ((d Phi_p))/((d omega))]
+      stem:[I_p = (d Phi_p)/(d Omega)]
 
 
       where stem:[Phi_p] is the photon flux emitted in the given direction, and stem:[Omega] is the solid angle containing that direction'
     type: intensional
   examples: []
   notes:
-  - content: 'The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[theta], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the photon intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[Phi_p = int int_Omega I_p (vartheta, varphi) sin vartheta "d" varphi "d" vartheta], stem:[phi]), is used to determine the photon flux, stem:[Phi_p], within a certain solid angle, stem:[Omega], of a source:
 
 
       stem:[Phi_p = underset(omega)( iint ) I_p ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'

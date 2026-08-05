@@ -20,7 +20,7 @@ id: 011d1b66-9445-5ea3-a592-cd5f9fb72a95
 ---
 data:
   definition:
-  - content: 'time integral of photon spherical irradiance, stem:[E_{p,o}], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of photon spherical irradiance, stem:[H_(p,o) = int_(delta t) E_(p,o)"d"t], at a given point over a given duration, stem:[Delta t]
 
 
       stem:[H_{(p,o)} = underset((Delta t))( int ) E_{p,o} d t]'

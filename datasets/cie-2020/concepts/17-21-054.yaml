@@ -42,7 +42,7 @@ data:
   - content: 'The spherical irradiance can be expressed by
 
 
-      stem:[E_{(e,o)} = int_{(4 pi)} L_e d omega]
+      stem:[E_(e,o) = int_(4 pi) L_e "d" Omega]
 
 
       where stem:[Omega] is solid angle and stem:[L_e] is radiance.'

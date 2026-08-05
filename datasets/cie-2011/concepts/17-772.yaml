@@ -26,10 +26,10 @@ data:
   notes:
   - content: The value of the attenuation has been chosen so that the meteorological optical range provides an approximate measure of the commonly used concept of meteorological visibility.
     type: intensional
-  - content: 'The meteorological optical range, stem:[v], is related to the atmospheric transmissivity, stem:[T], assumed to be uniform, by the formula
+  - content: 'The meteorological optical range, stem:[v=d_0 (log\ 0.05)/(log\ T)], is related to the atmospheric transmissivity, stem:[T = 0.05^(d_0 / v)], assumed to be uniform, by the formula
 
 
-      stem:[v = d_0 ((log 0,05))/((log T))] or stem:[T = 0,05^{d_0 // v}]
+      stem:[v=(log\ 0.05)/(log\ T)] or stem:[T = 0.05^(1//v)]
 
 
       where stem:[d_0] is the length specified in the definition of atmospheric transmissivity.

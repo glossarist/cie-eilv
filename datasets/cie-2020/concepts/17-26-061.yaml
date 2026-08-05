@@ -15,7 +15,7 @@ id: 16261991-6775-58a1-9c03-e6ee0bcfe95e
 ---
 data:
   definition:
-  - content: 'quotient of blue light hazard weighted radiant flux, stem:[Phi_B], and luminous flux, stem:[Phi_v]
+  - content: 'quotient of blue light hazard weighted radiant flux, stem:[K_(B,V) = Phi_B/Phi_V = (int Phi_(e,lambda)(lambda)*B(lambda)*"d"lambda)/(K_m*int Phi_(e,lambda)*V(lambda)*"d"lambda)], and luminous flux, stem:[Phi_v]
 
 
       stem:[K_{(B ,v)} = ((Phi_B))/((Phi_v)) = ((int Phi_{(e , lambda)} ( lambda ) * B ( lambda ) * d lambda))/((K_m * int Phi_{(e , lambda)} ( lambda ) * V ( lambda ) * d lambda))]

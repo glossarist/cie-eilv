@@ -23,7 +23,7 @@ data:
   - content: 'density of incident radiant flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[E_e = ((d Phi_e))/((d A))]
+      stem:[E_e = ("d" Phi_e)/("d" A)]
 
 
       where stem:[Phi_e] is radiant flux and stem:[A] is the area on which the radiant flux is incident'

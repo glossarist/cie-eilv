@@ -20,7 +20,7 @@ id: 06466a13-b6ba-58c4-b202-d7b801f6b737
 ---
 data:
   definition:
-  - content: "difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the CIE 1976 L*a*b* colour space and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_{ab}^* = ( Delta L_{}^* )^2 + ( Delta a_{}^* )^2 + ( Delta b_{}^* )^2^{1 // 2}]"
+  - content: "difference between two colour stimuli, defined as the Euclidean distance between the points representing them in the CIE 1976 L*a*b* colour space and calculated as:\r\n<ul style=\"list-style-type:none;\">* stem:[Delta E_(ab)^** = [(Delta L^**)^2 + (Delta a^**)^2 + (Delta b^**)^2]^(1//2)]"
     type: intensional
   examples: []
   notes: []
@@ -35,7 +35,7 @@ data:
     designation: CIE 1976 <i>L</i>*<i>a</i>*<i>b</i>* colour difference
   - type: symbol
     normative_status: preferred
-    designation: CIELAB colour difference
+    designation: stem:[Delta E_(ab)^**]
   - type: symbol
     normative_status: preferred
     designation: CIELAB colour difference

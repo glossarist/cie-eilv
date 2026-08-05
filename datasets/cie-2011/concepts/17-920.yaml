@@ -20,7 +20,7 @@ id: bbbbc79f-43a7-5d75-970a-530fd264c107
 ---
 data:
   definition:
-  - content: 'time integral of the photon cylindrical irradiance, stem:[E_{p,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of the photon cylindrical irradiance, stem:[H_(p,c) = int_(Delta t) E_(p,c) "d"t], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
       stem:[H_{(p,c)} = underset((Delta t))( int ) E_{p,c} d t]'

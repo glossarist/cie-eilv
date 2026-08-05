@@ -20,7 +20,7 @@ id: 2235dbf8-8b78-5bde-ab92-8e14d9b2e102
 ---
 data:
   definition:
-  - content: 'temperature of the Planckian radiator whose relative spectral distribution, stem:[S](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
+  - content: 'temperature of the Planckian radiator whose relative spectral distribution, stem:[int_(lambda_1)^(lambda_2) [1-(S_t(lambda))/(aS_b(lambda,T))]^2 "d"lambda](stem:[lambda]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
 
 
       stem:[int_{(lambda_1)}^{(lambda_2)} 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
@@ -30,10 +30,10 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The scaling factor stem:[a] is chosen to make the quotient stem:[((S_t ( lambda )))/((S_b ( lambda , T )))] equal to unity at a convenient wavelength which, in photometry and colorimetry is typically 560 nm.
+  - content: 'The scaling factor stem:[(S_t(lambda))/(S_b(lambda,T))] is chosen to make the quotient stem:[S_b(lambda,T) = (P(lambda,T))/(P(560\ "nm",T))] equal to unity at a convenient wavelength which, in photometry and colorimetry is typically 560 nm.
 
 
-      stem:[S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))]
+      stem:[P(lambda,T) = lambda^(-5)(e^(c_2/(lambdaT))-1)^(-1)]
 
 
       with stem:[P ( lambda , T ) = lambda^{- 5} ( e^{((c_2))/((lambda T))} - 1 )^{- 1}], where stem:[c_2] is the second radiation constant.'

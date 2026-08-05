@@ -27,7 +27,7 @@ id: 4b0c0f84-a798-554e-bfd7-162ed77e8006
 ---
 data:
   definition:
-  - content: 'quotient of the coefficient of luminous intensity, stem:[R], of a plane retroreflective surface and its area, stem:[A]
+  - content: 'quotient of the coefficient of luminous intensity, stem:[R_A = R/A = (I//E_(_|_))/A], of a plane retroreflective surface and its area, stem:[A]
 
 
       stem:[R_A = (R)/(A) = ((I // E_{ _|_ }))/(A)]

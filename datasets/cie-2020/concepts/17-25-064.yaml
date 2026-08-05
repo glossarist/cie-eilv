@@ -27,7 +27,7 @@ id: 1275c26d-b42c-528d-9bf9-3013c1420d27
 ---
 data:
   definition:
-  - content: 'quotient of the spectral responsivity, stem:[s](stem:[lambda]), of the detector at wavelength, stem:[lambda], and a specified reference value, stem:[s_m]
+  - content: 'quotient of the spectral responsivity, stem:[s_r(lambda)=(s(lambda))/s_m](stem:[lambda]), of the detector at wavelength, stem:[lambda], and a specified reference value, stem:[s_m]
 
 
       stem:[s_r ( lambda ) = ((s ( lambda )))/((s_m))]'

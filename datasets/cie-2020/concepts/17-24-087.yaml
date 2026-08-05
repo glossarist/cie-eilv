@@ -31,7 +31,7 @@ id: 0ebd46f6-b0c6-54ab-8db7-5a204b09ce92
 ---
 data:
   definition:
-  - content: 'integral of the {{concept:cie-2020:17-24-083, spectral linear attenuation coefficient}}, stem:[mu](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
+  - content: 'integral of the {{concept:cie-2020:17-24-083, spectral linear attenuation coefficient}}, stem:[delta(lambda) = int_(x_1)^(x_2) mu(x,lambda)"d"x](stem:[x], stem:[lambda]), of the medium between the points stem:[x_1] and stem:[x_2], as given by the equation
 
 
       stem:[delta ( lambda ) = int_{(x_1)}^{(x_2)} mu ( x , lambda ) d x]'

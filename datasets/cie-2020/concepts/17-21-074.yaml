@@ -27,7 +27,7 @@ id: f87a0b7e-6ce9-53d8-83c1-28c3bfac5eb9
 ---
 data:
   definition:
-  - content: 'time integral of spherical irradiance, stem:[E_{e,o}], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical irradiance, stem:[H_(e,o) = int_(Delta t) E_(e,o) "d"t], at a given point over a given duration, stem:[Delta t]
 
 
       stem:[H_{(e,o)} = underset((Delta t))( int ) E_{e,o} d t]'

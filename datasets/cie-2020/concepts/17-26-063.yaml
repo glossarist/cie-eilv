@@ -18,7 +18,7 @@ data:
   - content: 'quotient of blue light hazard weighted radiant flux and radiant flux
 
 
-      stem:[eta_B = ((int Phi_{(e , lambda)} ( lambda ) B ( lambda ) d lambda))/((int Phi_{(e , lambda)} ( lambda ) d lambda))]'
+      stem:[eta_B = (int Phi_(e,lambda)(lambda) B(lambda) "d" lambda)/(int Phi_(e,lambda)(lambda) "d" lambda)]'
     type: intensional
   examples: []
   notes:

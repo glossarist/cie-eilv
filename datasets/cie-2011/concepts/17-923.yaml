@@ -23,7 +23,7 @@ data:
   - content: 'density of exiting photon flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[M_p = ((d Phi_p))/((d A))]
+      stem:[M_p = ("d" Phi_p)/("d" A)]
 
 
       where stem:[Phi_p] is photon flux and stem:[A] is the area from which the photon flux leaves'

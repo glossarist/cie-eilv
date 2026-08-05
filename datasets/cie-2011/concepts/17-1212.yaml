@@ -20,7 +20,7 @@ id: b151f731-f031-521a-af55-e85bdefa5eaa
 ---
 data:
   definition:
-  - content: 'density of a radiant or luminous or photon quantity, stem:[X](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
+  - content: 'density of a radiant or luminous or photon quantity, stem:[X_lambda = ("d" X(lambda)) / ("d" lambda)](stem:[lambda]), with respect to wavelength, stem:[lambda], at the wavelength stem:[lambda]
 
 
       stem:[X_{lambda} = ((d X ( lambda )))/((d lambda))]'

@@ -38,7 +38,7 @@ data:
   - content: 'Luminous energy for photopic vision is expressed by
 
 
-      stem:[Q_v = K_m int_0^{oo} Q_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
+      stem:[Q_v = K_m int_0^oo Q_(e,lambda)(lambda) V(lambda) "d" lambda]
 
 
       where stem:[Q_{e,stem:[lambd}])](stem:[lambda]) is the spectral radiant energy at wavelength stem:[lambda], stem:[V](stem:[lambda]) is spectral luminous efficiency, and stem:[K_m] is maximum luminous efficacy.'
@@ -47,7 +47,7 @@ data:
     type: intensional
   - content: Luminous energy can be emitted, transferred or received.
     type: intensional
-  - content: 'Luminous energy can be expressed by the time integral of the luminous flux, stem:[Phi_v], over a given duration, stem:[Delta t]:
+  - content: 'Luminous energy can be expressed by the time integral of the luminous flux, stem:[Q_v = int_{Delta t} Phi_v "d" t], over a given duration, stem:[Delta t]:
 
 
       stem:[Q_v = int_{(Delta t)} Phi_v d t]'
