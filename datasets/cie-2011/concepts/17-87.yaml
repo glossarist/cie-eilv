@@ -20,7 +20,7 @@ id: 0b695ae7-750b-57c2-a73d-265a02260c7f
 ---
 data:
   definition:
-  - content: 'function describing the change with direction of irradiation (stem:[theta_i],stem:[phi_i]) and direction of view (stem:[theta_r],stem:[phi_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
+  - content: 'function describing the change with direction of irradiation (stem:[L_r(theta_r,phi_r,x_r,y_r,lambda)],stem:[E_i(theta_i,phi_i,lambda)]) and direction of view (stem:[rho(theta_i,phi_i,theta_r,phi_r,x_r,y_r,lambda) = ("d"L_r(theta_r,phi_r,x_r,y_r,lambda))/("d"E_i(theta_i,phi_i,lambda)))],stem:[phi_r]) of the radiance of a surface element (stem:[x_r],stem:[y_r]) in a given direction of view at a given wavelength stem:[lambda], stem:[L_r ( theta_r , varphi_r , x_r , y_r , lambda )], with respect to the irradiance incident on the medium from the given direction of irradiation at the given wavelength, stem:[E_i ( theta_i , varphi_i , lambda )]
 
 
       stem:[rho ( theta_i , varphi_i , theta_r , varphi_r , x_r , y_r , lambda ) = ((d L_r ( theta_r , varphi_r , x_r , y_r , lambda )))/((d E_i ( theta_i , varphi_i , lambda )))]'
@@ -41,7 +41,7 @@ data:
     designation: BRDF
   - type: symbol
     normative_status: preferred
-    designation: stem:[stem:[rho]](stem:[stem:[theta]_i],stem:[stem:[theta]_r], stem:[stem:[lambda]])
+    designation: stem:[rho(theta_i, phi_i, theta_r, phi_r, x_r, y_r, lambda)]
   language_code: eng
   annotations: []
 termid: 17-87

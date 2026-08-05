@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-104
   domains:
@@ -21,23 +20,19 @@ id: 11c850ed-c7b0-5709-b9c7-3df7c67ff924
 ---
 data:
   definition:
-  - content: |-
-      law relating the illuminance, stem:[E], on a real or imaginary surface to the luminous intensity, stem:[I], of an illuminating {{concept:cie-2020:17-21-033, point source}} whereby
+  - content: 'law relating the illuminance, stem:[E=(I cos theta)/(d^2)], on a real or imaginary surface to the luminous intensity, stem:[I], of an illuminating {{concept:cie-2020:17-21-033, point source}} whereby
+
 
       stem:[E = ((I cos theta))/((d^2))]
 
-      where stem:[theta] is the angle between the normal to the surface and the line between the surface and the source and stem:[d] is the distance between the source and the surface
+
+      where stem:[theta] is the angle between the normal to the surface and the line between the surface and the source and stem:[d] is the distance between the source and the surface'
     type: intensional
   examples: []
   notes:
-  - content: The photometric distance law strictly only applies for a point source.
-      However, it can also be applied for non-point sources at sufficiently large
-      distances within acceptable limits of error or measurement uncertainty; in this
-      case the degree of approximation at the distance used should be confirmed by
-      measurement.
+  - content: The photometric distance law strictly only applies for a point source. However, it can also be applied for non-point sources at sufficiently large distances within acceptable limits of error or measurement uncertainty; in this case the degree of approximation at the distance used should be confirmed by measurement.
     type: intensional
-  - content: For radiometric sources the equivalent term is "radiometric distance
-      law".
+  - content: For radiometric sources the equivalent term is "radiometric distance law".
     type: intensional
   - content: This entry was numbered 17-912 in CIE S 017:2011.
     type: intensional

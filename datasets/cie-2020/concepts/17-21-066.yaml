@@ -27,7 +27,7 @@ data:
   - content: 'The spherical illuminance can be expressed by
 
 
-      stem:[E_{(v,o)} = underset((4 pi))( int ) L_v d omega]
+      stem:[E_(v,o) = int_(4 pi) L_v "d"Omega]
 
 
       where stem:[Omega] is solid angle and stem:[L_v] is luminance.'

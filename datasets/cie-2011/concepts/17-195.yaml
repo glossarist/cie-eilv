@@ -20,7 +20,7 @@ id: 518b6137-1bd1-525f-a5ac-5a0dfbc15543
 ---
 data:
   definition:
-  - content: 'stem:[p_c = ((L_d))/((L_n + L_d))]
+  - content: 'stem:[p_c = (L_d)/(L_n + L_d)]
 
 
       where stem:[L_d] and stem:[L_n] are the respective luminances of the monochromatic stimulus and of the specified achromatic stimulus that match the colour stimulus considered in an additive mixture'

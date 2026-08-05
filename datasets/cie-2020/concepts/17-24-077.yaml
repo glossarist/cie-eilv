@@ -27,7 +27,7 @@ id: 21c7bbdb-3bdf-5aef-96b4-e79e9101486b
 ---
 data:
   definition:
-  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[L_{v,n}], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_{v,d}]
+  - content: 'quotient of the luminance of a surface element in a specified direction, stem:[beta_v = L_(v,n)/L_(v,d)], and the luminance of the perfect reflecting diffuser or perfect transmitting diffuser identically illuminated and viewed, stem:[L_{v,d}]
 
 
       stem:[beta_v = ((L_{(v ,n)}))/((L_{(v ,d)}))]'

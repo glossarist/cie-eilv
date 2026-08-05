@@ -20,7 +20,7 @@ id: 0558afe5-b2f1-5fae-bbd7-42e2b37c14aa
 ---
 data:
   definition:
-  - content: 'quotient of the responsivity, stem:[s](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
+  - content: 'quotient of the responsivity, stem:[s_r = (s(Z))/(s(N))](stem:[Z]), when the detector is irradiated with radiation, stem:[Z], and the responsivity, stem:[s](stem:[N]), when it is irradiated with a reference radiation, stem:[N]
 
 
       stem:[s_r = ((s ( Z )))/((s ( N )))]'

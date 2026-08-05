@@ -30,7 +30,7 @@ data:
   - content: 'density of exiting radiant flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[M_e = ((d Phi_e))/((d A))]
+      stem:[M_e = ("d" Phi_e)/("d" A)]
 
 
       where stem:[Phi_e] is radiant flux and stem:[A] is the area from which the radiant flux leaves'

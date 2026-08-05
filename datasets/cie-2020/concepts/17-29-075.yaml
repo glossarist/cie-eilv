@@ -27,7 +27,7 @@ data:
   - content: 'The floor cavity index is given by the formula
 
 
-      stem:[K_f = ((a b))/((h_f ( a + b )))]
+      stem:[K_f = (ab)/(h_f (a+b))]
 
 
       where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.'

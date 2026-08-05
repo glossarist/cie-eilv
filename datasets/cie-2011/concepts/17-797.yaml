@@ -20,14 +20,14 @@ id: 4557dd4b-ef84-5337-bfbe-089ea73af40a
 ---
 data:
   definition:
-  - content: 'quotient of the radiant flux or luminous flux stem:[Phi_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the radiant exitance or luminous exitance stem:[M_1] (or stem:[M_2])
+  - content: 'quotient of the radiant flux or luminous flux stem:[g=Phi_2/M_1=Phi_1/M_2] (or stem:[Phi_1]) that surface S~1~ (or S~2~) sends to surface S~2~ (or S~1~) and the radiant exitance or luminous exitance stem:[M_1] (or stem:[M_2])
 
 
       stem:[g = ((Phi_2))/((M_1)) = ((Phi_1))/((M_2))]'
     type: intensional
   examples: []
   notes:
-  - content: 'Since stem:[M] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
+  - content: 'Since stem:[g = 1/pi int_(A_2) int_(A_1) (cos theta_1 cos theta_2)/I^2 "d"A_1 "d"A_2 = 1/piG] = stem:[pi L], and in the particular case where all points on S~1~ are seen from all points on S~2~
 
 
       stem:[g = (1)/(pi) underset((A_2))( int ) underset((A_1))( int ) ((cos theta_1 cos theta_2))/((l^2)) d A_1 d A_2 = (1)/(pi) G]
@@ -38,12 +38,12 @@ data:
   - content: 'For two elementary areas dA~1~ and dA~2~
 
 
-      stem:[d g = (1)/(pi) d A_1 d omega_1 cos theta_1 = (1)/(pi) d A_2 d omega_2 cos theta_2]
+      stem:["d"g = 1/pi "d"A_1 "d"Omega_1 cos theta_1 = 1/pi "d"A_2 "d"Omega_2 cos theta_2]
 
 
       where dstem:[Omega_1] (or dstem:[Omega_2]) is the solid angle which the area dstem:[A_2] (or dstem:[A_1]) subtends from the centre of dstem:[A_1] (or dstem:[A_2]).'
     type: intensional
-  - content: 'The radiance or luminance stem:[L] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
+  - content: 'The radiance or luminance stem:[L=1/pi ("d"Phi)/("d"g)] of the beam delimited by the boundaries of dA~1~ and dA~2~ is
 
 
       stem:[L = (1)/(pi) ((d Phi))/((d g))].'

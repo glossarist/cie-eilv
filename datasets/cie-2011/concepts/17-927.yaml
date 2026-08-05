@@ -23,14 +23,14 @@ data:
   - content: 'rate of photon number per time interval
 
 
-      stem:[Phi_p = ((d N_p))/((d t))]
+      stem:[Phi_p = ("d" N_p)/("d" t)]
 
 
       where stem:[N_p] is photon number, transmitted or received, and stem:[t] is time'
     type: intensional
   examples: []
   notes:
-  - content: 'Photon flux, stem:[Phi_p], is related to radiant flux, stem:[Phi_e], of monochromatic radiation by
+  - content: 'Photon flux, stem:[Phi_p = (Phi_e) / (hv)], is related to radiant flux, stem:[Phi_e], of monochromatic radiation by
 
 
       stem:[Phi_p = ((Phi_e))/((h nu))]
@@ -38,7 +38,7 @@ data:
 
       where stem:[h] is the Planck constant, and stem:[nu] is the frequency of the corresponding electromagnetic wave.'
     type: intensional
-  - content: For a beam of radiation whose spectral distribution is stem:[((d Phi_e ( lambda )))/((d lambda))] or stem:[((d Phi_e ( nu )))/((d nu))], the photon flux can be expressed by stem:[Phi_p = int_0^{oo} ((d Phi_e ( lambda )))/((d lambda)) * (lambda)/((h c_0)) d lambda = int_0^{oo} ((d Phi_e ( nu )))/((d nu)) * (1)/((h nu)) d nu], where stem:[h] is Planck's constant and stem:[c_0] is the speed of light in vacuum.
+  - content: For a beam of radiation whose spectral distribution is stem:[("d" Phi_e (lambda)) / ("d" lambda)] or stem:[("d" Phi_e (v)) / ("d" v)], the photon flux can be expressed by stem:[Phi_p = int_0^oo ("d" Phi_e(lambda))/("d" lambda) cdot (lambda)/(h c_0) "d" lambda = int_0^oo ("d" Phi_e(v))/("d" v) cdot (1)/(h v) "d" v], where stem:[h] is Planck's constant and stem:[c_0] is the speed of light in vacuum.
     type: intensional
   - content: The corresponding radiometric quantity is "radiant flux". The corresponding photometric quantity is "luminous flux".
     type: intensional

@@ -30,7 +30,7 @@ data:
   - content: 'density of incident luminous flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[E_v = ((d Phi_v))/((d A))]
+      stem:[E_v = ("d" Phi_v)/("d" A)]
 
 
       where stem:[Phi_v] is luminous flux and stem:[A] is the area on which the luminous flux is incident'
@@ -40,7 +40,7 @@ data:
   - content: 'Illuminance can be derived from the spectral irradiance distribution by
 
 
-      stem:[E_v \ = \ K_m int_0^{oo} E_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
+      stem:[E_v = K_m int_0^(oo) E_(e,lambda)(lambda) V(lambda) "d" lambda]
 
 
       where stem:[K_m] is maximum luminous efficacy, stem:[E_{e,stem:[lambd}])](stem:[lambda]) is the spectral irradiance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'

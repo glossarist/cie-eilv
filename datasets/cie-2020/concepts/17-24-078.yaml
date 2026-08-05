@@ -30,7 +30,7 @@ data:
   - content: 'quotient of the {{concept:cie-2020:17-21-049, radiance}} at a surface element of a medium in a given direction and the {{concept:cie-2020:17-21-053, irradiance}} on the medium
 
 
-      stem:[q_e = ((L_e))/((E_e))]
+      stem:[q_e = (L_e)/(E_e)]
 
 
       where stem:[L_e] is radiance and stem:[E_e] is irradiance'

@@ -20,7 +20,7 @@ id: bf36ac72-30a4-5b33-8867-408cb38c39ee
 ---
 data:
   definition:
-  - content: 'time integral of cylindrical illuminance, stem:[E_{v,c}], at a given point for a given direction, over a given duration, stem:[Delta t]
+  - content: 'time integral of cylindrical illuminance, stem:[H_(v,c) = int_(Delta t) E_(v,c) "d"t], at a given point for a given direction, over a given duration, stem:[Delta t]
 
 
       stem:[H_{(v,c)} = underset((Delta t))( int ) E_{v,c} d t]'

@@ -27,7 +27,7 @@ id: db422997-df51-5a89-84c7-f37c81914002
 ---
 data:
   definition:
-  - content: 'quotient of the radiant exitance of a radiator, stem:[M_e], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
+  - content: 'quotient of the radiant exitance of a radiator, stem:[epsilon = M_e/M_b], and the radiant exitance of a Planckian radiator at the same temperature, stem:[M_b]
 
 
       stem:[epsilon = ((M_e))/((M_b))]'

@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[V](stem:[lambda]), and are calibrated using a source corresponding to CIE standard illuminant A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
+  - content: 'Most photometers are designed to simulate the spectral luminous efficiency for photopic vision, stem:[F^** = (int_lambda S(lambda)V(lambda)"d"lambda)/(int_lambdaS(lambda)s_(rel)(lambda)"d"lambda) (int_lambda S_A(lambda)s_(rel)(lambda)"d"lambda)/(int_lambda S_A(lambda)V(lambda)"d"lambda)](stem:[lambda]), and are calibrated using a source corresponding to CIE standard illuminant A. For such a photometer, the spectral mismatch correction factor can be calculated using the equation:
 
 
       stem:[F^{ * } = ((underset(lambda)( int ) S ( lambda ) V ( lambda ) d lambda))/((underset(lambda)( int ) S ( lambda ) s_{(rel)} ( lambda ) d lambda)) ((underset(lambda)( int ) S_A ( lambda ) s_{(rel)} ( lambda ) d lambda))/((underset(lambda)( int ) S_A ( lambda ) V ( lambda ) d lambda))]

@@ -20,7 +20,7 @@ id: 3d17f369-cb28-56d7-bd40-fb6bf69c5b48
 ---
 data:
   definition:
-  - content: 'quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[tau_i](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
+  - content: 'quotient of the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance, stem:[a_n(lambda) = -(ln tau_i(lambda))/I = (log tau_i(lambda))/I ln(10) = (A_n(lambda))/I](stem:[lambda]), of a layer of the medium and the length, stem:[l], of the path of a beam of radiation traversing that layer
 
 
       stem:[a_n ( lambda ) = - ((ln tau_i ( lambda )))/(l) = ((log tau_i ( lambda )))/(l) ln(10) = ((A_n ( lambda )))/(l)]

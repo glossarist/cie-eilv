@@ -23,18 +23,18 @@ data:
   - content: 'law giving the spectral distribution of radiance of a Planckian radiator as a function of wavelength and temperature
 
 
-      stem:[L_{(e , lambda)} ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^{- 5} ( e^{((c_2))/((lambda T))} - 1 )^{- 1}]
+      stem:[L_(e,lambda)(lambda,T) = (del L_e(lambda,T))/(del lambda) = c_1/pi lambda^(-5) (e^(c_2/(lambdaT))-1)^(-1)]
 
 
-      where stem:[L_{e,lambda}] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the speed of light in vacuum, and stem:[k] is the Boltzmann constant'
+      where stem:[c_1 = 2pi h c_0^2] is the spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the speed of light in vacuum, and stem:[k] is the Boltzmann constant'
     type: intensional
   examples: []
   notes:
-  - content: The formula is sometimes written with stem:[((c_1))/((pi omega_0))] instead of stem:[((c_1))/(pi)], where stem:[Omega_0] is the solid angle of magnitude 1 sr.
+  - content: The formula is sometimes written with stem:[c_1/(pi Omega_0)] instead of stem:[c_1/pi], where stem:[Omega_0] is the solid angle of magnitude 1 sr.
     type: intensional
   - content: For a detector in a medium of refractive index stem:[n], the measured radiance is stem:[n^2]stem:[L_{e,lambda}](stem:[lambda], stem:[T]).
     type: intensional
-  - content: Planck's law can also be expressed to give the spectral distribution of radiant exitance, stem:[M_{e,lambda}](stem:[lambda], stem:[T]); the first factor in the formula is then stem:[c_1] instead of stem:[((c_1))/(pi)].
+  - content: Planck's law can also be expressed to give the spectral distribution of radiant exitance, stem:[c_1/pi](stem:[lambda], stem:[T]); the first factor in the formula is then stem:[c_1] instead of stem:[((c_1))/(pi)].
     type: intensional
   - content: Both quantities (radiance and radiant exitance) apply to the unpolarized radiation as emitted.
     type: intensional

@@ -27,7 +27,7 @@ id: 894c9a9d-d60b-53a1-b669-73499597ab37
 ---
 data:
   definition:
-  - content: 'law relating the apparent contrast, stem:[Cd], of an object against a sky background, at a given distance of observation, stem:[d], to the inherent contrast, stem:[C_0], and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
+  - content: 'law relating the apparent contrast, stem:[C_d = C_0T^(d//d_0)], of an object against a sky background, at a given distance of observation, stem:[d], to the inherent contrast, stem:[C_0], and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
 
 
       stem:[C_d = C_0 T^{d // d_0}]
@@ -40,12 +40,12 @@ data:
   - content: 'The formula is sometimes written
 
 
-      stem:[C_d = C_0 T^{delta}]
+      stem:[C_d = C_0 T^delta]
 
 
       where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of stem:[d] measured with stem:[d_0] as "unit".'
     type: intensional
-  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[T], and meteorological optical range, stem:[v], given in Note 2 to entry of "{{concept:cie-2020:17-31-018, meteorological optical range}}", Koschmieder''s law can be also written as
+  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[C_d = C_0(0.05^(d//v))], and meteorological optical range, stem:[v], given in Note 2 to entry of "{{concept:cie-2020:17-31-018, meteorological optical range}}", Koschmieder''s law can be also written as
 
 
       stem:[C_d = C_0 ( 0,05^{d // v} )]'

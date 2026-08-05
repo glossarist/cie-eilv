@@ -30,7 +30,7 @@ data:
   - content: 'density of exiting luminous flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[M_v = ((d Phi_v))/((d A))]
+      stem:[M_v = ("d" Phi_v)/("d" A)]
 
 
       where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves'
@@ -40,7 +40,7 @@ data:
   - content: 'Luminous exitance can be derived from the spectral radiant exitance distribution by
 
 
-      stem:[M_v = K_m int_0^{oo} M_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
+      stem:[M_v = K_m int_0^(oo) M_(e,lambda)(lambda) V(lambda) "d"lambda]
 
 
       where stem:[K_m] is maximum luminous efficacy, stem:[M_{e,lambda}](stem:[lambda]) is the spectral radiant exitance at wavelength stem:[lambda] and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.

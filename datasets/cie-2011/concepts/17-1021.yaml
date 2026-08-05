@@ -23,7 +23,7 @@ data:
   - content: 'density of incident radiant energy with respect to area at a point on a real or imaginary surface
 
 
-      stem:[H_e = ((d Q_e))/((d A))]
+      stem:[H_e = ("d" Q_e)/("d" A)]
 
 
       where stem:[Q_e] is radiant energy and stem:[A] is the area on which the radiant energy is incident'

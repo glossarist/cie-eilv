@@ -30,7 +30,7 @@ data:
   - content: 'density of luminous flux with respect to solid angle in a specified direction
 
 
-      stem:[I_v = ((d Phi_v))/((d omega))]
+      stem:[I_v = (d Phi_v)/(d Omega)]
 
 
       where stem:[Phi_v] is the luminous flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction'
@@ -39,7 +39,7 @@ data:
   notes:
   - content: For practical realization of the quantity, the source is approximated by a {{concept:cie-2020:17-21-033, point source}}.
     type: intensional
-  - content: 'The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[theta], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
+  - content: 'The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[Phi_v = int int_Omega I_v (vartheta, varphi) sin vartheta "d" varphi "d" vartheta], stem:[phi]), is used to determine the luminous flux, stem:[Phi_v], within a certain solid angle, stem:[Omega], of a source:
 
 
       stem:[Phi_v = underset(omega)( iint ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].'
@@ -47,7 +47,7 @@ data:
   - content: 'Luminous intensity can be derived from the spectral radiant intensity distribution by
 
 
-      stem:[I_v = \ K_m int_0^{oo} I_{(e , lambda)} ( lambda ) V ( lambda ) d lambda]
+      stem:[I_v = K_m int_0^oo I_{e, lambda} (lambda) V(lambda) "d" lambda]
 
 
       where stem:[K_m] is maximum luminous efficacy, stem:[I_{e,stem:[lambd}])](stem:[lambda]) is the spectral radiant intensity at wavelength stem:[lambda], and stem:[V](stem:[lambda]) is {{concept:cie-2020:17-21-035, spectral luminous efficiency}}.'

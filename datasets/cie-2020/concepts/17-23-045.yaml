@@ -27,11 +27,11 @@ id: 76cd934c-4652-531a-a35d-6dea5567450b
 ---
 data:
   definition:
-  - content: system for determining the {{concept:cie-2020:17-23-038, tristimulus values}} of any spectral power distribution using the set of reference colour stimuli [X], [Y], [Z] and the three CIE colour-matching functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z ( lambda )] adopted by the CIE in 1931
+  - content: system for determining the {{concept:cie-2020:17-23-038, tristimulus values}} of any spectral power distribution using the set of reference colour stimuli [X], [Y], [Z] and the three CIE colour-matching functions stem:[bar x(lambda), bar y(lambda), bar z(lambda)] adopted by the CIE in 1931
     type: intensional
   examples: []
   notes:
-  - content: stem:[bar y ( lambda )] is identical to stem:[V](stem:[lambda]) and hence the tristimulus values stem:[Y] are proportional to values of luminance.
+  - content: stem:[bar y (lambda)] is identical to stem:[V](stem:[lambda]) and hence the tristimulus values stem:[Y] are proportional to values of luminance.
     type: intensional
   - content: The CIE 1931 standard colorimetric system is applicable to centrally viewed fields of angular subtense between about 1stem:[deg] and about 4stem:[deg] (0,017 rad and 0,07 rad).
     type: intensional

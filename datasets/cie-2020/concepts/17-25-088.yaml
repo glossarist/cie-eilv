@@ -27,7 +27,7 @@ data:
   - content: 'The basic law of radiometry and photometry is expressed by
 
 
-      stem:[d Phi = L * ((d A cos theta * d A^{ '' } cos theta^{ '' }))/((l^2))]
+      stem:["d"Phi = L*("d" A cos theta * d A^'' cos theta^'')/(l^2)]
 
 
       where the proportionality factor for this geometrical condition is equal to the radiance or luminance, respectively, within the elementary beam.'

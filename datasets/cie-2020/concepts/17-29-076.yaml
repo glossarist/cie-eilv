@@ -27,7 +27,7 @@ data:
   - content: 'The floor cavity ratio is given by the formula
 
 
-      stem:[K_f = ((5 h_f ( a + b )))/((a b))]
+      stem:[K_f = (5 h_f (a+b))/(ab)]
 
 
       where stem:[a] and stem:[b] are the dimensions of the sides of the room and stem:[h_f] is the distance from the floor to the utilization plane.'

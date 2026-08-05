@@ -23,7 +23,7 @@ data:
   - content: 'density of luminous flux with respect to solid angle in a specified direction
 
 
-      stem:[I_v = ((d Phi_v))/((d omega))]
+      stem:[I_v = (d Phi_v)/(d Omega)]
 
 
       where stem:[Phi_v] is the luminous flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction'

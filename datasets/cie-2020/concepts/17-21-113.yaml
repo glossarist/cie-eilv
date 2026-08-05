@@ -22,10 +22,10 @@ data:
   - content: 'The S/P ratio can be expressed by
 
 
-      stem:[R_{(SP)} = ((K^{ '' }_m int_0^{oo} S ( lambda ) V^{ '' } ( lambda ) d lambda))/((K_m int_0^{oo} S ( lambda ) V ( lambda ) d lambda))]
+      stem:[R_(SP) = (K_m^'' int_0^oo S(lambda) V''(lambda) "d"lambda)/(K_m int_0^oo S(lambda)V(lambda) "d"lambda)]
 
 
-      where stem:[K]''~stem:[m]~ ~~ 1 700 stem:[lm cdot W]^(-1) stem:[is] stem:[the] stem:[maximum] stem:[luminous] stem:[efficacy] stem:[for] stem:[scotopic] stem:[vision],stem:[K_m]~~ 683 stem:[lm cdot W]^(-1) stem:[is] stem:[the] stem:[maximum] stem:[luminous] stem:[efficacy] stem:[for] stem:[photopic] stem:[vision],stem:[S](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.'
+      where stem:[K_m^'']''~stem:[m]~ ~~ 1 700 stem:[lm cdot W]^(-1) stem:[is] stem:[the] stem:[maximum] stem:[luminous] stem:[efficacy] stem:[for] stem:[scotopic] stem:[vision],stem:[K_m]~~ 683 stem:[lm cdot W]^(-1) stem:[is] stem:[the] stem:[maximum] stem:[luminous] stem:[efficacy] stem:[for] stem:[photopic] stem:[vision],stem:[S](stem:[lambda]) is the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the source, and stem:[lambda] is the wavelength.'
     type: intensional
   - content: The S/P ratio has unit one.
     type: intensional

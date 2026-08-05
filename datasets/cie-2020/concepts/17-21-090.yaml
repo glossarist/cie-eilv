@@ -50,12 +50,12 @@ data:
   - content: 'Luminous efficacy of radiation for photopic vision is expressed by
 
 
-      stem:[K = ((Phi_v))/(Phi_e)]
+      stem:[K = (Phi_v)/(Phi_e)]
 
 
       where stem:[Phi_v] is luminous flux and stem:[Phi_e] is radiant flux.'
     type: intensional
-  - content: 'The value of the luminous efficacy of radiation for photopic vision for {{concept:cie-2020:17-21-014, monochromatic radiation}} of {{cite:IEV:103-06-02, frequency}} stem:[nu_{cd}]= 540 stem:[xx] 10^(12) stem:[Hz] stem:[is] stem:[defined] stem:[as] 683 stem:[lm cdot W]^(-1) stem:[and] stem:[denoted] stem:[as]stem:[K_{cd}]. The corresponding wavelength, stem:[lambda_{(cd)} \ = n^{- 1} * c_{(0)} * nu_{cd}^{- 1}] (where stem:[n] is refractive index and stem:[c_0] is the {{cite:IEV:113-01-34, speed of light in vacuum}}) in standard air, i.e. dry air at 15 stem:[deg]C and 101 325 Pa, containing 0,045 % of carbon dioxide by volume (see P.E. Ciddor: _Refractive index of air: new equations for the visible and near infrared, Appl. Opt. Vol 35, No. 9_, 1996, pp. 1566-1573), is accepted to be 555,017 nm (rounded from 555,017 069 nm). This is very close to 555 nm, the wavelength where stem:[V](stem:[lambda]) reaches its maximum. For photometric measurements made in air under real environmental conditions, the influence of the variation of the refractive index on stem:[lambda_{cd}] with respect to standard air is typically in the range of a few picometres and can be neglected in most cases.'
+  - content: 'The value of the luminous efficacy of radiation for photopic vision for {{concept:cie-2020:17-21-014, monochromatic radiation}} of {{cite:IEV:103-06-02, frequency}} stem:[lambda_(cd) = n^(-1)*c_o*nu_"cd"^(-1)]= 540 stem:[xx] 10^(12) stem:[Hz] stem:[is] stem:[defined] stem:[as] 683 stem:[lm cdot W]^(-1) stem:[and] stem:[denoted] stem:[as]stem:[K_{cd}]. The corresponding wavelength, stem:[lambda_{(cd)} \ = n^{- 1} * c_{(0)} * nu_{cd}^{- 1}] (where stem:[n] is refractive index and stem:[c_0] is the {{cite:IEV:113-01-34, speed of light in vacuum}}) in standard air, i.e. dry air at 15 stem:[deg]C and 101 325 Pa, containing 0,045 % of carbon dioxide by volume (see P.E. Ciddor: _Refractive index of air: new equations for the visible and near infrared, Appl. Opt. Vol 35, No. 9_, 1996, pp. 1566-1573), is accepted to be 555,017 nm (rounded from 555,017 069 nm). This is very close to 555 nm, the wavelength where stem:[V](stem:[lambda]) reaches its maximum. For photometric measurements made in air under real environmental conditions, the influence of the variation of the refractive index on stem:[lambda_{cd}] with respect to standard air is typically in the range of a few picometres and can be neglected in most cases.'
     type: intensional
   - content: See also "{{concept:cie-2020:17-21-091, spectral luminous efficacy}}".
     type: intensional

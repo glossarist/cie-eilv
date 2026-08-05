@@ -38,7 +38,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'Radiant energy can be expressed by the time integral of radiant flux, stem:[Phi_e], over a given duration, stem:[Delta t]:
+  - content: 'Radiant energy can be expressed by the time integral of radiant flux, stem:[Q_e = int_{Delta t} Phi_e "d" t], over a given duration, stem:[Delta t]:
 
 
       stem:[Q_e = int_{(Delta t)} Phi_e d t]'

@@ -30,7 +30,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'For the value of the Stefan-Boltzmann constant, stem:[sigma], see CODATA.
+  - content: 'For the value of the Stefan-Boltzmann constant, stem:[sigma = (2 pi^5 k^4)/(15 h^3 c_0^2)], see CODATA.
 
       See "{{17-958, Planck''s law}}" for the meaning of the symbols'
     type: intensional

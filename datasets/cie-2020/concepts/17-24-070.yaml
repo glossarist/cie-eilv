@@ -27,7 +27,7 @@ id: 3708523b-7630-5878-816e-b824e3d18bc0
 ---
 data:
   definition:
-  - content: 'quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[Phi_n], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
+  - content: 'quotient of the flux reflected in the directions delimited by a given cone with apex at a surface element, stem:[R = Phi_n/Phi_d], and the flux reflected in the same directions by a perfect reflecting diffuser identically irradiated or illuminated, stem:[Phi_d]
 
 
       stem:[R = ((Phi_n))/((Phi_d))]'

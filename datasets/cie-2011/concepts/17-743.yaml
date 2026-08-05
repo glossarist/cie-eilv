@@ -27,7 +27,7 @@ data:
   - content: 'The luminous turbidity factor can be expressed by
 
 
-      stem:[T_v = ((- ln ( E_{(vs)} // E_v )))/((a_v m))]
+      stem:[T_v = (- ln ( E_(vs) // E_v ))/(a_v m)]
 
 
       where stem:[E_{vs}] is the direct-beam illuminance on a horizontal surface (at the ground), stem:[E_v] is the extraterrestrial horizontal illuminance, stem:[a_v] is the luminous extinction coefficient, and stem:[m] is the relative optical air mass.'

@@ -27,7 +27,7 @@ id: bd60d3c1-0a84-5652-a309-8e2be4c74179
 ---
 data:
   definition:
-  - content: 'law relating the illuminance, stem:[E_v], produced on a surface (which is normal to the direction of the light source and sufficiently distant for the light source to be considered as a {{concept:cie-2020:17-21-033, point source}}) by a light source to the luminous intensity, stem:[I_v], of the light source in the direction of the surface, to the distance, stem:[d], between the surface and the light source, and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
+  - content: 'law relating the illuminance, stem:[E_v = I_v/d^2 T^(d//d_0)], produced on a surface (which is normal to the direction of the light source and sufficiently distant for the light source to be considered as a {{concept:cie-2020:17-21-033, point source}}) by a light source to the luminous intensity, stem:[I_v], of the light source in the direction of the surface, to the distance, stem:[d], between the surface and the light source, and to the atmospheric transmissivity, stem:[T], which is assumed to be uniform
 
 
       stem:[E_v = ((I_v))/((d^2)) T^{d // d_0}]
@@ -40,12 +40,12 @@ data:
   - content: 'The formula in the definition is sometimes written:
 
 
-      stem:[E_v = ((I_v))/((d^2)) T^{delta}]
+      stem:[E_v = I_v/d^2 T^delta]
 
 
       where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of the distance, stem:[d], measured with stem:[d_0] as "unit".'
     type: intensional
-  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[T], and {{concept:cie-2020:17-31-018, meteorological optical range}}, stem:[v], given in Note 2 to entry of the definition of "meteorological optical range", Allard''s law can also be written as:
+  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[E_v = I_v/d^2 (0.05^(d//v))], and {{concept:cie-2020:17-31-018, meteorological optical range}}, stem:[v], given in Note 2 to entry of the definition of "meteorological optical range", Allard''s law can also be written as:
 
 
       stem:[E_v = ((I_v))/((d^2)) ( 0,05^{d // v} )].'

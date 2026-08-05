@@ -27,7 +27,7 @@ data:
   - content: 'For in-vitro testing, the erythemal irradiance measured by a detector with the fabric sample under test in place is compared to the erythemal irradiance measured with no fabric present, where the source is typically a solar simulator. This is expressed as the quotient of the erythemal irradiance without fabric to the erythemal irradiance through fabric:
 
 
-      stem:[F_{(UVP)} = ((int_{(290\ nm)}^{(400\ nm)} E_{lambda} s_{(er)} ( lambda ) d lambda))/((int_{(290\ nm)}^{(400\ nm)} E_{lambda} s_{(er)} ( lambda ) tau ( lambda ) d lambda))]
+      stem:[F_(UVP) = (int_(290\ "nm")^(400\ "nm") E_(lambda) s_(er) (lambda) "d" lambda)/(int_(290\ "nm")^(400\ "nm") E_(lambda) s_(er) (lambda) tau (lambda) "d" lambda)]
 
 
       where stem:[s_{er}](stem:[lambda]) is the erythema spectral weighting function, stem:[Elambda] is the spectral irradiance, stem:[tau](stem:[lambda]) is the measured spectral transmittance of the item, and stem:[lambda] is the wavelength.'

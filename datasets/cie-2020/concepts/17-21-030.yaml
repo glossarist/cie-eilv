@@ -27,7 +27,7 @@ id: a0e560d1-ea09-592a-afd5-a8f54cb0d31c
 ---
 data:
   definition:
-  - content: 'quotient of the {{concept:cie-2020:17-21-029, spectral distribution}}, stem:[Xlambda](stem:[lambda]), of a radiant, luminous or photon quantity, stem:[X](stem:[lambda]), and a fixed reference value, stem:[R], which can be an average value, a maximum value or an arbitrarily chosen value of this distribution
+  - content: 'quotient of the {{concept:cie-2020:17-21-029, spectral distribution}}, stem:[S(lambda) = (X_lambda (lambda)) / R](stem:[lambda]), of a radiant, luminous or photon quantity, stem:[X](stem:[lambda]), and a fixed reference value, stem:[R], which can be an average value, a maximum value or an arbitrarily chosen value of this distribution
 
 
       stem:[S ( lambda ) = ((X_{lambda} ( lambda )))/(R)]'

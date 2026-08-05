@@ -20,7 +20,7 @@ id: 8be9a039-071a-5dcb-bc28-a002e0db170f
 ---
 data:
   definition:
-  - content: 'density of irradiance, stem:[E_e](stem:[lambda]), with respect to wavelength, stem:[lambda]
+  - content: 'density of irradiance, stem:[E_(e,lambda) = ("d"E_e(lambda))/("d"lambda)](stem:[lambda]), with respect to wavelength, stem:[lambda]
 
 
       stem:[E_{(e , lambda)} = ((d E_e ( lambda )))/((d lambda))]'

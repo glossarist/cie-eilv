@@ -23,7 +23,7 @@ data:
   - content: 'density of radiant flux with respect to solid angle in a specified direction
 
 
-      stem:[I_e = ((d Phi_e))/((d omega))]
+      stem:[I_e = ("d" Phi_e)/("d" Omega)]
 
 
       where stem:[Phi_e] is the radiant flux emitted in a specified direction, and stem:[Omega] is the solid angle containing that direction'

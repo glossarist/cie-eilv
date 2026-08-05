@@ -23,36 +23,36 @@ data:
   - content: 'density of photon intensity with respect to projected area in a specified direction at a specified point on a real or imaginary surface
 
 
-      stem:[L_p = ((d I_p))/((d A)) (1)/((cos alpha))]
+      stem:[L_p = ("d" I_p)/("d" A) 1/(cos alpha)]
 
 
       where stem:[I_p] is photon intensity, stem:[A] is area and stem:[alpha] the angle between the normal to the surface at the specified point and the specified direction'
     type: intensional
   examples: []
   notes:
-  - content: 'In a practical sense, the definition of photon radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as point sources, each of which has a specific photon intensity, stem:[I_p], in the specified direction. The photon radiance of the surface is then the integral of these photon radiance elements over the whole surface.
+  - content: 'In a practical sense, the definition of photon radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as point sources, each of which has a specific photon intensity, stem:[bar I_p], in the specified direction. The photon radiance of the surface is then the integral of these photon radiance elements over the whole surface.
 
 
-      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of photon intensity with projected area) and could alternatively be rewritten in terms of the average photon intensity, stem:[bar I_p], as:
+      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of photon intensity with projected area) and could alternatively be rewritten in terms of the average photon intensity, stem:[L_p = lim_(A -> 0) (bar I_p)/A 1/(cos alpha)], as:
 
 
-      stem:[L_p = underset((A -> 0))((lim)) ((bar I_p))/(A) (1)/((cos alpha))].
+      stem:[bar L_p = (bar I_p)/A 1/(cos alpha)].
 
 
       Hence, photon radiance is often considered as a quotient of averaged quantities; the area, stem:[A], should be small enough so that uncertainties due to variations in photon intensity within that area are negligible; otherwise, the quotient stem:[bar L_p = ((bar I_p))/(A) (1)/((cos alpha))] gives the average photon radiance and the specific measurement conditions have to be reported with the result.'
     type: intensional
-  - content: For a surface being irradiated, an equivalent formula in terms of photon irradiance, stem:[E_p], and solid angle, stem:[Omega], is stem:[L_p = ((d E_p))/((d omega)) (1)/((cos theta))], where stem:[theta] is the angle between the normal to the surface being irradiated and the direction of irradiation. This form is useful when the source has no surface (e.g. the sky, the plasma of a discharge).
+  - content: For a surface being irradiated, an equivalent formula in terms of photon irradiance, stem:[L_p = ("d"E_p)/("d"Omega) 1/(cos theta)], and solid angle, stem:[Omega], is stem:[L_p = ((d E_p))/((d omega)) (1)/((cos theta))], where stem:[theta] is the angle between the normal to the surface being irradiated and the direction of irradiation. This form is useful when the source has no surface (e.g. the sky, the plasma of a discharge).
     type: intensional
-  - content: An equivalent formula is stem:[L_p = ((d Phi_p))/((d G))], where stem:[Phi_p] is photon flux and stem:[G] is geometric extent.
+  - content: An equivalent formula is stem:[L_p = ("d" Phi_p)/("d" G)], where stem:[Phi_p] is photon flux and stem:[G] is geometric extent.
     type: intensional
-  - content: 'Photon flux can be obtained by integrating photon radiance over projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega]:
+  - content: 'Photon flux can be obtained by integrating photon radiance over projected area, stem:[Phi_p = int int L_p * cos alpha\ "d"A\ "d"Omega]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega]:
 
 
       stem:[Phi_p =  iint L_p * cos alpha d A d omega].'
     type: intensional
   - content: Since the optical extent, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_p]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic photon radiance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[Phi_p]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega],
+  - content: 'The equation in the definition can also be described as a function of photon flux, stem:[L_p(x,y,vartheta,varphi) = (del^2 Phi_p(x,y,vartheta,varphi))/(del A(x,y)*cos alpha*del Omega(vartheta,varphi))]. In this case, it is mathematically interpreted as a second partial derivative of the photon flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega],
 
 
       stem:[L_p ( x , y , vartheta , phi ) = ((del^2 Phi_p ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]

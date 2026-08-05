@@ -23,7 +23,7 @@ data:
   - content: 'density of exiting luminous flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[M_v = ((d Phi_v))/((d A))]
+      stem:[M_v = ("d" Phi_v)/("d" A)]
 
 
       where stem:[Phi_v] is luminous flux and stem:[A] is the area from which the luminous flux leaves'

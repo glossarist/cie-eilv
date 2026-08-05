@@ -23,13 +23,13 @@ data:
   - content: 'quotient NC/ND of two collinear distances on the chromaticity diagram of the CIE 1931 or 1964 standard colorimetric systems, the first distance being that between the point C representing the colour stimulus considered and the point N representing the specified achromatic stimulus, the second distance being that between the point N and the point D on the spectrum locus at the dominant wavelength of the colour stimulus considered, leading to the following expressions:
 
 
-      stem:[p_e = ((y - y_n))/((y_d - y_n))]
+      stem:[p_e = (y - y_n)/(y_d - y_n)]
 
 
       and
 
 
-      stem:[p_e = ((x - x_n))/((x_d - x_n))]
+      stem:[p_e = (x - x_n)/(x_d - x_n)]
 
 
       where (stem:[x], stem:[y]), (stem:[x_n], stem:[y_n]), (stem:[x_d], stem:[y_d]) are the stem:[x], stem:[y] chromaticity coordinates of the points C, N and D respectively'
@@ -40,7 +40,7 @@ data:
     type: intensional
   - content: The formulae in stem:[x] and stem:[y] are equivalent, but greater precision is given by the formula which has the greater value in the numerator.
     type: intensional
-  - content: 'The excitation purity, stem:[p_e], is related to the colorimetric purity, stem:[p_c], by the equation:
+  - content: 'The excitation purity, stem:[p_e = (p_cy)/y_d], is related to the colorimetric purity, stem:[p_c], by the equation:
 
 
       stem:[p_e = ((p_c y))/((y_d))]'

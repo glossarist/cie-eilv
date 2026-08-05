@@ -23,7 +23,7 @@ data:
   - content: 'quotient of the luminance at a surface element of a medium in a given direction and the illuminance on the medium
 
 
-      stem:[q_v = ((L_v))/((E_v))]
+      stem:[q_v = (L_v)/(E_v)]
 
 
       where stem:[L_v] is luminance and stem:[E_v] is illuminance'

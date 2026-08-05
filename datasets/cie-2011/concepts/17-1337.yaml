@@ -20,7 +20,7 @@ id: b8f1b9a0-b036-5151-80ba-0afd336c082a
 ---
 data:
   definition:
-  - content: 'quotient of transmitted radiant flux, stem:[Phi_t], and incident radiant flux, stem:[Phi_m]
+  - content: 'quotient of transmitted radiant flux, stem:[tau = Phi_t/Phi_m], and incident radiant flux, stem:[Phi_m]
 
 
       stem:[tau = ((Phi_t))/((Phi_m))]'

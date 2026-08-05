@@ -20,7 +20,7 @@ id: 777369eb-8d67-52da-9fb8-1cf8879ab6b1
 ---
 data:
   definition:
-  - content: 'time integral of spherical illuminance, stem:[E_{v,o}], at a given point over a given duration, stem:[Delta t]
+  - content: 'time integral of spherical illuminance, stem:[H_(v,o) = int_(Delta t) E_(v,o) "d"t], at a given point over a given duration, stem:[Delta t]
 
 
       stem:[H_{(v,o)} = underset((Delta t))( int ) E_{v,o} d t]'

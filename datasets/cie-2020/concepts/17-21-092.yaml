@@ -31,7 +31,7 @@ data:
   - content: 'The value of maximum luminous efficacy for photopic vision is calculated by
 
 
-      stem:[K_m = ((683))/((V ( lambda_{(cd)} ))) cd * sr * W^{- 1} tildetilde 683 \ lm * W^{- 1}]
+      stem:[K_m = 683/(V(lambda_(cd))) "cd" * "sr" * "W"^(-1) ~~ 683\ "lm"*"W"^(- 1)]
 
 
       where stem:[V](stem:[lambda]) is the {{concept:cie-2020:17-21-035, spectral luminous efficiency}} for photopic vision and stem:[lambda_{cd}] is the wavelength in air corresponding to the {{cite:IEV:103-06-02, frequency}} 540 stem:[xx] stem:[10^{12}] stem:[Hz] stem:[specified] stem:[in] stem:[the] stem:[definition] stem:[of] stem:[the] stem:[SI] stem:[unit] stem:[candela].'
@@ -57,7 +57,7 @@ data:
     usage_info: for a specified photometric condition
   - type: symbol
     normative_status: preferred
-    designation: stem:[K_m]
+    designation: stem:[K_m^']
   language_code: eng
   annotations: []
 termid: 17-21-092

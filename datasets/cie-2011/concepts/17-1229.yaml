@@ -20,7 +20,7 @@ id: 456e4d44-3c62-551b-9609-93a96b7de421
 ---
 data:
   definition:
-  - content: 'quotient of the output, dstem:[Y](stem:[lambda]), and the monochromatic input, dstem:[X_e](stem:[lambda]) = stem:[X_{e,lambda}](stem:[lambda]) dstem:[lambda], in the wavelength interval, dstem:[lambda], as a function of the wavelength, stem:[lambda]
+  - content: 'quotient of the output, dstem:[s(lambda)=("d"Y(lambda))/("d"X_e(lambda))](stem:[lambda]), and the monochromatic input, dstem:[X_e](stem:[lambda]) = stem:[X_{e,lambda}](stem:[lambda]) dstem:[lambda], in the wavelength interval, dstem:[lambda], as a function of the wavelength, stem:[lambda]
 
 
       stem:[s ( lambda ) = ((d Y ( lambda )))/((d X_e ( lambda )))]'

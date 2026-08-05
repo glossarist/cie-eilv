@@ -20,14 +20,14 @@ id: ed3a66aa-c7bd-5dae-988e-8f9fde469f6a
 ---
 data:
   definition:
-  - content: 'quotient of the detector output, stem:[Y], and the detector input, stem:[X]
+  - content: 'quotient of the detector output, stem:[s=Y/X], and the detector input, stem:[X]
 
 
       stem:[s = (Y)/(X)]'
     type: intensional
   examples: []
   notes:
-  - content: If the detector signal is stem:[Y_0] in the absence of input, and is stem:[Y_t] when there is an input stem:[X], the responsivity is stem:[s = ((Y_t - Y_0))/(X)].
+  - content: If the detector signal is stem:[s=(Y_t-Y_0)/X] in the absence of input, and is stem:[Y_t] when there is an input stem:[X], the responsivity is stem:[s = ((Y_t - Y_0))/(X)].
     type: intensional
   - content: The term "sensitivity" is no longer used.
     type: intensional

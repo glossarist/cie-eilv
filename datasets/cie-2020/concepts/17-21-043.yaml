@@ -41,14 +41,14 @@ data:
   - content: 'quotient of radiant energy and photon energy
 
 
-      stem:[N_p = ((Q_e))/((h nu))]
+      stem:[N_p = (Q_e) / (h v)]
 
 
-      where stem:[Q_e] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the {{cite:IEV:103-06-02, frequency}} of the corresponding electromagnetic wave'
+      where stem:[v] is radiant energy, stem:[h] is the Planck constant, and stem:[nu] is the {{cite:IEV:103-06-02, frequency}} of the corresponding electromagnetic wave'
     type: intensional
   examples: []
   notes:
-  - content: 'Photon number can also be expressed by the time integral of the photon flux, stem:[Phi_p], over a given duration, stem:[Delta t]:
+  - content: 'Photon number can also be expressed by the time integral of the photon flux, stem:[N_p = int_{Delta t} Phi_p "d" t], over a given duration, stem:[Delta t]:
 
 
       stem:[N_p = int_{(Delta t)} Phi_p d t]'

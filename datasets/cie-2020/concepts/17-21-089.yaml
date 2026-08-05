@@ -30,7 +30,7 @@ data:
   - content: 'quotient of the emitted luminous flux and the power consumed
 
 
-      stem:[eta_v = ((Phi_v))/(P)]
+      stem:[eta_v = (Phi_v)/P]
 
 
       where stem:[Phi_v] is luminous flux and stem:[P] is the power consumed by the light source'

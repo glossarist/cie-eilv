@@ -30,33 +30,33 @@ data:
   - content: 'density of luminous intensity with respect to projected area in a specified direction at a specified point on a real or imaginary surface
 
 
-      stem:[L_v = ((d I_v))/((d A)) (1)/((cos alpha))]
+      stem:[L_v = ("d" I_v)/("d" A) 1/(cos alpha)]
 
 
       where stem:[I_v] is luminous intensity, stem:[A] is area and stem:[alpha] is the angle between the normal to the surface at the specified point and the specified direction'
     type: intensional
   examples: []
   notes:
-  - content: 'In a practical sense, the definition of luminance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{concept:cie-2020:17-21-033, point sources}}, each of which has a specific luminous intensity, stem:[I_v], in the specified direction. The luminance of the surface is then the integral of these luminance elements over the whole surface.
+  - content: 'In a practical sense, the definition of luminance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as {{concept:cie-2020:17-21-033, point sources}}, each of which has a specific luminous intensity, stem:[bar I_v], in the specified direction. The luminance of the surface is then the integral of these luminance elements over the whole surface.
 
 
-      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of luminous intensity with projected area) and could alternatively be rewritten in terms of the average luminous intensity, stem:[bar I_v], as:
+      The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of luminous intensity with projected area) and could alternatively be rewritten in terms of the average luminous intensity, stem:[L_v = lim_(A -> 0)(bar I_v)/A 1/(cos alpha)], as:
 
 
-      stem:[L_v = underset((A -> 0))((lim)) ((bar I_v))/(A) (1)/((cos alpha))].
+      stem:[bar L_v = (bar I_v)/A 1/(cos alpha)].
 
 
       Hence, luminance is often considered as a quotient of averaged quantities; the area, stem:[A], should be small enough so that uncertainties due to variations in luminous intensity within that area are negligible; otherwise, the quotient stem:[bar L_v = ((bar I_v))/(A) (1)/((cos alpha))] gives the average luminance and the specific measurement conditions have to be reported with the result.'
     type: intensional
-  - content: For a surface being irradiated, an equivalent formula in terms of illuminance, stem:[E_v], and solid angle, stem:[Omega], is stem:[L_v = ((d E_v))/((d omega)) (1)/((cos theta))], where stem:[theta] is the angle between the normal to the surface being irradiated and the direction of irradiation. This form is useful when the source has no surface (e.g. the sky, the plasma of a discharge).
+  - content: For a surface being irradiated, an equivalent formula in terms of illuminance, stem:[L_v = ("d"E_v)/("d"Omega) 1/(cos theta)], and solid angle, stem:[Omega], is stem:[L_v = ((d E_v))/((d omega)) (1)/((cos theta))], where stem:[theta] is the angle between the normal to the surface being irradiated and the direction of irradiation. This form is useful when the source has no surface (e.g. the sky, the plasma of a discharge).
     type: intensional
-  - content: An equivalent formula is stem:[L_v = ((d Phi_v))/((d G))], where stem:[Phi_v] is luminous flux and stem:[G] is geometric extent.
+  - content: An equivalent formula is stem:[L_v = ("d" Phi_v)/("d" G)], where stem:[Phi_v] is luminous flux and stem:[G] is geometric extent.
     type: intensional
-  - content: "Luminous flux can be obtained by integrating luminance over projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega]:\r\nstem:[Phi_v =  iint L_v * cos alpha d A d omega]."
+  - content: "Luminous flux can be obtained by integrating luminance over projected area, stem:[Phi_v = int int L_v * cos alpha\\ \"d\"A\\ \"d\"Omega]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega]:\r\nstem:[Phi_v =  iint L_v * cos alpha d A d omega]."
     type: intensional
   - content: Since the {{concept:cie-2020:17-21-048, optical extent}}, expressed by stem:[Gcdotn^2], where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant, the quantity expressed by stem:[L_v]stem:[cdotn^{-2}] is also invariant along the path of the beam if the losses by absorption, reflection and diffusion are taken as 0. That quantity is called "basic luminance".
     type: intensional
-  - content: 'The equation in the definition can also be described as a function of luminous flux, stem:[Phi_v]. In this case, it is mathematically interpreted as a second partial derivative of the luminous flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega],
+  - content: 'The equation in the definition can also be described as a function of luminous flux, stem:[L_v(x,y,vartheta,varphi) = (del^2 phi_v(x,y,vartheta,varphi))/(del A(x,y) * cos alpha * del Omega (vartheta,varphi))]. In this case, it is mathematically interpreted as a second partial derivative of the luminous flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[theta], stem:[phi]) with respect to projected area, stem:[A]stem:[cdot] stem:[cos]stem:[alpha], and solid angle, stem:[Omega],
 
 
       stem:[L_v ( x , y , vartheta , phi ) = ((del^2 Phi_v ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]

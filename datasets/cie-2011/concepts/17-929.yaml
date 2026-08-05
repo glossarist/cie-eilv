@@ -23,7 +23,7 @@ data:
   - content: 'density of incident photon flux with respect to area at a point on a real or imaginary surface
 
 
-      stem:[E_p = ((d Phi_p))/((d A))]
+      stem:[E_p = ("d" Phi_p)/("d" A)]
 
 
       where stem:[Phi_p] is photon flux and stem:[A] is the area on which the photon flux is incident'

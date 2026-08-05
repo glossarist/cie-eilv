@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'stem:[Y], stem:[u], stem:[v] describe the colour stimulus considered, and stem:[u_n], stem:[v_n] describe a specified white achromatic stimulus, where stem:[u = u^{ '' }], stem:[v = (2)/(3) v^{ '' }]; stem:[u_n^{} = u_n^{ '' }], stem:[v_n = (2)/(3) v_n^{ '' }].
+  - content: 'stem:[v=2/3v''], stem:[u_n = u_n^''], stem:[v_n=2/3v_n^''] describe the colour stimulus considered, and stem:[u_n], stem:[v_n] describe a specified white achromatic stimulus, where stem:[u = u^{ '' }], stem:[v = (2)/(3) v^{ '' }]; stem:[u_n^{} = u_n^{ '' }], stem:[v_n = (2)/(3) v_n^{ '' }].
 
 
       See also "CIE 1976 uniform-chromaticity-scale diagram".'

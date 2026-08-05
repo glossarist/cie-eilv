@@ -20,7 +20,7 @@ id: 6c5152ef-cffc-5dfa-b7de-ac7e95481018
 ---
 data:
   definition:
-  - content: 'time integral of luminance, stem:[L_v], over a given duration, stem:[Delta t]
+  - content: 'time integral of luminance, stem:[L_(v,t) = int_(Delta t) L_v "d"t], over a given duration, stem:[Delta t]
 
 
       stem:[L_{(v , t)} = underset((Delta t))( int ) L_v d t]'

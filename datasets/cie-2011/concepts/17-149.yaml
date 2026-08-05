@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-149
   domains:
@@ -21,9 +20,7 @@ id: 9515e391-64ef-5b27-b22c-b4f26f354854
 ---
 data:
   definition:
-  - content: ideal observer whose colour-matching properties correspond to the CIE
-      colour-matching functions stem:[bar x ( lambda ) , bar y ( lambda ) , bar z
-      ( lambda )] adopted by the CIE in 1931
+  - content: ideal observer whose colour-matching properties correspond to the CIE colour-matching functions stem:[bar x (lambda), bar y (lambda), bar z (lambda)] adopted by the CIE in 1931
     type: intensional
   examples: []
   notes: []
