@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-169
   domains:
@@ -21,12 +20,11 @@ id: a0a3c8e7-802d-563b-9abd-bb76012f4184
 ---
 data:
   definition:
-  - content: lighting system comprising light sources arranged above transparent prisms
-      or diffuse transmitting materials covering the ceiling
+  - content: lighting system comprising light sources arranged above transparent prisms or diffuse transmitting materials covering the ceiling
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-726 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-726, 17-726}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-726
     type: authoritative
+  - id: cie-2011:17-726
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-726
   terms:
   - type: expression
     normative_status: preferred

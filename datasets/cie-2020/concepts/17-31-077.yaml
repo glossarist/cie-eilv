@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-077
   domains:
@@ -28,15 +27,13 @@ id: d348f6c7-b079-5703-9479-9700757ba871
 ---
 data:
   definition:
-  - content: light signal provided by the simultaneous operation of all the {{concept:cie-2020:17-31-075,
-      direction-indicator lights}} on a vehicle, and used to indicate that the vehicle
-      constitutes a special hazard to other moving vehicles
+  - content: light signal provided by the simultaneous operation of all the {{concept:cie-2020:17-31-075, direction-indicator lights}} on a vehicle, and used to indicate that the vehicle constitutes a special hazard to other moving vehicles
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-11-80, 845-11-80}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-520 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-520, 17-520}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-520
     type: authoritative
-  - id: 845-11-80
+  - id: IEV:845-11-80
     origin:
       ref:
         source: IEV
         id: 845-11-80
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-80
     type: authoritative
+  - id: cie-2011:17-520
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-520
   terms:
   - type: expression
     normative_status: preferred

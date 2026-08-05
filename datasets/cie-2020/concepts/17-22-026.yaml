@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-026
   domains:
@@ -21,13 +20,11 @@ id: 8d9427f0-60d1-51cb-af91-2ea72273dea9
 ---
 data:
   definition:
-  - content: dichromatic defective colour vision in which discrimination of the reddish
-      and greenish contents of colours is absent, without any colours appearing abnormally
-      dim
+  - content: dichromatic defective colour vision in which discrimination of the reddish and greenish contents of colours is absent, without any colours appearing abnormally dim
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-299 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-299, 17-299}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-299
     type: authoritative
+  - id: cie-2011:17-299
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-299
   terms:
   - type: expression
     normative_status: preferred

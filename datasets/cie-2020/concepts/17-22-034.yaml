@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-034
   domains:
@@ -21,12 +20,11 @@ id: cfcf4253-5908-5d52-a632-707a146f1a1c
 ---
 data:
   definition:
-  - content: dichromatic defective colour vision in which discrimination of the bluish
-      and yellowish contents of colours is absent
+  - content: dichromatic defective colour vision in which discrimination of the bluish and yellowish contents of colours is absent
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1347 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1347, 17-1347}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1347
     type: authoritative
+  - id: cie-2011:17-1347
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1347
   terms:
   - type: expression
     normative_status: preferred
@@ -45,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-034
-id: '00414248-6664-54a7-b0c2-4dfe8b7f557a'
+id: 00414248-6664-54a7-b0c2-4dfe8b7f557a

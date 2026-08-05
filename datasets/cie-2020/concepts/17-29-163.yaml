@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-163
   domains:
@@ -21,12 +20,11 @@ id: 2c56670c-55b5-580b-91f2-06e69f9eed12
 ---
 data:
   definition:
-  - content: hollow light guide in which light is confined by total internal reflection
-      by prismatic surfaces in the transparent material comprising the guide wall
+  - content: hollow light guide in which light is confined by total internal reflection by prismatic surfaces in the transparent material comprising the guide wall
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-985 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-985, 17-985}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-985
     type: authoritative
+  - id: cie-2011:17-985
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-985
   terms:
   - type: expression
     normative_status: preferred

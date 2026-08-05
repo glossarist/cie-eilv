@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-013
   domains:
@@ -21,12 +20,11 @@ id: 93bb5b88-ed3c-59f8-a1bd-38aab676f601
 ---
 data:
   definition:
-  - content: direct (photochemical carcinogenesis) or indirect enhancement of UV-associated
-      skin carcinogenesis (e.g. sunlight-associated carcinogenesis) by a drug or chemical
+  - content: direct (photochemical carcinogenesis) or indirect enhancement of UV-associated skin carcinogenesis (e.g. sunlight-associated carcinogenesis) by a drug or chemical
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-887 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-887, 17-887}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-887
     type: authoritative
+  - id: cie-2011:17-887
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-887
   terms:
   - type: expression
     normative_status: preferred

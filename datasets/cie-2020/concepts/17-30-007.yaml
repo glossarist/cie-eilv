@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-007
   domains:
@@ -28,19 +27,15 @@ id: 4a5b1064-0d7f-56e5-b1d2-b4343bde09d7
 ---
 data:
   definition:
-  - content: luminaire with special protection against ingress of dust, moisture or
-      water
+  - content: luminaire with special protection against ingress of dust, moisture or water
     type: intensional
   examples: []
   notes:
-  - content: 'IEC 60598-1, _Luminaires - Part 1: General requirements and tests_ considers,
-      amongst others, the following types of protected luminaires: dust-proof luminaire,
-      dust-tight luminaire, drip-proof luminaire, splash-proof luminaire, rain-proof
-      luminaire, jet-proof luminaire, watertight luminaire.'
+  - content: 'IEC 60598-1, _Luminaires - Part 1: General requirements and tests_ considers, amongst others, the following types of protected luminaires: dust-proof luminaire, dust-tight luminaire, drip-proof luminaire, splash-proof luminaire, rain-proof luminaire, jet-proof luminaire, watertight luminaire.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-10-06, 845-10-06}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-995 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-995, 17-995}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -57,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-995
     type: authoritative
-  - id: 845-10-06
+  - id: IEV:845-10-06
     origin:
       ref:
         source: IEV
         id: 845-10-06
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-06
     type: authoritative
+  - id: cie-2011:17-995
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-995
   terms:
   - type: expression
     normative_status: preferred

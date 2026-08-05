@@ -26,7 +26,7 @@ data:
   notes:
   - content: 'See also ISO/CIE 11664-1, _Colorimetry stem:[-] Part 1: CIE Standard Colorimetric Observers_.'
     type: intensional
-  - content: This entry was numbered 17-151 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-151, 17-151}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-151
     type: authoritative
+  - id: cie-2011:17-151
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-151
   terms:
   - type: expression
     normative_status: preferred

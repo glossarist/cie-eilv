@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-013
   domains:
@@ -21,28 +20,17 @@ id: e7877f40-f141-526a-b61a-2ab30abb4f33
 ---
 data:
   definition:
-  - content: digital encoding of colour values, together with any information necessary
-      to interpret properly the colour values such as the image state, the intended
-      image viewing environment and the reference medium
+  - content: digital encoding of colour values, together with any information necessary to interpret properly the colour values such as the image state, the intended image viewing environment and the reference medium
     type: intensional
   examples: []
   notes:
-  - content: In some cases the intended image viewing environment will be explicitly
-      defined for the colour image encoding. In other cases, the intended image viewing
-      environment, i.e. details of the image state, can be specified on an image-by-image
-      basis using metadata associated with the digital image.
+  - content: In some cases the intended image viewing environment will be explicitly defined for the colour image encoding. In other cases, the intended image viewing environment, i.e. details of the image state, can be specified on an image-by-image basis using metadata associated with the digital image.
     type: intensional
-  - content: Some colour image encodings will indicate particular reference medium
-      characteristics, such as a reflection print with a specified density range.
-      In other cases the reference medium will be not applicable, such as with a scene-referred
-      encoding, or will be specified using image metadata.
+  - content: Some colour image encodings will indicate particular reference medium characteristics, such as a reflection print with a specified density range. In other cases the reference medium will be not applicable, such as with a scene-referred encoding, or will be specified using image metadata.
     type: intensional
-  - content: Colour image encodings are not limited to pictorial digital images that
-      originate from an original scene, but are also applicable to digital images
-      with content such as text, line art, vector graphics and other forms of original
-      artwork.
+  - content: Colour image encodings are not limited to pictorial digital images that originate from an original scene, but are also applicable to digital images with content such as text, line art, vector graphics and other forms of original artwork.
     type: intensional
-  - content: This entry was numbered 17-217 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-217, 17-217}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-217
     type: authoritative
+  - id: cie-2011:17-217
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-217
   terms:
   - type: expression
     normative_status: preferred

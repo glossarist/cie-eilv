@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-062
   domains:
@@ -28,14 +27,13 @@ id: 4c5a48ae-1f7e-5a00-8b3d-4993b2620aef
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-30-061, miner's personal lamp}} designed to be
-      attached to a miner's helmet"
+  - content: '{{concept:cie-2020:17-30-061, miner''s personal lamp}} designed to be attached to a miner''s helmet'
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-10-51, 845-10-51}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-120 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-120, 17-120}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-120
     type: authoritative
-  - id: 845-10-51
+  - id: IEV:845-10-51
     origin:
       ref:
         source: IEV
         id: 845-10-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-51
     type: authoritative
+  - id: cie-2011:17-120
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-120
   terms:
   - type: expression
     normative_status: preferred

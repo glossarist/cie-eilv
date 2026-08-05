@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-062
   domains:
@@ -21,13 +20,11 @@ id: 990dbd6e-8cc9-58c6-ad88-6d0a6087ba65
 ---
 data:
   definition:
-  - content: imaging medium associated with a specified real or virtual output device,
-      the characteristics of which are specified as part of the specification of a
-      standard output-referred colour image encoding
+  - content: imaging medium associated with a specified real or virtual output device, the characteristics of which are specified as part of the specification of a standard output-referred colour image encoding
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1054 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1054, 17-1054}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1054
     type: authoritative
+  - id: cie-2011:17-1054
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1054
   terms:
   - type: expression
     normative_status: preferred

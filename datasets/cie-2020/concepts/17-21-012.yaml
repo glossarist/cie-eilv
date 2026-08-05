@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-012
   domains:
@@ -28,14 +27,11 @@ id: a332bdb6-66c9-5128-87ed-f74f79be66d1
 ---
 data:
   definition:
-  - content: radiation that is considered from the point of view of its ability to
-      excite the visual system
+  - content: radiation that is considered from the point of view of its ability to excite the visual system
     type: intensional
   examples: []
   notes:
-  - content: The term "light" is sometimes used for {{concept:cie-2020:17-21-002,
-      optical radiation}} extending outside the visible range, but this usage is not
-      recommended.
+  - content: The term "light" is sometimes used for {{concept:cie-2020:17-21-002, optical radiation}} extending outside the visible range, but this usage is not recommended.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-06, 845-01-06}} in IEC 60050-845:1987.
     type: intensional
@@ -56,7 +52,7 @@ data:
         source: CIE S 017:2011
         id: 17-659 (2.)
     type: authoritative
-  - id: 845-01-06
+  - id: IEV:845-01-06
     origin:
       ref:
         source: IEV

@@ -36,13 +36,19 @@ data:
     type: intensional
   - content: The ceiling cavity ratio has unit one.
     type: intensional
-  - content: This entry was numbered 17-132 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-132, 17-132}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
+  - id: cie-2011:17-132
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-132
   terms:
   - type: expression
     normative_status: preferred

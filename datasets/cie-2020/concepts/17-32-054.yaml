@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-054
   domains:
@@ -21,50 +20,23 @@ id: 48bd6a75-bc02-51ff-be24-69ecb26f3496
 ---
 data:
   definition:
-  - content: image state associated with image data that represents estimates of the
-      colour space coordinates of the elements of a scene
+  - content: image state associated with image data that represents estimates of the colour space coordinates of the elements of a scene
     type: intensional
   examples: []
   notes:
-  - content: When the phrase "scene-referred" is used as a qualifier to an object,
-      it implies that the object is in a scene-referred image state. For example,
-      scene-referred image data are image data in a scene-referred image state.
+  - content: When the phrase "scene-referred" is used as a qualifier to an object, it implies that the object is in a scene-referred image state. For example, scene-referred image data are image data in a scene-referred image state.
     type: intensional
-  - content: Scene-referred image data can be determined from raw digital still camera
-      (DSC) image data before colour rendering is performed. Generally, DSCs do not
-      write scene-referred image data in image files, but some can do so in a special
-      mode intended for this purpose. Typically, DSCs write standard output-referred
-      image data where colour rendering has already been performed.
+  - content: Scene-referred image data can be determined from raw digital still camera (DSC) image data before colour rendering is performed. Generally, DSCs do not write scene-referred image data in image files, but some can do so in a special mode intended for this purpose. Typically, DSCs write standard output-referred image data where colour rendering has already been performed.
     type: intensional
-  - content: Scene-referred image data typically represent relative scene colorimetry
-      estimates. Absolute scene colorimetry estimates can be calculated using a scaling
-      factor. The scaling factor can be derived from additional information such as
-      the image opto-electronic conversion function (OECF), the stem:[F] number or
-      aperture value, and the exposure time or shutter speed value tags.
+  - content: Scene-referred image data typically represent relative scene colorimetry estimates. Absolute scene colorimetry estimates can be calculated using a scaling factor. The scaling factor can be derived from additional information such as the image opto-electronic conversion function (OECF), the stem:[F] number or aperture value, and the exposure time or shutter speed value tags.
     type: intensional
-  - content: Scene-referred image data can contain inaccuracies due to the dynamic
-      range limitations of the capture device, noise from various sources, quantization,
-      optical blurring and flare that are not corrected for, and colour analysis errors
-      due to capture device metamerism. In some cases, these sources of inaccuracy
-      can be significant.
+  - content: Scene-referred image data can contain inaccuracies due to the dynamic range limitations of the capture device, noise from various sources, quantization, optical blurring and flare that are not corrected for, and colour analysis errors due to capture device metamerism. In some cases, these sources of inaccuracy can be significant.
     type: intensional
-  - content: The transformation from raw DSC image data to scene-referred image data
-      depends on the relative {{concept:cie-2020:17-32-058, adopted whites}} selected
-      for the scene and the colour space used to encode the image data. If the chosen
-      scene adopted white is inappropriate, additional errors will be introduced into
-      the scene-referred image data. These errors can be correctable if the transformation
-      used to produce the scene-referred image data is known, and the colour encoding
-      used for the incorrect scene-referred image data has adequate precision and
-      dynamic range.
+  - content: The transformation from raw DSC image data to scene-referred image data depends on the relative {{concept:cie-2020:17-32-058, adopted whites}} selected for the scene and the colour space used to encode the image data. If the chosen scene adopted white is inappropriate, additional errors will be introduced into the scene-referred image data. These errors can be correctable if the transformation used to produce the scene-referred image data is known, and the colour encoding used for the incorrect scene-referred image data has adequate precision and dynamic range.
     type: intensional
-  - content: The scene can correspond to an actual view of the natural world, or can
-      be a computer-generated virtual scene simulating such a view. It can also correspond
-      to a modified scene determined by applying modifications to an original scene
-      to produce some different desired scene. Any such scene modifications should
-      leave the image in a scene-referred image state, and should be done in the context
-      of an expected colour rendering transform.
+  - content: The scene can correspond to an actual view of the natural world, or can be a computer-generated virtual scene simulating such a view. It can also correspond to a modified scene determined by applying modifications to an original scene to produce some different desired scene. Any such scene modifications should leave the image in a scene-referred image state, and should be done in the context of an expected colour rendering transform.
     type: intensional
-  - content: This entry was numbered 17-567 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-567, 17-567}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -76,6 +48,12 @@ data:
         source: CIE S 017:2011
         id: 17-567
     type: authoritative
+  - id: cie-2011:17-567
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-567
   terms:
   - type: expression
     normative_status: preferred

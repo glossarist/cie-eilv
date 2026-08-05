@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-084
   domains:
@@ -25,10 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The main visual elements are the size of the structure, its luminance,
-      its contrast against the background, its colour, and its duration.
+  - content: The main visual elements are the size of the structure, its luminance, its contrast against the background, its colour, and its duration.
     type: intensional
-  - content: This entry was numbered 17-1418 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1418, 17-1418}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1418
     type: authoritative
+  - id: cie-2011:17-1418
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1418
   terms:
   - type: expression
     normative_status: preferred

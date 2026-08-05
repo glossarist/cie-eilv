@@ -32,7 +32,7 @@ data:
     type: intensional
   - content: The blue light hazard radiance is expressed in watt per square metre per steradian stem:[W cdot m^(-2) cdot sr^(-1)].
     type: intensional
-  - content: This entry was numbered 17-99 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-99, 17-99}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +44,12 @@ data:
         source: CIE S 017:2011
         id: 17-99
     type: authoritative
+  - id: cie-2011:17-99
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-99
   terms:
   - type: expression
     normative_status: preferred

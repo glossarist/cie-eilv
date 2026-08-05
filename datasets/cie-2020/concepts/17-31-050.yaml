@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-050
   domains:
@@ -28,23 +27,15 @@ id: a5596f2e-8213-5b9a-a163-8924610ac205
 ---
 data:
   definition:
-  - content: aeronautical ground light positioned on, or very close to, a runway of
-      an aerodrome to indicate the part of the runway intended for the landing or
-      take-off of aircraft
+  - content: aeronautical ground light positioned on, or very close to, a runway of an aerodrome to indicate the part of the runway intended for the landing or take-off of aircraft
     type: intensional
   examples: []
   notes:
-  - content: Runway centreline lights and runway edge lights indicate the centreline
-      and the edges of a runway, respectively. Runway threshold lights and runway
-      end lights indicate the beginning and the end of the part of the runway intended
-      for the landing of aircraft, respectively. Runway touchdown zone lights are
-      barrettes arranged in pairs symmetrically about the centreline of a runway,
-      and between the two lines of runway edge lights, to indicate the portion of
-      the runway where aircraft should first make contact on landing.
+  - content: Runway centreline lights and runway edge lights indicate the centreline and the edges of a runway, respectively. Runway threshold lights and runway end lights indicate the beginning and the end of the part of the runway intended for the landing of aircraft, respectively. Runway touchdown zone lights are barrettes arranged in pairs symmetrically about the centreline of a runway, and between the two lines of runway edge lights, to indicate the portion of the runway where aircraft should first make contact on landing.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-53, 845-11-53}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1129 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1129, 17-1129}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -61,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1129
     type: authoritative
-  - id: 845-11-53
+  - id: IEV:845-11-53
     origin:
       ref:
         source: IEV
         id: 845-11-53
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-53
     type: authoritative
+  - id: cie-2011:17-1129
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1129
   terms:
   - type: expression
     normative_status: preferred

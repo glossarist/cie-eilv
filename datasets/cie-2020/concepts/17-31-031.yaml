@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-031
   domains:
@@ -28,17 +27,15 @@ id: af40cbca-5624-52ae-9b3d-e09e0d3dfb4e
 ---
 data:
   definition:
-  - content: signal light designed to show a signal of one character over a narrow
-      arc of the horizon, and used to indicate a particular direction
+  - content: signal light designed to show a signal of one character over a narrow arc of the horizon, and used to indicate a particular direction
     type: intensional
   examples: []
   notes:
-  - content: A direction light can also indicate an arc of the horizon to each side
-      by dissimilar characters.
+  - content: A direction light can also indicate an arc of the horizon to each side by dissimilar characters.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-33, 845-11-33}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-326 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-326, 17-326}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -55,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-326
     type: authoritative
-  - id: 845-11-33
+  - id: IEV:845-11-33
     origin:
       ref:
         source: IEV
         id: 845-11-33
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-33
     type: authoritative
+  - id: cie-2011:17-326
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-326
   terms:
   - type: expression
     normative_status: preferred

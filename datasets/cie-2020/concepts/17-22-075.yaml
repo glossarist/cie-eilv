@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-075
   domains:
@@ -21,16 +20,13 @@ id: 9cd757ed-3db9-5b2e-a3ec-0ec083037a8d
 ---
 data:
   definition:
-  - content: modification of the visual response that occurs when two colour stimuli
-      (of any spectral irradiance distribution) are viewed side-by-side, where each
-      stimulus affects the appearance of the other
+  - content: modification of the visual response that occurs when two colour stimuli (of any spectral irradiance distribution) are viewed side-by-side, where each stimulus affects the appearance of the other
     type: intensional
   examples: []
   notes:
-  - content: Chromatic induction is virtually instantaneous, in contrast to chromatic
-      adaptation which is considered to develop slowly in the visual system.
+  - content: Chromatic induction is virtually instantaneous, in contrast to chromatic adaptation which is considered to develop slowly in the visual system.
     type: intensional
-  - content: This entry was numbered 17-142 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-142, 17-142}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-142
     type: authoritative
+  - id: cie-2011:17-142
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-142
   terms:
   - type: expression
     normative_status: preferred

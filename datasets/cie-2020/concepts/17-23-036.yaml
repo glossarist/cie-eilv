@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-036
   domains:
@@ -28,15 +27,13 @@ id: f9ea05b5-ad7f-5fd6-b7ab-4977eebb2830
 ---
 data:
   definition:
-  - content: system for specifying colour stimuli in terms of {{concept:cie-2020:17-23-038,
-      tristimulus values}}, based on matching colours by additive mixture of three
-      suitably chosen reference colour stimuli
+  - content: system for specifying colour stimuli in terms of {{concept:cie-2020:17-23-038, tristimulus values}}, based on matching colours by additive mixture of three suitably chosen reference colour stimuli
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-03-20, 845-03-20}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1343 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1343, 17-1343}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1343
     type: authoritative
-  - id: 845-03-20
+  - id: IEV:845-03-20
     origin:
       ref:
         source: IEV
         id: 845-03-20
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-20
     type: authoritative
+  - id: cie-2011:17-1343
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1343
   terms:
   - type: expression
     normative_status: preferred

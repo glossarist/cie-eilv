@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-143
   domains:
@@ -21,17 +20,13 @@ id: e8c60780-c9c7-5dca-a2cd-fe5ce1c154cd
 ---
 data:
   definition:
-  - content: programme according to which the maintenance operations of luminaire
-      cleaning, room surface cleaning and lamp replacement are scheduled to be carried
-      out at equal time intervals
+  - content: programme according to which the maintenance operations of luminaire cleaning, room surface cleaning and lamp replacement are scheduled to be carried out at equal time intervals
     type: intensional
   examples: []
   notes:
-  - content: Usually the time interval for the room surface cleaning is a multiple
-      of the lamp replacement interval; the latter is in turn a multiple of the luminaire
-      cleaning interval.
+  - content: Usually the time interval for the room surface cleaning is a multiple of the lamp replacement interval; the latter is in turn a multiple of the luminaire cleaning interval.
     type: intensional
-  - content: This entry was numbered 17-394 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-394, 17-394}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -43,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-394
     type: authoritative
+  - id: cie-2011:17-394
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-394
   terms:
   - type: expression
     normative_status: preferred

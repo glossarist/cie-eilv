@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-050
   domains:
@@ -21,18 +20,15 @@ id: d5dc1586-082d-5f46-8e72-d27d07610e85
 ---
 data:
   definition:
-  - content: attribute of a colour image encoding indicating the kind of image condition
-      inherent in colour image data values prepared and represented in that encoding
+  - content: attribute of a colour image encoding indicating the kind of image condition inherent in colour image data values prepared and represented in that encoding
     type: intensional
   examples: []
   notes:
-  - content: Colour image data are referred to a particular image condition through
-      image capture, digitization, colour rendering and colour re-rendering processes.
+  - content: Colour image data are referred to a particular image condition through image capture, digitization, colour rendering and colour re-rendering processes.
     type: intensional
-  - content: Typical image states are scene-referred, original-referred, output-referred
-      and picture-referred.
+  - content: Typical image states are scene-referred, original-referred, output-referred and picture-referred.
     type: intensional
-  - content: This entry was numbered 17-563 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-563, 17-563}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-563
     type: authoritative
+  - id: cie-2011:17-563
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-563
   terms:
   - type: expression
     normative_status: preferred

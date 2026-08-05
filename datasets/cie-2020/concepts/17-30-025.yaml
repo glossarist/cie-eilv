@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-025
   domains:
@@ -28,14 +27,13 @@ id: 4129a91f-5b87-52c3-9373-465db905c100
 ---
 data:
   definition:
-  - content: lighting system comprising light sources shielded by a ledge or recess,
-      and distributing light over the ceiling and wall above it
+  - content: lighting system comprising light sources shielded by a ledge or recess, and distributing light over the ceiling and wall above it
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-10-19, 845-10-19}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-262 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-262, 17-262}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-262
     type: authoritative
-  - id: 845-10-19
+  - id: IEV:845-10-19
     origin:
       ref:
         source: IEV
         id: 845-10-19
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-19
     type: authoritative
+  - id: cie-2011:17-262
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-262
   terms:
   - type: expression
     normative_status: preferred

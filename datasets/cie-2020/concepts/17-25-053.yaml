@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-053
   domains:
@@ -28,15 +27,13 @@ id: bd05cf24-2e56-5173-b5a5-be71f13a5d13
 ---
 data:
   definition:
-  - content: thermal detector of {{concept:cie-2020:17-21-002, optical radiation}}
-      in which the electromotive force produced in a single thermoelectric junction
-      is used to measure the heating effect produced by the absorbed radiation
+  - content: thermal detector of {{concept:cie-2020:17-21-002, optical radiation}} in which the electromotive force produced in a single thermoelectric junction is used to measure the heating effect produced by the absorbed radiation
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-05-46, 845-05-46}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1309 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1309, 17-1309}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1309
     type: authoritative
-  - id: 845-05-46
+  - id: IEV:845-05-46
     origin:
       ref:
         source: IEV
         id: 845-05-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-46
     type: authoritative
+  - id: cie-2011:17-1309
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1309
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-063
   domains:
@@ -28,8 +27,7 @@ id: cc38c50c-b080-5931-a074-910b849643b2
 ---
 data:
   definition:
-  - content: brightness of an area judged relative to the brightness of a similarly
-      illuminated area that appears to be white or highly transmitting
+  - content: brightness of an area judged relative to the brightness of a similarly illuminated area that appears to be white or highly transmitting
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-31, 845-02-31}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-680 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-680, 17-680}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-680
     type: authoritative
-  - id: 845-02-31
+  - id: IEV:845-02-31
     origin:
       ref:
         source: IEV
         id: 845-02-31
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-31
     type: authoritative
+  - id: cie-2011:17-680
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-680
   terms:
   - type: expression
     normative_status: preferred

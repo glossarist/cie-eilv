@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-125
   domains:
@@ -21,12 +20,11 @@ id: 23874a00-2441-50fb-bbf0-69c14fae04f9
 ---
 data:
   definition:
-  - content: number of elements constructed in a square lattice or other arrangement
-      from which characters can be formed
+  - content: number of elements constructed in a square lattice or other arrangement from which characters can be formed
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-135 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-135, 17-135}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-135
     type: authoritative
+  - id: cie-2011:17-135
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-135
   terms:
   - type: expression
     normative_status: preferred

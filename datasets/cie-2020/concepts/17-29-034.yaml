@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-034
   domains:
@@ -21,12 +20,11 @@ id: 69f0e03c-20d5-588e-822d-a363dc091496
 ---
 data:
   definition:
-  - content: that part of a lighting system that comprises the luminaires and their
-      supporting structures, installed at the location or property concerned
+  - content: that part of a lighting system that comprises the luminaires and their supporting structures, installed at the location or property concerned
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-677 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-677, 17-677}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-677
     type: authoritative
+  - id: cie-2011:17-677
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-677
   terms:
   - type: expression
     normative_status: preferred

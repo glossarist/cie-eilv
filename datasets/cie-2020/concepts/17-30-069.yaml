@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-069
   domains:
@@ -28,14 +27,13 @@ id: 588bac36-c96b-5c0f-8805-9f748c73f7a2
 ---
 data:
   definition:
-  - content: mine luminaire, portable or otherwise, providing {{concept:cie-2020:17-29-001,
-      lighting}} in working face areas
+  - content: mine luminaire, portable or otherwise, providing {{concept:cie-2020:17-29-001, lighting}} in working face areas
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-10-58, 845-10-58}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-426 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-426, 17-426}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-426
     type: authoritative
-  - id: 845-10-58
+  - id: IEV:845-10-58
     origin:
       ref:
         source: IEV
         id: 845-10-58
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-58
     type: authoritative
+  - id: cie-2011:17-426
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-426
   terms:
   - type: expression
     normative_status: preferred

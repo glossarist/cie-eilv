@@ -34,7 +34,7 @@ data:
     type: intensional
   - content: In a few cases, it can be desirable to introduce slight colorimetric errors in the production of original-referred image data, for example to make the gamut of the original more closely fit the colour space, or because of the way the image data were captured (such as a Status A densitometry-based scanner).
     type: intensional
-  - content: This entry was numbered 17-564 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-564, 17-564}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -46,6 +46,12 @@ data:
         source: CIE S 017:2011
         id: 17-564
     type: authoritative
+  - id: cie-2011:17-564
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-564
   terms:
   - type: expression
     normative_status: preferred

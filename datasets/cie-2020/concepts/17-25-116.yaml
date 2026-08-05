@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-116
   domains:
@@ -21,20 +20,20 @@ id: d0fd2a5c-8662-5fbb-931c-28f9afe22a23
 ---
 data:
   definition:
-  - content: |-
-      unwanted light that forms part of the measurement
+  - content: 'unwanted light that forms part of the measurement
 
 
 
-      Light that reaches the detector which is at a wavelength other than the wavelength intended to be measured.
+
+      Light that reaches the detector which is at a wavelength other than the wavelength intended to be measured.'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      Light that reaches the {{concept:cie-2020:17-25-035, detector}} from directions other than the desired path from the {{concept:cie-2020:17-21-032, source}} to the {{concept:cie-2020:17-25-035, detector}}, e.g. light scattered from walls, ceilings or optical components within the measuring system.
-      Light that reaches the {{concept:cie-2020:17-25-035, detector}} which is at a {{concept:cie-2020:17-21-025, wavelength}} other than the {{concept:cie-2020:17-21-025, wavelength}} intended to be measured.
+  - content: 'Light that reaches the {{concept:cie-2020:17-25-035, detector}} from directions other than the desired path from the {{concept:cie-2020:17-21-032, source}} to the {{concept:cie-2020:17-25-035, detector}}, e.g. light scattered from walls, ceilings or optical components within the measuring system.
+
+      Light that reaches the {{concept:cie-2020:17-25-035, detector}} which is at a {{concept:cie-2020:17-21-025, wavelength}} other than the {{concept:cie-2020:17-21-025, wavelength}} intended to be measured.'
     type: intensional
-  - content: This entry was numbered 17-1273 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1273, 17-1273}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -46,6 +45,12 @@ data:
         source: CIE S 017:2011
         id: 17-1273
     type: authoritative
+  - id: cie-2011:17-1273
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1273
   terms:
   - type: expression
     normative_status: preferred

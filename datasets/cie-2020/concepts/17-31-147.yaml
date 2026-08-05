@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-147
   domains:
@@ -21,12 +20,11 @@ id: e1f65b4c-c3ba-5968-9686-23f4193c239c
 ---
 data:
   definition:
-  - content: greatest distance at which a black object of suitable dimensions can
-      be recognized by day against the horizon sky
+  - content: greatest distance at which a black object of suitable dimensions can be recognized by day against the horizon sky
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-773 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-773, 17-773}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-773
     type: authoritative
+  - id: cie-2011:17-773
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-773
   terms:
   - type: expression
     normative_status: preferred

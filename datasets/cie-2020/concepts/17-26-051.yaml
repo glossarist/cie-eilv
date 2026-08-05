@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-578 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-578, 17-578}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -36,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-578
     type: authoritative
+  - id: cie-2011:17-578
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-578
   terms:
   - type: expression
     normative_status: preferred

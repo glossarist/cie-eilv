@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-009
   domains:
@@ -21,12 +20,11 @@ id: 2f85827b-df59-56a2-b185-a0dbe9708f30
 ---
 data:
   definition:
-  - content: digitally encoded data, with colour aspects represented using a colour
-      image encoding
+  - content: digitally encoded data, with colour aspects represented using a colour image encoding
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-213 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-213, 17-213}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-213
     type: authoritative
+  - id: cie-2011:17-213
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-213
   terms:
   - type: expression
     normative_status: preferred

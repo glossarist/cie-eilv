@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-092
   domains:
@@ -28,19 +27,15 @@ id: e8dd30fb-96f3-53f5-a034-bd603a21632a
 ---
 data:
   definition:
-  - content: perception of visual unsteadiness induced by a light stimulus the luminance
-      or spectral distribution of which fluctuates with time, for a static observer
-      in a static environment
+  - content: perception of visual unsteadiness induced by a light stimulus the luminance or spectral distribution of which fluctuates with time, for a static observer in a static environment
     type: intensional
   examples: []
   notes:
-  - content: The fluctuations of the light stimulus with time include periodic and
-      non-periodic fluctuations and can be induced by the light source itself, the
-      power source or other influencing factors.
+  - content: The fluctuations of the light stimulus with time include periodic and non-periodic fluctuations and can be induced by the light source itself, the power source or other influencing factors.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-49, 845-02-49}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-443 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-443, 17-443}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -57,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-443
     type: authoritative
-  - id: 845-02-49
+  - id: IEV:845-02-49
     origin:
       ref:
         source: IEV
         id: 845-02-49
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-49
     type: authoritative
+  - id: cie-2011:17-443
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-443
   terms:
   - type: expression
     normative_status: preferred

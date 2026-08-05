@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-144
   domains:
@@ -21,14 +20,11 @@ id: 2e84e198-dace-5d19-86f9-62e69e655921
 ---
 data:
   definition:
-  - content: programme according to which the maintenance operations of luminaire
-      cleaning, room surface cleaning and lamp replacement are scheduled to be carried
-      out when the illuminance decreases to the {{concept:cie-2020:17-29-145, maintained
-      lighting value}}
+  - content: programme according to which the maintenance operations of luminaire cleaning, room surface cleaning and lamp replacement are scheduled to be carried out when the illuminance decreases to the {{concept:cie-2020:17-29-145, maintained lighting value}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-395 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-395, 17-395}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-395
     type: authoritative
+  - id: cie-2011:17-395
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-395
   terms:
   - type: expression
     normative_status: preferred

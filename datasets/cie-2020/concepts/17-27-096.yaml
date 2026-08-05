@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-096
   domains:
@@ -28,15 +27,13 @@ id: a7a4c0b8-fd36-58b6-b538-8db958968231
 ---
 data:
   definition:
-  - content: electric lamp selected for testing ballasts which, when associated with
-      a reference ballast, has electrical characteristics which are close to the rated
-      values as stated in the relevant lamp standard
+  - content: electric lamp selected for testing ballasts which, when associated with a reference ballast, has electrical characteristics which are close to the rated values as stated in the relevant lamp standard
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-07-55, 845-07-55}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1051 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1051, 17-1051}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1051
     type: authoritative
-  - id: 845-07-55
+  - id: IEV:845-07-55
     origin:
       ref:
         source: IEV
         id: 845-07-55
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-55
     type: authoritative
+  - id: cie-2011:17-1051
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1051
   terms:
   - type: expression
     normative_status: preferred

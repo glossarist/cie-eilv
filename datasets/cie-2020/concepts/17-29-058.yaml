@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-058
   domains:
@@ -28,8 +27,7 @@ id: 023d252c-65d5-5e62-8997-2ec03034830a
 ---
 data:
   definition:
-  - content: luminous flux received by the surface from a lighting installation, after
-      reflection from other surfaces
+  - content: luminous flux received by the surface from a lighting installation, after reflection from other surfaces
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-45, 845-09-45}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-573 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-573, 17-573}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-573
     type: authoritative
-  - id: 845-09-45
+  - id: IEV:845-09-45
     origin:
       ref:
         source: IEV
         id: 845-09-45
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-45
     type: authoritative
+  - id: cie-2011:17-573
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-573
   terms:
   - type: expression
     normative_status: preferred

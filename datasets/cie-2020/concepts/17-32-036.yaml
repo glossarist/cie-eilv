@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-036
   domains:
@@ -21,14 +20,11 @@ id: 1d746614-89b9-5499-acff-c7a62228df05
 ---
 data:
   definition:
-  - content: display that incorporates a practically flat surface, and is generally
-      much thinner than its diagonal, for the presentation of visual information and
-      whose surface contains an active area consisting of a regular array of electrically
-      alterable, discrete picture elements (pixels) in rows and columns
+  - content: display that incorporates a practically flat surface, and is generally much thinner than its diagonal, for the presentation of visual information and whose surface contains an active area consisting of a regular array of electrically alterable, discrete picture elements (pixels) in rows and columns
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-338 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-338, 17-338}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-338
     type: authoritative
+  - id: cie-2011:17-338
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-338
   terms:
   - type: expression
     normative_status: preferred

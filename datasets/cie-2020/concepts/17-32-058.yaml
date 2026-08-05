@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-058
   domains:
@@ -21,9 +20,7 @@ id: f3b34f85-dce4-566b-a922-9fa361832041
 ---
 data:
   definition:
-  - content: spectral radiance distribution as seen by an image capture or measurement
-      device and converted to colour signals that are considered to be perfectly achromatic
-      and to have an observer adaptive luminance factor of unity
+  - content: spectral radiance distribution as seen by an image capture or measurement device and converted to colour signals that are considered to be perfectly achromatic and to have an observer adaptive luminance factor of unity
     type: intensional
   examples: []
   notes:
@@ -31,16 +28,11 @@ data:
     type: intensional
   - content: The adopted white can vary within a scene.
     type: intensional
-  - content: No assumptions should be made concerning the relation between the {{concept:cie-2020:17-23-081,
-      adapted white}} or adopted white and measurements of nearly perfect reflecting
-      diffusers in a scene, because measurements of such diffusers will depend on
-      the illumination and viewing geometry, and other elements in the scene that
-      can affect perception. It is easy to arrange conditions for which a nearly perfect
-      reflecting diffuser will appear to be grey or coloured.
+  - content: No assumptions should be made concerning the relation between the {{concept:cie-2020:17-23-081, adapted white}} or adopted white and measurements of nearly perfect reflecting diffusers in a scene, because measurements of such diffusers will depend on the illumination and viewing geometry, and other elements in the scene that can affect perception. It is easy to arrange conditions for which a nearly perfect reflecting diffuser will appear to be grey or coloured.
     type: intensional
   - content: The adopted white can be a visual percept or a computational attribute.
     type: intensional
-  - content: This entry was numbered 17-27 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-27, 17-27}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,6 +44,12 @@ data:
         source: CIE S 017:2011
         id: 17-27
     type: authoritative
+  - id: cie-2011:17-27
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-27
   terms:
   - type: expression
     normative_status: preferred

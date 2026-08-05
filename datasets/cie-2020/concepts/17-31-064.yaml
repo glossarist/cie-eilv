@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-064
   domains:
@@ -28,14 +27,13 @@ id: 1e9e2e1e-8241-5627-ab3a-2f0741505c73
 ---
 data:
   definition:
-  - content: marker post used as one of a series to indicate the line of the edge
-      of a carriageway
+  - content: marker post used as one of a series to indicate the line of the edge of a carriageway
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-11-66, 845-11-66}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-289 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-289, 17-289}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-289
     type: authoritative
-  - id: 845-11-66
+  - id: IEV:845-11-66
     origin:
       ref:
         source: IEV
         id: 845-11-66
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-66
     type: authoritative
+  - id: cie-2011:17-289
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-289
   terms:
   - type: expression
     normative_status: preferred

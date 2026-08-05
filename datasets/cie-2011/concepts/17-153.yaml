@@ -33,13 +33,19 @@ data:
     type: intensional
   - content: The CIE 1964 uniform colour space is obsolete (except that it is still used in the calculation of the colour rendering index). The currently recommended object colour spaces are the CIE 1976 L*a*b* colour space and the CIE 1976 L*u*v* colour space.
     type: intensional
-  - content: This entry was numbered 17-153 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-153, 17-153}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
+  - id: cie-2011:17-153
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-153
   terms:
   - type: expression
     normative_status: preferred

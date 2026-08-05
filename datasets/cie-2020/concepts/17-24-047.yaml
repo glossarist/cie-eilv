@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-047
   domains:
@@ -35,21 +34,17 @@ id: c0fdc774-b543-5f76-9efd-6dc811883640
 ---
 data:
   definition:
-  - content: process by which radiation is returned by a surface or a medium, without
-      change in the {{cite:IEV:103-06-02, frequency}} of its monochromatic components
+  - content: process by which radiation is returned by a surface or a medium, without change in the {{cite:IEV:103-06-02, frequency}} of its monochromatic components
     type: intensional
   examples: []
   notes:
-  - content: Part of the radiation falling on a medium is reflected at the surface
-      of the medium ("surface reflection"); another part can be scattered back from
-      the interior of the medium ("volume reflection").
+  - content: Part of the radiation falling on a medium is reflected at the surface of the medium ("surface reflection"); another part can be scattered back from the interior of the medium ("volume reflection").
     type: intensional
-  - content: The frequency is unchanged only if there is no Doppler effect due to
-      the motion of the materials from which the radiation is returned.
+  - content: The frequency is unchanged only if there is no Doppler effect due to the motion of the materials from which the radiation is returned.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-42, 845-04-42}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1065 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1065, 17-1065}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -66,20 +61,26 @@ data:
         source: CIE S 017:2011
         id: 17-1065
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-04-42
+  - id: IEV:845-04-42
     origin:
       ref:
         source: IEV
         id: 845-04-42
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-42
     type: authoritative
+  - id: cie-2011:17-1065
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1065
   terms:
   - type: expression
     normative_status: preferred

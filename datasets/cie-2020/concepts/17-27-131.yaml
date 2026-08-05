@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-131
   domains:
@@ -28,18 +27,15 @@ id: e487ffaf-c6b8-5a7f-89f4-ef4b634f782c
 ---
 data:
   definition:
-  - content: type of heating of the electrodes of a discharge lamp in which the electrodes
-      are fed by separate circuits
+  - content: type of heating of the electrodes of a discharge lamp in which the electrodes are fed by separate circuits
     type: intensional
   examples: []
   notes:
-  - content: Each electrode is usually connected across a low-voltage winding that
-      can be part of the ballast and provides the heating current. In certain circuits,
-      this low voltage is automatically decreased after the arc has struck.
+  - content: Each electrode is usually connected across a low-voltage winding that can be part of the ballast and provides the heating current. In certain circuits, this low voltage is automatically decreased after the arc has struck.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-07-72, 845-07-72}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-860 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-860, 17-860}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-860
     type: authoritative
-  - id: 845-07-72
+  - id: IEV:845-07-72
     origin:
       ref:
         source: IEV
         id: 845-07-72
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-72
     type: authoritative
+  - id: cie-2011:17-860
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-860
   terms:
   - type: expression
     normative_status: preferred

@@ -34,13 +34,19 @@ data:
     type: intensional
   - content: For radiometric sources the equivalent term is "radiometric distance law".
     type: intensional
-  - content: This entry was numbered 17-912 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-912, 17-912}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
+  - id: cie-2011:17-912
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-912
   terms:
   - type: expression
     normative_status: preferred

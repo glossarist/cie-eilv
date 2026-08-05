@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-031
   domains:
@@ -28,14 +27,13 @@ id: 32f9f602-4411-563f-bc5a-19c895295f7f
 ---
 data:
   definition:
-  - content: darkening of the skin caused by {{concept:cie-2020:17-21-008, ultraviolet
-      radiation}} (through melanogenesis)
+  - content: darkening of the skin caused by {{concept:cie-2020:17-21-008, ultraviolet radiation}} (through melanogenesis)
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-06-18, 845-06-18}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1283 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1283, 17-1283}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1283
     type: authoritative
-  - id: 845-06-18
+  - id: IEV:845-06-18
     origin:
       ref:
         source: IEV
         id: 845-06-18
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-18
     type: authoritative
+  - id: cie-2011:17-1283
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1283
   terms:
   - type: expression
     normative_status: preferred

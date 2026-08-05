@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-046
   domains:
@@ -28,15 +27,13 @@ id: 8982420f-d2cf-5f3c-b98f-28067bd14e37
 ---
 data:
   definition:
-  - content: arc lamp, generally of high pressure, in which the distance between the
-      electrodes is large, the arc filling the discharge tube and being therefore
-      stabilized
+  - content: arc lamp, generally of high pressure, in which the distance between the electrodes is large, the arc filling the discharge tube and being therefore stabilized
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-07-35, 845-07-35}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-692 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-692, 17-692}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-692
     type: authoritative
-  - id: 845-07-35
+  - id: IEV:845-07-35
     origin:
       ref:
         source: IEV
         id: 845-07-35
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-35
     type: authoritative
+  - id: cie-2011:17-692
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-692
   terms:
   - type: expression
     normative_status: preferred

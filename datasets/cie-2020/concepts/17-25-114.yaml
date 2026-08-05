@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-114
   domains:
@@ -25,12 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The sampling aperture is delimited by the area illuminated, or by the
-      area over which the receiver senses flux, whichever is smaller. If the illuminated
-      area is the larger, the area measured is said to be "overfilled"; if it is the
-      smaller, the area measured is said to be "underfilled".
+  - content: The sampling aperture is delimited by the area illuminated, or by the area over which the receiver senses flux, whichever is smaller. If the illuminated area is the larger, the area measured is said to be "overfilled"; if it is the smaller, the area measured is said to be "underfilled".
     type: intensional
-  - content: This entry was numbered 17-1135 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1135, 17-1135}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1135
     type: authoritative
+  - id: cie-2011:17-1135
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1135
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-165
   domains:
@@ -21,12 +20,11 @@ id: ed1d7dbe-ba22-5cea-a3d1-a4e5da6d1fec
 ---
 data:
   definition:
-  - content: hollow light guide in which light is confined by multiple partial reflections
-      by multi-layer dielectric structures at the guide wall
+  - content: hollow light guide in which light is confined by multiple partial reflections by multi-layer dielectric structures at the guide wall
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-794 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-794, 17-794}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-794
     type: authoritative
+  - id: cie-2011:17-794
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-794
   terms:
   - type: expression
     normative_status: preferred

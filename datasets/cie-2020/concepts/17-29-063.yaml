@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-063
   domains:
@@ -21,13 +20,11 @@ id: 8a54c368-7ff1-5e00-b3de-460f66d207f7
 ---
 data:
   definition:
-  - content: calculation method to predict illuminance at each point on a calculation
-      plane, using measured data of luminous intensity distribution of a source or
-      a luminaire
+  - content: calculation method to predict illuminance at each point on a calculation plane, using measured data of luminous intensity distribution of a source or a luminaire
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-963 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-963, 17-963}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-963
     type: authoritative
+  - id: cie-2011:17-963
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-963
   terms:
   - type: expression
     normative_status: preferred

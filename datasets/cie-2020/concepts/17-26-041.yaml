@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-041
   domains:
@@ -28,12 +27,11 @@ id: 6151fb23-55d5-593c-91fb-ce509e513d72
 ---
 data:
   definition:
-  - content: biological rhythm with a {{cite:IEV:103-06-01, period}} of approximately
-      24 h
+  - content: biological rhythm with a {{cite:IEV:103-06-01, period}} of approximately 24 h
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-176 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-176, 17-176}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -45,13 +43,19 @@ data:
         source: CIE S 017:2011
         id: 17-176
     type: authoritative
-  - id: 103-06-01
+  - id: IEV:103-06-01
     origin:
       ref:
         source: IEV
         id: 103-06-01
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-01
     type: authoritative
+  - id: cie-2011:17-176
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-176
   terms:
   - type: expression
     normative_status: preferred

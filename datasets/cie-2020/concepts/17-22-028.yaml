@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-028
   domains:
@@ -17,16 +16,15 @@ sources:
     link: https://cie.co.at/eilvterm/17-22-028
   type: authoritative
 status: valid
-id: '0993e88d-daf5-5b55-ac34-1a34ea188232'
+id: 0993e88d-daf5-5b55-ac34-1a34ea188232
 ---
 data:
   definition:
-  - content: defective colour vision in which all colours can be matched using only
-      a single matching stimulus
+  - content: defective colour vision in which all colours can be matched using only a single matching stimulus
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-790 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-790, 17-790}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-790
     type: authoritative
+  - id: cie-2011:17-790
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-790
   terms:
   - type: expression
     normative_status: preferred

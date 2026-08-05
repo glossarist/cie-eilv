@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-128
   domains:
@@ -21,12 +20,11 @@ id: 4ffe344d-c81f-5dde-880c-a63104a2df05
 ---
 data:
   definition:
-  - content: ease with which an observer can distinguish and recognize symbols, alphanumeric
-      characters, or words
+  - content: ease with which an observer can distinguish and recognize symbols, alphanumeric characters, or words
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-650 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-650, 17-650}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-650
     type: authoritative
+  - id: cie-2011:17-650
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-650
   terms:
   - type: expression
     normative_status: preferred

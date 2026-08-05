@@ -26,7 +26,7 @@ data:
   notes:
   - content: The wavelength range for the ultraviolet hazard spectral weighting function is specified in ICNIRP-recommendations as stem:[lambda] = 180 nm to stem:[lambda] = 400 nm.
     type: intensional
-  - content: This entry was numbered 17-1363 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1363, 17-1363}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1363
     type: authoritative
+  - id: cie-2011:17-1363
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1363
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-029
   domains:
@@ -21,14 +20,13 @@ id: 8503faaf-f163-5287-840b-1940897a50e0
 ---
 data:
   definition:
-  - content: quotient of the luminances of two active parts of a display surface having
-      the same or different colours
+  - content: quotient of the luminances of two active parts of a display surface having the same or different colours
     type: intensional
   examples: []
   notes:
   - content: The luminance contrast ratio has unit one.
     type: intensional
-  - content: This entry was numbered 17-714 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-714, 17-714}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-714
     type: authoritative
+  - id: cie-2011:17-714
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-714
   terms:
   - type: expression
     normative_status: preferred

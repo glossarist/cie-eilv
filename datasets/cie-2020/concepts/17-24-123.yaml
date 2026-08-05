@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-123
   domains:
@@ -21,12 +20,11 @@ id: 8a8f8402-442c-5e0e-9847-46a0bde4d5fb
 ---
 data:
   definition:
-  - content: process by which an object changes spectral reflectance or spectral transmittance
-      because of a change in its temperature
+  - content: process by which an object changes spectral reflectance or spectral transmittance because of a change in its temperature
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1308 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1308, 17-1308}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1308
     type: authoritative
+  - id: cie-2011:17-1308
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1308
   terms:
   - type: expression
     normative_status: preferred

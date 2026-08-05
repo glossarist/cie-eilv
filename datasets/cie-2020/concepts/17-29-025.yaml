@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-025
   domains:
@@ -27,7 +26,7 @@ data:
   notes:
   - content: Formerly "artificial lighting" was used, but this term is deprecated.
     type: intensional
-  - content: This entry was numbered 17-365 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-365, 17-365}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-365
     type: authoritative
+  - id: cie-2011:17-365
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-365
   terms:
   - type: expression
     normative_status: preferred

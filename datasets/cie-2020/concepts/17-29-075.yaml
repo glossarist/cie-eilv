@@ -36,7 +36,7 @@ data:
     type: intensional
   - content: The floor cavity index has unit one.
     type: intensional
-  - content: This entry was numbered 17-451 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-451, 17-451}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -48,6 +48,12 @@ data:
         source: CIE S 017:2011
         id: 17-451
     type: authoritative
+  - id: cie-2011:17-451
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-451
   terms:
   - type: expression
     normative_status: preferred

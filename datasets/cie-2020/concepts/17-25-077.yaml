@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-077
   domains:
@@ -21,20 +20,17 @@ id: a1734190-9e98-5346-b8c0-4c3128689f4a
 ---
 data:
   definition:
-  - content: solid angle as "seen" by the detector (acceptance angle), e.g. of a radiometer
-      or spectroradiometer, out of which the detector receives radiation
+  - content: solid angle as "seen" by the detector (acceptance angle), e.g. of a radiometer or spectroradiometer, out of which the detector receives radiation
     type: intensional
   examples: []
   notes:
-  - content: The field of view should not be confused with the {{concept:cie-2020:17-25-085,
-      angular subtense}} of the apparent source, stem:[alpha].
+  - content: The field of view should not be confused with the {{concept:cie-2020:17-25-085, angular subtense}} of the apparent source, stem:[alpha].
     type: intensional
-  - content: A plane angle is sometimes used to describe a circular symmetric solid
-      angle field of view.
+  - content: A plane angle is sometimes used to describe a circular symmetric solid angle field of view.
     type: intensional
   - content: The field of view is expressed in steradian (sr).
     type: intensional
-  - content: This entry was numbered 17-429 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-429, 17-429}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -46,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-429
     type: authoritative
+  - id: cie-2011:17-429
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-429
   terms:
   - type: expression
     normative_status: preferred

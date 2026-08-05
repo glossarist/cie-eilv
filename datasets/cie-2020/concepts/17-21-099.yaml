@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-099
   domains:
@@ -21,12 +20,11 @@ id: 2f6f0e81-0fff-5ece-a581-ae654549de18
 ---
 data:
   definition:
-  - content: application of {{concept:cie-2020:17-21-002, optical radiation}} to a
-      material or object or the surrounding environment
+  - content: application of {{concept:cie-2020:17-21-002, optical radiation}} to a material or object or the surrounding environment
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-609 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-609, 17-609}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-609
     type: authoritative
+  - id: cie-2011:17-609
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-609
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-064
   domains:
@@ -32,14 +31,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: 'The adjectives "{{concept:cie-2020:17-22-061, bright}}" and "{{concept:cie-2020:17-22-064,
-      light}}" principally have the same meaning, but usually have different applications:
-      lights are described as "bright" or "dim", whereas surface colours are described
-      as "light" or "dark". However, this distinction is not universal.'
+  - content: 'The adjectives "{{concept:cie-2020:17-22-061, bright}}" and "{{concept:cie-2020:17-22-064, light}}" principally have the same meaning, but usually have different applications: lights are described as "bright" or "dim", whereas surface colours are described as "light" or "dark". However, this distinction is not universal.'
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-32, 845-02-32}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-660 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-660, 17-660}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-660
     type: authoritative
-  - id: 845-02-32
+  - id: IEV:845-02-32
     origin:
       ref:
         source: IEV
         id: 845-02-32
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-32
     type: authoritative
+  - id: cie-2011:17-660
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-660
   terms:
   - type: expression
     normative_status: preferred

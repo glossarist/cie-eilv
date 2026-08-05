@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-023
   domains:
@@ -21,12 +20,11 @@ id: a65ed3c9-30ad-526e-95d3-73ebdfad9095
 ---
 data:
   definition:
-  - content: directional lighting to emphasize a particular object or to draw attention
-      to a spot in the field of vision
+  - content: directional lighting to emphasize a particular object or to draw attention to a spot in the field of vision
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-7 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-7, 17-7}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-7
     type: authoritative
+  - id: cie-2011:17-7
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-7
   terms:
   - type: expression
     normative_status: preferred

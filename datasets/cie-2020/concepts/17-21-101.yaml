@@ -32,7 +32,7 @@ data:
     type: intensional
   - content: The bispectral luminescent radiance factor is expressed in nanometre to the power minus one stem:[nm^(-1)].
     type: intensional
-  - content: This entry was numbered 17-91 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-91, 17-91}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +44,12 @@ data:
         source: CIE S 017:2011
         id: 17-91
     type: authoritative
+  - id: cie-2011:17-91
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-91
   terms:
   - type: expression
     normative_status: preferred

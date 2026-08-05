@@ -39,7 +39,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-46, 845-02-46}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-715 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-715, 17-715}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +56,19 @@ data:
         source: CIE S 017:2011
         id: 17-715
     type: authoritative
-  - id: 845-02-46
+  - id: IEV:845-02-46
     origin:
       ref:
         source: IEV
         id: 845-02-46
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-46
     type: authoritative
+  - id: cie-2011:17-715
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-715
   terms:
   - type: expression
     normative_status: preferred

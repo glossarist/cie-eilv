@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-011
   domains:
@@ -21,25 +20,17 @@ id: 2d58d31d-06b4-5be1-945f-062da870a695
 ---
 data:
   definition:
-  - content: output-referred colour image data, which are referred to a standardized
-      real or virtual output device and viewing conditions
+  - content: output-referred colour image data, which are referred to a standardized real or virtual output device and viewing conditions
     type: intensional
   examples: []
   notes:
-  - content: Image data intended for open interchange are most commonly standard output-referred.
-      This is because with standard output-referred image data it is generally sufficient
-      to specify the standard output to which the image data are referred to interpret
-      the colour appearance described by the image data.
+  - content: Image data intended for open interchange are most commonly standard output-referred. This is because with standard output-referred image data it is generally sufficient to specify the standard output to which the image data are referred to interpret the colour appearance described by the image data.
     type: intensional
-  - content: Standard output-referred image data can become the starting point for
-      a subsequent reproduction process. For example, sRGB standard output-referred
-      image data are frequently considered to be the starting point for the {{concept:cie-2020:17-32-017,
-      colour re-rendering}} performed by a printer designed to receive sRGB image
-      data.
+  - content: Standard output-referred image data can become the starting point for a subsequent reproduction process. For example, sRGB standard output-referred image data are frequently considered to be the starting point for the {{concept:cie-2020:17-32-017, colour re-rendering}} performed by a printer designed to receive sRGB image data.
     type: intensional
   - content: See also "{{concept:cie-2020:17-32-052, output-referred image state}}".
     type: intensional
-  - content: This entry was numbered 17-215 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-215, 17-215}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -51,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-215
     type: authoritative
+  - id: cie-2011:17-215
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-215
   terms:
   - type: expression
     normative_status: preferred

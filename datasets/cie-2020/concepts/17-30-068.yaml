@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-068
   domains:
@@ -28,14 +27,13 @@ id: 732e86f5-f042-5805-9079-d384caed1955
 ---
 data:
   definition:
-  - content: mine luminaire designed for lighting in mining haulageways and operated
-      from a mains network
+  - content: mine luminaire designed for lighting in mining haulageways and operated from a mains network
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-10-57, 845-10-57}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-519 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-519, 17-519}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-519
     type: authoritative
-  - id: 845-10-57
+  - id: IEV:845-10-57
     origin:
       ref:
         source: IEV
         id: 845-10-57
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-57
     type: authoritative
+  - id: cie-2011:17-519
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-519
   terms:
   - type: expression
     normative_status: preferred

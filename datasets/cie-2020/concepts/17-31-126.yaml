@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-126
   domains:
@@ -21,12 +20,11 @@ id: 0c22a2b8-0465-5a5a-ba38-404c1c46665c
 ---
 data:
   definition:
-  - content: separation between character elements expressed in terms of the number
-      of unit elements or the distance between centres of elements of adjacent characters
+  - content: separation between character elements expressed in terms of the number of unit elements or the distance between centres of elements of adjacent characters
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-136 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-136, 17-136}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-136
     type: authoritative
+  - id: cie-2011:17-136
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-136
   terms:
   - type: expression
     normative_status: preferred

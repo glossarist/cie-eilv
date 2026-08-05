@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-182
   domains:
@@ -21,13 +20,11 @@ id: 2b7589e4-0c18-502f-bff6-bd1beaf03a52
 ---
 data:
   definition:
-  - content: direction of the maximum luminous intensity from a floodlight or, where
-      there is no unique maximum, the direction of the origin to which the luminous
-      intensity distribution of a floodlight
+  - content: direction of the maximum luminous intensity from a floodlight or, where there is no unique maximum, the direction of the origin to which the luminous intensity distribution of a floodlight
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1049 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1049, 17-1049}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1049
     type: authoritative
+  - id: cie-2011:17-1049
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1049
   terms:
   - type: expression
     normative_status: preferred

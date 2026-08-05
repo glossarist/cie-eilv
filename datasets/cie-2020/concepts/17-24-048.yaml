@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-048
   domains:
@@ -35,14 +34,13 @@ id: fb2012b5-2f0e-55e5-b96a-ccf644147b0e
 ---
 data:
   definition:
-  - content: passage of radiation through a medium without change in {{cite:IEV:103-06-02,
-      frequency}} of its monochromatic components
+  - content: passage of radiation through a medium without change in {{cite:IEV:103-06-02, frequency}} of its monochromatic components
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-04-43, 845-04-43}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1336 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1336, 17-1336}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -59,20 +57,26 @@ data:
         source: CIE S 017:2011
         id: 17-1336
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-04-43
+  - id: IEV:845-04-43
     origin:
       ref:
         source: IEV
         id: 845-04-43
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-43
     type: authoritative
+  - id: cie-2011:17-1336
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1336
   terms:
   - type: expression
     normative_status: preferred

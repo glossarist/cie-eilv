@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-072
   domains:
@@ -35,14 +34,13 @@ id: b17002a3-57b6-5177-9867-37844099a571
 ---
 data:
   definition:
-  - content: mine luminaire whose safety results from the use of {{cite:IEV:851-15-02,
-      intrinsically safe}} electrical circuits
+  - content: mine luminaire whose safety results from the use of {{cite:IEV:851-15-02, intrinsically safe}} electrical circuits
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-10-61, 845-10-61}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-602 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-602, 17-602}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -59,20 +57,26 @@ data:
         source: CIE S 017:2011
         id: 17-602
     type: authoritative
-  - id: 851-15-02
+  - id: IEV:851-15-02
     origin:
       ref:
         source: IEV
         id: 851-15-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=851-15-02
     type: authoritative
-  - id: 845-10-61
+  - id: IEV:845-10-61
     origin:
       ref:
         source: IEV
         id: 845-10-61
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-61
     type: authoritative
+  - id: cie-2011:17-602
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-602
   terms:
   - type: expression
     normative_status: preferred

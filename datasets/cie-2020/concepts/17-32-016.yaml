@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-016
   domains:
@@ -25,13 +24,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For a print, the colour reproduction medium is not the printer but the
-      combination of printer, colorants and substrate.
+  - content: For a print, the colour reproduction medium is not the printer but the combination of printer, colorants and substrate.
     type: intensional
-  - content: For a print, the colour reproduction medium is not the printer but the
-      combination of printer, {{concept:cie-2020:17-22-076, colorant}}s and substrate.
+  - content: For a print, the colour reproduction medium is not the printer but the combination of printer, {{concept:cie-2020:17-22-076, colorant}}s and substrate.
     type: intensional
-  - content: This entry was numbered 17-223 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-223, 17-223}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -43,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-223
     type: authoritative
+  - id: cie-2011:17-223
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-223
   terms:
   - type: expression
     normative_status: preferred

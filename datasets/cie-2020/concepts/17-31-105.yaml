@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-105
   domains:
@@ -21,13 +20,11 @@ id: 7ab8987c-ea9b-5760-88af-b625f058261d
 ---
 data:
   definition:
-  - content: system that maintains the contrast of a sign's legend and its immediate
-      background to achieve a legibility performance within prescribed limits under
-      varying ambient light conditions
+  - content: system that maintains the contrast of a sign's legend and its immediate background to achieve a legibility performance within prescribed limits under varying ambient light conditions
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-252 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-252, 17-252}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-252
     type: authoritative
+  - id: cie-2011:17-252
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-252
   terms:
   - type: expression
     normative_status: preferred

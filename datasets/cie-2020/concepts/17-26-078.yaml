@@ -26,7 +26,7 @@ data:
   notes:
   - content: Photosynthesis in plants is well known and involves assimilation of carbon dioxide into simple sugars. The energy from sunlight or artificial light (principally in the wavelength range 400 nm to 700 nm), is converted into chemical bond energy in the sugars. Photosynthesis in the skin occurs when 7stem:[-]dehydrocholesterol in the skin absorbs UV-B solar radiation and is converted to previtamin D3.
     type: intensional
-  - content: This entry was numbered 17-942 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-942, 17-942}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-942
     type: authoritative
+  - id: cie-2011:17-942
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-942
   terms:
   - type: expression
     normative_status: preferred

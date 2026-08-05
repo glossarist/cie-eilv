@@ -26,7 +26,7 @@ data:
   notes:
   - content: stem:[The] stem:[term] "stem:[light] stem:[adaptation]" stem:[is] stem:[used] stem:[when] stem:[the] stem:[luminances] stem:[of] stem:[the] stem:[stimuli] stem:[are] stem:[of] stem:[at] stem:[least] 10 stem:[cd cdot m]^(-2) stem:[and] stem:[the] stem:[term] "stem:[dark] stem:[adaptation]" stem:[is] stem:[used] stem:[when] stem:[the] stem:[luminances] stem:[of] stem:[the] stem:[stimuli] stem:[are] stem:[of] stem:[less] stem:[than] stem:[a] stem:[few] stem:[hundredths] stem:[of] stem:[a] stem:[cd cdot m]^(-2).
     type: intensional
-  - content: This entry was numbered 17-20 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-20, 17-20}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-20
     type: authoritative
+  - id: cie-2011:17-20
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-20
   terms:
   - type: expression
     normative_status: preferred

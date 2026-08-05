@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-120
   domains:
@@ -28,15 +27,13 @@ id: 197a9494-3407-5e8c-8176-15bc02f82a44
 ---
 data:
   definition:
-  - content: medium that transmits {{concept:cie-2020:17-21-003, visible radiation}}
-      largely by diffuse transmission, so that objects are seen indistinctly through
-      it
+  - content: medium that transmits {{concept:cie-2020:17-21-003, visible radiation}} largely by diffuse transmission, so that objects are seen indistinctly through it
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-04-109, 845-04-109}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1335 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1335, 17-1335}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1335
     type: authoritative
-  - id: 845-04-109
+  - id: IEV:845-04-109
     origin:
       ref:
         source: IEV
         id: 845-04-109
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-109
     type: authoritative
+  - id: cie-2011:17-1335
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1335
   terms:
   - type: expression
     normative_status: preferred

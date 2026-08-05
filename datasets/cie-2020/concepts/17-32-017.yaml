@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-017
   domains:
@@ -21,19 +20,13 @@ id: 4b75686b-325a-5ae3-95a8-e770afdfa5e9
 ---
 data:
   definition:
-  - content: mapping of picture-referred colour image data appropriate for one specified
-      real or virtual imaging medium and viewing conditions to picture-referred colour
-      image data appropriate for a different real or virtual imaging medium and/or
-      viewing conditions
+  - content: mapping of picture-referred colour image data appropriate for one specified real or virtual imaging medium and viewing conditions to picture-referred colour image data appropriate for a different real or virtual imaging medium and/or viewing conditions
     type: intensional
   examples: []
   notes:
-  - content: 'Colour re-rendering generally consists of one or more of the following:
-      compensating for differences in the viewing conditions, compensating for differences
-      in the dynamic range and/or colour gamut of the imaging media, and applying
-      preference adjustments.'
+  - content: 'Colour re-rendering generally consists of one or more of the following: compensating for differences in the viewing conditions, compensating for differences in the dynamic range and/or colour gamut of the imaging media, and applying preference adjustments.'
     type: intensional
-  - content: This entry was numbered 17-224 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-224, 17-224}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -45,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-224
     type: authoritative
+  - id: cie-2011:17-224
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-224
   terms:
   - type: expression
     normative_status: preferred

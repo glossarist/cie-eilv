@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-097
   domains:
@@ -35,18 +34,13 @@ id: c69d2657-b8e7-5c5c-980a-f3a0ebca9d82
 ---
 data:
   definition:
-  - content: law stating that when a point on the retina is excited by a light stimulus
-      that undergoes periodic variations in magnitude at a {{cite:IEV:103-06-02, frequency}}
-      that exceeds the {{concept:cie-2020:17-22-093, critical flicker frequency}},
-      the visual perception produced is identical to that produced by a steady stimulus
-      whose magnitude is equal to the mean magnitude of the variable stimulus taken
-      over one period
+  - content: law stating that when a point on the retina is excited by a light stimulus that undergoes periodic variations in magnitude at a {{cite:IEV:103-06-02, frequency}} that exceeds the {{concept:cie-2020:17-22-093, critical flicker frequency}}, the visual perception produced is identical to that produced by a steady stimulus whose magnitude is equal to the mean magnitude of the variable stimulus taken over one period
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-02-51, 845-02-51}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1299 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1299, 17-1299}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -63,20 +57,26 @@ data:
         source: CIE S 017:2011
         id: 17-1299
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-02-51
+  - id: IEV:845-02-51
     origin:
       ref:
         source: IEV
         id: 845-02-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-51
     type: authoritative
+  - id: cie-2011:17-1299
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1299
   terms:
   - type: expression
     normative_status: preferred

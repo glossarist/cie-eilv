@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-055
   domains:
@@ -21,20 +20,15 @@ id: c1cab48f-5823-5722-b174-7b5ee35ebc64
 ---
 data:
   definition:
-  - content: paint, pigment or dye that exhibits fluorescence as the result of exposure
-      to daylight
+  - content: paint, pigment or dye that exhibits fluorescence as the result of exposure to daylight
     type: intensional
   examples: []
   notes:
-  - content: Daylight fluorescent colours absorb energy from daylight in the shorter
-      wavelength regions of the visible spectrum and/or in the ultraviolet region
-      and re-radiate some of this energy at longer wavelengths, producing radiation
-      in a small range of wavelengths in the visible region.
+  - content: Daylight fluorescent colours absorb energy from daylight in the shorter wavelength regions of the visible spectrum and/or in the ultraviolet region and re-radiate some of this energy at longer wavelengths, producing radiation in a small range of wavelengths in the visible region.
     type: intensional
-  - content: See also "{{concept:cie-2020:17-24-040, photoluminescent material}}",
-      "{{concept:cie-2020:17-24-041, fluorescent material}}".
+  - content: See also "{{concept:cie-2020:17-24-040, photoluminescent material}}", "{{concept:cie-2020:17-24-041, fluorescent material}}".
     type: intensional
-  - content: This entry was numbered 17-280 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-280, 17-280}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -46,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-280
     type: authoritative
+  - id: cie-2011:17-280
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-280
   terms:
   - type: expression
     normative_status: preferred

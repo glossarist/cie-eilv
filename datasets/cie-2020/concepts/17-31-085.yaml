@@ -26,7 +26,7 @@ data:
   notes:
   - content: The parting zone is not a part of the road tunnel, but it is closely related to the road tunnel lighting. The parting zone begins at the exit portal. It is advised that the length of the parting zone is equal to 2 times the stopping distance. A length of more than 200 m is not necessary.
     type: intensional
-  - content: This entry was numbered 17-863 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-863, 17-863}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-863
     type: authoritative
+  - id: cie-2011:17-863
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-863
   terms:
   - type: expression
     normative_status: preferred

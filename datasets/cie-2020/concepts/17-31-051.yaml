@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-051
   domains:
@@ -21,15 +20,13 @@ id: 9e83d343-4ca2-52ae-83d7-1beab81f94bc
 ---
 data:
   definition:
-  - content: range over which the pilot of an aircraft on the centreline of a runway
-      can see the runway surface markings or the lights delineating the runway or
-      identifying its centreline
+  - content: range over which the pilot of an aircraft on the centreline of a runway can see the runway surface markings or the lights delineating the runway or identifying its centreline
     type: intensional
   examples: []
   notes:
   - content: See also "{{concept:cie-2020:17-31-021, visual range}}".
     type: intensional
-  - content: This entry was numbered 17-1132 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1132, 17-1132}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -41,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1132
     type: authoritative
+  - id: cie-2011:17-1132
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1132
   terms:
   - type: expression
     normative_status: preferred

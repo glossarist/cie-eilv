@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-149
   domains:
@@ -32,9 +31,7 @@ id: a486356f-905e-59f4-8c14-4f95b96d9ada
 ---
 data:
   definition:
-  - content: fraction of the total number of lamps which continue to operate at a
-      given {{cite:IEV:113-01-08, instant}} under defined conditions and the switching
-      frequency
+  - content: fraction of the total number of lamps which continue to operate at a given {{cite:IEV:113-01-08, instant}} under defined conditions and the switching frequency
     type: intensional
   examples: []
   notes:
@@ -52,7 +49,7 @@ data:
         source: CIE S 017:2011
         id: 17-637 and 17-703
     type: authoritative
-  - id: 113-01-08
+  - id: IEV:113-01-08
     origin:
       ref:
         source: IEV

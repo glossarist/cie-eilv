@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-106
   domains:
@@ -21,12 +20,11 @@ id: 477e6232-d64d-55cb-b2a1-7fc0dd09da00
 ---
 data:
   definition:
-  - content: smallest optical unit of a retroreflecting surface or device which, by
-      refraction or reflection or both, produces a retroreflection
+  - content: smallest optical unit of a retroreflecting surface or device which, by refraction or reflection or both, produces a retroreflection
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1105 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1105, 17-1105}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1105
     type: authoritative
+  - id: cie-2011:17-1105
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1105
   terms:
   - type: expression
     normative_status: preferred

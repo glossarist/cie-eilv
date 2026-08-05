@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-005
   domains:
@@ -21,12 +20,11 @@ id: 5b7fd01f-f852-51d2-803d-6881b16db931
 ---
 data:
   definition:
-  - content: data consisting of text, line art, graphics, and pictorial images, in
-      raster or vector form
+  - content: data consisting of text, line art, graphics, and pictorial images, in raster or vector form
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-204 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-204, 17-204}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-204
     type: authoritative
+  - id: cie-2011:17-204
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-204
   terms:
   - type: expression
     normative_status: preferred

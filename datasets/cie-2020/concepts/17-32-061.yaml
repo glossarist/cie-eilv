@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-061
   domains:
@@ -21,19 +20,13 @@ id: 5b77023a-850b-5ccc-810c-079a7258081a
 ---
 data:
   definition:
-  - content: mathematical model that produces transformations which are applied to
-      scene- or original-referred image data to produce image data describing a pleasing
-      reproduction
+  - content: mathematical model that produces transformations which are applied to scene- or original-referred image data to produce image data describing a pleasing reproduction
     type: intensional
   examples: []
   notes:
-  - content: Preferred reproduction models are different from other reproduction models
-      in that the pleasing reproduction need not be an attempt to reproduce the appearance
-      of the original. In fact, what is considered pleasing can depend on viewer preferences.
-      The transformations produced by a preferred reproduction model are generally
-      dependent on the characteristics of the scene or original and the output medium.
+  - content: Preferred reproduction models are different from other reproduction models in that the pleasing reproduction need not be an attempt to reproduce the appearance of the original. In fact, what is considered pleasing can depend on viewer preferences. The transformations produced by a preferred reproduction model are generally dependent on the characteristics of the scene or original and the output medium.
     type: intensional
-  - content: This entry was numbered 17-974 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-974, 17-974}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -45,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-974
     type: authoritative
+  - id: cie-2011:17-974
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-974
   terms:
   - type: expression
     normative_status: preferred

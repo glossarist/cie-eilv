@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-145
   domains:
@@ -21,14 +20,11 @@ id: 93881fb5-958a-5c70-af82-88c29976b04e
 ---
 data:
   definition:
-  - content: value used in lighting calculations that consider (a) the lamp luminous
-      flux depreciation at the planned time of replacement, (b) the luminaire dirt
-      depreciation, and (c) the room surface dirt depreciation (in interiors) or the
-      surface dirt depreciation for other relevant surfaces (in exteriors, where appropriate)
+  - content: value used in lighting calculations that consider (a) the lamp luminous flux depreciation at the planned time of replacement, (b) the luminaire dirt depreciation, and (c) the room surface dirt depreciation (in interiors) or the surface dirt depreciation for other relevant surfaces (in exteriors, where appropriate)
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-752 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-752, 17-752}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-752
     type: authoritative
+  - id: cie-2011:17-752
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-752
   terms:
   - type: expression
     normative_status: preferred

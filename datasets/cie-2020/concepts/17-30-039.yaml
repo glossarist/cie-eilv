@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-039
   domains:
@@ -28,22 +27,17 @@ id: 2e4cf715-03c9-5a87-8e11-b52cbbac93e2
 ---
 data:
   definition:
-  - content: device predominantly using scattering to alter the spatial distribution
-      of radiation from a {{concept:cie-2020:17-21-032, source}}
+  - content: device predominantly using scattering to alter the spatial distribution of radiation from a {{concept:cie-2020:17-21-032, source}}
     type: intensional
   examples: []
   notes:
-  - content: If all the radiation reflected or transmitted by the diffuser is scattered
-      with no regular reflection or regular transmission, the diffuser is said to
-      be completely diffusing, independent of whether or not the reflection or transmission
-      is isotropic.
+  - content: If all the radiation reflected or transmitted by the diffuser is scattered with no regular reflection or regular transmission, the diffuser is said to be completely diffusing, independent of whether or not the reflection or transmission is isotropic.
     type: intensional
-  - content: Besides scattering, a diffuser can also have a slight reflection and
-      absorption effect.
+  - content: Besides scattering, a diffuser can also have a slight reflection and absorption effect.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-10-34, 845-10-34}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-310 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-310, 17-310}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -60,13 +54,19 @@ data:
         source: CIE S 017:2011
         id: 17-310
     type: authoritative
-  - id: 845-10-34
+  - id: IEV:845-10-34
     origin:
       ref:
         source: IEV
         id: 845-10-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-34
     type: authoritative
+  - id: cie-2011:17-310
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-310
   terms:
   - type: expression
     normative_status: preferred

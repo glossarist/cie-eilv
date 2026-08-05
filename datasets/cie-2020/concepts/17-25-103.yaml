@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-103
   domains:
@@ -21,14 +20,13 @@ id: 202d7316-1d03-5de3-be12-c1c03c85592d
 ---
 data:
   definition:
-  - content: point in a source from which the photometric distance law operates most
-      closely in the direction of maximum intensity
+  - content: point in a source from which the photometric distance law operates most closely in the direction of maximum intensity
     type: intensional
   examples: []
   notes:
   - content: For radiometric sources the equivalent term is "radiometric centre".
     type: intensional
-  - content: This entry was numbered 17-911 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-911, 17-911}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-911
     type: authoritative
+  - id: cie-2011:17-911
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-911
   terms:
   - type: expression
     normative_status: preferred

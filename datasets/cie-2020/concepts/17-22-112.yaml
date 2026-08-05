@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-112
   domains:
@@ -28,14 +27,13 @@ id: 90d0994c-2421-5548-b8e0-1a027c4110c2
 ---
 data:
   definition:
-  - content: change in chromaticity and luminance factor of an object colour caused
-      by a change in illuminant
+  - content: change in chromaticity and luminance factor of an object colour caused by a change in illuminant
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-02-64, 845-02-64}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-555 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-555, 17-555}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-555
     type: authoritative
-  - id: 845-02-64
+  - id: IEV:845-02-64
     origin:
       ref:
         source: IEV
         id: 845-02-64
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-64
     type: authoritative
+  - id: cie-2011:17-555
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-555
   terms:
   - type: expression
     normative_status: preferred

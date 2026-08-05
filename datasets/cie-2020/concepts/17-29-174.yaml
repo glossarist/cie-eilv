@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-174
   domains:
@@ -21,12 +20,11 @@ id: 85074f5c-bfff-5cff-b321-924c1af5b990
 ---
 data:
   definition:
-  - content: combination and spatial arrangement of work equipment, surrounded by
-      the work environment under the conditions imposed by the work tasks
+  - content: combination and spatial arrangement of work equipment, surrounded by the work environment under the conditions imposed by the work tasks
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1441 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1441, 17-1441}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1441
     type: authoritative
+  - id: cie-2011:17-1441
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1441
   terms:
   - type: expression
     normative_status: preferred

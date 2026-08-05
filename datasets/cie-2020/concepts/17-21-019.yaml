@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-019
   domains:
@@ -21,18 +20,13 @@ id: 7a920116-99cc-5e18-88e6-a932c36d1359
 ---
 data:
   definition:
-  - content: electromagnetic radiation in which the electric field vector rotates
-      at the radiation frequency, but varies in magnitude at a rate equal to twice
-      the radiation frequency with the terminal point of the electric field vector
-      describing an ellipse
+  - content: electromagnetic radiation in which the electric field vector rotates at the radiation frequency, but varies in magnitude at a rate equal to twice the radiation frequency with the terminal point of the electric field vector describing an ellipse
     type: intensional
   examples: []
   notes:
-  - content: Elliptically polarized radiation is described as right-handed (or left-handed)
-      if the rotation of the electric field vector is clockwise (or anticlockwise)
-      as viewed by an observer receiving the radiation.
+  - content: Elliptically polarized radiation is described as right-handed (or left-handed) if the rotation of the electric field vector is clockwise (or anticlockwise) as viewed by an observer receiving the radiation.
     type: intensional
-  - content: This entry was numbered 17-376 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-376, 17-376}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-376
     type: authoritative
+  - id: cie-2011:17-376
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-376
   terms:
   - type: expression
     normative_status: preferred
