@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-016
   domains:
@@ -28,8 +27,7 @@ id: 3f1e9058-c386-5728-8d10-823cd1803724
 ---
 data:
   definition:
-  - content: temperature of the Planckian radiator for which the radiance at the specified
-      wavelength has the same spectral concentration as for the thermal radiator considered
+  - content: temperature of the Planckian radiator for which the radiance at the specified wavelength has the same spectral concentration as for the thermal radiator considered
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-13, 845-04-13}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1016 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1016, 17-1016}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1016
     type: authoritative
-  - id: 845-04-13
+  - id: IEV:845-04-13
     origin:
       ref:
         source: IEV
         id: 845-04-13
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-13
     type: authoritative
+  - id: cie-2011:17-1016
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1016
   terms:
   - type: expression
     normative_status: preferred

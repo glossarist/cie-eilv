@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-061
   domains:
@@ -28,14 +27,13 @@ id: 43d537b1-bb6a-55b3-a5a7-07a1af4fc632
 ---
 data:
   definition:
-  - content: authorized sign that conveys, to vehicular and pedestrian traffic, a
-      prohibition, restriction, requirement or warning, or information
+  - content: authorized sign that conveys, to vehicular and pedestrian traffic, a prohibition, restriction, requirement or warning, or information
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-11-62, 845-11-62}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1329 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1329, 17-1329}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1329
     type: authoritative
-  - id: 845-11-62
+  - id: IEV:845-11-62
     origin:
       ref:
         source: IEV
         id: 845-11-62
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-62
     type: authoritative
+  - id: cie-2011:17-1329
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1329
   terms:
   - type: expression
     normative_status: preferred

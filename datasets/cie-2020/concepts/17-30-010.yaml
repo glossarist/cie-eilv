@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-010
   domains:
@@ -28,8 +27,7 @@ id: ff3fac83-9db2-50d7-ba01-2165da931a61
 ---
 data:
   definition:
-  - content: luminaire whose main part can be turned or moved by means of joints,
-      raising and lowering devices, telescopic tubes or similar devices
+  - content: luminaire whose main part can be turned or moved by means of joints, raising and lowering devices, telescopic tubes or similar devices
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-10-08, 845-10-08}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-26 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-26, 17-26}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-26
     type: authoritative
-  - id: 845-10-08
+  - id: IEV:845-10-08
     origin:
       ref:
         source: IEV
         id: 845-10-08
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-10-08
     type: authoritative
+  - id: cie-2011:17-26
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-26
   terms:
   - type: expression
     normative_status: preferred

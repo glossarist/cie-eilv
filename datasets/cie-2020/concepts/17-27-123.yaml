@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-123
   domains:
@@ -23,9 +22,7 @@ id: dd82e2c8-ede9-5764-b06d-b13d53d77766
 ---
 data:
   definition:
-  - content: total power dissipated by control gear and light source(s) in combination,
-      at rated supply voltage and {{cite:IEV:103-06-02, frequency}} of the control
-      gear with the highest rated output load
+  - content: total power dissipated by control gear and light source(s) in combination, at rated supply voltage and {{cite:IEV:103-06-02, frequency}} of the control gear with the highest rated output load
     type: intensional
   examples: []
   notes:
@@ -36,7 +33,7 @@ data:
       ref:
         source: CIE S 017:2020
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV

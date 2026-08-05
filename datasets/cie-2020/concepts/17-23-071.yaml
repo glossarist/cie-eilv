@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-071
   domains:
@@ -28,14 +27,13 @@ id: 8e41c54b-8960-5841-8157-41b620eb6944
 ---
 data:
   definition:
-  - content: colour space in which equal distances are intended to represent threshold
-      or suprathreshold perceived colour differences of equal size
+  - content: colour space in which equal distances are intended to represent threshold or suprathreshold perceived colour differences of equal size
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-03-51, 845-03-51}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1369 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1369, 17-1369}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1369
     type: authoritative
-  - id: 845-03-51
+  - id: IEV:845-03-51
     origin:
       ref:
         source: IEV
         id: 845-03-51
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-51
     type: authoritative
+  - id: cie-2011:17-1369
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1369
   terms:
   - type: expression
     normative_status: preferred

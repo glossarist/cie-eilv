@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-116
   domains:
@@ -28,8 +27,7 @@ id: 0d9ed5da-f132-536d-8178-5e7b4097b412
 ---
 data:
   definition:
-  - content: voltage between the electrodes which is needed to start the discharge
-      in the discharge lamp
+  - content: voltage between the electrodes which is needed to start the discharge in the discharge lamp
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-07-67, 845-07-67}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1264 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1264, 17-1264}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1264
     type: authoritative
-  - id: 845-07-67
+  - id: IEV:845-07-67
     origin:
       ref:
         source: IEV
         id: 845-07-67
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-67
     type: authoritative
+  - id: cie-2011:17-1264
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1264
   terms:
   - type: expression
     normative_status: preferred

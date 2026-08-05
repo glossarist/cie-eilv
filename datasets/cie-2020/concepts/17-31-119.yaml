@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-119
   domains:
@@ -21,12 +20,11 @@ id: 8dc24285-c080-5ed6-9755-28e316b24807
 ---
 data:
   definition:
-  - content: set of legends to be displayed on a sign which are implemented by the
-      configuration of the sign's hardware
+  - content: set of legends to be displayed on a sign which are implemented by the configuration of the sign's hardware
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-437 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-437, 17-437}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-437
     type: authoritative
+  - id: cie-2011:17-437
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-437
   terms:
   - type: expression
     normative_status: preferred

@@ -33,7 +33,7 @@ data:
   notes:
   - content: The luminance coefficient in diffuse illumination is expressed in candela per square metre per lux stem:[cd cdot m^(-2) cdot lx^(-1)].
     type: intensional
-  - content: This entry was numbered 17-713 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-713, 17-713}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -45,13 +45,19 @@ data:
         source: CIE S 017:2011
         id: 17-713
     type: authoritative
-  - id: 705-04-04
+  - id: IEV:705-04-04
     origin:
       ref:
         source: IEV
         id: 705-04-04
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=705-04-04
     type: authoritative
+  - id: cie-2011:17-713
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-713
   terms:
   - type: expression
     normative_status: preferred

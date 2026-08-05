@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-100
   domains:
@@ -21,14 +20,11 @@ id: 2968259f-8ed1-53bb-a4a9-5274fc405120
 ---
 data:
   definition:
-  - content: spectrophotometric mode of measurement, where a means of wavelength separation
-      (monochromator, bandpass filters/wedge) precedes the sample and the total (reflected
-      or transmitted plus fluoresced) radiant flux leaving the sample is measured
-      by the detector at the stated monochromatic wavelength
+  - content: spectrophotometric mode of measurement, where a means of wavelength separation (monochromator, bandpass filters/wedge) precedes the sample and the total (reflected or transmitted plus fluoresced) radiant flux leaving the sample is measured by the detector at the stated monochromatic wavelength
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-787 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-787, 17-787}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-787
     type: authoritative
+  - id: cie-2011:17-787
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-787
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-026
   domains:
@@ -21,18 +20,18 @@ id: e8b1eccf-5c83-5899-950f-86bbb382fb71
 ---
 data:
   definition:
-  - content: |-
-      exposure of the human eye to {{concept:cie-2020:17-21-003, visible radiation}} for the treatment of affective disorders or disorders due to circadian disruption
+  - content: 'exposure of the human eye to {{concept:cie-2020:17-21-003, visible radiation}} for the treatment of affective disorders or disorders due to circadian disruption
 
-      EXAMPLE<ol type="a">. for affective disorders: seasonal affective disorder or winter depression;. for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel.
+
+      EXAMPLE<ol type="a">. for affective disorders: seasonal affective disorder or winter depression;. for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel.'
     type: intensional
   examples: []
   notes:
-  - content: |-
-      a) for affective disorders: seasonal affective disorder or winter depression;
-      b) for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel
+  - content: 'a) for affective disorders: seasonal affective disorder or winter depression;
+
+      b) for disorders due to circadian disruption: advanced phase sleep disorder, circadian desynchronization related to shift work or jet travel'
     type: intensional
-  - content: This entry was numbered 17-670 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-670, 17-670}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +43,12 @@ data:
         source: CIE S 017:2011
         id: 17-670
     type: authoritative
+  - id: cie-2011:17-670
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-670
   terms:
   - type: expression
     normative_status: preferred

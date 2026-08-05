@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-101
   domains:
@@ -21,13 +20,11 @@ id: d913a451-9fbd-5cf3-a642-973e87e598d2
 ---
 data:
   definition:
-  - content: optical device which isolates a single narrow spectral band of {{concept:cie-2020:17-21-002,
-      optical radiation}} from a broader spectral input, and for which the centre
-      wavelength of the transmitted radiation can be altered
+  - content: optical device which isolates a single narrow spectral band of {{concept:cie-2020:17-21-002, optical radiation}} from a broader spectral input, and for which the centre wavelength of the transmitted radiation can be altered
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-791 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-791, 17-791}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-791
     type: authoritative
+  - id: cie-2011:17-791
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-791
   terms:
   - type: expression
     normative_status: preferred

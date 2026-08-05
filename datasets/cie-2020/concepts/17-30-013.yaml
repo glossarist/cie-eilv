@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-30-013
   domains:
@@ -23,23 +22,18 @@ id: 1b17b518-35a1-57fb-9b8b-f56e9ecb5aa2
 ---
 data:
   definition:
-  - content: luminaire that cannot easily be moved from one place to another, either
-      because the fixing is such that the luminaire can only be removed with the aid
-      of a tool, or because it is intended for use out of {{cite:IEV:195-06-12, arm's
-      reach}}
+  - content: luminaire that cannot easily be moved from one place to another, either because the fixing is such that the luminaire can only be removed with the aid of a tool, or because it is intended for use out of {{cite:IEV:195-06-12, arm's reach}}
     type: intensional
   examples: []
   notes:
-  - content: In general, fixed luminaires are designed for permanent connection to
-      the power supply, but connection can also be made by means of a plug or similar
-      device.
+  - content: In general, fixed luminaires are designed for permanent connection to the power supply, but connection can also be made by means of a plug or similar device.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2020
     type: authoritative
-  - id: 195-06-12
+  - id: IEV:195-06-12
     origin:
       ref:
         source: IEV

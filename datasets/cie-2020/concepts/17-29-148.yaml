@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-148
   domains:
@@ -32,13 +31,11 @@ id: f689883b-7c40-5eed-a23f-5dab1cb5e1e1
 ---
 data:
   definition:
-  - content: quotient of the efficiency of a luminaire at a given {{cite:IEV:113-01-08,
-      instant}} and the initial efficiency value
+  - content: quotient of the efficiency of a luminaire at a given {{cite:IEV:113-01-08, instant}} and the initial efficiency value
     type: intensional
   examples: []
   notes:
-  - content: The luminaire maintenance factor does not include depreciation in the
-      luminous flux output of the light source.
+  - content: The luminaire maintenance factor does not include depreciation in the luminous flux output of the light source.
     type: intensional
   - content: The luminaire maintenance factor has unit one.
     type: intensional
@@ -54,7 +51,7 @@ data:
         source: CIE S 017:2011
         id: 17-710 and 17-687
     type: authoritative
-  - id: 113-01-08
+  - id: IEV:113-01-08
     origin:
       ref:
         source: IEV

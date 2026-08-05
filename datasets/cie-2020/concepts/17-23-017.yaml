@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-017
   domains:
@@ -21,17 +20,15 @@ id: d3ef5724-ece2-5002-aa72-1e5a6f1b11a1
 ---
 data:
   definition:
-  - content: arrangement of samples according to a set of principles for the ordering
-      and denotation of their colour, usually according to defined scales
+  - content: arrangement of samples according to a set of principles for the ordering and denotation of their colour, usually according to defined scales
     type: intensional
   examples: []
   notes:
-  - content: A colour order system is usually exemplified by a set of physical samples,
-      but this is not a prerequisite for defining a colour order system.
+  - content: A colour order system is usually exemplified by a set of physical samples, but this is not a prerequisite for defining a colour order system.
     type: intensional
   - content: See also "{{concept:cie-2020:17-21-029, colour atlas}}".
     type: intensional
-  - content: This entry was numbered 17-219 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-219, 17-219}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -43,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-219
     type: authoritative
+  - id: cie-2011:17-219
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-219
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-130
   domains:
@@ -21,13 +20,11 @@ id: 33e9afb0-24df-5d20-b5e8-488328af3d53
 ---
 data:
   definition:
-  - content: identifier that can be a word, symbol, or other group of characters used
-      to identify a file, a storage medium, an element defined in a computer program,
-      or a specific item in a document such as a spreadsheet or a chart
+  - content: identifier that can be a word, symbol, or other group of characters used to identify a file, a storage medium, an element defined in a computer program, or a specific item in a document such as a spreadsheet or a chart
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-630 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-630, 17-630}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-630
     type: authoritative
+  - id: cie-2011:17-630
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-630
   terms:
   - type: expression
     normative_status: preferred

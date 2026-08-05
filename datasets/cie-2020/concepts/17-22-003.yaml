@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-003
   domains:
@@ -28,14 +27,13 @@ id: d2071eec-ef8f-5d5e-8d2d-d0c031038343
 ---
 data:
   definition:
-  - content: photoreceptors in the retina containing a light-sensitive pigment capable
-      of initiating the process of scotopic vision
+  - content: photoreceptors in the retina containing a light-sensitive pigment capable of initiating the process of scotopic vision
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-02-03, 845-02-03}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1117 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1117, 17-1117}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1117
     type: authoritative
-  - id: 845-02-03
+  - id: IEV:845-02-03
     origin:
       ref:
         source: IEV
         id: 845-02-03
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-03
     type: authoritative
+  - id: cie-2011:17-1117
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1117
   terms:
   - type: expression
     normative_status: preferred
@@ -75,4 +79,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-22-003
-id: '0408c1aa-e3ea-5c5c-bb4e-3721d2c8aaa1'
+id: 0408c1aa-e3ea-5c5c-bb4e-3721d2c8aaa1

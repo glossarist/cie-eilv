@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-006
   domains:
@@ -21,12 +20,11 @@ id: 46676790-301a-58a0-82f7-7b0e28b29350
 ---
 data:
   definition:
-  - content: quantized digital encoding of a colour space, encompassing both colour
-      space encoding and colour image encoding
+  - content: quantized digital encoding of a colour space, encompassing both colour space encoding and colour image encoding
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-208 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-208, 17-208}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-208
     type: authoritative
+  - id: cie-2011:17-208
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-208
   terms:
   - type: expression
     normative_status: preferred

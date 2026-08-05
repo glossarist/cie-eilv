@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-019
   domains:
@@ -28,19 +27,15 @@ id: 74e1add3-f1d4-5d10-b40b-67eb89c93b9f
 ---
 data:
   definition:
-  - content: smallest contrast, produced at the eye of an observer by a given object,
-      which renders the object perceptible against a given background
+  - content: smallest contrast, produced at the eye of an observer by a given object, which renders the object perceptible against a given background
     type: intensional
   examples: []
   notes:
-  - content: For meteorological observations, the object has to be rendered recognizable,
-      and hence a higher threshold is to be expected. The value of 0,05 has been adopted
-      as the basis for the measurement of {{concept:cie-2020:17-31-018, meteorological
-      optical range}}.
+  - content: For meteorological observations, the object has to be rendered recognizable, and hence a higher threshold is to be expected. The value of 0,05 has been adopted as the basis for the measurement of {{concept:cie-2020:17-31-018, meteorological optical range}}.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-21, 845-11-21}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1407 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1407, 17-1407}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -57,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1407
     type: authoritative
-  - id: 845-11-21
+  - id: IEV:845-11-21
     origin:
       ref:
         source: IEV
         id: 845-11-21
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-21
     type: authoritative
+  - id: cie-2011:17-1407
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1407
   terms:
   - type: expression
     normative_status: preferred

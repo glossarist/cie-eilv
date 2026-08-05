@@ -72,14 +72,14 @@ data:
         source: CIE S 017:2011
         id: 17-1213 and 17-1212
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-01-17
+  - id: IEV:845-01-17
     origin:
       ref:
         source: IEV

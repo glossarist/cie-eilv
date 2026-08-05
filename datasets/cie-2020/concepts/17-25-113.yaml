@@ -30,7 +30,7 @@ data:
     type: intensional
   - content: The tilt in application is expressed in radian (rad) or degree (stem:[deg]).
     type: intensional
-  - content: This entry was numbered 17-1317 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1317, 17-1317}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-1317
     type: authoritative
+  - id: cie-2011:17-1317
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1317
   terms:
   - type: expression
     normative_status: preferred

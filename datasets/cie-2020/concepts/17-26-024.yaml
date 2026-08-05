@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-024
   domains:
@@ -28,18 +27,15 @@ id: 0a816c97-45f9-58b9-8842-a5b9cbc27030
 ---
 data:
   definition:
-  - content: irradiation of the skin or other tissues, typically with {{concept:cie-2020:17-21-008,
-      ultraviolet radiation}}, in the treatment of diseases (e.g. psoriasis)
+  - content: irradiation of the skin or other tissues, typically with {{concept:cie-2020:17-21-008, ultraviolet radiation}}, in the treatment of diseases (e.g. psoriasis)
     type: intensional
   examples: []
   notes:
-  - content: The term "photodynamic therapy" has been used where special photo-sensitizing
-      agents have been added as part of the treatment, or are endogenous in the tissue
-      being targeted.
+  - content: The term "photodynamic therapy" has been used where special photo-sensitizing agents have been added as part of the treatment, or are endogenous in the tissue being targeted.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-12, 845-06-12}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-945 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-945, 17-945}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-945
     type: authoritative
-  - id: 845-06-12
+  - id: IEV:845-06-12
     origin:
       ref:
         source: IEV
         id: 845-06-12
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-12
     type: authoritative
+  - id: cie-2011:17-945
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-945
   terms:
   - type: expression
     normative_status: preferred

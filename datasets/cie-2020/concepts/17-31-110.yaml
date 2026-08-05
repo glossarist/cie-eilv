@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-110
   domains:
@@ -21,12 +20,11 @@ id: 1eb929e8-0c56-55c6-9a76-67384c481416
 ---
 data:
   definition:
-  - content: appearance of a meaningful sign legend caused by the internal reflection
-      of light, originating from an external source, from elements forming the sign
+  - content: appearance of a meaningful sign legend caused by the internal reflection of light, originating from an external source, from elements forming the sign
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-878 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-878, 17-878}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-878
     type: authoritative
+  - id: cie-2011:17-878
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-878
   terms:
   - type: expression
     normative_status: preferred
@@ -45,4 +49,4 @@ data:
   language_code: eng
   annotations: []
 termid: 17-31-110
-id: '0487ca4a-e405-5e2d-8673-fc635d95479b'
+id: 0487ca4a-e405-5e2d-8673-fc635d95479b

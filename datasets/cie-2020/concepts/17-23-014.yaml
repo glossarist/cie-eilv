@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-014
   domains:
@@ -21,16 +20,13 @@ id: ad70a2a4-7c2d-55e5-82fc-65bfd4f117ba
 ---
 data:
   definition:
-  - content: border of an area in a chromaticity diagram bounded by segments of straight
-      lines
+  - content: border of an area in a chromaticity diagram bounded by segments of straight lines
     type: intensional
   examples: []
   notes:
-  - content: The area is given either by the equations of the straight lines or by
-      the coordinates of their crossing points between themselves or with the spectrum
-      locus.
+  - content: The area is given either by the equations of the straight lines or by the coordinates of their crossing points between themselves or with the spectrum locus.
     type: intensional
-  - content: This entry was numbered 17-202 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-202, 17-202}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-202
     type: authoritative
+  - id: cie-2011:17-202
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-202
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-035
   domains:
@@ -21,12 +20,11 @@ id: 6f5fc505-0d52-51bd-92d1-a25dd81fbc6c
 ---
 data:
   definition:
-  - content: device in which incident {{concept:cie-2020:17-21-002, optical radiation}}
-      produces a measurable physical effect
+  - content: device in which incident {{concept:cie-2020:17-21-002, optical radiation}} produces a measurable physical effect
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-296 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-296, 17-296}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-296
     type: authoritative
+  - id: cie-2011:17-296
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-296
   terms:
   - type: expression
     normative_status: preferred

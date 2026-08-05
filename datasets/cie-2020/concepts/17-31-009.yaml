@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-009
   domains:
@@ -28,19 +27,15 @@ id: e0cee2f4-dd0e-5ab0-a40f-c281257e6dc7
 ---
 data:
   definition:
-  - content: rhythmic light in which every appearance of light (flash) is of the same
-      duration and, except possibly for rhythms with rapid rates of flashing, the
-      total duration of light in a period is clearly shorter than the total duration
-      of darkness
+  - content: rhythmic light in which every appearance of light (flash) is of the same duration and, except possibly for rhythms with rapid rates of flashing, the total duration of light in a period is clearly shorter than the total duration of darkness
     type: intensional
   examples: []
   notes:
-  - content: The term "eclipse" is used for the interval of darkness between two successive
-      distinct appearances of light.
+  - content: The term "eclipse" is used for the interval of darkness between two successive distinct appearances of light.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-11, 845-11-11}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-441 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-441, 17-441}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -57,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-441
     type: authoritative
-  - id: 845-11-11
+  - id: IEV:845-11-11
     origin:
       ref:
         source: IEV
         id: 845-11-11
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-11
     type: authoritative
+  - id: cie-2011:17-441
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-441
   terms:
   - type: expression
     normative_status: preferred

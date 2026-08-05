@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-069
   domains:
@@ -28,8 +27,7 @@ id: 9ae7c79c-8ddd-5854-ac39-c3b302a298ff
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-22-067, hue}} that can be described as a combination
-      of two unique hues"
+  - content: '{{concept:cie-2020:17-22-067, hue}} that can be described as a combination of two unique hues'
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-37, 845-02-37}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-88 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-88, 17-88}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-88
     type: authoritative
-  - id: 845-02-37
+  - id: IEV:845-02-37
     origin:
       ref:
         source: IEV
         id: 845-02-37
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-37
     type: authoritative
+  - id: cie-2011:17-88
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-88
   terms:
   - type: expression
     normative_status: preferred

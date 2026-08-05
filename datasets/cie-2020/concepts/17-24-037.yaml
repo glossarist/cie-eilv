@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-037
   domains:
@@ -28,14 +27,13 @@ id: 1bbe8b5f-c04e-5cd9-b686-213c59b2fde8
 ---
 data:
   definition:
-  - content: "{{concept:cie-2020:17-21-029, spectral distribution}} of the electromagnetic
-      radiation emitted by a luminescent material for a specified excitation"
+  - content: '{{concept:cie-2020:17-21-029, spectral distribution}} of the electromagnetic radiation emitted by a luminescent material for a specified excitation'
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-04-34, 845-04-34}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-380 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-380, 17-380}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-380
     type: authoritative
-  - id: 845-04-34
+  - id: IEV:845-04-34
     origin:
       ref:
         source: IEV
         id: 845-04-34
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-34
     type: authoritative
+  - id: cie-2011:17-380
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-380
   terms:
   - type: expression
     normative_status: preferred

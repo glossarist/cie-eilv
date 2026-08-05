@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-112
   domains:
@@ -35,14 +34,13 @@ id: 2d286bc4-5ae8-5b5a-b431-04c9a0cae0be
 ---
 data:
   definition:
-  - content: phenomenon of change in a physical property of a propagating wave as
-      a function of its {{cite:IEV:103-06-02, frequency}}
+  - content: phenomenon of change in a physical property of a propagating wave as a function of its {{cite:IEV:103-06-02, frequency}}
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-04-104, 845-04-104}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-334 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-334, 17-334}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -59,20 +57,26 @@ data:
         source: CIE S 017:2011
         id: 17-334
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-04-104
+  - id: IEV:845-04-104
     origin:
       ref:
         source: IEV
         id: 845-04-104
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-104
     type: authoritative
+  - id: cie-2011:17-334
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-334
   terms:
   - type: expression
     normative_status: preferred

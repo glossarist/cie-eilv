@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-045
   domains:
@@ -28,18 +27,15 @@ id: 1739020f-a186-55ed-acab-223c0bcc54a3
 ---
 data:
   definition:
-  - content: colour perceived to belong to an area that appears to be emitting light
-      as a primary light source, or that appears to be specularly reflecting such
-      light
+  - content: colour perceived to belong to an area that appears to be emitting light as a primary light source, or that appears to be specularly reflecting such light
     type: intensional
   examples: []
   notes:
-  - content: Primary light sources seen in their natural surroundings normally exhibit
-      the appearance of luminous colours in this sense.
+  - content: Primary light sources seen in their natural surroundings normally exhibit the appearance of luminous colours in this sense.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-22, 845-02-22}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-727 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-727, 17-727}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-727
     type: authoritative
-  - id: 845-02-22
+  - id: IEV:845-02-22
     origin:
       ref:
         source: IEV
         id: 845-02-22
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-22
     type: authoritative
+  - id: cie-2011:17-727
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-727
   terms:
   - type: expression
     normative_status: preferred

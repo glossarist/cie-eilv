@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: The conventional retinal illuminance is expressed in candela (cd), candela per square metre times square millimetre stem:[cd cdot m^(-2) cdot mm^(2)], or {{concept:cie-2020:17-22-038, troland}}.
     type: intensional
-  - content: This entry was numbered 17-256 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-256, 17-256}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-256
     type: authoritative
+  - id: cie-2011:17-256
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-256
   terms:
   - type: expression
     normative_status: preferred

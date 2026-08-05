@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-063
   domains:
@@ -25,12 +24,11 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: Within an ICC profile, a rendering intent identifies the subset of the
-      profile to use for mapping colour values in a particular case.
+  - content: Within an ICC profile, a rendering intent identifies the subset of the profile to use for mapping colour values in a particular case.
     type: intensional
   - content: See also "{{concept:cie-2020:17-32-048, ICC file format}}".
     type: intensional
-  - content: This entry was numbered 17-1088 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1088, 17-1088}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-1088
     type: authoritative
+  - id: cie-2011:17-1088
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1088
   terms:
   - type: expression
     normative_status: preferred

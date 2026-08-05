@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-104
   domains:
@@ -34,7 +33,7 @@ data:
   notes:
   - content: This entry was numbered {{cite:IEV:845-09-83, 845-09-83}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1194 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1194, 17-1194}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -51,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1194
     type: authoritative
-  - id: 845-09-83
+  - id: IEV:845-09-83
     origin:
       ref:
         source: IEV
         id: 845-09-83
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-83
     type: authoritative
+  - id: cie-2011:17-1194
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1194
   terms:
   - type: expression
     normative_status: preferred

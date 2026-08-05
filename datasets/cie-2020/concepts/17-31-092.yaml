@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-092
   domains:
@@ -21,12 +20,11 @@ id: 1b6d1476-0745-5e41-91c2-a0ce77232529
 ---
 data:
   definition:
-  - content: lighting that provides the visual contact for the driver still in a road
-      tunnel with the open road beyond the road tunnel
+  - content: lighting that provides the visual contact for the driver still in a road tunnel with the open road beyond the road tunnel
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-412 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-412, 17-412}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-412
     type: authoritative
+  - id: cie-2011:17-412
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-412
   terms:
   - type: expression
     normative_status: preferred

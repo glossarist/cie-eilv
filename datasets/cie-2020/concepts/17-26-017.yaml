@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: Different action spectra have been published for photokeratitis and photoconjuctivitis (CIE 106/2-1993 and CIE 106/3-1993); however, the latest studies support the use of a single action spectrum for both ocular effects (CIE 106/1-1993). See CIE 106-1993, _CIE Collection in Photobiology and Photochemistry (1993)._
     type: intensional
-  - content: This entry was numbered 17-904 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-904, 17-904}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-904
     type: authoritative
+  - id: cie-2011:17-904
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-904
   terms:
   - type: expression
     normative_status: preferred

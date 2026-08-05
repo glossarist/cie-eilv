@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-023
   domains:
@@ -28,18 +27,15 @@ id: 6e80696e-7e48-555d-84e3-184820e3f625
 ---
 data:
   definition:
-  - content: emission of {{concept:cie-2020:17-21-002, optical radiation}} when a
-      substance is exposed to any type of electromagnetic radiation, where the emitted
-      radiation generally appears within 10 ns after the excitation
+  - content: emission of {{concept:cie-2020:17-21-002, optical radiation}} when a substance is exposed to any type of electromagnetic radiation, where the emitted radiation generally appears within 10 ns after the excitation
     type: intensional
   examples: []
   notes:
-  - content: Fluorescence is due to an "allowed" transition generally from an excited
-      singlet state to a ground singlet state.
+  - content: Fluorescence is due to an "allowed" transition generally from an excited singlet state to a ground singlet state.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-04-20, 845-04-20}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-456 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-456, 17-456}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-456
     type: authoritative
-  - id: 845-04-20
+  - id: IEV:845-04-20
     origin:
       ref:
         source: IEV
         id: 845-04-20
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-20
     type: authoritative
+  - id: cie-2011:17-456
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-456
   terms:
   - type: expression
     normative_status: preferred

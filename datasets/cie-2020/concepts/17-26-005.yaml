@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-005
   domains:
@@ -28,19 +27,17 @@ id: 68b6a387-0de3-5aee-9a62-f91250879477
 ---
 data:
   definition:
-  - content: actinic effect that occurs away from the place where the radiant energy
-      responsible for the effect is absorbed
+  - content: actinic effect that occurs away from the place where the radiant energy responsible for the effect is absorbed
     type: intensional
   examples: []
   notes:
-  - content: The distinction between direct and indirect actinic effect mainly applies
-      to biological changes.
+  - content: The distinction between direct and indirect actinic effect mainly applies to biological changes.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-05, 845-06-05}} in IEC 60050-845:1987.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-06-05, 845-06-05}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-15 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-15, 17-15}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -57,13 +54,19 @@ data:
         source: CIE S 017:2011
         id: 17-15
     type: authoritative
-  - id: 845-06-05
+  - id: IEV:845-06-05
     origin:
       ref:
         source: IEV
         id: 845-06-05
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-06-05
     type: authoritative
+  - id: cie-2011:17-15
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-15
   terms:
   - type: expression
     normative_status: preferred

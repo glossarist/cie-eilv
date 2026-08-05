@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-124
   domains:
@@ -21,12 +20,11 @@ id: 82166959-75ae-5094-8dbe-6d2f76948558
 ---
 data:
   definition:
-  - content: property of a light-scattering material or substance by which light can
-      be seen through that material or substance
+  - content: property of a light-scattering material or substance by which light can be seen through that material or substance
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1334 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1334, 17-1334}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1334
     type: authoritative
+  - id: cie-2011:17-1334
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1334
   terms:
   - type: expression
     normative_status: preferred

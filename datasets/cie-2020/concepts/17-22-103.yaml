@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-103
   domains:
@@ -28,14 +27,13 @@ id: e7b0a0f6-84a3-5e2f-b771-6ff0d706e678
 ---
 data:
   definition:
-  - content: glare that impairs the vision of objects without necessarily causing
-      discomfort
+  - content: glare that impairs the vision of objects without necessarily causing discomfort
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-02-57, 845-02-57}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-330 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-330, 17-330}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-330
     type: authoritative
-  - id: 845-02-57
+  - id: IEV:845-02-57
     origin:
       ref:
         source: IEV
         id: 845-02-57
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-57
     type: authoritative
+  - id: cie-2011:17-330
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-330
   terms:
   - type: expression
     normative_status: preferred

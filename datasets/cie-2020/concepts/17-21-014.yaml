@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-21-014
   domains:
@@ -35,21 +34,17 @@ id: 8f24f44c-8049-5af2-bd5b-a37f6b6f970a
 ---
 data:
   definition:
-  - content: radiation characterized by a single {{cite:IEV:103-06-02, frequency}}
-      or a single wavelength
+  - content: radiation characterized by a single {{cite:IEV:103-06-02, frequency}} or a single wavelength
     type: intensional
   examples: []
   notes:
-  - content: If the wavelength is used to characterize a monochromatic radiation,
-      the medium has to be stated.
+  - content: If the wavelength is used to characterize a monochromatic radiation, the medium has to be stated.
     type: intensional
-  - content: In practice, monochromatic radiation is radiation of a very small range
-      of frequencies or wavelengths that can be described by stating a single frequency
-      or wavelength.
+  - content: In practice, monochromatic radiation is radiation of a very small range of frequencies or wavelengths that can be described by stating a single frequency or wavelength.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-01-07, 845-01-07}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-788 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-788, 17-788}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -66,20 +61,26 @@ data:
         source: CIE S 017:2011
         id: 17-788
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV
         id: 103-06-02
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=103-06-02
     type: authoritative
-  - id: 845-01-07
+  - id: IEV:845-01-07
     origin:
       ref:
         source: IEV
         id: 845-01-07
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-01-07
     type: authoritative
+  - id: cie-2011:17-788
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-788
   terms:
   - type: expression
     normative_status: preferred

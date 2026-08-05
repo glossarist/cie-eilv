@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-033
   domains:
@@ -21,12 +20,11 @@ id: 5936ea92-1690-5a0b-925f-420dc4ac174f
 ---
 data:
   definition:
-  - content: anomalous trichromatic defective colour vision in which discrimination
-      of the bluish and yellowish contents of colours is reduced
+  - content: anomalous trichromatic defective colour vision in which discrimination of the bluish and yellowish contents of colours is reduced
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1346 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1346, 17-1346}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1346
     type: authoritative
+  - id: cie-2011:17-1346
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1346
   terms:
   - type: expression
     normative_status: preferred

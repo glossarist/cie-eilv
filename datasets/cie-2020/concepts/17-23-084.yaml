@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-084
   domains:
@@ -21,14 +20,13 @@ id: 00d4fca8-1d6e-57b6-a094-73eb4e945fb0
 ---
 data:
   definition:
-  - content: wavelength of a certain monochromatic stimulus, the hue of which remains
-      constant over a wide range of values of luminance for a given condition of adaptation
+  - content: wavelength of a certain monochromatic stimulus, the hue of which remains constant over a wide range of values of luminance for a given condition of adaptation
     type: intensional
   examples: []
   notes:
   - content: The invariant wavelength is expressed in nanometre (nm).
     type: intensional
-  - content: This entry was numbered 17-603 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-603, 17-603}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-603
     type: authoritative
+  - id: cie-2011:17-603
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-603
   terms:
   - type: expression
     normative_status: preferred

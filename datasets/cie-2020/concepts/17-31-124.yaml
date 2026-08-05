@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-124
   domains:
@@ -27,7 +26,7 @@ data:
   notes:
   - content: See also "{{concept:cie-2020:17-31-129, "x" height}}".
     type: intensional
-  - content: This entry was numbered 17-134 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-134, 17-134}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-134
     type: authoritative
+  - id: cie-2011:17-134
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-134
   terms:
   - type: expression
     normative_status: preferred

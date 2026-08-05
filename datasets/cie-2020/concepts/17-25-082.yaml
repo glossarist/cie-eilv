@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-082
   domains:
@@ -21,12 +20,11 @@ id: 708c141b-2d11-53c7-81bd-4345f9b5b560
 ---
 data:
   definition:
-  - content: pertaining to flux reflected from the surface of an object, without scattering,
-      at an angle of reflection equal and opposite to the angle of incidence
+  - content: pertaining to flux reflected from the surface of an object, without scattering, at an angle of reflection equal and opposite to the angle of incidence
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1240 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1240, 17-1240}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1240
     type: authoritative
+  - id: cie-2011:17-1240
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1240
   terms:
   - type: expression
     normative_status: preferred

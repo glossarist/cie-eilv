@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-074
   domains:
@@ -28,15 +27,13 @@ id: 162bc425-74b8-51ac-aebb-307eb796cd29
 ---
 data:
   definition:
-  - content: electric lamp in which the luminous element is of relatively concentrated
-      form and is mounted in a way that the electric lamp can be used with a system
-      for the projection of either still or motion pictures on a screen
+  - content: electric lamp in which the luminous element is of relatively concentrated form and is mounted in a way that the electric lamp can be used with a system for the projection of either still or motion pictures on a screen
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-07-41, 845-07-41}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-989 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-989, 17-989}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-989
     type: authoritative
-  - id: 845-07-41
+  - id: IEV:845-07-41
     origin:
       ref:
         source: IEV
         id: 845-07-41
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-41
     type: authoritative
+  - id: cie-2011:17-989
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-989
   terms:
   - type: expression
     normative_status: preferred

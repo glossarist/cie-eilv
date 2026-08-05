@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-099
   domains:
@@ -21,12 +20,11 @@ id: de894ff7-18a8-5306-b1b7-2f0a24bc94e2
 ---
 data:
   definition:
-  - content: part of a sign immediately behind a symbol or word, or on which a symbol
-      or word is superimposed
+  - content: part of a sign immediately behind a symbol or word, or on which a symbol or word is superimposed
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-67 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-67, 17-67}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-67
     type: authoritative
+  - id: cie-2011:17-67
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-67
   terms:
   - type: expression
     normative_status: preferred

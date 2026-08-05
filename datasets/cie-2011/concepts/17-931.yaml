@@ -66,13 +66,19 @@ data:
     type: intensional
   - content: This entry was numbered 845-01-36 in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-931 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-931, 17-931}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
       ref:
         source: CIE S 017:2011
     type: authoritative
+  - id: cie-2011:17-931
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-931
   terms:
   - type: expression
     normative_status: preferred

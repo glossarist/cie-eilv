@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-048
   domains:
@@ -21,12 +20,11 @@ id: 91d5c86b-3ca0-5618-baa3-c7a0a9f3e98a
 ---
 data:
   definition:
-  - content: standard colorimetric observer defined by the {{concept:cie-2020:17-23-047,
-      CIE colour-matching functions}}
+  - content: standard colorimetric observer defined by the {{concept:cie-2020:17-23-047, CIE colour-matching functions}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-165 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-165, 17-165}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-165
     type: authoritative
+  - id: cie-2011:17-165
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-165
   terms:
   - type: expression
     normative_status: preferred

@@ -26,7 +26,7 @@ data:
   notes:
   - content: Levels of melatonin in the pineal gland, blood, saliva, and urine fluctuate in a circadian rhythm, higher at night and lower in the daytime, following the biological clock that is itself set naturally by day/night photoperiods. Light at night reduces melatonin, while decoupling the biological and natural (or artificially induced) photoperiods causes disruption of sleep/wake cycles (e.g. jet lag).
     type: intensional
-  - content: This entry was numbered 17-762 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-762, 17-762}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-762
     type: authoritative
+  - id: cie-2011:17-762
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-762
   terms:
   - type: expression
     normative_status: preferred

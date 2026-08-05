@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-055
   domains:
@@ -28,17 +27,15 @@ id: 1d665570-f463-5d7e-8300-742efccd564e
 ---
 data:
   definition:
-  - content: barrette positioned at the side of an aerodrome runway, outside the line
-      of the runway edge lights
+  - content: barrette positioned at the side of an aerodrome runway, outside the line of the runway edge lights
     type: intensional
   examples: []
   notes:
-  - content: A wing bar can be paired symmetrically with a similar wing bar on the
-      opposite side of the runway.
+  - content: A wing bar can be paired symmetrically with a similar wing bar on the opposite side of the runway.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-11-56, 845-11-56}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1437 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1437, 17-1437}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -55,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1437
     type: authoritative
-  - id: 845-11-56
+  - id: IEV:845-11-56
     origin:
       ref:
         source: IEV
         id: 845-11-56
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-11-56
     type: authoritative
+  - id: cie-2011:17-1437
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1437
   terms:
   - type: expression
     normative_status: preferred

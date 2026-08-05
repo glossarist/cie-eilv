@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-108
   domains:
@@ -35,16 +34,13 @@ id: fd0cfb0d-3125-564c-a24e-e3f2e6147199
 ---
 data:
   definition:
-  - content: process by which the direction of propagation of an {{cite:IEV:121-11-63,
-      electromagnetic wave}} is changed as a result of changes in its velocity of
-      propagation in passing through an optically non-homogeneous medium, or in crossing
-      a surface separating media with different refractive indexes
+  - content: process by which the direction of propagation of an {{cite:IEV:121-11-63, electromagnetic wave}} is changed as a result of changes in its velocity of propagation in passing through an optically non-homogeneous medium, or in crossing a surface separating media with different refractive indexes
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-04-100, 845-04-100}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1073 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1073, 17-1073}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -61,20 +57,26 @@ data:
         source: CIE S 017:2011
         id: 17-1073
     type: authoritative
-  - id: 121-11-63
+  - id: IEV:121-11-63
     origin:
       ref:
         source: IEV
         id: 121-11-63
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=121-11-63
     type: authoritative
-  - id: 845-04-100
+  - id: IEV:845-04-100
     origin:
       ref:
         source: IEV
         id: 845-04-100
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-04-100
     type: authoritative
+  - id: cie-2011:17-1073
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1073
   terms:
   - type: expression
     normative_status: preferred

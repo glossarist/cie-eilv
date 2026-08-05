@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-064
   domains:
@@ -21,15 +20,11 @@ id: 8156f608-57fc-536d-b6c5-631a6e314987
 ---
 data:
   definition:
-  - content: mathematically decorrelated functions (no function is a linear combination
-      of any of the others) that can be combined to describe the spectral radiances
-      found in a scene or produced using a specified output device and illuminating
-      source, or similar functions describing the colour analysis channel responses
-      of an image capture device
+  - content: mathematically decorrelated functions (no function is a linear combination of any of the others) that can be combined to describe the spectral radiances found in a scene or produced using a specified output device and illuminating source, or similar functions describing the colour analysis channel responses of an image capture device
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1210 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1210, 17-1210}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -41,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1210
     type: authoritative
+  - id: cie-2011:17-1210
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1210
   terms:
   - type: expression
     normative_status: preferred

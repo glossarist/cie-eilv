@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-093
   domains:
@@ -21,13 +20,11 @@ id: fd8f6cdc-cda5-5dc8-9cb0-b2c179ffeed2
 ---
 data:
   definition:
-  - content: part of a road tunnel construction that corresponds to the beginning
-      of the covered part of the road tunnel or, when open sun screens are used, to
-      the beginning of the sun screens
+  - content: part of a road tunnel construction that corresponds to the beginning of the covered part of the road tunnel or, when open sun screens are used, to the beginning of the sun screens
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-387 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-387, 17-387}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-387
     type: authoritative
+  - id: cie-2011:17-387
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-387
   terms:
   - type: expression
     normative_status: preferred

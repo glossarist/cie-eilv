@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-099
   domains:
@@ -21,18 +20,15 @@ id: 14decf64-13c6-5f4e-9047-0469456950e4
 ---
 data:
   definition:
-  - content: detector for which the output is proportional to the input over a specified
-      range, so that the responsivity of the detector is constant over that range
+  - content: detector for which the output is proportional to the input over a specified range, so that the responsivity of the detector is constant over that range
     type: intensional
   examples: []
   notes:
-  - content: A detector is usually linear only over a certain limited range of input
-      levels. The range should be specified.
+  - content: A detector is usually linear only over a certain limited range of input levels. The range should be specified.
     type: intensional
-  - content: The linear range of a detector can be affected by the use of unsuitable
-      electronic circuitry.
+  - content: The linear range of a detector can be affected by the use of unsuitable electronic circuitry.
     type: intensional
-  - content: This entry was numbered 17-683 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-683, 17-683}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-683
     type: authoritative
+  - id: cie-2011:17-683
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-683
   terms:
   - type: expression
     normative_status: preferred

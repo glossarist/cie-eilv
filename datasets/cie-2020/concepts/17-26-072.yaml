@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-072
   domains:
@@ -21,20 +20,15 @@ id: 52de8015-52de-55a4-89f1-afcc435a15e3
 ---
 data:
   definition:
-  - content: maximum level of exposure of a surface, usually the eye or skin, that
-      is not expected to result in adverse biological effects
+  - content: maximum level of exposure of a surface, usually the eye or skin, that is not expected to result in adverse biological effects
     type: intensional
   examples: []
   notes:
-  - content: Exposure limits for human safety of {{concept:cie-2020:17-21-002, optical
-      radiation}}, stem:[H_L], are normally recommended by the International Commission
-      on Non-Ionizing Radiation Protection (ICNIRP).
+  - content: Exposure limits for human safety of {{concept:cie-2020:17-21-002, optical radiation}}, stem:[H_L], are normally recommended by the International Commission on Non-Ionizing Radiation Protection (ICNIRP).
     type: intensional
-  - content: Exposure limits are often based on irradiance (e.g. for the skin), but
-      where relevant, can also be based on radiance (e.g. the blue light hazard of
-      extended sources).
+  - content: Exposure limits are often based on irradiance (e.g. for the skin), but where relevant, can also be based on radiance (e.g. the blue light hazard of extended sources).
     type: intensional
-  - content: This entry was numbered 17-416 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-416, 17-416}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -46,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-416
     type: authoritative
+  - id: cie-2011:17-416
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-416
   terms:
   - type: expression
     normative_status: preferred

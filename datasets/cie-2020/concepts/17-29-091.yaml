@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-091
   domains:
@@ -28,10 +27,7 @@ id: 0d76001a-e418-5677-9833-254a803d8fe4
 ---
 data:
   definition:
-  - content: quotient of the flux, stem:[Phi_i], indirectly reaching a surface in
-      a cavity, and the primary flux, stem:[Phi_o], directly received by another surface,
-      the flux stem:[Phi_i] resulting from the interreflection undergone by the flux
-      stem:[Phi_o]
+  - content: quotient of the flux, stem:[Phi_i], indirectly reaching a surface in a cavity, and the primary flux, stem:[Phi_o], directly received by another surface, the flux stem:[Phi_i] resulting from the interreflection undergone by the flux stem:[Phi_o]
     type: intensional
   examples: []
   notes:
@@ -39,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-09-75, 845-09-75}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-600 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-600, 17-600}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-600
     type: authoritative
-  - id: 845-09-75
+  - id: IEV:845-09-75
     origin:
       ref:
         source: IEV
         id: 845-09-75
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-75
     type: authoritative
+  - id: cie-2011:17-600
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-600
   terms:
   - type: expression
     normative_status: preferred

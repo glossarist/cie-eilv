@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-065
   domains:
@@ -28,8 +27,7 @@ id: 32679a4e-28ee-5476-b335-9896c8659484
 ---
 data:
   definition:
-  - content: time required for the change in detector output to reach, after a step
-      variation of a steady detector input, a specified percentage of its final value
+  - content: time required for the change in detector output to reach, after a step variation of a steady detector input, a specified percentage of its final value
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-05-58, 845-05-58}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1093 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1093, 17-1093}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1093
     type: authoritative
-  - id: 845-05-58
+  - id: IEV:845-05-58
     origin:
       ref:
         source: IEV
         id: 845-05-58
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-58
     type: authoritative
+  - id: cie-2011:17-1093
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1093
   terms:
   - type: expression
     normative_status: preferred

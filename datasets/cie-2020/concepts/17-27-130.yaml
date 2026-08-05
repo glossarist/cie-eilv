@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-130
   domains:
@@ -28,14 +27,13 @@ id: d603795e-ea2a-53c7-92b3-675af92cf303
 ---
 data:
   definition:
-  - content: type of preheating of the electrodes of a discharge lamp in which the
-      preheating current flows through the electrodes in series
+  - content: type of preheating of the electrodes of a discharge lamp in which the preheating current flows through the electrodes in series
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-07-71, 845-07-71}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1165 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1165, 17-1165}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1165
     type: authoritative
-  - id: 845-07-71
+  - id: IEV:845-07-71
     origin:
       ref:
         source: IEV
         id: 845-07-71
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-71
     type: authoritative
+  - id: cie-2011:17-1165
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1165
   terms:
   - type: expression
     normative_status: preferred

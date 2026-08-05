@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-053
   domains:
@@ -21,25 +20,17 @@ id: 0e17a368-382e-569b-9e6b-e13f1119e337
 ---
 data:
   definition:
-  - content: image state associated with image data that represents the colour space
-      coordinates of the elements of a {{concept:cie-2020:17-32-045, hardcopy}} or
-      {{concept:cie-2020:17-32-046, softcopy}}, encompassing both original-referred
-      image data and output-referred image data
+  - content: image state associated with image data that represents the colour space coordinates of the elements of a {{concept:cie-2020:17-32-045, hardcopy}} or {{concept:cie-2020:17-32-046, softcopy}}, encompassing both original-referred image data and output-referred image data
     type: intensional
   examples: []
   notes:
-  - content: When the phrase "picture-referred" is used as a qualifier to an object,
-      it implies that the object is in a picture-referred image state. For example,
-      picture-referred image data are image data in a picture-referred image state.
+  - content: When the phrase "picture-referred" is used as a qualifier to an object, it implies that the object is in a picture-referred image state. For example, picture-referred image data are image data in a picture-referred image state.
     type: intensional
-  - content: Picture-referred image data will generally be colour rendered for a specific
-      real or virtual imaging medium and viewing condition.
+  - content: Picture-referred image data will generally be colour rendered for a specific real or virtual imaging medium and viewing condition.
     type: intensional
-  - content: Picture-referred image data can include image data that do not originate
-      from an original scene, such as text, line art, vector graphics and other forms
-      of original artwork.
+  - content: Picture-referred image data can include image data that do not originate from an original scene, such as text, line art, vector graphics and other forms of original artwork.
     type: intensional
-  - content: This entry was numbered 17-566 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-566, 17-566}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -51,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-566
     type: authoritative
+  - id: cie-2011:17-566
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-566
   terms:
   - type: expression
     normative_status: preferred

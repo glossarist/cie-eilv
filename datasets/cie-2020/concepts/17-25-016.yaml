@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-016
   domains:
@@ -28,14 +27,13 @@ id: 3c37eeac-02c2-5c58-a6a0-f362eec48a20
 ---
 data:
   definition:
-  - content: colorimetry in which the eye is used to make quantitative comparisons
-      between colour stimuli
+  - content: colorimetry in which the eye is used to make quantitative comparisons between colour stimuli
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-05-12, 845-05-12}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1406 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1406, 17-1406}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-1406
     type: authoritative
-  - id: 845-05-12
+  - id: IEV:845-05-12
     origin:
       ref:
         source: IEV
         id: 845-05-12
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-12
     type: authoritative
+  - id: cie-2011:17-1406
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1406
   terms:
   - type: expression
     normative_status: preferred

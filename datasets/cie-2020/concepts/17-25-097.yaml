@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: The "x" in the synonym indicates that the azimuthal direction of the incident beam is in the stem:[x] direction on the reference plane.
     type: intensional
-  - content: This entry was numbered 17-470 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-470, 17-470}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-470
     type: authoritative
+  - id: cie-2011:17-470
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-470
   terms:
   - type: expression
     normative_status: preferred

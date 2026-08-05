@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-014
   domains:
@@ -21,18 +20,15 @@ id: fc8bab10-80f5-5fd5-88aa-203756fbdee9
 ---
 data:
   definition:
-  - content: communication of the associated data required for unambiguous interpretation
-      of colour content data, and application of colour data conversions as required
-      to produce the intended reproductions
+  - content: communication of the associated data required for unambiguous interpretation of colour content data, and application of colour data conversions as required to produce the intended reproductions
     type: intensional
   examples: []
   notes:
   - content: Colour content data can be colour managed.
     type: intensional
-  - content: Colour management takes into consideration the characteristics of input
-      and output devices in determining colour data conversions for these devices.
+  - content: Colour management takes into consideration the characteristics of input and output devices in determining colour data conversions for these devices.
     type: intensional
-  - content: This entry was numbered 17-218 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-218, 17-218}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -44,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-218
     type: authoritative
+  - id: cie-2011:17-218
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-218
   terms:
   - type: expression
     normative_status: preferred

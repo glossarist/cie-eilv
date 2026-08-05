@@ -31,7 +31,7 @@ data:
     type: intensional
   - content: The luminance dose is expressed in candela times second per square metre stem:[cd cdot s cdot m^(-2)].
     type: intensional
-  - content: This entry was numbered 17-716 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-716, 17-716}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -43,6 +43,12 @@ data:
         source: CIE S 017:2011
         id: 17-716
     type: authoritative
+  - id: cie-2011:17-716
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-716
   terms:
   - type: expression
     normative_status: preferred

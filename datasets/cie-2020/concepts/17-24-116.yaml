@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-24-116
   domains:
@@ -21,12 +20,11 @@ id: bc373961-cf88-5ce8-980e-bbade851d024
 ---
 data:
   definition:
-  - content: filter that alters the {{concept:cie-2020:17-21-030, relative spectral
-      distribution}} of the radiation
+  - content: filter that alters the {{concept:cie-2020:17-21-030, relative spectral distribution}} of the radiation
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1154 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1154, 17-1154}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1154
     type: authoritative
+  - id: cie-2011:17-1154
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1154
   terms:
   - type: expression
     normative_status: preferred

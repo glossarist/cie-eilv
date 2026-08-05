@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-029
   domains:
@@ -28,14 +27,13 @@ id: f60a41d6-4b64-5593-a295-f394d3283c6d
 ---
 data:
   definition:
-  - content: photometer for measuring luminous flux, generally using an integrating
-      sphere
+  - content: photometer for measuring luminous flux, generally using an integrating sphere
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-05-25, 845-05-25}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-590 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-590, 17-590}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-590
     type: authoritative
-  - id: 845-05-25
+  - id: IEV:845-05-25
     origin:
       ref:
         source: IEV
         id: 845-05-25
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-05-25
     type: authoritative
+  - id: cie-2011:17-590
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-590
   terms:
   - type: expression
     normative_status: preferred

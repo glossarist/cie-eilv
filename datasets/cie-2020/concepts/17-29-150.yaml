@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-150
   domains:
@@ -32,17 +31,13 @@ id: 4013f6e3-42d6-56bc-a2aa-e040e90aca8f
 ---
 data:
   definition:
-  - content: quotient of the light reflected by the surfaces of a room after a certain
-      {{cite:IEV:113-01-10, time interval}} and light reflected when the installation
-      is considered conventionally as new
+  - content: quotient of the light reflected by the surfaces of a room after a certain {{cite:IEV:113-01-10, time interval}} and light reflected when the installation is considered conventionally as new
     type: intensional
   examples: []
   notes:
   - content: The room surface maintenance factor has unit one.
     type: intensional
-  - content: The room surface maintenance factor is based on a simplified model for
-      the effects of the deterioration of room surface reflectance properties and
-      does not accurately account for room geometry and configuration.
+  - content: The room surface maintenance factor is based on a simplified model for the effects of the deterioration of room surface reflectance properties and does not accurately account for room geometry and configuration.
     type: intensional
   - content: This note applies to the French language only.
     type: intensional
@@ -56,7 +51,7 @@ data:
         source: CIE S 017:2011
         id: 17-1122 and 17-1125
     type: authoritative
-  - id: 113-01-10
+  - id: IEV:113-01-10
     origin:
       ref:
         source: IEV

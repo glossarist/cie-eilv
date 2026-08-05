@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-052
   domains:
@@ -21,27 +20,17 @@ id: b25f83d4-f2ea-56b5-b611-a685633850d7
 ---
 data:
   definition:
-  - content: image state associated with image data that represents the colour space
-      coordinates of the elements of an image that has undergone colour rendering
-      appropriate for a specified real or virtual output device and viewing conditions
+  - content: image state associated with image data that represents the colour space coordinates of the elements of an image that has undergone colour rendering appropriate for a specified real or virtual output device and viewing conditions
     type: intensional
   examples: []
   notes:
-  - content: When the phrase "output-referred" is used as a qualifier to an object,
-      it implies that the object is in an output-referred image state. For example,
-      output-referred image data are image data in an output-referred image state.
+  - content: When the phrase "output-referred" is used as a qualifier to an object, it implies that the object is in an output-referred image state. For example, output-referred image data are image data in an output-referred image state.
     type: intensional
-  - content: Output referred image data are referred to the specified output device
-      and viewing conditions. A single scene can be colour rendered to a variety of
-      output-referred representations depending on the anticipated output viewing
-      conditions, media limitations, and/or artistic intents.
+  - content: Output referred image data are referred to the specified output device and viewing conditions. A single scene can be colour rendered to a variety of output-referred representations depending on the anticipated output viewing conditions, media limitations, and/or artistic intents.
     type: intensional
-  - content: Output-referred image data can become the starting point for a subsequent
-      reproduction process. For example, sRGB output-referred image data are frequently
-      considered to be the starting point for the colour re-rendering performed by
-      a printer designed to receive sRGB image data.
+  - content: Output-referred image data can become the starting point for a subsequent reproduction process. For example, sRGB output-referred image data are frequently considered to be the starting point for the colour re-rendering performed by a printer designed to receive sRGB image data.
     type: intensional
-  - content: This entry was numbered 17-565 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-565, 17-565}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,6 +42,12 @@ data:
         source: CIE S 017:2011
         id: 17-565
     type: authoritative
+  - id: cie-2011:17-565
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-565
   terms:
   - type: expression
     normative_status: preferred

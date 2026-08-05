@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-26-043
   domains:
@@ -21,13 +20,11 @@ id: 2b7d8b8d-0b11-502c-b424-379f26b336d9
 ---
 data:
   definition:
-  - content: response of organisms to the length of night and day periods, and the
-      change in these periods with the natural progression of the seasons or the manipulation
-      of day length with artificial light
+  - content: response of organisms to the length of night and day periods, and the change in these periods with the natural progression of the seasons or the manipulation of day length with artificial light
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-937 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-937, 17-937}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-937
     type: authoritative
+  - id: cie-2011:17-937
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-937
   terms:
   - type: expression
     normative_status: preferred

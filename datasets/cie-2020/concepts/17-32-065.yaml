@@ -26,7 +26,7 @@ data:
   notes:
   - content: 'The sRGB colour space is defined in IEC 61966-2-1, _Multimedia systems and equipment stem:[-] Colour measurement and management stem:[-] Part 2-1: Colour management stem:[-] Default RGB colour space stem:[-] sRGB_.'
     type: intensional
-  - content: This entry was numbered 17-1254 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1254, 17-1254}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1254
     type: authoritative
+  - id: cie-2011:17-1254
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1254
   terms:
   - type: expression
     normative_status: preferred

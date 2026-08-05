@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-31-137
   domains:
@@ -21,12 +20,11 @@ id: c13d71bf-deac-5c53-998f-fefed1dfed2d
 ---
 data:
   definition:
-  - content: area bounded by the most distant signal or line on the roadside which
-      is illuminated by the {{concept:cie-2020:17-31-065, headlights}}
+  - content: area bounded by the most distant signal or line on the roadside which is illuminated by the {{concept:cie-2020:17-31-065, headlights}}
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1252 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1252, 17-1252}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -38,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1252
     type: authoritative
+  - id: cie-2011:17-1252
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1252
   terms:
   - type: expression
     normative_status: preferred

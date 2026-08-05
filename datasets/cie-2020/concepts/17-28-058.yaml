@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-28-058
   domains:
@@ -23,8 +22,7 @@ id: b0d79c24-6969-53f0-afff-09c0e2a5142f
 ---
 data:
   definition:
-  - content: unit for the electronic conversion of AC supply at one {{cite:IEV:103-06-02,
-      frequency}} to an AC supply at another frequency
+  - content: unit for the electronic conversion of AC supply at one {{cite:IEV:103-06-02, frequency}} to an AC supply at another frequency
     type: intensional
   examples: []
   notes: []
@@ -33,7 +31,7 @@ data:
       ref:
         source: CIE S 017:2020
     type: authoritative
-  - id: 103-06-02
+  - id: IEV:103-06-02
     origin:
       ref:
         source: IEV

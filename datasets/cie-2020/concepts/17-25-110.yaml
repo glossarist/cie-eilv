@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-25-110
   domains:
@@ -25,12 +24,9 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: For reflection measurements, the geometry is defined with respect to
-      the reference plane. For transmission measurements, there is a reference plane
-      for the incident light and a second reference plane, displaced by the sample
-      thickness, for the transmitted light.
+  - content: For reflection measurements, the geometry is defined with respect to the reference plane. For transmission measurements, there is a reference plane for the incident light and a second reference plane, displaced by the sample thickness, for the transmitted light.
     type: intensional
-  - content: This entry was numbered 17-1055 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1055, 17-1055}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -42,6 +38,12 @@ data:
         source: CIE S 017:2011
         id: 17-1055
     type: authoritative
+  - id: cie-2011:17-1055
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1055
   terms:
   - type: expression
     normative_status: preferred

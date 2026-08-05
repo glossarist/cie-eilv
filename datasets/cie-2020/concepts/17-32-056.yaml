@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-056
   domains:
@@ -21,13 +20,11 @@ id: be860a94-5878-51c4-b2a0-d41101ac3226
 ---
 data:
   definition:
-  - content: separation between lines of characters expressed in terms of the number
-      of inactive elements or the distance between centres of adjacent character elements
-      of consecutive character lines
+  - content: separation between lines of characters expressed in terms of the number of inactive elements or the distance between centres of adjacent character elements of consecutive character lines
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-682 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-682, 17-682}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-682
     type: authoritative
+  - id: cie-2011:17-682
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-682
   terms:
   - type: expression
     normative_status: preferred

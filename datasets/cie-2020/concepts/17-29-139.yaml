@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-29-139
   domains:
@@ -28,14 +27,13 @@ id: 26c6ac60-960b-5d78-bbde-65a910c6e864
 ---
 data:
   definition:
-  - content: area, glazed or unglazed, that is capable of admitting daylight to an
-      interior
+  - content: area, glazed or unglazed, that is capable of admitting daylight to an interior
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-09-102, 845-09-102}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-284 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-284, 17-284}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -52,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-284
     type: authoritative
-  - id: 845-09-102
+  - id: IEV:845-09-102
     origin:
       ref:
         source: IEV
         id: 845-09-102
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-09-102
     type: authoritative
+  - id: cie-2011:17-284
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-284
   terms:
   - type: expression
     normative_status: preferred

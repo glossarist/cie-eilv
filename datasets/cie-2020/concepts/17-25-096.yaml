@@ -28,7 +28,7 @@ data:
     type: intensional
   - content: Forty-five degree annular geometry is sometimes approximated by the use of a number of sources in a ring or a number of fibre bundles illuminated by a single source and terminated in a ring. Such an approximation to annular geometry is called "circumferential geometry", with notation "45stem:[deg]c".
     type: intensional
-  - content: This entry was numbered 17-469 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-469, 17-469}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -40,6 +40,12 @@ data:
         source: CIE S 017:2011
         id: 17-469
     type: authoritative
+  - id: cie-2011:17-469
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-469
   terms:
   - type: expression
     normative_status: preferred

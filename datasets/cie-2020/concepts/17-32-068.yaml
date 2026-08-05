@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-32-068
   domains:
@@ -21,13 +20,11 @@ id: fc62a5f8-634c-51b9-8f76-1a654c47c767
 ---
 data:
   definition:
-  - content: adjustment of electronic picture colour channel gains or image processing
-      so that the relative spectral power distribution equal to that of the scene
-      {{concept:cie-2020:17-32-058, adopted white}} is rendered as a visual neutral
+  - content: adjustment of electronic picture colour channel gains or image processing so that the relative spectral power distribution equal to that of the scene {{concept:cie-2020:17-32-058, adopted white}} is rendered as a visual neutral
     type: intensional
   examples: []
   notes:
-  - content: This entry was numbered 17-1429 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1429, 17-1429}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -39,6 +36,12 @@ data:
         source: CIE S 017:2011
         id: 17-1429
     type: authoritative
+  - id: cie-2011:17-1429
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1429
   terms:
   - type: expression
     normative_status: preferred

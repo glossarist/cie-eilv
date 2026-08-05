@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-018
   domains:
@@ -28,17 +27,15 @@ id: deb25ec5-7851-5162-825c-9c5d859f1804
 ---
 data:
   definition:
-  - content: passage of an electric current through gases and vapours by the production
-      and movements of charge carriers under the influence of an electric field
+  - content: passage of an electric current through gases and vapours by the production and movements of charge carriers under the influence of an electric field
     type: intensional
   examples: []
   notes:
-  - content: The electric discharge results in the emission of electromagnetic radiation
-      which plays an essential part in all its applications in lighting.
+  - content: The electric discharge results in the emission of electromagnetic radiation which plays an essential part in all its applications in lighting.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-07-11, 845-07-11}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-331 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-331, 17-331}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -55,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-331
     type: authoritative
-  - id: 845-07-11
+  - id: IEV:845-07-11
     origin:
       ref:
         source: IEV
         id: 845-07-11
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-11
     type: authoritative
+  - id: cie-2011:17-331
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-331
   terms:
   - type: expression
     normative_status: preferred

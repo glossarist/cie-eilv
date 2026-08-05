@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-23-034
   domains:
@@ -28,8 +27,7 @@ id: 6ac39413-3b03-5981-b55f-40a6155ad2d4
 ---
 data:
   definition:
-  - content: empirical law stating that colour stimuli that match in one set of adaptation
-      conditions continue to do so in any other set
+  - content: empirical law stating that colour stimuli that match in one set of adaptation conditions continue to do so in any other set
     type: intensional
   examples: []
   notes:
@@ -37,7 +35,7 @@ data:
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-03-18, 845-03-18}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-1422 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-1422, 17-1422}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -54,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-1422
     type: authoritative
-  - id: 845-03-18
+  - id: IEV:845-03-18
     origin:
       ref:
         source: IEV
         id: 845-03-18
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-03-18
     type: authoritative
+  - id: cie-2011:17-1422
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-1422
   terms:
   - type: expression
     normative_status: preferred

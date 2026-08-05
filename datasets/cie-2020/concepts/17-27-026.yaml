@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-27-026
   domains:
@@ -28,15 +27,13 @@ id: e41a5672-9da1-501a-80b5-d02e091c5724
 ---
 data:
   definition:
-  - content: discharge lamp in which the light is produced directly or indirectly
-      (by fluorescence) from the radiation of the {{concept:cie-2020:17-27-018, electric
-      discharge}} into a gas at low pressure, in the region in front of the cathode
+  - content: discharge lamp in which the light is produced directly or indirectly (by fluorescence) from the radiation of the {{concept:cie-2020:17-27-018, electric discharge}} into a gas at low pressure, in the region in front of the cathode
     type: intensional
   examples: []
   notes:
   - content: This entry was numbered {{cite:IEV:845-07-18, 845-07-18}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-807 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-807, 17-807}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -53,13 +50,19 @@ data:
         source: CIE S 017:2011
         id: 17-807
     type: authoritative
-  - id: 845-07-18
+  - id: IEV:845-07-18
     origin:
       ref:
         source: IEV
         id: 845-07-18
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-07-18
     type: authoritative
+  - id: cie-2011:17-807
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-807
   terms:
   - type: expression
     normative_status: preferred

@@ -1,4 +1,3 @@
----
 data:
   identifier: 17-22-012
   domains:
@@ -28,18 +27,15 @@ id: f59cbf7b-08a1-5950-8df1-6c398d3986a9
 ---
 data:
   definition:
-  - content: process by which the state of the visual system is modified by previous
-      and present exposure to stimuli that can have various luminance values, spectral
-      distributions and angular subtenses
+  - content: process by which the state of the visual system is modified by previous and present exposure to stimuli that can have various luminance values, spectral distributions and angular subtenses
     type: intensional
   examples: []
   notes:
-  - content: Adaptation to specific spatial frequencies, orientations, sizes, etc.
-      is recognized as being included in this definition.
+  - content: Adaptation to specific spatial frequencies, orientations, sizes, etc. is recognized as being included in this definition.
     type: intensional
   - content: This entry was numbered {{cite:IEV:845-02-07, 845-02-07}} in IEC 60050-845:1987.
     type: intensional
-  - content: This entry was numbered 17-18 in CIE S 017:2011.
+  - content: This entry was numbered {{cite:cie-2011:17-18, 17-18}} in CIE S 017:2011.
     type: intensional
   sources:
   - origin:
@@ -56,13 +52,19 @@ data:
         source: CIE S 017:2011
         id: 17-18
     type: authoritative
-  - id: 845-02-07
+  - id: IEV:845-02-07
     origin:
       ref:
         source: IEV
         id: 845-02-07
       link: https://www.electropedia.org/iev/iev.nsf/display?openform&ievref=845-02-07
     type: authoritative
+  - id: cie-2011:17-18
+    type: authoritative
+    origin:
+      ref:
+        source: CIE S 017:2011
+        id: 17-18
   terms:
   - type: expression
     normative_status: preferred
