@@ -21,7 +21,7 @@ id: e8ccedc0-1a44-50a5-aef8-db17d4216a0f
 ---
 data:
   definition:
-  - content: luminance {{17-251, contrast}} of a visibility reference task having
+  - content: luminance {{concept:cie-2011:17-251, contrast}} of a visibility reference task having
       equal visibility at the same luminance level as that of the task considered
     type: intensional
   examples: []

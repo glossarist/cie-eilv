@@ -26,7 +26,7 @@ data:
   notes:
   - content: 'This definition implies that an action spectrum is adopted for the actinic effect considered, and that its maximum value is 1. When giving a quantitative amount, it is essential to specify according to which actinic action spectrum the integrated radiance is meant, as the unit is the same.
 
-      See also "{{17-1014, radiance dose (in a given direction, at a given point of a real or imaginary surface)}}"'
+      See also "{{concept:cie-2011:17-1014, radiance dose (in a given direction, at a given point of a real or imaginary surface)}}"'
     type: intensional
   sources:
   - origin:

@@ -26,8 +26,8 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The defined deviations can be applied to the {{17-149, CIE 1931 standard
-      colorimetric observer}} or the {{17-151, CIE 1964 standard colorimetric observer}}.
+  - content: The defined deviations can be applied to the {{concept:cie-2011:17-149, CIE 1931 standard
+      colorimetric observer}} or the {{concept:cie-2011:17-151, CIE 1964 standard colorimetric observer}}.
     type: intensional
   - content: |-
       The use of the standard deviate observer is intended to generate differences that are typical of those that occur when colour matches are made by different real observers whose colour vision is classified as normal.

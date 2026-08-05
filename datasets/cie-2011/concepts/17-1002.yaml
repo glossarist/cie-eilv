@@ -30,8 +30,8 @@ data:
   - content: In the case of purple stimuli, the monochromatic stimulus is replaced
       by a stimulus whose chromaticity is represented by a point on the purple boundary.
     type: intensional
-  - content: The proportions can be measured in various ways (see "{{17-195, colorimetric
-      purity}}" and "{{17-408, excitation purity}}").
+  - content: The proportions can be measured in various ways (see "{{concept:cie-2011:17-195, colorimetric
+      purity}}" and "{{concept:cie-2011:17-408, excitation purity}}").
     type: intensional
   sources:
   - origin:

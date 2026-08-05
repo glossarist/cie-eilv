@@ -24,7 +24,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: The headlights as defined in "{{17-527, headlight, main-beam}}" and "headlight, dipped-beam" can be provided by a single lighting device.
+  - content: The headlights as defined in "{{concept:cie-2011:17-527, headlight, main-beam}}" and "headlight, dipped-beam" can be provided by a single lighting device.
     type: intensional
   sources:
   - origin:

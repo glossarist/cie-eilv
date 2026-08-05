@@ -26,7 +26,7 @@ data:
   notes:
   - content: 'This is a subjective measure based on the reddening of the skin; it depends on many variables, e.g. individual sensitivity to UVR, radiometric characteristics of the source, skin pigmentation, anatomic site, elapsed time between irradiation and observing the reddening (typical value: 24 h), etc. Since it varies with each individual, it should be reserved solely for observational studies in humans and other animals.
 
-      See also "{{17-1255, standard erythema dose}}"
+      See also "{{concept:cie-2011:17-1255, standard erythema dose}}"
 
       Abbreviation: "MED"'
     type: intensional

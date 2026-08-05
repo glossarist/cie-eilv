@@ -20,7 +20,7 @@ id: e9e3544a-d0c2-535d-ab13-d11e14f4332e
 ---
 data:
   definition:
-  - content: 'approximate form of {{17-958, Planck''s law}}, valid with an approximation better than one part in 1 000 when the product stem:[L_(e,lambda)(lambda,T) = c_1/pi lambda^(-5) e^(c_2/(lambda T))]stem:[c_1 = 2pi h c_0^2] stem:[smaller] stem:[than] 0,002 stem:[m cdot K]stem:[L_{(e , lambda)} ( lambda , T ) = ((c_1))/(pi) lambda^{- 5} e^{((c_2))/((lambda T))}]
+  - content: 'approximate form of {{concept:cie-2011:17-958, Planck''s law}}, valid with an approximation better than one part in 1 000 when the product stem:[L_(e,lambda)(lambda,T) = c_1/pi lambda^(-5) e^(c_2/(lambda T))]stem:[c_1 = 2pi h c_0^2] stem:[smaller] stem:[than] 0,002 stem:[m cdot K]stem:[L_{(e , lambda)} ( lambda , T ) = ((c_1))/(pi) lambda^{- 5} e^{((c_2))/((lambda T))}]
 
 
       where stem:[L_{e,lambda}] is spectral radiance, stem:[lambda] is the wavelength in vacuum, stem:[T] is thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c_0] is the speed of light in vacuum, and stem:[k] is the Boltzmann constant'

@@ -38,7 +38,7 @@ data:
 
       where the exponent, stem:[delta], in stem:[Tdelta] is the numerical value of stem:[d] measured with stem:[d_0] as "unit".'
     type: intensional
-  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[C_d = C_0(0.05^(d//v))], and {{17-772, meteorological optical range}}, stem:[v], given in Note 2 to entry of "meteorological optical range", Koschmieder''s law can be also written as
+  - content: 'Taking into account the relationship between atmospheric transmissivity, stem:[C_d = C_0(0.05^(d//v))], and {{concept:cie-2011:17-772, meteorological optical range}}, stem:[v], given in Note 2 to entry of "meteorological optical range", Koschmieder''s law can be also written as
 
 
       stem:[C_d = C_0 ( 0,05^{d // v} )]'

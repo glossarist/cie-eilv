@@ -21,7 +21,7 @@ id: e0055282-4713-5f56-866b-52dd1b160874
 ---
 data:
   definition:
-  - content: selective {{17-434, filter}} that makes a significant change in the chromaticity
+  - content: selective {{concept:cie-2011:17-434, filter}} that makes a significant change in the chromaticity
       of the radiation
     type: intensional
   examples: []

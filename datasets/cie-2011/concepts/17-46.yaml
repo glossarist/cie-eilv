@@ -40,7 +40,7 @@ data:
     designation: aperture stop
   - type: expression
     normative_status: admitted
-    designation: '{{17-49, aperture stop}}'
+    designation: '{{concept:cie-2011:17-49, aperture stop}}'
   language_code: eng
   annotations: []
 termid: 17-46

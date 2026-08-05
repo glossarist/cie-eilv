@@ -42,7 +42,7 @@ data:
     designation: spectral weighting function
   - type: expression
     normative_status: admitted
-    designation: '{{17-1232, spectral weighting function}}'
+    designation: '{{concept:cie-2011:17-1232, spectral weighting function}}'
   language_code: eng
   annotations: []
 termid: 17-17

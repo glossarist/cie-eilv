@@ -27,7 +27,7 @@ data:
     type: intensional
   examples: []
   notes:
-  - content: In the case of purple stimuli, see NOTE 1 to "{{17-1002, purity (of a colour stimulus)}}".
+  - content: In the case of purple stimuli, see NOTE 1 to "{{concept:cie-2011:17-1002, purity (of a colour stimulus)}}".
     type: intensional
   - content: In the CIE 1931 standard colorimetric system, colorimetric purity, stem:[p_c], is related to excitation purity, stem:[p_e], by the equation stem:[p_c]=stem:[p_e]stem:[y_d]/stem:[y] where stem:[y_d], and stem:[y] are the stem:[y] chromaticity coordinates respectively, of the monochromatic stimulus and the colour stimulus considered.
     type: intensional
